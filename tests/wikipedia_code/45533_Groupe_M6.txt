@@ -1,0 +1,726 @@
+{{Voir homonymes|M6 (homonymie)}}
+{{Infobox Société
+ | couleur boîte             = 9eadc7
+ | titre blanc               = 
+ | nom                       = {{blanc|Groupe M6}}
+ | logo                      = Groupe M6 Logo.png
+ | taille logo               = 200
+ | légende logo              = <!-- légende du logo -->
+ | slogan                    = 
+ | forme juridique           = [[Société anonyme]] à [[Directoire (entreprise)|directoire]] et [[conseil de surveillance]]
+ | action                    = {{Euronext|MMT}}
+ | date de création          = 
+ | date de disparition       = <!-- Wikidata : P576 -->
+ | dates-clés                = {{date|23 février 1987}} : Projet de Métropole Télévision retenu <br> {{date|1 mars 1987}} : Lancement de [[M6]] <br>
+
+{{date|28 septembre 1994}} : Entrée à la [[Bourse de Paris]] 
+
+{{date|Mai 2017}} : Rachat du pôle RTL France
+
+2019 : Le [[groupe Lagardère]] vend au groupe M6 son pôle télévision (Gulli, Canal J, Tiji, MCM, RFM TV)
+
+2023 :  [[CMA-CGM]] acquiert 10,2% du capital  <ref> https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/larmateur-cma-cgm-detient-1025-du-capital-de-m6-1932402</ref>
+ | fondateur                 = [[RTL Group|Compagnie luxembourgeoise de télédiffusion]] (CLT) <br> [[Lyonnaise des eaux]]
+ | personnages-clés          = <!-- personnages historiques seulement -->
+ | drapeau                   = <!-- placer à non pour ne pas afficher le drapeau devant la ville -->
+ | siège (ville)             = Neuilly-sur-Seine
+ | siège (pays)              = France
+ | direction actuelle        = [[Nicolas de Tavernost]] <small>(président)</small>
+ | secteurs d'activités      = [[Télévision]]
+
+[[station de radio|Radio]]
+
+[[Production audiovisuelle]]
+
+[[Publicité]]
+
+[[Spectacle vivant|spectacle]]
+
+[[Presse écrite|Presse]]
+ | produits                  = 
+ | société mère              = <!-- Wikidata : P749 -->
+ | société sœur              = 
+ | filiales                  = '''Télévision :''' [[M6]], [[W9]], [[6ter]] et [[Gulli]]
+
+'''Télévision payante :'''  [[Paris Première]], [[Téva]], [[M6 Music]], [[Tiji]], [[Canal J]], [[RFM TV]], [[MCM (chaîne de télévision)|MCM]] et [[MCM Top]]
+
+'''Stations radios :''' [[RTL]], [[RTL2]] et [[Fun Radio]]
+ | actionnaires              = [[RTL Group]] (48,26 %)
+
+[[CMA CGM Médias|CMA CGM]] (10,25 %)
+
+Silchester International Investors LLP (7,71%)
+
+DNCA Finance SA (3,17%)
+ | sociétaires               = 
+ | effectif                  = 1816 salariés (2022)
+ | nom identifiant           = 
+ | identifiant               = 
+ | SIREN                     = 339 012 452
+ | chiffre d'affaires        = 1,35 milliard d'euros (2022)
+ | évolution du CA           = 
+ | résultat net              = 162 millions d'euros (2022)
+ | évolution du résultat net = 
+ | fonds propres             = 
+ | dette                     = 
+ | capitalisation boursière  = 
+ | site web                  = [http://www.groupem6.fr/ groupem6.fr]
+}}
+
+Le '''groupe M6''' ou '''M6''' '''Métropole Télévision''' est un [[Groupe d'entreprises|groupe]] de [[média]]s [[France|français]] construit autour de la [[chaîne de télévision]] [[M6]] lancée le {{date|1 mars 1987}}.
+
+Actif dans l'[[audiovisuel]], il possède 4 [[Chaîne de télévision|chaînes de télévision]] gratuites ([[M6]], [[W9]], [[6ter]] et [[Gulli]]), 8 chaines payantes ([[Paris Première]], [[Téva]], [[M6 Music]], [[TiJi|Tiji]], [[Canal J]], [[RFM TV]], [[MCM (chaîne de télévision)|MCM]] et [[MCM Top]])  et 3 stations radios ([[RTL]], [[RTL2]] et [[Fun Radio]]).
+
+Il est également présent sur [[Internet]] avec des [[Site web|sites web]] de service, des vidéos en ligne et des sociétés d'[[informatique]]. Le groupe s'est aussi diversifié dans l'[[Édition (activité)|édition]], la production de [[musique]] et de [[Spectacle vivant|spectacles]], la [[vente à distance]] ainsi que le [[sport]] de 1999 à 2018 avec le [[Football Club des Girondins de Bordeaux]]. Le groupe M6 tire cependant près de 80 % de son chiffre d'affaires de la télévision, qui reste son cœur d'activité.
+
+En mai 2021, dans le cadre de la consolidation du secteur des médias, le groupe [[Bouygues]] et [[Bertelsmann]] déclarent entrer en négociations exclusives en vue d'une fusion du groupe M6 avec le [[groupe TF1]]<ref name="+1">{{Lien web |langue=fr |titre=TF1 fusionne avec le groupe M6 |url=https://www.lefigaro.fr/medias/tf1-rachete-le-groupe-m6-20210517 |site=LEFIGARO |consulté le=2021-05-17}}</ref>. Le groupe annonce le {{date-|16 septembre 2022}} via un communiqué de presse<ref>{{Lien web |titre=ABANDON DU PROJET DE FUSION DES GROUPES TF1 ET M6 |url=https://groupe-tf1.fr/sites/default/files/communiques/communique_de_presse_-_groupe_tf1_abandon_du_projet_de_fusion_des_groupes_tf1_et_m6.pdf |format=pdf |site=[[Groupe TF1|groupe-tf1.fr]]}}</ref> l'abandon du projet de fusion des deux groupes. Le 3 octobre 2022, il est finalement annoncé l'abandon de la cession de M6.
+
+Le principal actionnaire du groupe (48,26 %) est [[RTL Group]], une filiale du géant allemand [[Bertelsmann]] contrôlé par [[Famille Mohn|la famille Mohn]]. Le groupe [[CMA CGM|CMA-CGM]] détient 10,25 % du capital.
+
+Le siège de M6 se trouve à [[Neuilly-sur-Seine]].
+
+== Histoire du groupe ==
+=== La difficile création de M6 (1985-1987) ===
+{{Article connexe|M6#Histoire de la chaîne{{!}}Histoire de la chaîne M6}}
+Dans les [[années 1980]], la [[RTL Group|Compagnie luxembourgeoise de télédiffusion]], déjà présente en [[France]] avec la radio [[RTL]] et plus partiellement avec la chaîne [[Télé Luxembourg]]/[[RTL Télévision]], cherche à implanter une nouvelle [[chaîne de télévision]] dans le [[paysage audiovisuel français]]. Elle prévoit d'émettre cette chaîne sur son futur [[satellite de télécommunications]], LuxSat, mais l'État français veut également lancer son propre satellite, [[TDF 1 et 2|{{nobr|TDF 1}}]]. La CLT renonce donc à son projet de satellite en échange de la promesse de deux canaux sur {{nobr|TDF 1}}. Le {{date-|31 juillet 1985}}, le secrétaire d'État à la Communication [[Georges Fillioud]] annonce la création de deux nouveaux réseaux hertziens dont l'exploitation sera confiée à deux chaînes privées, l'une généraliste et l'autre musicale. La CLT abandonne ses prétentions sur le satellite et prépare la chaîne « {{nobr|RTL 5}} » pour le cinquième réseau, mais c'est {{nobr|[[La Cinq]]}} de [[Jérôme Seydoux]] et [[Silvio Berlusconi]] qui est choisie. Elle se rabat précipitamment sur le sixième réseau avec « {{nobr|RTL 6}} » mais c'est [[TV6 (France)|TV6]] menée par le tandem [[Publicis Groupe|Publicis]]-[[NRJ Group|NRJ]] qui est retenue<ref name="PellerinViot2012">{{Ouvrage |langue=fr |auteur1=Marc Pellerin |auteur2=François Viot |titre=M6 Story |sous-titre=la saga de la chaîne en trop |lieu=Paris |éditeur=[[Groupe Flammarion|Flammarion]] |collection=Flammarion enquête |année=2012 |pages totales=632 |isbn=978-2-08-125107-6 |bnf=42618438q |lire en ligne=https://books.google.fr/books?id=mrhGUcBPsGwC&pg=PP1}}.</ref>.
+
+À la suite des [[Élections législatives françaises de 1986|élections législatives de mars 1986]], la droite revient au pouvoir et [[Jacques Chirac]] devient [[Premier ministre français|Premier ministre]]. Dès l'été, il annule les concessions accordées à {{nobr|La Cinq}} et TV6. La CLT cherche de nouveau à obtenir le cinquième réseau, mais c'est peine perdue, car il a déjà été promis à [[Robert Hersant]] associé aux anciens propriétaires de {{nobr|La Cinq}} pour relancer la chaîne. Pendant ce temps, la [[Lyonnaise des eaux]] cherche également à lancer une chaîne de télévision et met sur pied le projet Métropole Télévision avec sa maison mère la [[Suez (entreprise, 1858-2008)|Compagnie financière de Suez]], le groupe [[MK2]] et plusieurs [[Éditeur de presse|éditeurs de presse]]. La Lyonnaise se met ensuite à la recherche d'un groupe audiovisuel pouvant lui apporter son expérience. Après les échecs successifs d'accords avec [[Vidéotron]], NRJ et Publicis, elle se résout à s'associer à la Compagnie luxembourgeoise de télédiffusion pour décrocher le sixième réseau. Un accord est passé lors d'un dîner au [[Hôtel Le Bristol Paris|Bristol]] le {{date-|25 janvier 1987}}<ref name="PellerinViot2012"/>.
+
+Le {{date-|23 février 1987}}, la [[Commission nationale de la communication et des libertés]] (CNCL) retient le projet Métropole Télévision pour le sixième réseau grâce à l'intervention de Jacques Chirac entre les deux votes. Mais les membres de la CNCL ne voulant pas du nom « {{nobr|RTL 6}} », jugé trop proche de RTL, la chaîne est rebaptisée M6, pour {{nobr|Métropole 6}}, après seulement une nuit de réflexion. De plus, la chaîne étant musicale, elle doit consacrer 30 % de son antenne à la [[musique]]. [[Jean Drucker]] en devient le [[Président-directeur général|PDG]] et [[Nicolas de Tavernost]] et [[Jean Stock]] les directeurs adjoints. Le siège social est installé au [[Cours Albert-Ier|cours Albert-{{Ier}}]], dans le [[8e arrondissement de Paris|{{8e}} arrondissement]] de [[Paris]], alors que le studio est situé au 22 [[Rue Bayard (Paris)|rue Bayard]], siège de RTL, d'où part également le signal d'antenne. M6 est officiellement lancée le {{date-|1 mars 1987}} à {{heure|11|15}}. Elle jouera systématiquement la contre-programmation face aux grandes chaînes [[TF1]] et [[Antenne 2]], ce qui s'avèrera payant en termes d'audiences {{incise|surtout après la disparition de [[La Cinq]] en 1992}} et lui donnera dans les [[années 1990]] le surnom de « la petite chaîne qui monte »<ref name="PellerinViot2012"/>{{,}}<ref>{{Lien web |auteur1=Raphaël Garrigos |auteur2=Isabelle Roberts |titre=M6, 20 ans, à voir et à manger |url=http://www.liberation.fr/medias/2007/03/06/m6-20-ans-a-voir-et-a-manger_86710 |site=[[Libération (journal)|Libération]] |date=6 mars 2007 |consulté le=14 avril 2017}}.</ref>{{,}}<ref>{{Lien web |auteur=Camille Romano |titre=30 ans de M6 : itinéraire d'un enfant cathodique |url=http://www.leparisien.fr/culture-loisirs/tv/30-ans-de-m6-itineraire-d-un-enfant-cathodique-23-02-2017-6705477.php |site=[[Le Parisien]] |date=1 mars 2017 |consulté le=14 avril 2017}}.</ref>.
+
+=== Une politique de diversification (1988-2004) ===
+En 1990, M6 crée deux sociétés de [[production audiovisuelle]] : {{nobr|Métropole Production}} pour la télévision et {{nobr|M6 Films}} pour le cinéma. En {{date-|octobre 1992}}, le groupe diversifie son activité en créant {{nobr|M6 Interactions}} qui commercialise les [[Produit dérivé (marketing)|produits dérivés]] de la chaîne<ref name="DatesClés">{{Lien web |titre=Les activités du groupe - Les dates clés de l'histoire du Groupe |url=http://www.groupem6.fr/activites/les-activites-du-groupe/ |format=vidéo |site=groupem6.fr|consulté le=15 avril 2017}}.</ref>{{,}}<ref name="DDR2015">{{Lien web |titre=Document de référence 2015 |url=http://www.groupem6.fr/content/uploads/2017/01/475812.pdf |format=pdf |site=groupe M6 |date=2016 |consulté le=15 avril 2017}}.</ref>{{,}}<ref name="Libé10ans">{{Lien web |titre=M6 pas à pas |url=http://www.liberation.fr/medias/1997/03/01/m6-pas-a-pas_198416 |site=Libération |date=1 mars 1997 |consulté le=15 avril 2017}}.</ref>. Après sa première année bénéficiaire en 1992, M6 lance sur le [[Télévision par câble|câble]] le {{date-|8 mars 1993}} sa première chaîne thématique payante, {{nobr|[[Série Club]]}}, consacrée aux [[Série télévisée|séries télévisées]]<ref name="DatesClés"/>{{,}}<ref>{{Lien web |auteur=Nicole Vulser |titre=M6 se diversifie |url=https://www.lesechos.fr/01/03/1993/LesEchos/16339-104-ECH_m6-se-diversifie.htm |site=[[Les Échos]] |date=1 mars 1993 |consulté le=15 avril 2017}}.</ref>. En {{date-|février 1994}}, le groupe prend une participation d'environ 10 % dans le capital de {{nobr|[[Fun Radio]]}} et crée {{nobr|M6 Droits audiovisuels}} qui commercialise les productions de la chaîne<ref name="Libé10ans"/>.
+
+M6 fait son entrée sur le [[Second Marché de la Bourse de Paris|Second Marché]] de la [[Bourse de Paris]] le {{date-|28 septembre 1994}}. Sa [[capitalisation boursière]] de {{unité|3.4|milliards}} de [[Franc français|francs]] est alors détenue à 36,64 % par la [[Lyonnaise des eaux]], à 35,23 % par la [[RTL Group|Compagnie luxembourgeoise de télédiffusion]], à 10 % par le public et le reste est partagé entre des [[Société financière|sociétés financières]] ([[Paribas]], [[Union des assurances de Paris]], [[Groupe Bruxelles Lambert]], [[Crédit agricole]], [[Suez (entreprise, 1858-2008)|Suez]]) et des [[Éditeur de presse|éditeurs de presse]] ([[Groupe Amaury]], ''[[Sud Ouest]]'', ''[[Ouest-France]]'')<ref name="Echos200994">{{Lien web |auteur=Nicole Vulser |titre=M6 introduit en Bourse à 260 francs l'action |url=https://www.lesechos.fr/20/09/1994/LesEchos/16733-100-ECH_m6-introduit-en-bourse-a-260-francs-l-action.htm |site=Les Échos |date=20 septembre 1994 |consulté le=15 avril 2017}}.</ref>.
+
+En {{date-|octobre 1995}}, le groupe lance {{nobr|M6 Ciné Vidéo}}, une revue de cinéma comprenant un film<ref name="Libé10ans"/>. En {{date-|janvier 1996}}, il prend une participation de 10 % dans la chaîne payante {{nobr|[[Paris Première]]}}, majoritairement détenue par la Lyonnaise des eaux<ref>{{Lien web |auteur=Nicole Vulser |titre=M6 va prendre 10 % de la chaîne Paris Première |url=https://www.lesechos.fr/09/01/1996/LesEchos/17060-083-ECH_m6-va-prendre-10---de-la-chaine-paris-premiere.htm |site=Les Échos |date=9 janvier 1996 |consulté le=15 avril 2017}}.</ref>. En septembre, il devient l'actionnaire majoritaire de la société de [[vente à distance]] [[Home Shopping Service]], réalisatrice des émissions de [[télé-achat]] de M6 et {{nobr|Paris Première}}<ref>{{Lien web |titre=M6 majoritaire dans Home Shopping Service |url=http://www.liberation.fr/medias/1996/09/10/m6-majoritaire-dans-home-shopping-service_183162 |site=Libération |date=10 septembre 1996 |consulté le=15 avril 2017}}.</ref>. Le {{date-|6 octobre 1996}}, les groupes M6, [[Hachette Filipacchi Médias|Hachette Filipacchi]] et [[Groupe Marie Claire|Marie Claire]] lancent sur le câble [[Téva]], une chaîne thématique destinée aux femmes<ref name="Libé10ans"/>{{,}}<ref>{{Lien web |titre=Téva, la télé au féminin selon M6 |url=http://www.liberation.fr/medias/1996/06/12/teva-la-tele-au-feminin-selon-m6_174710 |site=Libération |date=12 juin 1996 |consulté le=15 avril 2017}}.</ref>. Le {{date-|16 décembre 1996}}, le bouquet satellite [[TPS (entreprise)|TPS]] est lancé pour concurrencer [[Canal (opérateur de télévision)|Canalsatellite]] de [[Canal+]]. Le {{nobr|groupe M6}} en est l'un des quatre actionnaires à parité avec le {{nobr|[[groupe TF1]]}}, [[France Télévisions]] et la [[Lyonnaise des eaux]]<ref>{{Lien web |titre=Chronologie de la politique audiovisuelle |url=http://www.vie-publique.fr/politiques-publiques/politique-audiovisuel/chronologie/ |site=[[Vie-publique.fr]] |consulté le=15 avril 2017}}.</ref>. Cette même année, le [[site web]] m6.fr est lancé<ref name="DDR2015"/> et une nouvelle société de production de télévision dénommée {{nobr|[[C. Productions]]}} est créée<ref name="DatesClés"/>. Le {{date-|22 février 1997}}, le groupe lance avec {{nobr|[[Fun Radio]]}} {{incise|dont il est actionnaire à 12,6 %}} la chaîne musicale {{nobr|[[Fun TV]]}} sur le bouquet TPS<ref name="Libé10ans"/>{{,}}<ref>{{Lien web |titre=M6 prend 50 % de Fun TV aux côtés de Fun Radio |url=https://www.lesechos.fr/14/01/1997/LesEchos/17313-073-ECH_m6-prend-50---de-fun-tv-aux-cotes-de-fun-radio.htm |site=Les Échos |date=14 janvier 1997 |consulté le=15 avril 2017}}.</ref>.
+
+En 1997, le groupe M6 rassemble ses activités dispersées dans Paris dans son nouveau siège situé au 89 [[Avenue Charles-de-Gaulle (Neuilly-sur-Seine)|avenue Charles-de-Gaulle]] à [[Neuilly-sur-Seine]]. Le bâtiment, acquis en {{date-|janvier 1995}} pour une rénovation complète, comprend {{unité|11000|m|2}} de bureaux, de régies et de studios d'enregistrement répartis sur dix étages et six sous-sols<ref name="DatesClés"/>{{,}}<ref name="Echos300596">{{Lien web |auteur=Catherine Sabbah |titre=M6, la petite chaîne qui déménage |url=https://www.lesechos.fr/30/05/1996/LesEchos/17157-116-ECH_m6--la-petite-chaine-qui-demenage.htm |site=Les Échos|date=30 mai 1996 |consulté le=15 avril 2017}}.</ref>{{,}}<ref name="M6Sogelym">{{Lien web |titre=Siège de M6 |url=http://www.sogelym-dixence.fr/fr/realisation/siege-de-m6-neuilly-sur-seine |site=sogelym-dixence.fr |consulté le=15 avril 2017}}.</ref>. Deux chaînes thématiques sont lancées sur le bouquet TPS : [[M6 Music]] le {{date-|5 mars 1998}}<ref>{{Lien web |titre=M6 Music fait ses débuts sur TPS |url=http://www.liberation.fr/medias/1998/03/06/m6-music-fait-ses-debuts-sur-tps_232375 |site=Libération |date=6 mars 1998 |consulté le=15 avril 2017}}.</ref> et [[M6 Boutique (chaîne de télévision)|Club Téléachat]] (future {{nobr|M6 Boutique}}) le {{date-|19 mai}}<ref>{{Lien web |titre=M6 lance sa chaîne de téléachat sur TPS |url=https://www.lesechos.fr/28/04/1998/LesEchos/17636-058-ECH_m6-lance-sa-chaine-de-teleachat-sur-tps.htm |site=Les Échos |date=28 avril 1998 |consulté le=15 avril 2017}}.</ref>. Après l'échec de sa contre-programmation « 0 % football » lors de la [[Coupe du monde de football de 1998]], M6 décide changer de stratégie. S'inspirant du rachat du [[Paris Saint-Germain Football Club|PSG]] par [[Canal+]] en 1991, le groupe acquiert les [[Football Club des Girondins de Bordeaux|Girondins de Bordeaux]] en {{date-|avril 1999}} pour un montant de {{unité|12|millions}} d'euros avec une participation de son actionnaire la [[RTL Group|CLT-UFA]] dans un premier temps<ref>{{Lien web |auteur=Pierre-Yves Crochet |titre=Girondins de Bordeaux : il y a 15 ans, M6 devenait propriétaire |url=http://www.sudouest.fr/2014/04/26/girondins-de-bordeaux-il-y-a-15-ans-m6-devenait-proprietaire-1533899-4558.php |site=[[Sud Ouest]] |date=25 avril 2014 |consulté le=15 avril 2017}}.</ref>. Cette même année, la société de production de télévision [[Studio 89 Productions]] est créée<ref>{{Lien web |titre=Studio 89 Productions |url=http://www.societe.com/societe/studio-89-productions-428895122.html |site=[[Societe.com]] |consulté le=15 avril 2017}}.</ref>.
+
+En 2000, les groupes TF1 et M6 rapprochent leurs projets concurrents de chaînes TFX et M6 Famille pour lancer sur le câble et le satellite la chaîne familiale [[TF6]] le {{date-|18 décembre 2000}}. Ils détiennent à parité une société commune gérant TF6 ainsi que {{nobr|[[Série Club]]}}, jusqu'alors détenue seulement par M6<ref>{{Lien web |titre=TF1 + TFX + M6 + W9 = TF6 |url=http://tempsreel.nouvelobs.com/economie/20000925.OBS7639/tf1-tfx-m6-w9-tf6.html|site=tempsreel.nouvelobs.com|date=25 septembre 2000 |consulté le=15 avril 2017}}.</ref>. Cette même année, le {{nobr|groupe M6}} lance son propre [[fournisseur d'accès à Internet]] sous le nom [[M6net]]<ref>{{Lien web |auteur=Jérôme Bouteiller |titre=M6 prend le virage de l'internet avec M6net.fr |url=http://www.clubic.com/actualite-40139-.html |site=[[Clubic]] |date=30 mars 2000 |consulté le=15 avril 2017}}.</ref>. En {{date-|juillet 2001}}, il rachète le [[Distribution de films|distributeur de films]] SND ([[Société nouvelle de distribution]]) à son actionnaire [[RTL Group]]<ref>{{Lien web |titre=M6 vient de racheter le distributeur de films SND |url=http://www.telesatellite.com/actu/1974-m6-vient-de-racheter-le-distributeur-de-films-snd-societe-nouvelle.html |site=telesatellite.com |date=19 juillet 2001 |consulté le=16 avril 2017}}.</ref>. En {{date-|mai 2003}}, il crée la société d'[[Image animée|animation]] {{nobr|[[M6 Studio]]}}<ref>{{Lien web |titre=M6 se lance dans la production cinéma |url=http://www.commeaucinema.com/tournage/m6-se-lance-dans-la-production-cinema,14458 |site=commeaucinema.com |date=20 mai 2003 |consulté le=16 avril 2017}}.</ref>. En {{date-|janvier 2004}}, le {{nobr|groupe M6}} rachète la totalité de la chaîne payante {{nobr|[[Paris Première]]}} dont elle était actionnaire minoritaire depuis 1996<ref>{{Lien web |titre=M6 rachète la chaîne Paris Première |url=http://tempsreel.nouvelobs.com/culture/20040114.OBS2512/m6-rachete-la-chaine-paris-premiere.html |site=tempsreel.nouvelobs.com|date=21 janvier 2004 |consulté le=16 avril 2017}}.</ref>. En février de la même année, [[Suez (entreprise, 1858-2008)|Suez]] réduit sa participation dans le {{nobr|groupe M6}} à seulement 5 %<ref name="OBS3593">{{Lien web |titre=Suez sort du capital de M6 |url=http://tempsreel.nouvelobs.com/economie/20040203.OBS3593/suez-sort-du-capital-de-m6.html |site=tempsreel.nouvelobs.com|date=9 février 2004 |consulté le=16 avril 2017}}.</ref> avant de solder totalement sa participation en {{date-|juillet 2006}}, faisant de {{nobr|[[RTL Group]]}} l'actionnaire principal<ref name="Echos50706">{{Lien web |titre=Albert Frère rachète à Suez ses 5 % de M6... |url=https://www.lesechos.fr/05/07/2006/LesEchos/19702-127-ECH_albert-frere-rachete-a-suez-ses-5---de-m6---.htm |site=Les Échos |date=5 juillet 2006 |consulté le=16 avril 2017}}.</ref>. En {{date-|janvier 2004}}, le groupe met fin à ses activités de fournisseur d'accès à internet en fermant [[M6net]]<ref>{{Lien web |titre=M6net cesse ses activités de FAI |url=http://www.01net.com/astuces/m6net-cesse-ses-activites-de-fai-222843.html |site=[[01net (site web)|01net]] |date=13 novembre 2003 |consulté le=16 avril 2017}}.</ref>.
+
+=== Développement sur la TNT et la toile (depuis 2005) ===
+Au lancement de la [[Télévision numérique terrestre en France|télévision numérique terrestre]] (TNT) en France le {{date-|31 mars 2005}}, la chaîne [[W9]] (miroir de M6) fait ses débuts sur le neuvième canal. C'était pourtant la chaîne musicale {{nobr|[[M6 Music]]}} qui avait été choisie en {{date-|octobre 2002}} par le [[Conseil supérieur de l'audiovisuel (France)|Conseil supérieur de l'audiovisuel]] (CSA) pour l'occuper. Mais M6 est parvenue entre-temps à décrocher un [[avenant]] du CSA lui permettant de réorienter la programmation de cette chaîne musicale en une mini-généraliste à tendance musicale et de changer son nom<ref>{{Lien web |titre=Le CSA publie la liste des chaînes de la TNT |url=http://tempsreel.nouvelobs.com/societe/20021024.OBS1826/le-csa-publie-la-liste-des-chaines-de-la-tnt.html |site=tempsreel.nouvelobs.com|date=24 octobre 2002 |consulté le=16 avril 2017}}.</ref>{{,}}<ref>{{Lien web |titre=M6 Music / W9 : projet d'avenant adopté |url=http://www.csa.fr/Espace-juridique/Decisions-du-CSA/M6-Music-W9-projet-d-avenant-adopte |site=[[Conseil supérieur de l'audiovisuel (France)|CSA]] |date=11 avril 2005 |consulté le=16 avril 2017}}.</ref>{{,}}<ref>{{Lien web |auteur institutionnel=Commission des Affaires culturelles du Sénat |titre=Projet de loi relatif à la modernisation de la diffusion audiovisuelle et à la télévision du futur - Rapport {{n°|69}} (2006-2007) |url=https://www.senat.fr/rap/l06-069/l06-069_mono.html |site=[[Sénat (France)|Sénat]] |date=14 novembre 2006 |consulté le=16 avril 2017}}.</ref>. Dans le même temps, deux chaînes musicales dérivées sont créées sur le bouquet TPS en {{date-|janvier 2005}} : {{nobr|[[M6 Music Black]]}} et {{nobr|[[M6 Music Rock]]}}<ref>{{Lien web |titre=M6 Music Rock et M6 Music Black, deux nouvelles chaînes musicales du groupe M6 |url=http://www.telesatellite.com/actu/12161-m6-music-rock-et-m6-music-black-deux-nouvelles-chaines-musicales.html |site=telesatellite.com |date=11 janvier 2005 |consulté le=16 avril 2017}}.</ref>. En juin, les groupes M6 et [[Orange (entreprise)|Orange]] lancent {{nobr|[[M6 Mobile]]}}, un [[opérateur de réseau mobile virtuel]] sous accord de licence de marque<ref>{{Lien web |titre=M6 Mobile vise 200.000 abonnés fin 2005 |url=https://www.lesechos.fr/17/11/2005/LesEchos/19542-136-ECH_m6-mobile-vise-200-000-abonnes-fin-2005.htm |site=Les Échos |consulté le=16 avril 2017}}.</ref>. En novembre, M6 rachète le [[Commerce électronique|site web marchand]] [[Mistergooddeal]] par l'intermédiaire de sa filiale [[Home Shopping Service]]<ref>{{Lien web |auteur=Nathalie Brafman |titre=M6 rachète le site de commerce en ligne Mistergooddeal |url=https://www.lemonde.fr/economie/article/2005/11/16/m6-rachete-le-site-de-commerce-en-ligne-mistergooddeal_710715_3234.html# |site=[[Le Monde]] |date=16 novembre 2005 |consulté le=16 avril 2017}}.</ref>. Cette même année, le groupe fait l'acquisition du catalogue de films de la [[Société nouvelle de cinématographie]] (SNC)<ref name="DatesClés"/>.
+
+En {{date-|janvier 2007}}, les bouquets satellites [[Canal (opérateur de télévision)|CanalSat]] ([[Groupe Canal+]] et [[Lagardère (entreprise)|Lagardère]]) et [[TPS (entreprise)|TPS]] (Groupes [[Groupe TF1|TF1]] et M6) fusionnent. Le nouvel ensemble est détenu par une nouvelle société dénommée {{nobr|[[Canal+ France]]}} dont le capital est réparti entre les groupes Canal+ (65 %), Lagardère (20 %), TF1 (9,9 %) et M6 (5,1 %)<ref>{{Lien web |auteur1=Guy Dutheil |auteur2=Guillaume Fraissard |titre=TPS CanalSat : le remodelage de la télévision par satellite |url=https://www.lemonde.fr/actualite-medias/article/2007/01/05/tps-canalsat-le-remodelage-de-la-television-par-satellite_852365_3236.html |site=Le Monde |date=5 janvier 2007 |consulté le=16 avril 2017}}.</ref>. En avril de la même année, M6 prend une participation de 9,1 % dans la société de production et de distribution américaine [[Summit Entertainment]]<ref name="Figaro180112">{{Lien web |titre=M6: cède sa participation dans Summit Entertainment |url=http://bourse.lefigaro.fr/indices-actions/actu-conseils/m6-cede-sa-participation-dans-summit-entertainment-44272 |site=[[Le Figaro]] |date=18 janvier 2012 |consulté le=16 avril 2017}}.</ref>. En {{date-|mars 2008}}, le groupe lance son service de [[télévision de rattrapage]] {{nobr|[[6play|M6 Replay]]}} (rebaptisé 6play en 2013)<ref name="DatesClés"/>{{,}}<ref>{{Lien web |auteur=Christophe Guillemin |titre=M6 propose de revoir en ligne ses programmes sur M6 Replay |url=http://www.zdnet.fr/actualites/m6-propose-de-revoir-en-ligne-ses-programmes-sur-m6-replay-39379578.htm |site=[[ZDNet]] |date=13 mars 2008 |consulté le=16 avril 2017}}.</ref>. En avril, il achète via sa filiale {{nobr|M6 Web}} la société [[Cyréalis]] qui édite notamment les sites internet [[Clubic]], [[Jeuxvideo.fr]], [[PureMédias|Ozap]] et AchetezFacile.com<ref>{{Lien web |auteur=Nil Sanyas |titre=M6 rachète Clubic, Jeuxvideo.fr et NetEco du groupe Cyréalis |url=https://www.nextinpact.com/archive/43391-M6-rachete-Clubic-Jeuxvideo-Neteco.htm |site=[[Next INpact]] |date=30 avril 2008 |consulté le=16 avril 2017}}.</ref>. Le {{date-|14 août 2008}} est lancée [[Girondins TV]], une chaîne consacrée au [[Football Club des Girondins de Bordeaux]], propriété de M6<ref>{{Lien web |titre=Girondins TV |url=http://www.strategies.fr/actualites/medias/100673W/girondins-tv.html |site=[[Stratégies]] |date=28 août 2008 |consulté le=16 avril 2017}}.</ref>. Le {{date-|31 décembre 2008}}, la chaîne musicale {{nobr|[[Fun TV]]}} cesse d'émettre puis c'est au tour de {{nobr|[[M6 Music Rock]]}} de s'arrêter le {{date-|20 janvier 2009}} pour être remplacée par {{nobr|[[M6 Music Club]]}}<ref>{{Lien web |auteur=Guy Dutheil |titre=M6 arrête la diffusion de Fun Tv et M6 Music Rock |url=https://www.lemonde.fr/actualite-medias/article/2008/12/30/m6-arrete-la-diffusion-de-fun-tv-et-m6-music-rock_1136324_3236.html |site=Le Monde |date=30 décembre 2008 |consulté le=16 avril 2017}}.</ref>. En {{date-|septembre 2009}}, M6 et [[MSN]] lancent une plateforme commune d'information multimédia intitulée {{nobr|M6&MSN Actualités}}<ref>{{Lien web |auteur=Gaëlle Renouvel |titre=M6 et MSN lancent "M6&MSN Actualités" |url=http://www.ecommercemag.fr/Thematique/strategies-omni-canal-1009/Breves/M6-et-MSN-lancent-M6-MSN-Actualites--30342.htm#DZR5dxL6wObiKBxT.97 |site=ecommercemag.fr |date=1 septembre 2009 |consulté le=16 avril 2017}}.</ref>.
+
+En {{date-|février 2010}}, M6 revend sa participation dans {{nobr|Canal+ France}} pour {{unité|384|millions}} d'euros<ref>{{Lien web |auteur=G. P. |titre=M6 vend sa part dans Canal+ France et récupère 384,2 millions d'euros |url=https://www.lesechos.fr/02/02/2010/LesEchos/20606-104-ECH_m6-vend-sa-part-dans-canal--france-et-recupere-384-2-millions-d-euros.htm |site=Les Échos |date=2 février 2010 |consulté le=16 avril 2017}}.</ref>. En septembre, [[Mistergooddeal]], propriété de M6, achète la société d'impression [[Monalbumphoto.fr]]<ref>{{Lien web |titre=M6 Métropole Télévision : Mistergooddeal acquiert Monalbumphoto.fr |url=http://www.capital.fr/bourse/communiques/m6-metropole-television-mistergooddeal-acquiert-monalbumphoto.fr |site=[[Capital (magazine)|Capital]] |date=30 septembre 2009 |consulté le=16 avril 2017}}.</ref>. Cette même année, le groupe crée la Fondation M6, une [[Liste des fondations d'entreprise françaises|fondation d'entreprise]] pour soutenir les [[prisonnier]]s<ref>{{Lien web |auteur=Julien Lalande |titre=M6 crée une fondation pour soutenir les prisonniers |url=http://www.ozap.com/actu/m6-fondation-entreprise-prisonniers-prisons/323336 |site=[[PureMédias|Ozap]] |date=3 février 2010 |consulté le=16 avril 2017}}.</ref>. En {{date-|avril 2011}}, il acquiert en totalité {{nobr|TCM Droits audiovisuels}} qui détient un catalogue de films de la [[Paramount Pictures]]<ref>{{Lien web |titre=M6 prend la totalité du capital de TCM DA |url=http://lexpansion.lexpress.fr/actualites/1/actualite-economique/m6-prend-la-totalite-du-capital-de-tcm-da_985223.html |site=[[L'Express]] |date=21 avril 2011 |consulté le=16 avril 2017}}.</ref>. En {{date-|janvier 2012}}, M6 revend sa participation dans [[Summit Entertainment]] lors de son rachat par [[Lionsgate]]<ref name="Figaro180112"/>. Durant l'été, le groupe crée la société de production GM6 qui lance en novembre la chaîne [[YouTube]] humoristique [[Golden Moustache]]<ref>{{Lien web |auteur=Cécile Ducourtieux |titre=Golden Moustache, la petite chaîne qui monte |url=https://www.lemonde.fr/economie/article/2013/06/28/golden-moustache-la-petite-chaine-qui-monte_3438457_3234.html |site=Le Monde |date=28 juin 2013 |consulté le=16 avril 2017}}.</ref>. En novembre, M6 Web rachète la branche jeux vidéo de [[Bestofmedia Group]] composée des sites Tom's Games.fr et JeuxVideo-Flash.com<ref>{{Lien web |auteur=Nil Sanyas |titre=M6 Web (JeuxVideo.fr) rachète Tom's Games et JeuxVideo-Flash |url=https://www.nextinpact.com/news/75050-m6-web-jeuxvideo-fr-rachete-toms-games-et-jeuxvideo-flash.htm |site=Next Inpact |date=5 novembre 2012 |consulté le=16 avril 2017}}.</ref>. Le {{date-|12 décembre 2012}}, [[6ter]] fait partie des six nouvelles chaînes en [[haute définition]] lancées sur la TNT<ref>{{Lien web |titre=Bientôt six nouvelles chaînes en haute définition |url=http://www.csa.fr/Etudes-et-publications/Les-dossiers-d-actualite/Bientot-six-nouvelles-chaines-en-haute-definition |site=CSA |date=10 décembre 2012 |consulté le=16 avril 2017}}.</ref>. En {{date-|octobre 2013}}, M6 acquiert les sites marchands d'optique [[Happyview]] et Malentille.com<ref>{{Lien web |auteur=Armelle Bohineust |titre=M6 acquiert le site de lunettes Happyview |url=http://www.lefigaro.fr/societes/2013/10/10/20005-20131010ARTFIG00570-m6-acquiert-le-site-de-lunettes-happyview.php |site=Le Figaro |date=10 octobre 2013 |consulté le=16 avril 2017}}.</ref>, qu'elle revend au groupe [[Alain Afflelou (entreprise)|Alain Afflelou]] en {{date-|octobre 2016}}<ref>{{Lien web |titre=M6 cède les sites Happyview.fr et Malentille.com au groupe Alain Afflelou |url=http://www.capital.fr/bourse/actualites/m6-cede-les-sites-happyview.fr-et-malentille.com-au-groupe-alain-afflelou-1171339 |site=Capital |date=3 octobre 2016 |consulté le=16 avril 2017}}.</ref>.
+
+En {{date-|janvier 2014}}, M6 acquiert via sa filiale [[Home Shopping Service]] la société de distribution de produits du télé-achat {{nobr|Best of TV}}<ref>{{Lien web |titre=M6 : acquisition de 51 % de Best of TV |url=http://www.capital.fr/bourse/actualites/m6-acquisition-de-51-de-best-of-tv-900836 |site=Capital |date=8 janvier 2014 |consulté le=16 avril 2017}}.</ref>. En mars, le groupe M6 lance une autre chaîne YouTube pour les jeunes femmes intitulée Rose Carpet<ref>{{Lien web |auteur=Fabienne Schmitt |titre=M6 veut séduire les jeunes filles avec Rose Carpet |url=https://www.lesechos.fr/18/03/2014/LesEchos/21649-113-ECH_m6-veut-seduire-les-jeunes-filles-avec-rose-carpet.htm |site=Les Échos |date=18 mars 2014 |consulté le=16 avril 2017}}.</ref>. En avril, M6 vend le site web marchand [[Mistergooddeal]] à [[Darty]] pour un montant de {{unité|2|millions}} d'euros<ref>{{Lien web |titre=Darty: l'acquisition de Mistergooddeal.com est bouclée |url=http://bfmbusiness.bfmtv.com/bourse/darty-lacquisition-mistergooddeal-com-est-bouclee-745451.html |site=[[BFM TV]] |date=1 avril 2014 |consulté le=16 avril 2017}}.</ref>. En septembre, M6 rachète Printic, une application mobile de tirage photo<ref>{{Lien web |auteur=Bénédicte Tassart |titre=Printic, l'application de tirage photo depuis les mobiles |url=http://www.rtl.fr/actu/conso/copie-de-laa-bce-muscle-son-action-7780731683 |site=[[RTL]] |date=3 décembre 2015 |consulté le=16 avril 2017}}.</ref>. Plusieurs chaînes thématiques cessent d'émettre : [[TF6]] {{incise|détenue à parts égales par TF1 et M6}} le {{date-|31 décembre 2014}}<ref>{{Lien web |titre=La chaîne TF6 va fermer |url=http://www.europe1.fr/medias-tele/la-chaine-tf6-va-fermer-2102855 |site=le site d'[[Europe 1]] |date=25 avril 2014 |consulté le=16 avril 2017}}.</ref> et les chaînes musicales {{nobr|[[M6 Music Black]]}} et {{nobr|[[M6 Music Club]]}} le {{date-|4 janvier 2015}}<ref>{{Lien web |auteur=R.D. |titre=M6 Music Black et M6 Music Club cesseront leur diffusion le 4 janvier 2015 à minuit |url=http://www.programme-tv.net/news/tv/60752-m6-music-black-et-m6-music-club-cesseront-leur-diffusion-le-4-janvier-2015-a-minuit/ |site=[[Télé Loisirs]] |date=19 décembre 2014 |consulté le=16 avril 2017}}.</ref>. Ce même mois, M6 rachète Oxygem, un éditeur de sites web tels que CuisineAZ.com, Passeportsanté.net et Radins.com<ref>{{Lien web |auteur=Nicolas Jaimes |titre=Le rachat d'Oxygem Media permet à M6 de dépasser les 15 millions de VU |url=http://www.journaldunet.com/media/publishers/m6-rachat-oxygem-media-0115.shtml |site=[[Le Journal du Net]] |date=12 janvier 2015 |consulté le=16 avril 2017}}.</ref>. En {{date-|mai 2016}}, Orange et M6 annoncent la fin de l'offre {{nobr|[[M6 Mobile]]}} by Orange d'ici le {{date-|30 juin 2019}} au plus tard<ref>{{Lien web |auteur=Romain Heuillard |titre=M6 Mobile by Orange disparaît au profit de Sosh |url=http://www.clubic.com/telephone-portable/operateur-telephonie-mobile/orange/actualite-807508-m6-mobile-fin-partenariat-orange.html |site=Clubic |date=31 mai 2016 |consulté le=16 avril 2017}}.</ref>. En décembre, M6 prend une participation majoritaire dans iGraal, une société spécialisée dans le [[cash back]]<ref>{{Lien web |auteur=Kevin Hottot |titre=M6 s'offre iGraal, un spécialiste du cashback, pour "élargir son offre de bons plans" |url=https://www.nextinpact.com/news/102331-m6-soffre-igraal-specialiste-cashback-pour-elargir-son-offre-bons-plans.htm |site=Next Inpact |date=1 décembre 2016 |consulté le=16 avril 2017}}.</ref>. En {{date-|janvier 2017}}, M6 crée Golden Network, un studio de production de vidéos pour des chaînes YouTube<ref>{{Lien web |titre=M6 crée le studio Golden Network pour développer ses chaînes YouTube |url=https://www.20minutes.fr/web/1988767-20170103-m6-cree-studio-golden-network-developper-chaines-youtube |site=[[20 minutes (France)|20 minutes]] |date=3 janvier 2017 |consulté le=16 avril 2017}}.</ref>.
+
+Le {{date-|1 octobre 2017}}, le groupe M6 fait son entrée dans le domaine de la radio en rachetant le groupe de radio RTL France ([[RTL]], [[RTL2]], [[Fun Radio]]) à [[RTL Group]], également actionnaire principal du groupe M6. Ce nouveau groupe multimédia mettrait en place des synergies entre les radios et les télévisions, comme une [[régie publicitaire]] unique<ref>{{Lien web |auteur=Enguérand Renault |titre=Le groupe M6 enclenche le rachat de RTL France |url=http://www.lefigaro.fr/medias/2016/12/13/20004-20161213ARTFIG00252-le-groupe-m6-enclenche-le-rachat-de-rtl-france.php |site=[[Le Figaro]] |date=13 décembre 2016 |consulté le=15 mars 2017}}.</ref>{{,}}<ref>{{Lien web |titre=Le groupe M6 avale RTL group à partir du 1er octobre |url=https://www.20minutes.fr/medias/2126063-20170904-groupe-m6-avale-rtl-group-partir-1er-octobre |site=20 minutes |date=4 septembre 2017 |consulté le=3 octobre 2017}}.</ref>{{,}}<ref>{{Lien web |auteur=Aude Dassonville |titre=Les premiers pas mal assurés de RTL chez M6 |url=http://www.telerama.fr/radio/les-premiers-pas-mal-assures-de-rtl-chez-m6,n5233767.php |site=Télérama |date=2 octobre 2017 |consulté le=3 octobre 2017}}.</ref>.
+
+Le {{Date-|1 février 2019}}, le groupe M6 entre en négociation exclusive pour le rachat du pôle tv du groupe [[Lagardère Active]] ([[Gulli]], [[Canal J]], [[TiJi]], [[MCM (chaîne de télévision)|MCM]]…), excepté [[Mezzo (chaîne de télévision)|Mezzo]]<ref>{{Lien web|langue=fr|titre=M6 rachète l'ensemble du pôle TV de Lagardère|url=http://www.lefigaro.fr/medias/2019/01/31/20004-20190131ARTFIG00295-m6-rachete-l-ensemble-du-pole-tv-de-lagardere.php|site=[[Le Figaro]]|date=1 février 2019|consulté le=31 janvier 2019}}.</ref>.
+
+Le {{Date-|24 mai 2019}}, le groupe [[Lagardère Active]] annonce la signature du contrat de cession de son pôle télévision au groupe M6, qui rassemble la chaîne gratuite [[Gulli]] et les chaînes payantes [[Canal J]], [[TiJi]], [[MCM (chaîne de télévision)|MCM]], [[MCM Top]] et [[RFM TV]], à l'exception de la chaîne [[Mezzo (chaîne de télévision)|Mezzo]], pour {{nombre|215|millions}} d'{{euro}}<ref>{{Lien web|titre=M6 rachète le pôle TV de Lagardère pour 215 millions d'{{euro}}|url=http://www.lefigaro.fr/flash-eco/m6-rachette-le-pole-tv-de-lagardere-pour-215-millions-d-euros-20190524|site=lefigaro.com|date=2019-05-24|consulté le=2019-05-24}}.</ref>.
+
+La finalisation de l'achat du pôle tv du Groupe [[Lagardère Active]] se fait le {{date-|2 septembre 2019}} et intègre le jour même la régie M6 Publicité<ref>{{Lien web |langue=fr|titre=M6 officiellement propriétaire de Gulli, Tiji, Canal J, MCM, MCM Top et RFM TV |url=https://www.cbnews.fr/medias/image-m6-officiellement-proprietaire-gulli-tiji-canal-j-mcm-mcm-top-rfm-tv-45608 |site=cbnews.fr|date=2 septembre 2019 }}</ref>.
+
+=== Rapprochement avec TF1 (2021) ===
+En janvier 2021, le groupe [[Bertelsmann]] annonce vouloir céder les activités françaises de sa filiale [[RTL Group]], actionnaire majoritaire du Groupe M6<ref>{{Lien web |langue=fr |prénom=Olivier |nom=Ubertalli |titre=Groupe M6 : RTL Group envisage une possible cession |url=https://www.lepoint.fr/medias/rumeurs-de-vente-de-m6-a-vivendi-ou-altice-l-action-bondit-en-bourse-29-01-2021-2411801_260.php |site=Le Point |date=2021-01-29 |consulté le=2021-05-17}}</ref>. Plusieurs groupes audiovisuels français sont approchés : [[Vivendi]], [[Altice France|Altice]] ou [[Groupe TF1|TF1]].
+
+Le 17 mai 2021, il est annoncé que le [[groupe Bouygues]] et sa filiale [[Groupe TF1|TF1]] vont racheter à hauteur de 30 % le groupe M6<ref name="+1" />, information confirmée par les groupes concernés à l'AFP dans la soirée. L'objectif affiché est de fusionner les deux groupes pour former un géant du domaine télévisuel français, avec à sa tête [[Nicolas de Tavernost]]<ref>{{Lien web |langue=fr|titre=TF1 fusionne avec le groupe M6 |url=https://www.leparisien.fr/economie/tf1-fusionne-avec-le-groupe-m6-17-05-2021-OON725A7YFA2VFW6YWCK2XUNCA.php |site=leparisien.fr |date=2021-05-17 |consulté le=2021-05-17}}</ref>. Cette fusion représenterait 75 % du marché publicitaire télévisuel et reste soumise à la validation de l'[[Autorité de la concurrence (France) |Autorité de la concurrence]]. Un accord de fusion entre les deux groupes est finalisé le {{date-|8 juillet 2021}}<ref>{{Lien web |titre=Finalisation de l'acquisition du groupe M6 par Bouygues|url=https://www.lemonde.fr/economie/article/2021/07/08/fusion-tf1-m6-bouygues-et-rtl-finalisent-leur-accord_6087611_3234.html|site=[[Le Monde]] |consulté le=2021-07-10}}</ref>.
+
+Le 16 Septembre 2022, les deux groupes annoncent via un communiqué de presse<ref>[https://groupe-tf1.fr/sites/default/files/communiques/communique_de_presse_-_groupe_tf1_abandon_du_projet_de_fusion_des_groupes_tf1_et_m6.pdf via un communiqué de presse]</ref> l'abandon du projet de fusion face aux concessions demandées par l'[[Autorité de la concurrence (France)|Autorité de la concurrence]].
+
+=== International ===
+Le {{date-|23 octobre 2019}}, Le groupe M6 lance [[M6 International]] dans le bouquet [[Canal+ Afrique]] diffusée dans les pays sub-sahariens francophones.
+
+La chaîne est éditée au [[Québec]] par Thema Canada et disponible depuis le {{Date|14 décembre 2020}} aux abonnés de [[Bell Télé Fibe]]<ref>{{Lien web |url=https://www.grenier.qc.ca/nouvelles/22147/m6-international-la-chaine-francophone-arrive-au-quebec |titre=M6 International: la chaîne francophone arrive au Québec |site=Le Grenier aux Nouvelles |date=14 décembre 2020}}</ref>.
+
+== Organisation ==
+=== Direction ===
+Le {{nobr|groupe M6}} est dirigé par un [[Directoire (entreprise)|directoire]], composé de quatre membres dont le président<ref>{{Lien web |titre=Gouvernance - Directoire |url=http://www.groupem6.fr/finance/gouvernance/directoire/ |site=groupe M6 |consulté le=17 avril 2017}}.</ref> et un [[conseil de surveillance]], composé de douze membres dont le président<ref>{{Lien web |titre=Gouvernance - Conseil de surveillance |url=http://www.groupem6.fr/finance/gouvernance/conseil-de-surveillance/ |site=groupe M6 |consulté le=17 avril 2017}}.</ref>, depuis le {{date-|26 mai 2000}}<ref name="Echos290500">{{Lien web |titre=Le conseil de surveillance et le directoire de M6 mis en place |url=https://www.lesechos.fr/29/05/2000/LesEchos/18162-098-ECH_le-conseil-de-surveillance-et-le-directoire-de-m6-mis-en-place.htm |site=[[Les Échos]] |date=29 mai 2000 |consulté le=17 avril 2017}}.</ref>. Auparavant, le groupe était dirigé par un [[président-directeur général]] assisté de [[Directeur général|directeurs généraux]] adjoints.
+
+'''Présidents du conseil de surveillance'''
+* [[Jean Drucker]] : {{date-|26 mai 2000}} - {{date-|18 avril 2003}}<ref name="Echos290500"/> (Président-directeur général de {{date-|mars 1987}} à {{date-|mai 2000}}<ref>{{Lien web |titre=Décès de Jean Drucker, cofondateur de M6 |url=http://www.strategies.fr/actualites/medias/r75355W/deces-de-jean-drucker-cofondateur-de-m6.html |site=[[Stratégies]] |date=22 avril 2003 |consulté le=17 avril 2017}}.</ref>)
+* [[Albert Frère]] : {{date-|30 avril 2003}} - {{date-|28 avril 2015}}<ref>{{Lien web |titre=Albert Frère, président du conseil de surveillance de M6 |url=http://www.strategies.fr/actualites/medias/r28937W/albert-frere-president-du-conseil-de-surveillance-de-m6.html |site=Stratégies |date=9 mai 2003 |consulté le=17 avril 2017}}.</ref>
+* [[Guillaume de Posch]] : depuis le {{date-|28 avril 2015}}<ref>{{Lien web |titre=M6 : Guillaume de Posch prend la tête du conseil de surveillance |url=http://www.lepoint.fr/bourse/m6-guillaume-de-posch-prend-la-tete-du-conseil-de-surveillance-28-04-2015-1924883_81.php |site=[[Le Point]] |date=28 avril 2015 |consulté le=17 avril 2017}}.</ref>
+
+'''Présidents du directoire'''
+* [[Nicolas de Tavernost]] : depuis le {{date-|26 mai 2000}}<ref name="Echos290500"/>
+
+'''Vice-présidents du directoire'''
+* [[Christopher Baldelli]] : {{date-|8 octobre 2017}} - {{date-|23 mai 2019}}<ref>{{lien web |auteur1=Pierre Dezeraud |titre=Christopher Baldelli entre au directoire du groupe M6 |url=http://www.ozap.com/actu/christopher-baldelli-entre-au-directoire-du-groupe-m6/541582 |site=ozap.com |périodique=Puremédias |date=08-11-2017 |consulté le=05-09-2020}}.</ref>
+*[[Régis Ravanas]] : depuis le {{date-|24 mai 2019}}<ref name="ozap 579026">{{lien web |auteur1=Pierre Dezeraud |titre=M6 annonce une vaste réorganisation de sa direction |url=https://www.ozap.com/actu/m6-annonce-une-vaste-reorganisation-de-sa-direction/579026 |site=ozap.com |périodique=Puremédias |date=24-05-2019 |consulté le=05-09-2020}}.</ref>
+
+{{Saut|12px}}
+{{boîte déroulante/début|titre=Autres dirigeants |alignB=center |largeur=80%}}
+'''Directeurs administratif et financier'''
+* [[Laurent Agrech]] : 1993 - {{date-|décembre 2003}}<ref>{{Lien web |titre=Laurent Agrech |url=http://www.procadres.com/fr/qui-sommes-nous/paris/article/laurent-agrech |site=procadres.com |consulté le=17 avril 2017}}.</ref>
+* [[Jérôme Lefébure]] : depuis {{date-|décembre 2003}}<ref>{{Lien web |titre=Jérôme Lefébure |url=https://www.lesechos.fr/10/12/2003/LesEchos/19049-064-ECH_jerome-lefebure.htm |site=Les Échos |date=10 décembre 2003 |consulté le=17 avril 2017}}.</ref>
+
+'''Directeurs des ressources humaines'''
+* [[Delphine Cazaux]] : 2002 - {{date-|mai 2013}}<ref>{{Lien web |titre=Delphine Cazaux nommée Directrice Générale du groupe EndemolShine France |url=http://www.jeanmarcmorandini.com/article-365843-delphine-cazaux-nommee-directrice-generale-du-groupe-endemolshine-france.html |site=[[Jean-Marc Morandini#Site internet sur l'actualité des médias|jeanmarcmorandini.com]] |date=13 mars 2017 |consulté le=17 avril 2017}}.</ref>
+* [[Christophe Foglio]] : depuis {{date-|mai 2013}}<ref>{{Lien web |titre=Christophe Foglio |url=https://www.lesechos.fr/07/05/2013/LesEchos/21432-129-ECH_christophe-foglio.htm |site=Les Échos |date=7 mai 2013 |consulté le=17 avril 2017}}.</ref>
+
+'''Directeurs de la communication'''
+* [[Michèle Lourdelle]] : {{date-|mars 1987}} - {{date-|septembre 2004}}
+* [[Myriam Multigner]] : {{date-|septembre 2004}} - {{date-|septembre 2005}}<ref>{{Lien web |titre=Myriam Multigner, directrice de la communication de M6 |url=https://www.strategies.fr/guides-annuaires/nominations/r81846W/myriam-multigner-directrice-de-la-communication-de-m6.html |site=Stratégies |date=28 septembre 2004 |consulté le=17 avril 2017}}.</ref>
+* [[Émilie Pietrini]] : {{date-|septembre 2005}} - {{date-|24 mai 2019}}<ref>{{Lien web |titre=Émilie Pietrini, directrice de la communication de M6 |url=http://www.strategies.fr/guides-annuaires/nominations/r85981W/emilie-pietrini-directrice-de-la-communication-de-m6.html |site=Stratégies |date=16 septembre 2005 |consulté le=17 avril 2017}}.</ref>
+* [[Matthieu Bienvenu]] : depuis le {{date-|24 mai 2019}}<ref name="ozap 579026" />
+
+'''Directeur de la programmation et des antennes'''
+* [[Arnaud Boucher]] : - {{date-|avril 2015}}
+
+'''Directeur des antennes'''
+* [[Laurent de Lorme]] : depuis {{date-|avril 2015}}<ref name="OffreMedia150415">{{Lien web |titre=Nominations de Laurent de Lorme et Christine Bouillet au sein de M6 à la suite du départ d'Arnaud Boucher |url=http://www.offremedia.com/nominations-de-laurent-de-lorme-et-christine-bouillet-au-sein-de-m6-a-la-suite-du-depart-darnaud-boucher |site=offremedia.com |date=15 avril 2015 |consulté le=17 avril 2017}}.</ref>
+
+'''Directeur de la coordination de la programmation'''
+* [[Christine Bouillet]] : depuis {{date-|avril 2015}}<ref name="OffreMedia150415"/>
+{{boîte déroulante/fin}}
+
+=== Actionnaires ===
+{| class="wikitable"
+|-
+|RTL Group SA
+|48,3 %
+|-
+|Compagnie Nationale à Portefeuille SA
+|7,24 %
+|-
+|Norges Bank Investment Management
+|2,91 %
+|-
+|DNCA Finance SA
+|1,82 %
+|-
+|The Vanguard Group, Inc.
+|1,36 %
+|-
+|Investec Asset Management Ltd.
+|1,15 %
+|-
+|Invesco Advisers, Inc.
+|0,93 %
+|-
+|Schroder Investment Management Ltd.
+|0,65 %
+|-
+|SEB Investment Management AB
+|0,65 %
+|-
+|ING Belgium SA/NV (Private Banking)
+|0,54 %
+|}
+Mise à jour au {{date-|1 septembre 2019}}<ref>{{Lien web |langue=fr |nom1=Bourse |prénom1=Zone |titre=liste des actionnaires |url=https://www.zonebourse.com/M6-METROPOLE-TELEVISION-4670/societe/ |site=www.zonebourse.com |date= |consulté le=2019-09-01 }}</ref>.
+
+À l'origine, le {{nobr|groupe M6}} est principalement détenu par la [[RTL Group|Compagnie luxembourgeoise de télédiffusion]] (RTL Group), la [[Lyonnaise des eaux]], l'[[Union des assurances de Paris]], [[Paribas]], [[Suez (entreprise, 1858-2008)|Suez]] et diverses [[Société financière|sociétés financières]] (Parfinance, [[Crédit agricole]], [[Groupe Bruxelles Lambert]]) et [[Éditeur de presse|éditeurs de presse]] (''[[Sud Ouest]]'', [[Groupe Amaury]], ''[[Ouest-France]]''). Après l'introduction en bourse en {{date-|septembre 1994}}, la Compagnie luxembourgeoise de télédiffusion et la Lyonnaise des eaux augmentent leur participation tandis que les autres la réduisent et qu'une partie du capital devient flottant<ref name="Echos200994"/>. En {{date-|février 2004}}, Suez {{incise|qui a fusionné avec La Lyonnaise des eaux}} réduit sa participation<ref name="OBS3593" />, puis, en {{date-|juillet 2006}}, vend ses parts à la [[Compagnie nationale à portefeuille]] qui fait son entrée dans le capital du groupe<ref name="Echos50706"/>.
+
+=== Données financières ===
+En 2016, le groupe M6 a fait un [[chiffre d'affaires]] de {{unité|1.279|milliard}} d'euros, se décomposant en {{unité|856|millions}} pour les activités de télévision, {{unité|98|millions}} pour les activités de production et de distribution et {{unité|325|millions}} pour les autres activités. Le [[résultat net]] s'élève à {{unité|152.8|millions}} d'euros<ref name="Rapport2016">{{Lien web |titre=Rapport financier annuel 2016 |url=http://www.groupem6.fr/content/uploads/2017/01/6.1.-Etats-Financiers-consolid%C3%A9s-2016-VDEF-DEF.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>.
+
+{|class="wikitable centre" style="text-align:center;"
+|+Indicateurs financiers <small>(en millions d'euros)</small>
+|-
+|
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2000<ref name="Rapport2001">{{Lien web |titre=Rapport annuel 2001 |url=http://www.groupem6.fr/content/uploads/2017/01/405209.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2001<ref name="Rapport2001"/>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2002<ref>{{Lien web |titre=Rapport annuel 2002 |url=http://www.groupem6.fr/content/uploads/2017/01/405205.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2003<ref>{{Lien web |titre=Rapport annuel 2003 |url=http://www.groupem6.fr/content/uploads/2017/01/405201.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2004<ref>{{Lien web |titre=Rapport annuel 2004 |url=http://www.groupem6.fr/content/uploads/2017/01/405197.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2005<ref>{{Lien web |titre=Rapport annuel 2005 |url=http://www.groupem6.fr/content/uploads/2017/01/405193.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2006<ref>{{Lien web |titre=Rapport annuel 2006 |url=http://www.groupem6.fr/content/uploads/2017/01/405185.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2007<ref>{{Lien web |titre=Document de référence 2007 |url=http://www.groupem6.fr/content/uploads/2017/01/405177.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2008<ref>{{Lien web |titre=Document de référence 2008 |url=http://www.groupem6.fr/content/uploads/2017/01/405425.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2009<ref>{{Lien web |titre=Document de référence 2009 |url=http://www.groupem6.fr/content/uploads/2017/01/405507.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2010<ref>{{Lien web |titre=Document de référence 2010 |url=http://www.groupem6.fr/content/uploads/2017/01/405587.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2011<ref>{{Lien web |titre=Document de référence 2011 |url=http://www.groupem6.fr/content/uploads/2017/01/411238.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2012<ref>{{Lien web |titre=Rapport financier annuel 2012 |url=http://www.groupem6.fr/content/uploads/2017/01/427844.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2013<ref>{{Lien web |titre=Rapport financier annuel 2013 |url=http://www.groupem6.fr/content/uploads/2017/01/444234.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2014<ref>{{Lien web |titre=Rapport financier annuel 2014 |url=http://www.groupem6.fr/content/uploads/2017/01/460657.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2015<ref>{{Lien web |titre=Rapport financier annuel 2015 |url=http://www.groupem6.fr/content/uploads/2017/01/474842.pdf |format=pdf |site=Groupe M6 |consulté le=17 avril 2017}}.</ref>
+! style="background:#6A83A4; color:#ffffff;" scope="col" | 2016<ref name="Rapport2016"/>
+|-
+! style="background:#6A83A4; color:#ffffff;" scope="col" | Chiffre d'affaires
+| {{formatnum:742.5}}
+| {{formatnum:845.3}}
+| {{formatnum:948.5}}
+| {{formatnum:1176.9}}
+| {{formatnum:1192.8}}
+| {{formatnum:1274.7}}
+| {{formatnum:1283.4}}
+| {{formatnum:1356.4}}
+| {{formatnum:1354.9}}
+| {{formatnum:1376.6}}
+| {{formatnum:1462.0}}
+| {{formatnum:1421.3}}
+| {{formatnum:1386.6}}
+| {{formatnum:1265.0}}
+| {{formatnum:1257.9}}
+| {{formatnum:1249.8}}
+| {{formatnum:1278.7}}
+|-
+! style="background:#6A83A4; color:#ffffff;" scope="col" | Résultat net
+| 103,5
+| 116,2
+| 110,8
+| 130,1
+| 138,2
+| 156,3
+| 409,1
+| 168,6
+| 138,4
+| 139,1
+| 157,0
+| 149,7
+| 140,2
+| 112,1
+| 123,2
+| 114,9
+| 152,8
+|}
+
+=== Siège ===
+Le siège du {{nobr|groupe M6}} est situé depuis 1997 au 89 [[Avenue Charles-de-Gaulle (Neuilly-sur-Seine)|avenue Charles-de-Gaulle]] à [[Neuilly-sur-Seine]], au nord-ouest de [[Paris]] en région [[Île-de-France]]. Le bâtiment comprend {{unité|11000|m|2}} de bureaux, de régies et de studios d'enregistrement répartis sur dix étages et six sous-sols<ref name="DatesClés"/>{{,}}<ref name="Echos300596"/>{{,}}<ref name="M6Sogelym"/>. Certaines filiales ont leur siège dans d'autres villes françaises comme [[Rungis]], [[Boissy-l'Aillerie]] et [[Paris]] en Île-de-France, [[Lille]] et [[Nanteuil-le-Haudouin]] dans les [[Hauts-de-France]], [[Caudebec-lès-Elbeuf]] en [[Normandie (région administrative)|Normandie]] et [[Lyon]] en [[Auvergne-Rhône-Alpes]]<ref name="DatesClés"/>.
+
+À l'origine, le siège de M6 est installé au [[Cours Albert-Ier|Cours Albert-{{Ier}}]] dans le [[8e arrondissement de Paris|{{8e}} arrondissement]] de Paris. Mais les studios sont situés au 22 [[Rue Bayard (Paris)|rue Bayard]], siège de [[RTL]], d'où part également le signal d'antenne<ref name="PellerinViot2012"/>. Le groupe va s'étendre aux bâtiments alentour au cours des années jusqu'à son déménagement en 1997 dans son siège actuel de Neuilly-sur-Seine<ref name="DatesClés"/>{{,}}<ref name="Echos300596"/>.
+
+=== Logos du groupe M6 ===
+<gallery caption="Logos du groupe">
+Fichier:Groupe M6 1 logo.svg|Logo du Groupe M6 jusqu'au {{date-|13 août 2008}}.
+Fichier:Groupe M6 2008 logo.png|Logo du Groupe M6 du {{date-|14 août 2008}} au {{date-|30 janvier 2009}}.
+Fichier:Groupe M6 Logo.png|Logo du Groupe M6 depuis le {{date-|31 janvier 2009}}
+</gallery>
+
+== Activités du groupe ==
+Le {{nobr|groupe M6}} détient des [[Chaîne de télévision|chaînes de télévision]] [[Chaîne de télévision généraliste|généralistes]] et [[Chaîne de télévision thématique|thématiques]], gratuites et payantes. Dans son activité historique de l'[[audiovisuel]], il compte des sociétés de [[Production audiovisuelle|production]] et de [[Distribution de films|distribution]] pour le cinéma et la télévision et des [[Régie publicitaire|régies publicitaires]]. Le groupe est très présent sur Internet avec plusieurs [[Site web|sites web]] d'information et de service, des plateformes vidéo et des sociétés du numérique. Il a également diversifié ses activités dans la [[vente à distance]], l'édition musicale et littéraire, la production de spectacles et même le football et l'immobilier.
+
+=== Radio ===
+Le groupe M6 est présent dans le domaine de la radio depuis 2017 avec le rachat du [[RTL#Pôle Radio RTL|pôle radio RTL France]].
+
+{| class="wikitable"
+|+ Stations de radio en activité
+|-
+! scope="col"| Logo
+! scope="col"| Radio
+! scope="col"| Date de création
+! scope="col"| Actionnaires
+|-
+| [[Fichier:RTL logo.svg|60px|center]]
+| '''[[RTL]]''' <br> Radio généraliste
+| {{date-|15 mars 1933}}
+| rowspan="3"| 100 % Groupe M6
+|-
+| [[Fichier:FUN21.png|60px|center]]
+| '''[[Fun Radio]]''' <br> Radio musicale de genre [[dance]]<br>''Déclinaisons : [[Fun Radio Antilles]] et [[Fun Radio (Belgique)|Fun Radio Belgique]]''
+| {{date-|2 octobre 1985}}
+|-
+| [[Fichier:RTL2.png|60px|center]]
+|'''[[RTL2]]''' <br> Radio musicale de genre <br> [[pop rock]]
+| {{date-|6 janvier 1992}}
+|}
+
+=== Télévision ===
+{| class="wikitable"
+|+ Chaînes de télévision en activité
+|-
+! scope="col"| Logo
+! scope="col"| Chaîne
+! scope="col"| Date de création
+! scope="col"| Actionnaires
+|-
+| [[Fichier:Logo_M6_(2020,_fond_clair).svg|60px|center]]
+| '''[[M6]]''' <small>(HD)</small> <ref>{{Lien web |titre=M6 |url=https://www.groupem6-tvdistribution.com/m6.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne généraliste (canal 6)
+| {{date-|1 mars 1987}}
+| rowspan="13" | 100% Groupe M6
+|-
+| [[Fichier:Logo W9 2018.svg|70px|center]]
+| '''[[W9]]''' <small>(HD)</small> <ref>{{Lien web |titre=W9 |url=https://www.groupem6-tvdistribution.com/w9.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne généraliste à tendances musicales (canal 9)
+| {{date-|31 mars 2005}}
+|-
+| [[Fichier:Gulli logo 2023.png|60x60px|alt=|center]]
+| '''[[Gulli]]''' <small>(HD)</small> <ref>{{Lien web |titre=Gulli |url=https://www.groupem6-tvdistribution.com/gulli.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne généraliste jeunesse (canal 18)
+| {{date-|18 novembre 2005}} (acquis en Septembre 2019)
+|-
+| [[Fichier:6ter 2012.png|sans_cadre|70px|center]]
+| '''[[6ter]]''' <small>(HD)</small> <ref>{{Lien web |titre=6ter |url=https://www.groupem6-tvdistribution.com/6ter.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne généraliste familiale (canal 22)
+| {{date-|12 décembre 2012}}
+|-
+| [[Fichier:Paris Première 2011.svg|70px|center]]
+| '''[[Paris Première]]''' <small>(HD)</small> <br> Chaîne généraliste à tendance culturelle (canal 41 (plages en
+clair), câble, etc.)
+| {{date-|15 décembre 1986}} (acquis en 2004)
+|-
+| [[Fichier:Téva_logo_2021.svg|50px|center]]
+| '''[[Téva]]''' <small>(HD)</small> <br> Chaîne généraliste visant un public féminin et familial (câble)
+| cocrée le {{date-|6 octobre 1996}} (acquis totalement en 2007)
+|-
+| [[Fichier:Logo canal J.png|60x60px|alt=|center]]
+| '''[[Canal J]]''' <small>(HD)</small> <ref>{{Lien web |titre=Canal J |url=https://www.groupem6-tvdistribution.com/canal-j.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne jeunesse payante
+| {{date-|23 décembre 1985}} (acquis en Septembre 2019)
+|-
+| [[Fichier:Logo TiJi (2019).png|70x70px|alt=|center]]
+| '''[[TiJi]]''' <small>(HD)</small> <ref>{{Lien web |titre=Tiji |url=https://www.groupem6-tvdistribution.com/tiji.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne jeunesse payante
+| {{date-|15 décembre 2000}} (acquis en Septembre 2019)
+|-
+| [[Fichier:MCM logo 2017.svg|70x70px|alt=|center]]
+| '''[[MCM (chaîne de télévision)|MCM]]''' <small>(HD)</small> <ref>{{Lien web |titre=MCM |url=https://www.groupem6-tvdistribution.com/mcm.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne générationnelle payante destinée aux jeunes adultes
+| {{date-|1 juillet 1989}} (acquis en Septembre 2019)
+|-
+| [[Fichier:M6 Music 2018.png|80px|center]]
+| '''[[M6 Music]]''' <small>(HD)</small> <ref>{{Lien web |titre=M6music |url=https://www.groupem6-tvdistribution.com/m6music.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne musicale payante
+| {{date-|5 mars 1998}}
+|-
+| [[Fichier:MCM Top.png|70x70px|alt=|center]]
+| '''[[MCM Top]]''' <small>(HD)</small> <ref name="MCM Top">{{Lien web |titre=MCM Top |url=https://www.groupem6-tvdistribution.com/mcm-top.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne musicale payante
+| {{date-|28 novembre 2003}} (acquis en Septembre 2019)
+|-
+| [[Fichier:RFM TV logo 2020.png|60x60px|alt=|center]]
+| '''[[RFM TV]]''' <small>(HD)</small><ref>{{Lien web |titre=RFM Tv |url=https://www.groupem6-tvdistribution.com/rfm-tv.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref> <br> Chaîne musicale payante
+| {{date-|2 octobre 2014}} (acquis en Septembre 2019)
+|-
+| [[Fichier:LCDPN.jpg|70px|center]]
+|'''[[La Chaîne du père Noël]]''' <small>(HD)</small> <ref>{{Lien web |titre=Santa Claus TV Channel |url=https://www.groupem6-tvdistribution.com/santa-claus-tv.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref><br> Chaîne jeunesse événementielle payante, diffusée à la période de
+Noël
+| {{date-|5 novembre 2011}} (acquis en Septembre 2019)
+|-
+| [[Fichier:Serieclub (2012).svg|80px|center]]
+| '''[[Série Club]]''' <small>(HD)</small> <br> Chaîne payante diffusant des [[Série télévisée|séries]]
+| {{date-|8 mars 1993}} (codétenu depuis janvier 2001)
+|50% Groupe M6 et 50% Groupe TF1
+|}
+
+Avec le rachat du Pôle TV de [[Lagardère Active]], le groupe M6 s'internationalise avec la chaîne [[MCM (chaîne de télévision)|MCM]], déclinée au [[Portugal]], en [[Russie]] et au [[Moyen-Orient]], la chaîne [[Gulli]], déclinée en [[Russie]], en [[Afrique]] sub-saharienne, [[Brésil]], [[Mozambique]] et au [[Moyen-Orient]]<!-- |périodique=|date=09/09/2019|consulté le=20 octobre 2019}}</ref>--> ainsi que la chaîne [[TiJi]], déclinée en [[Russie]].
+
+{| class="wikitable"
+|+Chaînes de télévision internationale en activité
+!Logo
+!Chaîne
+!Date de création
+!Zone de Diffusion
+!Actionnaires
+|-
+| [[Fichier:M6 International logo.svg|70px|center]]
+|'''[[M6 International]]''' <small>(SD)</small> <ref>{{Lien web |titre=M6 International |url=https://www.groupem6-tvdistribution.com/m6-international.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+| {{date-|23 octobre 2019}}
+|[[Canada]] / [[Moyen-Orient]] / [[Maghreb]]
+| rowspan="8" |100 % Groupe M6
+|-
+| [[Fichier:MCM Top.png|70px|center]]
+|'''[[MCM Top|MCM TOP]]'''<ref name="MCM Top" />
+|(acquis en Septembre 2019)
+|[[Portugal]] / [[Russie]] / [[Brésil]] / [[Moyen-Orient]] (La chaîne serait diffusé dans plus de 30 pays d'après M6 Publicité)<ref>{{Lien web |prénom=M6 |nom=Publicité |titre=MCM RFMTV MCMTOP |url=https://vimeo.com/389932747/8d0ff62830 |date=2020-02-07 |consulté le=2023-02-04}}</ref>
+|-
+| [[Fichier:Mcm pop logo.svg|70px|center]]
+|'''[[MCM Pop|MCM POP]]'''
+|(acquis en Septembre 2019)
+|[[Portugal]] / [[Brésil]]
+|-
+| [[Fichier:Gulli Girl (2018-н.в.).png|70px|center]]
+|'''[[Gulli Girl]]'''<ref>{{Lien web |titre=GulliGirl |url=https://www.groupem6-tvdistribution.com/gulligirl.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+|12 septembre 2009 (acquis en Septembre 2019)
+|[[Russie]]
+|-
+| [[Fichier:Gulli Africa Janvier 2018.png|70px|center]]
+|'''[[Gulli Africa]]'''<ref>{{Lien web |titre=Gulli Africa |url=https://www.groupem6-tvdistribution.com/gulli-africa.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+|23 mars 2015 (acquis en Septembre 2019)
+|[[Afrique]] sub-saharienne
+|-
+| [[Fichier:Gulli Bil Arabi 138 138.jpg|70px|center]]
+|'''[[Gulli#Gulli_Bil_Arabi|Gulli Bil Arabi]]'''<ref>{{Lien web |titre=Gulli Arabic |url=https://www.groupem6-tvdistribution.com/gulli-arabic.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+|28 août 2017 (acquis en Septembre 2019)
+|[[Moyen-Orient]] / [[Maghreb]]
+|-
+| [[Fichier:Gulli Brasil.png|70px|center]]
+|'''[[Gulli (Brésil)|Gulli Brasil]]'''<ref>{{Lien web |titre=Gulli Brasil |url=https://www.groupem6-tvdistribution.com/gulli-brasil.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+|9 août 2020
+|[[Portugal]] / [[Brésil]] / [[Mozambique]]
+|-
+| [[Fichier:Logo TiJi (2019).png|70x70px|alt=|center]]
+|'''[[TiJi|Tiji Russia]]'''<ref>{{Lien web |titre=Tiji Russia |url=https://www.groupem6-tvdistribution.com/tiji-russia.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+|{{1er}} avril 2009 (acquis en Septembre 2019)
+|[[Russie]]
+|-
+|
+|'''Santa Claus TV Channel'''<ref>{{Lien web |titre=Santa Claus TV Channel Russia |url=https://www.groupem6-tvdistribution.com/santa-claus-tv-ru.php |site=www.groupem6-tvdistribution.com |consulté le=2023-08-23}}</ref>
+|{{1er}} décembre 2013 (acquis en Septembre 2019)
+|[[Russie]]
+|
+|}
+
+{| class="wikitable"
+|+ Chaînes de télévision disparues
+|-
+! scope="col"| Logo
+! scope="col"| Chaîne
+! scope="col"| Date de création
+! scope="col"| Date de disparition
+! scope="col"| Actionnaires
+|-
+| [[Fichier:Funtv.gif|60px|center]]
+| '''[[Fun TV]]''' <small>(SD)</small> <br> Chaîne musicale
+| {{date-|22 février 1997}}
+| {{date-|31 décembre 2008}}
+| rowspan="5" | 100 % Groupe M6
+|-
+| align="center" | 
+[[Fichier:M6 Music Rock logo 2005.svg|60px|center]]
+| '''[[M6 Music Rock]]''' <small>(SD)</small> <br> Chaîne musicale
+| {{date-|10 janvier 2005}}
+| {{date-|20 janvier 2009}}
+|-
+| [[Fichier:M6 Black Logo.png|80px|center]]
+| '''[[M6 Music Black]]''' <small>(HD)</small> <br/>
+chaîne musicale
+| {{date-|10 janvier 2005}}
+| rowspan="2" | {{date-|4 janvier 2015}}
+|-
+| [[Fichier:M6 Club Logo.png|80px|center]]
+| '''[[M6 Music Club]]''' <small>(HD)</small> <br/>
+chaîne musicale
+| {{date-|20 janvier 2009}}
+|-
+| [[Fichier:Girondins TV.svg|80px|center]]
+| '''[[Girondins TV]]''' <small>(HD)</small> <br/>
+chaîne sportive
+| {{date-|14 août 2008}}
+| {{date-|30 octobre 2018}}
+|-
+| [[Fichier:TF6 logo.svg|80px|center]]
+| '''[[TF6]]''' <small>(HD)</small> <br/>
+chaîne mini-généraliste
+| {{date-|18 décembre 2000}}
+| {{date-|31 décembre 2014}}
+|50 % [[Groupe TF1]]
+50 % Groupe M6
+|-
+|[[Fichier:M6 Boutique logo 2016.png|50px|center]]
+|'''[[M6 Boutique (chaîne de télévision)|M6 Boutique]]''' <small>(HD)</small><br>Chaîne [[télé-achat]]
+|{{date-|19 mai 1998}}
+| rowspan="2" |{{date-|1 juillet 2020}}
+| rowspan="2" |100 % Groupe M6 <br> <small>(via la société [[Home Shopping Service]])</small>
+|-
+|
+|'''Best of Shopping''' <small>(HD)</small> <br> Chaîne [[télé-achat]]
+|{{date-|1 octobre 2003}}
+|}
+
+=== Plateforme de vidéo ===
+Le groupe M6 est propriétaire de la plateforme [[6play]] un service principalement de rattrapage des chaines télévisions du groupe et de vidéo à la demande, mais restant limité. Le groupe était également actionnaire à part égale avec [[France Télévisions|France Télévision]] et le [[Groupe TF1]], de la plateforme de SVOD [[Salto (plateforme SVOD)|Salto]] jusqu'à sa fermeture en 2023<ref>{{Lien web |langue=fr |titre=Salto c’est définitivement fini ce lundi |url=https://www.huffingtonpost.fr/divertissement/article/salto-ferme-definitivement-ses-portes-ce-lundi_215721.html |site=Le HuffPost |date=2023-03-27 |consulté le=2023-06-22}}</ref>.
+{| class="wikitable"
+|-
+ ! scope="col" | Logo
+ ! scope="col" | Nom
+ ! scope="col" | Date de création
+ ! scope="col" | Actionnaires
+|-
+ |[[Fichier:6play.svg|center|60x60px]]
+ |'''[[6play]]'''<br> Plateforme de rattrapage, de télévision linéaire et de vidéo à la demande (Gratuit et par abonnement pour certains programmes)
+ | 4 novembre 2013
+ | rowspan="2"| 100 % Groupe M6
+|-
+|[[Fichier:Gulli Max 2018.png|center|100x100px]]
+|'''[[Gulli|Gulli Max]]'''<br> Plateforme de vidéo à la demande par abonnement proposant des programmes familiaux.
+|2014
+|-
+ |[[Fichier:Salto.svg|center|100x100px]]
+ | [[Salto (plateforme SVOD)|'''Salto''']]<br> Plateforme de vidéo à la demande par abonnement
+ | 20 octobre 2020
+ |Groupe M6<br>[[France Télévisions|France TV]]<br>[[Groupe TF1]]
+|}
+
+=== Production audiovisuelle et distribution ===
+[[Fichier:SND logo.jpg|thumb|Logo de la société SND.]]
+Le groupe M6 possède plusieurs filiales de [[production audiovisuelle|production]] de [[Cinéma|films]], [[Émission de télévision|programmes télévisés]] et [[Vidéaste (Web)|vidéos pour le web]]. Il est également présent dans la [[distribution de films]], la gestion de droits audiovisuels et l'édition vidéo.
+
+'''Télévision'''
+* [[C. Productions]] : production de magazines d'information
+* [[Studio 89 Productions]] : production d'émissions de divertissement
+
+'''Cinéma'''
+* Les Films de la Suane : production de films
+* Epithète Films : production de films<ref>{{Lien web |langue=fr|titre=M6 : acquisition de la société Epithète Films |url=https://www.zonebourse.com/METROPOLE-TELEVISION-4670/actualite/M6-acquisition-de-la-societe-Epithete-Films-30859648/ |site=Zonebourse |date=02-07-2020 }}</ref>
+* [[SNC Catalogue MC|Mandarin Cinéma]] : production de films
+* M6 Films : production de films
+* M6 Studio : production de films et séries d'[[Animation (audiovisuel)|animation]]
+* M6 Vidéo : édition vidéo de films
+* [[Société nouvelle de distribution]] (SND) : distribution de films / gestion de droits audiovisuels
+* [[Société nouvelle de cinématographie]] (SNC) : gestion de droits audiovisuels
+* TCM Droits Audiovisuels : gestion de droits audiovisuels
+
+'''Web'''
+* Golden Network : production de vidéos pour le web
+
+=== Internet ===
+M6 Web est la filiale numérique du groupe qui développe l'activité multimédia du groupe sur les nouveaux supports numériques. En plus de gérer les [[Site web|sites web]] et [[Application mobile|applications mobiles]] des chaînes et des émissions de télévision, elle détient d'autres sites web thématiques, des plateformes vidéo notamment présentes sur [[YouTube]] et des sociétés du numérique. Elle gère aussi les sites web et applications mobile de [[Fun Radio]], [[RTL]] et [[RTL2]].
+
+En janvier 2019, M6 Web se scinde en deux sociétés : [[M6 Digital Services]] et M6 Distribution<ref>{{Lien web |langue=fr |titre=M6Web se scinde en 2 sociétés : M6 Digital Services et M6 Distribution |url=https://www.cbnews.fr/medias/image-m6web-se-scinde-2-societes-m6-digital-services-m6-distribution-40641 |site=CB News |consulté le=2022-01-15}}</ref>.
+* [[6play]] : service de [[télévision de rattrapage]] du groupe
+
+'''Portails thématiques'''
+* Achetezfacile.com : [[comparateur de prix]] sur internet ; Le site semble finalement abandonné en 2018 : M6 ne communique pas, mais l'URL est indisponible, le contenu Facebook et Twitter est supprimé et l'audience est en chute libre<ref>{{Lien web|langue=en|titre=Achetezfacile.com Traffic, Demographics and Competitors - Alexa|url=https://www.alexa.com/siteinfo/achetezfacile.com|site=alexa.com|consulté le=2018-03-04}}.</ref>
+* CuisineAZ.com : [[cuisine]] et [[alimentation]]
+* Déco.fr : [[Décoration (art)|décoration]] maison/[[Jardinage|jardin]]
+* Fourchette&bikini.fr : bien-être féminin
+* M6Meteo.com : [[Prévision météorologique|prévisions météorologiques]]
+* MinuteFacile.com : astuces vidéo
+* Panorabanques.com : [[Comparateur de prix|comparateur]] de tarifs bancaires
+* PasseportSanté.net : [[santé]]
+* Radins.com : plateforme de [[promotion commerciale]]
+* [[Turbo (émission de télévision)|Turbo.fr]] : [[automobile]]
+
+'''Plateformes de vidéo'''
+* [[Golden (Golden Moustache)|Golden Moustache]] : humour
+* Rose Carpet : beauté, mode, lifestyle
+* Vloggist : tendances mode
+* Cover Garden : [[reprise]]s musicales
+* Dot Move : danse
+
+'''Sociétés internet'''
+* Elephorm : [[formation en ligne]]
+* iGraal : [[cash back]]
+* Mindbaz : [[routage]] [[Courrier électronique|e-mail]]
+* Quicksign : [[signature numérique]]
+
+=== Publicité ===
+* M6 Publicité : [[régie publicitaire]] des chaînes télévisées et du contenu numérique du groupe
+* M6 Créations : production de produits publicitaires (films publicitaires, habillages d'antennes, opérations spéciales...)
+* M6 Talents : partenariats entre les animateurs et les marques
+
+=== Vente à distance ===
+Ventadis est le pôle de [[vente à distance]] du groupe M6, présent dans le [[télé-achat]] et le [[Commerce en ligne|commerce électronique]].
+
+* [[Home Shopping Service]] : filiale de télé-achat gérant la marque {{nobr|M6 Boutique}} ([[M6 Boutique (chaîne de télévision)|chaîne]], [[M6 Boutique (émission de télévision)|émission]] et site web)
+* Best of TV : distribution des produits du téléachat
+* Printic.fr : impression de produits photographiques sur mobile
+
+=== Sport ===
+M6 Foot est la filiale du groupe qui gère les activités sportives.
+* [[Football Club des Girondins de Bordeaux]]
+
+=== Autres activités ===
+* M6 Interactions
+* M6 Video Bank : portail Be-to-Be de vente d'extraits du Groupe M6 à destination des professionnels de l'audiovisuel et des médias
+* M6 Éditions : [[maison d'édition]]
+* M6 Évènements : production de [[Spectacle vivant|spectacles]] et de [[concert]]s
+* M6 Music Label : [[label discographique]]
+* [[Stéphane Plaza Immobilier]] : réseau d'[[Agent immobilier|agences immobilières]] sous [[Franchise (réseau commercial)|franchise]] fondé par l'animateur [[Stéphane Plaza]]
+* Girondins Horizons : [[agence de voyages]] (principalement pour les déplacements lors des matchs des Girondins de Bordeaux)
+
+=== Anciennes activités ===
+* [[M6net]] : [[fournisseur d'accès à Internet]] (lancé en 2000 et arrêté en 2004)
+* Wideo : [[site d'hébergement de fichiers]] vidéos (lancé en 2006 et arrêté depuis)
+* [[Cyréalis]] : éditeur de sites web (acquis en 2008 et fermé en 2009)
+* Mobinaute.com : site web d'actualité mobile (acquis en 2008 et fermé en 2010)
+* [[PureMédias|Ozap]] : site web d'actualité médias (acquis en 2008 et revendu en 2011)
+* [[Summit Entertainment]] : société de production (prise de participation en 2007 et revendue en 2012)
+* [[Mistergooddeal]] : site web marchand de l'ameublement (acquis en 2005 et revendu en 2014)
+* [[Jeuxvideo.fr]] : site web d'information sur les [[Jeu vidéo|jeux vidéo]] (acquis en 2008 et fermé en 2015)
+* [[Happyview]] : site web marchand de [[Lunettes|lunettes de vue]] et de [[lunettes de soleil]] (acquis en 2013 et revendu en 2016)
+* Malentille.com : site web marchand de [[lentilles de contact]] (acquis en 2013 et revendu en 2016)
+* [[M6 Mobile]] : [[opérateur de réseau mobile virtuel]] sous accord de licence de marque avec [[Orange (entreprise)|Orange]] (lancé en 2005 et arrêté en 2016)
+* Clubic.com : actualité high-tech et numérique ; finalement revendu pour redevenir indépendant en mars 2018<ref>{{Article|langue=fr|titre=Clubic (re)devient indépendant|périodique=Clubic.com|date=2018-03-30|lire en ligne=http://www.clubic.com/humour-informatique-geek/actualite-842997-clubic-re-independant.html|consulté le=2018-03-30}}.</ref>{{,}}<ref>{{Article|langue=fr|auteur1=david@nextinpact.com|titre=Le rachat de Clubic finalisé : retour de deux fondateurs autour d'anciens de M6 Web|périodique=Next Impact|date=2018-03-26|lire en ligne=https://www.nextinpact.com/news/106247-le-rachat-clubic-finalise-retour-deux-fondateurs-autour-danciens-m6-web.htm|consulté le=2018-03-30|pages=}}.</ref>
+* [[Monalbumphoto.fr]] : société spécialisée dans l'impression et le façonnage d'album photo imprimé et relié sous forme de livre photo, calendrier, poster, carte de vœux, toile, tableau photo, coques… (acquis en 2010 et revendu en 2018)<ref>{{Article|langue=fr|titre=Négociations en vue de la cession de MonAlbumPhoto|périodique=M6Groupe|date=2018-06-25|lire en ligne=http://www.groupem6.fr/negociations-exclusives-en-vue-de-la-cession-de-monalbumphoto/|consulté le=2018-07-27}}.</ref>
+* Odiso : [[hébergeur web]] : Cédée durant le premier trimestre 2021 à [[Cyllene]]{{Lequel|date=avril 2022}}
+
+== Audiences du groupe ==
+En 2016, la part d'[[Audience (média)|audience]] moyenne des trois chaînes gratuites du {{nobr|groupe M6}} est de 14,1 %, classant le groupe troisième de France derrière [[France Télévisions]] à 28,6 % et le [[groupe TF1]] à 27,4 %, avec cinq chaînes gratuites chacun<ref name="Ozap20117">{{Lien web |auteur=Charles Decant |titre= Audiences annuelles 2016 : TF1, France 2, France 3 et Canal+ au plus bas |url=http://www.ozap.com/actu/audiences-annuelles-2016-tf1-france-2-france-3-et-canal-au-plus-bas/516025 |site=[[PureMédias]] |date=2 janvier 2017 |consulté le=19 avril 2017}}.</ref>.
+
+La part d'audience moyenne des chaînes gratuites du groupe M6 a augmenté de {{unité|1.4|point}} entre 2000 et 2016. Dans le détail, [[M6]] a perdu {{unité|2.5|points}} sur cette même période, [[W9]] a gagné {{unité|1.6|points}} entre 2007 et 2016 et [[6ter]] a gagné {{unité|0.9|points}} entre 2013 et 2016. Cette hausse générale d'audience du groupe peut s'expliquer par les bons résultats des deux nouvelles chaînes lancées sur la [[Télévision numérique terrestre en France|TNT]] en 2005 et 2012.
+
+{| class="wikitable alternance centre" style="text-align:center;"
+|+Audiences des chaînes gratuites du groupe M6 <small>(en %)</small>
+|-
+! scope="col"| Année
+! width="60" scope="col" | M6
+! width="60" scope="col" | W9
+! width="60" scope="col" | 6ter
+! width="60" scope="col" | Gulli
+! scope="col"| Total groupe
+|-
+! scope="row" style="text-align:center;"| 2000
+| 12,7 || rowspan="7" {{NC|Non<br>mesuré}} || rowspan="13" {{NC|Non<br>mesuré}} || rowspan="19" {{NC|Non<br>mesuré}} || 12,7
+|-
+! scope="row" style="text-align:center;"| 2001
+| 13,5 || 13,5
+|-
+! scope="row" style="text-align:center;"| 2002
+| 13,2 || 13,2
+|-
+! scope="row" style="text-align:center;"| 2003
+| 12,6 || 12,6
+|-
+! scope="row" style="text-align:center;"| 2004
+| 12,5 || 12,5
+|-
+! scope="row" style="text-align:center;"| 2005
+| 12,6 || 12,6
+|-
+! scope="row" style="text-align:center;"| 2006
+| 12,5 || 12,5
+|-
+! scope="row" style="text-align:center;"| 2007<ref name="Médiamat2008">{{Lien web |titre=Médiamat annuel 2008 |url=http://www.lefigaro.fr/assets/pdf/Mediamat_annuel_2008.pdf |format=pdf |site=[[Le Figaro]] |date=29 décembre 2008 |consulté le=19 avril 2017}}.</ref>
+| 11,5 || 0,9 || 12,4
+|-
+! scope="row" style="text-align:center;"| 2008<ref name="Médiamat2008"/>
+| 11,0 || 1,8 || 12,8
+|-
+! scope="row" style="text-align:center;"| 2009<ref name="Médiamat2010">{{Lien web |titre=Médiamat annuel 2010 |url=http://www05.r7g.com/50071/e/2011%2001%2003_CdP%20Mediamat%20annuel%202010.pdf |format=pdf |site=www05.r7g.com |date=3 janvier 2011 |consulté le=19 avril 2017}}.</ref>
+| 10,8 || 2,5 || 13,3
+|-
+! scope="row" style="text-align:center;"| 2010<ref name="Médiamat2010"/>
+| 10,4 || 3,0 || 13,4
+|-
+! scope="row" style="text-align:center;"| 2011<ref name="Médiamat2012">{{Lien web |titre=Médiamat annuel 2012 |url=http://www.sporsora.com/images/sporsora/telechargement/Ressources/3.%20Chiffres_cles/MEDIAMETRIE_Mediamat_annuel_2012.pdf |format=pdf |site=sporsora.com |date=7 janvier 2013 |consulté le=19 avril 2017}}.</ref>
+| 10,8 || 3,4 || 14,2
+|-
+! scope="row" style="text-align:center;"| 2012<ref name="Médiamat2012"/>
+| 11,2 || 3,2 || 14,4
+|-
+! scope="row" style="text-align:center;"| 2013<ref>{{Lien web |auteur=Thierry Wojciak |titre=Mediamat annuel 2014 : TF1 consolide, RMC Découverte HD 24 performe |url=http://www.cbnews.fr/medias/mediamat-annuel-2014-tf1-consolide-rmc-decouverte-hd-24-performe-a1016980 |site=[[CB News]] |date=5 janvier 2015 |consulté le=19 avril 2017}}.</ref>
+| 10,6 || 2,9 || 0,5 || 14,0
+|-
+! scope="row" style="text-align:center;"| 2014<ref name="Médiamat2015">{{Lien web |titre=Médiamat annuel 2015 |url=http://www.mediametrie.fr/television/communiques/telecharger.php?f=2bd7f907b7f5b6bbd91822c0c7b835f6 |format=pdf |site=[[Médiamétrie]] |date=11 janvier 2016 |consulté le=19 avril 2017}}.</ref>
+| 10,1 || 2,6 || 0,7 || 13,4
+|-
+! scope="row" style="text-align:center;"| 2015<ref name="Médiamat2015"/>
+| 9,9 || 2,6 || 1,1 || 13,6
+|-
+! scope="row" style="text-align:center;"| 2016<ref name="Ozap20117"/>
+| 10,2 || 2,5 || 1,4 || 14,1
+|-
+! scope="row" style="text-align:center;"| 2017<ref>{{Lien web|auteur=Charles Decant|titre=Audiences annuelles 2017 : TF1 et France 2 limitent la casse, M6 très faible, France 5 devant C8 et TMC|url=https://www.ozap.com/actu/audiences-annuelles-2017-tf1-et-france-2-limitent-la-casse-m6-tres-faible-france-5-devant-c8-et-tmc/546772|site=[[PureMédias|ozap.com]]|date=2 janvier 2018|consulté le=2 janvier 2018}}.</ref>
+| 9,5 || 2,6 || 1,7 || 13,8
+|-
+! scope="row" style="text-align:center;"| 2018<ref>{{Lien web|auteur=Pierre Dezeraud|titre=Audiences annuelles 2018 : TF1 résiste, France 2 brille, France 3 double M6, le groupe NextRadioTV au top|url=https://www.ozap.com/actu/audiences-annuelles-2018-tf1-resiste-france-2-brille-france-3-double-m6-le-groupe-nextradiotv-au-top/572829|site=[[PureMédias|ozap.com]]|date=2 janvier 2019|consulté le=2 janvier 2018}}.</ref>
+| 9,1 || 2,6 || 1,6 || 13,3
+|-
+! scope="row" style="text-align:center;"| 2019<ref>{{Lien web|auteur=Benjamin Meffre|titre=Audiences annuelles 2019 : Les chaînes TF1 et M6 au plus bas, le service public en forme, record pour LCI et L'Equipe|url=https://www.ozap.com/actu/audiences-annuelles-2019-les-chaines-tf1-et-m6-au-plus-bas-le-service-public-en-forme-record-pour-lci-et-l-equipe/587635|site=[[PureMédias|ozap.com]]|date=31 décembre 2019|consulté le=31 décembre 2019}}.</ref>
+| 8,9 || 2,5 || 1,7 || 1,4 || 14,5
+|-
+! scope="row" style="text-align:center;"| 2020<ref>{{Lien web|auteur=Benjamin Meffre|titre=Audiences annuelles 2020 : TF1 petit leader, F2, F3 et M6 en hausse, les chaînes info au top, C8 dévisse|url=https://www.ozap.com/actu/audiences-annuelles-2020-tf1-petit-leader-f2-f3-et-m6-en-hausse-les-chaines-info-au-top-c8-devisse/600029|site=[[PureMédias|ozap.com]]|date=4 janvier 2021|consulté le=4 janvier 2021}}.</ref>
+| 9,0 || 2,6 || 1,7 || 1,3 || 14,6
+|-
+! scope="row" style="text-align:center;"| 2021<ref>{{Lien web|auteur=Ludovic Galtier|titre=Audiences annuelles 2021 : TF1 leader en hausse, F2 au top réduit l'écart, records historiques pour CNews et RMC Story|url=https://www.ozap.com/actu/audiences-annuelles-2021-tf1-leader-en-hausse-f2-au-top-reduit-l-ecart-records-historiques-pour-cnews-et-rmc-story/611742|site=[[PureMédias|ozap.com]]|date=5 janvier 2022|consulté le=5 janvier 2022}}</ref>
+| 9,1 || 2,5 || 1,5 || 1,2 || 14,3
+|}
+
+== Notes et références ==
+{{Références nombreuses|taille=36|colonnes=2}}
+
+== Annexes ==
+{{autres projets
+|commons=Category:M6 (TV channel)
+}}
+
+=== Articles connexes ===
+* [[Liste des chaînes de télévision en France]]
+* [[M6]], chaîne historique du groupe
+* [[RTL Group]], actionnaire principal
+
+=== Bibliographie ===
+* {{Ouvrage |langue=fr |auteur1=Marc Pellerin |auteur2=François Viot |titre=M6 Story |sous-titre=la saga de la chaîne en trop |lieu=Paris |éditeur=[[Groupe Flammarion|Flammarion]] |collection=Flammarion enquête |année=2012 |pages totales=632 |isbn=978-2-08-125107-6 |bnf=42618438q}}.
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+* {{Site officiel}}
+
+{{Palette|Groupe M6|RTL Group|Bertelsmann|CAC Mid 60|Next 150}}
+{{Portail|entreprises|médias|Hauts-de-Seine|télévision française}}
+
+[[Catégorie:Groupe M6| ]]
+[[Catégorie:Entreprise du Next 150|M6]]
+[[Catégorie:Entreprise du CAC Mid 60|M6]]

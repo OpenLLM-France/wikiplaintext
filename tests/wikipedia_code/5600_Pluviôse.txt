@@ -1,0 +1,118 @@
+{{voir homonymes|Pluviôse (homonymie)}}
+
+Le mois de '''pluviôse''' est le cinquième mois du [[calendrier républicain]] [[france|français]] correspondant à quelques jours près (selon l'année) à la période allant du [[20 janvier]] au [[18 février]] du [[calendrier grégorien]]. Il suit le mois de [[nivôse]] et précède [[ventôse]].
+
+== Étymologie ==
+Il tirait son nom « des pluies qui tombent généralement avec plus d'abondance de janvier en février », selon les termes du rapport présenté à la [[Convention nationale]] le {{date républicaine-|3 brumaire an II}} ({{date|24|octobre|1793}}) par [[Fabre d'Églantine]], au nom de la « commission chargée de la confection du calendrier ». Dérivé ou inspiré du latin ''pluviosus'' « pluvieux » et de ''pluvia'' « pluie »<ref>https://www.cnrtl.fr/definition/pluvi%C3%B4se</ref>.
+
+Le décret du {{date républicaine-|4 frimaire an II}} ({{date|24|novembre|1793}}) orthographiait le nom du mois '''pluviose''', sans accent circonflexe. L'ajout généralisé de cet accent s'est installé progressivement, à une époque ultérieure indéterminée.
+
+== Postérité ==
+Le nom de ce mois a été rendu célèbre par le [[sonnet]] de [[Charles Baudelaire]] ''[[Spleen I (poème) - Pluviôse, irrité contre la ville entière|Spleen I]]'', des ''[[Les Fleurs du mal|Fleurs du mal]]''.
+ 
+== Calendrier ==
+Il correspondait à quelques jours près (selon l'année) à la période allant du [[20 janvier]] au [[18 février]] du [[calendrier grégorien]].
+
+L'ère républicaine s'étant achevée le {{1er_janvier}} [[1806]], il n'a jamais existé, dans l'usage légal, de mois de pluviôse an XIV.
+
+{{Calendrier Républicain|3|5}}
+
+{{14MoisRépublicains|5}}
+
+{| align="center" cellpadding="3" style="background-color: #ffffee; border: 1px solid #999; border-right: 2px solid #999; border-bottom: 2px solid #999"
+|-
+! Tables de concordance des calendriers républicain et grégorien<br />pour le mois de '''pluviôse'''
+|-
+|
+{| align="center" rules="all" cellspacing="0" cellpadding="3" style="border: 1px solid #999; text-align: center"
+| align="center" colspan="30" |
+{| width="66%" align="center" style="text-align:center"
+|-
+| width="11%" style="background-color: #e8e8e8" | [[an I]]
+| width="11%" style="background-color: #f3f3f3" | [[an II]]
+| width="11%" style="background-color: #e8e8e8" | [[an III]]
+| width="11%" style="background-color: #f3f3f3" | [[an V]]
+| width="11%" style="background-color: #e8e8e8" | [[an VI]]
+| width="11%" style="background-color: #f3f3f3" | [[an VII]]
+|}
+|-
+| [[1er pluviôse|{{1er}}]] || [[2 pluviôse|2]] || [[3 pluviôse|3]] || [[4 pluviôse|4]] || [[5 pluviôse|5]] || [[6 pluviôse|6]] || [[7 pluviôse|7]] || [[8 pluviôse|8]] || [[9 pluviôse|9]] || [[10 pluviôse|10]] || [[11 pluviôse|11]] || [[12 pluviôse|12]] || [[13 pluviôse|13]] || [[14 pluviôse|14]] || [[15 pluviôse|15]] || [[16 pluviôse|16]] || [[17 pluviôse|17]] || [[18 pluviôse|18]] || [[19 pluviôse|19]] || [[20 pluviôse|20]] || [[21 pluviôse|21]] || [[22 pluviôse|22]] || [[23 pluviôse|23]] || [[24 pluviôse|24]] || [[25 pluviôse|25]] || [[26 pluviôse|26]] || [[27 pluviôse|27]] || [[28 pluviôse|28]] || [[29 pluviôse|29]] || [[30 pluviôse|30]]
+|- style="border-top: 2px solid #999"
+| [[20 janvier|20]] || [[21 janvier|21]] || [[22 janvier|22]] || [[23 janvier|23]] || [[24 janvier|24]] || [[25 janvier|25]] || [[26 janvier|26]] || [[27 janvier|27]] || [[28 janvier|28]] || [[29 janvier|29]] || [[30 janvier|30]] || [[31 janvier|31]] || style="border-left: 2px solid #999" | [[1er février|1{{er}}]] || [[2 février|2]] || [[3 février|3]] || [[4 février|4]] || [[5 février|5]] || [[6 février|6]] || [[7 février|7]] || [[8 février|8]] || [[9 février|9]] || [[10 février|10]] || [[11 février|11]] || [[12 février|12]] || [[13 février|13]] || [[14 février|14]] || [[15 février|15]] || [[16 février|16]] || [[17 février|17]] || [[18 février|18]]
+|-
+| align="center" colspan="30" |
+{| width="100%" style="text-align: center"
+| width="17%" align="left" | [[Janvier]]
+| width="11%" style="background-color: #e8e8e8" | [[1793]]
+| width="11%" style="background-color: #f3f3f3" | [[1794]]
+| width="11%" style="background-color: #e8e8e8" | [[1795]]
+| width="11%" style="background-color: #f3f3f3" | [[1797]]
+| width="11%" style="background-color: #e8e8e8" | [[1798]]
+| width="11%" style="background-color: #f3f3f3" | [[1799]]
+| width="17%" align="right" | [[Février]]
+|}
+|}
+|-
+|
+{| align="center" rules="all" cellspacing="0" cellpadding="3" style="border: 1px solid #999; text-align: center; margin-top: 1em"
+| align="center" colspan="30" |
+{| width="66%" align="center" style="text-align:center"
+|-
+| width="11%" style="background-color: #e8e8e8" | [[an IV]]
+| width="11%" style="background-color: #f3f3f3" | [[an VIII]]
+| width="11%" style="background-color: #e8e8e8" | [[an IX]]
+| width="11%" style="background-color: #f3f3f3" | [[an X]]
+| width="11%" style="background-color: #e8e8e8" | [[an XI]]
+| width="11%" style="background-color: #f3f3f3" | [[an XIII]]
+|}
+|-
+| [[1er pluviôse|{{1er}}]] || [[2 pluviôse|2]] || [[3 pluviôse|3]] || [[4 pluviôse|4]] || [[5 pluviôse|5]] || [[6 pluviôse|6]] || [[7 pluviôse|7]] || [[8 pluviôse|8]] || [[9 pluviôse|9]] || [[10 pluviôse|10]] || [[11 pluviôse|11]] || [[12 pluviôse|12]] || [[13 pluviôse|13]] || [[14 pluviôse|14]] || [[15 pluviôse|15]] || [[16 pluviôse|16]] || [[17 pluviôse|17]] || [[18 pluviôse|18]] || [[19 pluviôse|19]] || [[20 pluviôse|20]] || [[21 pluviôse|21]] || [[22 pluviôse|22]] || [[23 pluviôse|23]] || [[24 pluviôse|24]] || [[25 pluviôse|25]] || [[26 pluviôse|26]] || [[27 pluviôse|27]] || [[28 pluviôse|28]] || [[29 pluviôse|29]] || [[30 pluviôse|30]]
+|- style="border-top: 2px solid #999"
+| [[21 janvier|21]] || [[22 janvier|22]] || [[23 janvier|23]] || [[24 janvier|24]] || [[25 janvier|25]] || [[26 janvier|26]] || [[27 janvier|27]] || [[28 janvier|28]] || [[29 janvier|29]] || [[30 janvier|30]] || [[31 janvier|31]] || style="border-left: 2px solid #999" | [[1er février|1{{er}}]] || [[2 février|2]] || [[3 février|3]] || [[4 février|4]] || [[5 février|5]] || [[6 février|6]] || [[7 février|7]] || [[8 février|8]] || [[9 février|9]] || [[10 février|10]] || [[11 février|11]] || [[12 février|12]] || [[13 février|13]] || [[14 février|14]] || [[15 février|15]] || [[16 février|16]] || [[17 février|17]] || [[18 février|18]] || [[19 février|19]]
+|-
+| align="center" colspan="30" |
+{| width="100%" style="text-align: center"
+|-
+| width="17%" align="left" | [[Janvier]]
+| width="11%" style="background-color: #e8e8e8" | [[1796]]
+| width="11%" style="background-color: #f3f3f3" | [[1800]]
+| width="11%" style="background-color: #e8e8e8" | [[1801]]
+| width="11%" style="background-color: #f3f3f3" | [[1802]]
+| width="11%" style="background-color: #e8e8e8" | [[1803]]
+| width="11%" style="background-color: #f3f3f3" | [[1805]]
+| width="17%" align="right" | [[Février]]
+|}
+|}
+|-
+|
+{| align="center" rules="all" cellspacing="0" cellpadding="3" style="border: 1px solid #999; text-align: center; margin-top: 1em"
+| align="center" colspan="30" |
+{| width="11%" align="center" style="text-align:center"
+|-
+| width="11%" style="background-color: #e8e8e8" | [[an XII]]
+|}
+|-
+| [[1er pluviôse|{{1er}}]] || [[2 pluviôse|2]] || [[3 pluviôse|3]] || [[4 pluviôse|4]] || [[5 pluviôse|5]] || [[6 pluviôse|6]] || [[7 pluviôse|7]] || [[8 pluviôse|8]] || [[9 pluviôse|9]] || [[10 pluviôse|10]] || [[11 pluviôse|11]] || [[12 pluviôse|12]] || [[13 pluviôse|13]] || [[14 pluviôse|14]] || [[15 pluviôse|15]] || [[16 pluviôse|16]] || [[17 pluviôse|17]] || [[18 pluviôse|18]] || [[19 pluviôse|19]] || [[20 pluviôse|20]] || [[21 pluviôse|21]] || [[22 pluviôse|22]] || [[23 pluviôse|23]] || [[24 pluviôse|24]] || [[25 pluviôse|25]] || [[26 pluviôse|26]] || [[27 pluviôse|27]] || [[28 pluviôse|28]] || [[29 pluviôse|29]] || [[30 pluviôse|30]]
+|- style="border-top: 2px solid #999"
+| [[22 janvier|22]] || [[23 janvier|23]] || [[24 janvier|24]] || [[25 janvier|25]] || [[26 janvier|26]] || [[27 janvier|27]] || [[28 janvier|28]] || [[29 janvier|29]] || [[30 janvier|30]] || [[31 janvier|31]] || style="border-left: 2px solid #999" | [[1er février|1{{er}}]] || [[2 février|2]] || [[3 février|3]] || [[4 février|4]] || [[5 février|5]] || [[6 février|6]] || [[7 février|7]] || [[8 février|8]] || [[9 février|9]] || [[10 février|10]] || [[11 février|11]] || [[12 février|12]] || [[13 février|13]] || [[14 février|14]] || [[15 février|15]] || [[16 février|16]] || [[17 février|17]] || [[18 février|18]] || [[19 février|19]] || [[20 février|20]]
+|-
+| align="center" colspan="30" |
+{| width="100%" style="text-align: center"
+| width="44.5%" align="left" | [[Janvier]]
+| width="11%" style="background-color: #e8e8e8" | [[1804]]
+| width="44.5%" align="right" | [[Février]]
+|}
+|}
+|}
+
+== Armée ==
+La [[Classe Pluviôse]] désigne des sous-marins français (comme le [[Pluviôse (Q51)]]).
+
+== Notes et références ==
+{{Références}}
+
+{{Palette|Mois du calendrier républicain}}{{Portail|Révolution française|temps}}
+
+[[Catégorie:Mois du calendrier républicain]]
+
+[[sv:Franska revolutionskalendern#Månaderna]]

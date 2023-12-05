@@ -1,0 +1,116 @@
+{{Confusion|Nombre algébrique}}
+{{Voir homonymes|Entier|Algébrique}}
+
+En [[mathématiques]], un '''entier algébrique''' est un élément d'un [[corps de nombres]] qui y joue un rôle analogue à celui d'un [[entier relatif]] dans le corps des [[Nombre rationnel|nombres rationnels]]. L'étude des entiers algébriques est à la base de l'arithmétique des corps de nombres, et de la généralisation dans ces corps de notions comme  celles de [[nombre premier]] ou de [[division euclidienne]]. Par définition, un entier algébrique est une [[racine d'un polynôme|racine]] d'un [[polynôme unitaire]] à coefficients dans ℤ. Par exemple, le nombre 1 + {{sqrt|3}} est un entier algébrique, car il est une racine du polynôme unitaire à coefficients entiers {{nobr|''X''{{2}} – 2''X'' – 2.}} Les nombres de la forme {{math|''a'' + ''b''i}} où {{math|''a''}} et {{math|''b''}} sont des entiers relatifs et où {{math|i}} désigne une racine du polynôme ''X''{{2}} + 1 sont aussi des entiers algébriques particuliers ; ils sont appelés [[entier de Gauss|entiers de Gauss]].
+
+Cette définition a émergé au cours du {{s|XIX}}, en particulier dans les travaux de [[Richard Dedekind]], car elle donne une notion adéquate pour développer  l'arithmétique dans des [[corps de nombres]].
+Un autre usage de ces nombres est la résolution d'[[équation diophantienne|équations diophantiennes]], c'est-à-dire d'équations polynomiales à coefficients dans les entiers relatifs, et dont on recherche les solutions entières. Des exemples sont le [[théorème des deux carrés de Fermat]], le [[dernier théorème de Fermat]] ou encore l'[[équation de Pell-Fermat]]. Par ailleurs, la compréhension de la structure d'un [[anneau unitaire|anneau]] d'entiers permet de mieux comprendre le corps d'origine. Les techniques développées pour décrire les propriétés de tels anneaux sont utilisées pour démontrer des théorèmes fondamentaux sur les corps de nombres comme [[théorème de Kronecker-Weber|celui de Kronecker-Weber]].
+
+== Définitions ==
+{{Article détaillé|Élément entier}} 
+
+Un entier algébrique est une racine d'un polynôme unitaire à coefficients dans ℤ.
+
+Les entiers algébriques forment un [[anneau (mathématiques)|anneau]] : la somme, la différence ou le produit de deux entiers algébrique est encore un entier algébrique.
+
+L'intersection de cet [[Anneau intègre|anneau (commutatif, unifère) intègre]] avec un [[sous-corps]] ''K'' de ℂ s'appelle l'''anneau des entiers'' de ''K'', souvent noté ''O{{ind|K}}''.
+
+Un entier algébrique est en particulier un [[nombre algébrique]]. À ce titre, il engendre un [[corps de nombres]], c'est-à-dire une [[extension finie]] du [[Corps commutatif|corps]] ℚ des [[nombre rationnel|rationnels]]. Mais tous les nombres algébriques ne sont pas des entiers algébriques (par exemple 1/2 est algébrique mais pas entier). Pour tout nombre algébrique α, de [[polynôme minimal d'un nombre algébrique|polynôme minimal]] ''P'' :
+*α est un entier algébrique si et seulement si ''P'' est à coefficients dans ℤ ;
+*il existe un entier ''n'' > 0 tel que ''n''α soit un entier algébrique (il suffit de prendre pour ''n'' le produit des dénominateurs des coefficients de ''P'').
+
+La notion d'entiers algébriques est un cas particulier d'éléments entiers dans une extension d'anneaux : 
+
+*Soient ''A ''un [[anneau commutatif]] ([[Anneau unifère|unifère]]) et ''B ''une [[algèbre associative|''A''-algèbre]]. Un élément de ''B ''est dit entier sur ''A'' s'il est annulé par un polynôme unitaire à coefficients dans ''A.'' Le [[sous-anneau]] de ''B ''constitué des éléments entiers sur ''A ''s'appelle la [[fermeture intégrale]] de ''A ''dans ''B.''
+Ainsi, l'anneau des entiers algébriques est la fermeture intégrale de ℤ dans ℂ et l'anneau des entiers d'un sous-corps ''K ''de ℂ est la fermeture intégrale de ℤ dans ''K.''
+*La [[clôture intégrale]] d'un anneau intègre est, par définition, sa fermeture intégrale dans son [[corps des fractions]]. L'anneau est dit [[Anneau intégralement clos|intégralement clos]] si sa clôture intégrale est réduite à lui-même.
+
+== Exemples ==
+=== Entiers relatifs ===
+{{Article détaillé|contenu=Pour une démonstration, voir le [[Lemme d'Euclide#Fermeture intégrale|§ « Fermeture intégrale » de l'article « Lemme d'Euclide »]].}}
+
+Le corps des fractions de l'anneau ℤ est le corps ℚ, et l'anneau des entiers de ℚ est ℤ, autrement dit :
+{{énoncé|Les seuls rationnels qui sont des entiers algébriques sont les entiers relatifs.}}
+Ou encore : l'anneau ℤ est [[#Définitions|intégralement clos]]. (Plus généralement, tout [[anneau factoriel]] est intégralement clos.)
+
+=== Entier de Gauss ===
+{{Article détaillé|Entier de Gauss}}
+
+L'anneau ℤ[{{math|i}}] des entiers de Gauss est le sous-anneau de ℂ constitué des nombres de la forme ''a'' + ''b''{{math|i}} avec ''a'' et ''b'' entiers relatifs. Son corps des fractions est le corps ℚ({{math|i}}) des [[rationnel de Gauss|rationnels de Gauss]], constitué des complexes de la forme α + β{{math|i}} où α et β sont des nombres rationnels.
+
+{{énoncé|L'anneau des entiers de ℚ({{math|i}}) est ℤ[{{math|i}}].}}
+
+À nouveau, [[#Anneau intégralement clos|cet anneau est intégralement clos]]. Il est en fait, comme ℤ, factoriel car principal et même [[anneau euclidien|euclidien]].
+
+Les entiers de Gauss sont utilisés pour la résolution de certaines équations diophantiennes comme celle du [[théorème des deux carrés de Fermat]].
+
+=== Entier quadratique ===
+{{Article détaillé|Corps quadratique|Entier quadratique}}
+L'anneau des entiers de Gauss est le prototype d'anneau des entiers d'un [[Extension quadratique|corps quadratique]], c'est-à-dire d'un corps de la forme ℚ({{racine|''d''}}) pour un certain entier relatif ''d'' [[Entier sans facteur carré|sans facteur carré]]. Dans le cas où ''d'' est négatif, la notation {{racine|''d''}}, spécifique à ce contexte et commentée dans les deux articles détaillés, désigne l'[[Nombre imaginaire pur|imaginaire pur]] {{math|i}}{{racine|{{!}}''d''{{!}}}} ; ainsi, les entiers de Gauss correspondent au cas ''d'' = –1. Mais pour d'autres valeurs de ''d'', comme [[Anneau des entiers de Q(√5)|''d'' = 5]], l'anneau des entiers de ℚ({{racine|''d''}}) n'est pas réduit à ℤ[{{racine|''d''}}]. Plus précisément :
+
+{{énoncé|L'anneau ''O''{{ind|ℚ({{racine|''d''}})}} des entiers du corps quadratique ℚ({{racine|''d''}}) est ℤ[ω], où le nombre complexe ω est défini par :<center><math>\omega=\frac{1+\sqrt d}2\text{ si }d\equiv1\text{ mod }4\quad\text{et}\quad\omega=\sqrt d \text{ sinon.}</math></center>}}
+
+Le corps des fractions de cet anneau, ainsi que de tout sous-anneau ''A'' contenant strictement ℤ, est égal à ℚ({{racine|''d''}}), et la fermeture intégrale de ''A ''dans ℚ({{racine|''d''}}) est ''O''{{ind|ℚ({{racine|''d''}})}} ({{cf.}} § « Anneau intégralement clos » [[#Anneau intégralement clos|ci-dessous]]). Par conséquent ''O''{{ind|ℚ({{racine|''d''}})}} est, comme ℤ, intégralement clos, mais aucun anneau intermédiaire ne l'est. Ces anneaux intermédiaires sont a fortiori non factoriels (donc non principaux) : dans tous ces anneaux (puisqu'ils sont [[#Propriétés noethériennes|noethériens, comme ℤ[ω]]]), tout élément non nul possède une décomposition en produit d'[[élément irréductible|éléments irréductibles]] mais pas toujours unique, ou, ce qui revient au même, pas toujours en produit d'[[élément premier|éléments premiers]].
+
+Par exemple, puisque –3 est congru à 1 modulo 4, l'anneau des entiers de ℚ({{math|i}}{{racine|3}}) est l'anneau ℤ[(1 + {{math|i}}{{racine|3}})/2] des [[entier d'Eisenstein|entiers d'Eisenstein]] (euclidien, et égal à ℤ[{{math|j}}] si {{math|j}} désigne une [[Racine de l'unité#Exemples|racine cubique primitive de l'unité]]). Le sous-anneau ℤ[{{math|i}}{{racine|3}}] n'est pas factoriel : dans ce sous-anneau, l'entier 4 admet deux décompositions en facteurs irréductibles :
+<center><math>4=2\times2=(1+\mathrm i\sqrt3)(1-\mathrm i\sqrt3).</math></center>
+
+Même l'anneau des entiers de ℚ({{racine|''d''}}), bien qu'intégralement clos, n'est pas toujours factoriel, comme en témoignent l'[[entier quadratique#Anneaux non factoriels|exemple ''d'' = –5]] et le [[théorème de Stark-Heegner]].
+
+== Structure ==
+L'intérêt de l'anneau des entiers algébriques d'un corps quadratique ou [[corps cyclotomique|cyclotomique]], ou plus généralement d'un [[corps de nombres]], réside dans ses propriétés supplémentaires. Elles sont à l'origine de certaines des démonstrations de la [[loi de réciprocité quadratique]] ou d'autres {{Lien|trad=Reciprocity law|Loi de réciprocité|texte=lois de réciprocité}} et de {{Precnec|date=juin 2012|nombreux autres théorèmes}}. Elles permettent de résoudre des équations comme [[équation de Pell-Fermat|celle de Pell-Fermat]] ou de [[Nombre premier régulier|certains cas]] du [[dernier théorème de Fermat]].
+
+=== Anneau intégralement clos ===
+{{énoncé|Tout corps de nombres ''K'' est le corps des fractions de l'anneau ''O{{ind|K}}'' de ses entiers, et ''O{{ind|K}}'' est [[#Définitions|intégralement clos]].}}
+
+La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel ({{cf.}} § « Définitions » [[#Définitions|ci-dessus]]), si bien que ''K'' = ℚ''O{{ind|K}}''. La seconde en résulte parce que tout élément [[#Définitions|entier sur]] un anneau d'entiers algébriques est lui-même un entier algébrique ({{cf.}} [[Élément entier#Propriétés|corollaire 2 de l'article « Élément entier »]]).
+
+=== Propriétés noethériennes ===
+{{Article détaillé|Anneau noethérien}}
+
+L'anneau des entiers d'un corps de nombres est un [[Module sur un anneau|ℤ-module]] [[Module de type fini|de type fini]], par application à ''A ''= ℤ de la propriété générale suivante, démontrée dans l'article détaillé dans le cas particulier, suffisant ici, où ''A ''est noethérien et intégralement clos :
+
+{{Retrait|Soient ''A ''un anneau intègre, ''K ''son corps des fractions, ''L ''une [[extension finie]] [[extension séparable|séparable]] de ''K ''et ''B ''la fermeture intégrale de ''A ''dans ''L. ''Alors ''B ''est un ''A''-module de type fini.}}
+
+On en déduit deux propriétés essentielles :
+
+{{énoncé|L'anneau des entiers d'un corps de nombres de [[Degré d'une extension|degré]] ''d'' est un ℤ-[[module libre]] de rang ''d''.}}
+
+{{Retrait|En effet, ce ℤ-module de type fini est sans [[Torsion (algèbre)|torsion]] donc libre, et (comme remarqué dans la section précédente) son produit par ℚ est égal au corps de nombres.<br />(D'autres arguments sont utilisables :<br />– dans l'article détaillé, pour démontrer que le ''A''-module est de type fini, on montre en fait qu'il contient un [[sous-module]] isomorphe à ''A''{{exp|''d''}} et qu'il est lui-même isomorphe à un sous-module de ''A''{{exp|''d''}} ;<br />– [[Élément conjugué#Propriétés|un lemme sur les éléments conjugués]] permet d'affirmer que l'anneau des entiers d'un corps de nombres de degré ''d ''est additivement isomorphe à un [[Réseau (géométrie)|réseau]] dans ℂ{{exp|''d''}}.)
+}}
+
+{{énoncé|Tout anneau d'entiers d'un corps de nombres est noethérien.}}
+
+{{Retrait|En effet, tout sous-module d'un [[groupe abélien de type fini|ℤ-module de type fini]] est de type fini, or il résulte du [[Anneau noethérien#Polynômes et séries formelles|théorème de la base de Hilbert]] que toute [[algèbre de type fini]] sur un anneau noethérien est elle-même un anneau noethérien.}}
+
+=== Anneau de Dedekind ===
+{{Article détaillé|Anneau de Dedekind}}
+
+L'anneau des entiers algébriques d'un corps de nombres, en plus d'être intégralement clos et noethérien, vérifie que tous ses [[Idéal premier|idéaux premiers]] non nuls sont [[Idéal maximal|maximaux]], ce qui fait de lui un [[anneau de Dedekind]].
+
+Cette propriété est démontrée (§ « Entier algébrique ») et généralisée (§ « Extension finie ») dans l'article détaillé.
+
+=== [[Groupe des unités]] ===
+{{Article détaillé|Théorème des unités de Dirichlet}}
+
+== Voir aussi ==
+=== Articles connexes ===
+*[[Norme (théorie des corps)]]
+*[[Ordre (théorie des anneaux)]]
+* [[Anneau de Bézout]] (l'anneau des entiers algébriques en est un)
+
+=== Bibliographie ===
+* [[Nicolas Bourbaki|Bourbaki]], ''[[Éléments de mathématique]], Algèbre commutative
+*{{Ouvrage|langue=fr|langue originale=en|prénom1=G. H.|nom1=Hardy|lien auteur1=Godfrey Harold Hardy|prénom2=E. M.|nom2=Wright|lien auteur2=Edward Maitland Wright|traducteur=François Sauvageot|préface=[[Catherine Goldstein]]|titre=Introduction à la théorie des nombres|éditeur=Vuibert-Springer|lieu=Paris/Heidelberg|année=2007|pages totales=568|isbn=978-2-7117-7168-4}}
+* {{Ouvrage|langue=en|prénom1=Kenneth|nom1=Ireland|prénom2=Michael|nom2=Rosen|lien auteur2=Michael Rosen (mathématicien)|titre=A Classical Introduction to Modern Number Theory|éditeur=Springer|collection=[[Graduate Texts in Mathematics|GTM]]|numéro dans collection=84|année=1990|numéro d'édition=2|réimpression=1998|pages totales=389|isbn=978-0-387-97329-6|lire en ligne=https://books.google.fr/books?id=jhAXHuP2y04C}}
+* {{Samuel1}}
+* {{Serre1}}
+
+=== Liens externes ===
+* {{Ouvrage|prénom1=Bas|nom1=Edixhoven|lien auteur1=Bas Edixhoven|prénom2=Laurent|nom2=Moret-Bailly|titre=Théorie algébrique des nombres, cours de [[Maîtrise (France)|maîtrise]] de mathématiques|éditeur=[[université de Rennes 1]]|année=2004|isbn=|lire en ligne=http://perso.univ-rennes1.fr/laurent.moret-bailly/docpedag/polys/tano04.pdf}}
+* [http://www.institut.math.jussieu.fr/~merel/TAN.pdf Nombres algébriques et nombres p-adiques] par Loïc Merel, cours préparatoire aux études doctorales 2003-04, [[université Pierre-et-Marie-Curie]], [[université Denis Diderot]]
+
+{{Portail|arithmétique et théorie des nombres}}
+
+[[Catégorie:Théorie algébrique des nombres]]
+[[Catégorie:Théorie de Galois]]

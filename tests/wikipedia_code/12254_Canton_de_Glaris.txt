@@ -1,0 +1,392 @@
+{{Infobox Canton de Suisse
+ | nom                        = Canton de Glaris
+ | nom de                     = Kanton Glarus
+ | nom it                     = Canton Glarona
+ | nom rm                     = Chantun Glaruna
+ | blason                     = Wappen Glarus matt.svg
+ | drapeau                    = Flag of Canton of Glarus.svg
+ | imageloc                   = Switzerland Locator Map GL.svg
+ | canton                     = GL
+ | adhésion                  = {{date|4|juin|1352|âge=oui}}
+ | chef-lieu                  = [[Glaris (ville)|Glaris]]
+ | langue officielle          = [[Allemand]]
+ | classement superficie      = 17
+ | point culminant            = [[Tödi]]
+ | alt maxi                   = 3614
+ | point le plus bas          = Berges de<br> la [[Linth]] près de la frontière<br> avec [[Canton de Saint-Gall|Saint-Gall]]
+ | alt mini                   = 410
+ | exécutif                  = [[Conseil d'État du canton de Glaris|Conseil d'État]] (''Regierungsrat'')
+ | sièges exécutif          = 7
+ | source exécutif           = <ref>{{de}} {{Lien web|url=http://www.gl.ch/xml_1/internet/de/application/d26/f27.cfm|titre=Regierungsmitglieder
+|site=gl.ch|consulté le=8 décembre 2008}}</ref>
+ | législatif                = ''[[Landsgemeinde]]''<br />[[Landrat du canton de Glaris|''Landrat'']]
+ | sièges législatif        = 60
+ | source législatif         = <ref>{{de}} {{Lien web|url=http://www.gl.ch/xml_1/internet/de/application/d11/f12.cfm|titre=Allgemeine Informationen|site=gl.ch|consulté le=8 décembre 2008}}</ref> {{,}}<ref>{{Lien web|url=http://www.gl.ch/xml_1/internet/de/application/d14/d15/f16.cfm|titre=Landrat - Informationen/News|site=gl.ch|consulté le=30 juillet 2018}}</ref>
+ | conseil des États         = 2
+ | conseil national           = 1
+ | source conseil national    = <ref>{{Lien web|url=http://www.parlament.ch/f/ra-raete/ra-nr-nationalrat/ra-nr-nationalrat-mitglieder-prokanton/pages/index.aspx|titre=Liste des conseillers nationaux par canton|site=parlement.ch|consulté le=8 décembre 2008}}</ref>
+ | source conseil des États  = <ref>{{Lien web|url=http://www.parlament.ch/f/ra-raete/ra-sr-staenderat/ra-sr-staenderat-mitgliederprokanton/pages/index.aspx|titre=Liste des conseillers aux États par canton|site=parlement.ch|consulté le=8 décembre 2008}}</ref>
+ | communes                   = [[Communes du canton de Glaris|3]]
+ | source communes            = <ref name="Document90142">{{xls}} {{Lien web|url=http://www.bfs.admin.ch/bfs/portal/fr/index/infothek/nomenklaturen/blank/blank/gem_liste/03.Document.90142.xls|titre=Liste officielle des communes de la Suisse - 01.01.2008|site=Office fédéral de la statistique|consulté le=8 décembre 2008}}</ref>
+ | districts                  = ''Aucun''
+ | site web                   = {{URL|http://www.gl.ch|www.gl.ch}}
+}}
+
+Le '''canton de Glaris''' (GL, {{en lang|de|Kanton Glarus}}) est l'un des {{nobr|26 [[canton (Suisse)|cantons]]}} de la [[Suisse]]. Son chef-lieu est [[Glaris (ville)|Glaris]].
+
+== Toponymie ==
+Le canton est un homonyme de [[Glaris (ville)|Glaris]], son [[Chef-lieu#Suisse|chef-lieu]]. Le premier nom connu du canton, au début du {{s-|IX}}, est ''{{lang|la|Clarona}}''. Le nom [[allemand]] actuel, ''{{lang|de|Glarus}}'', est mentionné pour la première fois en 1178. En [[italien]] et en [[romanche]], le canton se nomme respectivement ''{{lang|it|Glarona}}'' et ''{{lang|rm|Glaruna}}''<ref>{{Lien web |langue=fr |auteur1=Karin Marti-Weissenbach |auteur2=Hans Laupper |traduction=Pierre-G. Martin |titre=Glaris (commune) |url=https://hls-dhs-dss.ch/articles/000766/2020-11-19/ |site=hls-dhs-dss.ch |consulté le=2021-11-29}}.</ref>{{,}}<ref name="dhs gk">{{Lien web |langue=fr |auteur1=Hans Laupper |traduction=Pierre-G. Martin |titre=Glaris (canton) |url=https://hls-dhs-dss.ch/articles/007374/2017-05-30/ |site=hls-dhs-dss.ch |consulté le=2021-11-29}}.</ref>. Les désignations officielles du canton sont ''{{lang|de|Kanton Glarus}}'' et ''{{lang|de|Land Glarus}}''<ref name="dhs gk"/>.
+
+Le [[gentilé]] du canton de Glaris est ''Glaronnais'', avec sa forme féminine ''Glaronnaise''<ref>{{Lien web |langue=fr |titre=Glaris et ses habitants les Glaronnais, Glaronnaises |url=http://www.habitants.ch/habitants_glaris_1609.html |site=www.habitants.ch |consulté le=2021-11-29}}</ref>. En [[allemand]], le gentilé est ''{{lang|de|Glarner}}'' et sa forme féminine est ''{{lang|de|Glarnerin}}''<ref>{{Lien web |langue=de |titre=Glarner {{!}} Rechtschreibung, Bedeutung, Definition, Herkunft |url=https://www.duden.de/rechtschreibung/Glarner_Einwohner |site=www.duden.de |consulté le=2022-01-31}}.</ref>{{,}}<ref>{{Lien web |langue=de |titre=Glarnerin {{!}} Rechtschreibung, Bedeutung, Definition, Herkunft |url=https://www.duden.de/rechtschreibung/Glarnerin |site=www.duden.de |consulté le=2022-01-31}}.</ref>.[[Fichier:Glarus Kloentalersee.jpg|vignette|Le [[lac du Klöntal]].]]
+== Histoire ==
+{{Section à sourcer|date=août 2022}}
+
+=== Préhistoire et protohistoire ===
+Les premières preuves de la présence d’humains dans le canton actuel de Glaris datent de l’[[âge du bronze]] (entre le {{XIIIe siècle av. J.-C.}} et le {{IXe siècle av. J.-C.}}). Des ossements humains et des noms de lieu toujours usités prouvent la présence de [[Celtes|colonies celtiques]] ({{IIIe siècle av. J.-C.}}). Le nom de la rivière [[Linth]] a pour origine le mot celtique ''Linta'' qui signifie le serpent ou le dragon.
+
+=== Période romaine ===
+Les restes de constructions romaines peuvent être trouvés au bord du [[lac de Walenstadt]] et à Kerenzen. Autour de l’an [[Anno Domini|0]], le pays de Glaris appartenait à la province romaine de [[Rhétie]].
+
+=== Christianisation ===
+La première église de la vallée a été construite au {{VIe siècle}} après Jésus Christ à Glaris. Autour des années 700, le pays de Glaris voit l’arrivée des [[Alamans]]. L’allemand ne devient la langue majoritaire qu’au {{XIIe siècle}}. Au {{XIIIe siècle}}, Glaris appartient au [[couvent de Säckingen]], représentée par un mayor. La souveraineté est exercée d'abord par les [[Lenzbourg]], puis le [[Otton de Bourgogne|comte palatin Othon de Bourgogne]], auquel succèdent les [[Kybourg]] et finalement les Habsbourg.
+
+=== Confédération suisse ===
+Le {{XIIIe siècle}} voit le canton de Glaris passer sous l’hégémonie des [[Habsbourg]] qui tentent de réduire l’indépendance dont jouissait alors les glaronnais (en allemand : {{Langue|de|Gemeinschaft der Männer des ganzen Tales Glarus}}, La communauté des hommes de la totalité de la vallée de Glaris). En [[1351]], le canton de Glaris passe sous domination de [[Zurich|Zürich]] et de la [[Suisse centrale]].
+
+Après avoir repoussé une première tentative de reconquête des Habsbourgs, les glaronnais rejoignent la Confédération suisse et construisent un mur de barrage en contrebas de [[Näfels]] dont les restes sont aujourd’hui toujours visibles. Après la [[bataille de Sempach]], ils parviennent à occuper la ville de [[Weesen]] puis la perdent après une nuit meurtrière de février [[1388]].
+
+Les premières assemblées du pays (en allemand : [[Landsgemeinde]]) prennent place en [[1387]] et posent les premières pierres de la constitution actuelle de pays de Glaris.
+
+Le [[1388|9 avril 1388]], le pays de Glaris bat les Habsbourg à la [[bataille de Näfels]] et se libère définitivement du joug des Habsbourgeois.
+
+En [[1395]], le canton achète son indépendance au couvent de Säckingen. Le canton continua à payer un intérêt éternel chaque année à l’organisation religieuse jusqu’à son renversement à la fin du {{XVIIIe siècle}}.
+
+=== Réforme et confessionnalisme ===
+[[Fichier:Schwanden_pulvoturo_087.jpg|vignette|Tour de la poudrière.]]
+Dès [[1530]], la majorité des glaronnais est de confession réformée. Pendant une dizaine d’années, [[Ulrich Zwingli]] est pasteur à Glaris. Il dédie au canton un ouvrage rédigé en [[1523]] ''Ammann, Rat und Gmeind des Lands Glaris'' (Fonctionnaire, Conseil et Communauté du pays de Glaris). Seuls [[Näfels]] et [[Oberurnen]] demeurent catholiques et quelques autres municipalités voient une pluriconfessionnalité se mettre en place. La volonté des communautés catholiques de lutter contre le protestantisme entraîne des tensions entre [[1560]] et [[1564]] qui portent le nom de <span lang="de" dir="ltr">''Glarnerhandel''</span> (le commerce glaronnais) ou de guerre de [[Aegidius Tschudi|Tschudi]]. Les différends entre les communautés menèrent le canton au bord d’une guerre religieuse.
+
+La création des premières bases d’une liberté de choix de confession religieuse n’empêchèrent pas les tensions de continuer. Jusqu’à la consécration de l’église de Saint Fridolin en [[1964]], les réformés et les catholiques utilisaient la même église. Même l’incendie désastreux de [[1861]] n’y changea rien. La partition du canton fut poussée très loin. Des trois municipalités une était catholique, une réformée et une commune aux deux cultes. Les tribunaux, les militaires, la poste et les [[Salzhandel|commerçants de sel]] se divisèrent. Les habitants de Glaris recevaient leur courrier séparément. Pendant un siècle, il eut même deux calendriers en vigueur car les protestants refusaient l’usage du calendrier grégorien. Une nouvelle constitution en [[1836]] met fin à la séparation des communautés suivant les confessions. La poudrière de [[Schwanden (Glaris)|Schwanden]] est un témoin de la séparation des militaires.
+
+C'est dans le canton de Glaris qu'a eu lieu la dernière [[Chasse aux sorcières|exécution d’une sorcière]] par [[décapitation]] en [[Europe centrale]] en [[1782]]. Le canton a aboli l’utilisation de la [[torture]] lors des interrogatoires seulement en [[1851]].
+
+=== Napoléon ===
+En 1798, les armées françaises marchent sur la Suisse. Au mois de mars, la [[République helvétique]] est fondée à [[Aarau]] sous la pression de la France. Le pays de Glaris devient le canton de Glaris et les nouvelles frontières sont dessinées. [[Johann Melchior Kubli]] devient sénateur élu représentant de Glaris. En 1799, le canton est le théâtre d’affrontement entre puissances étrangères : les Français obligent les Russes arrivés au travers du [[col du Pragel]] et de la vallée de Klöntal sous le commandement du [[Alexandre Souvorov|général Souvorov]] à battre en retraite au travers du [[col du Panix]] après avoir subi de lourdes pertes. À la suite de quoi, {{Unité|1200|enfants}} du canton doivent quitter leur pays pour se réfugier dans d’autres cantons voisins pour y trouver nourriture et aide.
+
+== Économie ==
+La géographie du canton contribue à l'établissement d'ardoisières au {{s-|XVII}}. L'environnement montagneux de Glaris est également un avantage durant l'industrialisation. La filature du coton est importante au {{s-|XVIII}}, en complément de la filature traditionnelle de la laine. L'industrialisation a également engendré l'impression du coton, les centrales hydroélectriques et, plus tard, les usines de métaux et de machines, ainsi que les usines de papier<ref>{{Lien web |langue=fr |titre=Glaris (canton) |url=https://hls-dhs-dss.ch/articles/007374/2017-05-30/ |site=hls-dhs-dss.ch |date=30 mai 2017 |consulté le=30 avril 2022}}</ref>.
+
+En 2014, le secteur primaire employait environ 5 % des travailleurs glaronais (le total pour la Suisse est de 3,3 %). En 2008, sur ces 5 %, près des trois quarts d'entre eux travaillent dans la production laitière et l'élevage de bétail. En 2014, le secteur secondaire employait {{unité|8322 personnes}}, soit environ 38,2 % du total, ce qui est bien plus élevé que les 21,8 % pour l'ensemble du pays. Parmi ceux du secteur secondaire, plus d'un quart travaillait dans le secteur de la construction. Pour finir, le secteur tertiaire employait {{nombre|12366|personnes}}, soit environ 56,8 % du total, ce qui est inférieur de près de 18 % aux 74,9 % du pays. Parmi les travailleurs du secteur tertiaire, 11,72 % travaillent dans des magasins de détail et 10,37 % dans le secteur de la santé<ref>{{Lien web |titre=Établissements et emplois selon Année, Canton, Division économique, Classe de taille et Variable |url=http://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0602050000_102/px-x-0602050000_102/px-x-0602050000_102.px/ |site=PX-Web |consulté le=2022-05-01}}</ref>.
+
+== Géographie ==
+[[Fichier:Klöntalersee1.jpg|alt=La vallée de Klöntal et son lac|vignette|La vallée de Klöntal et son lac vue de l'ouest vers l'est.]]
+=== Généralités ===
+[[Fichier:Linthtal.jpg|alt=Vue du pays de Glaris au nord de Niederurnen en direction du sud|vignette|Vue du pays de Glaris au nord de [[Niederurnen]] en direction du sud.]]
+Le canton de Glaris est dominé par la vallée de la [[Linth]] et s'étend jusqu'au [[lac de Walenstadt]], au nord-ouest jusque [[Bilten]] et au nord-est jusqu'au [[Col du Kerenzerberg|col de Kerenzerberg]]. La majeure partie de la région est montagneuse et d'importants dénivelés caractérisent le paysage.
+
+Le canton de Glaris culmine au [[Tödi]], à {{Unité|3614|mètres}} d'altitude<ref>{{Lien web|url=https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees/tableaux.assetdetail.111648.html|titre=Les points culminants des cantons suisses|site=Office fédéral de la statistique|format=xls|consulté le=7 décembre 2021}}</ref>, et son point le plus bas se trouve au bord du canal de la [[Linth]], à {{unité|410|m}} d'altitude<ref>{{Lien web |langue=de |prénom=Hans |nom=Graber |titre=Geografie: Die Hochs und Tiefs der Kantone |url=https://www.luzernerzeitung.ch/panorama/geografie-die-hochs-und-tiefs-der-kantone-ld.128187 |site=Luzerner Zeitung |consulté le=2021-12-09}}.</ref>. La superficie du canton de {{unité|{{#expr:{{Superficie suisse|CH-GL|ofs=CH-GL}}/100 round 2}} km2}} (qui fait de Glaris le dixième plus petit canton suisse){{Référence superficie suisse|CH-BS}} correspond approximativement au [[bassin versant]] de la [[Linth]]. Les imposants travaux de correction de la Linth débutés en 1807 inscrivent dans le paysage la marque de l'intervention des hommes. Avant cette correction, la Linth s’écoulait nonchalamment vers le [[lac de Zurich]] formant des zones de plus en plus marécageuses.
+
+La vallée Sernftal nommée aussi Kleintal est la seule vallée latérale occupée par des villages. La vallée de Klöntal est la vallée latérale la plus étendue et est, comme [[Carl Spitteler]] le vantait, avec son lac « si belle comme aucun rêve ne le laisserait deviner ».
+
+=== Climat ===
+Les différences de relief déterminent le [[climat]] du canton. Au sud du lac de Walenstadt règne un [[climat tempéré]] avec une végétation spécifique du sud de l'Europe lorsqu'aux sommets du massif glaciaire sévissent les rudes conditions météorologiques des hautes Alpes. Les températures du canton sont de plus sous l'influence du [[foehn]] qui, soufflant au travers de la vallée, fait parfois monter les températures à des niveaux records. Les montagnes enclavent le canton et la vallée ne s'ouvre que vers le nord.
+
+{| class="wikitable alternance centre" style="text-align:center;"
+|+ Relevé météorologique du canton de Glaris pour la période 1981-2010.
+|-
+!scope="col"| Données
+!scope="col"| Station
+!scope="col"| jan.
+!scope=col| fév.
+!scope=col| mars
+!scope=col| avril
+!scope=col| mai
+!scope=col| juin
+!scope=col| jui.
+!scope=col| août
+!scope=col| sep.
+!scope=col| oct.
+!scope=col| nov.
+!scope=col| déc.
+!scope=col| année
+|-
+| rowspan="2" | '''Températures moyennes max. ([[Degré Celsius|°C]])'''
+| [[Elm (Glaris)|Elm]]<ref name="Meteo Elm">{{lien web|format électronique=pdf|auteur1=MétéoSuisse|titre=Normes climatologiques Elm|url=https://www.meteosuisse.admin.ch/product/output/climate-data/climate-diagrams-normal-values-station-processing/ELM/climsheet_ELM_np8110_f.pdf|site=meteosuisse.admin.ch|consulté le=29 novembre 2021}}.</ref>
+|bgcolor=#fff7cd | {{formatnum:1.2}}
+|bgcolor=#ffed8f | {{formatnum:2.7}}
+|bgcolor=#ffd775 | {{formatnum:6.6}}
+|bgcolor=#ffbf63 | 11
+|bgcolor=#ffa24d | {{formatnum:16.2}}
+|bgcolor=#ff9442 | {{formatnum:18.8}}
+|bgcolor=#ff883a | {{formatnum:20.9}}
+|bgcolor=#ff8e3e | {{formatnum:19.9}}
+|bgcolor=#ffa24d | {{formatnum:16.2}}
+|bgcolor=#ffb65c | {{formatnum:12.6}}
+|bgcolor=#ffdb78 | {{formatnum:5.9}}
+|bgcolor=#fff1a8 | {{formatnum:2.1}}
+|bgcolor=#ffbe62 | '''{{formatnum:11.2}}'''
+|-
+| [[Glaris (ville)|Glaris]]<ref name="Meteo Glaris">{{lien web|format électronique=pdf|auteur1=MétéoSuisse|titre=Normes climatologiques Glaris|url=https://www.meteosuisse.admin.ch/product/output/climate-data/climate-diagrams-normal-values-station-processing/GLA/climsheet_GLA_np8110_f.pdf|site=meteosuisse.admin.ch|consulté le=29 novembre 2021}}.</ref>
+|bgcolor=#ffee93 | {{formatnum:2.6}}
+|bgcolor=#ffe580 | {{formatnum:4.1}}
+|bgcolor=#ffca6b | 9
+|bgcolor=#ffaf57 | {{formatnum:13.9}}
+|bgcolor=#ff9442 | {{formatnum:18.8}}
+|bgcolor=#ff8638 | {{formatnum:21.3}}
+|bgcolor=#ff7a2f | {{formatnum:23.4}}
+|bgcolor=#ff7f33 | {{formatnum:22.5}}
+|bgcolor=#ff9644 | {{formatnum:18.4}}
+|bgcolor=#ffae56 | 14
+|bgcolor=#ffd271 | {{formatnum:7.6}}
+|bgcolor=#ffe781 | {{formatnum:3.7}}
+|bgcolor=#ffb259 | '''{{formatnum:13.3}}'''
+|-
+| rowspan="2" | '''Températures moyennes min. ([[Degré Celsius|°C]])'''
+| Elm
+|bgcolor=#ffffff | {{formatnum:-6.3}}
+|bgcolor=#ffffff | {{formatnum:-6.1}}
+|bgcolor=#ffffff | {{formatnum:-2.6}}
+|bgcolor=#fffdf3 | {{formatnum:1.3}}
+|bgcolor=#fff7cb | {{formatnum:5.5}}
+|bgcolor=#fff2ae | {{formatnum:8.6}}
+|bgcolor=#ffef9a | {{formatnum:10.7}}
+|bgcolor=#fff09e | {{formatnum:10.3}}
+|bgcolor=#fff5bc | {{formatnum:7.1}}
+|bgcolor=#fffadc | {{formatnum:3.7}}
+|bgcolor=#ffffff | {{formatnum:-1.6}}
+|bgcolor=#ffffff | {{formatnum:-5.1}}
+|bgcolor=#fffcec | '''{{formatnum:2.1}}'''
+|-
+| Glaris
+|bgcolor=#ffffff | {{formatnum:-3.6}}
+|bgcolor=#ffffff | {{formatnum:-2.9}}
+|bgcolor=#fffffb | {{formatnum:0.5}}
+|bgcolor=#fffadc | {{formatnum:3.8}}
+|bgcolor=#fff3b3 | {{formatnum:8.1}}
+|bgcolor=#ffee96 | {{formatnum:11.1}}
+|bgcolor=#ffe983 | {{formatnum:13.2}}
+|bgcolor=#ffeb84 | 13
+|bgcolor=#fff0a3 | {{formatnum:9.8}}
+|bgcolor=#fff6c7 | 6
+|bgcolor=#fffef6 | 1
+|bgcolor=#ffffff | {{formatnum:-2.2}}
+|bgcolor=#fff8d2 | '''{{formatnum:4.8}}'''
+|-
+| rowspan="2" | '''Précipitations ([[Millimètre|mm]])'''
+| Elm
+|bgcolor=#eaeff8 | 104
+|bgcolor=#edf1fa | 101
+|bgcolor=#d4def1 | 123
+|bgcolor=#e3eaf6 | 110
+|bgcolor=#c0cfeb | 140
+|bgcolor=#b0c3e9 | 165
+|bgcolor=#aabded | 189
+|bgcolor=#a9bced | 193
+|bgcolor=#b6c7e8 | 149
+|bgcolor=#eaeff8 | 104
+|bgcolor=#cedaf0 | 128
+|bgcolor=#dee6f5 | 114
+|bgcolor=#8ca0ff | '''{{formatnum:1619}}'''
+|-
+| Glaris
+|bgcolor=#feffff | 86
+|bgcolor=#ffffff | 85
+|bgcolor=#e8eef8 | 105
+|bgcolor=#f2f5fb | 97
+|bgcolor=#ccd8ef | 130
+|bgcolor=#b0c2e9 | 168
+|bgcolor=#a8baee | 198
+|bgcolor=#aabced | 190
+|bgcolor=#c2d1ec | 138
+|bgcolor=#f3f6fb | 96
+|bgcolor=#e5ebf7 | 108
+|bgcolor=#eaeff8 | 104
+|bgcolor=#8ca0ff | '''{{formatnum:1506}}'''
+|-
+| rowspan="2" | '''Ensoleillement (heures)'''
+| Elm
+| −
+| −
+| −
+| −
+| −
+| −
+| −
+| −
+| −
+| −
+| −
+| −
+| '''−'''
+|-
+| Glaris
+|bgcolor=#fffbe6 | 61
+|bgcolor=#fff9d5 | 68
+|bgcolor=#fff0a3 | 88
+|bgcolor=#ffce6e | 124
+|bgcolor=#ffac55 | 152
+|bgcolor=#ffab54 | 153
+|bgcolor=#ff9543 | 171
+|bgcolor=#ffa852 | 155
+|bgcolor=#ffe47f | 106
+|bgcolor=#fff1a8 | 86
+|bgcolor=#fffceb | 59
+|bgcolor=#ffffff | 51
+|bgcolor=#ff7128 | '''{{formatnum:1274}}'''
+
+|-
+| colspan="15" style="text-align:center;font-size:90%;"|Source : MétéoSuisse.
+|}
+
+== Politique et administration ==
+=== Organisation politique ===
+Glaris est l'un des deux [[canton suisse|cantons suisses]] (avec [[Canton d'Appenzell Rhodes-Intérieures|Appenzell Rhodes-Intérieures]]) à maintenir la ''[[Landsgemeinde]]'', réunion annuelle des membres de l'[[Assemblée communale|assemblée primaire]] des citoyens afin de voter les modifications de lois proposées par le [[Conseil d'État (Suisse)|Conseil d'État]] et les différentes commissions.
+
+Depuis la Landsgemeinde du 6 mai 2007, Glaris est le premier canton suisse à introduire le vote dès 16 ans au niveau cantonal<ref>{{lien web |titre=Droit de vote à 16 ans |url=http://www.pre-majorite.fr/lexemplaire-canton-suisse-alemanique-du-glarus-et-le-droit-de-vote-a-16-ans/ |site=ACJAPM |date=27-10-2012 |consulté le=10-04-2023}}.</ref>.
+
+Il est le seul canton suisse (état en 2022) à limiter à l'âge de 65 ans, par une disposition constitutionnelle dont la première version est adoptée en 1988 par la [[Landsgemeinde#Glaris|Landsgemeinde]], l'exercice des fonctions de [[Conseil d'État du canton de Glaris|conseiller d'État]], de président de tribunal et de député au [[Conseil des États (Suisse)|Conseil des États]]<ref name=":2">{{Article|langue=de|auteur1=ks|titre=Peter Hefti, « Lord von Glarus », muss zurücktreten|périodique=[[Der Bund]]|date=19.3.1990|lire en ligne=https://www.e-newspaperarchives.ch/?a=d&d=DBB19900319-01.2.18.6&srpos=5|pages=9}}</ref>{{,}}<ref name=":3">{{Lien web |langue=de |auteur=dba |titre=Ständeratspräsident Hefti steht vor Polit-Aus |url=https://www.blick.ch/politik/wegen-seinem-vater-staenderatspraesident-hefti-steht-vor-polit-aus-id17779191.html |site=[[Blick]] |date=2022-08-11 |consulté le=2023-10-01}}</ref>{{,}}<ref>{{Loi|titre=Verfassung des Kantons Glarus, vom 1. Mai 1988|pays=CH|langue=de|subdivision pays=GL|article=78, al. 4|lire en ligne=https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20020923/de/pdf-a/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20020923-de-pdf-a.pdf|consulté le=2.10.2023|référence=[[Recueil systématique du droit fédéral|RS]] 131.217}}</ref>{{,}}<ref>{{Loi suisse|rs=131.217|loi=Constitution du canton de Glaris|date=1.5.1988|état=6.3.2023|art=78|al=5}}</ref>.
+
+=== Organisation territoriale ===
+{{Article détaillé|communes du canton de Glaris}}
+Le canton de Glaris n'est pas divisé en [[district suisse|districts]]. À la suite d'une votation populaire de 2006, le nombre de communes a été réduit de vingt-cinq à trois. Au {{date population suisse|CH-GL}}{{référence population suisse|CH-GL}} :
+
+* [[Glaris Nord]] ({{formatnum:{{population suisse|CH-GL|Glaris Nord}}}} habitants) ;
+* [[Glaris (ville)|Glaris]] ({{formatnum:{{population suisse|CH-GL|ofs=1632}}}} habitants) ;
+* [[Glaris Sud]] ({{formatnum:{{population suisse|CH-GL|Glaris Sud}}}} habitants).
+
+== Population et société ==
+=== Démographie ===
+Au {{date population suisse|CH-GL}}, le canton de Glaris compte {{unité|{{population suisse|CH-GL|Canton de Glaris}}habitants}}, soit {{Pourcent population suisse par canton|CH-GL|ofs=CH-GL}} % de la population totale de la Suisse. Seuls trois cantons sont moins peuplés ([[Canton d'Obwald|Obwald]], [[Canton d'Uri|Uri]] et [[Canton d'Appenzell Rhodes-Intérieures|Appenzell Rhodes-Intérieures]]). Sa densité de population atteint {{unité|{{Densité population suisse|CH-GL|ofs=CH-GL}} hab/km2}}, nettement inférieure à la moyenne suisse{{référence population suisse|CH-GL}}.
+
+{{Vignette multiple|largeur=1000|contenu=
+{{Graph:Chart | width = 700 | yAxisMin= | yGrid= 0,1 | xGrid= 10 | height = 150 |type=rect |showValues= |colors=#E8423F
+| x = 1850,1860,1870,1880,1888,
+1900,1910,1920,1930,1941,1950,1960,1970,1980,1990,
+2000,2010,2020
+| y1=30213,33363,35208,34242,33825,
+32349,33316,33834,35653,34771,37663,40148,38155,36718,37648,
+38546,38568,40851
+}}
+|légende=Évolution de la population cantonale entre 1850 et 2020<ref>{{Lien web |langue=fr |format=xls |titre=Population résidante de la Suisse, par grande région et canton, de 1850 à 2000 |url=https://www.ge.ch/statistique/domaines/01/01_01/tableaux.asp |site=www.ge.ch |consulté le=2021-12-07}}.</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Bilan démographique selon le niveau géographique institutionnel |url=http://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102020000_201/-/px-x-0102020000_201.px/ |site=bfs.admin.ch |consulté le=2021-12-07}}.</ref>.|alignement=centre }}
+
+=== Langues ===
+La langue officielle du canton est l'[[allemand]]<ref>[https://www.bj.admin.ch/dam/data/bj/gesellschaft/alimente/gesuchsunterlagen/liste-sprachen-e.pdf]</ref>.
+{| class="wikitable sortable" style="text-align: right;"
+|+langue principale des habitants du canton en 2000<ref>{{Lien web |titre=Langues |url=http://www.bfs.admin.ch/bfs/portal/fr/index/themen/01/05/blank/key/sprachen.html |éditeur=Office fédéral de la statistique |date=2008 |consulté le=25/11/2008}}</ref>
+|-
+! Langue !! Locuteurs !! %
+|-
+| align="left" | [[Suisse allemand]] || {{smn|32765|5}} || {{smn|85.8|4|10}}
+|-
+| align="left" | [[Italien]] || {{smn|1689|5}} || {{smn|4.4|4|10}}
+|-
+| align="left" | [[Albanais]] || {{smn|940|5}} || {{smn|2.5|4|10}}
+|-
+| align="left" | [[Langues slaves]] de l'ex-[[Yougoslavie]] || {{smn|803|5}} || {{smn|2.1|4|10}}
+|-
+| align="left" | [[Turc]] || {{smn|534|5}} || {{smn|1.4|4|10}}
+|-
+| align="left" | [[Espagnol]] || {{smn|333|5}} || {{smn|0.9|4|10}}
+|-
+| align="left" | [[Portugais]] || {{smn|304|5}} || {{smn|0.8|4|10}}
+|-
+| align="left" | [[Français]] || {{smn|123|5}} || {{smn|0.3|4|10}}
+|-
+| align="left" | [[Romanche]] || {{smn|55|5}} || {{smn|0.1|4|10}}
+|-
+| align="left" | Autres langues || {{smn|637|5}} || {{smn|1.7|4|10}}
+|- class="sortbottom"
+! style="text-align: left" | Total !! style="text-align: right" | {{smn|38183|5}} !! style="text-align: right" | {{smn|100.0|4|10}}
+|}
+
+=== Religions ===
+Un peu moins de la moitié de la population du canton revendique l'appartenance au [[protestantisme]], un peu plus du tiers au [[Église catholique romaine|catholicisme romain]]<ref name="OFS_religion">{{Lien web
+  | url=http://www.bfs.admin.ch/bfs/portal/fr/index/themen/01/05/blank/key/religionen.html
+  | titre=Religions
+ | éditeur=Office fédéral de la statistique
+ | date=2008
+ | consulté le=25/11/2008 
+}}</ref>.
+
+{| class="wikitable sortable" style="text-align: right;"
+|+Population du canton suivant la religion, en 2000<ref name="OFS_religion" />
+|-
+! Religion !! Population !! %
+|-
+| align="left" | [[Protestantisme|Protestants]] || {{smn|16786|5}} || {{smn|44.0|4|10}}
+|-
+| align="left" | [[Église catholique romaine|Catholiques romains]] || {{smn|14246|5}} || {{smn|37.3|4|10}}
+|-
+| align="left" | [[Islam|Communautés islamiques]] || {{smn|2480|5}} || {{smn|6.5|4|10}}
+|-
+| align="left" | [[Église orthodoxe|Chrétiens-orthodoxes]] || {{smn|873|5}} || {{smn|2.3|4|10}}
+|-
+| align="left" | [[Église vieille-catholique|Catholiques chrétiens]] || {{smn|11|5}} || {{smn|0.0|4|10}}
+|-
+| align="left" | [[Judaïsme|Communauté de confession juive]] || {{smn|7|5}} || {{smn|0.0|4|10}}
+|-
+| align="left" | Aucune appartenance || {{smn|2479|5}} || {{smn|6.5|4|10}}
+|-
+| align="left" | Autres || {{smn|1301|5}} || {{smn|3.4|4|10}}
+|-
+! style="text-align: left" | Total !! style="text-align: right" | {{smn|38183|5}} !! style="text-align: right" | {{smn|100.0|4|10}}
+|}
+
+Note : les intitulés des religions sont ceux donnés par l'[[Office fédéral de la statistique]] ; les protestants comprennent les communautés [[Église néo-apostolique|néo-apostoliques]] et les [[témoins de Jéhovah]] ; la catégorie « Autres » inclut les personnes ne se prononçant pas.
+
+== Culture ==
+
+=== Emblèmes ===
+{{article connexe|Drapeau et armoiries du canton de Glaris}}
+[[Fichier:Wappen Glarus matt.svg|alt= Blason du canton de Glaris|vignette|Blason du canton de Glaris.|redresse=0.6]]
+Le canton de Glaris a pour emblèmes un [[drapeau]] et un [[blason (héraldique)|blason]]. Les armoiries de Glaris se blasonnent : ''De gueules au missionnaire Fridolin au naturel vêtu de sable, la tête de face nimbée d’or, tenant de la dextre un bourdon et de la senestre un livre, eux aussi d’or''<ref>{{Lien web |langue=fr |titre=Drapeaux des cantons de Suisse |url=https://touslesdrapeaux.xyz/allemagne/suisse_can.html#glaris |site=touslesdrapeaux.xyz |consulté le=2021-12-06}}</ref>.
+
+Le blason du canton de Glaris est le seul de Suisse représentant un personnage : [[Fridolin de Säckingen|Saint Fridolin]] avec la [[bible]] sous le bras et son bâton de prédicateur.
+
+La [[légende]] veut que Saint Fridolin ait été un moine évangélisateur [[irlandais]] du début du {{s-|VI}} qui convertit Glaris au [[christianisme]]. Dans les représentations ecclésiastiques, il est accompagné d’un squelette. La légende dit que Saint Fridolin reçut en cadeau une grande partie du pays de Glaris au décès du riche Ursus, mais que son frère Landolf refusa de voir l'héritage paternel ainsi cédé. Lors du procès, Ursus apparut à son frère Landolf qui fut si épouvanté et honteux qu’il offrit sa part de Glaris à Saint Fridolin. De cette façon, Glaris devint propriété du monastère de [[Säckingen]] en Allemagne du Sud et Saint Fridolin, le [[saint patron]] protecteur des captations d'héritage.
+
+Le culte de Saint Fridolin reprit de la vigueur après la [[bataille de Näfels]] (1388), où les Glaronnais l'emportèrent en combattant sous la bannière de Fridolin.
+
+=== Costumes et gastronomie ===
+Parmi les objets culturels typiques, on trouve le [[foulard glaronnais]] et pour les mets culinaires le [[schabziger]].
+
+== Annexes ==
+{{Autres projets
+ | commons     = Category:Canton of Glarus
+ | wikispecies = <!-- Wikispecies -->
+ | wiktionary  = <!-- Wiktionary -->
+ | wikiversity = <!-- Wikiversity -->
+ | wikibooks   = <!-- Wikibooks -->
+ | wikisource  = <!-- Wikisource -->
+ | wikiquote   = <!-- Wikiquote -->
+ | wikinews    = <!-- Wikinews -->
+ | meta        = <!-- Metawiki -->
+ | outreach    = <!-- Outreach -->
+}}
+=== Bibliographie ===
+* {{Ouvrage |langue=fr |prénom1=Charles |nom1=Knapp |prénom2=Maurice |nom2=Borel |prénom3=V. |nom3=Attinger |titre=Dictionnaire géographique de la Suisse |sous-titre=Engadine - Langenberg |tome=2 |éditeur=Société neuchâteloise de géographie |année=1902 |pages totales=768 |lire en ligne=https://archive.org/details/dictionnairegogr02knap/page/290/mode/2up }}.
+* {{de}} Walter Hauser: ''Stadt in Flammen: Der Brand von Glarus im Jahr 1861.'' Limmat Verlag, Zurich 2011, {{ISBN|978-3-85791-630-4}}.
+* {{de}} Walter Hauser: ''Bitterkeit und Tränen: Szenen der Auswanderung aus dem Tal der Linth und Ausschaffung des heimatlosen Samuel Fässler nach Amerika.'' Limmat Verlag, Zurich 1995, {{ISBN|3-85791-268-5}}.
+* {{de}} Rolf Peigne: Glarus zwischen Habsburg und Zürich. Die Entstehung des Landes im Spätmittelalter, hier + jetzt, Baden, AG, 2010, {{ISBN|978-3-03-919150-5}}.
+* {{de}} Nicole Lieberherr: Johann Melchior Kubli: Fürsprecher im Hexenhandel um Anna Göldi. Baeschlin Verlag, de Glaris, 2010, {{ISBN|978-3-85546-223-0}}.
+* {{de}} Jacob Winteler: Geschichte des Landes Glarus Glarus.
+
+=== Articles connexes ===
+* [[Fridolin de Säckingen|Saint Fridolin]], qui figure sur le blason du canton
+* [[New Glarus]]
+
+=== Liens externes ===
+* {{officiel|de|http://www.gl.ch}}
+* {{DHS|7374|Glaris (canton)}}
+
+== Notes et références ==
+=== Notes ===
+{{Traduction/Référence|de|Kanton Glarus|154245460|type=note}}
+{{Traduction/Référence|de|Geschichte des Kantons Glarus|154634995|type=note}}
+
+=== Références ===
+{{Références}}
+
+{{Palette|Canton suisse}}
+{{Portail|Suisse orientale}}
+
+[[Catégorie:Canton de Glaris|*]]

@@ -1,0 +1,236 @@
+{{Autre4|les incunables typographiques|les incunables tabellaires ou xylographiques|Incunable xylographique}}[[Image:Liber Chronicarum f 223r.jpg|thumb|''[[La Chronique de Nuremberg]]'', incunable de 1493]]
+[[Image:Printing towns incunabula.svg|thumb|Diffusion de l'imprimerie au cours du {{s|XV}}.]]
+
+Dans l'[[histoire de l'imprimerie]], un '''incunable''' est un [[Livre (document)|livre]] imprimé au cours du {{s-|XV}} en Europe. Les incunables ont été produits avant que l'[[imprimerie]] ne se répande sur le continent et ne remplace les documents [[manuscrit]]s des [[copiste]]s. L'appellation est parfois étendue aux [[post-incunable]]s, imprimés dans la première moitié du {{s-|XVI|e}}.
+
+Environ {{unité|30000 incunables}} sont répertoriés, dont les deux tiers en latin. Le plus ancien est la [[Bible à quarante-deux lignes]] (dite « B42 »), imprimée par [[Johannes Gutenberg]], [[Peter Schöffer]] et [[Johann Fust]] en 1454.
+
+== Origine du terme ==
+[[Image:Buchdruck-15-jahrhundert 1.jpg|thumb|Imprimerie du {{XVe siècle}}.]]
+Le mot « incunable » provient du mot latin ''incunabula''<ref group="Note">Au singulier : ''incunabulum''.</ref>, qui signifie « langes » ou « berceau »<ref>{{Lien web|langue=fr|url=https://academie.atilf.fr/9/consulter/INCUNABLE?options=motExact|titre=Définition du mot "Incunable"|site=academie.atilf.fr|éditeur=[[Académie française]], [[ATILF]], [[CNRS]], [[Université de Lorraine]]|consulté le=2022-09-01}}.</ref>{{,}}<ref name="Petit">{{lien web|langue=fr|prénom=Nicolas|nom=Petit|titre=Les Incunables|sous-titre=livres imprimés au {{s-|XV}}|url=http://classes.bnf.fr/livre/arret/histoire-du-livre/imprimerie/02.htm|format=html|site=classes.bnf.fr|éditeur=site pédagogique de la [[Bibliothèque nationale de France]]|date=|consulté le=22 juin 2015}}.</ref>.
+
+L'utilisation du terme pour désigner les premiers livres imprimés est généralement attribuée à {{lien|langue=de|fr=Bernhard von Mallinckrodt}} dans son livre ''De Ortu ac Progressu Artis Typographicae, Dissertatio Historica'' publié en 1640<ref name="Petit"/>{{,}}<ref name="B">{{Lien web |langue=en |titre=Incunabula |auteur=[[Encyclopædia Britannica]] |consulté le=19 septembre 2023 |url=https://www.britannica.com/topic/incunabula}}</ref>{{,}}<ref name="ys">Yann Sordet, « Le baptême inconscient de l'incunable : non pas 1640 mais 1569 au plus tard » in ''Gutenberg Jahrbuch'', {{n°|84}} (2009), {{p.|102-105}} ([https://hal.archives-ouvertes.fr/hal-00791398v2 lire en ligne]).</ref>{{,}}<ref group="Note">L'encyclopédie Britannica donne la date de 1639.</ref>. Toutefois, le terme ''incunabula'' est explicitement employé dans ce contexte dès 1569 par [[Hadrianus Junius]] dans la ''Batavia''<ref name="Petit"/>{{,}}<ref name="ys"/>.
+
+== Définition ==
+Un incunable est, par convention, un [[Livre (document)|livre]] [[imprimerie|imprimé]] en [[Europe]] avant le {{date|1 janvier 1501}}<ref name="Petit"/>{{,}}<ref name="TERMIUM Plus">Entrée {{lien web|langue=fr|format=html|titre=incunable|url=http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&i=1&index=esr&srchtxt=INCUNABLE|site=[[TERMIUM Plus]]}}, la [[Base de données|banque de données]] [[Terminologie|terminologiques]] et [[Linguistique|linguistiques]] du [[gouvernement du Canada]] (consulté le {{date-|22 juin 2015}}).</ref>{{,}}<ref>Définition d'autorité dans « Incunable » par [[Denise Hillard]] in ''Dictionnaire encyclopédique du livre'', {{nobr rom|tome II}}, Paris, Cercle de la librairie, 2005, {{p.|547-549}}.</ref>. Cette définition précisée apparaît pour la première fois dans un catalogue de vente publié en 1688<ref name="B"/>, mais certains supposent qu'elle pourrait remonter à l'époque de Mallinckrodt<ref>{{en}} Jacqueline Glomski, « Incunabula Typographiae: Seventeenth-Century Views on Early Printing » in ''The Library'', {{vol.|2}}, {{n°|4}} (2001), {{p.|336-348}}.</ref>. On distingue les [[Incunable xylographique|incunables xylographiques]] de ceux issus de presses à imprimer à caractères mobiles.
+
+Les incunables sont répertoriés dans des bases de données internationales ([[Incunabula Short Title Catalogue]], [[Gesamtkatalog der Wiegendrucke]]{{etc}}), qui recensent plus de {{unité|30000 exemplaires}} d'incunables<ref name=":0">{{lien web|url=http://www.bl.uk/catalogues/istc/|titre=Incunabula short title catalogue|site=bl.uk}}.</ref>{{,}}<ref>{{lien web|url=http://www.gesamtkatalogderwiegendrucke.de/GWEN.xhtml|titre=Gesamtkatalog der Wiegendrucke|site=gesamtkatalogderwiegendrucke.de}}.</ref>. La bibliothèque d'incunables de la [[British Library]] possède plus de {{nombre|10 000 éditions}} répartis en {{nombre|12500|copies}}, représentant 37 % des éditions connues<ref name="auto-généré1">{{Article |langue=en |prénom1=Bettina |nom1=Wagner |titre=The Present and Future of Incunable Cataloguing, I |périodique=The Library |volume=9 |numéro=2 |date=2008-06-01 |issn=1744-8581 |issn2=0024-2160 |doi=10.1093/library/9.2.197 |lire en ligne=https://academic.oup.com/library/article/9/2/197/957838 |consulté le=2021-11-03 |pages=197–209 }}</ref>.
+
+L'appellation est parfois [[Abus de langage|improprement]] [[Intension et extension|étendue]] aux « [[post-incunable]]s », livres d'aspect comparable mais imprimés ultérieurement, jusqu'en 1525-1530 voire 1550 pour les [[pays nordiques]]<ref name="Petit" />{{,}}<ref name="TERMIUM Plus" />.
+
+Certaines autorités englobent les livres de bloc de la même époque dans les incunables, tandis que d'autres limitent le terme aux ouvrages imprimés à l'aide de caractères mobiles.{{refsou}}
+
+== Histoire et diffusion des incunables ==
+
+=== Du manuscrit à l'incunable ===
+Les incunables, ces livres nés au berceau de l’[[imprimerie]], sont d’abord et avant tout des succédanés des [[manuscrits]]. L’écriture sur deux colonnes se maintient d’ailleurs à l’époque de l’[[imprimerie]]<ref>{{Ouvrage|prénom1=Adalbert-Gauthier|nom1=Hamman|titre=L'éopée du livre: la transmission des textes anciens, du scribe à l'imprimerie|passage=par. 142|éditeur=Perrin u.a|date=1985|isbn=978-2-89111-234-5}}</ref>. Car [[Johannes Gutenberg]] et les premiers promoteurs de l’[[imprimerie]] ont cherché, non pas à fabriquer des objets nouveaux, mais bien à reproduire les [[manuscrits]] par un procédé mécanique, dans l’espoir de répondre à une demande de plus en plus grande de textes, que les différentes méthodes de reproduction élaborées dans les siècles antérieurs n’ont pas réussi à satisfaire complètement. Les changements qui vont mettre en place les conditions propices à l’invention de l’[[imprimerie]] sont visibles dès le {{s-|XIII}} par une production plus importante et une diffusion élargie de textes et par un déplacement des curiosités intellectuelles. Ces mutations se combinent à une phase d’essor économique et démographique net qui vont permettent à l’[[Europe]] occidentale de retrouver une certaine expansion démographique<ref name=":6">{{Ouvrage|prénom1=Frédéric|nom1=Barbier|titre=Histoire du livre en Occident|éditeur=Armand Colin|collection=Mnémosya|date=2020|isbn=978-2-200-62288-6|titre chapitre=Chapitre 2 - Gutenberg et l’invention de l’imprimerie}}</ref>{{,}}<ref name=":4" />.
+
+La transmission du savoir dans le monde [[médiéval]] était essentiellement fondée sur les copies manuscrites et confinée aux [[monastères]]. Mais le besoin de textes va suivre la renaissance de la civilisation urbaine et l’avènement des premières [[universités]] aux {{s-|XI-XII}}. Avec les [[universités]] apparaissent aussi les premières grandes [[bibliothèques]] organisées hors du monde religieux<ref name=":4">{{Ouvrage|prénom1=Frédéric|nom1=Barbier|titre=Histoire du livre en Occident|éditeur=Armand Colin|collection=Mnémosya|date=2020|isbn=978-2-200-62288-6|titre chapitre=Chapitre 3 - L’ouverture au livre ({{s-|X}}-début du {{s-|XV}} siècle)}}</ref>. Un problème de diffusion des [[manuscrits]] se pose alors, puisque ces derniers cessent d’être confinés au monde des clercs. Or, les étudiants ont un besoin grandissant de livres<ref name=":4" />. Les [[universités]] sont les premières à chercher une façon de répondre à cette demande croissante de textes. C’est dans ce contexte que des ateliers de copistes se mettront en place, sur lesquels les [[universités]] vont exercer un contrôle avec l’apparition de la [[pecia]], un système efficace de vérification et d’authentification du texte d’enseignement qui sera copié<ref>{{harvsp|Barbier|2006|p=73-74}}.</ref>. D’objet de consultation ou de prêt, le [[manuscrit]] devient alors une marchandise, et une économie du livre va pouvoir se développer<ref>{{harvsp|Barbier|2006|p=71}}.</ref>. Puis, le {{s-|XIII}} verra la multiplication des ateliers d’écriture civils (qui n’arrivent pas à satisfaire la demande toujours croissante) qui produisent « romans », récits historiques et livres d’heures pour le prince, son entourage, mais aussi pour les membres de la petite noblesse et de la bourgeoisie qui sont apparus avec l’essor des villes. Les villes combinant des fonctions de commandement dans les domaines de la politique, de la religion, de la culture et du négoce seront celles où ces changements vont le mieux s’implanter et aussi celles où le rôle de mécène va le mieux se développer<ref name=":4" />{{,}}<ref>{{Ouvrage|prénom1=Albert|nom1=Labarre|titre=Histoire du livre|passage=par. 25-41|éditeur=Presses Univ. de France|collection=Que sais-je ?|date=2001|isbn=978-2-13-051992-8|titre chapitre=Le livre au Moyen Âge}}</ref>.
+
+L’apparition du [[papier]] en [[Occident]] joue aussi un rôle important dans la multiplication des [[manuscrits]], mais aussi dans leur vulgarisation. Issu de [[Chine]], il est transmis par le biais des civilisations d’[[Asie centrale]], de l’[[Inde]] et du [[monde arabe]]. Il apparaît à la fin du {{s-|XV}} à la chancellerie normande de [[Sicile]] et sa fabrication se répand en [[Europe]] au cours du {{s-|XIV}}<ref name=":5">{{Ouvrage|prénom1=Frédéric|nom1=Barbier|titre=Histoire du livre en Occident|passage=par. 3-21|éditeur=Armand Colin|collection=Mnémosya|date=2020|isbn=978-2-200-62288-6|titre chapitre=Chapitre 1. Gutenberg avant Gutenberg}}</ref>. Comparé au [[parchemin]], il présentait l’avantage d’un prix inférieur et de plus larges possibilités de fabrication. Tandis que le [[parchemin]] s’orientait vers les [[manuscrits]] de luxe, le [[papier]] servait aux manuscrits plus ordinaires et d’usage courant, tels ceux destinés aux étudiants et à un public plus large, mais qui reste toutefois minoritaire et privilégié<ref name=":3" />.
+
+Cette littérature ne s'adressait pas à des ecclésiastiques, quoiqu'elle fût souvent produite par eux<ref>{{Harvsp|Febvre & Martin 1958|p=53}}.</ref>. En effet, le processus de laïcisation de l’écrit, conjointement avec l’élargissement de sa production, va déboucher sur une montée de la langue [[vernaculaire]] dans les textes. Les premiers textes conservés en [[vernaculaire]] datent du {{s-|XI}}, mais il s’agit de textes brefs<ref name=":5" />. Le {{s-|XI}} va aussi voir la [[minuscule caroline]] évoluer vers l’[[écriture gothique]], sous l’influence de la laïcisation, de la banalisation de l’écrit, mais aussi du développement de la pratique notariale et des administrations et enfin d’une tendance de plus en plus forte à la cursivité dans l'écrit<ref name=":4" />. La généralisation de l’[[écriture gothique]] à travers l’[[Europe]] aux {{s-|XII-XIII}} explique qu’une typologie adaptée selon les régions et les usages puissent exister. D’ailleurs, c’est la [[textura]], surtout employée pour les livres d’Église, qui sera prise comme modèle par [[Johannes Gutenberg]] pour les caractères de sa [[Bible de Gutenberg|Bible à quarante-deux lignes]]<ref name=":4" />.
+
+C’est dans ces conditions que dans les premières décennies du {{s-|XV}}, de petits groupes d’inventeurs et d’entrepreneurs travaillent à la recherche d’une nouvelle méthode pour multiplier les textes<ref name=":6" />. Il aura fallu la conjonction d’un besoin économique, du capitalisme et de l’assemblage de plusieurs techniques pour permettent de passer de la multiplication manuscrite d'un texte à une reproduction mécanique, qui va permettre la reproduction d'un même texte à quelques dizaines d’exemplaires<ref>{{harvsp|Barbier|2006|p=71-73}}.</ref>.
+
+=== Premiers incunables typographiques ===
+[[Image:Gutenberg Bible.jpg|thumb|Bible de Gutenberg (exemplaire appartenant à la [[Bibliothèque du Congrès des États-Unis]])]]
+Les incunables créés dans les premières années de l'imprimerie sont essentiellement de nouvelles éditions de manuscrits religieux et académiques du [[Moyen Âge]]. Quelques éditions de textes latins de [[Cicéron]] et [[Virgile]] sont aussi répertoriées, de même que des éditions en langue vernaculaire de [[Dante Alighieri|Dante]] et [[Pétrarque]]<ref name=":1">{{Ouvrage|prénom1=Cristina|nom1=Dondi|titre=The Oxford companion to the book|éditeur=Oxford University Press|date=2010|isbn=978-0-19-957014-0|isbn2=0-19-957014-0|oclc=502389441|titre chapitre=6 The European Printing Revolution}}</ref>.
+
+=== Bible dite « B42 » ===
+Le premier incunable typographique répertorié est la [[Bible de Gutenberg|Bible à quarante-deux lignes]], dite « B42 », imprimée sur les presses de [[Mayence]] par [[Johannes Gutenberg]], [[Pierre Schoeffer|Peter Schöffer]] et [[Johann Fust]] à la fin de l'année [[1454]]. Elle se compose de {{nombre|1282}} pages réparties en deux volumes. La plupart des pages comprennent deux colonnes de quarante-deux lignes, d'où son nom. La [[Bible de Gutenberg|Bible à quarante-deux lignes]] est élaborée graduellement grâce à un processus d'essais et d'erreurs{{sfn|Pettegree|2010|p=28|loc=|id=}}. Les onze premières pages comprennent 40 ou 41 lignes, puis les 42 lignes deviennent standards par la suite. Cela représentait une économie d'environ cinq cents sur le papier et le vélin{{sfn|Pettegree|2010|p=28|loc=|id=}}. Le texte en lettres gothiques est noir et a nécessité la gravure de {{unité|290 signes}} typographiques et l'emploi de {{nombre|100000}} caractères. Les ornementations du [[rubricateur]] sont de couleur rouge, nécessitant un deuxième passage en machine. Il était coutume de payer 20 [[florin]]s pour une copie papier de la Bible {{Citation|B42}} et 50 [[florin]]s pour une copie en [[vélin]]{{sfn|Pettegree|2010|p=29|loc=|id=}}. En comparaison, une maison de l'époque coûtait entre 80 et 100 [[florin]]s. Sur un tirage estimé de cent quatre-vingts exemplaires, seuls quarante-huit nous sont parvenus. Le premier chercheur à avoir décrit cet ouvrage est [[Guillaume-François Debure]], au {{XVIIIe siècle}}<ref>[http://portail.umons.ac.be/FR/universite/admin/biblio/Pages/biblegutenberg.aspx « La Bible à 42 lignes, dite Bible de Gutenberg »], par René Plisnier, Université de Mons, en ligne.</ref>.
+
+==== ''Psalmorum Codex'' ====
+[[Image:Mainz psalter (Fust and Schoeffer).jpg|thumb|Du Psalterium Benedictinum, 1459 : avec une lettrine peinte]]
+{{loupe|Psautier de Mayence}}
+
+Il faut attendre 1457 pour que [[Peter Schoeffer|Peter Schöffer]] et [[Johann Fust]]<ref group="Note">La coopération technique de ce dernier n'est pas clairement prouvée</ref> impriment le premier livre en couleurs : le ''Psalmorum Codex'', connu en [[France]] sous le nom de [[psautier de Mayence]]. Il contient calendrier, litanies, cantiques et prières en [[latin]].
+
+Cet ouvrage est considéré, avec les quatre livres imprimés par Gutenberg, comme l’un des livres les plus précieux de tous les temps pour plusieurs raisons :
+* l'impression à partir d'encres de couleurs noire, rouge et bleue ;
+* sa qualité d’impression, malgré l’utilisation d’un caractère dit « de forme » ;
+* la régularité de la fonte des caractères ;
+* les illustrations, par la précision de la [[gravure sur bois]] ;
+* les lettrines ornées filigranées ;
+* un [[Colophon (imprimerie)|colophon]] en fin d'ouvrage.
+
+Peter Schöffer a de grandes difficultés pour imprimer son livre, et aurait dépensé plus de {{nombre|4000 florins}} pour l’impression de 12 feuillets.{{refnec}}
+
+Le psautier était, à cette époque, le livre le plus recherché pour la dévotion privée : le « [[Psautier de Mayence]] » fut réimprimé par Fust et Schöffer en 1459.
+
+==== ''La Chronique de Nuremberg'' ====
+[[Image:Schedel erfurt.jpg|thumb|Gravure de ''La Chronique de Nuremberg''.]]
+
+''[[La Chronique de Nuremberg]]'' de [[Hartmann Schedel]], livre profane imprimé par [[Anton Koberger]] en 1493, est un autre incunable célèbre qui comporte de nombreuses illustrations rehaussées à la main.
+
+=== Premières impressions en France ===
+==== L'atelier de la Sorbonne ====
+En [[1470]], trois compagnons typographes allemands issus de l’imprimerie typographique de [[Mayence]], [[Ulrich Gering]], Martin Grantz et Michel Friburger, installent la première imprimerie typographique française à caractères mobiles dans des locaux appartenant à la [[Sorbonne]], à [[Paris]]. Durant l'automne ou l'hiver de cette année-là, ils réalisent les ''Espitolae'' de [[Gasparin de Bergame|Gasparino Barziza]], considérées comme le premier livre imprimé sur le territoire du royaume de France. Cet ouvrage est conservé à la Réserve des livres rares et précieux de la [[Bibliothèque nationale de France]].
+
+==== Lyon ====
+En [[1476]], sort à [[Lyon]] {{incise|« l'une des capitales négociantes et artistiques de la Renaissance à partir de 1460 » selon l'expression de l'historien [[Frédéric Barbier (historien)|Frédéric Barbier]]}} l'un des premiers livres imprimés en [[français]] : ''[[La Légende dorée]]'' de [[Jacques de Voragine]]<ref>{{harvsp|Barbier|2006|p=200-201}}.</ref>. En [[1503]] Guillaume Balsarin y imprime {{citation|''[[Le Roman de la Rose (Guillaume de Lorris et Jean de Meung)#Accueil|Le romant de la rose]]'' — moralisé cler et net, translaté de rime en prose par vostre humble [[Jean Molinet|Molinet]]}}.
+
+=== Autres imprimeurs ===
+Les imprimeurs d'incunables qui nous sont connus : [[Albrecht Pfister]] ([[Bamberg]]) ; [[Niccolò di Lorenzo]] ([[Florence]]) ; [[Erhard Ratdolt]], [[Alde Manuce]], [[Wendelin de Spire]], [[Nicolas Jenson]], [[Zacharie Kalliergis]] ([[Venise]]) ; [[Arnold Pannartz et Konrad Sweynheim]] ([[Subiaco (Italie)|Subiaco]] puis [[Rome]]) ; [[Jean Neumeister]]<ref>http://d-nb.info/978563867/04</ref> ([[Albi]]), [[Guy Marchant]] ([[Paris]]), [[Jean Mentel|Johannes Mentelin]] ([[Strasbourg]]), {{lien|langue=de|fr=Günther Zainer}} ([[Augsbourg]]), [[Colard Mansion]] ([[Bruges]]), [[William Caxton]] (Bruges et [[Londres]]), [[Michael Furter]] ([[Bâle]]), [[Henri Mayer]]<ref>{{lien web |titre=Henri Mayer (14..-1499?) - Auteur - Ressources de la Bibliothèque nationale de France |url=http://data.bnf.fr/15073194/henri_mayer/ |site=data.bnf.fr |consulté le=27-08-2020}}.</ref> ([[Toulouse]])…
+
+== Présentation des incunables ==
+L'incunable est vendu la plupart du temps en [[cahier (reliure)|cahiers]], non relié, comme le livre de l'époque moderne. Certains imprimeurs-libraires peuvent faire faire des reliures à la demande de clients plus fortunés.
+
+=== La mise en page ===
+[[Image:pageIncunable.jpg|thumb|Page d'un incunable avec une lettrine peinte]]
+
+La mise en page d’un incunable reprend celle des livres manuscrits de type [[codex]].
+
+La feuille de papier est repliée sur elle-même pour former des cahiers, ce qui détermine le format. Le [[format de papier|format]] le plus utilisé est le [[in-folio]] {{incise|feuille pliée en deux}}, mais il existe également des incunables aux formats [[in-quarto]] {{incise|feuille pliée en quatre}} ce format plus pratique à manipuler sera utilisé par les imprimeurs de manuels, de livres de droit, ou de romans.
+
+Les pages sont imprimées recto-verso ([[opisthographie]]) sur du papier ou sur [[vélin]]. Le papier utilisé depuis le {{XIIIe siècle}} un peu partout en Europe favorisera considérablement le développement de l’imprimerie.
+
+La page de titre n’existe pas encore, l’impression du livre débute au recto du premier feuillet d’où une usure prématurée de cette première page.
+
+Le texte s’étale sur deux ou trois colonnes de {{nobr|30 à}} {{nombre|70|lignes}} par colonne.
+
+Les lettres sont imprimées en caractères [[Écriture gothique|gothiques]] imitation des manuscrits [[codex]]. Plus tard, apparaît le caractère romain issu des inscriptions lapidaires des monuments antiques.
+
+Au début, les caractères étaient fondus dans l’atelier de l’imprimeur. C’est vers [[1540]] que [[Claude Garamond]] créa la première fonderie de caractères.
+
+=== Les illustrations ===
+[[Image:Heiligenleben. Der Heiligen Leben. Legenda aurea, dt. VD16 H1477 Blatt CXI Von Sant Laurentio.jpg|thumb|Page d'un incunable illustrée d'une gravure sur bois représentant le martyre de saint Laurent, [[Légende dorée]] en allemand, 1489]]
+Comme le manuscrit, l'incunable peut être décoré par un [[rubricateur]] et un [[Miniature (enluminure)|miniaturiste]] : la place leur est laissée pour ajouter des capitales enluminées dans les livres. Peu à peu, cet espace vide est remplacé par une gravure sur bois. Certains livres sont accompagnés d'illustrations, constituées de gravures sur bois insérées dans la forme avec les caractères.
+
+=== Le contenu ===
+À la différence du codex {{incise|chaque manuscrit est unique}} le livre imprimé est produit en série.
+
+Le texte débute par l’[[Incipit (livre)|incipit]] — ce sont les premiers mots du texte — et se termine par un [[Colophon (livre)|colophon]], un terme qui désigne l’auteur, le titre de l’ouvrage, le lieu, la date de l’édition et le nom de l’imprimeur inséré en fin de document<ref name=":3">{{Ouvrage|prénom1=Albert|nom1=Labarre|titre=Histoire du livre|passage=par. 30|éditeur=Presses universitaires de France|date=2001|isbn=978-2-13-059839-8|isbn2=2-13-059839-0|oclc=833056537|titre chapitre=Le livre au Moyen Âge}}</ref>. La [[réclame (imprimerie)|réclame]] et la [[Signature de la feuille|signature]] sont utilisées.
+
+La production des incunables {{incise|en [[Italie]] et en [[Allemagne]] principalement}} est essentiellement religieuse : cantiques, litanies, rituel, prières en latin, la vie de Jésus et, bien sûr, les œuvres de [[saint Augustin]].
+
+La production s’oriente également vers la reproduction d’herbiers, les textes médiévaux, calendriers, la littérature grecque ([[Homère]]), l’œuvre du poète écrivain [[Horace]], les traités de médecine, imprimés dans des langues autres que latine {{incise|langues [[Langue vernaculaire|vernaculaires]] romanes, germaniques, anglo-saxonnes, etc.|stop}}
+
+Pour la même édition, le contenu d’un livre peut varier. Si en cours d’impression le [[Correcteur (imprimerie)|correcteur]] modifie le contenu du livre, par souci d'économie, le premier tirage ne sera pas détruit. Finalement, le livre sera relié avec les pages modifiées et les pages non modifiées. Pour les imprimeurs les plus courageux les modifications du texte seront rapportées à la main.
+
+=== Typographie ===
+[[Image:Bible historiée 1495.png|thumb|Extrait de la Bible historiée de [[Pierre le Mangeur]], Rély, Guiart des Moulins. Imprimée chez [[Antoine Vérard]] à Paris. 1495]]
+[[Image: Jenson 1475 venice laertius.png |thumb|alt=Caractère romain de l’édition de [[Diogène Laërce]] de 1475|Caractère romain créé à Venise par [[Nicolas Jenson]] pour une édition de 1475.]]
+Les caractères sont créés grâce à la machine à fondre (''Handgießereigerät)'' inventée par [[Johannes Gutenberg]] ce qui facilitait le travail de l'imprimeur en créant des caractères typographiques, appelés types, normalisés en série<ref>{{Ouvrage|prénom1=Frédéric,|nom1=Barbier|titre=Histoire du livre en Occident|passage=par. 8-9|éditeur=Armand Colin|collection=U|date=2012|isbn=978-2-200-28154-0|isbn2=2-200-28154-4|oclc=867039022|titre chapitre=Chapitre 2 - Gutenberg et l’invention de l’imprimerie}}</ref>. C'est grâce à la matrice, qui était préalablement gravée des différents types, à l'envers et en creux, qu'un alliage de métal pouvait être fondu dans ce moule pour créer les caractères<ref name=":2">{{Ouvrage|prénom1=Albert|nom1=Labarre|titre=Histoire du livre|passage=par.3|éditeur=Presses universitaires de France|date=2001|isbn=978-2-13-059839-8|isbn2=2-13-059839-0|oclc=833056537|titre chapitre=L'avènement de l'imprimerie}}</ref>. Un petit nombre de fontes permettait de nombreuses possibilités en termes de caractères. Or, ces caractères étaient plus nombreux que les lettres de l'alphabet en raison des majuscules, des minuscules et des différents accents présents dans les différentes langues. Néanmoins, ce procédé rendait la tâche d'impression nettement plus efficace, puisque les caractères pouvaient être produits en grande quantité et être rapidement alignés, de manière uniforme, pour l'impression<ref name=":2" />.
+
+Dans le nord de l'Europe, les premiers incunables, qui reproduisent la Bible, sont en [[écriture gothique]], une [[Police d'écriture|police]] appelée [[Textura]], qui est moins anguleuse que celle des livres d’images. Ces caractères furent appelées « lettres de somme », par opposition aux « lettres de forme », et aussi « flamandes » ou « allemandes ».
+
+En Italie, les imprimeurs choisissent une [[typographie]] nettement plus aérée et arrondie, grâce aux travaux de l'imprimeur franco-vénitien [[Nicolas Jenson]] (1420-1480) qui dessine une police de lettre dite « romaine ». Celle-ci est {{citation|faite d'équilibre et de rondeur, véritable emblème humaniste, jusque-là réservée aux textes poétiques{{sfn|Blasselle 1998}}}}. [[Alde l'Ancien|Alde Manuce]] (1449-1515) est également réputé pour le soin apporté à une typographie lisible, dont on peut voir un exemple dans l'article qui lui est consacré. Alde inventa aussi les caractères italiques.
+
+Ce choix d'une typographie aérée et arrondie se répandra en France tandis que l'Allemagne s'en tiendra à la [[Textura]], qui évoluera pour donner la [[Fraktur]], mise au point pour l'impression d'un ensemble de livres destiné à l'empereur [[Maximilien Ier (empereur des Romains)|Maximilien]] (1459-1519). La Fraktur restera en vigueur en Allemagne jusqu'à la [[Seconde Guerre mondiale]].
+
+En [[ponctuation]], le [[Point (signe)|point]] a la figure d’une étoile et la [[virgule]] est marquée par une ligne oblique.
+
+Les [[alinéa]]s sont souvent alignés, c’est-à-dire au niveau des autres lignes ; ils sont quelquefois saillants, ou en dehors des autres lignes de quelques lettres, d’autres fois rentrants comme dans les éditions actuelles.
+
+Les livres sont tardivement [[Page (livre)|foliotés]], et plus rarement encore paginés. La pagination à l'aide de [[chiffres arabes]] sur les deux côtés de la page apparaîtra pour la première fois en 1513 dans une édition de ''Cornucopiae'' de Nicolo Perotti{{sfn|Blair 2010|p=49}}.
+
+La [[page de titre]] apparaît elle-même tardivement, vers 1475-1480<ref>{{Harvsp|Febvre & Martin 1958|p=153}}.</ref> à [[Venise]], mais ce n'est qu'au siècle suivant qu'elle ressemblera à la page de titre actuelle.
+
+== Imprimeurs, libraires, éditeurs, financiers ==
+[[Image:Inkunabel.ValMax.finis.detail.jpg|thumb|La « marque rouge » des imprimeurs-libraires [[Johann Fust]] et [[Pierre Schoeffer]].]]
+
+Les [[libraire]]s sont les marchands de livres, depuis le {{XIIe siècle}}. À partir de l'invention de l'impression en caractères mobiles, il existe des imprimeurs-libraires mais ce n'est pas le modèle économique le plus répandu. Très souvent, l'artisan imprimeur travaille avec une ou plusieurs personnes qui le financent. C'est le cas pour [[Johann Gutenberg]]. Le premier privilège de libraire connu est délivré par le Sénat de [[République de Venise|Venise]] en [[1469]] : il s'agit d'un privilège attribué pour 10 ans pour une nouvelle invention qui arrivait à peine à Venise, l'imprimerie<ref>{{harvsp|Barbier|2006|p=205}}.</ref>.
+
+== Méthodes de datation ==
+[[Image:L'auteur_travaillant_à_son_livre.jpg|thumb|L’auteur travaillant à son livre (fr. ''Danse macabre'' publié par [[Guy Marchant]]).]]
+Les ouvrages imprimés au cours de l'année 1500 ne diffèrent pas de ceux imprimés en 1501. D'une manière générale, la [[mise en page]] des livres évolue de façon continue entre 1480 et 1520. Pour qualifier les livres publiés à partir de 1501, on emploie parfois l'expression [[post-incunable]].
+
+Environ un tiers des ouvrages imprimés avant 1501 le sont sans date (noté « [s.d.] ») et à cette époque de nombreux ouvrages produits sont [[manuscrit]]s : le métier de copiste n'a pas disparu du jour au lendemain en Europe, loin de là. Conséquemment, les livres entièrement manuscrits fabriqués durant cette période ne sont pas considérés comme des incunables.
+
+Pour évaluer la date d'impression d'un incunable, les experts se servent du nom de l'imprimeur, du style des gravures et des fontes de caractères utilisées (la marque typographique), de la qualité du papier et de son fabricant, du matériel décoratif, du type d'ornementation<ref>« Datation du livre imprimé » par [[Denise Hillard]] in ''Dictionnaire encyclopédique du livre'', {{nobr rom|tome I}}, Paris, Cercle de la librairie, 2002, {{p.|716-718}}.</ref>.
+
+L'usage de la datation mentionnée d'abord de façon manuscrite dans la [[rubrication]] évolue et devient imprimée en page de titre à côté du [[Privilège (livre)|privilège]], système qui se généralise vers 1480. Par ailleurs, deux styles de datation vont cohabiter, du moins en France, celui de [[Pâques]] et celui de janvier. En 1564, tous les ouvrages commencent l'année au {{date-|1er janvier}} mais ce style s'est en réalité généralisé bien avant.
+
+Un incunable peut donc comporter des annotations manuscrites (''[[marginalia]]'') et des [[enluminure]]s, sans pour autant être exclu de cette catégorie. Il peut comporter également des pages imprimées à partir de blocs [[xylographie|xylographiques]] dans lesquels on taille directement le texte mais surtout l'image : un ouvrage composé principalement à partir de tels blocs est appelé [[incunable xylographique]]. Trois techniques peuvent donc coexister au sein d'un même ouvrage.
+
+== Catalogues ==
+=== Dans le monde ===
+* L'''[[Incunabula Short Title Catalogue]]'' (ISTC) est un {{citation étrangère|lang=en|short title catalogue}} géré par la ''[[British Library]]''<ref>[http://www.bl.uk/catalogues/istc/ ISTC].</ref>.
+* Le ''[[Gesamtkatalog der Wiegendrucke]]'' (GW), beaucoup plus précis mais encore en cours de rédaction, est géré par la [[Bibliothèque d'État de Berlin]]<ref>[http://www.gesamtkatalogderwiegendrucke.de/GWEN.xhtml GW].</ref>.
+
+=== En France ===
+C’est en France qu’est entrepris pour la première fois un catalogue national collectif des incunables. L’initiative est due à Marie Pellechet en 1895, poursuivie par Marie-Louis Polain<ref>Marie Pellechet et Marie-Louis Polain, ''Catalogue des incunables des bibliothèques publiques de France'', Paris, 1897-1909, {{nb vol.|3}} Publié en fac-simile avec les notes manuscrites et les fiches de M.-L. Polain, Nendeln, 1970, {{nb vol.|26}}</ref>. L’entreprise s’arrête cependant à l’article Gregorius Magnus et est abandonnée<ref name="BB">Thierry Claerr, Dominique Coq et Florent Palluault, « Vers un catalogue en ligne des incunables des bibliothèques de France », ''Bulletin du bibliophile'', 2012, {{n°|1}}, {{p.|3-9}}.</ref>.
+
+L’inspecteur général [[Louis Desgraves]] relance l’idée dans les années 1970 en créant les Catalogues régionaux des incunables (CRI), financés par la nouvelle [[Service du Livre et de la Lecture|Direction du livre et de la lecture]] au [[ministère de la Culture (France)|ministère de la Culture]]. Le premier volume (Champagne-Ardennes) paraît en 1979 ; 16 ont paru en 2012, ce qui représente environ la moitié des volumes prévus. D’abord publiés par la [[Société des bibliophiles de Guyenne]] (1979-1989), ils sont ensuite confiés aux Amateurs de livres (1989-2005) puis à [[Klincksieck]] (1995-2005) puis enfin à Droz (depuis 2005). La coordination scientifique est assurée par [[Pierre Aquilon]] depuis 1992<ref name="BB" />. Le volume correspondant à la région Nord-Pas-de-Calais est annoncé pour 2014.
+
+En 2009, le service du livre et de la lecture engage l’informatisation des catalogues déjà publiés. À terme, cela permettra de proposer en ligne un catalogue général des incunables de France avec des notices chapeau pour les éditions mais également toutes les données d’exemplaires ([[reliure]], mentions manuscrites, etc.). Cette solution a été préférée à un simple ajout des exemplaires dans les catalogues collectifs existants (dont elle n’est toutefois pas exclusive) afin de gagner en précision sur ces données d’exemplaires<ref name="BB" />.
+
+La [[Bibliothèque nationale de France|BnF]] commence, elle, un catalogage scientifique de ses incunables à partir des années 1970. Il paraît sous forme de fascicules formant quatre volumes : le deuxième, comprenant les lettres H à Z et les ''[[hebraica]]'', est publié de 1981 à 1985 ; le premier (lettres A-G et les [[incunable xylographique|livrets xylographiques]]) est presque achevé en 2012 ; le troisième comprend les tables et le quatrième consacré à la [[bibliothèque de l'Arsenal]] est prévu pour parution en 2016<ref name="BB" />.
+
+== Répartition géographique et linguistique ==
+<gallery>
+Image:Incunabula_distribution_by_region.png|Incunables par région
+Image:Incunabula_distribution_by_language.png|Incunables par langue : 70 % des textes sont imprimés en latin.
+</gallery>
+
+== Notes et références ==
+=== Notes ===
+{{Références|group=Note}}
+=== Références ===
+{{Références}}
+
+== Bibliographie ==
+=== Ouvrages de référence ===
+* {{Ouvrage|prénom1=Frédéric|nom1=Barbier|titre=L'Europe de Gutenberg : le livre et l'invention de la modernité occidentale ({{sp-|XIII|-|XVI}})|lieu=Paris|éditeur=[[Belin éditeur|Belin]]|année=2006|pages totales=364|isbn=|présentation en ligne=https://books.google.ca/books?id=NUMVAQAAIAAJ|plume=oui}}
+* {{Ouvrage|langue=en|prénom1=Ann M.|nom1=Blair|titre=Too much to know|sous-titre=Managing Scholarly Information before the Modern Age|lieu=New Haven|éditeur=[[Yale University Press]]|année=2010|pages totales=397|isbn=978-0-300-16539-5|id=Blair 2010}}
+* {{Ouvrage|auteur1=Bruno Blasselle|titre=Histoire du livre|sous-titre=volume 1|éditeur=[[Éditions Gallimard]]|année=1998|isbn=|id=Blasselle 1998}}
+* {{de}} Severin Costen ; Reimar Walter Fuchs, ''Der Buchdruck im 15. Jahrhundert : Eine Bibliographie herausgegeben von S. Costen und R. W. Fuchs'', A. Hiersemann, 1988-1994, {{nb p.|988}} {{ISBN|3-7772-8812-8}}
+* Olivier Deloignon (dir.), Jean-Marc Chatelain, [[Jean-Yves Mollier]], ''D'Encre et de papier. Une histoire du livre imprimé'', {{ISBN|978-2-330-15517-9}}, [[Imprimerie nationale]] éditions « collection arts du livre », 2021.
+* Cristina Dondi, « 6 The European Printing Revolution », dans ''The Oxford Companion to the Book''. [[Oxford University Press]], 2010 {{Identifiants biblio|isbn=978-0-19-957014-0|isbn2=0-19-957014-0|oclc=50238944}}.
+* {{de}} Ferdinand Geldner, ''Die Deutschen Inkunabelndrucker : Ein Handbuch des Deutschen Buchdrucker des XV. Jahrhunderts nach Druckorten'', Stuttgart, 1968-1970.
+* {{Ouvrage|prénom1=Albert|nom1=Labarre|titre=Histoire du livre|éditeur=Presses Universitaires de France|collection=Que sais-je ?|date=2001-06-01|isbn=978-2-13-051992-8|doi=10.3917/puf.labar.2001.01|lire en ligne=https://doi.org/10.3917/puf.labar.2001.01|consulté le=2021-11-03}}
+* {{Ouvrage|prénom1=Andrew|nom1=Pettegree|titre=The book in the Renaissance|passage=28|éditeur=Yale University Press|date=2010|isbn=978-0-300-11009-8|isbn2=0-300-11009-X|isbn3=978-0-300-17821-0|oclc=424454760}}
+* {{fr}} Marie-Louis Polain, ''Marque des imprimeurs et libraires en France au {{s-|XV}}'', Paris, 1926.
+* {{en}} Bettina Wagner, «The Present and Future of Incunable Cataloguing, I », ''The Library'', {{vol.|9}}, {{n°|2}}, {{date-|1er juin 2008}}, {{p.|197–209}} {{Identifiants biblio|issn=1744-8581|issn2=0024-2160|doi=10.1093/library/9.2.197}}, consulté le {{date-|3 novembre 2021}}.
+
+=== Bibliographies et catalogues d’incunables ===
+* le « Hain » et ses compléments :
+** Ludwig Hain, ''Repertorium bibliographicum, in quo libri omnes ab arte typographica inventa usque ad annum MD typis expressi ordine alphabetico vel simpliciter enumerantur vel adcuratius recensentur'', Paris / Stuttgart, 1826-1838. Voir sur [https://gallica.bnf.fr/ Gallica], une édition de 1925 : [https://gallica.bnf.fr/ark:/12148/bpt6k4854b {{vol.|1-1}}], [https://gallica.bnf.fr/ark:/12148/bpt6k4855n {{vol.|2-1}}], [https://gallica.bnf.fr/ark:/12148/bpt6k48578 {{vol.|2-2}}]
+** Walter Arthur Copinger, ''Supplement to Hains’s Repertorium bibliographicum'', Londres, 1895-1902
+** Dietrich Reichling, ''Appendices ad Hainii-Copingeri Repertorium bibliographicum : additiones et emendationes'', 6 fasc., Munich, 1905-1914.
+
+* Catalogues d’incunables conservés dans les bibliothèques
+** Catalogue des incunables de la [[Bibliothèques de Toulouse|bibliothèque de Toulouse]] rédigé par le {{Dr}} [[Desbarreaux-Bernard]], Toulouse, Privat, 1878.
+** ''Catalogue of Books printed in the XVth century, now in the British Museum'', Londres, 1908.
+** ''Catalogue des incunables de la Bibliothèque nationale'' [puis ''de la Bibliothèque nationale de France''], BnF, Paris, 1981.
+** ''Catalogues régionaux des incunables de bibliothèques publiques de France'', Société des bibliophiles de Guyenne, [[Bordeaux]], puis Bibliothèque nationale [de France], Paris, 1979.
+** G. Sajo et E. Soltesz, ''Catalogus incunabulorum quae in bibliothecis publicis Hungariae asservantur'', Budapest, 1970.
+** M. Bohonos, A. Kawecka-Gryczowa et E. Szandorowska, ''Catalogus incunabulorum quae in bibliothecis Poloniae asservantur'', Wratislava, [[Varsovie]], Cracovie, 1970.
+** ''Incunabula in Dutch libraries : a census of fifteenth-century printed books in Dutch public collections'', Nieuwkoop, 1983, {{nb vol.|2}}
+** F. R. Goff, ''Incunabula in American libraries : A third census of the XVth century books recorded in North American collections'', New York, 1973.
+** ''Indice generale degli incunaboli delle biblioteche d’Italia a cura del Centro nazionale d’informazioni bibliografiche'', Rome, 1943-1981, {{nb vol.|6}}
+** ''Bibliothecae Apostolicae Vaticanae Incunabula'', [[Bibliothèque apostolique vaticane|Bibliotheca Apostolica Vaticana]], Cité du Vatican, 1997, {{nb vol.|4}} {{ISBN|88-210-0676-X}}
+
+== Voir aussi ==
+{{autres projets
+|commons=Category:Incunabula
+|wiktionary=incunable|wiktionary titre=incunable
+}}
+{{catégorie principale}}
+
+=== Articles connexes ===
+* [[Imprimerie]]
+* [[Incunable xylographique]]
+* [[Johannes Gutenberg]]
+* [[Johann Fust]]
+* [[Pierre Schoeffer]]
+* [[Ugo Rugerius]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://www.bl.uk/catalogues/istc/index.html Incunabula Short Title Catalogue]
+* [http://www.enssib.fr/le-dictionnaire/incunable Incunable], Le Dictionnaire, enssib, {{date-|10 juin 2014}}.
+* [http://biblissima.fr Biblissima : portail sur le patrimoine écrit du Moyen Âge et de la Renaissance en Occident, du {{sp-|VIII|au|XVIII}}] (histoire de la transmission des textes et histoire des collections de manuscrits, incunables et imprimés anciens ; contient notamment les données informatisées des ''Catalogues Régionaux d'Incunables des bibliothèques publiques de France'', CESR-BVH, Université de Tours)
+* Université de Tours - Biblitothèques Virtuelles Humanistes [http://www.bvh.univ-tours.fr/incunables.asp Structure du projet de numérisation des catalogues d'incunables]
+* [https://archive.org/details/cataloguegnr01pell Catalogue général des incunables, Tome 1] des bibliothèques publiques de France par Marie Pellechet
+(Marie Léontine Catherine Pellechet, 1840-1900; France. Ministère de l'éducation nationale; Polain, M.-Louis, 1866-1933). Tome 1 (sur Archives.org).
+* [https://archive.org/details/cataloguegnr02pell Catalogue général des incunables, Tome 2].
+* [https://archive.org/details/cataloguegnr03pell Catalogue général des incunables, Tome 3]
+
+{{Portail|écriture|Édition|Bibliothèques|Moyen Âge tardif}}
+
+[[Catégorie:Incunable|*]]
+[[Catégorie:Histoire de la gravure]]
+[[Catégorie:Histoire de l'imprimerie]]
+[[Catégorie:Bible et imprimerie]]

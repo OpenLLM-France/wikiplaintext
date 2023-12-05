@@ -1,0 +1,65 @@
+{{Infobox Minéral
+| nom         = Sodalite<ref>{{article | lang=en | périodique=[[Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials|Acta Cryst. B]] | volume=40 | année=1984 | pages=6-13 | doi=10.1107/S0108768184001683 | titre=The crystal structures of sodalite-group minerals | nom1=I. Hassan | nom2=H. D. Grundy | numéro=1 | mois=février}}.</ref>
+| nomIUPAC    = 
+| CAS         = {{CAS|}}
+| famille     = 9
+| strunz      = {{Strunz|9|F|B|10}}
+| Dana        = {{Dana|76|02|03|01}}
+| largeurbox  = 
+| image       = Sodalith - Rohstein.jpg
+| tailleimage = 280
+| légende     = Sodalite - Rohstein
+| formule     = Na<sub>4</sub>(Al<sub>3</sub>Si<sub>3</sub>O<sub>12</sub>)Cl<sub></sub>   |Na=8|Al=6|Si=6|O=24|Cl=2|cacher=oui
+<!-- Identification -->
+| masseform   = 
+| couleur     = incolore; blanc; jaune; jaunâtre; verdâtre; bleu; rougeâtre; gris; vert; rose; violet; blanc gris
+| classe      = Hexakistétraédrique<br>''P''{{surligner|4}}3''n''
+| système     = [[Système cristallin cubique|cubique]] (isométrique)
+| réseau      = primitif P 
+| macle       = sur {111} 
+| clivage     = pauvre sur {110} 
+| cassure     = conchoïdale, irrégulière
+| habitus     = Cristaux rares, massif ; nodulaire ; agrégat ; grenu ; isométrique ; grain
+| faciès      = dodécaédrique
+| dureté      = de  5,50 à 6,00
+| trait       = blanc 
+| éclat       = vitreux à  gras
+| poli        = 
+<!-- Propriétés optiques -->
+| réfraction  = 
+| pléochroïsme = 
+| biréfringence = 
+| pouvoir rotatoire = 
+| dispersion  = 
+| fluorescence = oui orange
+| absorption  = 
+| transparence = transparent - translucide
+<!-- Propriétés chimiques -->
+| masse vol   = 
+| densité     = de 2,27 à 2,33
+| tempfusion  = 
+| fusibilité  = 
+| solubilité  = 
+| comportement = 
+<!-- Propriétés physiques -->
+| coeff_couplage = 
+| magnétisme  = aucun
+| radioactivité = aucune
+<!-- Précautions -->
+| 67548EECref = 
+| symboles = 
+| numeroIndex = {{indexCE|}}
+| classificationCE = 
+| r = 
+| s = 
+| transportRef = 
+| transport = {{ADR|Kemler=|ONU=|Classe=|CodeClassification=|Etiquette=|Etiquette2=|Etiquette3=|Emballage=}}
+| NFPA704ref = 
+| NFPA704 = {{NFPA 704|Health=|Flammability=|Reactivity=|Other=}}
+| SIMDUTref = 
+| SIMDUT = {{SIMDUT|}}
+| SGHref = 
+| SGH = {{SGH|}}
+| CIRC = 
+| categorisationAuto = désactivée
+}}

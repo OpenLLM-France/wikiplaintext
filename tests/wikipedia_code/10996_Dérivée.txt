@@ -1,0 +1,413 @@
+{{Voir paronymes|Dérive}}
+En [[mathématiques]], la '''dérivée''' d'une [[Fonction réelle d'une variable réelle|fonction d'une variable réelle]] mesure l'ampleur du changement de la valeur de la fonction (valeur de sortie) par rapport à un petit changement de son argument (valeur d'entrée). Les calculs de dérivées sont un outil fondamental du [[calcul infinitésimal]]. Par exemple, la dérivée de la position d'un objet en mouvement par rapport au temps est la vitesse (instantanée) de l'objet.
+
+La '''dérivée''' d'une fonction <math>f
+</math> est une fonction qui, à tout nombre pour lequel <math>f
+</math> admet un nombre dérivé, associe ce nombre dérivé. La dérivée en un point d'une [[fonction de plusieurs variables]] réelles, ou [[Fonction à valeurs vectorielles|à valeurs vectorielles]], est plus couramment appelée [[différentielle]] de la fonction en ce point et n'est pas traitée ici.
+
+La dérivée d'une fonction <math>f</math> en <math>x</math> est usuellement notée <math>f'(x)</math> ou <math>\frac{{\mathrm d} f}{{\mathrm d} x}(x)</math>.
+
+On utilise aussi des notations spécifiques, en particulier en [[physique]], pour désigner la '''dérivée par rapport au temps''' qui s'écrit avec un point surmontant la lettre (<math>\dot f</math>), la dérivée seconde s'écrivant alors grâce à un [[tréma]] surmontant la lettre. Cette notation est appelée « notation de [[Isaac Newton|Newton]] ». On utilise dans le même esprit les notations ''prime'' (<math>f'</math>) et ''seconde'' (<math>f''</math>) pour noter les dérivées par rapport à l'espace.
+
+En [[Analyse (mathématiques)|analyse]], le '''nombre dérivé''' en un « point » ([[Nombre réel|réel]]) <math>x</math> d'une [[Fonction réelle d'une variable réelle|fonction <math>f</math> à variable et valeurs réelles]] est la [[Pente (mathématiques)|pente]] de la [[tangente (géométrie)|tangente]] au [[Graphe d'une fonction|graphe de <math>f</math>]] au point <math>\left(x, f(x)\right)</math>. C'est le coefficient directeur de l'[[approximation affine]] de <math>f</math> en <math>x</math> ; ce nombre n'est donc défini que si cette tangente {{incise|ou cette approximation}} existe. La notion de dérivée est une notion fondamentale en [[Analyse (mathématiques)|analyse]] permettant d'étudier les variations d'une fonction, de construire des tangentes à une [[courbe]] et de résoudre des problèmes d'[[Optimisation (mathématiques)|optimisation]].
+
+En sciences, lorsqu'une grandeur est fonction du [[temps]], la dérivée de cette grandeur donne la vitesse instantanée de variation de cette grandeur, et la dérivée de la dérivée donne l'[[accélération]]. Par exemple, la [[vitesse]] instantanée d'un mobile est la valeur à cet instant de la dérivée de sa position par rapport au temps, et son [[accélération]] est la valeur à cet instant de la dérivée, par rapport au temps, de sa vitesse.
+
+On généralise la notion de dérivée en étendant celle-ci au [[Nombre complexe|champ complexe]] et on parle alors de [[analyse complexe|dérivée complexe]]. Pour une fonction de plusieurs variables réelles, on parle de la [[dérivée partielle]] par rapport à l'une de ses variables.
+
+Il existe aussi une définition purement [[Algèbre|algébrique]] de la dérivée. On en trouve un exemple dans l'article [[Polynôme formel#Dérivée formelle|polynôme formel]].
+
+== Histoire ==
+{{article détaillé|Histoire du calcul infinitésimal}}Sa création est liée à une polémique entre deux [[Mathématicien|mathématiciens]] : [[Isaac Newton]] et [[Gottfried Wilhelm Leibniz]]. Néanmoins, on retrouve chez des mathématiciens plus anciens les prémices de ce type de calcul : [[Pierre de Fermat]] et [[Isaac Barrow]] notamment. L'histoire du calcul infinitésimal remonte même à l'[[Antiquité]], avec [[Archimède]].
+
+La notion de nombre dérivé a vu le jour au {{s-|XVII}} dans les écrits de Leibniz et ceux de Newton, qui le nomme [[Fluxion (analyse)|fluxion]] et qui le définit comme « le quotient ultime de deux accroissements évanescents ». C'est à [[Joseph-Louis Lagrange|Lagrange]] (fin du {{s-|XVIII}}) que l'on doit la notation <math>f'(x)</math>, aujourd'hui usuelle, pour désigner le nombre dérivé de <math>f</math> en <math>x</math>. C'est aussi à lui qu'on doit le nom de « dérivée » pour désigner ce concept mathématique.
+
+== Approche à partir de la pente de la tangente ==
+[[Fichier:Tangent to a curve.svg|alt=|vignette|214x214px|Le graphique d'une fonction, dessinée en noir, et une ligne tangente à cette fonction, dessinée en rouge. La pente de la tangente est égale à la dérivée de la fonction au point marqué.]]
+
+Pour approcher cette notion de manière graphique, commençons par nous donner une [[courbe]] représentative d'une [[fonction (mathématiques)|fonction]] [[Continuité (mathématiques)|continue]] dans un [[Système de coordonnées cartésiennes|repère cartésien]], c'est-à-dire tracée d'un seul trait de crayon, et bien « lisse » ; on dira là que la fonction associée est [[Dérivabilité|dérivable]].
+
+Quel que soit le point que l'on choisit sur la courbe, on pourra alors tracer ce qu'on appelle une [[Tangente (géométrie)|tangente]], c'est-à-dire une droite qui épouse localement la direction de cette courbe. Si l'on trace la courbe et sa tangente et que l'on s'approche en zoomant suffisamment, on aura de plus en plus de mal à distinguer la courbe de sa tangente. Si la courbe « monte » (c'est-à-dire si la fonction associée est croissante), la tangente sera également montante ; inversement, si la fonction est décroissante, la tangente sera descendante.
+
+Si on se donne une [[Système de coordonnées cartésiennes|abscisse]] <math>x_0</math> pour laquelle la fonction <math>f</math> est dérivable, on appelle '''nombre dérivé''' de <math>f</math> en <math>x_0</math> le coefficient directeur de la tangente à la courbe au point d'abscisse <math>x_0</math>. Ce [[Nombre réel|réel]] donne de précieuses informations sur le comportement local d'une [[fonction (mathématiques)|fonction]] : c'est la [[mesure algébrique]] de la [[vitesse]] à laquelle cette fonction change lorsque sa variable change.
+
+Ainsi, si le nombre dérivé d'une fonction est positif sur un intervalle, cette fonction sera croissante sur ce même intervalle. Inversement, s'il est négatif, elle sera décroissante. Lorsque le nombre dérivé est nul en un point, la courbe admet une tangente horizontale en ce point (pour plus de détails, voir [[Fonction monotone#Monotonie et signe de la dérivée]]). Si de plus le nombre dérivé change de signe en ce point, alors la fonction admet un [[extremum local]] (minimum ou maximum) ; sinon, on obtient ce qu'on appelle un [[point d'inflexion]] et ainsi la courbe change de [[Lexique des arcs paramétrés#C|concavité]].
+
+== Définition formelle ==
+Soit <math>f
+</math> une [[Fonction (mathématiques)|fonction]] [[nombre réel|réelle]] à valeurs réelles définie sur une réunion quelconque d'[[intervalle (mathématiques)|intervalles]] non triviaux (c'est-à-dire non vides et non réduits à un point), et <math>x_0
+</math> appartenant à l'[[intérieur (topologie)|intérieur]] de l'ensemble de définition <math>\mathcal{D}_f</math>.
+
+Pour tout <math>h\in \R^*</math> tel que <math>[x_0,x_0+h]\sub \mathcal{D}_f</math>, on appelle ''taux d'accroissement de <math>f
+</math> en <math>x_0
+</math> et avec un pas de <math>h
+</math>'' la quantité :
+
+:<math>t_{x_0}(h) = {f(x_0+h)-f(x_0) \over h}</math>
+
+Il s'agit du [[coefficient directeur]] de la droite reliant les points de coordonnées <math>\left(x_0, f(x_0)\right)</math> et <math>\left(x_0 + h, f(x_0 + h)\right)</math>.
+
+Si <math>t_{x_0}(h)
+</math> admet une [[Limite (mathématiques)|limite]] finie lorsque <math>h
+</math> tend vers 0, on dit que <math>f
+</math> est dérivable en <math>x_0
+</math>, auquel cas le nombre dérivé de <math>f
+</math> en <math>x_0
+</math> est égal à la limite de ce taux d'accroissement. On note alors :
+
+:<math>f'(x_0) = \lim_{h \to 0\atop h\ne0} t_{x_0}(h) = \lim_{h \to 0\atop h\ne0}{f(x_0+h)-f(x_0) \over h}</math>
+
+ou, de manière équivalente :
+
+:<math>f'(x_0) = \lim_{x \to x_0\atop x\ne x_0}{f(x)-f(x_0) \over x-x_0}</math>
+
+Une fonction pour laquelle le taux d'accroissement en un point admet une limite finie (qui est le nombre dérivé) est dite '''dérivable''' en ce point.
+
+Ce calcul de limite revient graphiquement à rechercher la pente de la tangente à la courbe en ce point. Ainsi, le nombre dérivé d'une fonction en un point, s'il existe, est égal à la pente de la tangente à la courbe représentative de la fonction en ce point :
+
+[[Fichier:Tangent animation.gif|centré|vignette|260x260px|Une sécante s'approche d'une tangente quand <math>\Delta x \to 0</math>.]]
+
+La dérivation peut aussi être définie pour des fonctions d'une variable réelle à valeurs dans d'autres ensembles que <math>\R</math>.
+
+Par exemple, une fonction <math>f</math> d'une variable réelle, à valeurs dans <math>\R^n</math>, est dérivable en <math>x_0</math> si et seulement si toutes ses [[coordonnée]]s sont dérivables en <math>x_0</math> ; et sa dérivée est la fonction dont les coordonnées sont les dérivées des coordonnées de <math>f</math>. C'est un cas particulier de fonctions d'une variable vectorielle et à valeurs dans un [[espace vectoriel normé]] ou [[espace métrique|métrique]].
+
+== Dérivabilité et lien avec la continuité ==
+{{article détaillé|Dérivabilité}}
+
+Typiquement, une fonction est dérivable si elle ne présente pas « d'aspérité », de [[rupture de pente]] ni de partie « verticale ».
+
+[[Fichier:Signum function.svg|vignette|Fonction signe.]]
+
+Une fonction qui n'est pas continue en un point n'y est pas dérivable. Prenons l'exemple d'une fonction qui fait un saut. On ne peut pas définir de tangente, la limite du taux de variation est infinie (la pente de la courbe est verticale). C'est le cas par exemple de la [[fonction signe]] <math>\sgn(x)</math> en 0 :
+* à gauche de 0, i.e. <math>x<0</math>, <math>\sgn(x) = -1</math> ;
+* en 0 : <math>\sgn(0) = 0</math> ;
+* à droite de 0, i.e. <math>x>0</math>, <math>\sgn(x) = +1</math> ;
+le taux de variation pour une largeur <math>h</math>, vaut donc
+: <math>\frac{(1 - (-1))}{h}</math>
+et tend vers <math>+ \infty</math> quand <math>h</math> tend vers 0. Par contre, on peut définir une dérivée à gauche — dérivée partout nulle (tangente horizontale) sur <math>]- \infty,0[</math> — et une dérivée à droite — dérivée également nulle sur <math>]0,+ \infty[</math>.
+
+[[Fichier:F(x)=Abs(x).svg|vignette|Fonction valeur absolue.]]
+[[Fichier:Racine cubique moins10 10.svg|vignette|Fonction racine cubique.]]
+
+Si une fonction est dérivable en un point alors elle est continue en ce point, mais la réciproque est fausse.
+
+Par exemple : [[Valeur absolue#La fonction valeur absolue|la fonction valeur absolue <math>x\mapsto|x|</math>]] est continue mais n'est pas dérivable en 0 :
+* à gauche de 0, i.e. <math>x<0</math>, la pente vaut <math>-1</math> ;
+* à droite de 0, i.e. <math>x>0</math>, la pente vaut <math>+1</math>.
+Il y a une tangente à gauche et une tangente à droite différentes, la pente en 0 n'est pas définie ; le taux de variation n'a pas de limite définie. C'est le cas général pour les courbes présentant un point anguleux.
+
+Il en est de même de la fonction [[racine cubique]], qui a une tangente verticale en <math>x=0</math> : le taux de variation a une limite infinie.
+
+De plus, une fonction continue en un ensemble ne garantit pas que la fonction soit dérivable en cet ensemble (ouvert), comme contre-exemple la [[fonction de Weierstrass]] est continue sur <math>\mathbb{R}</math> mais dérivable nulle part.
+
+== Fonction dérivée ==
+La [[dérivabilité]] est ''a priori'' une notion locale (dérivabilité en un point), mais à toute fonction <math>f:\mathcal{D}_f\to\R</math> on peut associer sa '''fonction dérivée''' <math>f'
+</math> (prononcée « <math>f</math> prime »), donnée par
+
+:<math>f'\colon \mathcal{D}_{f'}\rightarrow\R,\quad x\mapsto f'(x)</math>
+
+où <math>\mathcal{D}_{f'}</math> est le ''[[Ensemble de définition|domaine]] de dérivabilité'' de <math>f
+</math> (le sous-ensemble de <math>\mathcal{D}_f</math> constitué des points en lesquels <math>f
+</math> est dérivable).
+
+Les fonctions dérivées sont utilisées notamment dans l'[[Étude de fonction|étude des fonctions réelles]] et de leurs [[Variations d'une fonction|variations]].
+
+La seule fonction (à une constante multiplicative près) égale à sa dérivée — c'est-à-dire solution de l'[[équation différentielle]] <math>f'=f
+</math> — est la [[fonction exponentielle]] de base <math>\mathrm{e}
+</math>. {{lesquels|Certains ouvrages}} prennent cette propriété, avec la condition <math>f(0) = 1
+</math>, comme définition de l'exponentielle.
+
+== Notations ==
+Il existe différentes notations pour exprimer la valeur de la dérivée d'une fonction <math>f
+</math> en un point <math>a
+</math>. On distingue :
+* la notation de [[Joseph-Louis Lagrange|Lagrange]]<ref>{{Cajori}}, section 575, {{Google Livres|RUz1Us2UDh4C|page=207|aperçu}}.</ref> : <math>f'\left(a\right)</math> ;
+* la [[notation de Leibniz]] : <math>\frac{{\mathrm d} f}{{\mathrm d} x}(a)</math> ou <math>\left.\frac{{\mathrm d} f}{{\mathrm d} x}\right|_{x=a}</math>. En physique, on note parfois <math>\frac{{\mathrm d} \left(f(a)\right)}{{\mathrm d} x}</math>. Cette dernière notation n'est pas rigoureuse car <math>f(a)
+</math> est un nombre constant, qui peut être vu comme une fonction constante <math>g : X \mapsto g(X) = f(a)
+</math> : rigoureusement, on a donc <math>\frac{{\mathrm d} \left(f(a)\right)}{{\mathrm d} x} = 0</math> ;
+* la notation de [[Isaac Newton|Newton]]<ref>{{Harvsp|Cajori|loc=section 567}}, {{Google Livres|RUz1Us2UDh4C|page=197|aperçu}}.</ref> : <math>\dot{f}(a)</math> qui est plutôt utilisée en [[physique]] pour désigner une dérivée par rapport au temps (on parle alors de calcul des [[fluxion (analyse)|fluxions]]) ;
+* la notation d'[[Leonhard Euler|Euler]] : <math>D_x f(a)</math>.
+
+Ces notations permettent également d'écrire des [[dérivées itérées]], cela se fait en multipliant le prime ou le point dans la notation (par exemple une [[dérivée seconde]] peut s'écrire <math>f''(a)</math> ou <math>\ddot{f}(a)</math>).
+
+== Dérivées usuelles et règles de dérivation ==
+{{Article détaillé|Dérivées usuelles|Opérations sur les dérivées}}
+
+<math>f'</math> peut souvent se calculer directement à partir d'une expression de <math>f
+</math>, lorsqu'il s'agit d'une fonction « simple », en utilisant la [[Dérivées usuelles|table des dérivées usuelles]]. Pour des fonctions qui s'expriment comme combinaison linéaire de fonctions simples, comme produit, quotient ou composée, on utilise un petit nombre de règles algébriques déduites de la définition donnée plus haut. Les règles les plus couramment utilisées sont les suivantes :
+{| class="wikitable"
+! Nom
+! Règle
+! Conditions
+|-
+| ''[[application linéaire|Linéarité]]'' || <math>(af+g)^\prime = af' + g'</math>
+| Quels que soient le réel <math>a</math> et les fonctions dérivables <math>f
+</math> et <math>g
+</math>.
+|-
+| Produit || <math>(fg)^\prime = f'g+fg'</math>
+| Quelles que soient les fonctions dérivables <math>f
+</math> et <math>g
+</math> .
+|-
+| Inverse
+|<math>\left({1\over g}\right)' = {-g'\over g^2}</math>
+| Quelle que soit la fonction dérivable <math>g
+</math> qui ne s'annule pas
+(cas particulier <math>f : x \mapsto 1
+</math> de la ligne suivante)
+|-
+| Quotient
+| <math>\left({f \over g}\right)' = {f'g-fg' \over g^2}</math>
+| Quelles que soient la fonction dérivable <math>f
+</math> et la fonction dérivable <math>g
+</math> qui ne s'annule pas
+|-
+| [[Théorème de dérivation des fonctions composées|''Composée'']]
+| <math>(g \circ f)' = (g'\circ f) \cdot f'</math>
+| Quelles que soient les fonctions dérivables (et composables) <math>f
+</math> et <math>g
+</math>
+|-
+| Réciproque
+| <math>(f^{-1})' = \frac{1}{f' \circ f^{-1}}</math>
+| Quelle que soit la fonction <math>f
+</math> bijective de réciproque <math>f^{-1}
+</math>, dérivable de dérivée ne s'annulant en aucun point
+|}
+
+En particulier, voici les règles courantes se déduisant de la dérivée de composées :
+
+{| class="wikitable"
+! Nom
+! Règle
+! Conditions
+|-
+| Puissance || <math>(f^\alpha)^\prime = \alpha f^{\alpha-1}f'</math>
+| Quel que soit <math>\alpha \in\Z</math>, et même quel que soit <math>\alpha \in\R</math> si <math>f>0
+</math>
+|-
+| Racine
+| <math>\left(\sqrt f\right)' = {f' \over 2\sqrt f}</math>
+| Quelle que soit la fonction dérivable <math>f
+</math> strictement positive
+(cas particulier <math>\alpha = 1/2
+</math> de la ligne précédente)
+|-
+| Exponentielle
+| <math>(\mbox{e}^f)^\prime = \mbox{e}^f\cdot f'</math>
+| Quelle que soit <math>f
+</math> dérivable
+|-
+| Logarithme
+| <math>(\log_b f)^\prime = {f' \over f \cdot \ln b}</math>
+| Quelle que soit la fonction dérivable <math>f
+</math> strictement positive
+|-
+| Logarithme népérien
+| <math>(\ln f)^\prime = {f' \over f}</math>
+| Quelle que soit la fonction dérivable <math>f
+</math> strictement positive (cas <math>b = \mathrm{e}
+</math> de la ligne précédente)
+|}
+
+== Dérivation numérique ==
+[[Fichier:Derivation numerique.svg|vignette|Principe de la dérivation numérique.]]
+
+Dans le cas d'une courbe expérimentale, on ne possède pas de fonction explicite pour la décrire, mais une série de valeurs <math>(x_i,y_i)</math>. On a donc recours à une dérivation numérique, qui consiste simplement à approcher la valeur de la dérivée en un point <math>i</math> par le taux de variation entre les points précédent et suivant :
+: <math>f'(x_i) \simeq \frac{y_{i+1} - y_{i-1}}{x_{i+1} - x_{i-1}}</math>
+Graphiquement, cela revient à remplacer la tangente par la corde. Ceci peut se justifier par le [[#Théorème des accroissements finis|théorème des accroissements finis]] : on sait qu'il existe un point de l'intervalle <math>\left[ x_{i-1},x_{i+1} \right]</math> pour lequel la dérivée est la pente de la corde, et si l'intervalle est petit, alors ce point est proche du milieu <math>x_i</math> . Cette méthode est automatisable sur les calculatrices programmables et les ordinateurs.
+
+Il faut cependant se poser la question de la précision des résultats. Une mise en informatique « naïve » de la méthode de calcul peut mener à des résultats de précision médiocre dans certains cas.
+
+Dans un ordinateur, la précision des nombres est limitée par le mode de représentation. Si l'on utilise la [[virgule flottante|double précision]] selon la norme [[IEEE 754]], les nombres ont environ 16 [[Chiffre significatif|chiffres significatifs]]. On a donc une [[précision relative]] de l'ordre de {{nb|e−16}} (2{{exp|−52}} exactement). Notons <math>r</math> cette valeur. Les calculatrices de poche admettent typiquement 10 chiffres significatifs, soit {{nobr|<math>r</math> {{=}} {{nb|e−10}}}}.
+
+Supposons que la différence <math>y_{i+1}-y_{i-1}</math> soit inférieure à <math>r</math>, alors le calculateur fera une erreur grossière sur le calcul et le résultat sera médiocre ; voire, si la différence est très faible, il ne « verra pas » de différence entre les deux valeurs, et le résultat sera 0. Si par exemple on veut avoir la dérivée autour de 2 de la fonction <math>f(x) = x^2</math>, en prenant un écart de {{nb|e−13}} entre les points :
+:{{nobr|<math>x_1</math> {{=}} {{nb|1.999,999,999,999,9}}}}
+:{{nobr|<math>x_2</math> {{=}} 2}}
+:{{nobr|<math>x_3</math> {{=}} {{nb|2.000,000,000,000,1}}}}
+:{{nobr|<math>\delta = y_3 - y_1 = {x_3}^2 - {x_1}^2</math> ≈ {{nb|8 e-13}}}}
+On voit que la différence entre les nombres, {{nb|8 e−13}}, est proche de <math>r</math>. On va donc avoir une [[erreur d'arrondi]]. De fait, le calcul nous donne sur un ordinateur
+:{{nobr|<math>f'(2)</math> ≈ {{nb|3.997}}}}
+alors que le résultat exact est
+:{{nobr|<math>f'(2)</math> {{=}} 2 × 2{{exp|1}} {{=}} 4}}
+soit une erreur de 0,3 %. Sur une calculatrice, le résultat est {{nobr|<math>f'(2)</math> ≈ 0}}…
+
+Le point critique est le choix de l'écart <math>h</math> entre les valeurs de <math>x</math>. Une valeur de l'ordre de <math>\sqrt r</math> convient dans de nombreux cas. Il nous manque encore quelques éléments pour cette étude ; le problème est abordé dans la section ''[[#Précision de la dérivée numérique|Précision de la dérivée numérique]]'' ci-dessous.
+
+Donc :
+* pour un ordinateur calculant en double précision, on peut prendre un écart de {{nb|e-8}} entre les points ;
+* pour une calculatrice avec 10 chiffres significatifs, on peut prendre un écart de {{nb|e−5}} entre les points.
+
+=== Précision de la dérivée numérique ===
+On peut approcher une fonction <math>f</math> de [[Classe de régularité|classe C{{2}}]] par un polynôme appelé [[développement limité]]<ref name="scilab">{{Lien web|lang=en|auteur=Michaël Baudin|url=https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.scilab.org%2Fcontent%2Fdownload%2F249%2F1710%2Ffile%2Fscilabisnotnaive.pdf|titre=Scilab is not naive|site=[[scilab]].org|page=22-28}}.</ref> :
+: <math>f(x + h) = f(x) + f'(x) \cdot h + \frac{f''(x)}2\cdot h^2+\mathrm O(h^3)</math>.
+Il en vient une approximation de la dérivée à l'ordre 2 :
+: <math>f'(x) \simeq \frac{f(x + h) - f(x)}h- \frac{f''(x)}2\cdot h \simeq \frac{f(x + h) - f(x)}h</math>.
+Ce faisant, on commet une erreur de troncature du second ordre
+: <math>\mathrm{E_t} = \left | \frac{f''(x)}2\right |h</math>.
+Par ailleurs, l'ordinateur commet une erreur d'arrondi : la précision relative étant <math>r</math>, la précision absolue sur <math>f(x)</math> est <math>|f(x)| r</math>, et donc l'erreur induite sur la dérivée
+: <math>\mathrm{E_a} = \frac{| f(x)|r}h</math>.
+L'erreur totale vaut donc
+: <math>\mathrm{E} = \mathrm{E_t} + \mathrm{E_a} = \left | \frac{f''(x)}2\right | h + \frac{| f(x)|r}h</math>.
+Cette fonction est convexe, et admet un minimum en
+: <math>\bar h=\sqrt{\frac{2r | f(x) |}{| f''(x)|}}</math>.
+Cela dépend donc du rapport entre la valeur de <math>f</math> et la [[Courbure d'un arc|courbure]] <math>f''</math>. Pour les zones où la fonction <math>f</math> est « modérée » — c'est-à-dire que <math>f / f''</math> est de l'ordre de l'unité —, on peut retenir
+: <math>\bar h\simeq \sqrt r</math>.
+L'erreur commise sur le premier terme (« erreur de méthode ») est en fait bien plus petite, puisque la méthode du paragraphe précédent revient à approximer <math>f'(x)</math> par <math>\frac{f(x + h) - f(x-h)}{{2h}}</math> ; le même développement limité (pris cette fois à l'ordre 3) montre qu'on commet alors une erreur de l'ordre de <math>{f'''(x) \over 6} h^2</math>. Il en résulte que le principal défaut de ces méthodes d'approximation numérique vient des erreurs d'arrondi.
+
+Des formules plus complexes donnent de meilleures approximations ; voir à ce sujet l’article ''[[Dérivation numérique]]''.
+
+== Dérivation graphique ==
+[[Fichier:Derivation graphique.svg|vignette|Dérivation graphique : on convertit la pente des droites en utilisant un pôle.]]
+
+On peut également effectuer une dérivation graphique, sans utiliser de calcul. On approche les tangentes par les cordes comme pour la méthode numérique. Puis, on tire des parallèles à ces droites passant par un point nommé pôle P. On considère l'intersection de ces droites avec la verticale passant par O, le segment [OP] étant horizontal. La hauteur <math>v_i</math> des segments ainsi délimités est proportionnelle à la pente <math>a_i</math> :
+: <math>v_i = \mathsf{OP} \times a_i</math>
+on peut donc reporter cette hauteur sur le graphique et obtenir une approximation de la courbe dérivée. L'échelle de l'axe des <math>y</math> est donc de OP:1.
+
+== Dérivée d'ordre {{mvar|n}} ==
+{{Article détaillé|Dérivation itérée}}
+
+La dérivée seconde, notée <math>f''</math>, est la dérivée de la dérivée de <math>f</math>, lorsqu'elle existe :
+: <math>f'' = (f')'</math>
+et la dérivée troisième est la dérivée de la dérivée seconde, lorsqu'elle existe :
+: <math>f''' = (f'')'</math>.
+
+De manière générale, on définit la dérivée d'ordre <math>n</math> pour une fonction <math>n</math> fois dérivable par [[raisonnement par récurrence|récurrence]] :
+
+:<math>\frac{{\mathrm d} ^{n+1}f}{{\mathrm d} x^{n+1}}=\frac{{\mathrm d} }{{\mathrm d} x} \frac{{\mathrm d} ^n f}{{\mathrm d} x^n}</math>
+
+<math>\frac{{\mathrm d} ^n f}{{\mathrm d} x^n}</math> est également notée <math>f^{(n)}</math>.
+
+=== Formule de Leibniz ===
+Si <math>f</math> et <math>g</math> sont des fonctions <math>n</math> fois dérivables, alors, par application de la [[règle du produit]] :
+
+:<math>(fg)^{(n)}=\sum_{k=0}^{n} { n \choose k } f^{(k)}g^{(n-k)}</math>.
+
+En particulier pour <math>n=2</math>,
+:<math>(fg)''=f''g+2f'g'+fg''</math>
+On notera l'analogie avec la [[formule du binôme de Newton]]. Cela provient de la [[bilinéarité]] de l'opérateur de dérivation d'un produit.
+
+== Propriétés des fonctions dérivables ==
+=== Théorème de Rolle ===
+{{Article détaillé|Théorème de Rolle}}
+
+Soient <math>a</math> et <math>b</math> deux réels tels que <math>a < b</math>. Si <math>f</math> est continue sur <math>[a, b]</math>, dérivable sur <math>]a, b[</math>, et si <math>f(a) = f(b)</math>, alors il existe (au moins) un réel <math>c</math> dans <math>]a,b[</math> tel que :
+:<math>f'(c)=0</math>.
+
+=== Théorème des accroissements finis ===
+{{Article détaillé|Théorème des accroissements finis}}
+
+; Énoncé
+: Si une fonction <math>f</math> est continue sur <math>[a, b]</math>, avec <math>a \neq b</math>, et dérivable sur <math>]a, b[</math>, alors il existe un point <math>c</math> de <math>]a, b[</math> tel que le nombre dérivé de <math>f</math> en ce point soit le taux de variation entre <math>a</math> et <math>b</math>
+: <math>f'(c)= \frac{f(b)-f(a)}{b-a}</math>.
+
+En particulier, si <math>f(a) = f(b)</math>, on retrouve le [[théorème de Rolle]], qui sert aussi à démontrer le résultat plus général (voir [[Théorème des accroissements finis|l'article détaillé]]), c'est pourquoi on le rencontre souvent sous le nom de [[Lemme (mathématiques)|lemme]] de Rolle.
+
+Cette propriété est utilisée en [[cinématique]] pour déterminer une approximation du vecteur [[vitesse]] à partir d'un [[Triangulation|relevé de point]].
+
+=== Discontinuités ===
+Une partie <math>A</math> d'un intervalle réel <math>I</math> est l'ensemble des points de continuité de la dérivée d'une fonction dérivable de <math>I</math> dans <math>\R</math> si et seulement si<ref>{{Ouvrage|langue=en|auteur1={{Lien|langue=en|Andrew M. Bruckner}}|titre=Differentiation of Real Functions|éditeur=Springer|année=1978|passage=46-47|lire en ligne=https://books.google.fr/books?id=wkC8DAAAQBAJ&pg=PA46}}.</ref> <math>A</math> est un [[Ensemble Gδ|ensemble ''G''{{ind|δ}}]] [[Partie dense|dense]] dans <math>I</math>.
+
+L'ensemble des points de discontinuité d'une dérivée est donc un [[Ensemble Fσ|ensemble ''F''{{ind|σ}}]] d'[[Intérieur (topologie)|intérieur]] vide quelconque.
+
+=== Théorème de [[Gaston Darboux|Darboux]] ===
+{{Article détaillé|Théorème de Darboux (analyse)}}
+
+Si <math>f</math> est dérivable, sa fonction dérivée <math>f'</math> n'est donc pas nécessairement continue. Cependant, <math>f'</math> possède la propriété des valeurs intermédiaires. Ceci constitue le théorème de Darboux, qui peut se formuler de deux façons équivalentes :
+: si <math>f</math> dérivable est définie sur un intervalle réel <math>I</math>, alors <math>f'(I)</math> est un intervalle ;
+: si <math>f'(a) < f'(b)</math> alors, pour tout <math>t</math> de <math>[f'(a), f'(b)]</math>, il existe <math>c</math> tel que <math>f'(c) = t</math>.
+
+== Dérivées de fonctions liées ==
+Beaucoup de problèmes font intervenir plusieurs variables qui sont liées entre elles et qui varient en fonction du temps.
+
+La variation de l'une de ces variables donnera une variation correspondante des autres variables.
+
+Le lien entre ces variations dépendra des relations qui existent entre les variables.
+
+{{Exemple|
+Un homme s'éloigne d'une tour de {{nb|60|m}} de hauteur à raison de {{nb|8|km/h}} soit environ {{nb|2.2|m/s}}.
+
+À quelle vitesse s'éloigne-t-il du sommet de cette tour lorsqu'il est à {{nb|80|m}} du pied de la tour ?
+
+On sait par [[Théorème de Pythagore|relation de Pythagore]] que la distance entre le piéton et le sommet est alors de {{nb|100|m}}.
+
+Avec <math>y</math> et <math>x</math>, distances du piéton au sommet de la tour et au pied de celle-ci sont des fonctions du temps liées par la relation de Pythagore :
+: <math>y^2=x^2+60^2</math> implique <math>y^2(t)=x^2(t)+60^2</math>
+En dérivant les deux membres de cette égalité, nous obtenons :
+:<math>2y \frac{\mathrm dy}{\mathrm dt}=2x \frac{\mathrm dx}{\mathrm dt}</math> implique <math>\frac{\mathrm dy}{\mathrm dt}=\frac xy\frac{\mathrm dx}{\mathrm dt}</math> :
+la vitesse par rapport au sommet de la tour vaut le rapport entre la distance au sol entre le piéton et le pied de la tour et la distance entre le piéton et le sommet de la tour multiplié par la vitesse du piéton.
+
+Lorsque le piéton est à {{nb|80|m}} du pied de la tour :
+:<math>\frac{\mathrm dy}{\mathrm dt}=\frac{80}{100}\frac{\mathrm dx}{\mathrm dt}=\frac8{10}\frac{\mathrm dx}{\mathrm dt}</math>,
+ce qui revient à dire que la vitesse par rapport au sommet de la tour vaut <math>\tfrac8{10}\cdot8\; \rm \tfrac{km}h=6{,}4\; \tfrac{km}h</math>.
+
+L'expression précédente permet en outre d'exprimer en fonction du temps la vitesse mesurée du sommet de la tour : si l'on note <math>v(t)</math> celle-ci et <math>v</math> la vitesse constante de déplacement horizontal exprimées en m/s, on a les égalités
+: <math>x(t)=vt,\ y(t)=\sqrt{60^2+v^2t^2} \ \textrm{ et }\ v(t)=\frac{vt}{\sqrt{60^2+v^2t^2}}v</math>.
+}}
+
+== Analyse d'une fonction dérivée ==
+En trouvant les valeurs de <math>x</math> pour lesquelles la dérivée vaut 0 ou n'existe pas, on trouve les [[Point critique (mathématiques)|nombres critiques]] de la fonction. Les nombres critiques de <math>f</math> permettent de trouver implicitement ses maxima et ses minima. En effectuant le [[test de la dérivée première]], on construit un [[Variations d'une fonction|tableau de variation]] ; si le signe de la fonction dérivée passe du plus au moins devant un nombre critique, on a un maximum et si le signe de la fonction dérivée passe du moins au plus devant le nombre critique, on a un minimum.
+
+De plus, lorsque le signe de la dérivée première est positif, la fonction est croissante ; s'il est négatif, elle est décroissante. On ne conclut rien, si au point critique la fonction dérivée ne change pas de signe. En dérivant la dérivée première, on a la [[dérivée seconde]]. En effectuant le [[Dérivée seconde|test de la dérivée seconde]], on trouve les nombres critiques de la dérivée première pour les placer dans le même tableau ; lorsqu'on observe un changement de signe de la dérivée seconde devant ce ou ces nombres critiques, on dit qu'on a un (ou des) [[point d'inflexion|point(s) d'inflexion]]. Les points d'inflexion marquent un changement de la concavité de la fonction. Un signe positif de la dérivée seconde signifie que la fonction est [[Fonction convexe|convexe]] et un signe négatif de la dérivée seconde signifie que la fonction est [[Fonction concave|concave]]. Connaissant les changements de concavité et les [[extremum|extrema]] de la fonction, on peut alors tracer une esquisse de sa représentation graphique.
+
+== Dérivée et optimisation ==
+Méthode pour optimiser un rendement à l'aide du calcul différentiel :
+
+# Mathématisation
+#* Définitions et dessin : on définit les variables inconnues et on les représente sur un schéma.
+#* Écrire la [[fonction objectif]] à deux variables et préciser si on recherche un maximum ou un minimum dans la situation donnée.
+#* Trouver la relation entre les deux variables.
+#* Écrire la [[fonction objectif]] à une variable et préciser le domaine de la fonction.
+# Analyse
+#* Dériver la fonction pour obtenir la dérivée première.
+#* Trouver les nombres critiques de la fonction, où la dérivée première vaut zéro ou n'existe pas dans les intervalles du domaine.
+#* Effectuer le [[test de la dérivée première]] ou le [[Dérivée seconde|test de la dérivée seconde]] pour déterminer le maximum ou le minimum recherché de la situation.
+# On formule la réponse de façon concise par rapport à la question.
+
+== Dérivée algébrique ==
+{{Article détaillé|Polynôme formel|Dérivation (algèbre)|Corps différentiel}}
+
+Les [[algèbre|algébristes]] donnent un sens un peu différent au terme ''dérivée''. Ils l'appliquent à une structure <math>B</math> appelée [[Algèbre associative|''A''-algèbre associative]] unitaire et commutative. Une application <math>D</math>, de <math>B</math> dans <math>B</math> est appelée une [[dérivation (algèbre)|dérivation]] si :
+* l'application <math>D</math> est [[application linéaire|''A''-linéaire]] ;
+* <math>b_1</math> et <math>b_2</math> étant deux éléments de <math>B</math>, la dérivée de <math>b_1 \cdot b_2</math> est égale à la somme du produit de la dérivée de <math>b_1</math> et de <math>b_2</math> et du produit de <math>b_1</math> avec la dérivée de <math>b_2</math> :<center><math> D(b_1\cdot b_2) = D (b_1)\cdot b_2 + b_1\cdot D(b_2)</math></center>(en particulier, la dérivée de l'élément <math>1_B</math> neutre de <math>B</math> pour la multiplication est nulle).
+
+Un exemple de dérivation définie de cette manière est donné dans l'article [[polynôme formel]].
+
+== Dérivée fractionnaire ==
+{{Article détaillé|Analyse fractionnaire#Dérivée fractionnaire{{!}}Dérivée fractionnaire}}
+Une autre généralisation part de la notion de [[Dérivation itérée|dérivée ''n''-ème]] pour construire, à l'aide de la [[transformation de Laplace]], une nouvelle fonction, la dérivée ''t''-ème, où ''t'' est un réel quelconque, et qui coïncide avec la dérivée itérée si ''t''  est entier et si la fonction de départ est suffisamment régulière.
+
+== Dérivation en tant qu'application linéaire ==
+La dérivation est une [[application linéaire]], de l'[[espace vectoriel]] des fonctions dérivables sur un [[Intervalle (mathématiques)#Inventaire|intervalle ouvert]] non [[Ensemble vide|vide]] <math>I</math> de <math>\R</math> et à valeurs réelles, vers celui des fonctions quelconques de <math>I</math> dans <math>\R</math>{{Note|texte=Cette application n'est pas [[surjection|surjective]] :  son [[image (mathématiques)|image]] (l'ensemble des fonctions admettant une [[primitive]]) ne contient pas, par exemple, de fonctions présentant une [[Classification des discontinuités|discontinuité de première espèce]], en raison du théorème de Darboux {{supra|Théorème de Darboux}}.}}. Son [[Noyau (algèbre)|noyau]] est constitué des [[Fonction constante|fonctions constantes]] et plus généralement, tout réel <math>\lambda</math> est [[valeur propre]], de [[Valeur propre (synthèse)|sous-espace propre]] associé la [[droite vectorielle|droite]] de toutes les fonctions de la forme <math>x\mapsto a\mathrm e^{\lambda x}</math> avec <math>a\in\R</math>.
+
+La dérivation en tant qu'[[Endomorphisme linéaire|endomorphisme]] de l'espace <math>E=\mathcal{C}^\infty(I,\Complex)</math> n'admet pas de [[Racine carrée fonctionnelle|racine carrée]]<ref>{{Ouvrage |auteur1= Serge Francinou |auteur2= Hervé Gianella |auteur3= Serge Nicolas|titre= Oraux X-ENS |sous-titre= Exercices de mathématiques Algèbre 1 |éditeur= Cassini |collection= |lieu=Paris |année=2007 |volume= |tome=1 |pages totales=372 |passage=311 |isbn=978-2-84225-132-1}}.</ref>{{,}}{{Note|texte=Il est cependant possible, en un sens étendu, de définir une notion de [[analyse fractionnaire|dérivée fractionnaire]] ; pour cette définition, la dérivation d'ordre 1/2<!--unique ?--> est effectivement une racine carrée de la dérivation usuelle<!--mais pas définie(s) partout ? ou pas linéaire(s) ?-->.}}, c'est-à-dire que si l'on note <math>D:E\to E</math> l'opérateur de dérivation, alors il n'existe pas<ref>En effet, la [[Droite vectorielle|droite]] <math>\ker D\cong\Complex_0[X]</math> et le [[Plan vectoriel|plan]] <math>\ker(D^2)\cong\Complex_1[X]</math> étant alors [[Sous-espace stable|stables]] par <math>T</math>, on aurait <math>T(1)=a</math> et <math>T(X)=bX+c</math>, or les deux équations <math>0=T^2(1)=a^2</math> et <math>1=T^2(X)=b^2X+c(a+b)</math> sont incompatibles.</ref> d'application linéaire <math>T:E\to E</math> telle que {{nobr|<math>T\circ T=D</math>.}}
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+| wikibooks = Analyse/Dérivation
+| wiktionary = Dérivée
+| wikiversity = Fonction dérivée}}
+
+=== Articles connexes ===
+* Toute fonction continue à dérivée nulle sauf sur un [[ensemble dénombrable]] est constante, [[Lemme de Cousin#Fonction continue à dérivée nulle sauf sur un ensemble dénombrable|d'après le lemme de Cousin]] ou l'[[inégalité des accroissements finis]]
+*Toute [[fonction absolument continue]] à dérivée nulle [[presque partout]] aussi, à nouveau [[Lemme de Cousin#Fonction lipschitzienne à dérivée nulle presque partout|d'après le lemme de Cousin]]
+* [[Notations delta en sciences]]
+* [[Fonction à dérivée faible]]
+* [[Sous-différentiel]] d'une fonction convexe
+* [[Théorème de Radon-Nikodym-Lebesgue|Dérivée de Radon-Nikodym]] d'une [[Théorie de la mesure|mesure]] par rapport à une autre
+* [[Calcul infinitésimal]]
+* {{Page h|Dérivation}}
+
+=== Lien externe ===
+{{MathWorld|nom_url=Derivative|titre=Derivative}}
+
+=== Bibliographie ===
+Claude Wagschal, ''Dérivation, intégration. Avec exercices corrigés'', [[éditions Hermann|Hermann]], 2012
+
+{{Portail|analyse}}
+
+[[Catégorie:Dérivée|*]]

@@ -1,0 +1,296 @@
+{{Titre mis en forme|Personnages de ''Star Trek''}}
+<!-- merci de respecter l'ordre alphabétique en ajoutant des entrées -->
+Cette '''liste des personnages de l{{'}}univers de fiction de ''[[Star Trek]]''''' recense tous les '''[[Personnage de fiction|personnages]]''' de ''Star Trek'' par ordre alphabétique, dans l'ensemble des médias (séries télévisées, films, [[Liste des romans de Star Trek|romans]]…) et quelle que soit l'importance de leur rôle, dès l'instant où le personnage participe à une intrigue.
+
+{{Sommaire compact}}
+
+<!-- À RÉINTÉGRER DANS LA LISTE 
+
+* [[DeForest Kelley]] : docteur [[Leonard McCoy]]
+* [[George Takei]] : lieutenant [[Hikaru Sulu]]
+* [[James Doohan]] : lieutenant Commandeur [[Montgomery Scott]]
+* [[Leonard Nimoy]] : Monsieur [[Spock (Star Trek)|Spock]]
+* [[Nichelle Nichols]] : lieutenant [[Nyota Uhura]]
+* [[Grace Lee Whitney]] : yeoman [[Janice Rand]]
+* [[Mark Lenard]] : ambassadeur [[Sarek]]
+* [[Patricia McNulty]] : [[Tina Lawton]]
+* [[Roger C. Carmel]] : [[Harcourt Mudd|Harcourt Fenton « Harry » Mudd]]
+* [[Brent Spiner]] : lieutenant commandeur [[Data (Star Trek)|Data]]
+* [[Michael Dorn]] : lieutenant [[Worf]]
+* [[Colm Meaney]] : chef [[Miles O'Brien]]
+* [[Denise Crosby]] : lieutenant [[Tasha Yar]]
+* [[Michelle Forbes]] : enseigne [[Ro Laren]]
+* [[Brent Spiner]] : [[Noonien Soong]]
+* [[Colm Meaney]] : chef des opérations [[Miles O'Brien]]
+* [[Michael Dorn]] : lieutenant commandeur [[Worf]]
+* [[Nicole de Boer]] : conseiller [[Ezri Dax]]
+* [[Rene Auberjonois]] : chef de la sécurité [[Odo (Star Trek)|Odo]]
+* [[Terry Farrell (actrice)|Terry Farrell]] : lieutenant [[Jadzia Dax]]
+* [[Andrew Robinson]] : [[Garak]]
+* [[Casey Biggs]] : [[Damar (Star Trek)|Damar]]
+* [[Chase Masterson]] : [[Leeta]]
+* [[Jeffrey Combs]] : [[Weyoun]] 
+* [[J.G. Hertzler]] : [[Martok]] 
+* [[Melanie Smith]] : [[Ziyal]]
+* [[Marc Alaimo]] : [[Gul Dukat]]
+* [[Mark O'Reilly]] : [[Gowron]]
+* [[Penny Johnson Jerald|Penny Johnson]] : [[Kassidy Yates]]
+* [[Rosalind Chao]] : [[Keiko O'Brien]]
+* [[Jeri Ryan]] : [[Seven of Nine]]
+* [[Kate Mulgrew]] : capitaine [[Kathryn Janeway]]
+* [[Robert Beltran]] : commandeur [[Chakotay]]
+* [[Robert Duncan McNeill]] : lieutenant [[Tom Paris]]
+* [[Robert Picardo]] : [[Docteur Holographique de Secours]]
+* [[Alexander Enberg]] : enseigne [[#Vorik|Vorik]]
+* [[Alice Krige]] : la Reine [[Borg (Star Trek)|Borg]] (saison 7)
+* [[Manu Intiraymi]] : [[Icheb]]
+* [[Nancy Hower]] : enseigne [[Samantha Wildman]]
+* [[Robert Picardo]] : docteur [[Lewis Zimmerman]]
+* [[Scarlett Pomers]] : [[Naomi Wildman]]
+* [[Susanna Thompson]] : la Reine Borg ([[Saison 5 de Star Trek: Voyager|saisons 5]] et 6)
+* [[Warren Munson]] (1995-1998), [[Richard Herd]] (1999-2001) : amiral [[Owen Paris]]
+* [[Anthony Montgomery]] : enseigne [[Travis Mayweather]]
+* [[Dominic Keating]] : lieutenant [[Malcolm Reed]]
+* [[Linda Park]] : enseigne [[Hoshi Sato]]
+
+FIN DE LA LISTE DES PERSONNAGES À RÉINTÉGRER -->
+
+== Liste des personnages ==
+
+=== A ===
+* {{ancrage|Winn Adami|[[Winn Adami|Adami, Winn]]}} : {{Star Trek|Jargon|Vedek}} puis {{Star Trek|Jargon|Kai}}, religieuse bajorane
+* Rozhenko, Alexander : fils de Worf
+* {{ancrage|Robert April|April, Robert}} : premier capitaine de l'{{USS|Enterprise|NCC-1701|6}}<ref name="TAS_206" /> et l'un des plus décorés de [[Starfleet]]<ref name="DIS_105" />.
+* {{ancrage|Jonathan Archer|[[Jonathan Archer|Archer, Jonathan]]}} : capitaine de l'[[Enterprise (NX-01)|''Enterprise'']] NX-01 (prototype), puis amiral de [[Starfleet]]
+* {{ancrage|Azetbur}} : fille de [[#Gorkon|Gorkon]], ex-chancelier du Haut Conseil [[Klingon]]. Elle est la seule femme klingon connue qui fut chancelier, une loi votée en 2367 interdisant aux femmes de siéger au Haut Conseil. Elle assume cette fonction après l'assassinat de son père par des membres de la conspiration de [[Khitomer]] en 2293. Elle a continué ainsi son travail en participant à la Conférence de Khitomer en 2293, et en signant les Accords de Khitomer pour l'Empire Klingon, ce qui a ouvert la voie à près de 100 ans de paix entre l'Empire et la Fédération. Elle est interprétée par [[Rosana Desoto]] dans le film ''[[Star Trek VI : Terre inconnue]]''.
+
+=== B ===
+* [[Reginald Barclay|Barclay, Reginald]] : ingénieur à bord de l'[[USS Enterprise (NCC-1701-D)|''Enterprise''-D]]
+* {{ancrage|Barnhart}} : membre de l'équipage du l'{{USS|Enterprise|NCC-1701|6}}, il trouve la mort en 2266, tué par la [[créature M-113]] sur le pont 9<ref name="TOS_101"/>. Il est interprété par l'acteur [[Budd Albright]].
+* [[Julian Bashir|Bashir, Julian]] : officier médical en chef de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']]
+* [[Michael Burnham|Burnham, Michael]] : Commandant en second sur l'{{USS|Shenzhou|NCC-1227|6}}, puis membre de l'équipe scientifique de l'{{USS|Discovery|NCC-1031|6}}. Elle a été jugée pour haute trahison et mutinerie, et condamnée à la prison à vie<ref name="DIS_102"/> par Starfleet avant d'être réhabilitée pour son héroïsme à la fin de la [[Saison 1 de Star Trek: Discovery|guerre avec les Klingons]].
+
+=== C ===
+* {{ancrage|Joe Carey|Carey, Joe}} : ingénieur à bord de l'{{USS|Voyager|NCC-74656|6}}.
+* [[Chakotay]] : membre du [[Maquis (Star Trek)|Maquis]], puis premier officier à bord de l'{{USS|Voyager|NCC-74656|6}}
+* {{ancrage|Chang}} : {{passage à recycler|général [[klingon]], personnage de ''[[Star Trek VI : Terre inconnue]]'', interprété par [[Christopher Plummer]], où il fait partie de la délégation envoyée à la rencontre de l'Enterprise. Il est accompagné du Chancelier Gorkon et de sa fille. Il se considère comme un guerrier et a du respect pour Kirk, car lui aussi a eu à affronter de nombreuses batailles. Après l'assassinat du Chancelier, Chang est parmi les premiers à accuser ouvertement Kirk et Mc Coy de cette mort. C'est toujours lui qui mène l'accusation lors du procès sur Kronos contre Kirk et Mc Coy. Chang réussi à se procurer un enregistrement personnel de Kirk où il avoue qu'il considère les Klingon comme des bêtes sanguinaires, d'autant qu'il se remémorait la mort de son fils (David - Star Trek III). En fait Chang fait partie du complot Klingon-Fédération pour faire avorter les négociations entre elles. Il ne veut pas de changement, considérant comme une défaite de signer une paix avec la Fédération. Chang emploie tous les moyens pour bloquer les négociations. Il utilise un Oiseau de Proie expérimental. Celui-ci peut tirer tout en état camouflé, ce qui le rend unique est potentiellement mortel. Lors de l'affrontement, l'Enterprise est sévèrement touché, c'est alors que Sulu commandant l'Excelsior intervient in-extremis. Mais il ne fait que gagner du temps. Sa seule faiblesse est son principe de combustion, Spock et Mc Coy réussissent à modifier une torpille à photon pour qu'elle recherche les émissions de ce vaisseau. Une fois atteint, USS Excelsior et l'Enterprise ne font qu'une bouchée de Chang. Le complot déjoué, dans l'espace et sur la planète, la paix peut enfin être signée. Chang est féru de Shakespeare. Tout au long du film, il en récite certains passages lyriques, considérant que seule la traduction klingonne peut véritablement révéler toute la profondeur de cet auteur.}}
+* [[Christine Chapel|Chapel, Christine]] : infirmière à bord de l'{{USS|Enterprise|NCC-1701|6}}.
+* [[Pavel Chekov|Chekov, Pavel]] : officier navigateur de l'{{USS|Enterprise|NCC-1701|6}}, puis de l'[[USS Enterprise (NCC-1701-A)|''Enterprise''-A]].
+* {{Ancrage|Cornwell}}, Katrina : vice-amiral de [[Starfleet]]<ref name="DIS_105"/> et (ex-)amante de Lorca.
+* {{ancrage|Nancy Crater|Crater, Nancy}} : {{passage à recycler|interprété par l'actrice [[Jeanne Bal]] est la femme de l'archéologue [[Robert Crater]]. Elle trouve la mort vers 2264, tuée par la [[créature M-113]], dernière survivante de son espèce. Avant son mariage avec Robert Crater, Nancy a eu une relation amoureuse avec [[Leonard McCoy]]}}<ref name="TOS_101"/>.
+* {{ancrage|Robert Crater|Crater, Robert}} : professeur d'archéologie, il mène une campagne de fouilles sur la planète [[M-113]]. Après la mort de sa femme Nancy, il rencontre le dernier spécimen des [[créature M-113|créatures M-113]] qui peuplaient autrefois cette planète. En 2266, l'{{USS|Enterprise|NCC-1701|6}} vient le ravitailler et réaliser son évaluation médicale. La créature, montée à bord, tue Crater dans l'infirmerie du vaisseau<ref name="TOS_101"/>.
+* [[Beverly Crusher|Crusher, Beverly]] officier médical en chef de l'[[USS Enterprise (NCC-1701-D)|''Enterprise''-D]] puis de l'[[USS Enterprise (NCC-1701-E)|''Enterprise''-E]].
+* [[Wesley Crusher|Crusher, Wesley]] : fils de Beverly Crusher, cadet puis enseigne à bord de l'[[USS Enterprise (NCC-1701-D)|''Enterprise''-D]].
+* {{Ancre|Hugh Culber}}Culber, Hugh : médecin à bord de l'{{USS|Discovery|NCC-1031|6}}, il est le compagnon du lieutenant {{Star Trek|personnages|Paul Stamets}}, l'un des officiers scientifiques du ''Discovery''.
+
+=== D ===
+* {{ancrage|Damar}} : officier cardassien (deep space nine) 
+* {{ancrage|Darnell}} : personnage de la [[Star Trek (série télévisée)|série originale]], interprété par l'acteur [[Michael Zaslow]]. Darnell est un membre de l'équipage de l'{{USS|Enterprise|NCC-1701|6}} chargé de la sécurité. En 2266, il est le premier à être tué par la [[créature M-113]] sur la planète du même nom. Auparavant, celle-ci lui apparaît comme une jeune fille blonde qu'il avait fréquentée sur {{Star Trek|mondes|Wrigley}}<ref name="TOS_101"/>.
+* [[Data (Star Trek)|Data]] : officier androïde servant sur l'[[USS Enterprise (NCC-1701-D)|''Enterprise''-D]], puis sur l'[[USS Enterprise (NCC-1701-E)|''Enterprise''-E]].
+* [[Ezri Dax|Dax, Ezri]] : conseillère à bord de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']] .
+* [[Jadzia Dax|Dax, Jadzia]] : officier scientifique à bord de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']].
+* {{ancrage|Willard Decker|Decker, Willard}} : capitaine de l'{{USS|Enterprise|NCC-1701|6}} au début du film ''[[Star Trek, le film|Star Trek]]'' de 1979, avant d’être remplacé au pied levé par le capitaine [[James T. Kirk]] sur ordre de [[Starfleet]].
+* {{ancrage|Drew Deighan|Deighan, Drew}} : capitaine de l'{{USS|Intrepid|NCC-38907|6}}, qui fut le premier à répondre à un appel de détresse [[klingon]], suite de l'attaque [[romulien]]ne contre [[Khitomer]] en 2346<ref name="TNG_317"/>.
+* [[Gul Dukat|Dukat, Gul]] : officier [[cardassien]].
+* {{ancrage|Duras}} : fils Ja'rod, qui a maintenu sur l'honneur que Mogh était celui qui avait trahi son peuple en complotant avec les Romuliens<ref name="TNG_317"/>. Duras est interprété par [[Patrick Massett]].
+
+=== E ===
+* {{Ancrage|Emory Erickson|Erickson, Emory}} : {{passage à recycler|il est l'inventeur de la [[téléportation]], une technologie qui permet de transporter n'importe quel objet ou personne d'un endroit à un autre. Erickson est le père de deux enfants, Danica et Quinn (ce dernier étant l'un des amis les plus proches de [[Jonathan Archer]]). Il effectue tout d'abord des recherches sur un prototype d'appareil de [[téléportation sub-quantique]], censé permettre de se passer des vaisseaux spatiaux pour de courts trajets. Son propre fils fait partie des volontaires qui testent, en 2139, l’engin résultant de ses travaux mais l'expérience échoue et ni Quinn ni ses compagnons d'infortune ne parviennent à se rematérialiser. Si les efforts du scientifique finissent par porter leurs fruits (conduisant à l'utilisation de la téléportation à bord des vaisseaux terriens), il est lui-même victime d'une manipulation malheureuse qui le contraint à passer le plus clair de son temps dans une chaise roulante. Dix ans plus tard, la technologie correspondante ayant considérablement évolué, Erickson tente de retrouver son fils mais ne parvient à isoler qu'un spectre animé d'une énergie meurtrière incapable de se manifester plus de quelques secondes. En 2154, Emory Erickson (accompagné de sa fille Danica) rend visite au capitaine Archer sur l'[[Enterprise (NX-01)|''Enterprise'']]. Sous couvert de nouvelles recherches susceptibles de conduire à un accroissement révolutionnaire de la portée des téléporteurs, il espère en fait récupérer Quinn toujours piégé dans le sub-espace. Archer découvre la supercherie et accepte d'aider Emory à isoler l'empreinte moléculaire de son fils, mais celui-ci ne survit pas à son ultime rematérialisation. Emory Erickson est interprété par l'acteur [[Bill Cobbs]].}}
+* {{Ancrage|Charles Evans|Evans, Charles}} : la navette qui transporte Charles Evans s'écrase, en 2252, sur {{Star Trek|mondes|Thasus}}. Âgé de trois ans au moment de l'accident, il ne doit sa survie qu'à l'intervention des [[Thasien]]s qui lui donnent des pouvoirs de [[Psychokinèse|télékinésie]] extrêmement étendus. Il est probablement aussi capable d'un peu de [[télépathie]]. Evans reste sur Thasus pendant plus de treize années avant d'être secouru par l'{{USS|Antares}}. Ces années de solitude et la puberté le perturbent considérablement. Incapable d'attendre, d'admettre un échec ou une contradiction, ayant un besoin viscéral d'être aimé, Charlie utilise ses pouvoirs pour se protéger mais de manière brutale et cruelle. Quand il arrive à bord de l'{{USS|Enterprise|NCC-1701|6}} en 2266, il est curieux de tout, il se passionne pour la vie à bord. Il tombe éperdument amoureux de la première femme qu'il rencontre, [[Janice Rand]]. Celle-ci ne lui rend pas son affection et en paiera le prix. Quand les Thasiens viennent à bord de l'{{USS|Enterprise|NCC-1701|2}} pour le ramener avec eux sur [[Alpha V]], il supplie [[James Tiberius Kirk|James Kirk]] de le garder avec lui. Charles Evans explique la terrible vie avec les Thasiens, êtres immatériels et dépourvus d'émotions. Mais finalement, devant le danger que représentent des pouvoirs aussi mal utilisés, Kirk finit par le laisser partir. Charles Evans est interprété par l'acteur [[Robert Walker Jr.]].
+
+=== F ===
+* [[Vic Fontaine|Fontaine, Vic]] : personnage [[hologramme|holographique]] créé, sur la station ''Deep Space Nine'', par un ami du docteur [[Julian Bashir]], Félix. C'est un crooner, patron d'une boîte de nuit. Il a pour modèle des personnages comme [[Frank Sinatra]] ou [[Dean Martin]].
+* {{ancre|Maxwell Forrest}}Forrest, Maxwell : amiral de [[Starfleet]].
+
+=== G ===
+* [[Garak]] : tailleur et espion à bord de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']].
+* {{ancrage|Philippa Georgiou|Georgiou, Philippa}} : capitaine de l'{{USS|Shenzhou|NCC-1227|6}}. Elle décède lors de la Bataille des étoiles binaires<ref name="DIS_102"/>. Elle est peu après remplacée par son double venu de l'univers miroir où elle y était impératrice de l'empire terrien.
+* {{ancrage|Gorkon}} : Gorkon est un personnage du film ''[[Star Trek VI : Terre inconnue]]''. Il est interprété par l'acteur [[David Warner]]. C'est le chancelier [[klingon]] qui se porta au-devant de la Fédération pour établir un traité de paix. Lors de son voyage vers la zone du traité, escorté de l'Enterprise, son vaisseau est attaqué. Pendant cet assaut, deux individus se sont téléportés dans le vaisseau klingon et ont tiré sur le Chancelier Gorkon. Malgré les tentatives désespérées de [[James Tiberius Kirk|Kirk]] et de [[Leonard McCoy|McCoy]], le médecin de l'[[USS Enterprise (NCC-1701-A)|Enterprise]], le Chancelier meurt. La fille du Chancelier Gorkon, qui a assisté à la mort de son père, succède à la tête de l'Empire Klingon. L'Enterprise et son capitaine, James T.Kirk, sont accusés de cette attaque. Afin d'éviter un affrontement ouvert entre la Fédération et l'Empire Klingon, Kirk et Mc Coy acceptent d'être jugés sur [[Qo'noS|Kronos]] (capitale de l'Empire Klingon), pour l'assassinat du Chancelier. Le jugement rendu est sans appel, la perpétuité sur Ura Pente, une planète-bagne, où généralement on ne vit pas plus d'un an. Malgré les conditions de détention, Kirk et Leonard McCoy réussissent à s'enfuir. Ce faisant, sur l'Enterprise, une enquête minutieuse menée par Spock (officier scientifique) met au jour une sombre conspiration contre le traité de paix. En vérité des membres de [[Starfleet]] (Fédération) et de l'Empire Klingon ont manigancé cet assassinat afin de faire échouer les pourparlers de paix. L'Enterprise, après avoir récupéré son capitaine légitime et son médecin, fait route à toute vitesse vers la planète où se déroulent les pourparlers. Car il se trouve qu'une autre tentative d'assassinat est en cours, à l'encontre du Président de la Fédération. In extremis, l'équipage de l'Enterprise sauve la situation et permet l'ouverture des pourparlers de paix entre la Fédération et l'Empire Klingon. Le rêve du Chancelier Gorkon prend alors tout son sens, dans le titre du film : ''Terre Inconnue''. Où les ennemis d'hier font face à un nouvel avenir incertain.
+* {{ancrage|Gowron}} : chancelier du Haut Conseil Klingon de 2367 à 2372.
+* {{ancrage|Amanda Grayson|Grayson, Amanda}} : personnage qui apparaît dans la {{Star Trek|TOS}} ainsi que dans le film ''[[Star Trek IV : Retour sur Terre]]'', interprétée par l'actrice [[Jane Wyatt]]. Elle apparait également dans le ''[[Star Trek (film, 2009)|Star Trek]]'' de [[2009]] sous les traits de [[Winona Ryder]], et est jouée par [[Mia Kirshner]] dans les séries {{Star Trek|DIS}} et ''[[Star Trek: Strange New Worlds]]''. Née à [[Seattle]], dans l'[[Washington (État)|État de Washington]], en 2210<ref>https://www.imdb.com/character/ch0040549/bio</ref>, elle fait la connaissance de l'[[ambassadeur]] [[vulcain (Star Trek)|vulcain]] [[Sarek]], et l'épouse en 2230. Le couple a un fils, [[Spock (Star Trek)|Spock]] et une fille adoptive [[Michael Burnham]].
+* {{ancrage|Gralik Durr}} : Gralik est un personnage de la série ''[[Star Trek : Enterprise]]''. Il est interprété par l'acteur John Cothran, Jr. Responsable au {{XXIIe siècle}} d'une installation [[Xindis#Les différentes espèces|Xindi-Arboricole]] basée sur une petite planète forestière pour le raffinement de la kermocite (un élément aux multiples propriétés et plus spécifiquement, un composé indispensable à l'arme de destruction massive développée par le ''Conseil Xindi'' pour détruire les Humains), Grulik est un [[Xindi]] consciencieux, scrupuleux et dévoué à son travail depuis plusieurs décennies. Il ignorait totalement l'utilisation meurtrière à laquelle leur travail était employé par les Xindi dans le secret, jusqu'à l'irruption à son domicile d'un commando de l'''[[Enterprise (NX-01)]]'' mené par le [[Jonathan Archer|capitaine Jonathan Archer]]. Poussé par ses principes après avoir été convaincu par des discussions avec Archer, qui lui parla notamment des millions de morts humaines provoquées sur Terre par leur sonde ainsi que de l'utilisation vouée à la cargaison qu'ils raffinaient pour Degra (le responsable du projet), il décida de son chef de les aider et de saboter lui-même le raffinement de la dernière livraison. Il est le premier Xindi-Arboricole rencontré en personne par un Humain dans l'univers de ''[[Star Trek]]'' ainsi que le premier Xindi à apporter une nuance à leur perception de ses semblables. C'est par une anecdote sur son grand-père qu'il révèle la disparition d'une sixième espèce Xindi, les [[Xindis#Les différentes espèces|Avians]], avant celle de leur planète-mère [[Mondes de Star Trek#Xindus|Xindus]].
+* {{ancrage|Green}} : personnage de la {{Star Trek|TOS}}, interprété par l'acteur [[Bruce Watson]]. Green est un membre d'équipage de l'{{USS|Enterprise|NCC-1701|6}}, chargé de la sécurité. En 2266, il est tué sur la [[planète]] [[M-113]] par la [[créature M-113|créature]] du même nom. Son corps ne sera découvert que quelques heures après sa mort car la créature M-113 adopte son apparence (voir ''[[Star Trek (série télévisée)|Star Trek, la série originale]]'' : ''[[Ils étaient des millions]]'' — ''The Man Trap'').
+* {{ancrage|Guinan}} : {{à développer|barmaid à bord de l'[[USS Enterprise (NCC-1701-D)|''Enterprise''-D]]}}. Elle fait également partie des 47 réfugiés El-Aurian, arrachés au Nexus par l'équipage de l'[[USS Enterprise (NCC-1701-B)|''Enterprise''-B]], dans le septième volet cinématographique de la saga.
+
+=== H ===
+* [[Hologramme Médical d'Urgence]]
+
+=== I ===
+* [[Icheb]] (Réfugié Borg, [[USS Voyager (NCC-74656)|USS Voyager]])
+
+=== J ===
+* [[Kathryn Janeway|Janeway, Kathryn]] : capitaine de l'{{USS|Voyager|NCC-74656|6}}.
+* {{ancrage|Ja'rod}} : [[Klingon]] ennemi de [[#Mogh|Mogh]]. En 2346, il s'installe à la colonie de [[Khitomer]] où il communique aux [[Romulien]]s les codes des boucliers déflecteurs de la colonie. Il est tué au cours du massacre de Khitomer<ref name="TNG_317"/>.
+
+=== K ===
+* [[Kes (Star Trek)|Kes]] : réfugiée [[ocampa]], sert à bord de l'{{USS|Voyager|NCC-74656|6}}
+* [[Harry Kim (Star Trek)|Kim, Harry]] : enseigne, sert à bord de l'{{USS|Voyager|NCC-74656|6}}
+* {{ancrage|Kira Meru}}<ref group="n">Chez les Bajorans, le nom de famille précède toujours le prénom. Kira est donc le nom de famille de Meru.</ref> : {{passage à recycler|mère de [[Kira Nerys]]<ref name="DS9_617"/>. Nerys découvre, lors d'une expérience avec un Orbe des Prophètes, qu'elle fut sélectionnée pour être une {{citation|femme de réconfort}} destinée aux soldats [[cardassiens]], et donc arrachée à sa famille, son mari, ses deux fils, Idan et Reon, et sa fille. Amenée avec ses compagnes d'infortune relative – ces {{citation|femmes de réconfort}} bénéficiaient de conditions de vie plus favorables par la suite – sur la station ''[[Deep Space Nine (station spatiale)|Terok Nor]]'', elle devint rapidement la maîtresse de [[Gul Dukat]], alors Préfet de la station, qui la choie et la cache jusqu'à la fin de sa vie, en donnant de meilleurs traitements à son mari et ses enfants laissés sur [[Bajor]]. On découvre qu'elle est morte dans une maison de convalescence cardassienne, après une longue maladie, contrairement à la version officielle selon laquelle elle serait morte exténuée dans un camp de travail minier.}}
+* [[Kira Nerys]]<ref group="n">Chez les Bajorans, le nom de famille précède toujours le prénom. Kira est donc le nom de famille de Nerys.</ref> : officier de liaison [[bajoran]]e sur la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']].
+* [[James Tiberius Kirk|Kirk, James T.]] : capitaine puis amiral, commande l'{{USS|Enterprise|NCC-1701}} et l'{{USS|Enterprise|NCC-1701-A}}
+* {{ancrage|K'mpec}} : chancelier du haut Conseil [[klingon]]. En 2366, il découvre que l'[[Khitomer#Massacre_de_Khitomer|attaque de Khitomer]] a pu avoir lieu à cause de la trahison de [[#Ja'rod|Ja'rod]]. Néanmoins, pour éviter une guerre civile, il fait tomber la responsabilité sur [[#Mogh|Mogh]], père de [[Worf]], et s'arrange pour que ce dernier se taise<ref name="TNG_317"/>. En 2367, il meurt empoisonné<ref name="TNG_407"/>. K'mpec est interprété par [[Charles Cooper]].
+* {{ancrage|Kruge}} : commandant [[klingon]] de l'[[oiseau de proie (Star Trek)|oiseau de proie]] qui découvrit la planète [[Mondes de Star Trek#G|Genesis]] et voulut s'emparer de secret de fabrication à des fins militaires (''[[Star Trek III : À la recherche de Spock]]''). Il tua [[#David Marcus|David]], le fils de [[James Tiberius Kirk|Kirk]] et fut lui-même tué par ce dernier. Kruge est interprété par [[Christopher Lloyd]].
+* {{ancrage|Kurn}} : guerrier [[Klingon]], fils de [[#Mogh|Mogh]] et jeune frère de [[Worf]]. Son vrai nom de famille a été gardé secret jusqu'à 2366, quand Mogh a été accusé d'être un traître. Kurn a appuyé ensuite [[Gowron]] pendant la Guerre Civile, et ensuite a gagné un siège au Haut Conseil Klingon. Cependant, il tomba en disgrâce lorsque Worf refusa de soutenir l'invasion de [[Cardassia Prime|Cardassia]]. Pour regagner son honneur, sa mémoire a été effacée et il a pris une nouvelle identité. Kurn est interprété par [[Tony Todd]].
+
+=== L ===
+* {{ancrage|L'Rell}} : guerrière klingonne à bord du ''Sarcophagus'', le vaisseau de combat de la maison de [[#T'Kuvma|T'Kuvma]]. Son père est de la Maison de T'Kuvma, sa mère de la Maison de [[#Mókai|Mókai]]<ref name="l'rell"/>.
+* [[Geordi La Forge|La Forge, Geordi]] : ingénieur en chef de l'{{USS|Enterprise|NCC-1701-D|6}}
+* [[Ro Laren|Laren, Ro]] : officier navigateur de l'{{USS|Enterprise|NCC-1701-D|6}}
+* {{ancre|Gabriel Lorca}}Lorca, Gabriel : capitaine de l'{{USS|Discovery|NCC-1031|6}}
+* [[Tina Lawton|Lawton, Tina]] : membre de l'équipage de l'''[[USS Enterprise (NCC-1701)|Enterprise]]''.
+* [[Leeta]]
+* [[Lore (Star Trek)|Lore]] : [[androïde]], frère de [[Data (Star Trek)|Data]]
+
+=== M ===
+* [[Leonard McCoy|McCoy, Leonard]], ''Bones'', Officier medical a bord de l'USS Enterprise (Star Trek série originelle 1966 à 1969), puis dans les films Star Trek 1 à 6 et 11 à 13 et aussi une apparition dans Star Trek Next Generation.
+* [[Carol Marcus (Star Trek)|{{ancrage|Carole Marcus|Marcus, Carole}}]] : fille de l'amiral Alexander Marcus, scientifique reconnue, spécialisée en biologie moléculaire, elle est la créatrice du "Projet Genesis", qu'elle met au point avec son fils, [[Personnages_secondaires de Star Trek#David Marcus|David]] (né d'une liaison avec le capitaine [[James Tiberius Kirk|James T. Kirk]] au début des années 2260). D'origine terrienne, elle est affectée au Laboratoire Spatial Régula I. Elle est présente dans ''[[Star Trek II : La Colère de Khan]]'', interprétée par {{Lien|Bibi Besch|lang=en}} ainsi que dans ''[[Star Trek Into Darkness]]'', interprétée par [[Alice Eve]]. Elle est également présente dans les romans {{Écrit|langue=en|prénom1=William|nom1=Shatner|lien auteur1=|titre fr=Les Cendres d'Eden|titre=The Ashes of Eden|lien titre=|numéro d'édition=|éditeur=|lien éditeur=|lieu=|année=1995|année fr=1997|volume=|tome=|pages totales=309|passage=|isbn=0671520350|lire en ligne=|consulté le=}} de [[William Shatner]] et le personnage apparaît également dans les [[novélisation]]s des films ''[[Star Trek III : À la recherche de Spock]]'', ''[[Star Trek IV : Retour sur Terre]]'' et ''[[Star Trek V : L'Ultime Frontière]]''.
+* {{ancrage|David Marcus|Marcus, David}} : scientifique terrien né en 2261 du Dr [[Carol Marcus (Star Trek)|Carol Marcus]] et de [[James Tiberius Kirk]]. Il sera éduqué uniquement par sa mère. En 2284, il commence à travailler sur le [[projet Genesis (Star Trek)|projet Genesis]] avec sa mère. Il se montre aussi impétueux et impatient que son père dont il ignore tout. C’est ainsi qu’il utilisera la [[protomatière]] interdite pour mener à bien son projet. En 2285, ses travaux sont interrompus par [[Khan Noonien Singh (Star Trek)|Khan Noonien Singh]] qui prépare un piège pour se venger de Kirk. À cette occasion le père et le fils se rencontrent pour la première fois et ce dernier finit par apprécier son père: « Je suis fier, très fier, d'être votre fils. » (''[[Star Trek II : La Colère de Khan]]''). Par la suite, David a été affecté à l'[[Vaisseaux_de_Starfleet#Oberth|USS Grissom]] avec le lieutenant [[#Saavik|Saavik]] d'étudier la [[Mondes de Star Trek#G|planète Genesis]] créé lors du conflit qui opposa Kirk et Khan. Saavik et lui sont pris en otage par un groupe de [[Klingon]]s et il mourra héroïquement en voulant protéger le lieutenant (''[[Star Trek III : À la recherche de Spock]]'') . La mémoire de cette mort imprégnera les événements qui ont conduit à la [[Khitomer#Conférence de Khitomer|Conférence de Khitomer]] en 2293 (''[[Star Trek VI : Terre inconnue]]''). David Marcus est interprété par [[Merritt Butrick]].
+* {{ancrage|Martok}} : {{à développer}} 
+* [[Travis Mayweather|Mayweather, Travis]] : enseigne ayant grandi sur un vaisseau-cargo, sert comme [[Timonier (marine)|timonier]] à bord de l'[[Enterprise (NX-01)|''Enterprise'']].
+* {{ancrage|Mogh}} : père de [[Worf]] et [[#Kurn|Kurn]], important citoyen de l'Empire [[klingon]], tué au cours de l'attaque [[romulien]]ne de [[Khitomer]] en 2346.
+* {{ancrage|Mókai}} : chef de la Maison de Mókai, dont est issu la mère de [[#L'Rell|L'Rell]]<ref name="l'rell"/>.
+* [[Harcourt Mudd|Mudd, Harry]] : escroc galactique que l'USS Enterprise (NCC-1701) et l'USS Discovery (NCC-1031) rencontrent sur leur chemin.
+
+=== N ===
+* [[Neelix]], réfugié [[talaxien]], sert un temps à bord de l'{{USS|Voyager|NCC-74656|6}} comme conseiller, diplomate et cuisinier.
+*  {{ancrage|Nero}} : ancien mineur [[romulien]] du {{s-|XXIV}}, capitaine du ''Narada''. Membre d'un vaisseau de forage romulien, il a assisté impuissant avec ses congénères à la destruction de leur monde et de leurs familles (sa femme enceinte pour Nero) par une [[supernova]] empêchée trop tard par l'ambassadeur [[Spock (Star Trek)|Spock]], ce qui inspirera à Nero un désir de vengeance personnelle envers le [[Vulcain (Star Trek)|Vulcain]], ainsi qu'une haine aveugle envers la [[Fédération des planètes unies|Fédération]] qu'il souhaite annihiler. Le moyen utilisé pour détruire la supernova, la matière rouge capable de générer un [[trou noir]], propulse accidentellement le ''Narada'' au {{s-|XXIII}} (date stellaire [[Chronologie de Star Trek#2233|2233.04]]), face au vaisseau de [[Starfleet]] USS ''Kelvin'' sur lequel sert le [[Commandant en second|premier officier]] George Kirk accompagné de son épouse enceinte Winona, les parents de [[James Tiberius Kirk|James T. Kirk]]. La présence et les actes de Nero (qui tue à son bord le capitaine Richard Robau, détruit l'''USS Kelvin'' et une bonne partie de son équipage puis provoque une attaque-suicide de diversion par Kirk avec le ''Kelvin'' pour permettre la fuite des navettes de sauvetage rescapées, dans l'une desquelles Winona a accouché de leur fils Jim) à cette époque, et qui coïncident avec la naissance de James T. Kirk, ont pour conséquence la création d'une [[réalité alternative]] (''[[Star Trek (film, 2009)|Star Trek]]''). Au terme de vingt-cinq années d'attente de l'arrivée décalée du [[Spock (Star Trek)|Spock]] de son univers (lui aussi propulsé par le trou noir) dans cette réalité, et de plusieurs actes de guerre ouverte et indépendants de l'Empire (destructions furtives et importantes de vies et de vaisseaux, dont une bonne partie de la flotte de Starfleet ; enlèvement et torture du [[#Christopher Pike|capitaine Pike]] ; destruction de [[Vulcain (Star Trek)#La planète|Vulcain]] et d'une grande partie de la civilisation vulcaine ; mort d'[[Amanda Grayson]] sur cette même planète ; tentative de destruction de la [[Terre]]), il est détruit par un trou noir en [[Chronologie de Star Trek#2258|2258]] avec le ''Narada'' et son équipage au terme d'un affrontement avec l'[[USS Enterprise (NCC-1701-Refonte)|USS ''Enterprise'']] commandé par les James T. Kirk et Spock de cette réalité dont il a refusé le secours.
+* [[Nog (Star Trek)|Nog]], le fils de Rom (''[[Deep Space Nine (station spatiale)|DS9]]'').
+
+=== O ===
+* '''[[Keiko O'Brien|O’Brien, Keiko]]''' (Épouse de Miles, [[Deep Space Nine (station spatiale)|DS9]])
+* '''[[Miles O'Brien|O'Brien, Miles]]''' (Officier Ingenieur, [[USS Enterprise (NCC-1701-D)|NCC-1701-D]] puis [[Deep Space Nine (station spatiale)|DS9]])
+* '''[[Odo (Star Trek)|Odo]]''' ([[Chef de la sécurité]], [[Deep Space Nine (station spatiale)|DS9]])
+
+=== P ===
+* {{ancrage|Pardek}} : sénateur [[romulien]] du {{s-|XXIII}}-{{s-|XXIV}}. En 2293, il était présent à la conférence de [[Khitomer]] où il était un défenseur de la paix. En 2368, usant de sa réputation de pacifiste, il tend un piège à l'ambassadeur Spock pour tenter une invasion de [[Vulcain (Star Trek)|Vulcain]]<ref name="TNG_507"/>. Il est interprété par [[Malachi Throne]].
+* {{ancrage|Owen Paris|Paris, Owen}} : amiral de [[Starfleet]], père de [[Tom Paris]].
+* [[Tom Paris|Paris, Tom]] : officier navigateur de l'{{USS|Voyager|NCC-74656|6}}.
+* [[Phlox (Star Trek)|Phlox]] officier médical en chef de l'[[Enterprise (NX-01)|''Enterprise NX01'']].
+* [[Christopher Pike (Star Trek)|Pike, Christopher]] : {{2e|capitaine}} du vaisseau {{USS|Enterprise|NCC-1701}}, il succède au capitaine Robert April, et précède le capitaine [[James Tiberius Kirk|James T. Kirk]]. Dans la [[Star Trek (série télévisée)|série originale]], le rôle du capitaine Christopher Pike a été joué par deux acteurs américains : [[Jeffrey Hunter]] dans l'[[Pilote (télévision)|épisode pilote]] non diffusé ''[[The Cage]]'', et Sean Kenney dans ''[[La Ménagerie (Star Trek)|La Ménagerie]]''. Le rôle est repris par [[Bruce Greenwood]] dans les onzième et douzième films ''[[Star Trek (film, 2009)|Star Trek]]'' et ''[[Star Trek Into Darkness]]'', puis par [[Anson Mount]] dans la série ''[[Star Trek: Discovery]]''.
+* [[Jean-Luc Picard|Picard, Jean-Luc]], capitaine de l'{{USS|Stargazer|NCC-2893|6}} de l'{{USS|Enterprise|NCC-1701-D|6}}-D, puis de l'{{USS|Enterprise|NCC-1701-E|6}}-E.
+* [[Katherine Pulaski|Pulaski, Katherine]], officier médical en chef de l'{{USS|Enterprise|NCC-1701-D|6}}.
+* Phillipa Georgou, capitaine du vaisseau Shenzhou NCC-1227.
+
+=== Q ===
+* {{ancre|Q}}[[Q (Star Trek)|Q]], membre du [[continuum Q]]<ref group="n">À ne pas confondre avec {{Star Trek|personnages|Q}}, autre membre du [[continuum Q]].</ref>
+* [[Quark (Star Trek)|Quark]], barman de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']]
+
+=== R ===
+* {{ancrage|Ramart}} : personnage de la [[Star Trek (série télévisée)|série originale]], interprété par l'acteur [[Charles Stewart (acteur) |Charles Stewart]]. Le capitaine Ramart commande l'''[[USS Antares|Antares]]'' et porte assistance à [[Charles Evans]]. Il est tué, ainsi que tout son équipage, en 2266, par ce jeune naufragé<ref name="TOS_102"/>.
+* [[Janice Rand|Rand, Janice]]
+* [[Malcolm Reed|Reed, Malcolm]] : officier responsable de l'armement à bord de l'[[Enterprise (NX-01)|''Enterprise NX-01'']]
+* [[Reine Borg]] (Borg, cube)
+* [[William T. Riker|Riker, William T.]], officier en second de l'{{Star Trek|NCC-1701-D}} puis de l'{{Star Trek|NCC-1701-E}}, et capitaine de l'{{Star Trek|USS Titan (NCC-80102)}} à dater de sa mise en service en [[Chronologie de Star Trek#2379|2379]] ([[Star Trek : Nemesis|''Nemesis'']])
+* {{ancrage|A.G. Robinson|Robinson, A.G.}}, personnage de la ''[[Star Trek: Enterprise|série Star Trek: Enterprise]]'', interprété par l'acteur [[Keith Carradine]]. Ancien collègue et ami de [[Jonathan Archer]] et [[Charles Tucker III|Trip]] à l'époque des tests des moteurs de [[Distorsion (Star Trek)|distorsion]].
+* {{ancre|Rom}}[[Rom (Star Trek)|Rom]], serveur de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']]
+* {{ancrage|Sergeï Rozhenko|Rozhenko, Sergeï}} : terrien spécialiste des moteurs à [[distorsion (Star Trek)|distorsion]]. Il était affecté à l'[[Vaisseaux_de_Starfleet#Excelsior|USS Intrepid]], sous les ordres du capitaine [[#Drew Deighan|Drew Deighan]]. C'est à bord de ce vaisseau, répondant à un appel de détresse [[klingon]], suite de l'attaque [[romulien]]ne contre [[Khitomer]] en 2346, que Sergeï et sa femme Helena recueillent puis adoptent le jeune [[Worf]]. Le couple a souvent joué un rôle de famille soudée et exemplaire<ref name="TNG_119"/>{{,}}<ref name="TNG_317"/>{{,}}<ref name="TNG_402"/>{{,}}<ref name="TNG_510"/>{{,}}<ref name="TNG_713"/>{{,}}<ref name="DS9_317"/>{{,}}<ref name="DS9_507"/>. Sergeï Rozhenko est interprété par [[Theodore Bikel]].
+* {{ancrage|Ruby}}, personnage de la ''[[Star Trek: Enterprise|série Star Trek: Enterprise]]'', interprété par l'actrice [[Brigid Brannagh]]. Serveuse terrienne du ''602 Club'' et amie avec [[Jonathan Archer]] et [[Charles Tucker III|Trip]].
+
+=== S ===
+* {{ancrage|Saavik}} : officier [[Vulcain (Star Trek)|vulcano]]-[[romulien]]ne du {{s-|XXIII}}. Elle sert à bord de l'{{Star Trek|NCC-1701-Refonte}} comme [[navigateur (marine)|navigateur]] sous les ordres de l'amiral [[James Tiberius Kirk]] pendant la crise de {{Star Trek|mondes|Genesis}} (''[[Star Trek II : La Colère de Khan]]''). Plus tard, elle est transférée à bord de l'[[Vaisseaux de Starfleet#Oberth|USS Grissom]], pour étudier la planète Genesis en compagnie du fils de Kirk, [[#David Marcus|David Marcus]]. Elle aidera Spock adolescent à passer les affres du [[Pon farr]] (''[[Star Trek III : À la recherche de Spock]]''). Saavik est interprétée par [[Kirstie Alley]] dans ''[[Star Trek II]]'', et par [[Robin Curtis]] dans ''[[Star Trek III]]'' et ''[[Star Trek IV]]''. Son personnage, estimé par les fans qui y voient la compagne de [[Spock (Star Trek)|Spock]], a souvent été repris dans des aventures non canoniques.
+* {{ancrage|Sarek|[[Sarek]]}} : [[Vulcain (Star Trek)|Vulcain]] notable ayant vécu entre le {{XXIIe siècle}} et le {{XXIVe siècle}}, ambassadeur de la [[Fédération des planètes unies|Fédération]] à partir du {{XXIIIe siècle}} ainsi que père de [[Spock (Star Trek)|Spock]] et [[#Sybok|Sybok]] et Michael Burnham.
+*Saru, Kelpien, commandant en second du {{USS|Discovery|NCC-1031|2}}.
+* [[Hoshi Sato|Sato, Hoshi]] : enseigne chargée des communications à bord de l'''[[Enterprise (NX-01)|Enterprise NX-01]]'', spécialisée en xéno-linguistique et interprète d'équipage.
+* [[Montgomery Scott|Scott, Montgomery]] : Scotty (Officier a bord de l'USS Enterprise (Star Trek série originelle 1966 à 1969), puis dans les films Star Trek 1 à 6 et 11 à 13 et aussi une apparition dans Star Trek Next Generation.
+* [[Seven of Nine]] : réfugiée Borg à bord de l'{{USS|Voyager|NCC-74656|6}}.
+* {{ancrage|Shran|Shran, Thy'lek}} : personnage de la [[série télévisée|série]] ''[[Star Trek: Enterprise|Enterprise]]'', interprété par l'acteur [[Jeffrey Combs]]. Thy'lek Shran est un [[Andorien]], commander de la ''Garde Impériale''. D'abord méfiant vis-à-vis des [[Humain (Star Trek)|Humains]], Shran devient l'un de leurs alliés. Une relation d'amité naît d'ailleurs entre lui et le capitaine [[Jonathan Archer]] et il favorisera le rapprochement entre leurs deux espèces.
+* [[Benjamin Sisko|Sisko, Benjamin]], commander puis capitaine, affecté à la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']] et commandant de l'{{USS|Defiant|NX-74205|6}}
+* [[Jake Sisko|Sisko, Jake]], fils de Benjamin Sisko, résident de la [[Deep Space Nine (station spatiale)|station spatiale ''Deep Space Nine'']]
+* {{ancre|Jennifer Sisko}}Sisko, Jennifer, épouse de Benjamin Sisko, et mère de Jake Sisko, tuée à bord de l'{{USS|Saratoga|NCC-31911|6}} durant la [[bataille de Wolf 359]]
+* {{ancre|Joseph Sisko}}Sisko, Joseph, père de Benjamin Sisko, réside sur [[Terre]]
+* {{ancrage|Arik Soong|Soong, Arik}} : personnage de la [[série télévisée|série]] ''[[Star Trek: Enterprise|Enterprise]]'', interprété par l'acteur [[Brent Spiner]]. Docteur en sciences du {{XXIIe siècle}} spécialisé en [[génétique]], ancêtre du [[Noonien Soong|{{Dr.}}Noonien Soong]].
+* [[Noonien Soong|Soong, Noonien]] : docteur en sciences du {{XXIVe siècle}} spécialisé en [[cybernétique]], créateur de génie du [[cerveau positronique]] ainsi que des [[Androïde|androïdes]] Juliana Tainer, B-4, [[Lore (Star Trek)|Lore]] et du [[Data (Star Trek)|lieutenant commander Data]].
+* [[Soval]] : Ambassadeur [[Vulcain (Star Trek)|vulcain]] sur [[Terre]] au {{XXIIe siècle}}.
+* [[Spock (Star Trek)|Spock]] (Officier Scientifique puis Ambassadeur, [[USS Enterprise (NCC-1701)|NCC-1701]])
+* {{ancrage|Paul Stamets|[[Paul Stamets (Star Trek)|Stamets, Paul]]}} : officier scientifique à bord de l'{{USS|Discovery|NCC-1031|6}}, où il mène des recherches sur le {{Star Trek|technologies|moteur sporique}}. Il est le compagnon du {{dr}} {{Star Trek|personnages|Hugh Culber}}, l'un des médecins du ''Discovery''.
+* {{ancrage|Sturgeon}} : personnage de la [[Star Trek (série télévisée)|série originale]], interprété par l'acteur [[John Arndt]]. Il est membre de l'équipage de l'{{USS|Enterprise|NCC-1701|6}}, chargé de la sécurité. En 2266, il est tué par la [[créature M-113]] à la surface de la [[planète]] du même nom<ref name="TOS_101"/>. Ce personnage a été nommé ainsi en hommage à [[Theodore Sturgeon]], écrivain de [[science-fiction]] qui collabora à la série originale, en 1966 et 1967<ref name="TOS_115"/>{{,}}<ref name="TOS_201"/>.
+* {{ancrage|Demora Sulu|Sulu, Demora}} : elle apparaît dans le film ''[[Star Trek : Générations]]'', où elle est incarnée par [[Jacqueline Kim]]. Fille du capitaine [[Hikaru Sulu]], elle est affectée à la timonerie de l'{{Star Trek|NCC-1701-B}} dès le lancement du vaisseau en 2293, sous le commandement du capitaine John Harriman. Ce vol inaugural lui permet de rencontrer pour la deuxième fois [[James Tiberius Kirk|James T. Kirk]],qu'elle a déjà croisé douze ans plus tôt, en compagnie de [[Montgomery Scott]] et de [[Pavel Chekov]]. Elle assiste néanmoins ce jour-là à l'ultime apparition de Kirk, porté disparu avant la fin de la même mission. Lorsqu'on informe Hikaru Sulu de la mort de sa fille à la suite d'une violente altercation avec Harriman quelques semaines seulement après la disparition de son ami James T. Kirk, le capitaine de l'{{USS|Excelsior|NCC-2000|6}} est partagé entre douleur et incrédulité. Il se rend alors sur la planète Askalon V, où Demora est censée avoir succombé, pour s'apercevoir qu'il vient en fait de tomber dans le piège tendu par un vieil ennemi. Quant à l'enseigne Sulu, qui avait été remplacée par un [[clonage|clone]], elle est toujours en vie<ref group="n">Ces événements sont relatés dans le roman de Peter David ''{{langue|en|The Captain's Daughter}}'', paru en 1995.</ref>. Toujours à bord de l'{{Star Trek|NCC-1701-B}}, dont elle est devenue l'officier en second sous les ordres de John Harriman, Demora Sulu participe en 2311 à une mission en bordure de la [[Zone neutre (Star Trek)|Zone Neutre]] où les [[Romulien]]s soupçonnent les scientifiques de la {{Star Trek|Fédération}} d'avoir testé une nouvelle arme de destruction massive. Au terme de cette expédition, elle se voit finalement confier le commandement de l'{{Star Trek|NCC-1701-B}}<ref group="n">Cette intrigue est au centre du roman de David R. George III intitulé ''{{langue|en|Serpents Among the Ruins}}''.</ref>. La jeune femme donne naissance à un fils, Hiromi Sulu, qui devient à son tour capitaine de la flotte au milieu du {{s-|XXIV}}, avant d'appuyer la candidature de [[Chakotay]] à l'[[Académie de Starfleet]]<ref group="n">Cette information figure dans ''{{langue|en|Pathways}}'', un roman écrit par [[Jeri Taylor]] sorti en 1998.</ref>.
+* [[Hikaru Sulu|Sulu, Hikaru]] (Officier Navigateur puis capitaine, [[USS Enterprise (NCC-1701)|NCC-1701]] puis [[USS Enterprise (NCC-1701-A)|NCC-1701-A]] puis NCC-2000)
+* {{ancrage|Surak}} : [[vulcain (Star Trek)|Vulcain]] légendaire, philosophe, scientifique et logicien. Il est considéré comme le plus grand de tous les Vulcains et fut le père de leur civilisation moderne<ref name="TOS_322"/>. Il vécut au {{s-|IV}}, à l'époque de l'Éveil, période agitée de guerres dévastatrices qui ont presque détruit la planète. Il utilisa la logique pour maîtriser l'agressivité vulcaine et fonda une école ([[Vulcain_(Star_Trek)#Sanctuaires|le Sanctuaire T'Karath]]) pour y enseigner la méthode pour parvenir à cette maîtrise<ref name="ENT_407"/>. Il fut aussi l'auteur du concept de l'[[IDIC]], « Une infinie diversité dans d'infinies combinaisons ». Surak meurt irradié sur le [[Vulcain_(Star_Trek)#Mont Seleya|Mont Seleya]] au cours de la dernière bataille de « Ceux qui avancent sous les ailes de l'oiseau de Proie »<ref name="ENT_408"/>.
+* {{ancrage|Sybok}} : incarné par [[Laurence Luckinbill]] dans le film ''[[Star Trek V : L'Ultime Frontière]]''. Né en 2224 sur la planète [[Vulcain (Star Trek)|Vulcain]], il est le fils de l'ambassadeur [[Sarek]] et d'une princesse vulcaine, et le demi-frère de [[Spock (Star Trek)|Spock]].
+* {{ancrage|Syrran}} (ou « Arev ») : [[Vulcain (Star Trek)|Vulcain]] du {{XXIIe siècle}}, notable pour être le fondateur des Syrrannites ayant rétabli les [[Vulcain (Star Trek)|Vulcains]] de son époque sur la voie des enseignements de [[#Surak|Surak]], et avoir été de son temps le possesseur de son [[Jargon de Star Trek (K-O)#Katra|katra]] (qu'il a transmis au [[Jonathan Archer|capitaine Archer]] par [[fusion mentale]] avant de mourir).
+
+=== T ===
+* {{ancrage|T'Kuvma}} : un chef [[klingon]]<ref name="DIS_101"/> du {{s-|XXIII}}.
+* {{ancrage|T'Lar}} : T'Lar est une haute et vénérable prêtresse [[Vulcain (Star Trek)|vulcaine]] du {{s-|XXIII}}. Elle supervise durant la cérémonie du [[Jargon de Star Trek: F-J#Fal-Tor-Pan|Fal-Tor-Pan]] la restauration du [[Jargon de Star Trek: K-O#Katra|katra]] de [[Spock (Star Trek)|Spock]] dans le corps de ce dernier mort en 2285. T'Lar est interprétée par [[Judith Anderson]] dans ''[[Star Trek III : À la recherche de Spock]]''.
+*T'Pau : Femme Vulcaine qui a dirigé la rébellion syranite contre le haut commandement vulcain, a ensuite présidé la cérémonie Koon-ut-kal-if-fee au cours de laquelle [[Spock (Star Trek)|Spock]] est forcé de combattre le [[James Tiberius Kirk|capitaine Kirk]] après que Spock a été rejeté par sa future épouse, T'Pring . Elle est également la seule personne à avoir refusé un siège au Conseil de la [[Fédération des planètes unies|Fédération]]. Incarnée successivement par [[Celia Lovsky]], [[Betty Matsushita]] et [[Kara Zediker]].
+* {{ancrage|T'Pol|[[T'Pol]]}} : officier scientifique [[Vulcain (Star Trek)|vulcain]] du {{s-|XXII}} et premier officier à bord de l'''{{Star Trek|NX-01}}''.
+* {{ancrage|Gillian Taylor|Taylor, Gillian}} : elle apparaît dans le film ''[[Star Trek IV : Retour sur Terre]]'', dans lequel elle est interprétée par l'actrice [[Catherine Hicks]]. Assistante du directeur de l'Institut des cétacés de [[Sausalito (Californie)|Sausalito]], en [[Californie]], elle est docteur en biologie marine, spécialiste de l'étude et la sauvegarde des [[baleine]]s. En [[1986]], Gillian Taylor aide l'amiral [[James Tiberius Kirk|James T. Kirk]] à transporter deux baleines au {{s-|XXIII}} afin de repeupler les océans.
+* {{ancrage|Tora Naprem}} : maîtresse [[bajoran]]e de [[Gul Dukat]], et mère de [[Tora Ziyal]]<ref name="DS9_617"/>.
+* {{ancrage|Tora Naprem|[[Tora Ziyal]]}} : fille de [[Gul Dukat]] et de [[#Tora Naprem|Tora Naprem]]<ref name="DS9_617"/>.
+* {{ancrage|B'Elanna Torres|[[B'Elanna Torres|Torres, B'Elanna]]}} : ingénieur en chef à bord du {{USS|Voyager|NCC-74656|2}}.
+* {{ancrage|Deanna Troi|[[Deanna Troi|Troi, Deanna]]}} : conseiller à bord de l'{{USS|Enterprise|NCC-1701-D}}, puis de l'{{USS|Enterprise|NCC-1701-E}}.
+* {{ancrage|Lwaxana Troi|[[Lwaxana Troi|Troi, Lwaxana]]}}, ambassadeur de la planète {{Star Trek|Mondes|Betazed}} au {{s-|XXIV}}, et mère de [[Deanna Troi]].
+* {{ancrage|Charles Tucker III|[[Charles Tucker III|Tucker , Charles, troisième du nom]]}} : alias "Trip", ingénieur en chef et second officier à bord de l'[[Enterprise (NX-01)|''Enterprise'' NX-01]].
+* {{ancrage|Tuvok|[[Tuvok]]}} : officier de sécurité [[Vulcain (Star Trek)|vulcain]] sur le {{USS|Voyager|NCC-74656|2}}.
+* {{ancrage|Ash Tyler|Tyler, Ash}} : lieutenant à bord de l'{{USS|Discovery|NCC-1031|6}} puis commandeur de la [[Section 31]].
+
+=== U ===
+* '''[[Nyota Uhura|Uhura, Nyota]]''' (Officier communications, [[USS Enterprise (NCC-1701)|NCC-1701]])
+
+=== V ===
+* {{ancrage|Valeris}} : femme [[Vulcain (Star Trek)|vulcaine]] du {{s-|XXIII}}, elle sert comme pilote à bord de l'{{USS|Enterprise|NCC-1701-A|6}} pendant la conférence de [[Khitomer]] (''[[Star Trek VI : Terre inconnue]]''). Valeris est impliquée dans la conspiration visant à saboter la conférence Khitomer entre l'Empire Klingon Empire et la {{Star Trek|Fédération}} afin de faire échouer les accords de paix. Pour enrayer la conspiration, Spock lui applique la fusion mentale pour connaître les complices. Elle est interprétée par [[Kim Cattrall]].
+* {{ancrage|Vorik}} : ingénieur Vulcain du {{s-|XXIV}}, qui sert à bord de l'{{USS|Voyager|NCC-74656|6}} lorsque ce dernier est projeté dans le [[Quadrant (Star Trek)#Quadrant Delta|Quadrant Delta]]. Il est interprété par [[Alexander Enberg]].
+
+=== W ===
+* [[Weyoun]] 
+* {{ancrage|Samantha Wildman|Wildman, Samantha}} : enseigne à bord de l'{{USS|Voyager|NCC-74656|6}}.
+* {{ancrage|Naomi Wildman|Wildman, Naomi}} : fille de Samantha Wildman, à bord de l'{{USS|Voyager|NCC-74656|6}}.
+* [[Worf]] : officier tactique à bord de l'{{Star Trek|NCC-1701-D}}, puis officier de securité sur ''[[Deep Space Nine (station spatiale)|Deep Space Nine]]''.
+
+=== Y ===
+* '''[[Tasha Yar|Yar, Tasha]]''' (Officier sécurité, [[USS Enterprise (NCC-1701-D)|NCC-1701-D]])
+* [[Kassidy Yates|Yates, Kassidy]] Capitaine de cargo, compagne de Benjamin Sisko (deep space nine) 
+
+=== Z ===
+* {{ancrage|Zar}} : Habitant de Sarpeidon, fils de [[Spock (Star Trek)|Spock]] et de Zarabeth.
+* {{ancrage|Zarabeth}} : Habitante de Sarpeidon, mère de Zar qu'elle a eu avec [[Spock (Star Trek)|Spock]].
+* {{ancrage|Zek}} : [[Grand Nagus]], il abandonne ses fonctions à [[Rom (Star Trek)|Rom]], le frère de [[Quark (Star Trek)|Quark]], au cours de la dernière saison de {{Star Trek|DS9}}.
+* [[Lewis Zimmerman|Zimmerman, Lewis]] Créateur du HMU (Hologramme médical d urgence) 
+* [[Ziyal]], ''[[Tora Ziyal]]'', (fille de gul Dukat) mi cardassienne mi bajoranne
+* {{ancrage|Zorn}} : {{à développer}}<ref name="TNG_101"/>
+
+== Notes et références ==
+{{Crédit d'auteurs|interne|Christopher Pike (Star Trek)}}
+{{Crédit d'auteurs|interne|Nancy Crater}}
+
+=== Notes ===
+{{Références|taille=35<!-- plus adapté aux écrans mobiles, l'affichage pouvant se faire sur une seule colonne -->|group="n"|références=
+<!-- <ref name=" ">texte</ref> -->
+}}
+
+=== Références ===
+{{Références|taille=35<!-- plus adapté aux écrans mobiles, l'affichage pouvant se faire sur une seule colonne -->|références=
+<ref name="TOS_101">{{Star Trek/épisodes|TOS|1|1|Ils étaient des millions}}</ref>
+<ref name="TOS_102">{{Star Trek/épisodes|TOS|1|2|Charlie X}}</ref>
+<ref name="TOS_115">{{Star Trek/épisodes|TOS|1|15|Une partie de campagne}}</ref>
+<ref name="TOS_201">{{Star Trek/épisodes|TOS|2|1|Le Mal du pays}}</ref>
+<ref name="TOS_322">{{Star Trek/épisodes|TOS|3|22|La Frontière}}</ref>
+<ref name="TAS_206">{{Star Trek/épisodes|TAS|2|6|L'Univers à l'envers}}</ref>
+<ref name="TNG_101">{{Star Trek/épisodes|TNG|1|1|Rencontre à Farpoint}}</ref>
+<ref name="TNG_119">{{Star Trek/épisodes|TNG|1|19|Gloire et patrie}}</ref>
+<ref name="TNG_317">{{Star Trek/épisodes|TNG|3|17|Les Péchés du père}}</ref>
+<ref name="TNG_402">{{Star Trek/épisodes|TNG|4|2|En famille}}</ref>
+<ref name="TNG_407">{{Star Trek/épisodes|TNG|4|7|Réunion}}</ref>
+<ref name="TNG_507">{{Star Trek/épisodes|TNG|5|7|Réunification, {{1ère|partie}}}}</ref>
+<ref name="TNG_510">{{Star Trek/épisodes|TNG|5|10|Nouveau Départ}}</ref>
+<ref name="TNG_713">{{Star Trek/épisodes|TNG|7|13|Terre promise}}</ref>
+<ref name="DS9_317">{{Star Trek/épisodes|DS9|3|17|Fils et filles}}</ref>
+<ref name="DS9_507">{{Star Trek/épisodes|DS9|5|7|Que celui qui n'a jamais péché}}</ref>
+<ref name="DS9_617">{{Star Trek/épisodes|DS9|6|17|Les Péchés du père}}</ref>
+<ref name="ENT_407">{{Star Trek/épisodes|ENT|4|7|Le Pèlerin du désert}}</ref>
+<ref name="ENT_408">{{Star Trek/épisodes|ENT|4|8|Les Dissidents}}</ref>
+<ref name="DIS_101">{{Star Trek/épisodes|DIS|1|1|Des Salutations vulcaines}}</ref>
+<ref name="DIS_102">{{Star Trek/épisodes|DIS|1|2|Combat aux étoiles binaires}}</ref>
+<ref name="DIS_105">{{Star Trek/épisodes|DIS|1|5|Choisissez votre douleur}}</ref>
+
+<ref name="l'rell">{{Lien web |langue=en |url=http://www.startrek.com/database_article/lrell |titre={{langue|en|L'Rell}} |site=startrek.com |éditeur={{langue|en|Star Trek Database}} |consulté le=22 octobre 2017 }}</ref>
+}}
+
+{{Palette|Personnages Star Trek|Star Trek}}
+{{Portail|Star Trek|Science-fiction|séries télévisées américaines|cinéma américain}}
+
+[[Catégorie:Personnage de Star Trek|*]]
+[[Catégorie:Liste de personnages de série télévisée|Star Trek]]
+[[Catégorie:Liste de personnages littéraires|Star Trek]]
+[[Catégorie:Liste de personnages de cinéma|Star Trek]]

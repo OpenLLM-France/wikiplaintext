@@ -1,0 +1,1234 @@
+{{voir homonymes}}
+{{Infobox Municipalité de Colombie
+|nom=Bogota
+|image={{Photomontage
+  | photo1a =
+  | photo2a = Casa Cural de la Catedral 2.jpg
+  | photo2b = El Liston, Bogotá, Bogota, Colombia - panoramio.jpg
+  | photo3a = Fachada Capitolio.jpg
+  | photo3b = BOG Museo del Oro.JPG
+  | taille  = 280
+  | espace  = 2
+  | color = white 
+  | légende = De haut en bas, de gauche à droite : [[La Candelaria (Bogota)|La Candelaria]], [[tour Colpatria]], [[Capitole national de Colombie|Capitole national]], [[musée de l'or]].
+}}
+|blason=Escudo de Armas de Bogota.svg
+|lien blason=Blason de Bogota
+|drapeau=Flag_of_Bogotá.svg
+|lien drapeau=Drapeau de la ville de Bogota
+|dep={{CO-CUN}}
+|latitude=4.610
+|longitude=-74.082
+|géolocalisation=Colombie
+|altitude=2640
+|fondation={{date|6|août|1538}}
+|superficie=1775.98
+|code=11001
+|gentilé=Bogotanais
+|maire=[[Claudia López]]
+|site=[http://www.bogota.gov.co www.bogota.gov.co]
+|imageloc=Bogota location map.png
+}}
+'''Bogota''' {{en espagnol|Bogotá, Bogotá Distrito Capital, Bogotá D.C.}}<ref>{{Lien web |titre=Bogotá D.C. |url=http://www.personeriabogota.gov.co/?idcategoria=558# |site=personeriabogota.gov.co |année=2009 |consulté le=6 mars 2010 |ouvrage=Estatuto Orgánico de Bogotá D. C. (statut organique de Bogota)}}.</ref>{{,}}<ref name="organisation">{{Lien web |titre=Organización del Distrito Capital (Organisation du District Capital) |url=http://www.bogota.gov.co/portel/libreria/php/x_frame_detalle.php?id=442 |site=bogota.gov.co |année=2009 |consulté le=18 novembre 2007 |ouvrage=Alcaldía Mayor de Bogotá D. C. (Mairie principale de Bogota)}}.</ref>, anciennement ''Santa Fe de Bogotá Distrito Capital'', est la [[capitale]] de la [[Colombie]], ainsi que celle du [[départements de la Colombie|département]] de [[Cundinamarca]]. Elle a été fondée le {{date|6|août|1538}} par le [[conquistador]] [[Espagne|espagnol]] [[Gonzalo Jiménez de Quesada]] ([[1509]]-[[1579]]). Suivant l'organisation d'un [[District de la capitale Bogota|district capital]] unitaire et décentralisé, Bogota jouit d'une autonomie lui permettant la gestion de ses intérêts dans les limites imposées par la [[Constitution colombienne de 1991|Constitution]] et la [[loi]]<ref name="organisation" />{{,}}<ref>{{Lien web |titre=Información General de Bogotá (Informations générales sur Bogota) |url=http://www.bogota.gov.co/portel/libreria/php/01.0101.html |site=bogota.gov.co |année=2010 |consulté le=18 février 2010 |ouvrage=Alcaldía Mayor de Bogotá D. C.}}.</ref>. Composée de {{nobr|20 [[Districts de Colombie|districts]]}}, elle est la [[métropole]] incontestée du pays aux points de vue administratif, [[Économie de la Colombie|économique]] et [[Politique en Colombie|politique]].
+
+Bogota se trouve au centre de la Colombie, dans une zone naturelle appelée [[savane de Bogota]] ({{lang-es|''Sabana de Bogotá''}}) située dans la partie sud de l{{'}}''{{lang|es|[[Altiplano cundiboyacense]]}}'', ensemble de hauts plateaux de la [[Cordillère Orientale (Colombie)|cordillère Orientale]], une ramification de la [[cordillère des Andes]]. Pour ce qui est de la superficie, Bogota est la plus grande ville de la Colombie, et son altitude de {{unité|2640|mètres}} fait d'elle la troisième plus haute capitale du monde après [[La Paz]] ([[Bolivie]]) et [[Quito]] ([[Équateur (pays)|Équateur]]).
+
+En [[2013]], la population de Bogota et de son [[agglomération]], qui inclut des [[municipalité]]s telles que [[Chía (Cundinamarca)|Chía]], [[Cota]], [[Soacha]], [[Cajicá]] et [[La Calera]], s'élève à {{unité|8744000|habitants}}<ref>{{lien web |titre=South America: Colombia |url=https://www.cia.gov/library/publications/the-world-factbook/geos/co.html |site=CIA The World Factbook |jour=13 |mois=août |année=2013 |consulté le=29 août 2013}}.</ref>. Elle s'étend sur {{unité|33|km}} du nord au sud, et sur {{unité|16|km}} d'est en ouest<ref>{{Lien web |titre=Censo 2005-2006 (recensement 2005-2006) |url=http://www.dane.gov.co/censo/files/presultados.pdf |site=dane.gov.co |année=2007 |consulté le=18 novembre 2007 |ouvrage=[[Departamento Administrativo Nacional de Estadística]] (DANE)}}.
+</ref>.
+
+En tant que capitale du pays, Bogota est le siège des organes politiques les plus importants :
+* la branche [[Pouvoir exécutif|exécutive]], dont le siège est le [[palais Nariño]] {{en espagnol|Casa de Nariño}}, [[Résidence d'État|résidence officielle]] du [[Président de la république de Colombie|président de la République]] ;
+* la branche [[Pouvoir législatif|législative]] : [[Congrès de la république de Colombie]] (« ''Congreso de la República de Colombia'' ») ;
+* la branche [[Pouvoir judiciaire|judiciaire]], dont le siège est le [[Palais de justice de Colombie]], situé place Bolívar, et qui comprend la [[Cour suprême de justice (Colombie)|Cour suprême]] (« ''Corte Suprema de Justicia'' »), la [[Cour constitutionnelle (Colombie)|Cour constitutionnelle]] (« ''Corte Constitucional'' »)<ref>{{Lien web |langue=es |nom= |titre=Constitución política de Colombia |url=https://www.constitucioncolombia.com/titulo-8/capitulo-4 |site=www.constitucioncolombia.com |consulté le=2023-09-01}}.</ref>, le [[Conseil d'État (Colombie)|Conseil d'État]] (« ''Consejo de Estado'' ») et le [[Conseil supérieur de la magistrature (Colombie)|Conseil supérieur de la magistrature]] (« ''Consejo Superior de la Judicatura'' »).
+
+Sur le plan économique, elle se distingue en tant que centre économique et industriel de grande importance<ref>
+{{Lien web |titre=Contribución por regiones, áreas metropolitanas y ciudades (contribution pour les régions, les aires métropolitaines et les villes) |url=http://www.dane.gov.co/files/censo2005/resultados_am_municipios.pdf |éditeur=DANE |année=2007 |consulté le=2 septembre 2008}}.</ref>.
+
+Bogota, ville la plus grande et la plus peuplée de Colombie, est aussi la plaque tournante industrielle, économique, culturelle et touristique du pays. Pour toutes ces raisons, elle occupe également une place prépondérante en [[Amérique latine]]<ref>{{es}} [http://portel.bogota.gov.co/portel/libreria/php/01.270701.html « Bogotá una Metrópoli Latinoaméricana »], sur ''bogota.gov.co'' (consulté le 25 mai 2013).</ref>.
+
+La présence de nombreux [[musée]]s, [[Théâtre (édifice)|théâtres]] et [[bibliothèque]]s participe à offrir à la ville une situation d'un grand intérêt sur le plan culturel. Certains de ces lieux culturels figurent parmi les plus importants de Colombie. De plus, des [[festival]]s de renommée nationale et internationale y sont organisés, attirant un public venu du monde entier.
+
+Sur le plan académique, Bogota se distingue grâce aux [[université]]s qu'elle abrite, dont quelques-unes sont les plus réputées du pays. L'[[Organisation des Nations unies pour l'éducation, la science et la culture|UNESCO]] lui a décerné le titre de [[Capitale mondiale du livre]] de l'année [[2007]]<ref>UNESCO, [http://portal.unesco.org/culture/fr/files/27419/11193625189Capitale_mondiale_du_livre_2007.pdf/Capitale%2Bmondiale%2Bdu%2Blivre%2B2007.pdf « Capitale mondiale du livre 2007. Décision du comité de sélection »], sur ''unesco.org'' (consulté le 16 mai 2013).</ref>.
+
+La ville est surnommée {{Citation|l'Athènes sud-américaine}}<ref>{{es}} [http://www.archivobogota.gov.co/libreria/php/decide.php?patron=01.090201 « Archivo de Bogotá memoria diversa incluyente »], sur ''archivobogota.gov.co'' (consulté le 15 mai 2013).</ref>.
+
+Bogota, capitale de la Colombie, est classée {{54e}} à l'indice {{lang|en|Global Cities}} de 2010<ref>
+{{Lien web |titre=The Global Cities Index 2010 |url=http://www.foreignpolicy.com/node/373401 |site=foreignpolicy.com |éditeur= |consulté le=5 mars 2011}}.
+</ref>. Elle est considérée comme une [[Ville mondiale|ville globale]] (ou ville mondiale) de type Bêta+ par le [[Ville mondiale#Le classement du GaWC|GaWC]]<ref>{{Lien web |auteur=GaWC |titre=The World According to GaWC 2008 (Le Monde, selon le GaWC 2008) |url=http://www.lboro.ac.uk/gawc/world2008t.html |site=lboro.ac.uk |éditeur= |consulté le=5 mars 2011}}.
+</ref>.
+
+== Toponymie ==
+
+Le nom de Bogota provient de ''Bacatá'', appellation donnée par les indigènes [[chibchas]], un des groupes [[Peuples indigènes d'Amérique du Sud|indiens]] dont la civilisation était la plus avancée. Parmi les Chibchas se côtoyaient de pacifiques fermiers et de remarquables orfèvres. Avant la conquête espagnole, la ville abritait une importante population. Le chroniqueur espagnol [[Juan de Castellanos]] (1522 - 1607) affirmait que le sens originel de ''Bacatá'', en langue indigène, était {{Citation|la fin des champs}}<ref>{{Ouvrage
+ | auteur institutionnel = Fundación Misión Colombia (Fondation Mission Colombie)
+ | éditeur = Salvat-Villegas Editores
+ | titre = Historia de Bogotá, Tomo I: Conquista y Colonia
+ | année = 1998
+ | lieu = Bogota
+ | passage = 40}}
+</ref>. Le lieu où se situe actuellement Bogota avait reçu le nom de ''Muequetá'' ({{Citation|champ ou savane des cultures}})<ref>[http://www.banrepcultural.org/blaavirtual/revistas/credencial/febrero1992/febrero3.htm ''{{lang|es|"Los nombres de Santafé y Bogotá". Biblioteca Luis Ángel Arango. Revista Credencial Historia (Bogotá - Colombia)}}''. Février 1992, édition {{numéro|26}}] Consulté le 19 mai 2013.</ref>, et le district du [[Zipa]], c'est-à-dire du prince chibcha le plus important parmi les gouvernants, était désigné sous celui de ''Funza'' ({{Citation|homme puissant}}). L'éducation du Zipa se faisait dans l'actuelle municipalité de Chía. C'est précisément sur le territoire actuel de [[Funza]], municipalité située dans le département de Cundinamarca et banlieue de Bogota, mais probablement aussi aux alentours de Funza que l'on peut trouver la source de la population de ''Bacatá'', la ville où habitait majoritairement le peuple chibcha.
+
+Lors de l'arrivée des Espagnols dans les [[Indes orientales|Indes]], que les conquérants (''{{lang|es|[[conquistador]]es}}'') appelèrent les [[Indes occidentales espagnoles]], les Chibchas y vivaient déjà.
+
+Au fil de l'Histoire, Bogota et ses alentours ont porté différents noms. En [[muisca (langue)|muisca]], langue amérindienne - aujourd'hui éteinte - qui était parlée par les Indiens chibchas, l'appellation d'origine du lieu où les Espagnols fondèrent la cité était ''Thybzacá'' ou ''Teusacá'', d'où vient [[Teusaquillo]], l'actuel {{13e|district}} de Bogota. En 1538, quand le conquistador [[Gonzalo Jiménez de Quesada]] (1509 - 1579) fonda la cité, il lui donna le nom de ''{{lang|es|Nuestra Señora de la Esperanza}}''. Cependant, une année plus tard, en 1539, lors de la fondation juridique de la ville, ce nom changea en ''Santafé'' ou ''Santa Fe'' (Sainte Foi).
+
+Le nom Santafé de Bogota (ou Santa Fe de Bogota) ne fut pas officiel durant l'époque coloniale, mais son utilisation devint commune par la nécessité de la distinguer des autres Santafé et parce que Bogota était le nom indien de la région. À cette époque, le district actuel de Funza portait aussi l'appellation de Bogota.
+
+Après avoir obtenu son indépendance en 1819, Santa Fe reçut derechef le nom indien de l'ancienne capitale chibcha : Bogota. En fait, son nom officiel était, sauf pendant l'époque coloniale, Santa Fe de Bogota mais on l'appelait communément seulement Santa Fe pour la distinguer de l'actuelle Funza.
+
+La [[Constitution colombienne de 1991|constitution de 1991]] a indirectement changé le nom de la capitale qui devint Santa Fe de Bogota. La polémique engendrée par ce changement a conduit à la réforme constitutionnelle du {{date|18|août|2000}} afin de supprimer les mots {{Citation|Santa Fe de}}, lui redonnant finalement le nom de Bogota<ref>{{Lien web
+ | url = http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4133
+ | site = alcaldiabogota.gov.co
+ | titre = Acto Legislativo 1 de 2000
+ | consulté le=31 août 2010
+| auteur =Régimen Legal de Bogotá
+ | année =2000
+ | mois = 18 août}}</ref>.
+
+== Histoire ==
+
+=== Époque précolombienne ===
+
+[[Fichier:Muisca raft Legend of El Dorado Offerings of gold.jpg|vignette|upright|La ''{{Citation étrangère|langue=es|Balsa Muisca}}'', pièce précolombienne d'orfèvrerie, allusion à la légende d'[[Eldorado|''El Dorado'']] ([[Musée de l'or]] de Colombie à Bogota).]]
+
+À partir de 10500 {{Av JC}}, des [[chasseur-cueilleur|chasseurs-cueilleurs]] habitèrent la zone. Dès 3500 {{Av JC}}, on remarque l'existence d'[[Agriculture|activités horticoles]], de [[poterie]] et de la [[Élevage|domestication]] du [[Cavia porcellus|cochon d'Inde]], pratiquées par des groupes qui, à l'origine, dépendaient de la chasse et de la cueillette. En 500 {{Av JC}}, la culture du [[maïs]] et celle de la [[pomme de terre]] étaient déjà largement répandues. Jusqu'en l'an 800 de notre ère, les ''Muiscas'' (la peuplade indigène la plus importante de la [[Langues chibchanes|famille ''chibcha'']]) vivaient dans la zone, résultat d'une [[Migration humaine|migration]] d'origine ''chibcha'', provenant d'autres territoires (probablement d'[[Amérique centrale]]), qui s'était mélangée avec la population déjà présente.
+
+Il manquait à la culture chibcha l'écriture. C'est pourquoi les chroniqueurs ont reconstitué l'histoire aborigène en recueillant des récits oraux qui remontent à 1470, date à laquelle le [[zipa]] Saguanmachica gouvernait Bogota. Tout en haut de l'échelle sociale se trouvait le monarque absolu (le zipa), suivi par l'ordre religieux des sages et des moines. Ensuite venaient les guerriers (ou ''güechas''), puis les artisans, les commerçants, les paysans, etc.
+
+On pense que les Chibchas ont peut-être eu coutume de sacrifier des jeunes filles capturées lors des guerres ou achetées à d'autres tribus. Il n'en existe toutefois aucune preuve solide ou vérifiable. Ils ont élaboré un calendrier d'une grande précision et une structure juridique complexe, connue sous le nom de {{Citation|Code de Nemequene}}. En outre, les monuments chibchas furent érigés avec des matériaux périssables, ce qui ne les empêcha pas de rester debout après l'arrivée des conquistadors européens<ref>{{es}} [[:es:Historia de Bogotá|Historia de Bogotá : Época prehispánica]]. Consulté le 23 avril 2013.</ref>.
+
+Il faut également souligner que, même s'il est possible d'identifier des traits indigènes dans la population bogotaine, comme Bogota a longtemps reçu des migrants de tout le pays, on peut rencontrer des [[phénotype]]s d'une grande diversité : couleur de peau, de cheveux et d'yeux, ce qui l'a convertie en une cité multiraciale.
+
+=== Période coloniale ===
+[[Fichier:Plaza Bolívar and cathedral Bogotá 1840 José Santos Figueroa.jpg|thumb|[[Place Bolívar]] et [[Cathédrale de l'Immaculée-Conception de Bogota|cathédrale]] en 1840 par José Santos Figueroa<ref>{{lien web|url=https://archivobogota.secretariageneral.gov.co/content/historia-bogota|titre=Historia de Bogotá. La azarosa fundación de Bogotá|éditeur=Bogotá Mayor's Office|auteur=Archive of Bogotá - General Secretariat}}</ref>]]
+[[File:Colegio Mayor de San Bartolomé, Plaza de Bolívar.jpg|thumb|upright=1.05|Le Collège de l'enseignement supérieur St Barthélemy, de style colonial, construit entre 1604 et 1622.]]
+[[File:Museo-Iglesia Santa Clara, Bogotá.JPG|thumb|L'église de Sainte-Claire et musée, construite entre 1629 et 1647. Il possède une grande collection de peintures coloniales colombiennes.]]
+[[Gonzalo Jiménez de Quesada]] qui était revenu de son expédition militaire de [[Santa Marta]] (la capitale du département de Magdalena) et de la vallée du [[Río Magdalena|fleuve Magdalena]] avec plus de {{nobr|500 hommes}} n'en comptait que 70 environ après sa victoire sur les Muiscas et la conquête de la [[savane de Bogota]]. Il annonça {{Citation|la fondation [[de facto]]}} de la cité ; la cérémonie eut lieu le {{date|6|août|1538}}. Douze cabanes furent construites ainsi qu'une chapelle dans le site appelé ''{{lang|es|Thybzacá}}'', aujourd'hui [[Teusaquillo]], le {{13e|district}} de Bogota. On suppose que l'événement se produisit sur l'actuelle ''Plazoleta del Chorro'' de Quevedo, bien qu'il n'existe aucun document le confirmant<ref>{{Lien web
+ | url = http://www.bogotaturismo.gov.co/atractivos/atractivos_arquitectonicos/historicos.php
+ | site = bogotaturismo.gov.co
+ | titre = Atractivos Arquitectónicos - Históricos
+ | ouvrage = bogotaturismo.gov.co
+ | consulté le =20 avril 2009
+ | langue =espagnol}}
+</ref>.
+
+Le {{date|22|avril|1539}}, Gonzalo Jiménez de Quesada procéda aussi à la fondation juridique de Santa Fe en compagnie des explorateurs [[Nikolaus Federmann]] et [[Sebastián de Belalcázar]]<ref>Senado de la República de Colombia (1989). ''Municipios colombianos''. Bogotá: Pama Editores Ltda, {{pp.|172-175}}</ref>. Le nom de la ville, initialement ''Nuestra Señora de la Esperanza'', fut changé en ''Santa Fe'' lors de la fondation juridique et le Conseil municipal de Santa Fe fut établi. Gonzalo Jiménez de Quesada donna à Santa Fe et aux territoires alentour le nom de [[Royaume de Nouvelle-Grenade]] dont la ville fut, durant toute la période coloniale, la capitale.
+
+Le brevet royal de l'empereur [[Charles Quint]] éleva Santa Fe au rang de ville le {{date|27|juillet|1540}}<ref>{{Lien web
+ | url = http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=7670
+ | site = alcaldiabogota.gov.co
+ | titre = Real Cédula por la cual se concede el título de ciudad al pueblo de Santafé (Brevet royal de concession du titre de ville au village de Santafé)
+ | ouvrage = Alcaldía Mayor de Bogotá (mairie principale de Bogota)
+ | consulté le =23 juin 2009
+ | langue = es}}
+</ref>. En 1548, l'empereur octroya à Santa Fe le titre de {{Citation|très noble, très loyale et ville très ancienne du Nouveau Règne}} avec, pour armes, un [[Blason de Bogota|blason]]<ref>{{Lien web
+ | url = http://www.bogota.gov.co/histo.php?patron=1&idh=394
+ | site = bogota.gov.co
+ | titre = Escudo de Bogotá (blason de Bogota)
+ | ouvrage = bogota.gov.co
+ | consulté le =23 juin 2009
+ | langue = es}}
+</ref> sur lequel figure un aigle noir sur fond or, une grenade dans chaque serre, entouré de grenades d'or sur fond bleu<ref>Voir le [[blason de Bogota]] {{Citation|''D'or, à l'aigle couronnée de sable tenant dans chaque patte une grenade de gueules, à la bordure d'azur neuf grenades d'or''}}</ref>.
+
+Puis la ville devint dépendante de la [[vice-royauté du Pérou]], fondée le {{date|20|novembre|1542}} par Charles Quint. Bogota fut également le siège du gouvernement de la ''{{lang|es|[[Real audiencia de Santa Fe de Bogota]]}}'' (l'Audience royale de Santa Fe de Bogota), créée en 1550.
+
+En 1717, la cité devint la capitale de la [[vice-royauté de Nouvelle-Grenade]], créée par la couronne d'Espagne, accueillant ainsi les vice-rois, après avoir disputé le siège vice-royal à [[Carthagène des Indes]]<ref>
+{{Lien web
+ | url = http://www.lablaa.org/blaavirtual/historia/caribe/caribe.htm
+ | site = lablaa.org
+ | titre = El Caribe colombiano en la república andina
+ | ouvrage = Universidad de Cartagena de Indias
+ | consulté le = 20 avril 2009
+ | langue = espagnol}}
+</ref>, ville de Colombie fondée en 1533 par le conquistador [[Pedro de Heredia]] (1505 - 1554).
+
+En 1783, le vice-roi créa une commission scientifique, dirigée par le médecin et naturaliste espagnol [[José Celestino Bruno Mutis y Bosio]] (1732 - 1808), qui commença ses recherches sur les collines de Santa Fe, premiers pas de ce qui, plus tard, sera connu comme l'Expédition botanique<ref>{{Lien web
+ | url = http://www.bogota.gov.co/guia/interfaz/usuario/anexos/Humedales.doc
+ | site = bogota.gov.co
+ | titre = Historia de los Humedales de Bogotá
+ | série = bogota.gov.co
+ | consulté le = 20 avril 2009
+ | langue = espagnol}}
+</ref>. Le naturaliste, géographe et explorateur allemand [[Alexander von Humboldt]] (1769 - 1859), en route vers [[Quito]] (Équateur), traversa la vice-royauté du nord au sud, passant par Carthagène des Indes, Bogota et [[San Juan de Pasto|Pasto]]<ref>{{es}}[http://www.banrepcultural.org/blaavirtual/revistas/credencial/febrero2000/122trayecto.htm El trayecto colombiano de Humboldt : Los Andes, gran revelación para el naturalista], Santiago Díaz Piedrahita, ''Credential Historia'', 22, février 2000</ref>. De 1802 à 1803 eut lieu la construction de l'[[Observatoire astronomique national de Colombie]], le premier observatoire astronomique construit en Amérique, qui avait été promu par José Celestino Bruno Mutis y Bosio<ref>
+{{Lien web
+ | url = http://www.culturarecreacionydeporte.gov.co/bicentenario_mutis/observatorio.php
+ | site = culturarecreacionydeporte.gov.co
+ | titre = José Celestino Mutis
+ | ouvrage = culturarecreacionydeporte.gov.co
+ | consulté le =20 avril 2009
+ | langue = espagnol}}
+</ref>.
+
+Quelques-uns des créoles les plus influents de la vice-royauté - de hauts personnages comparables à [[Policarpa Salavarrieta]] (1795 - 1817), héroïne de la résistance colombienne, et [[Antonio Nariño]] (1765 - 1823), président de l'[[État libre de Cundinamarca]] de 1811 à 1813, puis vice-président de la Grande Colombie en 1821 - habitaient la ville. C'est en grande partie là que le [[Guerre d'indépendance de la Colombie|mouvement indépendantiste]] se produisit, auquel se rattachent les faits connus sous le nom de [[Le Vase de Llorente|''El Florero de Llorente'']] (Le Vase de Llorente). Les frères Francisco et Antonio Morales recevaient à dîner un fonctionnaire du roi arrivé d'Espagne. En quête d'un fleuriste pour commander la décoration de la salle où était prévu cet évènement, ils interrogèrent un commerçant espagnol, José González Llorente, qui tenait boutique au coin nord-est de l'actuelle [[place Bolívar]], la principale place de Bogota. Ils furent rejetés par celui-ci d'une façon qu'ils jugèrent inappropriée. Cela fut le prétexte d'une rixe qui dégénéra en désordre populaire et marqua, le {{date|20|juillet|1810}}, le début de la lutte et du Cri ([[espagnol]] : ''{{lang|es|El Grito}}'') pour l'Indépendance. Bien que le territoire eût été reconquis en 1816 par les Espagnols, il obtint l'indépendance définitive en 1819.
+
+=== Période républicaine ===
+
+[[Fichier:Bogotá in 1868 (3686435-2).jpg|vignette|gauche|Bogota en [[1868]].]]
+[[Fichier:Calle real de Bogotá en 1869 dibujo de Therond.jpg|vignette|upright|''{{lang|es|Calle Real}}'', aujourd'hui [[Carrera Séptima (Bogota)|''carrera Séptima'']], à Bogota en 1869.]]
+[[Fichier:Bogotazo.jpg|vignette|upright|La mort du dirigeant libéral très populaire [[Jorge Eliécer Gaitán]] provoqua le ''[[Bogotazo]]''.]]
+[[Fichier:Estacion Sabana 1930.jpg|vignette|upright|Gare centrale du chemin de fer de la Savane (''Ferrocarril de la Sabana'') en 1930.]]
+[[Fichier:Tequendamasaltobta.jpg|vignette|upright|[[Salto del Tequendama]] (Chute du Tequendama).]]
+
+Bogota devint la capitale de la [[Grande Colombie]] jusqu'en 1830<ref>
+{{Lien web
+ | url = http://www.cervantesvirtual.com/servlet/SirveObras/mcp/91305009658029729754491/209441_0023.pdf
+ | site = cervantesvirtual.com
+ | titre = Carta de Panamá
+ | langue = espagnol
+ | ouvrage = Cervantesvirtual
+ | page = 3
+ | format électronique = PDF
+ | consulté le = 20 avril 2009
+}}</ref>, quand la dissolution de cet État permit de donner naissance à ceux qui sont aujourd'hui l'[[Équateur (pays)|Équateur]], le [[Venezuela]] et la [[Colombie]] (le [[Panama]] proclama son indépendance en 1903). Jusqu'à la fin du {{s-|XX}}, l'[[histoire de la Colombie]] ne fut qu'une suite de [[guerres civiles colombiennes|guerres civiles]], dont la plus notoire fut la [[guerre des Mille Jours]] (1899 - 1902), au cours de laquelle les factions du [[Parti national (Colombie)|parti conservateur]] et du [[Parti libéral colombien|parti libéral]] massacrèrent la population.
+
+Bogota reçut, en 1861, le titre de capitale des [[États-Unis de Colombie]], ancien pays d'[[Amérique du Sud]], et ses quelques quartiers, peu nombreux, furent élevés au rang de cantons.
+
+En 1876, le Conseil de la ville établit une nomenclature et une numérotation des rues en remplaçant leur nom traditionnel par des nombres consécutifs, comme c'est le cas aujourd'hui<ref>De la Rosa, Moisés (1938). ''Calles de Santafé de Bogotá, homenaje en su IV centenario''. Bogotá: Ediciones del Concejo, {{pp.|21-23}}</ref>.
+
+En 1884, le service de [[tramway]] de la ville commença à fonctionner de la [[place Bolívar]] jusqu'à [[Chapinero]], le {{2e|district}} de Bogota. Il était tiré par des [[mulet|mules]].
+
+En 1889 fut inaugurée la première ligne de [[chemin de fer]] reliant Bogota depuis San Victorino, quartier bogotanais, jusqu'à [[Facatativá]], municipalité du département de Cundinamarca<ref name="RC">{{Lien web
+ | url = http://www.lablaa.org/blaavirtual/revistas/credencial/agosto2008/bogota.htm
+ | site = lablaa.org
+ | titre = De paso por la capital
+ | langue = espagnol
+ | ouvrage = Revista Credencial
+ | consulté le = 20 avril 2009}}
+</ref>. Cette ligne de chemin de fer, terminée vers la fin du {{s|XIX}} et comptant plus de {{unité|100|km}} de voies ferrées, permettait, avec des correspondances, de voyager dans certaines zones du pays y compris jusqu'à la [[mer des Caraïbes]] (ou mer des Antilles). De 1910 à 1940, un système de tramways électriques, doté de nombreuses lignes, s'étendit autour de Bogota et de ses banlieues. Avec le train, ces moyens de transport ont été les piliers du développement de la ville dont la population, en 1912, dépassait à peine {{Unité|120000|habitants}}<ref>
+{{Lien web
+ | url = http://www.banrep.gov.co/blaavirtual/revistas/credencial/enero2001/colmundo.htm
+ | site = banrep.gov.co
+ | titre = Algunos datos históricos
+ | langue = espagnol
+ | ouvrage = Revista Credencial
+ | consulté le = 20 avril 2009}}
+</ref>.
+
+Dans les [[années 1920]] fut inauguré à Bogota le premier aéroport d'[[Amérique latine]] et la ville commença à être approvisionnée en [[énergie électrique]] permanente avec la construction d'une centrale électrique, toujours en service, à la [[Salto del Tequendama|cascade du Tequendama]], une chute d'eau de {{nobr|132 mètres}} de haut qui se trouve dans la municipalité de [[San Antonio del Tequendama]] (département de Cundinamarca). La décennie suivante vit l'élaboration des premiers projets urbanistiques en l'honneur du quatrième centenaire de la fondation de la ville : un complexe urbanistique dans le quartier de [[Teusaquillo]], la Cité universitaire, le parc national Enrique Olaya Herrera, ainsi nommé en hommage au président de la Colombie de 1930 à 1934, et le [[stade Nemesio Camacho El Campín]], le principal stade de football de Bogota.
+
+Cette floraison fut néanmoins assombrie par l'assassinat, le {{date|9|avril|1948}}, de [[Jorge Eliécer Gaitán]], homme politique colombien très populaire, chef du [[Parti libéral colombien|Parti libéral]]. Destruction et pillage d'une partie de la ville s'ensuivirent lors des évènements baptisés ''{{lang|es|[[Bogotazo]]}}'' marquant le début de ''{{lang|es|[[La Violencia]]}}'' (« La Violence »), période de guerre civile qui dura jusqu'en 1960.
+
+Une des conséquences du ''Bogotazo'' fut que les familles de nantis, qui habitaient jusque-là dans le centre de la ville, commencèrent progressivement à déménager vers d'autres secteurs tels que [[Chapinero]], le {{2e|district}} de Bogota, et parfois même jusqu'à des localités de banlieues comme [[Usaquén]] ou [[Suba (Bogota)|Suba]], respectivement les {{1er}} et {{11e|districts}} de la ville<ref name="RC" />.
+
+Au cours de la {{9e}} Conférence panaméricaine organisée dans la ville en 1948, la [[Traité américain de règlement pacifique|charte de Bogota]], également nommée traité américain de règlement pacifique (''{{lang|en|American Treaty on Pacific Settlement}}'') ou pacte de Bogota, qui constitua l'institutionnalisation de l'[[Organisation des États américains]]<ref>
+{{Lien web
+ | url = http://www.oas.org/juridico/spanish/Tratados/a-42.html
+ | site = oas.org
+ | titre = Tratado americano de soluciones pacificas
+ | langue = espagnol
+ | ouvrage = oas.org
+ | consulté le = 20 avril 2009}}
+</ref> (OEA), fut signée. La dictature militaire dirigée par le général [[Gustavo Rojas Pinilla]] de 1953 à 1957 contribua au développement de la cité grâce à la construction de l{{'}}''Autopista Norte'' (en [[français]] : Autoroute du Nord), du nouvel [[aéroport international El Dorado]], principal aéroport de Bogota ainsi que du pays, et à la reconstruction de l'avenue reliant le centre de la ville (''Calle 26'') et le ''{{lang|es|Centro Internacional de Bogotá}}'' près duquel avait été inauguré l'hôtel Tequendama quelques années plus tôt.
+
+En 1955, on créa le ''{{lang|es|Distrito Especial}}'' - en tant qu'aire métropolitaine de Bogota - dans lequel furent intégrées les municipalités de [[Bosa (Bogota)|Bosa]], [[Engativá]], [[Fontibón]], [[Suba (Bogota)|Suba]], [[Usme]] et [[Usaquén]] ; le hameau de [[Chapinero]] fut inclus dans le périmètre de la capitale et devint la première commune mineure de la ville.
+
+En 1961, on entreprit la construction du quartier [[Kennedy (Bogota)|Ciudad Kennedy]], le {{8e|district}} de Bogota, conformément au programme de l'''[[Alliance pour le Progrès]]'', créée par le [[président des États-Unis]] [[John Fitzgerald Kennedy|John F. Kennedy]] afin de renforcer la coopération entre l'[[Amérique du Nord]] et l'[[Amérique du Sud]], et dirigée par le gouvernement [[États-Unis|américain]].
+
+En 1964, [[Puente Aranda]], l'actuel {{16e|district}}, devint également une commune mineure de Bogota, suivie par [[Kennedy (Bogota)|Ciudad Kennedy]] en 1967. Cinq ans plus tard, on divisa la ville en seize communes mineures incluant des municipalités annexes. Les nouvelles communes furent les trois secteurs traditionnels du centre : [[Santa Fe (Bogota)|Santa Fe]], le {{3e|district}}, [[Teusaquillo]], le {{13e}} ainsi que mentionné plus haut, et [[Los Mártires]], le {{14e}}. On créa, en 1977, la commune mineure de [[La Candelaria (Bogota)|La Candelaria]], le {{17e}}, et en 1983, du fait du chaos engendré par les invasions au sud, [[Ciudad Bolívar (Bogota)|Ciudad Bolívar]], le {{19e|district}}, devint une des autres communes de la ville. Avec la Constitution de 1991, le District Spécial se transforma en District Capital et les communes furent élevées au rang de districts. Bogota est alors divisée en vingt districts.
+
+Divers évènements se sont déroulés dans le cadre du [[Conflit armé colombien|conflit armé en Colombie]], qui débuta vers le milieu des années 1960 pendant lesquelles des [[guérilla]]s eurent lieu, s'opposant par la suite aux groupes paramilitaires qui se constituèrent au cours des années 1980. Parmi les faits les plus frappants, on note la prise de l'ambassade de la République dominicaine, l'assaut contre le ''Cantón Norte'', la [[Prise du palais de justice de Bogota]], l'[[attentat au club El Nogal]], de même que l'attentat perpétré par les trafiquants de drogues contre le bâtiment du ''{{lang|es|[[Departamento Administrativo de Seguridad]]}}'' (DAS) (en [[français]] : Département administratif de Sécurité).
+
+À partir du premier mandat du mathématicien et philosophe [[Antanas Mockus]] en tant que maire en 1995, la ville a subi d'importants changements<ref>
+{{Lien web
+ | url = http://www.ub.es/geocrit/sn/sn-270/sn-270-57.htm
+ | site = ub.es
+ | titre = Planeamiento urbano en Bogotá 1994-2007. La construcción de un modelo
+ | langue = espagnol
+ | ouvrage = Universidad de Barcelona
+ | consulté le = 20 avril 209}}
+</ref>. Au développement du système de transports en commun ''[[TransMilenio]]'' s'ajoutent la récupération d'espaces piétonniers, la construction de [[Bibliothèque publique|bibliothèques publiques]] et d'un réseau de pistes cyclables. On peut y ajouter l'implémentation de projets comme le ''{{lang|es|Pico y placa}}'', un programme de restrictions véhiculaires, la ''{{lang|es|Hora zanahoria}}'', une réglementation des heures de fermeture des débits de boissons, et d'autres programmes sociaux comprenant la création de restaurants communautaires et l'augmentation de la couverture éducative pour les familles ayant de bas revenus.
+
+== Géographie ==
+
+=== Géographie physique ===
+{{Thumb|{{Carte/Bogota DC|largeur=400|type=urb}}|Carte des districts de Bogota D.C.<br />En rouge, l'aire urbaine de Bogota.}}
+
+Bogota se trouve à une altitude de {{unité|2640|m}}, dans la cordillère Orientale des montagnes du nord des [[Cordillère des Andes|Andes]]. Elle est située sur un plateau, au pied d'une chaîne de montagnes.
+
+Les ''{{lang|es|cerros}}'' ([[français]] : collines) de [[Cerro de Guadalupe|Guadalupe]] et de [[Cerro de Monserrate|Monserrate]] bordent à l'est la [[savane de Bogota]]. Sur le ''cerro'' de Guadalupe<ref>{{es}}[http://www.culturarecreacionydeporte.gov.co/portal/bogotanitos/curiosidades/guadalupe {{Citation étrangère|langue=en|El Cerro de Guadalupe}} Secretaria de cultura, recreación y deporte]. Consulté le 10 mai 2013.</ref> sont érigées une petite chapelle dédiée à Notre-Dame de Guadalupe et une statue de {{unité|15|m}} de haut. Sur le ''cerro'' de Monserrate est construite une basilique, ''{{lang|es|la basílica del Señor de Monserrate}}''.
+
+Plusieurs petits cours d'eau, dont le ''{{lang|es|[[Río San Francisco (Colombie)|río San Francisco]]}}'', traversent la ville jusqu'à l'extrémité sud-ouest du plateau et rejoignent le ''{{lang|es|[[río Bogotá]]}}'', également appelé ''{{lang|es|río Funza}}'', qui plonge au bord du plateau, à [[Salto del Tequendama|Tequendama]], dans l'une des plus importantes attractions touristiques de Bogota : une magnifique chute d'eau de {{unité|132|m}}, le ''{{lang|es|[[Salto del Tequendama]]}}'' cité plus haut.
+
+Le climat est doux et tempéré. La température moyenne annuelle est de {{nobr|14 [[degré Celsius|°C]]}}, et les importantes précipitations atteignent environ {{unité|960|mm}} (en comparaison, à [[Paris]], le total annuel est d'environ {{unité|600|mm}}).
+
+La ville a un plan en damier, ou [[Hippodamos|hippodamien]], avec beaucoup de ''{{lang|es|carreras}}'' (avenues orientées nord-sud) aux intersections des ''{{lang|es|calles}}'' (rues orientées est-ouest). Il existe également deux types de rues ne respectant pas ce damier : les ''transversales'', qui vont dans le sens des ''{{lang|es|carreras}}'', et les ''diagonales'' dans le sens des ''{{lang|es|calles}}''. Bogota comporte de nombreux parcs et jardins, dont le parc Simón Bolívar, à ne pas confondre avec la [[Place Bolívar|Plaza de Bolívar]] où sont situés plusieurs importants édifices publics et églises.
+
+Bogota est reliée par route aux côtes [[océan Pacifique|Pacifique]] et [[océan Atlantique|Atlantique]] de la Colombie, respectivement au nord et à l'ouest, ainsi qu'aux deux autres villes majeures du pays : [[Medellín]], la capitale du département d'[[Antioquia]], et [[Cali]], celle de [[Valle del Cauca]]. La [[route panaméricaine]], système de voies rapides et d'autoroutes reliant l'ensemble du continent américain, et l'autoroute Simón Bolívar traversent la ville.
+
+=== Découpage politico-administratif ===
+
+Les districts (''{{lang|es|distritos}}'') se subdivisent à leur tour en [[Unité de planification zonale|unités de planification zonale]] (''{{lang|es|unidades de planeamiento zonal}}'') appelées {{Citation|UPZ}}, localités (''{{lang|es|localidades}}'') ou simplement {{Citation|zones}} (''{{lang|es|zonas}}''). Ces zones regroupent plusieurs quartiers (''{{lang|es|barrios}}'') et parfois des [[Vereda (Colombie)|''veredas'']] qui sont des [[Administration territoriale de la Colombie|divisions administratives]] de la Colombie. .
+
+{| class="wikitable sortable"
+|-
+! District !! Superficie (km{{2}}) !! Population ([[2005]]) !! Densité ({{hab.}}/km{{2}})
+{{Ligne de tableau superficie-population|[[Usaquén]]                                        |s= 65.31|p= 449621|d=0}}
+{{Ligne de tableau superficie-population|[[Chapinero]]                                      |s= 38.99|p= 122991|d=0}}
+{{Ligne de tableau superficie-population|[[Santa Fe (Bogota)|Santa Fe]]                     |s= 44.87|p= 107044|d=0}}
+{{Ligne de tableau superficie-population|[[San Cristóbal (Bogota)|San Cristóbal]]           |s= 48.16|p= 460414|d=0}}
+{{Ligne de tableau superficie-population|[[Usme]]                                           |s=215.56|p= 267423|d=0}}
+{{Ligne de tableau superficie-population|[[Tunjuelito]]                                     |s= 10.28|p= 204367|d=0}}
+{{Ligne de tableau superficie-population|[[Bosa (Bogota)|Bosa]]                             |s= 23.92|p= 475694|d=0}}
+{{Ligne de tableau superficie-population|[[Kennedy (Bogota)|Ciudad Kennedy]]                |s= 38.57|p= 973332|d=0}}
+{{Ligne de tableau superficie-population|[[Fontibón]]                                       |s= 33.26|p= 312629|d=0}}
+{{Ligne de tableau superficie-population|[[Engativá]]                                       |s= 35.56|p= 781138|d=0}}
+{{Ligne de tableau superficie-population|[[Suba (Bogota)|Suba]]                             |s=100.54|p= 780267|d=0}}
+{{Ligne de tableau superficie-population|[[Barrios Unidos (Colombie)|Barrios Unidos]]       |s= 11.90|p= 176552|d=0}}
+{{Ligne de tableau superficie-population|[[Teusaquillo]]                                    |s= 14.21|p= 126125|d=0}}
+{{Ligne de tableau superficie-population|[[Los Mártires]]                                   |s=  6.55|p=  95541|d=0}}
+{{Ligne de tableau superficie-population|[[Antonio Nariño (Bogota)|Antonio Nariño]]         |s=  4.93|p=  98355|d=0}}
+{{Ligne de tableau superficie-population|[[Puente Aranda]]                                  |s= 17.24|p= 282491|d=0}}
+{{Ligne de tableau superficie-population|[[La Candelaria (Bogota)|La Candelaria]]                                  |s=  1.84|p=  23985|d=0}}
+{{Ligne de tableau superficie-population|[[Rafael Uribe Uribe (Bogota)|Rafael Uribe Uribe]] |s= 13.44|p= 376711|d=0}}
+{{Ligne de tableau superficie-population|[[Ciudad Bolívar (Bogota)|Ciudad Bolívar]]         |s=129.98|p= 658477|d=0}}
+{{Ligne de tableau superficie-population|[[Sumapaz (Bogota)|Sumapaz]]                       |s=780.96|p=   2478|d=2}}
+|}
+
+<gallery perrow="4"> Fichier:Le vieux Bogota.jpg|Vue sur [[La Candelaria (Bogota)|La Candelaria]]
+Fichier:Calle de La Candelaria.JPG|Une rue typique de La Candelaria
+Fichier:El Uval.jpeg|Vue du quartier "El Uval" à [[Usme]]
+Fichier:Bogotá barrio Usaquén plaza.JPG|Quartier nord de Bogota
+</gallery>
+
+== Climat ==
+
+[[Fichier:BOG187.JPG|thumb|left|La ville de Bogota sous le soleil<ref name="Jours de pluies et jours de soleil"/>.]]
+[[Fichier:Bogota hailstorm.jpg|thumb|left|Durant la saison des pluies, les averses se transforment parfois en chutes de grêle.]]
+
+Située à haute altitude, soit {{unité|2640|mètres}}, la ville de Bogota bénéficie d'un climat dit {{Citation|tempéré d'altitude}} que l'on retrouve principalement dans les [[Cordillère des Andes|Andes]]. La ville étant proche de l'[[Équateur terrestre|équateur]], la variation de température est faible au cours de l'année (entre {{unité|6|°C}} et {{unité|19|°C}}, avec une moyenne annuelle de {{unité|14|°C}}).
+
+D'après la [[classification de Köppen]] : la température du mois le plus froid est comprise entre {{unité|0|°C}} et {{unité|18|°C}} (décembre et janvier avec respectivement {{unité|12.9|°C}}) et la température du mois le plus chaud est supérieure à {{unité|10|°C}} (avril et mai avec {{unité|13.8|°C}}), ce qui en fait un [[climat tempéré]]. Malgré deux saisons humides (mars à juin et septembre à décembre) il n'y a pas de saison sèche donc c'est un [[climat tempéré]] chaud sans saison sèche. L'été est tempéré car la température moyenne du mois le plus chaud est inférieure à {{unité|22|°C}} (avril et mai avec {{unité|13.8|°C}}), les températures moyennes des 4 mois les plus chauds sont supérieures à {{unité|10|°C}} (mars à juin avec respectivement {{unité|13.6|°C}}, {{unité|13.8|°C}}, {{unité|13.8|°C}} et {{unité|13.5|°C}}).
+
+Le climat de Bogota est classé comme Cfb<ref>{{Lien web|langue=fr|url=https://fr.climate-data.org/location/5115/|site=fr.climate-data.org|titre=CLIMAT: BOGOTA|consulté le=3 mars 2017}}</ref> selon la [[classification de Köppen]], soit un [[climat océanique]].
+
+Les pluies sont très fréquentes entre mars et mai, ainsi qu'en octobre et novembre. Ces deux saisons des pluies coïncident, à un mois près, avec les [[équinoxe]]s de printemps et d'automne car c'est à ce moment de l'année que le soleil passe à la verticale de l'équateur, augmentant les rayons solaires reçus par le sol, accroissant la chaleur et l'évaporation et favorisant ainsi la formation de tempêtes et d'orages.
+
+À l'inverse, les saisons les plus sèches de l'année se situent en janvier et février ainsi qu'en juillet et août. Durant une bonne partie de l'année, la ville de Bogota est dans la brume (220 jours par an)<ref name="Jours de pluies et jours de soleil">{{Lien web|langue=en|url=http://www.weatherbase.com/weather/weather.php3?s=22208&refer=&cityname=Bogota-Distrito-Especial-Colombia&units=us|site=weatherbase.com|titre=Weatherbase: Historical Weather for Bogota, Colombia}}</ref>.
+
+Les chutes de grêle sont un phénomène peu courant mais qui se produit cependant quelquefois par an - entre 1939 et 2008, on recense 231 chutes de grêle<ref name=GRANIZO>{{Lien web|url=http://www.bdigital.unal.edu.co/3776/|site=bdigital.unal.edu.co|titre=Recopilación histórica y análisis climatológico de eventos de granizada ocurridos sobre Bogotá y su relación con el cambio climático global|auteur institutionnel=Université nationale de Colombie|consulté le=18 janvier 2012}}</ref>. Ce phénomène a lieu durant la saison des pluies avec la formation rapide de [[cumulonimbus]] en fin d'après-midi. On observe alors des chutes brusques de température pouvant aller jusqu'à {{unité|20|°C}} en moins d'une heure<ref name=GRANIZO2>[[Université nationale de Colombie]] (2008) [http://www.ing.unal.edu.co/gireh/docs/documentos/SNHH2008RODRIGUEZ.pdf Análisis hidrometeorológico granizada sobre el campus de la Universidad Nacional-Bogotá]</ref>.
+
+Les extrêmes de températures enregistrés dans le district de la capitale vont de {{unité|-7|°C}} à {{unité|24.5|°C}}. Ces relevés proviennent de la station météo de l'aéroport de Guaymaral<ref name=clima>{{Lien web|url=http://institucional.ideam.gov.co/descargas?com=institucional&name=pubFile77&downloadname=D%3A%5Cpromedios%20met%5CPromedios%2071-00.xls|site=institucional.ideam.gov.co|titre=Promedios 71-00|auteur='''IDEAM'''|langue=es|consulté le=18 octobre 2011}}</ref>
+
+<!-- DÉBUT DU TABLEAU DES DONNÉES MÉTÉO -->
+{{Climat
+|titre=Relevé météorologique de Bogota - altitude : 2547 m - coordonnées de la station : latitude 04°43'N, longitude 74°09'W
+|source=[http://climate-charts.com/Locations/c/CO80222.php climate-charts.com] (températures minimales et maximales, précipitations), Hong Kong Observatory<ref>{{Lien web|url=http://www.weather.gov.hk/wxinfo/climat/world/eng/s_america/col_ve/bogota_e.htm|site=www.weather.gov.hk|titre=Climatological Information for Bogota, Colombia
+|auteur='''Hong Kong Observatory'''|langue=en|consulté le=3 mars 2017}}</ref> (jours de pluie)
+|diagramme=oui
+
+<!-- PARTIE A : TEMPÉRATURES MOYENNES, ENSOLEILLEMENT ET HUMIDITÉ -->
+<!--température minimale moyenne (en °C)-->
+|tmin-jan=5.4
+|tmin-fev=6.1
+|tmin-mar=7.4
+|tmin-avr=8.2
+|tmin-mai=8.4
+|tmin-jui=8.0
+|tmin-jul=7.5
+|tmin-aou=7.0
+|tmin-sep=6.9
+|tmin-oct=7.6
+|tmin-nov=7.7
+|tmin-dec=6.1
+|tmin-ann=7.19
+<!--température moyenne (en °C)-->
+|tmoy-jan=12.9
+|tmoy-fev=13.2
+|tmoy-mar=13.6
+|tmoy-avr=13.8
+|tmoy-mai=13.8
+|tmoy-jui=13.5
+|tmoy-jul=13.1
+|tmoy-aou=13.1
+|tmoy-sep=13.1
+|tmoy-oct=13.2
+|tmoy-nov=13.4
+|tmoy-dec=12.9
+|tmoy-ann=
+<!--température maximale moyenne (en °C)-->
+|tmax-jan=19.6
+|tmax-fev=19.7
+|tmax-mar=19.7
+|tmax-avr=19.3
+|tmax-mai=19.0
+|tmax-jui=18.3
+|tmax-jul=18.1
+|tmax-aou=18.3
+|tmax-sep=18.7
+|tmax-oct=18.8
+|tmax-nov=19.1
+|tmax-dec=19.2
+|tmax-ann=18.98
+
+<!--ensoleillement moyen (en h) -->
+|soleil-jan=
+|soleil-fev=
+|soleil-mar=
+|soleil-avr=
+|soleil-mai=
+|soleil-jui=
+|soleil-jul=
+|soleil-aou=
+|soleil-sep=
+|soleil-oct=
+|soleil-nov=
+|soleil-dec=
+|soleil-ann=
+<!--Humidité relative (%)-->
+|humidité-jan=
+|humidité-fev=
+|humidité-mar=
+|humidité-avr=
+|humidité-mai=
+|humidité-jui=
+|humidité-jul=
+|humidité-aou=
+|humidité-sep=
+|humidité-oct=
+|humidité-nov=
+|humidité-dec=
+|humidité-ann=
+
+<!-- PARTIE B : PRÉCIPITATIONS -->
+<!--précipitations mensuelles (en mm) -->
+|prec-jan=33.0
+|prec-fev=43.0
+|prec-mar=66.0
+|prec-avr=111.0
+|prec-mai=94.0
+|prec-jui=57.0
+|prec-jul=41.0
+|prec-aou=49.0
+|prec-sep=73.0
+|prec-oct=115.0
+|prec-nov=88.0
+|prec-dec=54.0
+|prec-ann=824.04
+<!-- dont hauteur de pluie (en mm) et hauteur de neige (en cm) -->
+|pluie-jan=            |neige-jan=
+|pluie-fev=            |neige-fev=
+|pluie-mar=            |neige-mar=
+|pluie-avr=            |neige-avr=
+|pluie-mai=            |neige-mai=
+|pluie-jui=            |neige-jui=
+|pluie-jul=            |neige-jul=
+|pluie-aou=            |neige-aou=
+|pluie-sep=            |neige-sep=
+|pluie-oct=            |neige-oct=
+|pluie-nov=            |neige-nov=
+|pluie-dec=            |neige-dec=
+|pluie-ann=            |neige-ann=
+
+<!-- nombre moyen de jours de pluie -->
+<!-- dont nombre de jours de pluie supérieure ou égale à 5 mm -->
+|pluie-jour-jan=8       |pluie-jour+5mm-jan=
+|pluie-jour-fev=11       |pluie-jour+5mm-fev=
+|pluie-jour-mar=14       |pluie-jour+5mm-mar=
+|pluie-jour-avr=18       |pluie-jour+5mm-avr=
+|pluie-jour-mai=20       |pluie-jour+5mm-mai=
+|pluie-jour-jui=19       |pluie-jour+5mm-jui=
+|pluie-jour-jul=17       |pluie-jour+5mm-jul=
+|pluie-jour-aou=16       |pluie-jour+5mm-aou=
+|pluie-jour-sep=17       |pluie-jour+5mm-sep=
+|pluie-jour-oct=20       |pluie-jour+5mm-oct=
+|pluie-jour-nov=18       |pluie-jour+5mm-nov=
+|pluie-jour-dec=12       |pluie-jour+5mm-dec=
+|pluie-jour-ann=190       |pluie-jour+5mm-ann=
+
+<!-- PARTIE C : PHÉNOMÈNES -->
+<!-- nombre moyen de jours d'orage -->
+|orage-jour-jan=
+|orage-jour-fev=
+|orage-jour-mar=
+|orage-jour-avr=
+|orage-jour-mai=
+|orage-jour-jui=
+|orage-jour-jul=
+|orage-jour-aou=
+|orage-jour-sep=
+|orage-jour-oct=
+|orage-jour-nov=
+|orage-jour-dec=
+|orage-jour-ann=
+<!-- nombre moyen de jours de grêle -->
+|grêle-jour-jan=
+|grêle-jour-fev=
+|grêle-jour-mar=
+|grêle-jour-avr=
+|grêle-jour-mai=
+|grêle-jour-jui=
+|grêle-jour-jul=
+|grêle-jour-aou=
+|grêle-jour-sep=
+|grêle-jour-oct=
+|grêle-jour-nov=
+|grêle-jour-dec=
+|grêle-jour-ann=
+<!-- nombre moyen de jours de neige -->
+|neige-jour-jan=
+|neige-jour-fev=
+|neige-jour-mar=
+|neige-jour-avr=
+|neige-jour-mai=
+|neige-jour-jui=
+|neige-jour-jul=
+|neige-jour-aou=
+|neige-jour-sep=
+|neige-jour-oct=
+|neige-jour-nov=
+|neige-jour-dec=
+|neige-jour-ann=
+<!-- nombre moyen de jours de gel -->
+|gel-jour-jan=
+|gel-jour-fev=
+|gel-jour-mar=
+|gel-jour-avr=
+|gel-jour-mai=
+|gel-jour-jui=
+|gel-jour-jul=
+|gel-jour-aou=
+|gel-jour-sep=
+|gel-jour-oct=
+|gel-jour-nov=
+|gel-jour-dec=
+|gel-jour-ann=
+<!-- nombre moyen de jours de brouillard -->
+|brouillard-jour-jan=
+|brouillard-jour-fev=
+|brouillard-jour-mar=
+|brouillard-jour-avr=
+|brouillard-jour-mai=
+|brouillard-jour-jui=
+|brouillard-jour-jul=
+|brouillard-jour-aou=
+|brouillard-jour-sep=
+|brouillard-jour-oct=
+|brouillard-jour-nov=
+|brouillard-jour-dec=
+|brouillard-jour-ann=
+
+<!-- PARTIE D : RECORDS -->
+<!-- record de froid en °C et date du record -->
+|tmin-record-jan=      |tmin-record-date-jan=
+|tmin-record-fev=      |tmin-record-date-fev=
+|tmin-record-mar=      |tmin-record-date-mar=
+|tmin-record-avr=      |tmin-record-date-avr=
+|tmin-record-mai=      |tmin-record-date-mai=
+|tmin-record-jui=      |tmin-record-date-jui=
+|tmin-record-jul=      |tmin-record-date-jul=
+|tmin-record-aou=      |tmin-record-date-aou=
+|tmin-record-sep=      |tmin-record-date-sep=
+|tmin-record-oct=      |tmin-record-date-oct=
+|tmin-record-nov=      |tmin-record-date-nov=
+|tmin-record-dec=      |tmin-record-date-dec=
+|tmin-record-ann=      |tmin-record-date-ann=
+<!-- record de chaleur en °C et date du record -->
+|tmax-record-jan=      |tmax-record-date-jan=
+|tmax-record-fev=      |tmax-record-date-fev=
+|tmax-record-mar=      |tmax-record-date-mar=
+|tmax-record-avr=      |tmax-record-date-avr=
+|tmax-record-mai=      |tmax-record-date-mai=
+|tmax-record-jui=      |tmax-record-date-jui=
+|tmax-record-jul=      |tmax-record-date-jul=
+|tmax-record-aou=      |tmax-record-date-aou=
+|tmax-record-sep=      |tmax-record-date-sep=
+|tmax-record-oct=      |tmax-record-date-oct=
+|tmax-record-nov=      |tmax-record-date-nov=
+|tmax-record-dec=      |tmax-record-date-dec=
+|tmax-record-ann=      |tmax-record-date-ann=
+
+<!-- record de pluie en 24 h (mm) et date du record -->
+|pluie-record-jan=     |pluie-record-date-jan=
+|pluie-record-fev=     |pluie-record-date-fev=
+|pluie-record-mar=     |pluie-record-date-mar=
+|pluie-record-avr=     |pluie-record-date-avr=
+|pluie-record-mai=     |pluie-record-date-mai=
+|pluie-record-jui=     |pluie-record-date-jui=
+|pluie-record-jul=     |pluie-record-date-jul=
+|pluie-record-aou=     |pluie-record-date-aou=
+|pluie-record-sep=     |pluie-record-date-sep=
+|pluie-record-oct=     |pluie-record-date-oct=
+|pluie-record-nov=     |pluie-record-date-nov=
+|pluie-record-dec=     |pluie-record-date-dec=
+|pluie-record-ann=     |pluie-record-date-ann=
+
+<!-- record de neige en 24 h (mm) et date du record -->
+|neige-record-jan=     |neige-record-date-jan=
+|neige-record-fev=     |neige-record-date-fev=
+|neige-record-mar=     |neige-record-date-mar=
+|neige-record-avr=     |neige-record-date-avr=
+|neige-record-mai=     |neige-record-date-mai=
+|neige-record-jui=     |neige-record-date-jui=
+|neige-record-jul=     |neige-record-date-jul=
+|neige-record-aou=     |neige-record-date-aou=
+|neige-record-sep=     |neige-record-date-sep=
+|neige-record-oct=     |neige-record-date-oct=
+|neige-record-nov=     |neige-record-date-nov=
+|neige-record-dec=     |neige-record-date-dec=
+|neige-record-ann=     |neige-record-date-ann=
+
+<!-- record de vent en vitesse instantanée (km/h) et date du record -->
+|vent-record-jan=      |vent-record-date-jan=
+|vent-record-fev=      |vent-record-date-fev=
+|vent-record-mar=      |vent-record-date-mar=
+|vent-record-avr=      |vent-record-date-avr=
+|vent-record-mai=      |vent-record-date-mai=
+|vent-record-jui=      |vent-record-date-jui=
+|vent-record-jul=      |vent-record-date-jul=
+|vent-record-aou=      |vent-record-date-aou=
+|vent-record-sep=      |vent-record-date-sep=
+|vent-record-oct=      |vent-record-date-oct=
+|vent-record-nov=      |vent-record-date-nov=
+|vent-record-dec=      |vent-record-date-dec=
+|vent-record-ann=      |vent-record-date-ann=
+
+<!-- PARTIE E : HISTORIQUES -->
+<!-- historique de la pluviométrie -->
+|année1=                   |année2=                   |année3=                   |année4= 
+|pluie-an1-jan=            |pluie-an2-jan=            |pluie-an3-jan=            |pluie-an4-jan=
+|pluie-an1-fev=            |pluie-an2-fev=            |pluie-an3-fev=            |pluie-an4-fev=
+|pluie-an1-mar=            |pluie-an2-mar=            |pluie-an3-mar=            |pluie-an4-mar=
+|pluie-an1-avr=            |pluie-an2-avr=            |pluie-an3-avr=            |pluie-an4-avr=
+|pluie-an1-mai=            |pluie-an2-mai=            |pluie-an3-mai=            |pluie-an4-mai=
+|pluie-an1-jui=            |pluie-an2-jui=            |pluie-an3-jui=            |pluie-an4-jui=
+|pluie-an1-jul=            |pluie-an2-jul=            |pluie-an3-jul=            |pluie-an4-jul=
+|pluie-an1-aou=            |pluie-an2-aou=            |pluie-an3-aou=            |pluie-an4-aou=
+|pluie-an1-sep=            |pluie-an2-sep=            |pluie-an3-sep=            |pluie-an4-sep=
+|pluie-an1-oct=            |pluie-an2-oct=            |pluie-an3-oct=            |pluie-an4-oct=
+|pluie-an1-nov=            |pluie-an2-nov=            |pluie-an3-nov=            |pluie-an4-nov=
+|pluie-an1-dec=            |pluie-an2-dec=            |pluie-an3-dec=            |pluie-an4-dec=
+|pluie-an1-ann=            |pluie-an2-ann=            |pluie-an3-ann=            |pluie-an4-ann=
+}}
+<!-- FIN DE TABLEAU DE DONNÉES MÉTÉO -->
+== Environnement ==
+Les [[Zone humide|zones humides]] de la région de Bogota ont pour la plupart disparu. Elles couvraient près de {{unité|50000|hectares}} dans les années 1960, contre seulement 727 en 2019, soit un taux de disparition de 98 %<ref>{{Lien web|langue=es-CO|titre=Humedales de Colombia continúan en 'cuidados intensivos'|url=https://sostenibilidad.semana.com/actualidad/articulo/humedales-de-colombia-continuan-en-cuidados-intensivos/42827|site=Semana}}</ref>.
+
+== Gouvernement ==
+
+
+Bogota, capitale de la [[Colombie|République de Colombie]], abrite la [[Cour suprême de justice (Colombie)|Cour suprême de justice]] et le centre de l'administration exécutive ainsi que la résidence du président de la République ([[Palais Nariño]])<ref>{{Lien web|langue= es |année= 2007 |url= http://www.bogota.gov.co/portel/libreria/php/frame_detalle.php?h_id=21539&patron=01.11 |titre= Bogotá se consolida como centro para la inversión extranjera |éditeur=Alcaldía Mayor de Bogotá |consulté le=29 décembre 2008}}</ref>. Ces bâtiments, ainsi que le bureau du maire principal, le [[palais Liévano]] (''{{lang|es|palacio Liévano}}''), sont situés à quelques mètres les uns des autres sur la [[place Bolívar]] (''{{Lang-es|plaza de Bolívar}}''). Cette place se trouve dans le centre historique de la ville, [[La Candelaria (Bogota)|La Candelaria]], qui présente une architecture de style colonial et de style baroque.
+
+Le maire de Bogota et le conseil municipal - tous deux élus par vote populaire - sont responsables de l'administration municipale. En octobre 2019, [[Claudia López]] est élue maire. Son mandat s'étend du {{1er}} janvier 2020 au 31 décembre 2023.
+
+Parmi les plus récents prédécesseurs de [[Claudia López]], citons :
+* [[Antanas Mockus|Antanas Mockus Šivickas]] : {{1er|mandat}} de 1995 à 1997 ;
+* {{Lien|fr=Paul Bromberg|lang=es}} : 1997 - 1998 ;
+* [[Enrique Peñalosa|Enrique Peñalosa Londoño]] : 1998 à 2001 ;
+* [[Antanas Mockus|Antanas Mockus Šivickas]] : {{2e|mandat}} de 2001 à 2004 ;
+* {{Lien|fr=Luis Eduardo Garzón|lang=es}} : 2004 à 2007 ;
+* [[Samuel Moreno Rojas]] : 2008 à 2011 ;
+* Maria Fernanda Campo : intérim du 3 mai au 8 juin 2011 ;
+* Clara López Obregón : en fonction du 8 juin au 31 décembre 2011 ;
+* [[Gustavo Petro|Gustavo Petro Urrego]] : en fonction du {{1er}} janvier 2012 au 31 décembre 2015 (sauf du 19 mars au 23 avril 2014).
+* [[Enrique Peñalosa|Enrique Peñalosa Londoño]] : {{1er}} janvier 2016 au 31 décembre 2019 ;
+  
+La ville est divisée en vingt districts : [[Usaquén]], [[Chapinero]], [[Santa Fe (Bogota)|Santa Fe]], [[San Cristóbal (Bogota)|San Cristóbal]], [[Usme]], [[Tunjuelito]], [[Bosa (Bogota)|Bosa]], [[Kennedy (Bogota)|Kennedy]], [[Fontibón]], [[Engativá]], [[Suba (Bogota)|Suba]], [[Barrios Unidos (Colombie)|Barrios Unidos]], [[Teusaquillo]], [[Los Mártires]], [[Antonio Nariño (Bogota)|Antonio Nariño]], [[Puente Aranda]], [[La Candelaria (Bogota)|La Candelaria]], [[Rafael Uribe Uribe (Bogota)|Rafael Uribe Uribe]], [[Ciudad Bolívar (Bogota)|Ciudad Bolívar]] et [[Sumapaz (Bogota)|Sumapaz]].
+
+Chacun de ces vingt districts est régi par un conseil d'administration - élu par vote populaire - composé d'au moins sept membres. Le maire de Bogota désigne les maires des localités parmi les candidats proposés par le conseil d'administration.
+
+<gallery perrow="4">
+File:Nariño BOGOTÁ - COLOMBIA.jpg|[[Palais Nariño]], la résidence présidentielle.
+File:PalacioDeJusticia2004-7-9Bogota.jpg|Le palais de justice.
+Fichier:Edificio Lievano.JPG|Le palais Lievano.
+</gallery>
+
+== Politique et administration du District ==
+
+=== Création du District ===
+[[Fichier:RioBogotaBriceño.JPG|thumb|Le ''[[río Bogotá]]'' à la hauteur de [[Tocancipá]].]]
+Le [[District fédéral de Bogota]] ([[espagnol]] : ''{{lang|es|Distrito Federal de Bogotá}}''), créé en [[1861]] par le général [[Tomás Cipriano de Mosquera]] lors de son deuxième mandat de président de la Colombie, fut la première entité administrative de la capitale et le siège du gouvernement fédéral des [[États-Unis de Colombie]]<ref name="Decreto">{{Lien web |langue=es |url=https://books.google.com.co/books?id=Ek8FT3l-IQYC&hl=es&source=gbs_navlinks_s |titre=La anexión de los 6 municipios vecinos a Bogotá en 1954 |auteur=Marco E. Cortés Díaz |éditeur=[[Université nationale de Colombie]] |page=56 |consulté le=9 août 2011}}</ref>{{,}}<ref name="AdministracionesAnteriores">{{es}} [http://www1.cundinamarca.gov.co/gobernacion/NuestraGesti%C3%B3n/Administraci%C3%B3nactual/Administracionesanteriores/tabid/175/language/es-ES/Default.aspx Administraciones Anteriores], www1.cundinamarca.gov.co</ref>. Le district comprenait les zones comprises entre les ''{{lang|es|ríos}} [[río Arzobispo|Arzobispo]]'' au nord, ''[[río Fucha|Fucha]]'' au sud, ''[[río Bogotá|Bogotá]]'' à l'ouest et les [[cerros Orientales]] à l'est<ref name="Decreto"/>. Cependant, il fut supprimé le {{date|23|juillet|1863}} et son territoire incorporé à l'[[État souverain de Cundinamarca]]<ref>Atlas Geográfico e Histórico de la República de Colombia; Agustín Codazzi, Manuel María Paz y Felipe Pérez, París, 1890.</ref>{{,}}<ref name="AdministracionesAnteriores"/>.
+
+En [[1905]] fut créé le [[district capital de Bogota]] par le partage du département de [[Cundinamarca]] en trois : le ''{{lang|es|Distrito Capital}}'' et les départements de Cundinamarca (capitale : [[Facatativá]]) et de Quesada (capitale : [[Zipaquirá]])<ref name="AdministracionesAnteriores"/>. Les trois entités furent supprimées par la loi 65 du {{date|14|décembre|1909}}, qui prit effet le {{date|1|mai|1910}} et le département de Cundinamarca retrouva alors le territoire qui était le sien avant 1905<ref name="AdministracionesAnteriores"/>.
+
+Par décret législatif du {{date|17|décembre|1954}}, le général [[Gustavo Rojas Pinilla]], président de la Colombie de [[1953]] à [[1957]], créa le [[District spécial de Bogota]] ([[espagnol]] : ''Distrito Especial de Bogotá'') et les municipalités de [[Bosa (Bogota)|Bosa]], [[Engativá]], [[Fontibón]], [[Suba (Bogota)|Suba]], [[Usme]] et [[Usaquén]] furent annexées. Le territoire de [[Sumapaz (Bogota)|Sumapaz]], annexé en [[1955]], donna au district son extension finale.
+
+[[Chapinero]] devint le premier arrondissement de la ville en 1960, suivi par [[Puente Aranda]] en 1964 et [[Kennedy (Bogota)|Ciudad Kennedy]] en 1967. En 1972, la ville était alors subdivisée en 16 quartiers (''{{lang|es|barrios}}''), auxquels s'adjoignirent de nombreux autres quartiers jusqu'en 1991 lorsque le ''{{lang|es|Distrito Capital}}'' fut divisé finalement en vingt districts constitués à leur tour de quartiers.
+
+Bogota comprend six domaines administratifs de taxations, auxquels les habitants font souvent référence en tant que classes socio-économiques (strates) : ''estrato'' 1 (taxation des services : eau, électricité, etc., strate la plus avantageuse) à 6 (taxation la plus forte).
+
+=== Administration de Bogota D.C. ===
+[[Image:Mapa de Cundinamarca (subregiones).svg|thumb|Provinces et municipalités du département de [[Cundinamarca]]. En brun, ''{{lang|es|Bogotá Distrito Capital}}'']]
+
+L'aire de Bogota comprend une zone urbaine et une zone rurale. ''{{lang|es|Bogotá Distrito Capital}}'' est une division du département de [[Cundinamarca]]. Toutefois il s'agit d'une division de premier niveau de la Colombie équivalant à un [[Départements de la Colombie|département]].
+
+Le conseil districtal est le responsable du contrôle politique du ''{{lang|es|Distrito Capital}}''. Il est composé de quarante-cinq ''{{lang|es|consejales}}'', les représentants des vingt districts, élus pour une période de trois ans<ref name="Constitution1991T11C4">{{es}} [https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4125 Constitución política de 1991 : Título XI. De la organización territorial — Capítulo 4. Del régimen especial]</ref>.
+
+Le secrétariat districtal a la charge des services de la Santé, de la Mobilité et de l'Éducation.
+
+==== Mairie de Bogota ====
+Le [[maire]] de Bogota (''{{lang-es|Alcalde Mayor}}'') est le chef de gouvernement et représentant légal, judiciaire et extrajudiciaire du ''{{lang|es|Distrito Capital}}''. C'est, en importance, le deuxième personnage officiel après le président de la République.
+
+À partir de 1988<ref>[http://www.bogota-dc.com/varios/1900a.htm Maires de Bogota] (en espagnol)</ref>, il est démocratiquement élu pour une période de deux ans, puis après l'adoption de la [[Constitution colombienne de 1991|Constitution de 1991]], pour quatre ans<ref name="Constitution1991T11C4"/>. Il est aussi le responsable de la nomination du maire de chaque district.
+
+La maire de Bogota est [[Claudia López]] depuis le {{date-|1 janvier 2020}}<ref>{{Article |auteur1=Marie Delcas |titre=Colombie : Claudia López, la première femme élue maire de Bogota |périodique=''[[Le Monde]]'' |date=28 octobre 2019|lire en ligne=https://www.lemonde.fr/international/article/2019/10/28/colombie-claudia-lopez-la-premiere-femme-elue-maire-de-bogota_6017135_3210.html |consulté le=16 janvier 2020}}.</ref>.
+
+== Démographie ==
+=== Population ===
+[[Fichier:Ciclovia em Bogotá.jpg|thumb|upright|left|La population de Bogota sur piste cyclable un dimanche ([[Carrera Séptima]] entre le Congrès et le Palais présidentiel).]]
+
+En 2023, la population est de 11&nbsp;508&nbsp;000 habitants<ref>{{Lien web |titre=Bogota, Colombia Metro Area Population 1950-2023 |url=https://www.macrotrends.net/cities/20837/bogota/population |site=www.macrotrends.net |consulté le=2023-05-30}}</ref>. 
+
+La ville a le plus faible taux d'[[analphabétisme]] du pays avec seulement 3,4 % parmi la population âgée de plus de 5 ans.
+
+Historiquement, la population de Bogota n'a pas connu une croissance importante avant le {{s-|XX}}, lorsqu'elle avait environ {{unité|100000|habitants}}. Mais les années 1940, 1960 et 1970 ont vu les hausses les plus importantes de la population. Ces hausses étaient disproportionnées par rapport aux ressources disponibles de la ville, principalement celles ayant trait aux transports, aux services publics et aux possibilités d'emploi<ref>[[:es:Demografía de Bogotá|Article en espagnol]]</ref>.
+
+{{Démographie
+| titre = Évolution de la population
+| charte = commune
+| colonnes = 9
+| largeur-tableau = 80%
+| notes = 
+| sources = DANE
+| 1538 = 100
+| 1580 = 1100
+| 1666 = 3000
+| 1775 = 16233
+| 1793 = 17725
+| 1801 = 21394
+| 1832 = 28341
+| 1843 = 40086
+| 1870 = 40883
+| 1881 = 84123
+| 1884 = 95761
+| 1905 = 100000
+| 1912 = 121257
+| 1918 = 143994
+| 1928 = 235421
+| 1938 = 330312
+| 1951 = 715250
+| 1964 = 1697311
+| 1973 = 2868123
+| 1979 = 3000000<ref>{{article|auteur1=Karl Günter Simon|titre=Colombie : Eldorado des mille solitudes|périodique=[[Geo (magazine)|Geo]]|numéro=5|mois=juillet|année=1979|pages=52-80|lire en ligne= }}.</ref>
+| 1985 = 4273461
+| 1993 = 5484224
+| 1996 = 5859861
+| 2000 = 6422198
+| 2005 = 6840116
+| marge-interlignes = 6px
+| taille-police = 90%
+| hauteur-lignes = 120%
+| hyperliens-années = on
+| années-fond = #F5F5F5
+| population-fond = #F3FFF3
+}}
+
+=== Sécurité ===
+[[Fichier:Bogotá Museo de la Policía.JPG|thumb|upright|Musée de la Police à Bogota]]
+
+Selon un rapport officiel de la {{Citation|surveillance de district}}, la capitale est passée de 89,4 morts violentes pour {{unité|100000|personnes}} en 1996 à 37,9 en 2005, ce qui représente une réduction de 57,6 % en tenant compte du fait que durant la même période la population a augmenté de plus de 25 %.
+
+62,8 % de ces morts violentes ont été causées par des homicides et 20,5 % par des accidents de la circulation. 85,1 % des victimes sont de sexe masculin et 14,9 % de sexe féminin.
+
+En février 2012, les autorités de Bogota décident d'interdire le port d'[[arme à feu]] dans les espaces publics et les véhicules, à l'exception des membres des forces armées et du personnel de sécurité. Début mai 2012, le maire de Bogota, [[Gustavo Petro|Gustavo Petro Urrego]], annonce que la mesure a permis une diminution de 18 % des meurtres avec armes, dont une baisse de 24 % des meurtres par arme à feu. Cette mesure est renouvelée pour trois mois<ref>{{en}}[http://colombiareports.com/colombia-news/news/23875-gun-ban-working-bogota-mayor.html colombiareports.com: Bogota gun ban results in homicide drop]</ref>.
+
+Le Ministère des Affaires étrangères français, en 2013, indique qu'une vigilance normale doit être observée dans la zone de la capitale de la Colombie. La plupart des agressions contre des Français, à Bogota, sont commises dans des quartiers aisés, tels que le ''{{lang|es|Parque de la 93, la Zona T}}'', etc<ref>[http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/colombie-12228/ France Diplomatie. Ministère des Affaires étrangères, 2013]. Consulté le 25 mai 2013.</ref>.
+
+En 2018-2019, l'introduction sur les axes les plus dangereux d'une limitation de vitesse à {{unité|50|km/h}} a permis une réduction de la mortalité routière de 21 %<ref>https://www.itf-oecd.org/sites/default/files/docs/best-practice-urban-road-safety.pdf</ref>.
+
+{{clr}}
+
+== Économie ==
+
+[[Fichier:Centro empresarial St bárbara Bogotá.JPG|thumb|left|upright|Quartier d'affaires à Bogotá]]
+
+[[Fichier:Torre Colpatria 2.jpg|thumb|upright|[[Tour Colpatria]], le quatrième plus haut bâtiment de l'[[Amérique du Sud]].]]
+
+[[Fichier:Bogotá Business Center.jpg|thumb|upright|Vue de la {{lang|es|''[[Carrera Séptima]]''}} depuis la [[Tour Colpatria]].]]
+
+[[Fichier:Rio Magdalena map.png|thumb|left|upright|Le [[río Magdalena]].]]
+
+La convergence des capitaux vers Bogota, ville comptant une importante population, en fait le principal centre économique et commercial du pays. Bogota a affaire à des investisseurs de toute la Colombie ainsi que de plusieurs autres pays. En [[2008]], la ville fut classée quatrième centre financier parmi les plus influents de l'Amérique latine<ref>{{Lien web|langue=es|url=http://www.emol.com/noticias/internacional/detalle/detallenoticias.asp?idnoticia=307895|titre=Londres encabeza lista de principales centros financieros|année=2008|éditeur=El Mercurio Online 10.06.2008|consulté le=17 novembre 2008}}</ref>. À moyen terme, Bogota pourrait devenir l'une des métropoles d'affaires les plus importantes au monde.
+
+Dans la période 2003 - 2006, le [[Produit intérieur brut|PIB]] (produit intérieur brut) du commerce de Bogota a augmenté de 10,3 % par an, ce qui représente 25,3 % du PIB national du commerce, les actifs provenant d'investissements d'autres villes de la Colombie ainsi que de nombreuses multinationales. Malgré un PIB plus élevé que celui de l'[[Uruguay]], en mars 2013 le taux de chômage a atteint 10,2 %<ref>{{es}}[http://www.dane.gov.co/daneweb_V09/#twoj_fragment1-4. DANE]. Consulté le 7 mai 2013.</ref>.
+
+Le [[coût de la vie]] y est inférieur à la moyenne de celui des quarante villes d'Amérique latine les mieux classées à ce sujet<ref>{{Lien web|langue=es|url=http://www.bogota.gov.co/portel/libreria/doc/25deoct2.doc|titre=Bogotá busca ser una plataforma exportadora de empresas asiáticas|consulté le=23 juin 2009|auteur=Edgar Aldana Rosillo|site=bogota.gov.co}}{{doc}}</ref>. Bogota DC occupe le sixième rang parmi cinquante villes d'Amérique latine grâce à ses normes de qualité de vie, son potentiel d'affaires élevé et les excellentes conditions qu'elle offre pour le développement professionnel, selon le barème fixé par l'Amérique Economia Intelligence<ref>{{es}}[http://www.samuelalcalde.com/index.php?option=com_content&view=article&id=8208%3Abogota-una-de-las-mejores-ciudades-de-america-latina-para-hacer-negocios&Itemid=82. http://www.samuelalcade.com/]</ref>.
+
+Au niveau national, l'importation de [[bien d'équipement|biens d'équipement]], stimulée par le gouvernement, a spécialement profité à Bogota dont la participation s'élevait à 24,4 % de la production nationale totale en 2003<ref name="proexport">{{Lien web|langue=es|url=http://www.proexport.com.co/VBeContent/NewsDetail.asp?ID=5697&IDCompany=16|titre=Comercio Internacional Bogotá-Cundinamarca|consulté le=23 juin 2009|année=2005|éditeur=Proexport Colombia}}</ref>. Cela est dû, en partie, à sa situation géographique qui fait de la ville un point stratégique du point de vue [[logistique]], car le transport de marchandises vers d'autres parties du pays est relativement rapide. Cette situation géographique facilite également la fourniture de matières premières pour l'industrie de la ville grâce à sa proximité avec les régions agricoles comme les [[Llanos]] orientales. Pour toutes ces raisons, plusieurs sociétés multinationales ont établi à Bogota leurs opérations régionales au cours des dernières décennies.
+
+Le fleuve [[Río Magdalena|Magdalena]], dont le profond fossé sépare les cordillères Centrale et Orientale, permet une navigation facilitant les échanges commerciaux et industriels ; les services, y compris les télécommunications et le commerce, gagnent ainsi des parts de marché<ref name="Dinero">{{Lien web|langue=es|url=http://www.dinero.com/wf_ImprimirArticulo.aspx?IdRef=11557&IdTab=1|titre=Bogotá/Cundinamarca|année=2007|site=Dinero.com|consulté le=23 juin 2009}}</ref>.
+
+En 2005, la fourniture des [[bien de consommation|biens de consommation]] créés par la production industrielle, suivie par celle des [[bien intermédiaire|biens intermédiaires]], est capitale<ref Name="SDP" />. Parmi les {{nombre|248000|entreprises}} décomptées à Bogota, 78 % d'entre elles sont liées aux activités de services, ce qui représente 76 % des emplois et 79 % du PIB<ref>{{Lien web|langue=es|url=http://camara.ccb.org.co/documentos/3282_bogotainnovadrausseglio.PPT|site=camara.ccb.org.co|titre=La Cámara de Comercio de Bogotá apoya la innovación en las empresas de Servicios|consulté le=22 juin 2009|auteur=Cámara de Comercio de Bogotá}}{{ppt}}</ref>. Les districts où se trouve le plus grand nombre d'établissements industriels sont, dans l'ordre ci-après : [[Puente Aranda]], [[Fontibón]], [[Kennedy (Bogota)|Kennedy]], [[Los Mártires]], [[Engativá]] et [[Barrios Unidos (Colombie)|Barrios Unidos]]<ref name="SDP">{{Lien web|langue=es|url=http://www.dapd.gov.co/www/resources/No_26_industria_localidades_bogota.pdf|site=dapd.gov.co|titre=La industria en las localidades de Bogotá|consulté le=23 juin 2009|auteur=Secretaría Distrital de Planeación|date=16 novembre 2007}}{{pdf}}</ref>. Les principaux secteurs industriels sont [[Industrie agroalimentaire|l'industrie alimentaire]], la [[chimie]], les [[industrie pharmaceutique|produits pharmaceutiques]], le [[textile]], l'[[Édition (activité)|édition]] et l'[[Mécanique (technique)|usinage des métaux]]. Toujours en 2005, le district ayant la plus forte productivité était [[Tunjuelito]], suivi de [[Chapinero]] et [[Teusaquillo]]<ref name="SDP" />.
+
+Bogota est la principale destination touristique<ref name="MC">{{Lien web|langue=es|url=http://www.mincomercio.gov.co/eContent/newsdetail.asp?id=6057&idcompany=1|site=mincomercio.gov.co|titre=El principal destino sigue siendo Bogotá|consulté le=23 juin 2009|auteur institutionnel=Ministerio de Comercio, Industria y Turismo}}</ref>, ce qui est particulièrement important compte tenu de la croissance appréciable de ce secteur, à l'échelle nationale, au cours des dernières années<ref name="MC" />. L'industrie de la construction s'est également développée, contribuant directement à réactiver l'activité économique de la capitale<ref>{{Lien web |langue=es |auteur=Martha Pinilla |titre=En la capital habrá más de 300 mil nuevos empleos |url=http://www.elperiodico.com.co/seccion.php?codigo=21428&seccion=3&fecha=07-05-2009 |éditeur=El Periódico |consulté le=23 juin 2009}}</ref>.
+
+En 2003, les États-Unis, suivis de l'[[Union européenne]]<ref name="proexport" />, étaient les principaux partenaires commerciaux internationaux de Bogota. La ville exporte principalement des produits agroalimentaires (30 %), des produits chimiques (10 %) et des textiles (7 %). Elle importe du matériel de transport (17 %), des constructions mécaniques (17 %) et des constructions électriques (14 %)<ref name="proexport" />. En outre, Bogota comporte plusieurs quartiers commerçants et un nombre croissant de commerces répartis sur son territoire. Les districts de [[Suba (Bogota)|Suba]] et de [[Fontibón]] comptent également de nombreux commerces.
+
+{{clr}}
+
+== Tourisme ==
+<gallery>
+Bogotá de noche.jpg|Vue de nuit de Bogota depuis le [[cerro de Monserrate]]
+Iglesia Cerro Monserrate.JPG|Le Sanctuaire de [[Cerro de Monserrate|Monserrate]]
+Salitre 2007 (3).jpg|Le ''{{lang|es|Salitre Mágico}}'' (parc d'attractions)
+La Casa de la Moneda, La Candelaria, Bogota.jpg|[[Maison de la monnaie (Colombie)|Maison de la Monnaie]] (''{{lang|es|Casa de la Moneda de Colombia}}'')
+BOG La Candelaria alta.JPG|[[La Candelaria (Bogota)|La Candelaria]] (le quartier historique)
+TeatroColonBogota.jpg|[[Théâtre Cristóbal Colón]]
+Domo de Maloka.jpg|[[Maloka]]
+Paramo de sumapaz Bogota D. C.jpg|Le ''[[paramo de Sumapaz]]''  
+Fresque Bogota.jpg|bordure|gauche|Une fresque à Bogota  
+Entrada de la Quinta de Bolívar.jpg|La ''[[Quinta de Bolívar]]'' à Bogota
+</gallery>
+
+
+
+Le tourisme a été déconseillé pendant plusieurs années en [[Colombie]] à cause du [[conflit armé colombien|conflit armé interne]]. À partir des années 2000, grâce à des campagnes intensives de publicité ainsi qu'aux améliorations des infrastructures et de la sécurité, cette activité s'est développée à Bogota. En 2007, l'''{{lang|es|Instituto de Turismo Distrital}}'' (l'Institut de Tourisme du District) a été créé avec l'objectif de faire de Bogota une destination touristique de premier plan.
+
+Les amoureux de la culture et des arts fréquentent les hôtels du centre historique de [[La Candelaria (Bogota)|La Candelaria]] et de ses environs. Cette zone comporte aussi la plus grande partie des auberges de jeunesse de la ville. Les hôtels situés près de Ciudad Salitre reçoivent surtout des visiteurs faisant de brefs séjours à Bogota ou ayant besoin de se trouver à proximité de [[Aéroport international El Dorado|l'aéroport international El Dorado]].
+
+Parmi les lieux touristiques et les monuments importants de Bogota, se trouvent le [[jardin botanique José Celestino Mutis]], la ''{{lang|es|Quinta de Bolívar}}'' ([[français]] : villa de Bolívar), l'[[Observatoire astronomique national de Colombie]], le [[planétarium de Bogota]], [[Maloka]], le point d'observation de la [[Tour Colpatria]], ainsi que celui de [[La Calera]], et La Candelaria. On peut également visiter [[Usaquén]] et ses vestiges coloniaux, où le [[brunch]] et le [[marché aux puces]] le dimanche étaient des activités traditionnelles. La ville possède de nombreux espaces verts et parcs d'attractions comme ''{{lang|es|Salitre Mágico Mundo Aventura}}.'' À l'extérieur de Bogota, à Zipaquirá, on peut voir la [[Cathédrale de sel de Zipaquirá|Cathédrale de sel]], une église construite à l'intérieur des mines de sel. Tout près de La Candelaria se trouve la colline de [[Cerro de Monserrate|Monserrate]].
+
+Dans plusieurs quartiers de la ville, comme la zone G, la zone T et La Macarena, sont situés des restaurants connus pour leurs menus gastronomiques.
+
+Depuis les années 2000, l'arrivée d'importantes chaînes d'hôtels, telles que : [[Marriott International|Marriott, JW Marriott]], [[Radisson Hotels & Resorts|{{lang|en|texte=Radisson Hotels and Resorts}}]], [[Hilton Hotels & Resorts|Hilton]], [[NH Hotel Group]], entre autres, apporte à Bogota un ensemble de services hôteliers réputés.
+
+=== Les centres commerciaux ===
+
+[[Fichier:GranEstacion.jpg|thumb|left|Centre commercial ''{{lang|es|Gran Estacion}}'' dans l'ouest de Bogota]]
+[[Fichier:Calima centro comercial en Bogotá.JPG|thumb|Centre commercial Calima]]
+L'économie de Bogota s'est considérablement développée en raison de la construction de nouveaux [[Centre commercial|centres commerciaux]] au cours de ces dernières années. En décembre 2011, la construction de 160 centres commerciaux a été prévue en complément des 100 centres existants<ref>http://links.org.au/node/2673</ref>.
+
+Quelques centres commerciaux :
+* ''{{lang|es|Centro Andino}}''
+* ''{{lang|es|Centro Maire}}'' (le plus grand centre commercial du pays)
+* ''{{lang|es|Centro Santafé}}'' (le deuxième centre commercial du pays).
+
+{{clr}}
+
+== Organisation socio-économique ==
+[[Fichier:Casa en la calle 69 con cra 7 Bogotá.JPG|thumb|left|Une maison dans le district de [[Chapinero]], proche du centre ville de Bogota. La zone où est située la maison, selon l'organisation économique de Bogota, est moyennement élevée (strate 4).]]
+
+[[Fichier:Casa Teusaquillo.JPG|thumb|Maisons dans le district de [[Teusaquillo]].]]
+
+Les factures d'énergie et celles des services d'eau et d'égout sont établies en fonction du lieu de résidence du propriétaire et de ses revenus<ref>{{Lien web|langue=es|année=2008|url=http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=33633|titre= Proyecto de Acuerdo 651 de 2008 |éditeur=Alcadia de Bogota|consulté le=5 février 2013}}{{pdf}}</ref>, afin que les personnes les plus fortunées subventionnent les factures énergétiques et celles des services d'eau et d'égout des plus pauvres.
+
+Bogota est divisée en six [[Strates socio-économiques en Colombie|strates socio-économiques]] :
+* Strate 1 (très basse)
+* Strate 2 (basse)
+* Strate 3 (moyennement basse)
+* Strate 4 (moyennement élevée)
+* Strate 5 (élevée)
+* Strate 6 (la plus élevée)
+{{clr}}
+
+== Infrastructures ==
+
+=== Transports ===
+
+[[Fichier:Bogotá biarticulado de TransMilenio por la av. Caracas.JPG|thumb|Un bus [[TransMilenio]] bi-articulé.]]
+[[Fichier:Estacion-Profamilia.jpg|thumb|left|''{{lang|es|Profamilia [[TransMilenio]]}}'', gare proche du centre-ville de Bogota.]]
+[[Fichier:Eje ambiental, Bogotá, Colombia.jpg|thumb|[[TransMilenio]] {{lang|es|''avenida Eje Ambiental''}}.]]
+La croissance de Bogota a mis à rude épreuve les routes et les autoroutes de l'agglomération, mais, durant les années 2000, des efforts importants ont été entrepris pour améliorer l'[[Infrastructure de transport|infrastructure]]. Même si le nombre de véhicules par habitant demeure faible, les voitures constituent une part importante de la congestion du trafic, s'ajoutant à celle engendrée par les taxis, les autobus et les véhicules utilitaires.
+
+Les [[Autobus|bus]] restent le principal moyen de transport en commun. Il existe deux systèmes de bus : le système traditionnel et le [[TransMilenio]]. Le système traditionnel, exploité par plusieurs compagnies, offre une grande variété de types de bus : ''Bus'' (grands bus), ''Buseta'' (autobus de taille moyenne) et ''Colectivo'' (camionnettes ou fourgonnettes).
+
+Bogota est un [[Plate-forme de correspondance|hub]] pour les bus effectuant des trajets à l'intérieur du pays et ceux destinés aux trajets internationaux. Le terminal de bus de Bogota, le plus grand du pays, dessert la plupart des villes colombiennes<ref>{{lien web |année= 2008 |url= http://www.bogota-dc.com/trans/terminal.htm |titre= Bogota Transportation Terminal and Train Station |éditeur=bogota-dc.com|consulté le=29 décembre 2008|langue=en}}</ref>. En dehors des trajets intérieurs, le terminal permet également d'effectuer des trajets vers le [[Venezuela]], l'[[Équateur (pays)|Équateur]] ou le [[Pérou]].
+
+Le TransMilenio est un système de transport en commun créé pendant le mandat de maire de [[Enrique Peñalosa|Enrique Peñalosa Londoño]] (mandat de 1998 à 2001)<ref>{{lien web |année= 2008 |url= http://www.elespectador.com/noticias/bogota/articulo-millonaria-condena-al-distrito-fallas-transmilenio |titre= Millonaria condena al Distrito por fallas en Transmilenio |éditeur=El Espectador |consulté le=29 décembre 2008|langue=es}}</ref>. C'est un [[Bus à haut niveau de service]] mis en œuvre pour compenser l'absence de [[Métro_de_Bogota|métro]] ({{1re}} ligne prévue pour 2024) ou de système ferroviaire. Le TransMilenio combine des autobus articulés opérant sur les voies réservées et de petits autobus effectuant les trajets dans les zones résidentielles, ce qui permet aux habitants de rejoindre les lignes principales. Ce système devrait couvrir toute la ville d'ici 2030.
+
+Bien que le TransMilenio desserve les principaux axes de Bogota, il reste plus cher que les autres transports, excepté les taxis. En 2011, le prix d'un billet était de 1700 [[Peso colombien|pesos colombiens]] (environ US $ 0,85). Un seul billet permet un nombre illimité de déplacements jusqu'à ce que le voyageur quitte le système.
+
+[[Fichier:Trancon Autonorte.jpg|thumb|100, rue nord jusqu'à l'autoroute]]
+
+En complément du TransMilenio, l'administration municipale sous Enrique Peñalosa Londoño a approuvé, à l'aide d'un référendum, la mise en place de restrictions des déplacements en voiture pour certains numéros de plaque d'immatriculation pendant les heures de pointe, système appelé ''{{lang|es|Pico y placa}}''. Le dimanche est également devenu une {{Citation|Journée sans voitures}}.
+
+L'administration a mis en œuvre un système de voies cyclables (''{{lang|es|ciclorutas}}''), et supprimé des milliers de places de stationnement dans le but de rendre les routes plus agréables pour les piétons. Les ''{{lang|es|ciclorutas}}'' sont l'un des plus vastes réseaux de pistes cyclables, avec une étendue totale de {{unité|303|km}}. Elles s'étendent du nord de la ville, Calle 170, vers le sud, Calle 27, sans oublier Monserrate. Les ''{{lang|es|ciclorutas}}'' ont été lancées par [[Antanas Mockus]], lors de son premier mandat (1995-1997), et se sont considérablement étendues au cours de l'administration de Enrique Peñalosa Londoño<ref>{{lien web |url= http://www.cambio.com.co/paiscambio/762/ARTICULO-WEB-NOTA_INTERIOR_CAMBIO-3948271.html |titre= Bogotanos olvidaron para qué fue creado el Día sin carro |éditeur=Cambio |consulté le=29 décembre 2008|date=2 novembre 2008|langue=es}}</ref> ; depuis leur mise en place, l'utilisation de la bicyclette dans la ville s'est notablement développée.
+
+Depuis un référendum populaire organisé en 2000, une « journée sans voiture » a lieu chaque dimanche<ref>{{Article |prénom1=Anni |nom1=Borzeix |prénom2=Isaac |nom2=Joseph |titre=La journée sans voiture à La Rochelle ou la démocratie au cas par cas |périodique=Les Annales de la recherche urbaine |volume=80 |numéro=1 |date= 1998|issn=0180-930X |doi=10.3406/aru.1998.2212 |lire en ligne=http://dx.doi.org/10.3406/aru.1998.2212 |consulté le=20 octobre 2019|pages=188–196 }}</ref>.
+
+== Transport aérien ==
+
+Le principal aéroport de Bogota est l'[[aéroport international El Dorado]], à l'ouest du centre-ville, au bout de l'avenue El Dorado. Grâce à sa situation centrale en Colombie et en Amérique latine, c'est une plaque tournante pour les compagnies nationales Avianca et LAN. Il est également desservi par de nombreuses compagnies étrangères du monde entier.
+
+[[Fichier:Aeropuerto Eldorado Bogotá Salidas internacionales.JPG|thumb|upright|L'[[aéroport international El Dorado]].]]
+
+D'importants travaux pour une expansion majeure de cet aéroport ont débuté en septembre 2007. Ces travaux terminés, la capacité actuelle connaîtra un important accroissement afin qu'elle atteigne {{nobr|25 millions de passagers}} annuels<ref>{{lien web |année= 2006|url=http://www.caracol.com.co/nota.aspx?id=299375|titre=Cinco firmas de disputan la modernización del aeropuerto El Dorado |éditeur=Caracol Radio |consulté le=29 décembre 2008|langue=es}}</ref>.
+
+La base aérienne Camilo Daza Álvarez (CATAM), affectée à l'aviation militaire et à celle de la police, est implantée sur le même terrain aux côtés de l'aéroport.
+
+L'{{Lien|fr=aéroport Guaymaral|lang=en|trad=Guaymaral Airport}} est réservé aux activités d'aviation privée.
+
+== Santé ==
+
+[[Fichier:Bogotá Hospital de San José.JPG|thumb|Hôpital de San José]]
+
+[[Fichier:Bogotá fachada occidental del Hospital Materno Infantil.JPG|thumb|[[Hôpital San Juan de Dios (Bogota)|Hôpital San Juan de Dios]].]]
+
+Les services sanitaires de Bogota sont fournis par un réseau d'institutions dépendant de la Direction régionale de la Santé. Ces institutions sont réparties, suivant leur objectif, en trois secteurs<ref>{{es}}[http://portel.bogota.gov.co/portel/libreria/php/01.27090805.html Bogotá gov.co Sector Salud]. Consulté le 17 avril 2013.</ref> :
+* Le premier secteur comporte dix [[hôpital|hôpitaux]] qui répondent à des soins de base, diagnostics et soins de [[médecine générale]], tests de laboratoires, services d'urgences et d'hospitalisation ainsi que des [[Odontologie|soins dentaires]].
+* Le deuxième secteur comprend sept hôpitaux qui, outre les soins inclus dans les spécialités de base, ajoutent les spécialisations d'[[optométrie]] (mesure de la [[réfraction]] de l'œil et de ses anomalies) et la [[psychologie]].
+* Le troisième secteur détient cinq hôpitaux ayant pour orientation les traitements hautement spécialisés dans les services de : [[cardiologie]], [[neurologie]], [[génétique]], [[dermatologie]], etc.
+
+Quelques hôpitaux de Bogota :
+* [[Hôpital San Juan de Dios (Bogota)|Hôpital San Juan de Dios]]
+* Hôpital Occidente de Kennedy
+* Hôpital La Victoria
+* Hôpital Tunal
+* Hôpital Simón Bolívar
+* Hôpital Santa Clara
+* Hôpital San Blas
+* Hôpital Meissen
+* Hôpital Bosa
+
+La capitale de la Colombie dispose de plus de 140 centres de soins. Le Ministère de la protection sociale a recensé plus de vingt services d'[[assurance maladie|assurance santé]]. Le régime subventionné pour les utilisateurs, établi par les règlements de la loi 100 de 1993, s'applique à chaque institution.
+
+Bogota est devenue une destination recherchée tant par les Colombiens que par les étrangers pour ses institutions médicales reconnues internationalement, ses centres de traitement du cancer et des maladies neurologiques, ainsi que pour ses établissements de [[chirurgie plastique]] reconstructrice.
+Parmi les établissements de soins de Bogota se trouvent également des cliniques privées.
+Existent aussi diverses banques du sang, de tissus et de cellules souches.
+
+Concernant le tourisme<ref>[http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/colombie-12228/ Colombie - France-Diplomatie-Ministère des Affaires étrangères]. Consulté le 16 avril 2013.</ref>, la [[vaccination]] contre la [[fièvre jaune]] est recommandée aux personnes voyageant dans la région des [[Llanos]]. L'eau courante est considérée comme potable à Bogota et dans les plus grandes villes de la Colombie mais les contaminations virales ou parasitaires sont assez fréquentes. Le mal des montagnes est parfois éprouvé par des personnes sujettes aux maladies cardiaques ou respiratoires.
+
+== Éducation ==
+=== Les collèges et universités ===
+[[File:RogelioSalmonaUnal.jpg|thumbnail|right|L'[[université nationale de Colombie]].]]
+[[File:Centro Ático.JPG|thumbnail|right|''{{lang|es|Centro Ático}}'' à l'[[université pontificale Javeriana]]]]
+
+Bogota possède un vaste réseau d'enseignement : écoles primaires et secondaires, collèges. En raison de la constante migration dans la capitale du pays, les quotas relatifs à l'accès à l'éducation gratuite, offerte par l'État, sont souvent insuffisants. La ville possède également un système diversifié d'écoles et de collèges privés.
+
+Il existe un certain nombre d'universités, tant publiques que privées. En 2002, il y avait un total de {{nobr|106 établissements}} d'enseignement supérieur. Parmi les universités de Bogota, certaines sont partiellement ou totalement accréditées par le Conseil national d'accréditation (CCN) : l'[[université nationale de Colombie]] qui est la plus vaste et la plus importante du pays, l'[[Université des Andes (Colombie)|université des Andes]] (université privée), l'[[université pontificale Javeriana]] fondée par les [[Compagnie de Jésus|Jésuites]] et dont les grades universitaires furent reconnus en 1623, l'[[université du Rosaire]], l'université Externado de Colombie, l'[[université militaire Nueva Granada]], l'université d'Amérique, l'université Sergio Arboleda, l'université Jorge Tadeo Lozano, l'université catholique de Colombie, l'université Saint Thomas d'Aquin et l'université La Salle.
+
+L'université nationale de Colombie abrite une cité universitaire, un campus situé dans le Teusaquillo, secteur traditionnel. C'est le plus vaste campus de Colombie et l'un des plus importants de l'Amérique latine. Le district de [[La Candelaria (Bogota)|La Candelaria]] est le foyer de la plus grande concentration d'universités privées en Amérique latine.
+
+En outre, Bogota est de plus en plus populaire parmi les étrangers et les touristes qui souhaitent apprendre l'espagnol tout en découvrant la culture latino-américaine. Des écoles telles que le Meboc Institute<ref>{{en|texte=[http://www.learn4good.com/schools/colombiabogota-spanishlanguage.htm Meboc Institute Language schools in Bogota]}}. Consulté le 11 mai 2013</ref> ont été mises en place pour offrir des cours flexibles, à des prix compétitifs, aux étudiants internationaux.
+
+En Colombie, les systèmes primaire et secondaire des écoles d'enseignement vont de la pré-maternelle à la onzième année. L'éducation en Colombie n'est obligatoire que jusqu'à la {{8e|année}}, mais le gouvernement a mis en œuvre une campagne de promotion nationale pour inciter les familles ayant un faible niveau économique à inscrire et à maintenir leurs enfants à l'école au-delà de la huitième année.
+
+Seuls 4 % des élèves issus de l'enseignement public ont accès à l'enseignement supérieur<ref>{{Lien web|langue=es|titre=Dilan, Brandon y Juan David: rostros de la ausencia de garantías para los jóvenes en Colombia|url=https://www.contagioradio.com/dilan-brandon-y-juan-david-rostros-de-la-ausencia-de-garantias-para-los-jovenes-en-colombia/|site=Contagio Radio|date=27 novembre 2019}}</ref>.
+
+=== Universités ===
+[[Fichier:Universidad Externado de Colombia, La Candelaria.jpg|thumb|[[Université Externado de Colombie]].]]
+* {{Lien|fr=Université Saint-Thomas d'Aquin (Colombie)|lang=es|trad=Universidad Santo Tomás (Colombia)|texte=Université Saint-Thomas d'Aquin}} (fondée en 1580)
+* [[Université pontificale Javeriana]] (fondée en 1622, grades universitaires reconnus en 1623)
+* [[Université du Rosaire]] (fondée en 1653)
+* [[Université nationale de Colombie]] (fondée en 1867)
+* [[Université Externado de Colombie]] (fondée en 1886)
+* [[Université des Andes (Colombie)|Université des Andes]] (fondée en 1948)
+* [[Universidad Distrital Francisco José de Caldas|Université départementale Francisco José de Caldas]] (fondée en 1948)
+* {{Lien|fr=Université catholique de Colombie|lang=es|trad=Universidad Católica de Colombia}} (fondée en 1970)
+* {{Lien|fr=École colombienne d’ingénierie Julio Garavito|lang=es|trad=Escuela Colombiana de Ingeniería}} (fondée en 1972)
+* [[Université militaire Nueva Granada]] (fondée en 1982)
+* {{Lien|fr=Université Jorge Tadeo Lozano|lang=es|trad=Universidad Jorge Tadeo Lozano}} (fondée en 1954)
+* [[Université andine Simón Bolívar]]  
+{{clr}}
+
+== Culture ==
+[[File:Costado2 Casa de Nariño.jpg|thumb|left|Le palais Echeverry abrite le ministère colombien de la culture.]]
+[[Fichier:La Santa Maria.JPG|thumb|[[Arènes de Santamaría]] (exemple de l'influence espagnole sur la ville et sur la culture)]]
+[[Fichier:Museo AColonialB.jpg|thumb|Entrée du [[musée d'Art colonial de Bogota]].]]
+[[Fichier:Vista aérea del Museo Nacional de Colombia (en frente) y la Universidad Colegio Mayor de Cundinamarca (atrás).jpg|thumb|Vue aérienne du [[Musée national de Colombie]].]]
+
+De nombreux lieux culturels ont été créés à Bogota, dont {{nobr|58 musées}}, {{nobr|62 galeries d'art}}, {{nobr|33 réseaux}} de bibliothèques et {{nobr|45 théâtres}}.
+
+L'offre culturelle s'est considérablement développée lors des dernières décennies. Un grand nombre de personnes, venues de tout le pays et souhaitant résider dans la capitale, ont contribué à l'accroissement de différents intérêts culturels en apportant les traditions de régions diverses.
+
+Plusieurs parcs d'attractions attirent aussi maints Colombiens et touristes.
+
+En outre, {{nobr|75 stades}} démontrent l'importance accordée aux sports et la ferveur qui leur est réservée.
+
+Enfin, on dénombre à Bogota plus de 150 [[Liste des monuments nationaux de Bogota|monuments nationaux]]<ref>Colombia Official Tourism Portal [http://www.colombia.travel/en/international-tourist/where-to-go/recommended-weekend-destinations/bogota « Bogota: a city for experiencing culture »]</ref>.
+
+Les lieux culturels et manifestations les plus renommés sont les suivants :
+* la [[Bibliothèque Luis Ángel Arango]], la plus importante du pays et l'une des plus réputées de l'Amérique latine, reçoit plus de 6 millions de visiteurs par an<ref>Banco de la Republica [http://www.lablaa.org/prensa/boletin_sub_gerencia.pdf « 2008 Press Release »]. Retrieved 3 September 2009.</ref>;
+* le [[Musée national de Colombie]], le plus vaste de Colombie et l'un des plus anciens du continent américain, date de 1823<ref>Museo Nacional de Colombia [http://www.museonacional.gov.co/index.php?pag=home&id=6|43|0& « History »]. Retrieved 3 September 2009.</ref>;
+* le {{Lien|fr=Festival de théâtre ibéro-américain|lang=es|trad=Festival Iberoamericano de Teatro de Bogotá}}, le plus réputé du genre dans le monde, reçoit 2 millions de participants et bénéficie de plus de {{nobr|450 représentations}} tant dans les théâtres que dans la rue<ref>Colombia Official Tourism Portal [http://www.colombia.travel/en/international-tourist/what-to-do/history-and-tradition/fairs-and-festivals/april/ibero-american-theater-festival-of-bogota « Ibero-American Theater Festival of Bogota: The Largest Theater Showcase in the World »]</ref>;
+* l'[[Orchestre philharmonique de Bogota]], grandiose [[orchestre symphonique]] de Colombie, compte plus de 100 musiciens et donne 140 spectacles par an<ref>Filarmonica de Bogotá [http://www.filarmonicabogota.gov.co/secciones/historia/lineatiempo.htm « Philarmonic Timeline »]</ref>.
+* le [[Théâtre Cristóbal Colón]], inauguré en 1892, est le foyer de la National Symphony Association, l'{{Lien|fr=Orchestre symphonique national de la Colombie|lang=es|trad=Orquesta Sinfónica Nacional de Colombia}}. Ce théâtre a été déclaré monument national en 1975<ref>{{es}}[http://www.patrimoniocultural.gov.co/descargas/BIC_Bogota.pdf patrimonio cultural.gov]. Consulté le 12 mai 2013.</ref> ;
+* [[Rock al parque]] ([[français]] : Rock au parc), le plus important festival de musique rock en plein air de l'Amérique latine, rassemble chaque année plus de {{formatnum:320000}} amateurs de musique qui peuvent profiter d'au moins {{nobr|60 spectacles}} gratuitement pendant trois jours par an<ref>{{en}}Rock at the Park [http://www.rockalparque.gov.co/|titre="{{15th}} {{lang|en|texte=Edition}} of the Concert is over]. Consulté le 7 mai 2013.</ref>. Ce festival a connu un tel succès au cours de ses quinze premières années de fonctionnement que la ville a reproduit cette initiative pour d'autres genres musicaux et pour des spectacles de danse. Ainsi sont nés d'autres festivals « au parc » : [[salsa al parque]], [[hip-hop]], [[ballet]], [[opéra]] et [[jazz]].
+
+Bogota a beaucoup œuvré ces dernières décennies pour se positionner en chef de file de l'offre culturelle en Amérique du Sud. Elle est de plus en plus reconnue dans le monde entier en tant que plaque tournante du pays pour le développement des arts<ref>Scoop Independent News, New Zealand [http://www.scoop.co.nz/stories/WO0704/S00398.htm « Cultural Diversity Highlighted »] 24 April 2007</ref>{{,}}<ref>Sun Sentinel, Florida [http://pqasb.pqarchiver.com/sun_sentinel/access/993698241.html?dids=993698241:993698241&FMT=ABS&FMTS=ABS:FT& « Give Bogota a try (no kidding) citty boasts arts, scenery and great food. »], 26 February 2006</ref>{{,}}<ref>Inter Press Service [http://www.ipsnews.net/news.asp?idnews=36061 « COLOMBIA: Open Your Books, Please, Bogota »]</ref>{{,}}<ref>Noticias de Bogotá: Arte [http://www.barriosdebogota.com/abrio-las-puertas-la-feria-de-arte-de-bogota-artbo/ « ArtBo 2009 – Reportaje »]</ref>. En 1991, le titre de Capitale culturelle d'[[Amérique latine]] a été décerné à Bogota par l'UCCI, [[Union des Capitales culturelles ibéro-américaines]] ([[espagnol]] : ''Unión de Ciudades Capitales Iberoamericanas''). En 2007, ce titre lui a été décerné pour la deuxième fois ; elle est ainsi devenue la seule ville ayant été honorée de cette reconnaissance à deux reprises<ref>Universia [http://www.universia.net.co/cultura/destacado/bogota-por-segunda-vez-capital-iberoamericana-de-la-cultura.html « Bogota Ibero-American Capital of Culture for Second Time »]</ref>.
+
+Le {{date|7|mars|2012}}, l'[[Organisation des Nations unies pour l'éducation, la science et la culture|UNESCO]] a décerné à Bogota le titre de « Cité de la Musique ». Elle est au cinquième rang des villes dont la musique est la plus écoutée sur Internet, après [[Séville]] ([[Espagne]]), [[Bologne]] ([[Italie]]), [[Glasgow]] ([[Royaume-Uni]]) et [[Gand]] ([[Belgique]])<ref name="Bogotá">{{lien web|langue=es|url= http://www.culturarecreacionydeporte.gov.co/portal/bogota-internacional|titre=Bogotá Internacional|site=culturarecreacionydeporte.gov.co|éditeur=Secretaría de Cultura|jour=7|mois=mai|année=2013. Consulté le 18 juin 2013}}</ref>.
+
+=== Histoire culturelle ===
+
+[[Fichier:José Asunción Silva.jpg|thumb|left|Le poète [[José Asunción Silva]].]]
+
+[[Fichier:Rafael Pombo.JPG|thumb|Le poète et fabuliste [[Rafael Pombo]]. Portrait par J. I. Gutierrez]]
+
+À la fin du {{s-|XIX}}, Bogota était une ville assez isolée faute de moyens de communication, les transports de passagers par voie ferrée ayant été réduits. Cependant, le réseau routier se développa, reliant la ville à la vallée du fleuve [[Río Magdalena|Magdalena]] jusqu'aux côtes des [[Caraïbes]].
+
+Au cours des années [[1860]] - [[1870]], des écrivains de tendances variées formèrent un groupe au sein de la revue littéraire {{Citation étrangère|langue=es|[[El Mosaico]]}}, fondée (en [[1858]]) et dirigée par l'écrivain, journaliste et critique littéraire [[José María Vergara y Vergara]], afin de tenter d'écrire, pour la première fois, l'histoire de la littérature colombienne et de renforcer ainsi l'identité culturelle du pays.
+
+La vie culturelle de la ville s'est concentrée au cœur de réunions qui, au cours du {{s-|XIX}}, ont permis aux Bogotanais de participer à des discussions littéraires, de partager leurs préoccupations politiques, d'assister à des représentations musicales et théâtrales. Au Théâtre Maldonado étaient donnés des opéras et des pièces de théâtre. À la fin du {{s-|XIX}}, Bogota avait deux grands théâtres : le Théâtre Cristóbal Colón, inauguré en [[1892]], et le Théâtre municipal, inauguré en [[1895]]. Au Théâtre municipal se jouaient des opérettes (''{{lang|es|[[zarzuela]]s}}'') ainsi que d'autres spectacles musicaux. De plus, les scénarios d'importants événements de l'histoire colombienne, qui s'étaient déroulés durant les années [[1830]] et [[1840]], y furent présentés.
+
+Au cours du {{s-|XIX}}, en dépit des émeutes constantes et des guerres civiles qui entravèrent un développement culturel se voulant très actif, Bogota conserva des traditions datant de l'époque coloniale, assorties d'une certaine influence européenne.
+
+L'École nationale des beaux-arts, fondée en 1886, dont le premier directeur fut Alberto Urdaneta, s'avéra être à l'origine du développement artistique de la ville. Les peintres Epifanio Garay et [[Ricardo Acevedo Bernal]], célèbres portraitistes, enseignèrent à l'École nationale des Beaux-Arts. Andrés de Santamaría (1860 - 1945), peintre de grande renommée, en fut, par deux fois, le directeur. Ses œuvres, associées à l'impressionnisme, furent considérées comme les plus remarquables de cette époque. Les toiles de célèbres peintres paysagistes : Roberto Páramo, Jesús María Zamora, Eugenio Peña, Luis Núñez Borda et Ricardo Gómez Campuzano, sont conservées dans la collection permanente du Musée national.
+
+Bogota a donné au monde hispanophone le poète [[José Asunción Silva]] (1865 - 1896), précurseur du mouvement [[Modernisme|moderniste]]. Parmi ses œuvres poétiques, ''{{lang|es|De sobremesa}}'' occupe une place importante. Le poète [[Rafael Pombo]] (1833 - 1912) laissa un recueil de fables nourries essentiellement de l'imagination enfantine et des traditions colombiennes.
+
+=== Architecture ===
+[[File:El Nogal Cra 76 con clle 9.JPG|thumb|left|Architecture de style britannique à Bogota.]]
+[[Fichier:Torres del parque torre B.JPG|thumb|Tours du parc (''{{lang|es|Torres del parque}}''), Bogota.]]
+[[File:Hotel Continental.JPG|thumb|left|Hôtel Continental.]]
+[[Fichier:Abril 2017 BD Bacatá en Bogotá, Cund - Colombia.jpg|thumb|upright|La tour BD Bacata, le plus haut gratte-ciel de la ville]]
+
+La structure urbaine et l'architecture des bâtiments coloniaux à Bogota ont été maintenues depuis la fin du {{s-|XIX}}, longtemps après l'indépendance de la Colombie (1810). Cette persistance de structures datant de la période coloniale se constate principalement dans La Candelaria, centre historique de Bogota. Des maisons coloniales de deux étages, avec des cours, des toits à pignons, des carreaux de céramique et des balcons ont été préservées. Parfois, un matériau ajouté, au cours de la période républicaine, à la construction des balcons, le verre (les balcons de la maison du poète Rafael Pombo en sont un exemple), différencie certaines habitations de celles restées conformes à l'architecture du secteur.
+
+« L'architecture républicaine » était le style qui prévalait entre 1830 et 1930. Malgré les tentatives pour consolider un langage architectural moderne, la construction, entre [[1936 en architecture|1936]] et [[1939 en architecture|1939]], de la Cité universitaire de Bogota ou {{Citation étrangère|langue=en|{{lang|es|Ciudad Blanca}}}} ([[français]] : Ville blanche), un [[campus]] qui réunit à l'[[Université nationale de Colombie]]<ref>{{es}}[http://www.unal.edu.co/paginas/sede_bta.html Université nationale de Colombie. Siège Bogota]. consulté le 13 mai 2013.</ref> plusieurs facultés dispersées, en est le seul exemple bien que les architectes des tendances rationalistes aient participé à la conception des bâtiments de ce campus. Ce travail fut élaboré par l'architecte et urbaniste allemand Leopold Siegfried Rother Cuhn (1894-1978) avec l'aide du pédagogue allemand Fritz Kartzen.
+
+Parmi les tendances de l'architecture ''{{lang|es|bogotana}}'', peuvent être cités : l'art déco, l'expressionnisme et [[Architecture organique|l'architecture organique]], à l'échelle humaine, harmonisant l'habitation et son environnement naturel. Cette dernière tendance fut utilisée par des architectes bogotanais, dans la seconde moitié du {{s-|XX}}, tel que l'architecte franco-colombien [[Rogelio Salmona]] (1927-2007).
+
+En 2006, le Lion d'or de la dixième [[Exposition internationale d'architecture de Venise]] (ou Biennale d'architecture de Venise) a été décerné à Bogota en reconnaissance de {{Citation|ses efforts en faveur de l'insertion sociale, l'éducation, le logement, et l'espace public, en particulier grâce à des innovations dans les transports}}.
+
+Bien que Bogota soit réputée pour la préservation de sa belle architecture coloniale, des exemples significatifs d'architecture contemporaine se trouvent dans le centre-ville et au nord de la ville.
+
+En 2015, BD Bacatá est inauguré en tant que plus haut bâtiment ({{nobr|240 mètres}}) de la ville, prenant ainsi la place de la [[tour Colpatria]] ({{nobr|196 mètres}}). Cet édifice est situé à l'intersection de la ''{{lang|es|calle}}'' 19 et des ''{{lang|es|carreras}}'' 5 - 20. Sa construction marque le début de la rénovation du centre-ville<ref>{{en}}[http://skyscraperpage.com/cities/?buildingID=88343 Academy of Architecture]. Consulté le 17 mai 2013.</ref>.
+
+=== Bibliothèques et archives ===
+[[File:Parque y Biblioteca Pública Virgilio Barco 1.jpg|thumb|[[Bibliothèque Virgilio Barco]] dans l'ouest de Bogota.]]
+
+[[Fichier:Luisangel.jpg|thumb|left|Entrée de la [[Bibliothèque Luis Ángel Arango]].]]
+
+En [[2007]], Bogota a été nommée [[Capitale mondiale du livre]] par l'[[Organisation des Nations unies pour l'éducation, la science et la culture|UNESCO]]<ref>UNESCO [http://portal.unesco.org/culture/en/ev.php-URL_ID=27412&URL_DO=DO_TOPIC&URL_SECTION=201.html « World Book Capital City »] 2007</ref>. Bogota est la première ville d'Amérique latine à avoir reçu cette reconnaissance et la deuxième du continent américain après [[Montréal]] ([[Canada]]). Parmi les programmes pour l'accession au titre de Capitale mondiale du livre, celui de Bogota se distingue principalement par son réseau de bibliothèques et la présence d'organisations qui, d'une manière coordonnée, travaillent à la promotion du livre et de la lecture dans la ville. Plusieurs initiatives spécifiques pour le programme de Capitale mondiale du livre ont été prises avec la participation effective des groupes, tant publics que privés, engagés dans le secteur du livre.
+
+La ville est le foyer de la BibloRed, institution qui administre les bibliothèques publiques, dont seize petites et quatre grandes (la [[Bibliothèque Virgilio Barco]], la Bibliothèque El Tintal, la Bibliothèque El Tunal et la Bibliothèque Julio Mario Santodomingo). Un des services du Fonds d'indemnisation de la Caisse colombienne d'allocations familiales ''({{lang|es|Colsubsidio}})'' a la charge, entre autres secteurs d'activité, du réseau des Bibliothèques de la Famille. Des bibliothèques et des centres de documentation rattachés à des institutions telles que le [[Musée national de Colombie]] (spécialisé dans les livres anciens, catalogues et livres d'art), le musée d'art moderne de Bogota, l'Alliance française et le Centre colombo-américain.
+
+Des centres culturels ont été conçus grâce à de nouvelles initiatives prises en collaboration avec l'État, la ville, des institutions et agences internationales : le Centre culturel [[Gabriel García Márquez]], créé avec l'aide du Fonds de Culture économique du Mexique, et le Centre culturel espagnol dont la construction débutera avec l'apport de fonds publics bogotains et l'aide du gouvernement espagnol dans le centre de Bogota, plus précisément ''{{lang|es|Carrera Tercera con Avenida 19}}''.
+
+La [[Bibliothèque nationale de Colombie]] ([[1777]]), relevant du ministère de la Culture, et la [[Bibliothèque Luis Ángel Arango]] (1958), dépendant de la [[Banque de la République de Colombie]], sont les deux plus grandes bibliothèques publiques de la ville. Dans la première, on dénombre plus de deux millions de volumes, dont une importante collection de livres anciens. La seconde comprend presque deux millions de volumes. D'une superficie de {{unité|45000|mètres}} carrés, elle accueille {{unité|10000|visiteurs}} par jour. De la Banque de la République dépend aussi la Bibliothèque Rudas Alfonso Palacio, au nord de Bogota, avec environ {{formatnum:50000}} volumes. Parmi les grandes bibliothèques publiques, on trouve la Bibliothèque du Congrès en Colombie, qui contient {{formatnum:100000}} volumes, la Bibliothèque de l'Institut Caro y Cuervo, comprenant près de {{formatnum:200000}} volumes, qui est la plus grande bibliothèque d'Amérique latine en [[philologie]] et [[linguistique]], la Bibliothèque de l'Académie de l'histoire, celle de l'Académie de la langue, celle de l'[[Institut colombien d'anthropologie et d'histoire]] (ICANH), et les bibliothèques universitaires.
+
+À Bogota, les archives nationales contiennent environ {{nobr|60 millions}} de documents historiques. Il s'agit de l'une des plus grandes collections d'Amérique latine de sources historiques primaires. La ville abrite également les archives musicales de la [[Cathédrale de l'Immaculée-Conception de Bogota|cathédrale de l'Immaculée-Conception]] comportant des milliers de livres, de chants chorals et de chansons coloniales d'époque, les archives de l'[[archidiocèse de Bogota]]<ref>{{es}}[http://www.arquibogota.org.co/ Arquidiócesis de Bogotá]. Consulté le 15 mai 2013.</ref> qui a pour siège la cathédrale de l'Immaculée-Conception, les archives du séminaire conciliaire de Bogota, les archives historiques de l'[[université nationale de Colombie]], et les archives de la Monnaie sous le couvert de la Banque de la République.
+
+<gallery perrow="6">
+File:Biblioteca nacional Bogotá.JPG|[[Bibliothèque nationale de Colombie]].
+File:Acceso Centro Cultural Julio MArio Santo Domingo.JPG|Centre culturel Julio Mario Santodomingo.
+File:Biblioteca El Tunal.jpg|Bibliothèque El Tunal.
+File:Biblioteca Ernesto Guhl, Universidad Nacional, Bogotá.JPG|Bibliothèque Ernesto Guhl, [[Université nationale de Colombie]].
+</gallery>
+
+=== Musées et galeries ===
+
+[[Fichier:Patio Museo Botero Bogota.JPG|thumb|left|Patio du [[Musée Botero]].]]
+[[File:Fachada museo nacional.JPG|thumb|[[Musée national de Colombie]].]]
+
+Bogota est dotée d'un immense héritage culturel. Elle abrite 58 musées et plus de 70 galeries d'art. Les acquisitions du [[Musée national de Colombie]], le plus grand et le plus ancien du pays, sont réparties en quatre collections : art, histoire, archéologie et ethnographie. Le [[Musée de l'or]] conserve de nombreuses œuvres d'orfèvres de l'ethnie indienne jadis dominante, les Chibchas des Andes. Sa collection d'orfèvrerie et de bijouterie précolombienne, la plus riche du monde, compte {{nombre|35000|pièces}} d'or [[tumbaga]] (alliage d'or et de cuivre). Sont aussi dénombrés {{formatnum:30000}} objets en céramique, pierre et textile.
+
+Le [[Musée Botero]] dispose de 123 œuvres de [[Fernando Botero]] et de 87 œuvres d'artistes internationaux. Le Musée d'art moderne possède des collections d'arts graphiques, de design industriel et de photographie. Le [[Musée d'art colonial de Bogota]] contient une importante collection d'art colonial de la Colombie. La Fondation [[Gilberto Alzate Avendaño]] accueille, dans ses salles et ses galeries d'art, les activités liées aux arts de la scène ainsi que des expositions temporaires d'art.
+
+Le [[Musée d'art moderne de Bogota]] (MAMBO), conçu par l'architecte franco-colombien [[Rogelio Salmona]], a été créé en 1955. Il abrite une importante collection d'œuvres d'art moderne et contemporain d'artistes colombiens, ainsi que des œuvres d'artistes d'[[Amérique latine]] en général : [[peinture (art)|peinture]], [[sculpture]], [[dessin]] et [[gravure]], entre autres<ref>{{Lien web|langue=es|url=http://www.bogotaturismo.gov.co/en/museo-de-arte-moderno-de-bogot-modern-art-museum-bogot-mambo|titre=Museo de Arte Moderno de Bogotá|site=bogotaturisme.gov.co|éditeur=Bogota.gov.co|consulté le=21 décembre 2015}}.</ref>.
+
+Parmi les musées scientifiques, citons le Musée Archéologique ''({{lang|es|Casa del Marqués de San Jorge}})'', qui compte environ {{nombre|30000|pièces}} d'art précolombien, l'Institut de Sciences naturelles ''({{lang|es|Instituto de Ciencias Naturales}})'', l'un des quatre plus grands musées de sciences naturelles de l'Amérique latine, et le [[Musée géologique national José Royo y Gómez]], possédant des collections spécialisées en [[géologie]] et [[paléontologie]].
+
+Bogota abrite des musées historiques tels que le Musée Jorge Eliécer Gaitán, le Musée de l'Indépendance ''({{lang|es|Museo de la Independencia}})'', la ''[[Quinta de Bolívar]]'' et le Musée Francisco José de Caldas, ainsi que le siège de Maloka et le musée des enfants de Bogota. Le Musée national de Colombie et de nouveaux musées accueillent l'[[Art déco]].
+
+=== Parcs et loisirs ===
+Bogota abrite beaucoup de parcs et d'installations pour de nombreux concerts, pièces de théâtre et films, ainsi que des espaces pour les conteurs et d'autres activités de loisirs.
+
+* Le Parc Simón Bolívar est un vaste parc régulièrement utilisé, tout au long de l'année, pour l'organisation de concerts gratuits, tels que le festival annuel [[Rock al parque]], qui reçoit des groupes internationaux, latino-américains, colombiens et des groupes populaires récemment formés.
+* Le Parc national public (''{{lang|es|Public Parque nacional}}''), abondamment pourvu d'espaces verts et d'arbres, agrémenté d'étangs, comporte des jeux pour les enfants, des pistes cyclables, des allées pour les piétons. On y trouve des lieux de divertissement destinés aux projections publiques de films, aux concerts ainsi qu'aux événements festifs organisés par le Conseil de Bogota. Ce parc est situé entre deux rues principales, l'avenue ''{{lang|es|Circunvalar}}'' et la {{7e|avenue}}.
+* Le [[Jardin botanique José Celestino Mutis]] ''({{lang|es|Jardín botánico de Bogotá}}).''
+* Le {{Lien|fr=Museo de los Niños|lang=es|trad=Museo de los Niños (Bogotá)}} (Musée des enfants) est un musée interactif de science, de technologie et d'art s'adressant aux enfants, adolescents et jeunes (de 2 à 19 ans).
+* Le ''{{lang|es|Parque de la 93}}'', situé au nord de Bogota, précisément ''{{lang|es|calle}}'' 93, entre les {{lang|es|''carreras'' 11A et 13}}, propose des activités de loisirs diurnes et nocturnes. Plusieurs des meilleurs restaurants et bars de la ville se sont installés dans ce parc.
+* « ''Mundo Aventura'' » est un [[parc d'attractions]], avec un droit d'entrée et diverses attractions payantes. Il possède des manèges pour adultes et enfants, un [[Parc zoologique|zoo]], et le ''{{lang|es|cerdodromo}}'', avec ses courses de porcs.
+* Le « ''Salitre Mágico'' », parc avec des manèges et autres attractions, se trouve à proximité du parc municipal Simón Bolívar.
+* Le « ''Parque del Chico'' » est agrémenté d'arbres, de jardins, de ruisseaux et d'étangs artificiels. Il abrite une maison de style colonial transformée en musée.
+* Au nord, le Parc Jaime Duque, parc d'attractions familiales, abrite des manèges, un zoo, une carte géante de la Colombie, des expositions, une main tenant le monde et symbolisant Dieu, une reproduction du [[Taj Mahal]] et une collection de reproductions de tableaux célèbres. Le parc est aussi utilisé pour de grands concerts de musique, principalement de musique électronique.
+* [[Maloka]] est un [[parc d'attractions|parc à thèmes]] consacré aux [[science]]s et aux [[technologie]]s. C'est également un musée [[interactivité|interactif]].
+* Le [[Parc Santander (Bogota)|Parc Santander]], autrefois appelé parc San Francisco, est un jardin public traditionnel.
+
+Le train touristique, populaire auprès des habitants de Bogota, conduit, le week-end, dans des villes éloignées, telles que [[Zipaquirá]], [[Cajicá]] et [[Nemocón]], le long des lignes de l'ancien ''Bogota Savannah Railway'' (le chemin de fer de la Savane de Bogota) qui transportait les passagers dans les villes de la région métropolitaine de Bogota. La ligne ferroviaire vers Zipaquirá (célèbre pour sa [[Cathédrale de sel de Zipaquirá|Cathédrale de Sel]], une église construite à l'intérieur des mines de sel) est longue de {{unité|53|km}}. Une autre ligne, de {{unité|47|km}}, va vers le nord et se termine à [[Briceño (Boyacá)|Briceño]].
+
+<gallery perrow="3">
+Fichier:Lago del Parque Simón Bolívar.JPG|Parc Simón Bolívar.
+Fichier:Parque de los periodistas (Bogotá).jpg|Parc des journalistes.
+Fichier:Parque 93.jpg|''Parque de la 93''.
+File:Parque Santander noche 2.JPG|[[Parc Santander (Bogota)|Parc Santander]].
+Fichier:BOG El Virrey hacia la 15.JPG|Parc El Virrey.
+</gallery>
+
+=== Théâtre et arts de la scène ===
+[[Fichier:Camarindelcarmen.JPG|vignette|gauche|Théâtre ''Camarín del Carmen''.]]
+[[Fichier:FITB.jpg|vignette|150px|Festival de théâtre ibéro-américain.]]
+
+Bogota, qui accueille le Festival de théâtre ibéro-américain, comporte 45 théâtres, dont les principaux sont le Théâtre Colón, le Théâtre national avec ses deux salles, le traditionnel TPB Hall, le Théâtre de La Candelaria, le Théâtre {{lang|es|''Camarín del Carmen''}} (un ancien couvent de plus de quatre cents ans), celui de la {{lang|es|''Colsubsidio''}} (le fonds d'indemnisation de la Caisse colombienne d'allocations familiales), et un symbole de la ville, le Théâtre rénové Jorge Eliécer Gaitán offrant, actuellement, la plus grande capacité en Amérique du Sud, l'Auditorium León de Greiff qui abrite l'[[Orchestre philharmonique de Bogota]], et l'''{{lang|en|Open Air Theater}}'', la ''{{lang|es|Media Torta}}'' où des manifestations musicales sont également organisées.
+
+Depuis 1984, Bogota a son propre festival de cinéma : le [[Festival du film de Bogota]], qui se déroule généralement en septembre ou octobre. Ce festival attribue le ''Círculo Precolombino de Oro''. De nombreuses salles présentent aussi bien les films contemporains que le cinéma d'art.
+
+Le principal centre culturel de Bogota est La Candelaria, lieu historique de la ville, avec une forte concentration d'universités et de musées. En 2007, Bogota fut désignée « Capitale culturelle ibéro-américaine ».
+{{clr|left}}
+
+=== Moyens de communication ===
+
+[[Fichier:Primera edición de El Espectador (22 mar. 1887).jpg|vignette|''El Espectador'' du 22 mars 1887.]]
+
+* Communication télévisuelle : plusieurs chaînes de télévision diffusent leurs émissions à Bogota : les stations locales {{Lien|lang=es|fr=Canal Capital}} et [[Citytv]], la station régionale Canal 13, les chaînes nationales [[Caracol Televisión]], [[RCN Televisión]], [[Canal 1 (Colombie)|Canal Uno]], [[Canal Institucional]] et [[Señal Colombia]]. Il existe également plusieurs services de télévision par satellite tels que [[DirecTV]] et [[Telefónica]]. La télévision par câble est fournie principalement par la société mexicaine [[Telmex]] (anciennement {{Lien|fr=TV par câble Bogota|lang=es|trad=TV Cable}}, Superview et Cablecentro) ainsi que par une entreprise du Venezuela qui, par l'intermédiaire du câble et des antennes paraboliques, permet d'avoir accès à des centaines de chaînes internationales. Plusieurs canaux exclusifs émettent aussi à Bogota.
+* Radiodiffusion sonore : dans la capitale de la Colombie, tous les principaux réseaux de radio du pays sont disponibles par les bandes [[Radio AM|AM]] et [[Radio FM|FM]]. 70 % des stations FM offrent le [[Radio Data System|service Radio Data System (RDS)]].
+* Presse écrite : parmi les journaux, citons ''[[El Tiempo (Colombie)|El Tiempo]]'', ''[[El Espectador]]'', ''[[El Periódico (Colombie)|El Periódico]]'' et ''[[El Nuevo Siglo]]'', ainsi que les quotidiens économiques ''[[La República (Colombie)|La República]]'' et ''Portafolio'', les [[Presse people|tabloïds]] ''[[El Espacio]]'', ''Q'Hubo'', et ''Extra''. Existe aussi le ''Communist Party's Voz Proletaria''. Bogota publie un journal gratuit appelé aDn.
+
+=== Gastronomie ===
+[[File:Chocolate Especial.jpg|thumb|left|Chocolat chaud de Santa Fe ''({{lang|es|Chocolate santafereño}})''.]]
+[[Fichier:Ajiaco.jpg|thumb|''{{lang|es|El [[ajiaco]]}}'', plat typique de Bogota.]]
+À Bogota, outre la cuisine typique ''{{lang|es|santafereña}}'', on trouve également des spécialités de toutes les régions de la Colombie.
+
+Parmi les plats typiques, on peut citer l'''{{lang|es|[[ajiaco]] santafereño}}'', soupe composée de poulet, de plusieurs sortes de pommes de terre, de [[manioc]], de [[maïs]] et d'une herbe appelée ''{{lang|es|guascas}}''. Cette soupe est servie, le plus souvent, avec un peu de crème, de [[coriandre]] fraîche et, parfois, des [[câpre]]s. Elle se consomme accompagnée d'un [[avocat (fruit)|avocat]] cru.
+
+Le ''[[tamal]]'', cuit à la vapeur dans une feuille de bananier, dont on trouve de nombreuses déclinaisons dans différents pays d'Amérique latine, est souvent servi au petit déjeuner avec un chocolat chaud. Il s'agit d'une pâte de farine de maïs avec de la viande ou du poulet, des pois chiches, des carottes et des épices. Ce plat est présenté dans une feuille de bananier.
+
+L'''[[arepa]]'' est une galette de farine de maïs. Sa version la plus courante est ''l'arepa con queso'' (au fromage).
+
+Les ''{{lang|es|[[empanada]]s}}'', différentes sortes de beignets fourrés, sont également une nourriture courante cuisinée chez soi ou achetée dans la rue.
+
+Les figues au caramel, les fraises à la crème et les desserts avec de la crème en général sont des mets appréciés à Bogota.
+
+Le ''{{lang|es|[[canelazo]]}}'' est une boisson de l'Altiplano cundiboyacense préparée avec de l'aguapanela (eau sucrée par dissolution d'un pain de sucre de canne), de l'[[aguardiente]] et de la [[Cannelle (écorce)|cannelle]], qui se boit chaude.
+
+La « ''[[chicha (boisson)|chicha]]'' et ''{{lang|es|masato}}'' » (dérivé du maïs [[Fermentation|fermenté]]) est une boisson andine typique<ref>{{es}}[http://amerique-latine.com/ala/fr/Chicha.html La chicha ou ak'ha. Amérique latine]. Consulté le 23 mai 2013.</ref>.
+
+Les boissons les plus courantes, comme ailleurs en Colombie et souvent dans le reste de l'Amérique latine, sont les jus de fruits frais, dilués avec de l'eau ou du lait.
+
+=== Religion ===
+
+[[File:Iglesia de Nuestra Señora de Lourdes - Chapinero.JPG|thumb|Église Notre-Dame de Lourdes, ''{{lang|es|barrio Chapinero}}'', Bogota.]]
+[[File:CatedralPrimadaBogota2004-7.jpg|thumb|left|150px|Cathédrale de l'Immaculée-Conception, basilique métropolitaine, plus connue sous le nom de ''Catedral Primada''.]]
+
+Comme dans toute la Colombie, l'unité familiale tient une grande place parmi les valeurs de la société ''{{lang|es|bogotana}}'' et se manifeste particulièrement lors des fêtes religieuses et des temps forts de l'année.
+
+Bogota a été majoritairement [[catholicisme|catholique]]; le nombre d'églises construites dans le centre historique de la ville le prouve. La ville est le siège de l'[[archidiocèse de Bogota]] depuis le 22 mars 1564, actuellement situé dans les nouveaux bâtiments du nord de la ville. La [[cathédrale de l'Immaculée-Conception de Bogota|cathédrale de l'Immaculée-Conception]] est le siège de l'archevêché.
+
+La Constitution de 1991 a facilité la présence de mouvements [[protestantisme|protestants]] et d'autres groupes religieux parmi la population. Une [[mosquée]] se trouve dans le quartier de [[Chapinero]]. La principale [[synagogue]] juive [[ashkénaze]] (quatre synagogues existent à Bogota) est située sur la {{94e|rue}} (appelée aussi avenue de l'État d'Israël). Le 20 avril 2011, un acte antisémite fut commis sur le mur de la synagogue ashkénaze sous la forme de [[graffiti]]s haineux (le mot « Juifs » et une croix gammée)<ref>{{lien web|titre=Antisemite abusive wall inscription on a synagogue's wall|url=http://antisemitism.org.il/article/64531/antisemite-abusive-wall-inscription-synagogues-wall|éditeur=CFCA|consulté le=6 octobre 2012}}</ref>.
+
+Une [[église orthodoxe]] orientale et la cathédrale [[anglicanisme|anglicane]] San Pablo, l'église mère de l'Église épiscopale de Colombie, sont toutes deux situées dans le quartier de Chapinero.
+Le temple mormon de [[Église de Jésus-Christ des saints des derniers jours|l'Église de Jésus-Christ des saints des derniers jours]] se trouve dans le quartier de Niza.
+Il existe aussi quatre centres [[bouddhisme|bouddhistes]] dans le nord de la ville.
+De nombreuses églises protestantes se dressent dans diverses parties de la ville, y compris la chapelle [[baptisme|baptiste]] de Bogota, l'église de l'Union non confessionnelle, et l'église de la Communauté évangélique de langue allemande Saint-Matthäus dont les services sont en allemand et en espagnol.
+
+=== Sport ===
+[[File:El Campin remodelado.JPG|thumb|right|Le [[Stade Nemesio Camacho El Campín]].]]
+L'Institut du district des Loisirs et du Sport veille également à la bonne utilisation des stades de Bogota. Le [[futsal|football en salle]], le sport le plus populaire de la ville, a été déclaré sport symbolique de Bogota. Le football professionnel colombien jouit, dans la ville, d'une grande considération en tant que sport national d'une extrême importance. Deux des trois équipes de football de Bogota, [[Millonarios Fútbol Club|Millonarios]] et [[Club Independiente Santa Fe|Santa Fe]], ont un nombre très élevé de supporters. Millonarios a remporté quatorze ligues et Santa Fe sept. Grâce à ces deux équipes, Bogota est la première ville de Colombie en nombre de titres, avec [[Cali]], soit vingt titres reçus. Le [[Stade Nemesio Camacho El Campín]] accueille Millonarios depuis 1938, et Santa Fe depuis 1951. El Campín fut l'hôte de la finale de la [[Coupe du monde de football des moins de 20 ans]] en 2011. La troisième équipe de football de Bogota est [[Club Deportivo La Equidad|La Equidad]].
+
+Parmi les autres grands sites sportifs, citons : le colisée El-Campín, le complexe aquatique du parc Simón-Bolívar, le palais des Sports et le complexe sportif El-Salitre qui inclut le vélodrome Luis-Carlos-Galán-Sarmiento (l'hôte de la [[Coupe du monde de cyclisme sur piste]] en 1995) et le stade de baseball El-Salitre.
+
+Bogota a accueilli les premiers [[Jeux bolivariens]] en 1938 et les Jeux nationaux en 2004. La ville a été « co-hôtesse », avec d'autres villes de Colombie, de différents [[Jeux panaméricains]] et Jeux bolivariens. Bogota est également présente dans le parcours du [[Tour de Colombie]].
+
+=== Symboles de la ville ===
+
+Le [[Drapeau de la ville de Bogota|drapeau de Bogota]] a pour origine le mouvement de rébellion qui éclata le {{date|20|juillet|1810}} contre les autorités coloniales. Les rebelles ont commencé à porter à l'avant-bras une rosette aux couleurs jaune et rouge, celles du drapeau de l'[[Espagne]] alors en vigueur au [[Royaume de Nouvelle-Grenade|Nouveau Royaume de Grenade]]. 142 ans plus tard, par décret 555 du {{date|9|octobre|1952}}, l'insigne des patriotes de la guerre d'indépendance du {{date|20|juillet|1810}}<ref>http://www.bogotaturismo.gov.co/datos-de-bogota/Bandera, Escudo e Himno de Bogotá</ref> fut finalement adopté comme drapeau officiel de Bogota.
+
+Signification des couleurs :
+* le jaune représente la [[justice]], la [[miséricorde]] et la [[bonté]] ;
+* le rouge symbolise la [[liberté]], la [[santé]] et la [[charité]].
+
+Par le [[Royal Warrant]] de [[Valladolid]] du 3 décembre 1548, l'empereur [[Charles Quint]] accorda des [[Blason de Bogota|armoiries à la ville de Santa Fe]] (actuellement Bogota). En voici un extrait traduit de l'ancien espagnol :
+
+{{Citation bloc|... et parce que nous méritons et nous souhaitons que, désormais, le commandement agora et la dite province du Nouveau Royaume de Grenade et les villes aient des armes et soient connus par un bouclier ayant au centre un aigle noir couronné, sur fond d'or, tenant dans chaque patte une grenade rouge, avec neuf grenades d'or sur une bordure bleue.}}
+
+Soit en termes de [[blasonnement]] : « ''D'or, à l'aigle couronnée de sable tenant dans chaque patte une grenade de gueules, à la bordure d'azur neuf grenades d'or.'' » <sup>20</sup>
+
+Dans ces armoiries données par Charles Quint au Nouveau Royaume de Grenade, l'aigle symbolise la force, les neuf [[grenade (fruit)|grenades]] représentent le [[courage]] et l'intrépidité.
+
+<gallery>
+Flag of Bogotá.svg|<center>[[Drapeau de la ville de Bogota|Drapeau de Bogota]].</center>
+Escudo de Armas de Bogota.svg|<center>[[Blason de Bogota|Armoiries de Bogota]].</center>
+</gallery>
+
+=== Autres lieux de Bogota ===
+
+[[Fichier:PanoramaPlacaBolivarBogota.jpg|thumb|900px|center|upright=3.2|[[Place Bolívar]], Bogota.]]
+
+* [[Arènes de Santamaría]]
+* [[Jardin botanique José Celestino Mutis]]
+* [[Stade Nemesio Camacho El Campín]]
+* [[Tour Colpatria]]
+
+== Personnalités bogotaines ==
+* [[María Josefa Acevedo de Gómez]] (1803 - 1861), romancière.
+* [[Ramón Torres Méndez]] (1809 - 1885), peintre et lithographe<ref>{{es}}José Belvez, [http://www.banrepcultural.org/blaavirtual/todaslasartes/conmi/conmi04.htm {{Citation étrangère|langue=es|Biografía de Ramón Torres Méndez}}. Biblioteca Luis Ángel Arango]. Consulté le 6 juin 2013.</ref>.
+* [[Rafael Pombo]] (1833 - 1912), poète, écrivain et fabuliste<ref>{{es}}[http://www.banrepcultural.org/blaavirtual/biografias/pombrafa.htm {{Citation étrangère|langue=es|Ficha Bibliográfica : Pombo, Rafael}}. Biblioteca Luis Ángel Arango]. Consulté le 4 juin 2013.</ref>.
+* [[Rufino José Cuervo]] (1844 - 1911), écrivain, linguiste et philologue<ref>{{es}}[http://www.elespectador.com/impreso/cultura/articulo-283113-guerra-de-letras-de-un-ermitano ''La guerra de letras de un ermitaño. Elespectador. Cultura'']. Consulté le 29 mai 2013.</ref>.
+* [[José Asunción Silva]] (1865 - 1896), poète<ref>{{en}}[http://www.poetryinternationalweb.net/pi/site/poet/item/1274 {{Citation étrangère|langue=en|Poetry International. Colombia. José Asuncíon Silva}}]. Consulté le 5 juin 2013.</ref>.
+* [[Alberto Castilla Buenaventura]] (1878 - 1937), compositeur, musicien, mathématicien et journaliste<ref>{{Lien web|langue=es|url=http://www.conservatoriodeltolima.edu.co/index.php/alberto-castilla-buenaventura|titre=Alberto Castilla Buenaventura|site=conservatoriodeltolima.edu.co|éditeur=Conservatorio del Tolima|consulté le=3 septembre 2015}}.</ref>.
+* [[María Currea]] (1890-1985), féministe et femme politique<ref>{{article|nom1=Polanco Yermanos|prénom1=Claudia María|titre=María Currea de Aya|url=http://www.semana.com/especiales/articulo/maria-currea-aya/75378-3|consulté le=2 mars 2016|périodique=Semana|date=12 March 2005|lieu=Bogotá, Colombia|langue=es}}.</ref>.
+* [[Rodolfo Llinás|Rodolfo Llinás Riascos]] (1934 - ), neuroscientifique<ref>[http://www.academie-sciences.fr/academie/membre/Llinas_Rodolfo.htm Académie des sciences. {{Citation|Associé étranger de l'Académie des sciences}}]. Consulté le 31 mai 2013.</ref>.
+* [[Antanas Mockus]] (1952 - ), philosophe, mathématicien, homme politique<ref>[https://www.courrierinternational.com/article/2010/05/27/prof-et-un-peu-prophete {{Citation|Antanas Mockus. Prof et un peu prophète}}. Courrier international]. Consulté le {{1er}} juin 2013.</ref>.
+* [[Enrique Peñalosa|Enrique Peñalosa Londoño]] (1955 - ), homme politique, militant pour le nouvel urbanisme<ref>{{es}}[http://www.enriquepenalosa.com/ Site officiel de Enrique Peñalosa]. Consulté le 4 juin 2013.</ref>.
+* [[Martín Ramírez]] (1960 - ), coureur cycliste.
+* [[Íngrid Betancourt]] (1961 - ), femme politique.
+* [[Juan Pablo Montoya]] (1975 - ), pilote de course automobile<ref>[https://www.lequipe.fr/Formule1/Formule1FichePilote625.html {{Citation|Juan Pablo Montoya}}. L'Équipe. Formule 1]. Consulté le 3 juin 2013.</ref>.
+* [[Antonio Negret]] (1982 - ), réalisateur de cinéma.
+*[[Jéssica Cediel]] (1982-), journaliste.
+* [[Esteban Chaves]] (1990 - ), coureur cycliste.
+
+{{clr|left}}
+=== Personnalités religieuses ===
+
+* [[Rafael Almansa]] (1840 - 1927), prêtre franciscain<ref>{{es}}Luis Carlos Mantilla, [http://www.banrepcultural.org/blaavirtual/biografias/almafray.htm {{Citation étrangère|langue=es|Fray Miguel Almanza}}. Biblioteca Luis Ángel Arango], 2003. Consulté le 7 juin 2013.</ref>.
+* [[Sara Alvarado Pontón]] (1902 - 1980), fondatrice des Sœurs dominicaines filles de Notre-Dame de Nazareth<ref>{{es}}Georg Schwaiger, [https://books.google.fr/books?id=SU-Oj_YRJ7AC&pg=PA210&dq=Sara+Alvarado+Ponton&hl=fr#v=onepage&q=Sara%20Alvarado%20Ponton&f=false {{Citation étrangère|langue=es|La vida religiosa de la A a la Z: desde los origenes hasta nuestros días}}], 1988, {{p.|210}}. Consulté le 7 juin 2013.</ref>.
+
+== Jumelages et pactes d'amitié ==
+{{article connexe|Liste des villes jumelées de Colombie}}
+Bogota a passé un accord de [[jumelage]] de villes avec [[Miami]] (États-Unis) en 1971<ref>[http://www.ci.miami.fl.us/mic/pages/Spanish/SisterCities/Bogota.asp {{lang|es|texte=Programa ciudades hermanas}}], ''City of Miami'', URL último acceso el 27/04/2007.</ref>, un autre avec [[Cadix]] (Espagne) en 2008<ref>{{Lien web|langue=es|titre=Cádiz sella su hermanamiento con ciudades de la Ruta Mutis en Colombia|url=http://www.lavozdigital.es/cadiz/20080911/local/cadiz/cadiz-sella-hermanamiento-ciudades-200809111147.html|éditeur=La Voz|consulté le=6 janvier 2009}}</ref> et également avec [[Chicago]] (États-Unis) en 2009<ref>{{Lien web|langue=en|url=http://www.chicagosistercities.com/our.php|titre=Bogota: Chicago's Sister City Since 2009|éditeur=Chicago Sister Cities|consulté le=11 mai 2012}}</ref>. En 1982, la ville a signé un accord de jumelage pour la [[coopération internationale]] avec [[Séoul]] (Corée du Sud)<ref>{{en}}[http://seoulen.seoul.go.kr/gover/cooper/coo_02sis.html City Government International Cooperation]. Consulté le 12 mai 2013.</ref>. En outre, Bogota fait partie de l'[[Union des Capitales culturelles ibéro-américaines]] ''({{lang|es|Unión de Ciudades Capitales Iberoamericanas, UCCI}})'' qui regroupe 29 villes d'Ibéro-Amérique ([[péninsule Ibérique]] et [[Amérique latine]]<ref>{{Lien web|langue=es|url=http://www.munimadrid.es/portal/site/munimadrid/menuitem.f4bb5b953cd0b0aa7d245f019fc08a0c/?vgnextoid=72bc62995184b010VgnVCM100000d90ca8c0RCRD&vgnextchannel=ce069e242ab26010VgnVCM100000dc0ca8c0RCRD&idCapitulo=1246226|titre=UCCI: el protagonismo de las Ciudades en Iberoamérica y en el mundo|consulté le=28 février 2009|éditeur=Ayuntamiento de Madrid}}</ref>). Bogota est jumelée avec 37 villes<ref>[http://www-1.munimadrid.es/principal/monograficos/CiudadesHermanadas/docs/hermanamiento_UCCI.pdf Jumelage entre capitales]</ref>{{,}}<ref>[http://www.ci.miami.fl.us/mic/pages/Spanish/SisterCities/Bogota.asp Villes jumelées avec Miami]</ref>{{,}}<ref>[[:es:Anexo:Unión de Ciudades Capitales Iberoamericanas|Article en espagnol]]</ref> :
+{{colonnes|nombre=3|
+* {{Jumelage|Abou Dabi (ville)|ville=Abu Dhabi|Émirats arabes unis}}
+* {{Jumelage|Andorre-la-Vieille|Andorre}}
+* {{Jumelage|Asunción|Paraguay}}
+* {{Jumelage|Athènes|Grèce}}
+* {{Jumelage|Barcelone|Espagne}}
+* {{Jumelage|Berlin|Allemagne}}
+* {{Jumelage|Brasilia|Brésil}}
+* {{Jumelage|Buenos Aires|Argentine}}
+* {{Jumelage|Cadix|Espagne}}
+* {{Jumelage|Caracas|Venezuela}}
+* {{Jumelage|Chicago|États-Unis}}
+* {{Jumelage|Guatemala (ville)|Guatemala|ville=Guatemala}}
+* {{Jumelage|Istanbul|Turquie}}<ref>{{Lien web|langue=es|url=http://gustavopetro.com/index.php/noticias/206-bogota-y-estambul-firman-acuerdo-de-hermanamiento|site=gustavopetro.com|titre=Bogotá y Estambul firman acuerdo de hermanamiento.|consulté le=18 mai 2012}}</ref>
+* {{Jumelage|La Havane|Cuba}}
+* {{Jumelage|La Paz|Bolivie|ville=La Paz}}
+* {{Jumelage|Lima|Pérou}}
+* {{Jumelage|Lisbonne|Portugal}}
+* {{Jumelage|Londres|Angleterre}}
+* {{Jumelage|Madrid|Espagne}}
+* {{Jumelage|Managua|Nicaragua}}
+* {{Jumelage|Mexico|Mexique}}
+* {{Jumelage|Miami|États-Unis}}
+* {{Jumelage|Montevideo|Uruguay}}
+* {{Jumelage|Moscou|Russie}}
+* {{Jumelage|Navi Mumbai|Inde}}
+* {{Jumelage|New York|États-Unis}}
+* {{Jumelage|Panama (ville)|Panama|ville=Panama}}
+* {{Jumelage|Port-au-Prince|Haïti}}
+* {{Jumelage|Quito|Équateur}}
+* {{Jumelage|Rio de Janeiro|Brésil}}
+* {{Jumelage|Rome|Italie}}
+* {{Jumelage|San José (Costa Rica)|Costa Rica|ville=San José}}
+* {{Jumelage|San Juan (Porto Rico)|Porto Rico|ville=San Juan}}
+* {{Jumelage|San Salvador (Salvador)|Salvador|ville=San Salvador}}
+* {{Jumelage|Saint-Domingue (ville)|République dominicaine|ville=Saint-Domingue}}
+* {{Jumelage|Santa Fe (Grenade)|Espagne|ville=Santa Fe}}
+* {{Jumelage|Santiago|Chili}}
+* {{Jumelage|Séoul|Corée du Sud}}
+* {{Jumelage|Tegucigalpa|Honduras}}
+* {{Jumelage|Toronto|Canada}}
+}}
+
+[[Fichier:Panorama vanas bogotaf.jpg|thumb|900px|center|upright=3.2|Vue panoramique de Bogota.]]
+
+== Notes et références ==
+{{Traduction/Référence|es|Bogotá|50723703|type=note}}
+{{Références nombreuses|taille=25}}
+
+== Voir aussi ==
+{{Autres projets
+| commons=Category:Bogotá
+| wiktionary=Bogota
+}}
+
+=== Articles connexes ===
+* [[Rock al parque]]
+* [[Villes les plus hautes du monde]]
+* [[Ville mondiale]]
+* [[Métropole]]
+* [[Villes de Colombie]]
+
+=== Liens externes ===
+* {{Site officiel}}
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+
+{{Palette|Municipalités du département de Cundinamarca|Chefs-lieux de Colombie|Capitales d'Amérique}}
+{{Portail|Bogota|Colombie}}
+
+[[Catégorie:Bogota|*]]
+[[Catégorie:Capitale en Amérique du Sud]]
+[[Catégorie:Division administrative fondée en 1538]]
+[[Catégorie:District en Colombie]]

@@ -1,0 +1,294 @@
+{{Voir homonymes|Somme}}
+{{Infobox Cours d'eau
+|nom=Somme
+|autres noms=
+|image=Somme.JPG
+|légende image=La Somme.
+|carte=Bassin de la Somme.svg
+|légende carte=La Somme dans le nord de la France.
+|longueur=245
+|longueur notes=<ref name=somdep/>{{,}}<ref name=ameva/>
+|bassin=6380
+|bassin notes=<ref name=sage1/>{{,}}<ref name=sage2/>({{unité|5560|km|2}} à [[Abbeville]])<ref name=hydro/>
+|bassin collecteur=[[Bassin de la Somme]]
+|débit=35.00
+|débit lieu=[[Abbeville]]
+|débit notes=<ref name=hydro/>
+|régime=[[Régime pluvial|Pluvial]] [[climat océanique|océanique]]
+|source=Au sud-ouest de la ferme Fervaques et de la Motte ({{unité|126|m}})
+|source localisation=[[Fonsomme]], [[France]]
+|source altitude=86
+|source latitude=49.9064
+|source longitude=3.4028
+|embouchure=[[Baie de Somme]] - [[Manche (mer)|Manche]]
+|embouchure localisation=[[Saint-Valery-sur-Somme]]
+|embouchure altitude=0
+|embouchure latitude=50.1867
+|embouchure longitude=1.6431
+|pays={{France}}
+|subdivision1=[[Hauts-de-France]]
+|lien subdivision1=[[Région française|Région]]
+|subdivision2=[[Aisne (département)|Aisne]], [[Somme (département)|Somme]]
+|lien subdivision2=[[département français|Départements]]
+|villes=[[Saint-Quentin]], [[Ham (Somme)|Ham]], [[Péronne (Somme)|Péronne]], [[Corbie]], [[Amiens]], [[Abbeville]], [[Saint-Valery-sur-Somme]]
+|affluents rive gauche=[[Avre (affluent de la Somme)|Avre]], [[Selle (affluent de la Somme)|Selle]], [[Saint-Landon]], [[Airaines (rivière)|Airaines]], [[Amboise (rivière)|Amboise]]
+|affluents rive droite=[[Omignon]], [[Ancre (rivière)|Ancre]], [[Hallue]], [[Nièvre (affluent de la Somme)|Nièvre]], [[Scardon]]
+|nombre de Strahler=5
+|organisme gestionnaire=[http://ameva.org/?q=content/le-bassin-versant/presentation AMEVA - syndicat mixte d'aménagement et de valorisation du bassin de la Somme]
+|sources=[[Service d'administration nationale des données et référentiels sur l'eau|SANDRE]]:{{sandre|E6--009-|texte=E6--009-|source=non}}, [[Géoportail (France)|Géoportail]], [[Banque Hydro]], Ameva, [[OpenStreetMap]]
+}}
+La '''Somme''' est un [[fleuve]] du nord de la [[France]], en [[région française|région]] [[Hauts-de-France]], qui traverse les deux [[département français|départements]] de l'[[Aisne (département)|Aisne]] et de la [[Somme (département)|Somme]]. Il donne son nom à ce dernier.
+
+== Étymologie ==
+Les [[Rome antique|Romains]] l'appelaient '''''Samara''''', reprenant ainsi des termes gaulois : ''samo'' (tranquille) et ''ar'' (rivière ou vallée). Il est vrai que son cours est la plupart du temps extrêmement paisible. Le passage de la forme ''Samara'' à ''Somme'' peut être expliqué par un phénomène appelé [[Dyslalie|sigmatisme]], ici passage de R à S, ''Samara'' devenant ''Samasa'', puis par [[amuïssement]] (affaiblissement) à la fois de A et de S et assimilation de S en M : SAMASA > SaMaSa > SaMMa > SOMME, et cela sur une période difficilement définissable{{refnec}}.
+
+Depuis 2012, les habitants de la Somme sont officiellement dénommés Samariens. Le nom de ''Samara'' a par ailleurs été repris dans l'appellation du parc à vocation de présentation de la Préhistoire et des milieux naturels picards près d'[[Amiens]] (dénommée ''Samarobriva'' : ''pont sur la Somme'' à la période gallo-romaine), entre Amiens et [[Abbeville]] : le [[Parc de Samara]].
+
+== Géographie ==
+Sa [[Source (hydrologie)|source]] est située sur la commune de [[Fonsomme]] dans le département de l'[[Aisne (département)|Aisne]] à {{unité|86|mètres}} d'altitude, au sud-ouest de la Ferme Fervaques et de la Motte ({{unité|126|m}}). Sa vallée forme un ensemble complexe de cours d'eau, de marais, d'étangs et de canaux. Le fleuve conserve sur toute sa longueur une orientation tectonique vers l'[[Ouest]] ou l'ouest-nord-ouest en décrivant de nombreux [[méandre]]s.
+
+La longueur de son cours est de {{unité|245|km}}<ref name=somdep>{{Lien web
+ |url          = http://www.somme.fr/developpement-durable/le-grand-projet-vallee-de-somme/presentation-de-la-vallee.html
+ |titre        = Présentation de la vallée
+ |auteur       = conseil général de la somme
+ |consulté le = 25 décembre 2011
+ }}</ref>{{,}}<ref name=ameva>{{Lien web
+|url=http://www.ameva.org/?q=content/le-bassin-versant/eaux-superficielles-et-souterraines
+|titre=Eaux superficielles et souterraines
+|auteur=AMEVA - syndicat mixte
+|consulté le=25 décembre 2011
+}}</ref>{{,}}<ref group=note>il s'agit du cours avec le canal maritime d'[[Abbeville]] à [[Saint-Valery-sur-Somme]] fait pour protéger la plage orientée au sud, la plus au nord de France métropolitaine, [[le Crotoy|du Crotoy]].</ref>.
+
+La Somme se jette dans la [[Manche (mer)|Manche]] par la [[baie de Somme]] entre [[Le Crotoy]] et [[Saint-Valery-sur-Somme]]. Le cours naturel de la Somme donnait un estuaire au [[Le Crotoy|Crotoy]] mais la situation dans la baie de cette plage exposée au sud a donné lieu à un détournement artificiel de la Somme canalisée vers le port de [[Saint-Valery-sur-Somme]]. (voir chapitre [[#Canal de la Somme|Canal de la Somme]])
+
+=== Principales villes ===
+* Dans l’[[Aisne (département)]] : [[Saint-Quentin]]
+* Dans la [[Somme (département)]] : [[Ham (Somme)|Ham]], [[Péronne (Somme)|Péronne]], [[Corbie]], [[Amiens]], [[Abbeville]], [[Saint-Valery-sur-Somme]]
+
+=== Communes et cantons traversés ===
+[[Fichier:Amiens et la Somme.jpg|vignette|gauche|upright=1.0|La [[cathédrale d'Amiens]] et la [[Tour Perret (Amiens)|tour Perret]] en arrière-plan du fleuve.|alt=La cathédrale d'Amiens et la tour Perret en arrière-plan du fleuve.]]
+[[Fichier:INCONNU - Vieil Amiens - Pont Becquet.JPG|vignette|upright=1.2|Le pont Becquet à [[Amiens]], au début du {{s-|XX}}.|alt=Le pont Becquet à Amiens, au début du xxe siècle.]]
+La Somme traverse quatre-vingt-onze (91) communes<ref name=somcan/>{{,}}<ref name=somriv>{{sandre|E6---140|La Somme rivière|consulté le=22 décembre 2012}}</ref>{{,}}<ref group=note>Soit {{nobr|74 communes}} pour la Somme canalisée + {{nobr|49 communes}} pour la somme rivière - {{nobr|22 communes}} comptées deux fois = {{nobr|91 communes}}.<br/>''Liste des communes comptées deux fois'' :
+[[Béthencourt-sur-Somme]], [[Biaches]], [[Bray-sur-Somme]], [[Cappy]], [[Cléry-sur-Somme]], [[Éclusier-Vaux]], [[Épénancourt]], [[Éterpigny (Somme)]], [[Feuillères]], [[Frise (Somme)]], [[Ham (Somme)]], [[La Neuville-lès-Bray]], [[Offoy (Somme)]], [[Pargny]], [[Péronne (Somme)]], [[Pithon]], [[Saint-Christ-Briost]], [[Saint-Simon (Aisne)]], [[Sancourt (Somme)]], [[Sommette-Eaucourt]], [[Villers-Carbonnel]], [[Voyennes]]</ref> et vingt-deux cantons :
+* dans le sens amont vers aval : [[Fonsomme]] (source), [[Essigny-le-Petit]], [[Remaucourt (Aisne)|Remaucourt]], [[Lesdins]], [[Morcourt (Aisne)|Morcourt]], [[Omissy]], [[Rouvroy (Aisne)|Rouvroy]], [[Saint-Quentin]], [[Gauchy]], [[Grugies]], [[Dallon]], [[Castres (Aisne)|Castres]], [[Fontaine-lès-Clercs]], [[Contescourt]], [[Seraucourt-le-Grand]], [[Happencourt]], [[Artemps]], [[Tugny-et-Pont]], [[Saint-Simon (Aisne)|Saint-Simon]], [[Ollezy]], [[Dury (Aisne)|Dury]], [[Sommette-Eaucourt]], [[Pithon]], [[Ham (Somme)|Ham]], [[Eppeville]], [[Hombleux]], [[Offoy (Somme)|Offoy]], [[Voyennes]], [[Béthencourt-sur-Somme]], [[Villecourt]], [[Pargny]], [[Falvy]], [[Épénancourt]], [[Ennemain]], [[Cizancourt]], [[Saint-Christ-Briost]], [[Villers-Carbonnel]], [[Brie (Somme)|Brie]], [[Éterpigny (Somme)|Éterpigny]], [[Doingt]], [[Péronne (Somme)|Péronne]], [[Biaches]], [[Cléry-sur-Somme]], [[Feuillères]], [[Hem-Monacu]], [[Curlu]], [[Frise (Somme)|Frise]], [[Éclusier-Vaux]], [[Suzanne (Somme)|Suzanne]], [[Cappy]], [[Bray-sur-Somme]], [[La Neuville-lès-Bray]], [[Proyart]], [[Étinehem-Méricourt]], [[Chipilly]], [[Morcourt (Somme)|Morcourt]], [[Cerisy]], [[Sailly-Laurette]], [[Le Hamel (Somme)|Le Hamel]], [[Sailly-le-Sec]], [[Vaux-sur-Somme]], [[Vaire-sous-Corbie]], [[Hamelet]], [[Corbie]], [[Fouilloy (Somme)|Fouilloy]], [[Aubigny (Somme)|Aubigny]], [[Daours]], [[Vecquemont]], [[Blangy-Tronville]], [[Lamotte-Brebière]], [[Glisy]], [[Camon (Somme)|Camon]], [[Rivery]], [[Amiens]], [[Dreuil-lès-Amiens]], [[Ailly-sur-Somme]], [[Breilly]], [[La Chaussée-Tirancourt]], [[Picquigny]], [[Belloy-sur-Somme]], [[Crouy-Saint-Pierre]], [[Yzeux]], [[Bourdon (Somme)|Bourdon]], [[Hangest-sur-Somme]], [[Flixecourt]], [[Condé-Folie]], [[L'Étoile (Somme)|L'Étoile]], [[Longpré-les-Corps-Saints]], [[Long (Somme)|Long]], [[Cocquerel]], [[Fontaine-sur-Somme]], [[Pont-Remy]], [[Eaucourt-sur-Somme]], [[Épagne-Épagnette]], [[Mareuil-Caubert]], [[Abbeville]], [[Grand-Laviers]], [[Saigneville]], [[Boismont (Somme)|Boismont]], [[Saint-Valery-sur-Somme]] (embouchure).
+
+Soit en termes de cantons, la Somme prend source dans le [[canton de Saint-Quentin-Nord]], traverse les [[canton de Saint-Quentin-Centre]], [[canton de Saint-Quentin-Sud]], [[canton de Saint-Simon]], [[canton de Ham]], [[canton de Nesle]], [[canton de Péronne]], [[canton de Combles]], [[canton de Bray-sur-Somme]], [[canton de Corbie]], [[canton de Boves]], [[canton d'Amiens-4-Est]], [[canton d'Amiens-5-Sud-Est]], [[canton d'Amiens-6-Sud]], [[canton d'Amiens-7-Sud-Ouest]], [[canton d'Amiens 1er (Ouest)]], [[canton de Picquigny]], [[canton de Hallencourt]], [[canton d'Ailly-le-Haut-Clocher]], [[canton d'Abbeville-Sud]], [[canton d'Abbeville-Nord]], et a son embouchure dans le [[canton de Saint-Valery-sur-Somme]].
+
+
+<gallery style="text-align:center" mode="packed" heights="170px" caption="La somme à Saint-Valery par [[Eugène Boudin]]">
+Fichier:Eugène Louis Boudin (1824-1898) - Saint-Valery-sur-Somme, France - ABDAG002293 - Aberdeen Art Gallery.jpg|<center>''Saint-Valery-sur-Somme'', 1890<br>[[Aberdeen]], Art Gallery</center>
+Fichier:Eugène Boudin - View of the Port of Saint-Valéry-sur-Somme - 2010.23 - Cleveland Museum of Art.tif|<center>''Vue sur le port de Saint-Valery-sur-Somme'', 1891<br>[[Cleveland Museum of Art]]</center>
+File:Eugène Boudin - Saint-Valery-sur-Somme. L'Embouchure de la Somme.jpg|<center>''Saint-Valery-sur-Somme. L'Embouchure de la Somme'', 1891<br>Collection privée, Vente 2011</center>
+</gallery>
+
+=== Toponymes ===
+La Somme a donné son [[hydronyme]] au département de la Somme, et aux douze communes suivantes de [[Fonsomme]], [[Sommette-Eaucourt]], [[Béthencourt-sur-Somme]], [[Cléry-sur-Somme]], [[Bray-sur-Somme]], [[Vaux-sur-Somme]], [[Ailly-sur-Somme]], [[Belloy-sur-Somme]], [[Hangest-sur-Somme]], [[Fontaine-sur-Somme]], [[Eaucourt-sur-Somme]], [[Saint-Valery-sur-Somme]].
+
+=== Bassin versant ===
+La Somme traverse trente-une zones hydrographiques<ref name=sandre>{{sandre|E6--009-|la Somme Canalisée|consulté le=19 août 2020}}</ref>{{Note|group=note|texte=le [[SANDRE]] 2020 n'affiche plus les surfaces des zones hydrographiques, ni les répartitions par type de terrains}}.
+
+Selon les SAGE de la Haute Somme, le bassin versant est de {{nb|1850|km|2}}<ref name="sage2">{{lien web|url=https://www.ameva.org/?q=content/les-sage/sage-haute-somme|site=www.ameva.org|titre=SAGE Haute Somme|consulté le=30 août 2020}}</ref>. Selon le Sage somme aval et cours d'eau côtiers (donc incluant la Maye), le bassin versant est de {{nb|4530|km|2}}<ref name="sage1">{{lien web|url=https://www.ameva.org/?q=content/les-sage/sage-somme-aval-et-cours-deau-cotiers|site=www.ameva.org|titre=SAGE Somme aval et Cours d'eau côtiers|consulté le=30 août 2020}}</ref>. Le bassin versant total s'établit donc à {{nb|6380|km|2}} selon l'[[EPTB]]-AMEVA<ref name=sage1/>{{,}}<ref name=sage2/>.
+
+Les fleuves voisins sont au nord l'[[Authie (fleuve)|Authie]] et au sur la [[Bresle]].
+ 
+{{Localisation ville|ville=la Somme
+|nord=l'[[Authie (fleuve)|Authie]]
+|est=
+|ouest=
+|sud=la [[Bresle]]
+|nord-est=
+|nord-ouest=
+|sud-est=
+|sud-ouest=
+}}
+=== Organisme gestionnaire ===
+{{détails|Droit de la gestion des cours d'eau en France|Gestion de l'eau en France}}
+L'organisme gestionnaire est l'[[EPTB]] Somme ou AMEVA<ref name="adherents">{{Lien web|url=http://ameva.org/?q=content/qui-sommes-nous/les-structures-adherentes|site=ameva.org|titre=AMEVA - les structures adhérentes|consulté le=23 avril 2020}}</ref>.
+
+== Affluents ==
+{{Article détaillé|Liste des affluents et sous-affluents de la Somme}}
+
+[[Fichier:Bassin de la Somme.png|vignette|centre|600px|Cours de la Somme et des cours d'eau de son bassin de plus de {{unité|10|km}} ([http://u.osmfr.org/m/408552/ carte interactive]).|alt=Cours de la Somme et des cours d'eau de son bassin de plus de 10 km en carte interactive.]]
+
+Liste des affluents de l'amont vers l'aval, de la source à l'embouchure<ref>{{Lien web
+|url=http://ameva.org/bassinversant/description.php
+|titre= bassin versant de la Somme
+|auteur= syndicat mixte d'Aménagement Hydraulique du bassin versant de la Somme
+|consulté le=8 mai 2008}}</ref> :
+[[Fichier:L'Omignon en mai 2010 treize.JPG|vignette|L'[[Omignon]], un affluent de rive droite.|alt=L'Omignon, un affluent de rive droite.]]
+
+{|
+|- valign="top"
+|
+* '''sur la rive gauche :'''
+# La [[Sommette (rivière)|Sommette]],
+# La [[Beine (rivière)|Beine]],
+# L'[[Allemagne (rivière)|Allemagne]],
+# L'[[Ingon]] et [[Ingon|Petit Ingon]],
+# L'[[Avre (affluent de la Somme)|Avre]] avec [[Noye|Echaut]], [[Noye|gué du Nil]], [[Noye|rivière de Rouvroy]], [[Luce (rivière)|Luce]], [[Trois Doms]], [[Brache (affluent de l'Avre)|Braches]], [[Noye]] et [[Avre (affluent de la Somme)|ru Saint Firmin]],
+# La [[Selle (affluent de la Somme)|Selle]] avec canal de Lamoricière, [[Évoissons]], [[Évoissons|petis Évoissons]], [[Évoissons|rivière de Poix]] et [[Évoissons|rivière des Parquets]],
+# Le [[Saint-Landon]],
+# L'[[Airaines (rivière)|Airaines]],
+# La [[Trie (rivière)|Trie]],
+# L'[[Amboise (rivière)|Amboise]] et l'Avalasse ;
+|
+* '''sur la rive droite :'''
+# La [[Germaine (affluent de la Somme)|Germaine]],
+# L'[[Omignon]],
+# La [[Cologne (rivière)|Cologne]],
+# La [[Tortille]],
+# L'[[Ancre (rivière)|Ancre]], avec le [[Ancre (rivière)|Canal]], le [[Ancre (rivière)|Fossé]], et la [[Ancre (rivière)|Boulangerie]] qui est en fait un [[défluent]],
+# L'[[Hallue]] et la [[Hallue|Nœlle]],
+# La [[Nièvre (affluent de la Somme)|Nièvre]] avec la [[Nièvre (affluent de la Somme)|Domart]] et la [[Nièvre (affluent de la Somme)|Fieffe]],
+# Le [[Scardon]] avec la [[Scardon|Drucat]] et la [[Scardon|Novion]],
+# Le [[Dien]] avec la [[Dien|Rivière des Îles]] et le canal du Marquenterre.
+|}
+
+=== Rang de Strahler ===
+Le [[rang de Strahler]] est de cinq par la Selle.
+
+== Hydrologie ==
+La '''Somme''' est un cours d'eau typique des pays de [[craie]] caractérisé par une pente très faible, des eaux lentes et un débit régulier, alimenté par un suintement ininterrompu. En aval d'[[Amiens]], son tracé correspond à un [[synclinal]] ; mais, en amont, son réseau est inadapté à la structure, ce qui explique de fréquents changements de direction.
+
+Sa [[vallée]] encaissée est un ruban de verdure et d'humidité à travers l'aride [[Plateau (géographie)|plateau]] picard. Sur le fond plat de cette vallée alluviale aux versants raides, tantôt le fleuve se divise en plusieurs bras jalonnés de [[saule]]s et de [[peuplier]]s divaguant parmi les jardins et les prés, tantôt les eaux s'étalent en de nombreux [[étang]]s argentés, [[tourbière]]s noirâtres ou [[marais]] (dont le [[Réserve naturelle nationale des marais d'Isle|marais d'Isle]], [[réserve naturelle]] au cœur de [[Saint-Quentin]], et les [[Hortillonnages d'Amiens]]). Ces espaces, autrefois exploités pour la [[tourbe]], sont maintenant utilisés pour la [[pêche (halieutique)|pêche]] et la [[chasse]]. La tourbe, qui remplit le fond de la vallée de la Somme sur plusieurs mètres, absorbe l'eau en cas de crue. Le niveau du fleuve et des étangs reste étale au pied des alignements des peupliers.
+
+Son [[régime hydrologique]] est dit [[régime pluvial|pluvial]] [[climat océanique|océanique]].
+=== Climat ===
+{{article détaillé|climat de l'Aisne|climat de la Somme}}
+
+=== La Somme à Abbeville ===
+[[Fichier:Long (Somme), la Somme.jpg|vignette|gauche|La Somme à [[Long (Somme)|Long]], entre Amiens et Abbeville.|alt=La Somme à Long, entre Amiens et Abbeville.]]
+La Somme est un fleuve peu abondant mais généralement très régulier. Son débit a été observé durant une période de {{nobr|46 ans}} (1962-2008), à [[Abbeville]], ville située à peu de distance de son embouchure dans la Manche<ref name="hydro"/>. La surface prise en compte est de {{unité|6550|km|2}}<ref name="hydro">{{Hydro|E6470092|texte=La Somme à Abbeville|consulté le=30 août 2020}}</ref>, soit la quasi-totalité du bassin versant du fleuve. Le [[module (hydrologie)|module]] du fleuve à Abbeville est de {{unité|34.9|m{{3}}/s}}.
+
+{{Relevé hydrologique|alt=relevé hydrologique de la Somme à Abbeville
+|station=La Somme à [[Abbeville]] pour un bassin versant de {{unité|6550|km|2}}<ref name="hydro"/>
+|date= données calculées sur 46 ans
+|unité=m{{3}}/s
+|source=[[Banque Hydro]] - [[MEDDE]]
+|échelle maxi=45
+|échelle principale=10
+|échelle secondaire=5
+|jan1=39.70
+|fev1=42.30
+|mar1=42.70
+|avr1=41.20
+|mai1=38.40
+|jun1=34.60
+|jul1=30.70
+|aou1=27.50
+|sep1=26.90
+|oct1=28.60
+|nov1=31.50
+|dec1=34.90
+}}
+
+La Somme présente des fluctuations saisonnières de débit très peu marquées, comme c'est le cas de la plupart des cours d'eau voisins de Picardie (affluents de la rive droite de l'Oise par exemple). Les hautes eaux se déroulent en hiver et au début du printemps, et se caractérisent par des débits mensuels moyens oscillant entre 38,3 et {{nb|42.4|m{{3}}/s}}, de janvier à mai inclus, avec un maximum fort léger en mars ({{nb|42.7|m{{3}}/s}}). Les basses eaux ont lieu en été, de fin juin à fin septembre, avec une baisse du débit moyen mensuel allant jusqu'à {{nb|26.9|m{{3}}/s}} en septembre, ce qui reste très confortable. Dès le mois d'octobre, le débit remonte très doucement. Mais les fluctuations de débit sont plus prononcées selon les années.
+
+=== Étiage ou basses eaux ===
+À l'étiage, le [[VCN3]] peut chuter jusque {{unité|20|m{{3}}/s}}, en cas de période quinquennale sèche, ce qui non seulement n'est pas sévère, mais peut même être qualifié d'abondant.
+
+=== Crues ===
+Les crues, quant à elles, sont rarement importantes, sauf en cas de saturation de la nappe phréatique, comme ce fut le cas en avril 2001. La série des [[QIX (hydrologie)|QIX]] n'a pas été calculée, mais la série des QJX l'a été. Les QJX 2 et QJX 5 valent respectivement 50 et {{unité|64|m{{3}}/s}}. Le QJX 10 est de {{unité|73|m{{3}}/s}}, le QJX 20 de {{unité|83|m{{3}}/s}}, tandis que le QJX 50 se monte à {{unité|93|m{{3}}/s}}.
+
+==== Crue de 2001 ====
+Le débit journalier maximal enregistré à Abbeville durant cette période de {{nobr|46 ans}}, a été de {{unité|104|m{{3}}/s}} le 20 avril 2001. Si l'on compare cette valeur à l'échelle des QJX du fleuve, il apparaît clairement que cette crue était largement supérieure au niveau défini par le QJX 50, et donc certainement d'ordre centennal.
+
+En [[2001]], la vallée de la Somme a été touchée par des [[inondation]]s d'une ampleur exceptionnelle, dues en grande partie à la remontée de la [[nappe phréatique]]<ref>[http://www.senat.fr/rap/r01-034-1/r01-034-1.html Rapport de la commission d'enquête sénatoriale]</ref>.
+{{Article détaillé|Crue de la Somme en 2001}}
+
+=== Lame d'eau et débit spécifique ===
+La Somme est cependant un fleuve côtier médiocrement abondant. La [[lame d'eau]] écoulée dans son bassin versant est de {{nobr|199 millimètres}} annuellement, ce qui est largement inférieur à la moyenne d'ensemble de la France tous bassins confondus, ainsi qu'à la moyenne du bassin de l'[[Oise (rivière)|Oise]] voisine par exemple ({{nobr|243 millimètres}} par an en fin de parcours). Le [[débit spécifique]] du fleuve (ou Qsp) atteint {{nobr|6,3 litres}} par seconde et par kilomètre carré de bassin.
+
+== Aménagements ==
+=== Canal de la Somme ===
+[[Fichier:Saint-Valery, Somme, Fr, canal de la Somme.jpg|vignette|La Somme canalisée près de [[Saint-Valery-sur-Somme]].|alt=La Somme canalisée près de Saint-Valery-sur-Somme.]]
+{{Article détaillé|canal de la Somme}}
+La construction du [[canal de la Somme]] débute en [[1770]] et s'achève en [[1827]], avant une mise au [[gabarit Freycinet]] en 1880. D'une longueur de {{référence nécessaire|156 km}} ou {{unité|170|km}} selon le [[SANDRE]]<ref name=somcan>{{sandre|E6--009-|La Somme Canalisée|consulté le=31 août 2013}}</ref> et entrecoupé de 26 écluses, 4 ponts tournants et 3 [[pont-levis]], le canal débute à [[Saint-Simon (Aisne)|Saint-Simon]] où il touche au [[canal de Saint-Quentin]] et débouche dans la [[baie de Somme]]. De [[Saint-Simon (Aisne)|Saint-Simon]] à l'écluse de Froissy ([[La Neuville-lès-Bray]]) le canal est latéral à la Somme ; entre [[Voyennes]] à [[Péronne (Somme)|Péronne]], il se confond d'ailleurs avec un tronçon du [[canal du Nord (France)|Canal du Nord]]. De [[La Neuville-lès-Bray]] à [[Abbeville]], le canal a été creusé dans le lit principal de la Somme au milieu d'un entrelac d'étangs, de marais et de dérivations qui l'alimentent ou lui servent de déversoirs.  Quelques tronçons marginaux du fleuve subsistent toutefois lorsqu'un tracé plus direct du canal se justifie.  Passé le canal de transit d'Abbeville, il s'élargit pour former le canal maritime d'Abbeville à [[Saint-Valery-sur-Somme|Saint-Valery-sur Somme]] qui se jette dans la [[Manche (mer)|Manche]] au terme d'un parcours rectiligne.
+
+Aujourd'hui, le canal de la Somme n'est guère plus utilisé que pour la [[plaisance (loisir)|plaisance]].
+
+=== Énergie ===
+À [[Long (Somme)|Long]], l'extraction de la [[tourbe]], utilisée comme [[combustible]] a enrichi la commune - plus de {{nobr|200 personnes}} embauchées pendant l'été pour le ramassage -, à tel point qu'elle a fait construire au début du {{XXe siècle}} une [[centrale hydroélectrique]] de {{unité|60|kW}}<ref>{{Lien web
+|url=http://www.encyclopedie.picardie.fr/index.php/La_centrale_hydroélectrique_de_Long
+|titre=La Centrale hydroélectrique de Long
+|auteur=Picardia - l'encyclopedie picarde
+|consulté le=4 février 2012
+}}</ref>. Celle-ci, désormais désaffectée pour la production<ref>{{Lien web
+|url=http://www.ombelliscience-picardie.fr/index.php/energie-et-mecanique-en-somme/220-centrale-hydroelectrique-de-long-patrimoine
+|titre=Musées/Ateliers/Patrimoine industriel : Centrale Hydroélectrique < Somme
+|auteur=Ombelliscience Picardie, Centre de Culture Scientifique, Technique et Industrielle de Picardie
+|consulté le=3 février 2012
+}}</ref>, se visite toujours et est en état de marche<ref>{{Lien web
+|url=http://stef.vasseur.free.fr/images/monuments/centrale.htm
+|titre=La Centrale hydroélectrique de LONG
+|auteur=stef.vasseur
+|consulté le=3 février 2012
+}}</ref>.
+
+=== Écologie ===
+[[Fichier:Marquenterre, France.JPG|vignette|Le parc ornithologique ([[Parc du Marquenterre|Marquenterre]]) à l'[[embouchure (hydrologie)|embouchure]] du fleuve et de la Maye.|alt=Le parc ornithologique (Marquenterre) à l'embouchure du fleuve et de la Maye.]]
+La Somme est propice au tourisme nature et à la [[pédagogie à l'environnement]] : la [[réserve naturelle de l'Étang Saint-Ladre]] est un des nombreux poumons verts d'Amiens. En aval, l'intérêt de la [[réserve naturelle de la Baie de Somme]] devrait augmenter avec la [[Trame verte et bleue]] régionale et d'autres projets aux enjeux écologiques forts comme le [[Parc naturel marin des Trois Estuaires]].
+==== Qualité de l'eau ====
+La [[directive cadre sur l'eau]] impose un [[bon état écologique]] des masses d'eau pour 2015, mais sur une partie de son cours la pollution de la Somme reste préoccupante, dont pour certains pesticides<ref>Jegaden M (2002). ''Analyse et comparaison des niveaux de contamination en Polychlorobiphényles et pesticides organochlorés dans les foies de juvéniles de soles provenant de nourriceries du golfe de Gascogne, de la baie de Seine et de la Somme.'' Maîtrise de Biochimie, Université de Rennes I.</ref>{{,}}<ref>LOTTY, D. (2012). ''[http://www.nord-nature.org/doc/Rapport%20de%20stage%20-%20DL%20(pesticides%20-%20septembre%202012).pdf Étude-bilan sur la présence de pesticides dans les cours d’eau du bassin Artois-Picardie].'' Agence de l'Eau Artois-Picardie, Institut National supérieur des sciences agriconomiques de l'alimentation et de l'environnement et Université de Bourgogne, Douai, 80.</ref>, les [[dioxine]]s et [[Polychlorobiphényle|PCB]]<ref>Dumoulin, D., Net, S. and Ouddane, B. (2013). ''Étude de la contamination en PCB de la Somme rivière-Campagne 2012.'' Repport published by Agence de l’Eau Artois-Picardie, http://www.eauartois-picardie.fr/Etude-de-la-contamination-en- PCB.html.</ref>, dès l'amont du cours d'eau<ref>Net, S., Dumoulin, D., El-Osmani, R., Rabodonirina, S., & Ouddane, B. (2014). ''[http://journals.ut.ac.ir/article_809_24fc56c34d8b0f38ffc5b152c55c28bb.pdf Case study of PAHs, Me-PAHs, PCBs, phthalates and pesticides contamination in the Somme River water, France]''. International Journal of Environmental Research, 8(4), 1159-1170.</ref>. Ces PCB peuvent être [[Bioaccumulation|bioaccumulés]] par certains poissons ([[anguille européenne]] et poissons plats notamment), par les organismes [[filtreur]]s ([[bivalve]]s notamment) et les [[crustacés]] de l'estuaire ou de la [[Baie de la Somme]]<ref>ANSES - 2008 <http://www.afssa.fr/Documents/RCCP2008sa0250.pdf> - Avis relatif à l'interprétation des résultats d'analyses en dioxines et PCB des poissons pêchés dans le fleuve Somme et certains de ses affluents, et en vue de l'évaluation du risque, dans le cadre de la pollution en PCB, lié à la consommation de mollusques et crustacés récoltés en Baie de Somme</ref>. L'[[estuaire de la Somme]] fait l'objet de programme de restauration<ref>Ducrotoy, J. P., & Dauvin, J. C. (2008). Estuarine conservation and restoration: The Somme and the Seine case studies (English Channel, France). Marine Pollution Bulletin, 57(1), 208-218|[http://www.sciencedirect.com/science/article/pii/S0025326X08002129 résumé]</ref>.
+
+== Histoire ==
+En [[archéologie]], la vallée de la Somme est célèbre pour les nombreuses découvertes de sites [[paléolithique]]s, dont à [[Saint-Acheul]], le site type de l'[[Acheuléen]], devenu une référence universelle pour l'[[Préhistoire|histoire préhistorique]] de l'humanité. Les niveaux archéologiques sont souvent datés grâce aux fossiles des sédiments alluviaux ou provenant des dépôts de pente (dont [[lœss]] et [[:wikt:paléosol|paléosol]]s).
+<br />Dans le cours moyen du fleuve, aux environs d'Amiens, les systèmes de terrasses fluviales à fossiles sont particulièrement bien développés et préservés (avec 10 formations alluviales en terrasses). Ces terrasses, de 5 à {{unité|55|m}} plus hautes que le substratum rocheux de l'actuelle vallée, permettent à la fois l'étude des changements environnementaux et celle des établissements humains de cette région durant tout le [[Pléistocène]].
+
+Depuis [[1988]], une datation ESR ([[Résonance de spin électronique]], méthode permettant de bonnes datations jusqu'à environ {{unité|400000|ans}} (avant nos jours) a été systématiquement appliquée aux quartz blanchis extraits des gisements fossiles fluviaux, pour mieux décrire l'évolution géologique du système de terrasses<ref name=Quaternaire2005/>.
+<br />Plus récemment, d'autres méthodes de datation (dont l'ESR) ont été appliquées à des dents fossiles trouvées sur différents dépôts de terrasse, permettant de préciser la chronologie du système fluvial et des activités humaines pour le [[Pléistocène moyen]] du nord de la France<ref name=Quaternaire2005>Jean-Jacques Bahain, Christophe Falguères, Michel Laurent, Pierre Voinchet, Jean-Michel Dolo, Pierre Antoine, et Alain Tuffreau, ; ''ESR chronology of the Somme River Terrace system and first human settlements in Northern France''Quaternary Geochronology ; Volume 2, Issues 1-4, 2007, Pages 356-362 ; LED 2005, 11th International Conference on Luminescence and Electron Spin Resonance Dating ; doi:10.1016/j.quageo.2006.04.012</ref>.
+
+La Somme a une longue tradition d'utilisation en termes de [[ressource halieutique]] documentée au moins depuis le {{s-|XII}}<ref>Cloquier C (2004) ''Les pratiques halieutiques fluviales dans le basin de la Somme du {{s-|XII}} au {{s-|XVIII}}: approche archéologique et documentaire'' (Doctoral dissertation, Thèse, École des Chartes, Sorbonne) ([http://theses.enc.sorbonne.fr/2004/cloquier résumé]).</ref> et elle a ensuite connu de nombreux soubresauts de l'histoire, dont de très violents combats durant la [[Première Guerre mondiale]]. Une grande partie de son cours a été inscrit en [[zone rouge (séquelles de guerre)]] après l'armistice et a demandé un travail de [[désobusage]] et de [[déminage]] qui n'est toujours pas terminé. En juin 1940, l'armée française tenta de constituer un front défensif (appelé "ligne Weygand" par la propagande allemande) débutant à l'embouchure de la Somme et suivant le cours de celle-ci, pour stopper l'attaque allemande prévisible après la fin des combats dans le Nord. L'attaque débuta le 5 juin ; la supériorité numérique allemande et le fait que les têtes de pont établies sur le fleuve par la Wehrmacht en mai n'avaient pas pu être réduites fit que, malgré une résistance de quelques jours, la ligne du fleuve fut franchie, prélude à la débâcle de l'armée française, désormais trop faible pour se rétablir plus au sud.
+
+== Galerie ==
+<gallery mode="packed" caption="sur le cours de la Somme">
+Fichier:La source de la Somme 20.jpg|<center>La source de la Somme à [[Fonsomme]] tarie en octobre 2017.</center>|alt=La source de la Somme à Fonsomme tarie en octobre 2017.
+Fichier:Caron - CAMON - Le Pont sur la Somme.jpg|<center>Le Pont de [[Camon (Somme)|Camon]] dans les [[années 1910]].</center>|alt=Le Pont de Camon dans les années 1910.
+Fichier:Quai belu amiens.JPG|<center>La Somme à [[Amiens]]: le quai Bélu.</center>|alt=La Somme à Amiens: le quai Bélu.
+Fichier:Mouth of the Somme.JPG|<center>L'[[estran]] de la baie de Somme;</center>|alt=L'estran de la baie de Somme;
+</gallery>
+
+== Bibliographie ==
+{{Légende plume}}
+* Francis Dallery (préface de [[Jacques Bourcart]]), ''Sur la Côte d'Opale : les rivages de la Somme - autrefois - aujourd'hui - demain '', Mémoires de la [[Société d'émulation d'Abbeville|Société d'émulation historique et littéraire d'Abbeville]], tome IX, Éditions A. et J. Picard et Cie, Paris, 1955.
+* Pierre Antoine (thèse universitaire) : ''Les terrasses quaternaires du bassin de la somme. Étude géologique et géomorphologique. Contribution à la connaissance du paléoenvironnement des gisements paléolithiques''. Thèse, Université des Sciences et Techniques de Lille Flandres-Artois, 1989 ;[http://www.persee.fr/articleAsPDF/quate_1142-2904_1990_num_1_2_1931_t1_0158_0000_3/article_quate_1142-2904_1990_num_1_2_1931_t1_0158_0000_3.pdfprésentation] par Jean Sommé.
+* {{ouvrage|titre=Le rendez-vous du fleuve 2010 : habiter ? Nous sommes ici : Éclusier-Vaux, Frise, Suzanne, Cappy|auteurs=Christophe Baticle, Sophie Douchain, Denis Lachaud, Hélène Jayet, Eric Larraydieu, Bertrand Meunir, Mickaël Troivaux, Marie-Claude Quignon|année=2011|pages totales=129|isbn=978-2-84791-161-9|éditeur=Molliens-au-Bois Conseil général de la Somme|langue=fr}}
+* {{ouvrage|titre=Livre des plantz des passages, qays et chaussées de la rivière de Somme|auteur=s{{r}} Lenin, ingénieur ordinaire du Roy|année=1644|champ libre=manuscrit en français|langue=fr|pages totales=52}}
+
+== Liens externes ==
+Relevés hydrométriques :
+* Abbeville - ''station de mesure gérée par la DIREN Nord Pas de Calais'' E6470910 (bassin versant de {{unité|5560|km|2}})
+* Hangest sur Somme - ''station de mesure gérée par la DIREN Nord Pas de Calais'' E6440910 (bassin versant de {{unité|4835|km|2}})
+* Péronne - ''station de mesure gérée par la DIREN Nord Pas de Calais'' E6351410 (bassin versant de {{unité|1894|km|2}})
+* Ham (Estouilly) - ''station de mesure gérée par la DIREN Picardie'' E6351420 (bassin versant de {{unité|390|km|2}})
+** Recherche d'une ou plusieurs de ces quatre stations : [http://www.hydro.eaufrance.fr/selection.php Choix de la station]
+* {{Autorité}}
+* {{Bases}}
+* {{Dictionnaires}}
+{{Autres projets|Commons=Category:Somme River}}
+== Voir aussi ==
+{{GeoGroup}}{{Début de colonnes|taille=30}}
+* la [[liste de fleuves dans le monde classés par continents]]
+* la [[liste des fleuves de France]]
+* l'[[estuaire de la Somme]]
+* le [[parc marin des trois estuaires]]
+* le [[parc du Marquenterre]]
+* la [[liste des cours d'eau de la Somme]]
+* la [[liste des cours d'eau de l'Aisne]]
+* la [[liste des affluents et sous-affluents de la Somme]]
+* le [[canal de la Somme]]
+{{fin de colonnes}}
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=note|taille=30}}
+=== Références ===
+{{Références|taille=30}}
+{{Palette|Fleuves de la France métropolitaine|Affluents de la Somme|Cours d'eau principaux des bassins versants Artois-Picardie}}
+{{Portail|lacs et cours d'eau|Somme|Aisne}}
+
+[[Catégorie:Système hydrologique de la Somme|*]]
+[[Catégorie:Cours d'eau dans l'Aisne]]
+[[Catégorie:Cours d'eau dans la Somme]]
+[[Catégorie:Cours d'eau navigable en France]]
+[[Catégorie:Fleuve en Europe]]
+[[Catégorie:Éponyme d'un objet céleste]]

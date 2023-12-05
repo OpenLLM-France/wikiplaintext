@@ -1,0 +1,53 @@
+Should be empty:
+I   I
+
+== Times ==
+I {{heure|19|26||UTC}}    I
+I {{heure|3|||TU}}        I
+I {{Heure||3|53|4/5}}     I
+I {{heure|15|17|40|CDST}} I
+I {{heure|2|32|35|8/10}}  I
+I {{heure|xx|xx}}         I
+
+== Percents ==
+I {{pourcentage|75}}            I
+I {{Pourcentage|40|100}}        I
+I {{pourcentage|81|500|1}}      I
+I {{pourcentage|-12,28|3=2}}    I
+I {{Pourcentage|9,7|100|pad=1}} I
+
+== Centuries ==
+eu après, aux {{sp-|XI|e|-XII|e|s}}, le Jindan intégra
+à l'époque hallstattienne ({{-sp-|1=V|2=e|3=-|4=VIII|5=e}}), mais aucune trace
+La [[peinture flamande]] se développe du début du {{sp|XV|e|au|6=s|XVII|e}}.
+Aux {{S2-|XVII|3=XVIII}}, l'idée de se soigner soi-même
+l'époque de Galien (au {{s-|II|e|siècle}} {{ap JC}}), il était baptisée
+toutefois, pendant les {{s|XVIII|XIX}}, les traces historiques
+
+== Punctuations ==
+blah {{---|d'après l'expression de la suite des α en fonction de celle des β}} égal à ε{{exp|r}}α{{ind|r+1}}.
+N(αⱼ) {{---|l'avantage de prendre en compte ce signe est qu'ainsi, aⱼ et bⱼ sont toujours positifs|stop}}.
+Le Populaire a cessé {{--|le temps d'une journée}} de paraître sur version papier
+Les services russes baptisée {{"|Doppelganger}}
+en doublant la lettre {{graphie|aa ee ii oo uu}}.
+Comme l'indique l'étude de Johnson {{et al.}} (2006)
+Sociétés de distribution : {{USA}} : Cinema International Corporation
+L{{'}}'''Irlande''' est un ''pays'', oui un ''pays'' de l'ordre de <math>{f'''(x) \over 6} h^2</math>.
+
+== Languages and other annotations in parenthesis ==
+{{voir homonymes}}
+Bogota {{en espagnol|Bogotá, Bogotá Distrito Capital, Bogotá D.C.}}{{,}}, anciennement Santa Fr
+sur le nom des auteurs.\* {{de}} Paul Bachmann, Zahlentheorie
+* {{masc}} [[Ace (One Piece)|Ace]](エース) 
+* {{mixte}} [[Ado (prénom)|Ado]] (あど, 亜土, 杏土) : publicité
+* {{Fém}} [[Ai (prénom)|Ai]] (あい, アイ, 亜衣, 愛, 藍) : amour
+
+== Misc ==
+1845 avec deux bâtiments — le {{HMS|Erebus|1826|6}} et le {{HMS|Terror|1813|6}}
+
+== XML ==
+10&nbsp;000&euro; &lt; 100&nbsp;000&pound; &amp; &quot;copyright&copy;&quot; &amp; &apos;R&reg;&apos;
+
+== Bad formatting (should be ignored) ==
+bien cintrées.{{r|Jones|Fogle|Fiorone}} Le dos est généralement droit
+Madagascar et l'océan Indien.{{-|left}}

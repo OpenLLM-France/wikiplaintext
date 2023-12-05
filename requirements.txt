@@ -1,0 +1,7 @@
+bs4
+bz2file
+python-slugify
+regex
+requests
+tqdm
+wikitextparser

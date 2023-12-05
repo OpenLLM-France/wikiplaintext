@@ -1,0 +1,197 @@
+Le Global Positioning System (GPS) (en français : « Système mondial de positionnement » [littéralement] ou « Géo-positionnement par satellite »), originellement connu sous le nom de Navstar GPS, est un système de positionnement par satellites appartenant au gouvernement fédéral des États-Unis. Mis en place par le département de la Défense des États-Unis à des fins militaires à partir de 1973, le système avec vingt-quatre satellites est totalement opérationnel en 1995.
+Les signaux transmis par les satellites peuvent être librement reçus et exploités par quiconque. L'utilisateur, qu'il soit sur terre, sur mer ou dans les airs, peut connaître sa position à toute heure et en tout lieu sur la surface ou au voisinage de la surface de la Terre avec une précision sans précédent, dès lors qu'il est équipé d'un récepteur GPS et du logiciel nécessaire au traitement des informations reçues.
+Le principe de fonctionnement repose sur la trilatération de signaux électromagnétiques synchronisés émis par les satellites. Pour assurer la précision du positionnement, le système GPS utilise des technologies sophistiquées : horloges atomiques embarquées, compensation d'effets relativistes, mise en place de stations d'observation et de synchronisation. Les coordonnées terrestres calculées se réfèrent au système géodésique WGS 84.
+Commercialement, le GPS connaît un grand succès et engendre de nombreux développements dans une multitude de domaines : navigations maritime, terrestre et aérienne, localisation de flottilles commerciales (bateaux, avions, camions), suivi et traçage de parcours, évaluation de la pertinence d'itinéraire. L'intégration de « puces GPS » dans les smartphones multiplie les usages domestiques ou individuels. Dans le milieu scientifique, la précision de la localisation et de la synchronisation permettent de développer et d'exploiter de nouvelles applications : géodésie, synchronisation entre horloges atomiques, étude de l'atmosphère, etc.
+L'Europe, la Chine, la Russie et l'Inde, conscients de l'intérêt stratégique d'un tel système de positionnement par satellites, développent depuis quelques années des systèmes concurrents.
+
+Présentation :
+
+Le GPS comprend au moins vingt-quatre satellites circulant à 20200 km d'altitude. Ils se répartissent sur six orbites distinctes à raison de quatre satellites par orbite. Ces satellites émettent en permanence sur deux fréquences L1 (1575,42 MHz) et L2 (1227,60 MHz) modulées en phase (BPSK) par un ou plusieurs codes pseudo-aléatoires, datés précisément grâce à leur horloge atomique, et par un message de navigation. Ce message, transmis à 50 bit/s, inclut en particulier les éphémérides permettant le calcul de la position des satellites, ainsi que des informations sur leur horloge interne. Les codes sont un code C/A (acronyme de « coarse acquisition », en français : « acquisition brute ») de débit 1,023 Mbit/s et de période 1 ms, et un code P (pour « précis ») de débit 10,23 Mbit/s et de période 1 semaine. Le premier est librement accessible, le second est réservé aux utilisateurs autorisés car il est le plus souvent chiffré : on parle alors de code Y. Les récepteurs commercialisés dans le domaine civil utilisent le code C/A. Quelques récepteurs pour des applications de haute précision, comme la géodésie, mettent en œuvre des techniques permettant d'utiliser le code P malgré son chiffrage en code Y.
+Ainsi, un récepteur GPS qui capte les signaux d'au moins quatre satellites équipés de plusieurs horloges atomiques peut, en calculant les temps de propagation de ces signaux entre les satellites et lui, connaître sa distance par rapport à ceux-ci et, par trilatération, situer précisément en trois dimensions n'importe quel point placé en visibilité des satellites GPS, avec une précision de 3 à 50 m pour le système standard. Le GPS est ainsi utilisé pour localiser des véhicules roulants, des navires, des avions, des missiles et même des satellites évoluant en orbite basse.
+Concernant la précision, il est courant d'avoir une position horizontale à 10 m près. Le GPS étant un système développé pour les militaires américains, une disponibilité sélective a été prévue : certaines informations, en particulier celles concernant l'horloge des satellites, peuvent être volontairement dégradées et priver les récepteurs qui ne disposent pas des codes correspondants de la précision maximale. Ainsi, pendant quelques années, les civils n'ont eu accès qu'à une faible précision (environ 100 m). Le 1 mai 2000, le président Bill Clinton a annoncé qu'il mettait fin à cette dégradation volontaire du service.
+Certains systèmes GPS conçus pour des usages très particuliers peuvent fournir une localisation à quelques millimètres près. Le GPS différentiel (DGPS) corrige ainsi la position obtenue par GPS conventionnel par les données envoyées par une station terrestre de référence localisée très précisément. D'autres systèmes autonomes, affinant leur localisation au cours de huit heures d'exposition parviennent à des résultats équivalents.
+Dans certains cas, seuls trois satellites peuvent suffire. La localisation en altitude (axe des Z) n'est pas d'emblée correcte alors que la longitude et la latitude (axe des X et des Y) sont encore bonnes. On peut donc se contenter de trois satellites lorsque l'on évolue au-dessus d'une surface « plane » (océan, mer). Ce type d'exception est surtout utile au positionnement d'engins volants (tels les avions) qui ne peuvent pas se reposer sur le seul GPS, trop imprécis pour leur donner leur altitude. Mais il existe néanmoins un modèle de géoïde mondial nommé « Earth Gravity Model 1996 » ou EGM96 associé au WGS 84 qui permet, à partir des coordonnées WGS 84, de déterminer des altitudes rapportées au niveau moyen des mers avec une précision d'environ 1 m. Des récepteurs GPS évolués incluent ce modèle pour fournir des altitudes plus conformes à la réalité.
+
+Histoire :
+
+À l'origine, le GPS était un projet de recherche des Forces armées des États-Unis. Il a été lancé à la fin des années 1960 à la demande du président Richard Nixon. La réalisation a été confiée à qui a conçu le principe d'un groupe de satellites gravitant en orbite et émettant des ondes radio UHF captées par des récepteurs GPS.
+Il est basé sur des programmes précédents dont SECOR, une série de satellites utilisés pour effectuer des mesures géodésiques.
+Le premier satellite est lancé en 1978. En 1995, le déploiement des 24 satellites opérationnels (plus 4 en réserve) est achevé. Le système devient alors fonctionnel.
+En 1983, le président Ronald Reagan, à la suite de la mort des 269 passagers du vol Korean Air Lines 007, propose que la technologie GPS soit disponible gratuitement aux civils, une fois opérationnelle. Une seconde série de satellites est lancée à partir de 1989 en vue de constituer une flotte suffisante.
+En 1995, le nombre de satellites disponibles permet de rendre le GPS opérationnel en permanence sur l'ensemble de la planète, avec une précision limitée à une centaine de mètres pour un usage civil. En 2000, le président Bill Clinton confirme l'intérêt de la technologie à des fins civiles et autorise une diffusion non restreinte des signaux GPS, permettant une précision d'une dizaine de mètres et une démocratisation de la technologie au grand public à partir du milieu des années 2000.
+Les États-Unis continuent de développer leur système par le remplacement et l'ajout de satellites ainsi que par la mise à disposition de signaux GPS complémentaires, plus précis et demandant moins de puissance aux appareils de réception. Un accord d'interopérabilité a également été confirmé entre les systèmes GPS et Galileo afin que les deux systèmes puissent utiliser les mêmes fréquences et assurer une compatibilité entre eux.
+Deux autres systèmes ont été mis au point par la Russie, le GLONASS à partir de 1980, et par la Chine, le Beidou initié en 2000.
+
+Composition :
+
+Le GPS se compose de trois groupes d'éléments (appelés segments) : des satellites en orbite autour de la Terre (segment spatial) ; des stations de contrôle au sol (segment contrôle) ; et les récepteurs GPS des utilisateurs (segment utilisateur).
+
+Segment spatial :
+
+Le segment spatial est constitué d'une constellation de 31 satellites en fonctionnement, mais le nombre de satellites en service à une date précise peut varier (cf. tableau) selon les opérations décidées par le segment de contrôle. La constellation est organisée autour de 24 satellites principaux qui assurent la disponibilité mondiale du GPS, ce qui suppose d'avoir au moins quatre satellites visibles du sol partout dans le monde. Il y a toujours plus de satellites en orbite afin de maintenir ces 24 emplacements complets même en cas de panne. Depuis 2011, la configuration de la constellation principale est augmentée à 27 emplacements afin de fournir une meilleure couverture mondiale. Les satellites évoluent sur six plans orbitaux ayant une inclinaison d'environ 55° sur l'équateur. Ils suivent une orbite quasi circulaire de rayon 26600 km environ (soit une altitude de 20200 km) qu'ils parcourent en 11 h 58 min 2 s, soit un demi-jour sidéral. Ainsi, les satellites reprennent la même position par rapport au sol au bout d'un jour sidéral.
+Les générations successives de satellites sont désignées sous le nom de « Blocs » :
+* Bloc I : les satellites du Bloc I sont les 11 premiers satellites du système, mis en orbite entre 1978 et 1985, fabriqués par Rockwell International, ils étaient prévus pour une mission moyenne de 4,5 ans et une durée de vie de cinq ans, mais leur durée de vie moyenne s'éleva à 8,76 années ; l'un d'entre eux est même resté pendant 10 ans en activité. Leur mission principale était de valider les différents concepts du GPS. Aujourd'hui, les satellites du Bloc I ne sont plus en service ;
+* Bloc II : les satellites du Bloc II sont les premiers satellites opérationnels du GPS. De nombreuses améliorations ont été apportées à ces satellites par rapport à la version précédente, notamment en ce qui concerne leur autonomie. Ils sont capables de rester 14 jours sans contact avec le segment sol tout en gardant une précision suffisante. Neuf satellites furent lancés en 1989 et 1990. Bien qu'on ait estimé leur durée de vie à 7,5 ans, la plupart d'entre eux sont restés en fonction pendant plus de dix ans. Il ne reste plus de satellite du Bloc II actif ;
+* Bloc IIA : les satellites du Bloc IIA (Advanced), au nombre de 19 et lancés entre 1990 et 1997, correspondent à une version perfectionnée des satellites du Bloc II initial. Ils sont équipés de deux horloges atomiques au césium et de deux horloges au rubidium. Ils ont marqué à partir de 1993 le début de la phase opérationnelle du GPS. Début 2016, le dernier satellite du Bloc IIA a cessé de fonctionner après 25 ans de service ;
+* Bloc IIR : les satellites du Bloc IIR (Replenishment) sont dotés d'une meilleure autonomie, fabriqués par Lockheed Martin Corporation, et mis en orbite entre 1997 et 2009, ils peuvent se transmettre mutuellement des messages sans aucun contact au sol, permettant ainsi aux opérateurs du système de pouvoir communiquer avec des satellites qui leur sont inaccessibles dans une communication directe. Ils sont équipés de trois horloges atomiques au rubidium. Vingt-et-un satellites du Bloc IIR sont lancés, le dernier le 17 août 2009. Les huit derniers sont désignés sous le sigle IIR-M (Modernized) parce qu'ils émettent un nouveau code civil (L2C) sur la fréquence L2 et de nouveaux codes militaires (M) sur les fréquences L1 et L2. Le satellite IIR-M7 est modifié pour émettre le nouveau signal sur la fréquence L5 (1176,45 MHz), implanté sur les satellites du Bloc IIF ;
+* Bloc IIF : les satellites du Bloc IIF (Follow-On) construits par Boeing sont au nombre de 12, le premier de la série a été lancé en mai 2010, le dernier en février 2016. Ces satellites émettent un nouveau signal civil sur la fréquence L5 ;
+* Bloc III : les dix premiers satellites du Bloc III sont construits par Lockheed Martin Corporation. Ils émettent un nouveau signal civil (L1C) sur la fréquence L1. Le premier satellite du bloc III est lancé le 23 décembre 2018.
+
+Segment de contrôle :
+
+C'est la partie qui permet de piloter et de surveiller le système. Il est composé de cinq stations au sol du 50th Space Wing de l'Air Force Space Command, basé à la Schriever Space Force Base dans le Colorado (la station maîtresse est basée à Colorado Springs) dans la base de Cheyenne Mountain. Leur rôle est de mettre à jour les informations transmises par les satellites (éphémérides, paramètres d'horloge) et contrôler leur bon fonctionnement.
+
+Segment utilisateur :
+
+Le segment utilisateur regroupe l'ensemble des récepteurs GPS militaires et civils qui reçoivent et exploitent les signaux des satellites GPS pour calculer des données de position, de vitesse ou de temps. Comme les utilisateurs ne font que recevoir (ils n'émettent pas vers les satellites), le système ne peut être saturé et le nombre maximum d'utilisateurs GPS est illimité.
+En 2014, le nombre total de récepteur GPS est estimé à 3,6 milliards. Les smartphones avec GPS intégré sont les plus nombreux avec 3,08 milliards, suivi par les 260 millions d'assistants de navigation pour des applications routières. Le nombre restant d'appareils est réparti entre des applications variées : autres transports (aviation, ferroviaire, maritime), topographie, agriculture, infrastructure critique.
+
+Principe de fonctionnement :
+
+Le GPS fonctionne grâce au calcul de la distance qui sépare un récepteur GPS de plusieurs satellites. Les informations nécessaires au calcul de la position des satellites étant transmises régulièrement au récepteur, celui-ci peut, grâce à la connaissance de la distance qui le sépare des satellites, connaître ses coordonnées.
+
+Signaux émis :
+
+Les satellites GPS émettent plusieurs signaux codés, à destination civile ou militaire. Le signal civil pour l'utilisation libre correspond au code C/A, émis sur la porteuse de 1575 MHz.
+Sur cette porteuse, le signal de modulation est une séquence résultant de l'addition modulo 2 du code pseudo-aléatoire C/A à 1 Mbit/s et des données à 50 bit/s contenant les éphémérides des satellites et d'autres informations de navigation. C'est le code C/A qui sert dans les récepteurs par corrélation avec le signal reçu à déterminer l'instant exact d'émission de celui-ci.
+Cet instant d'émission de référence du code C/A peut être modulé, à nouveau par un code pseudo-aléatoire, pour dégrader la détermination de position au sol. Ce chiffrement est appelé « selective availability » (SA), faisant passer la précision du système de 10 m environ à 100 m. Il a été abandonné en 2000 sous la pression des utilisateurs civils, et en raison du développement du DGPS qui le compensait en grande partie. Cette possibilité est cependant toujours présente à bord des satellites. La SA comporte aussi la possibilité de dégrader les informations permettant de calculer la position des satellites sur leur orbite ; elle n'a jamais été utilisée.
+
+Mesure de la distance du récepteur par rapport à un satellite :
+
+Les satellites envoient des ondes électromagnétiques (micro-ondes) qui se propagent à la vitesse de la lumière. Connaissant celle-ci, on peut alors calculer la distance qui sépare le satellite du récepteur en connaissant le temps que l'onde a mis pour parcourir ce trajet.
+Pour mesurer le temps mis par l'onde pour lui parvenir, le récepteur GPS compare l'heure d'émission — incluse dans le signal — à l'heure de réception de l'onde par le récepteur. Cette mesure, après multiplication par la vitesse du signal, fournit une pseudo-distance, assimilable à une distance, mais entachée d'une erreur de synchronisation des horloges du satellite et du récepteur, et de dégradations comme celles dues à la traversée de l'atmosphère. L'erreur d'horloge peut être modélisée sur une période assez courte à partir des mesures sur plusieurs satellites.
+
+Calcul de la position :
+
+Connaissant les positions des satellites à l'heure d'émission des signaux, et les pseudo-distances mesurées (éventuellement corrigées de divers facteurs liés notamment à la propagation des ondes), le calculateur du récepteur est en mesure de résoudre un système d'équations dont les quatre inconnues sont la position du récepteur (trois inconnues) et le décalage de son horloge par rapport au temps GPS. Ce calcul est possible dès que l'on dispose des mesures relatives à quatre satellites ; un calcul en mode dégradé est possible avec trois satellites seulement si l'on connaît l'altitude ; lorsque plus de quatre satellites sont visibles (ce qui est très souvent le cas), le système d'équations à résoudre est surabondant : la précision du calcul est améliorée, et on peut estimer les erreurs sur la position et le temps.
+La précision de la position obtenue dépend, toutes choses égales par ailleurs, de la géométrie du système : si les satellites visibles se trouvent tous dans un cône d'observation de faible ouverture angulaire, la précision sera moins bonne que s'ils sont répartis régulièrement dans un large cône. Les effets de la géométrie du système de mesure sur la précision sont décrits par un paramètre : le DOP (pour « Dilution of Precision », en français « atténuation » ou « diminution de la précision ») : le HDOP se réfère à la précision horizontale, le TDOP à la précision sur le temps, le VDOP à la précision sur l'altitude. La précision espérée est d'autant meilleure que le DOP est petit.
+
+Résolution de l'équation de navigation :
+
+La résolution de l'équation de navigation peut se faire par la méthode des moindres carrés et la méthode de Bancroft. Elle nécessite au moins quatre équations (quatre satellites).
+Chaque signal satellite donne au récepteur l'équation suivante :
+\rho_{i}=c\cdot\left(t_{r_{i}}-t_{e_{i}}\right)=\sqrt{\left(x_{i}-x\right)^{2}+\left(y_{i}-y\right)^{2}+\left(z_{i}-z\right)^{2}}+c\Delta t
+avec :
+* \rho_{i} la distance théorique (i.e. pour une synchronisation parfaite de l'horloge interne du récepteur, soit \Delta t=0) au satellite i ;
+* \left(x_{i},y_{i},z_{i}\right) la position du satellite i ;
+* \left(x,y,z\right) la position du récepteur ;
+* c la vitesse de la lumière dans le vide ;
+* \Delta t le décalage de l'horloge interne du récepteur (le récepteur ne dispose pas d'horloge interne assez précise) ;
+* t_{r_{i}} le temps de réception du signal émis à t_{e_{i}} par le satellite i.
+En passant au carré, on obtient :
+\left(\rho_{i}-c\Delta t\right)^{2}=\left(x_{i}-x\right)^{2}+\left(y_{i}-y\right)^{2}+\left(z_{i}-z\right)^{2}
+Puis en développant :
+\left(x_{i}^{2}+y_{i}^{2}+z_{i}^{2}-\rho_{i}^{2}\right)-2\left(x_{i}x+y_{i}y+z_{i}z-\rho_{i}c\Delta t\right)+\left(x^{2}+y^{2}+z^{2}-\left(c\Delta t\right)^{2}\right)=0
+On peut alors introduire \mathbf{s}_{i}=\left[\begin{array}{cccc}
+x_{i} & y_{i} & z_{i} & \rho_{i}\end{array}\right]^{\top}, \mathbf{u}=\left[\begin{array}{cccc}
+x & y & z & c\Delta t\end{array}\right]^{\top} et le pseudo-produit scalaire de Lorentz défini pour tout quadrivecteur \mathbf{u} et \mathbf{v} par \left\langle \mathbf{u},\mathbf{v}\right\rangle =u_{1}v_{1}+u_{2}v_{2}+u_{3}v_{3}-u_{4}v_{4}. L'équation précédente se réécrit en :
+\frac{1}{2}\left\langle \mathbf{s}_{i},\mathbf{s}_{i}\right\rangle -\left\langle \mathbf{s}_{i},\mathbf{u}\right\rangle +\frac{1}{2}\left\langle \mathbf{u},\mathbf{u}\right\rangle =0
+En mettant sous forme matricielle tous les signaux dont on dispose, on obtient :
+B\mathbf{u}=\mathbf{a}+\Lambda\mathbf{e}
+avec :
+* \mathbf{a}=\frac{1}{2}\left(\begin{array}{c}
+\left\langle \mathbf{s}_{1},\mathbf{s}_{1}\right\rangle \\
+\left\langle \mathbf{s}_{2},\mathbf{s}_{2}\right\rangle \\
+\vdots\end{array}\right)
+* B=\left(\begin{array}{cccc}
+x_{1} & y_{1} & z_{1} & -\rho_{1}\\
+x_{2} & y_{2} & z_{2} & -\rho_{2}\\
+\vdots & \vdots & \vdots & \vdots\end{array}\right)
+* \Lambda=\frac{1}{2}\left\langle \mathbf{u},\mathbf{u}\right\rangle
+* \mathbf{e}=\left[\begin{array}{ccc}
+1 & 1 & \cdots\end{array}\right]^{\top}
+Remarque : le nombre de lignes de \mathbf{a}, B et \mathbf{e} doit être le même et supérieur ou égal à 4.
+En considérant \Lambda comme une constante, on peut résoudre l'équation précédente par la méthode des moindres carrés qui donne pour solution :
+\mathbf{u}^{\star}=B^\left(\mathbf{a}+\Lambda\mathbf{e}\right) avec B^=\left(B^{\top}B\right)^{-1}B^{\top}.
+On peut ensuite utiliser \Lambda=\frac{1}{2}\left\langle \mathbf{u},\mathbf{u}\right\rangle =\frac{1}{2}\left\langle B^\left(\mathbf{a}+\Lambda\mathbf{e}\right),B^\left(\mathbf{a}+\Lambda\mathbf{e}\right)\right\rangle et résoudre l'équation sur \Lambda ainsi définie dont les solutions sont les racines d'un polynôme du second degré :
+\Lambda^{2}\left\langle B^\mathbf{e},B^\mathbf{e}\right\rangle +2\Lambda\left(\left\langle B^\mathbf{a},B^\mathbf{e}\right\rangle -1\right)+\left\langle B^\mathbf{a},B^\mathbf{a}\right\rangle =0
+On obtient finalement le résultat cherché, contenu dans \mathbf{u}^{\star}, en réinjectant \Lambda dans l'équation \mathbf{u}^{\star}=B^\left(\mathbf{a}+\Lambda\mathbf{e}\right). Notez que le résultat n'est pas unique (car \Lambda n'est pas unique). Le choix de résultat final se fait sur des critères de validité de l'intervalle dans lequel se trouve le résultat.
+
+Décalage de l'horloge du récepteur :
+
+La difficulté est de synchroniser les horloges des satellites et celle du récepteur. Une erreur d'un millionième de seconde provoque une erreur de 300 mètres sur la position. Le récepteur ne peut bien entendu pas bénéficier d'une horloge atomique comme les satellites ; il doit néanmoins disposer d'une horloge assez stable, mais dont l'heure n'est a priori pas synchronisée avec celle des satellites. Les signaux de quatre satellites au moins sont nécessaires pour déterminer ce décalage, puisqu'il faut résoudre un système d'au moins quatre équations mathématiques à quatre inconnues qui sont la position dans les trois dimensions plus le décalage de l'horloge du récepteur avec l'heure GPS (voir ci-dessus).
+
+Erreurs possibles :
+
+La plupart des récepteurs sont capables d'affiner leurs calculs en utilisant plus de quatre satellites (ce qui rend les résultats des calculs plus précis) tout en ôtant les sources qui semblent peu fiables, ou trop proches l'une de l'autre pour fournir une mesure correcte, comme précisé ci-dessus.
+Cependant, le GPS n'est pas utilisable dans toutes les situations. En particulier la géolocalisation par GPS est quasiment impossible à l'intérieur des bâtiments. Les smartphones, par exemple, capables de se géolocaliser en intérieur n’utilisent pas le positionnement GPS dans ces conditions particulières mais les différents réseaux WIFI disponibles pour ce faire. Le signal émis par les satellites NAVSTAR étant assez faible et différents facteurs peuvent affecter la précision de la localisation : la traversée des couches de l'atmosphère avec entre autres la présence de gouttes d'eau, les simples feuilles des arbres peuvent absorber tout ou partie du signal, et l'« effet canyon » particulièrement sensible dans les gorges, en montagne (d'où son nom) ou en milieu urbain (phénomène de canyon urbain). Il consiste en l'occultation d'un satellite par le relief (un bâtiment par exemple) ; ou pire encore, en un écho du signal contre une surface qui n'empêchera pas la localisation mais fournira une localisation fausse : c'est le problème des multi-trajets des signaux GPS.
+D'autres erreurs, n'ayant pas de corrélation avec le milieu de prise de mesure ni la nature atmosphérique, peuvent être présentes. Ce sont des erreurs systématiques, telles les décalages orbitaux ou encore un retard dans l'horloge atomique qui calcule le temps auquel la mesure est prise. Un mauvais étalonnage du récepteur (ou autres appareils électroniques du système) peut aussi produire une erreur de mesure.
+
+Corrections troposphérique et ionosphérique :
+
+En l'absence d'obstacles, il reste cependant des facteurs de perturbation importants nécessitant une correction des résultats de calcul. Le premier est la traversée des couches basses de l'atmosphère, la troposphère. La présence d'humidité et les modifications de pression de la troposphère modifient l'indice de réfraction n et donc la vitesse et la direction de propagation du signal radio. Si le terme hydrostatique est actuellement bien connu, les perturbations dues à l'humidité nécessitent, pour être corrigées, la mesure du profil exact de vapeur d'eau en fonction de l'altitude, une information difficilement collectable, sauf par des moyens extrêmement onéreux comme les lidars, qui ne donnent que des résultats parcellaires. Les récepteurs courants intègrent un modèle de correction.
+Le deuxième facteur de perturbation est l'ionosphère. Cette couche ionisée par le rayonnement solaire modifie la vitesse de propagation du signal. La plupart des récepteurs intègrent un algorithme de correction, mais en période de forte activité solaire, cette correction n'est plus assez précise. Pour corriger plus finement cet effet, certains récepteurs bi-fréquences utilisent le fait que les deux fréquences L1 et L2 du signal GPS ne sont pas affectées de la même façon et recalculent ainsi la perturbation réelle.
+En 2017, seize années de données de perturbation du systèmes GPS par le rayonnement solaire, enregistrées par une constellation de vingt-trois satellites, ont été ouvertes aux scientifiques de la météorologie par le Laboratoire national de Los Alamos (Nouveau-Mexique).
+
+Amélioration locale du calcul :
+
+DGPS :
+Le GPS différentiel (Differential global positioning system : DGPS) permet d'améliorer la précision du GPS en réduisant la marge d'erreur du système.
+
+SBAS :
+
+Des systèmes complémentaires d'amélioration de la précision et de l'intégrité ont été déployés (SBAS, Satellite based augmentation system) comme WAAS en Amérique du Nord, MSAS au Japon, EGNOS en Europe ou GAGAN en Inde. Ils reposent tous sur le même principe : un réseau régional ou continental de stations au sol, une ou plusieurs stations maîtres qui centralisent les données des stations et transmettent aux satellites géostationnaires qui rediffusent vers le sol les informations permettant d'améliorer la fiabilité et la précision des données du GPS et d'alerter l'utilisateur en cas de défaillance d'un des satellites.
+D'autres pays préparent le déploiement d'un système SBAS : le SDCM pour la fédération de Russie, le BDSBAS pour la Chine et le K-SBAS pour la Corée du Sud.
+
+Conversion des informations obtenues :
+
+Positionnement :
+Les coordonnées terrestre du récepteur sont calculées dans un repère cartésien géocentrique à trois axes (X,Y,Z) qui a pour origine le centre de gravité des masses terrestres (système dit système géodésique). Pour que ces coordonnées soient facilement exploitables, il faut les convertir en coordonnées géographiques (latitude, longitude, altitude), système très largement utilisé en représentation cartographique.
+C'est le post-traitement du récepteur GPS qui effectue cette conversion en utilisant par défaut le système géodésique WGS 84 (World Geodetic System 84). Ce système, le plus utilisé dans le monde, constitue une référence répondant aux objectifs du système mondial de navigation. L'altitude n'est pas toujours directement exploitable, du fait de l'écart entre la hauteur ellipsoïdale calculé dans le système géodésique WGS 84 et l'altitude géodésique. Cette variation peut atteindre localement plusieurs dizaines de mètres. Les récepteurs les plus élaborés disposent de modèles de correction géodésique, et indiquent une altitude similaire à celle des cartes. Les coordonnées obtenues peuvent être exprimées dans d'autres systèmes géodésiques, propres par exemple à une région ou un pays, ou dans un autre système de projection cartographique. En France, le système de référence est encore souvent la NTF, bien que le système géodésique officiel soit désormais le RGF93, qui diffère très peu du WGS 84.
+
+Temps et synchronisation :
+
+Le calcul des coordonnées géographiques nécessite le calcul du décalage de l'horloge interne du récepteur avec le « temps GPS » et donc le décalage avec le temps UTC. L'horloge du récepteur est synchronisée à celles des satellites à cent milliardièmes de seconde près. Cet accès très précis au temps UTC permet d'asservir très précisément en fréquence une horloge extérieure ou de synchroniser des horloges distantes. Cette possibilité est largement exploitée dans le monde scientifique. Par exemple, l'intégration du temps GPS aux réseaux de surveillance sismique permet aux chercheurs de localiser rapidement l'épicentre des tremblements de terre et d'autres phénomènes telluriques. Dans le monde des transmissions, les grands réseaux de télécommunications nécessitent les équipements parfaitement synchronisés pour fonctionner correctement. Les réseaux de téléphonie mobile et de données se servent du temps GPS pour assurer la parfaite synchronisation de toutes leurs stations de base.
+
+Visualisation cartographique :
+
+Les récepteurs GPS terrestre ou les smartphones disposant d'une puce GPS incorporent généralement un module de post-traitement disposant des fonctions de visualisation cartographique. Ces fonctions reposent sur des bases de données géographiques intégrées. Elles s'appuient sur l'utilisation de la théorie mathématique des graphes (nœuds) et sur l'utilisation d'algorithmes tel que Gps-less location, Floyd-Warshall, Dijkstra et permettent, par exemple, de déterminer l'itinéraire le plus court entre deux points. La firme Broadcom annonce pour 2018 la sortie d'une puce GPS affichant la position avec une précision de 30 centimètres.
+Des cartographies peuvent être embarquées dans des récepteurs GPS.
+
+GPS et théorie de la relativité :
+
+Le GPS est l'application concrète la plus courante dont le fonctionnement met en jeu la théorie de la relativité. Si ses effets n'étaient pas pris en compte, la navigation par GPS serait entachée d'erreurs trop importantes.
+Le temps — sa mesure — est en particulier influencé par deux conditions : le déplacement à grande vitesse et l'altitude dans le champ gravitationnel. Ces deux effets expliquent que la même horloge atomique n'a pas la même fréquence au sol ou en orbite. Pour l'horloge d'un satellite GPS, les deux effets sont contraires : se déplaçant à une grande vitesse circulaire, son temps est ralenti de 7 µs (7 microsecondes) par jour, alors que située plus haut dans le champ gravitationnel terrestre, son temps est accéléré de 45 µs par jour (voir calcul en Tests expérimentaux de la relativité générale). La somme des deux fait que le temps de l'horloge d'un satellite GPS vue du sol avance de δt 38 µs par jour. Cela correspond donc à une erreur spatiale de δt × c où c est la vitesse de la lumière et donc une dérive de 38 µs × 3 e8 m/s 11,4 km/jour.
+Ces deux effets principaux sont modélisés dans la théorie de la relativité :
+* la lenteur du temps — de sa mesure — sur un objet ou une horloge atomique se déplaçant à grande vitesse — connue comme dilatation du temps — est théorisée et modélisée dans la théorie de la relativité restreinte ;
+* la rapidité du temps — de sa mesure — sur un objet ou une horloge atomique situé plus haut dans un même champ gravitationnel correspond à la relativité générale.
+Historiquement, en 1977, lors de la première mise en orbite d'une horloge atomique au césium dans le satellite NTS-2, les effets de la relativité avaient été calculés, mais certains doutaient de la véracité des effets relativistes. Les premières émissions du satellite n'incorporaient pas les corrections relativistes, mais l'on avait prévu un synthétiseur de fréquence activable à distance qui pourrait le faire. Après vingt jours en orbite, l'horloge atomique en orbite a été mesurée dérivant de 4,425 × 10⁻¹⁰ par rapport au sol, ce qui était proche du calcul théorique de l'époque donnant 4,465 × 10⁻¹⁰. Par la suite, le synthétiseur a été activé de manière permanente. La valeur de la dérive peut paraître faible, mais elle est bien plus importante que la précision d'une horloge atomique au césium qui est de l'ordre de 5 × 10⁻¹⁴.
+Ce décalage est depuis pris en compte dans toutes les horloges atomiques des satellites GPS sous différentes formes. Pour les horloges au césium, la correction est réalisée au sol avant la mise en orbite. Le cas des horloges atomiques au rubidium est plus complexe, car elles peuvent subir des sauts de fréquence imprédictibles pendant le lancement. La fréquence est mesurée une fois en orbite, mais elle n'est plus corrigée directement : les corrections nécessaires sont incluses dans le message de navigation. D'autres effets relativistes existent dans le GPS. Certains sont négligeables au vu de la précision recherchée pour les applications de positionnement, d'autres doivent être pris en compte : par exemple, les récepteurs GPS corrigent l'effet Sagnac dû à la rotation de la Terre.
+
+Inconvénients du GPS :
+
+Dépendance stratégique :
+Le GPS est un système conçu par et pour l'armée des États-Unis et sous son contrôle. Le signal pourrait être dégradé, occasionnant ainsi une perte importante de sa précision, si le gouvernement des États-Unis le désirait. C'est un des arguments en faveur de la mise en place du système européen Galileo qui est, lui, civil et dont la précision théorique est supérieure. La qualité du signal du GPS a été dégradée volontairement par les États-Unis jusqu'au mois de mai 2000, la précision d'un GPS en mode autonome était alors d'environ 100 mètres. Depuis l'arrêt de ce brouillage volontaire, supprimé par le président Bill Clinton, la précision est de l'ordre de 5 à 15 mètres.
+Le système GPS est fréquemment utilisé pour la synchronisation de l'heure entre les différents composants des réseaux de téléphonie mobile GSM, UMTS et LTE ; les conséquences d'une dégradation du signal se répercuterait sur une infrastructure critique.
+
+Limitations des récepteurs civils :
+
+Les récepteurs GPS civils sont limités afin qu'ils ne puissent pas être utilisés dans des systèmes d'armement rapides tels que les missiles balistiques. En pratique, un récepteur ne doit plus fournir de données de navigation au-delà d'un maximum de vitesse ou d'altitude.
+Historiquement, ces limites étaient fixées à une vitesse maximale de 515 m/s (1000 nœuds) et une altitude maximale de 18000 m (60000 pieds).
+Elles étaient appelées limites CoCom du nom du Coordinating Committee for Multilateral Export Controls (CoCom), qui a été dissous après la chute du bloc soviétique en 1994. Par la suite, les réglementations sur les récepteurs GPS sont restées en vigueur aux États-Unis selon l'International Traffic in Arms Regulations (ITAR) qui régule les exportations de technologies sensibles américaines et internationalement selon le Régime de contrôle de la technologie des missiles (MTCR) créé en 1987.
+Depuis 2013, le MTCR ne limite plus le domaine d'utilisation des GPS civils en altitude et a augmenté la limite de vitesse à 600 m/s. Depuis 2014, les restrictions ITAR aux États-Unis appliquent la même limite.
+
+Risque de surveillance abusive :
+
+Dans l'esprit du grand public, un lien direct est effectué entre GPS et surveillance abusive, le terme familier péjoratif de « flicage » est généralement employé par les détracteurs de tels systèmes. Toutefois, les outils de surveillance n'incorporent le GPS que comme l'un des éléments technologiques nécessaires à la surveillance abusive.
+Le dispositif de localisation GPS en lui-même est un système passif qui se contente de recevoir les signaux des satellites et d'en déduire une position. Le réseau des satellites GPS ne reçoit donc aucune information d'éventuels systèmes de surveillance au sol (ou embarqués dans un aéronef ou un navire) et demeure techniquement incapable d'effectuer la surveillance d'un territoire d'une quelconque façon.
+En revanche, notamment dans le domaine des transports, des systèmes déployés dans les véhicules adjoignent un dispositif de transmission de l'information obtenue avec le GPS. Ce dispositif peut fonctionner en temps réel, il s'agit alors bien souvent d'une liaison de transmission de données par téléphonie mobile ; ou fonctionner en temps différé, les données sont alors déchargées a posteriori par un système physique ou de radio à courte portée. Leur application est généralement réservée aux professionnels pour suivre une flotte de camions, véhicules de transports de passagers (y compris les taxis), de véhicules de commerciaux, de dépannage ou d'intervention. Les objectifs de ces outils de suivi de flotte sont pour un employeur de s'assurer que son salarié effectue effectivement le travail demandé ou que le véhicule n'a pas été détourné. Il permet aussi d'améliorer la gestion d'une flotte de véhicules.
+Les individus peuvent également faire l'objet d'une géolocalisation en continu (par exemple pour les données de trafic). Il existe deux méthodes de collecte d'informations :
+* le tracking ;
+* la localisation sous demande.
+La première va identifier et remonter l'information à une période constante, par exemple toutes les deux ou cinq minutes. Tandis que la localisation sous demande consiste à n'envoyer l'information qu'en cas de demande du porteur du terminal ou de l'aidant. Dans tous les cas, le porteur du terminal doit être informé et d'accord sur la fonctionnalité de géolocalisation.
+Les systèmes de localisation automatique de sécurité, comme l'AIS en navigation maritime et aérienne, combinent un récepteur GPS et un émetteur, améliorant la sécurité anti-collision et la recherche des naufragés. L'APRS utilise le même principe, il est géré par des radioamateurs bénévoles.
+
+Réinitialisation de la Numérotation du calendrier GPS :
+
+WNRO ou GPS week number rollover (en français Réinitialisation de la Numérotation du calendrier GPS) provoque l'obsolescence des logiciels usant du système américain, à cause de la remise à zéro de la référence temps toutes les 1024 semaines (dû à la limitation du comptage interne de satellites) ; le dernier a eu lieu le 6 avril 2019 et invalide par conséquent les matériels devenus absents des mises à jour des constructeurs.
+
+Confiance exagérée dans ses performances :
+
+Autres systèmes de positionnement par satellites :
+Il existe d'autres systèmes de positionnement par satellite, sans atteindre cependant la couverture ou la précision du GPS :
+* GLONASS est le système russe, qui est de nouveau pleinement opérationnel depuis décembre 2011 ;
+* Beidou est le système de positionnement créé par la république populaire de Chine ; il est opérationnel uniquement sur le territoire chinois et les régions limitrophes (il utilise des satellites géostationnaires, au nombre de quatre actuellement) ; son successeur Compass sera global et atteindra une précision de 10 cm au sol ;
+* l'Inde prépare également son système de positionnement, l'IRNSS ;
+* Galileo est le système civil de l'Union européenne, pleinement opérationnel depuis 2020. C’est aujourd’hui le système le plus performant au monde en termes de couverture et de précision ;
+* le Japon prépare le système QZSS (Quasi-Zenith Satellite System) pour 2017-2018.

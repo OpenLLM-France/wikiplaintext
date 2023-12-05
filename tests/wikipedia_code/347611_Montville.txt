@@ -1,0 +1,403 @@
+{{voir homonymes}}
+{{Infobox Commune de France
+ | nom                         = Montville
+ | image                       = Montville - Vue depuis la gare (juil 2022).jpg
+ | légende                     = Vue depuis la gare.
+ | blason                      = Blason Montville.svg
+ | légende blason              = #Héraldique
+ | drapeau                     = Montville logo.jpg
+ | taille drapeau              = 70
+ | région                      = [[Région Normandie|Normandie]]
+ | département                 = [[Seine-Maritime]]
+ | arrondissement              = [[Arrondissement de Rouen|Rouen]]
+ | canton                      = [[Canton de Bois-Guillaume]]
+ | circonscription législative = [[Dixième circonscription de la Seine-Maritime|Dixième circonscription]]
+ | insee                       = 76452
+ | cp                          = 76710
+ | maire                       = Anne-Sophie Clabaut
+ | mandat maire                = [[Élections municipales de 2020 dans la Seine-Maritime|2020]]-2026
+ | intercomm                   = [[Communauté de communes inter-Caux-Vexin]]
+ | longitude                   = 1.0764
+ | latitude                    = 49.5472
+ | alt mini                    = 42
+ | alt maxi                    = 178
+ | superficie                  = 10.85
+ | type                        = Commune urbaine
+ | unité urbaine               = [[Unité urbaine de Rouen|Rouen]] <br><small>([[banlieue]])</small>
+ | aire d'attraction           = [[Aire d'attraction de Rouen|Rouen]] <br><small>(commune de la couronne)</small>
+ | population                  = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                   = {{Population de France/dernière_année_Infobox}}<!-- Insertion automatique, ne pas modifier -->
+ | gentilé                     = Montvillais
+ | siteweb                     = [http://montville.fr/ montville.fr]
+ | géoloc-département          = Seine-Maritime/Normandie
+ | légende drapeau          = 
+}}
+
+'''Montville''' est une [[Commune (France)|commune française]] située dans le [[département français|département]] de la [[Seine-Maritime]] en [[Région française|région]] [[Normandie (région administrative)|Normandie]].{{Sommaire|niveau=2}}
+
+== Géographie ==
+=== Description ===
+Montville est située en [[France]] dans la région de [[Normandie]], dans le ''pays de Rouen'' ou ''Rouënnais''.
+
+Montville est accessible par la route départementale 155 depuis [[Clères]] ou [[Malaunay]], par la route départementale 44 depuis [[Fontaine-le-Bourg]] ou [[Eslettes]], et par la route départementale 47 depuis [[Bosc-Guérard-Saint-Adrien]].
+
+Elle est située à 5 minutes de l’[[Autoroute A151 (France)|autoroute A151]] qui relie [[Rouen]] et [[Dieppe (Seine-Maritime)|Dieppe]]. Prendre la sortie {{n°|1}} « Eslettes, Montville, Malaunay ».
+
+Le territoire communal est traversé par la [[ligne de Malaunay - Le Houlme à Dieppe]] dont la [[gare de Montville]] est desservie par des  trains [[TER Normandie]] reliant [[Gare de Rouen-Rive-Droite|Rouen-Rive-Droite]] à [[Gare de Dieppe|Dieppe]].
+
+La ligne interurbaine 29 qui relie Rouen à [[Bosc-le-Hard]] s’arrête à Montville<ref>{{Lien web |langue=fr-FR|titre=Venir à Montville {{!}} Ville de Montville|url=https://montville.fr/transports/|consulté le=2021-02-08}}.</ref>.
+
+<gallery mode="packed" caption="La gare">
+Gare de MONTVILLE.jpg|Passage d'un train de bennes vides, à destination de [[Rouxmesnil-Bouteilles]] (via Dieppe).
+Gare MONTVILLE.jpg|Passage d'un train de bennes, à destination de Rouxmesnil-Bouteilles (via Dieppe).
+</gallery>
+
+=== Communes limitrophes ===
+{{Communes limitrophes 
+|align = center
+|commune = Montville
+|nord = [[Anceaumeville]]
+|nord-est = [[Mont-Cauvaire]], [[Quincampoix]]
+|est = [[Bosc-Guérard-Saint-Adrien]]
+|sud-est = 
+|sud = [[Malaunay]]
+|sud-ouest = [[Eslettes]]
+|ouest = 
+|nord-ouest = [[Fresquiennes]]
+}}
+
+=== Hydrographie ===
+La commune se trouve à la confluence de deux rivières : la [[Clérette]] et [[Cailly (rivière)|Cailly]], respectivement sous-affluent et [[affluent]] de la [[Seine]].
+
+=== Occupation des sols ===
+{| class="wikitable"
+!Données 2018<ref>{{Lien web |langue=fr|titre=Pollution Montville (76710)|url=http://www.linternaute.com/actualite/pollution/montville/ville-76452|site=www.linternaute.com|consulté le=2021-02-08}}.</ref>
+!Montville : superficie
+!Montville : pourcentage
+!Moyenne nationale
+|-
+|Occupation humaine
+|212 ha
+|19,6 %
+|7,7 %
+|-
+|Agriculture
+|445 ha
+|41,2 %
+|63,8 %
+|-
+|Forêt
+|423 ha
+|39,1 %
+|23,6 %
+|-
+|Espace naturel
+|0 ha
+|0,0 %
+|4,0 %
+|-
+|Zone humide
+|0 ha
+|0,0 %
+|0,2 %
+|-
+|Eau
+|0 ha
+|0,0 %
+|0,7 %
+|}
+
+=== Climat ===
+Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique altéré », selon la typologie des [[climat de la France|climats de la France]] qui compte alors huit grands types de climats en [[France métropolitaine|métropole]]<ref name=Joly>{{Article |langue= fr|auteur1= Daniel Joly, Thierry Brossard, Hervé Cardot, Jean Cavailhes, Mohamed Hilal et Pierre Wavresky|titre= Les types de climats en France, une construction spatiale|périodique= Cybergéo, revue européenne de géographie - European Journal of Geography |numéro=501|date= 18 juin 2010|pages= |doi= https://doi.org/10.4000/cybergeo.23155|lire en ligne=http://journals.openedition.org/cybergeo/23155  |consulté le=27 juillet 2021}}</ref>. En 2020, la commune ressort du même type de climat dans la classification établie par [[Météo-France]], qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs<ref>{{Lien web |url=https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine |titre= Le climat en France métropolitaine |site = http://www.meteofrance.fr/ |date=4 février 2020|consulté le= 27 juillet 2021}}</ref>.
+
+Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les [[précipitations]], dont les valeurs correspondent à la normale 1971-2000{{note|texte=Les normales servent à représenter le [[Climat de la France|climat]]. Elles sont calculées sur {{Unité|30 ans}} et mises à jour toutes les décennies. Après les normales 1971-2000, les normales pour la période 1981-2010 ont été définies et, depuis 2021, ce sont les normales 1991-2020 qui font référence en Europe et dans le monde{{note|texte= [https://meteofrance.com/actualites-et-dossiers/actualites/la-une/2021-de-nouvelles-normales-pour-qualifier-le-climat-en 2021 : de nouvelles normales pour qualifier le climat en France], Météo-France, 14 janvier 2021.}}. |groupe=Note}}. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-après.
+
+{| align="center" bgcolor="#F8F8F8" | style="border: 1px solid #999
+|<center>'''Paramètres climatiques communaux sur la période 1971-2000<ref name=Joly/>'''</center>
+----
+* Moyenne annuelle de température : {{tmp|10.5| °C }}
+* Nombre de jours avec une température inférieure à {{tmp|-5| °C}} : 3,1 j
+* Nombre de jours avec une température supérieure à {{tmp|30| °C}} : 1,8 j
+* Amplitude thermique annuelle<ref group=Note>L'amplitude thermique annuelle mesure la différence entre la température moyenne de juillet et celle de janvier. Cette variable est généralement reconnue comme critère de discrimination entre climats océaniques et continentaux.</ref> : {{tmp|12.4| °C }}
+* Cumuls annuels de précipitation{{note|texte= Une précipitation, en météorologie, est un ensemble organisé de particules d'eau liquide ou solide tombant en chute libre au sein de l'atmosphère. La quantité de précipitation atteignant une portion de surface terrestre donnée en un intervalle de temps donné est évaluée par la hauteur de précipitation, que mesurent les pluviomètres{{note|texte= [http://www.meteofrance.fr/publications/glossaire/153276-precipitation Glossaire – Précipitation], Météo-France}}. |groupe=Note}} : {{Unité|847 mm}}
+* Nombre de jours de précipitation en janvier : 13 j
+* Nombre de jours de précipitation en juillet : 8,5 j
+|}
+
+Avec le [[changement climatique]], ces variables ont évolué. Une étude réalisée en 2014 par la [[Direction générale de l'Énergie et du Climat]]<ref>{{Lien web |url=https://www.ecologie.gouv.fr/sites/default/files/ONERC_Climat_France_XXI_Volume_4_VF.pdf|titre= Le climat de la France au XXIe siècle - Volume 4 - Scénarios régionalisés : édition 2014 pour la métropole et les régions d’outre-mer|site= https://www.ecologie.gouv.fr/ |consulté le=12 juin 2021}}.</ref> complétée par des études régionales<ref>{{pdf}}{{Lien web |url=https://normandie.chambres-agriculture.fr/fileadmin/user_upload/National/FAL_commun/publications/Normandie/observatoire-climat-ORACLE.pdf  |titre=Observatoire régional sur l'agriculture et le changement climatique (Oracle) - Normandie |site =normandie.chambres-agriculture.fr|date=2020|consulté le= 27 juillet 2021}}</ref> prévoit en effet que la  température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la [[station météorologique]] de [[Météo-France]] la plus proche, « Rouen - Jardin », sur la commune de [[Rouen]], mise en service en 1979<ref>{{Lien web |url=https://donneespubliques.meteofrance.fr/metadonnees_publiques/fiches/fiche_76540009.pdf|titre= Station Météo-France Rouen - Jardin - métadonnées|site= donneespubliques.meteofrance.fr |consulté le=27 juillet 2021}}</ref> et qui se trouve à {{unité|12|km}} à [[orthodromie|vol d'oiseau]]<ref>{{Lien web |url=https://fr.distance.to/Montville,Seine-Maritime/Rouen,Seine-Maritime |titre=Orthodromie entre Montville et Rouen |site=fr.distance.to |consulté le=27 juillet 2021}}.</ref>{{,}}<ref group=Note>La distance est calculée à vol d'oiseau entre la station météorologique proprement dite et le chef-lieu de commune.</ref>, où la température moyenne annuelle est de {{ tmp |12.2|°C}} et la hauteur de précipitations de {{Unité|805.2|mm}} pour la période 1981-2010<ref>{{Lien web |url=https://donneespubliques.meteofrance.fr/FichesClim/FICHECLIM_76540009.pdf|titre= Station Météo-France Rouen - Jardin - fiche climatologique - statistiques 1981-2010 et records |site= donneespubliques.meteofrance.fr |consulté le=27 juillet 2021}}.</ref>.
+Sur la station météorologique historique la plus proche<ref group=Note>Par station météorologique historique, il convient d'entendre la station météorologique qui a été mise en service avant 1970 et qui est la plus proche de la  commune. Les données s'étendent ainsi au minimum sur trois périodes de trente ans (1971-2000, 1981-2010 et 1991-2020).</ref>, « Rouen-Boos », sur la commune de [[Boos (Seine-Maritime)|Boos]], mise en service en 1968 et à {{unité|20|km}}<ref>{{Lien web |url=https://fr.distance.to/Montville,Seine-Maritime/Boos,Seine-Maritime |titre=Orthodromie entre Montville et Boos |site=fr.distance.to |consulté le=27 juillet 2021}}.</ref>, la température moyenne annuelle évolue de {{ tmp |10.1|°C}} pour la période 1971-2000<ref>{{Lien web |url=https://www.infoclimat.fr/climatologie/normales-records/1971-2000/rouen-boos/valeurs/07037.html |titre= Station météorologique de Rouen-Boos - Normales pour la période 1971-2000  |site =https://www.infoclimat.fr/ |consulté le= 27 juillet 2021}}</ref> à {{ tmp |10.5|°C}} pour 1981-2010<ref>{{Lien web |url=https://www.infoclimat.fr/climatologie/normales-records/1981-2010/rouen-boos/valeurs/07037.html |titre= Station météorologique de Rouen-Boos - Normales pour la période 1981-2010  |site =https://www.infoclimat.fr/ |consulté le= 27 juillet 2021}}</ref>, puis à {{ tmp |11|°C}} pour 1991-2020<ref>{{Lien web |url=https://www.infoclimat.fr/climatologie/normales-records/1991-2020/rouen-boos/valeurs/07037.html |titre= Station météorologique de Rouen-Boos - Normales pour la période 1991-2020  |site =https://www.infoclimat.fr/ |consulté le= 27 juillet 2021}}</ref>.
+
+== Urbanisme ==
+=== Typologie ===
+Montville est une commune urbaine, car elle fait partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'[[Institut national de la statistique et des études économiques|Insee]]<ref group=Note>Selon le zonage des communes rurales et urbaines publié en novembre 2020, en application de la nouvelle définition de la ruralité validée le {{date-|14 novembre 2020}} en comité interministériel des ruralités.</ref>{{,}}<ref>{{Lien web|url=https://www.observatoire-des-territoires.gouv.fr/typologie-urbain-rural|titre=Typologie urbain / rural|site=www.observatoire-des-territoires.gouv.fr|consulté le= 4 avril 2021}}.</ref>{{,}}<ref>{{Lien web|url=https://www.insee.fr/fr/metadonnees/definition/c1472|titre=Commune urbaine - définition|site=le site de l’[[Insee]]|consulté le= 4 avril 2021}}.</ref>{{,}}<ref>{{Lien web|url=https://www.observatoire-des-territoires.gouv.fr/methodes/methode-comprendre-la-grille-de-densite|titre=Comprendre la grille de densité|site=www.observatoire-des-territoires.gouv.fr|consulté le= 4 avril 2021}}.</ref>.
+Elle appartient à l'[[unité urbaine]] de [[Unité urbaine de Rouen|Rouen]], une agglomération inter-départementale regroupant {{Unité|50|communes}}<ref>{{Lien web|url=https://www.insee.fr/fr/metadonnees/cog/unite-urbaine/UU202000755-rouen|titre=Unité urbaine 2020 de Rouen|site=https://www.insee.fr/|consulté le= 4 avril 2021}}.</ref> et {{Unité|467575|habitants}} en 2017, dont elle est une commune de la [[banlieue]]<ref name="UU2020">{{Lien web|url=https://www.insee.fr/fr/information/4802589|titre=Base des unités urbaines 2020 |date=21 octobre 2020|site=www.insee.fr|consulté le= 4 avril 2021}}.</ref>{{,}}<ref name="UU20202b">{{Lien web|url=https://www.insee.fr/fr/statistiques/4806684|titre=Toujours plus d’habitants dans les unités urbaines |auteur=Vianney Costemalle |date=21 octobre 2020|site=le site de l'[[Institut national de la statistique et des études économiques]]|consulté le= 4 avril 2021}}.</ref>.
+
+Par ailleurs, la commune fait partie de l'[[aire d'attraction de Rouen]] dont elle est une commune de la couronne<ref group=Note>La notion d'[[aire d'attraction d'une ville|aire d'attraction des villes]] a remplacé, en {{date-|octobre 2020}}, celle d'[[aire urbaine (France)|aire urbaine]] afin de permettre des comparaisons cohérentes avec les autres pays de l'[[Union européenne]].</ref>. Cette aire, qui regroupe {{Unité|317|communes}}, est catégorisée dans les aires de {{formatnum:200000}} à moins de {{Unité|700000|habitants}}<ref name="AAV2020">{{Lien web|url=https://www.insee.fr/fr/metadonnees/cog/aire-attraction-ville/AAV2020015-rouen|titre=Liste des communes composant l'aire d'attraction de Rouen|site=le site de l'[[Institut national de la statistique et des études économiques]]|consulté le= 4 avril 2021}}.</ref>{{,}}<ref name="AAV20202b">{{Lien web|url=https://www.insee.fr/fr/statistiques/4806694|titre=En France, neuf personnes sur dix vivent dans l’aire d’attraction d’une ville |auteur=Marie-Pierre de Bellefon, Pascal Eusebio, Jocelyn Forest, Olivier Pégaz-Blanc et Raymond Warnod (Insee) |date=21 octobre 2020|site=le site de l'[[Institut national de la statistique et des études économiques]]|consulté le= 4 avril 2021}}.</ref>.
+
+=== Occupation des sols ===
+L'occupation des sols de la commune, telle qu'elle ressort de la [[base de données]] [[Europe|européenne]] d’occupation [[biophysique]] des sols [[Corine Land Cover]] (CLC), est marquée par l'importance des territoires agricoles (41,2 % en 2018), néanmoins en diminution par rapport à 1990 (44 %). La répartition détaillée en 2018 est la suivante : 
+forêts (39,1 %), prairies (22,1 %), [[terres arables]] (19,1 %), zones urbanisées (15,8 %), espaces verts artificialisés, non agricoles (3,8 %)<ref name="CLC">{{Lien web |url=https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0 |titre=CORINE Land Cover (CLC) - Répartition des superficies en 15 postes d'occupation des sols (métropole). |site=le [https://www.statistiques.developpement-durable.gouv.fr/ site des données et études statistiques] du ministère de la Transition écologique.|consulté le= 13 mai 2021}}</ref>. L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la [[carte de Cassini]] ({{s-|XVIII}}), la [[carte d'état-major]] (1820-1866) et les cartes ou photos aériennes de l'[[Institut national de l'information géographique et forestière|IGN]] pour la période actuelle (1950 à aujourd'hui)<ref group=Carte>{{Lien web |url= https://remonterletemps.ign.fr/comparer/basic?x=1.0764&y=49.5472&z=14&layer1=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&layer2=GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR40&mode=doubleMap|titre=Évolution comparée de l'occupation des sols de la commune sur cartes anciennes|auteur=IGN |site=remonterletemps.ign.fr |consulté le=17 juillet 2023}}.</ref>.
+[[Fichier:76452-Montville-Sols.png|vignette|redresse=1.4|centre|alt=Carte en couleurs présentant l'occupation des sols.|Carte des infrastructures et de l'occupation des sols de la commune en 2018 ([[Corine Land Cover|CLC]]).]]
+
+== Toponymie ==
+Le nom de la localité est attesté sous les formes ''Montville'' en 1030 et 1035; ''Mont villa'' vers 1040 et vers 1059, 1060<ref>[[Jean Adigard des Gautries]], « Les noms de lieux de la Seine-Maritime attestés entre 911 et 1066 (suite) » in ''[[Annales de Normandie]]'', {{8e}} année, {{n°|3}}, 1958, {{p.|311}}.</ref>{{,}}<ref name="François de Beaurepaire">{{Ouvrage |langue=fr |prénom1=François |nom1=de Beaurepaire |préface=[[Marianne Mulon]]|titre=Les Noms des communes et anciennes paroisses de la Seine-Maritime |lieu=Paris |éditeur=[[Éditions Picard|A. et J. Picard]] |année=1979 |pages totales=180 |passage=113 |isbn=2-7084-0040-1 |oclc=6403150}}.</ref>. Sous le règne d'[[Henri Ier (roi d'Angleterre)|Henry I]], une source atteste d'une évolution toponymique en écrivant Monville et mentionnant sa version latine ''Munnivilla''<ref>{{Ouvrage|langue=en|titre=The Publications of the Pipe Roll Society|éditeur=Pipe Roll Society|date=2012|lire en ligne=https://books.google.fr/books?id=SlhOAQAAMAAJ|consulté le=2021-02-17}}.</ref>.
+
+Il s'agit d'une formation toponymique médiévale en ''-ville'' au sens ancien de « domaine rural » (voir ''vilain'', paysan du [[Moyen Âge]]). Cet appellatif est sans doute précédé d'un [[anthroponyme]] conformément au cas général<ref name="François de Beaurepaire"/>.
+
+La lecture ''Mont-ville'' « domaine rural du mont » est douteuse pour deux raisons : les formations en ''-ville'' composées avec un autre appellatif toponymique sont rares et Montville n'est pas situé sur un ''mont'' « colline, élévation » mais dans la vallée du [[Cailly (rivière)|Cailly]]<ref name="François de Beaurepaire"/>. François de Beaurepaire suggère d'identifier le nom de personne [[Scandinavie|scandinave]] ''Amundi''<ref name="François de Beaurepaire"/> (''Ámundi'') que l'on reconnaît dans [[Mondeville (Calvados)|Mondeville]] (Calvados, Caen, ''Amondevilla'' 989, ''Amundi villa'' 990), hypothèse à laquelle on peut objecter que l'évolution phonétique aurait dû se faire également en ''*Mondeville'' et qu'aucune forme ancienne ne prouve l'existence d'un A- initial. Il convient sans doute de recourir au nom de personne scandinave ''*Mundr'' (''Mundi'') forme attestée dans des composés.
+
+== Histoire ==
+{{Section à sourcer|date=février 2021}}
+Montville ou Monville apparaît dès le {{s|XI}}. En 1030, l’église est citée ainsi qu'un vivier.
+
+En {{Date-||mars|1472}}, le roi [[Louis XI]] autorise, par ses [[lettres patentes]], une foire à Montville par an, afin que la ville s'accroisse<ref>{{Ouvrage|titre=Lettres patentes de Louis XI, Montilz-lèz-Tours, mars 1472 (1471 avant Pâques) |éditeur= |année= |isbn= |lire en ligne=https://books.google.fr/books?id=OJ-b2-CLz7EC&pg=PA477}}.</ref>.
+
+La {{C'est-à-dire|baronnie de Montville est mouvante}} et le roi [[Henri IV (roi de France)|Henri IV]] lui permet de devenir fixe.
+
+Tout au long du {{s|XIX}}, de nombreux immigrants de l’Ouest de la Normandie s’installent à Montville et sont employés dans les industries textiles de la vallée, industries alors en plein essor.
+
+Le {{Date-|19|août|1845}}, une [[Tornade de Montville|très violente tornade]] s'abat sur la ville, détruisant des usines. On a dénombré 70 morts et 136 blessés, la plupart des victimes travaillait dans des filatures dont les murs se sont effondrés. Selon les descriptions de l'époque : « Des ouvriers furent lancés au-dehors par-dessus des haies et des clôtures… Sur d'autres points, les bâtiments furent comme pulvérisés et la place absolument nettoyée. Des solives, des planches… furent soulevées et emportées jusqu'à 25 et {{unité|38|kilomètres}} de là ! Jusque près de Dieppe », ce qui tendrait à la classer dans la [[Échelle de Fujita|catégorie F5]], la plus intense. Ce n'est cependant qu'une estimation, aucune enquête utilisant les méthodes modernes d'investigation n'ayant été faite. [[Gustave Flaubert]] évoque cette catastrophe dans sa lettre à [[Louise Colet]] du {{Date|26|août|1846}}<ref>Jean Dessens et John T. Snow, ''Les Trombes en France'', {{Date|30|mars|1989}}, Lycos.fr. Consulté le {{date-|2008-01-31}}.</ref>.
+
+Sous la [[Troisième République (France)|{{IIIe}} République]], de nombreux édifices sont construits : groupe scolaire Évode-Chevalier et mairie (1888).
+
+L'orthographe du nom de la commune est modifiée en 1964 et le « t » réapparaît définitivement.
+
+De nombreuses infrastructures sont créées depuis les [[années 1980]] jusqu’à aujourd’hui : plan d’eau, musée des Sapeurs-Pompiers de France, résidence pour personnes âgées et maison de retraite, parc industriel de Cardonville, salle de spectacles « Espace Jean-Loup-Chrétien », etc.
+
+== Politique et administration ==
+
+=== Tendances politiques et résultats ===
+{{…}}
+{{Article connexe|Élections municipales de 2014 dans la Seine-Maritime}}
+
+{{…}}
+{{Article connexe|Élections municipales de 2020 dans la Seine-Maritime}}
+
+=== Liste des maires ===
+{{ÉluDébut|Titre=Liste des maires successifs<ref>{{Lien web
+|url=http://www.francegenweb.org/mairesgenweb/resultcommune.php?id=17617
+|titre=Les maires de Montville
+|site=http://www.francegenweb.org
+|consulté le=20 novembre 2015 }}.</ref> |Charte=commune}}
+{{ÉluDonnées}}
+{{Élu|Début=1831|Fin=1846|Identité=Hippolyte Boissel de Monville|Parti= |Qualité=Baron }}
+{{Élu|Début= 1862 |Fin= 1870 |Identité=Hippolyte Hommais|Parti= |Qualité= }}
+{{Élu |Début=1870 |Fin=1875 |Identité=Pierre Gaillard-Lemaître  |Parti= |Qualité= }}
+{{Élu |Début=1875 |Fin=1880 |Identité=Albert Avonde |Parti= |Qualité= }}
+{{Élu |Début=1880 |Fin=1883 |Identité=Louis Berrenger  |Parti= |Qualité= }}
+{{Élu|Début= 1883 |Fin= 1884 |Identité=Hippolyte Hommais|Parti= |Qualité= }}
+{{Élu|Début=1884| Fin=1896|Identité=Evode Chevalier|Parti=[[République|Républicain]]|Qualité= [[Canton de Clères|Conseiller général de Clères]] <small>(1883 → 1889)</small>}}
+{{Élu|Début= {{date-||décembre|1919}} |Fin= {{date-||mai|1935}}|Identité=Louis Guittet |Parti= |Qualité=[[Canton de Clères|Conseiller général de Clères]] <small>(1934 → 1940)</small>}}
+{{ÉluDonnées}}
+{{Élu|Début= {{date-||octobre|1947}} |Fin=1952|Identité=Jules Deconihout |Parti= |Qualité= }}
+{{Élu|Début= 1952|Fin= {{date-||mars|1959}}|Identité=Ernest Delaporte |Parti= |Qualité= }}
+{{Élu|Début=  mars 1959 |Fin= 7 novembre 1993<ref>{{Article
+|titre=Seine-Maritime: décès du président du conseil général.
+|périodique=L'Humanité |lien périodique=L'Humanité |date=8/11/1993
+|url texte=https://www.humanite.fr/node/67009
+|consulté le=20 novembre 2015
+}}.</ref>|Identité=[[André Martin (homme politique)|André Martin]] |Parti=[[Union pour la démocratie française|UDF]]-[[Parti social-démocrate (France)|PSD]]<ref>[https://www.lesechos.fr/09/11/1993/LesEchos/16514-111-ECH_deces-d-andre-martin.htm Décès d'André Martin]</ref> |Qualité=Instituteur<br>[[Liste des députés de la Seine-Maritime|Député de la Seine-Maritime]] ([[Quatrième circonscription de la Seine-Maritime|{{4e}} circ.]] <small>(1973 → 1978)</small><br>[[Liste des sénateurs de la Seine-Maritime|Sénateur de la Seine-Maritime]] <small>(1993 → 1993)</small><br>[[Canton de Clères|Conseiller général de Clères]] <small>(1964 → 1993)</small><br>Président du [[conseil général de la Seine-Maritime]] <small>(1993 → 1993)</small><br><small>Décédé en fonction</small> }}
+{{Élu|Début= novembre 1993 |Fin=  juin 1995 |Identité=Jacques Motte<ref>{{Article
+|titre=La commune en deuil
+|sous-titre=Disparition de Jacques Motte, ancien premier adjoint d'André Martin et ancien maire.
+|périodique=Paris Normandie |lien périodique=Paris Normandie |date=3/12/2009
+|url texte=http://www.paris-normandie.fr/detail_article/articles/PN-69525/la-commune-en-deuil-69525#.Vk5-b-Ko3VI
+|consulté le=20 novembre 2015
+}}.</ref> |Parti=[[Divers droite|DVD]] |Qualité= }}
+
+{{Élu |Début= juin 1995  |Fin=  2 avril 2015<ref>{{Article
+|titre=Pascal Martin devrait devenir président du Département de Seine-Maritime
+|sous-titre=Le nouvel exécutif départemental de Seine-Maritime sera élu jeudi 2 avril 2015. Pascal Martin, chef de file d'Alternance 76, devrait remplacer le socialiste Nicolas Rouly. Portrait
+|périodique=Normandie-actu |date =31/03/2015
+|url texte=http://www.normandie-actu.fr/portrait-pascal-martin-devrait-devenir-president-du-departement-de-seine-maritime_119721/
+|consulté le=20 novembre 2015
+}}.</ref> |Identité=[[Pascal Martin (homme politique)|Pascal Martin]]<ref>{{Article
+|titre=Montville : Pascal Martin plébiscité dès le {{1er|tour}}
+|périodique=Paris Normandie |lien périodique=Paris Normandie |date=23/3/2014
+|url texte=http://www.paris-normandie.fr/detail_article/articles/136445/montville--pascal-martin-plebiscite-des-le-1er-tour#.Vk1yG-Ko3VJ
+|consulté le=20 novembre 2015
+}}.</ref>{{,}}<ref>{{Article |auteur=Emmanuelle Partouche
+|titre=Pascal Martin, le leader de l'opposition, président du Conseil départemental de Seine-Maritime dans quelques heures
+|sous-titre=Élu conseiller départemental dès le premier tour ce dimanche 22 mars, celui qui est aussi le maire de Montville depuis 1995 est en passe d'être élu président du département, à la place du socialiste Nicolas Rouly.
+|périodique=France 3 Haute-Normandie |lien périodique=France 3 Haute-Normandie |date=2/4/2015
+|url texte=https://france3-regions.francetvinfo.fr/haute-normandie/2015/04/02/pascal-martin-le-leader-de-l-opposition-president-du-conseil-general-de-seine-maritime-dans-quelques-heures-696319.html
+|consulté le=19 novembre 2015 }}.</ref> 
+|Parti=[[Union pour un mouvement populaire|UMP]] puis [[Union des démocrates et indépendants|UDI]] <small>([[Parti radical (France)|PR]])</small>
+|Qualité=Colonel de sapeurs-pompiers professionnel<br/>Fils d'[[André Martin (homme politique, 1926-1993)|André Martin]]<br/>Président de la [[Communauté de communes des Portes Nord-Ouest de Rouen|CCPNOR]] <small>(2003 → 2016)</small><br/>[[Canton de Clères|Conseiller général de Clères]] <small>(1993 → 2015)</small><br/>[[Canton de Bois-Guillaume|Conseiller départemental de Bois-Guillaume]] <small>(2015 → )</small><br/>Président du [[conseil départemental de la Seine-Maritime]] <small>(2015 → )</small> <br/><small>Démissionnaire après son élection comme président du conseil départemental</small> }}
+
+{{Élu |Début=avril 2015<ref name="PN13042015">{{Article
+|titre=Myriam Travers est la première femme maire de Montville
+ |périodique=Paris-Normandie |lien périodique=Paris Normandie |date=13/4/2015
+ |url texte=http://www.paris-normandie.fr/detail_article/articles/2952083/femme-et-maire-a-la-fois#.Vk4Uq-Ko3VI
+|consulté le=19 novembre 2015 }}.</ref> 
+|Fin=mai 2020<ref>{{Article
+ |auteur1=Sophie Bogatay
+|titre=Municipales 2020 à Montville : Anne-Sophie Clabaut, sera tête de liste
+ |périodique=[[Paris-Normandie]] |date= 05/09/2019
+ |lire en ligne=https://www.paris-normandie.fr/region/municipales-2020-a-montville--anne-sophie-clabaut-sera-tete-de-liste-GD15527001
+|consulté le=4/9/2020 }} {{Citation|Myriam Travers, maire, a officiellement annoncé dans un communiqué en date du 3 septembre qu’elle ne briguerait pas un prochain mandat et a dévoilé officiellement le nom de la tête de liste « Servir Montville » pour les élections municipales de mars 2020. Il s’agira d’Anne-Sophie Clabaut, actuelle adjointe chargée des affaires sociales et de l’emploi}}.</ref> |Identité=Myriam Travers|Parti= |Qualité=}}
+
+{{Élu actuel|Début=mai 2020<ref>{{Article
+ |auteur1=
+|titre=Municipales 2020 : la liste Servir Montville d’Anne-Sophie Clabaut
+ |sous-titre=Adjointe aux affaires sociales et à l’emploi, Anne-Sophie Clabaut a présenté ses colistiers avec le soutien de Pascal Martin
+ |périodique=[[Paris-Normandie]] |date=16/01/2020
+ |lire en ligne=https://www.paris-normandie.fr/actualites/politique/municipales-2020-la-liste-servir-montville-d-anne-sophie-clabaut-CH16223706
+|consulté le=4/9/2020 }}.</ref>{{,}}<ref>{{Article
+|titre=Municipales 2020. Anne-Sophie Clabaut enfin installée au poste de maire de Montville
+ |sous-titre=Élue maire, l’ancienne adjointe succède à Myriam Travers et s’inscrit dans la continuité des mandats effectués par Pascal Martin
+ |périodique=[[Paris-Normandie]] |date=02/06/2020
+ |lire en ligne=https://www.paris-normandie.fr/actualites/politique/municipales-2020-anne-sophie-clabaut-enfin-installee-au-poste-de-maire-de-montville-EJ16862420
+|consulté le=4/9/2020 }}.</ref> |Fin=|Identité=Anne-Sophie Clabaut |Parti=[[Divers droite|DVD]]|Qualité=Enseignante en physique-chimie et microbiologie en lycée agricole |Date à jour= 10 août 2020}}
+{{ÉluFin}}
+
+=== Distinctions et labels ===
+{{Section à actualiser|2008|commentaire=Quels labels des Villes fleuries la commune a-t-elle obtenue depuis 2008 ?}}
+En 2016, la commune détient le [[Label de qualité|label]] « [[Ville Internet]] @@@@ »<ref>{{pdf}}[http://www.villes-internet.net/UPLOAD/mediaRubrique/file/206_Doc_Palmares.pdf Palmarès 2016 des Villes Internet sur le site officiel de l'association.] Consulté le 27 mars 2017.</ref>.
+
+{{Référence nécessaire|Les fleurs et la botanique sont une tradition bien ancrée à Montville. Vers 1850 y était installée une des plus grandes collections de [[Cactaceae|cactée]]s et plantes succulentes appartenant au baron Hippolyte Boissel de Monville (maire de 1831 à 1846). Cette collection donna son nom à de nombreuses plantes portant toujours le nom [[latin]] [[Monvillea]].
+
+Cette tradition se poursuit aujourd’hui.|date=février 2021}}
+
+La commune est classée en 2008 « quatre fleurs » au [[Concours des villes et villages fleuris]]<ref>[http://www.villes-et-villages-fleuris.com/leconcours/Palmares.pdf Palmarès 2008 des Villes et Villages Fleuris]</ref>.
+=== Jumelage ===
+* {{Jumelage|Haiger|Allemagne|année=1991}}<ref>[http://www.haiger.de/cms/Haiger/Partnerstaedte/ « Städtepartnerschaften »] Site web de la ville de Haiger, consulté le 27 mars 2017.</ref>.
+*{{Jumelage|Resana|Italie|
+}} depuis 2008.
+*{{Jumelage|Santa Eulàlia de Ronçana|Espagne|
+}} depuis 2012.
+
+== Population et société ==
+Les habitants de la commune [[gentilé|sont appelés]] les ''Montvillais''<ref>[http://www.habitants.fr/habitants_montville_76452.html Le gentilé de Montville]</ref>.
+=== Démographie ===
+{{article connexe|Histoire du recensement de la population en France|Démographie de la France}}
+<!--Le paragraphe que vous essayez de modifier est rédigé automatiquement par un modèle.
+Veuillez insérer votre texte après {{Population de France/section}} -->
+
+{{Population de France/section}}
+
+=== Sports et loisirs ===
+{{Section à sourcer|date=février 2021}}
+* 2 stades de football
+* 2 courts de tennis
+* 2 gymnases
+* 1 piscine
+* 1 golf (le golf de Rouen La Forêt Verte situé également sur la commune de [[Bosc-Guérard-Saint-Adrien]])
+* 1 terrain de pétanque
+* 1 plan d'eau de {{unité|3|ha}} (pédalos) avec 3 circuits pédestres autour de 800 et {{formatnum:1000}} m avec [[parcours de santé]] et de nombreuses activités sportives
+* 1 parcours touristique
+* 1 mini-golf
+* 1 salle de spectacles de 360 places, l'espace Jean-Loup-Chrétien
+* 1 école municipale de danse
+* 1 accueil de loisirs
+* {{Quand|50 associations}}
+
+La commune a participé à trois reprises au Challenge « L'Équipe » de la ville la plus sportive : en 2012, 2013 et 2014.
+
+=== Cultes ===
+Pour le culte catholique, la communauté locale de Montville est le siège de la [[Paroisse en France|paroisse]] Saint-Jean-Bosco de Clères – Montville, comprenant 11 villages comprenant soit environ 13.000 habitants<ref>{{Lien web|titre=Présentation de la paroisse|url=http://www.paroisse-montville.net/paroisse.html|site=paroisse-montville.net |date=|consulté le=8 février 2021}}.</ref>. Celle-ci est soumise à l'autorité du [[Archidiocèse de Rouen|diocèse de Rouen]] et est comprise dans le [[Doyenné (christianisme)|doyenné]] de Rouen-Ouest<ref>{{Lien web |langue=fr-FR|titre=Paroisses du doyenné de Rouen-Ouest|url=https://rouen.catholique.fr/diocese/paroisses/paroisses-du-doyenne-de-rouen-ouest/|site=Diocèse de Rouen|consulté le=2021-02-08}}.</ref>.
+
+Le journal de la paroisse [[Jean Bosco|Saint-Jean-Bosco]] de Clères –  Montville fait éditer son journal par [[Bayard Service Édition|Bayard Service]]<ref>{{Lien web |nom=gflament|titre=Grain de sel|url=https://www.journaux-paroissiaux.com/journaux/montville-grain_de_sel|site=Le kiosque des journaux paroissiaux |date=2020-06-07|consulté le=2021-02-08}}.</ref> à 5600 exemplaires<ref>{{Lien web |langue=fr-FR|titre=Grain de sel|url=https://rouen.catholique.fr/diocese/paroisses/les-journaux-paroissiaux/grain-de-sel/|site=Diocèse de Rouen|consulté le=2021-02-08}}.</ref>.
+
+== Culture locale et patrimoine ==
+=== Lieux et monuments ===
+{{Section à sourcer|date=novembre 2015}}
+* La mairie : <br/>Édifiée en 1888, la mairie<ref>{{Base Mérimée|IA00020305|source=non}}.</ref> renferme le drapeau de la [[Garde nationale (France)|Garde nationale]] de la [[Révolution française|Révolution]] fixé sur le mur de la salle du Conseil municipal de la mairie. Trois thèmes majeurs y sont représentés : la Royauté, la Révolution et la République. Son état de conservation exceptionnel en fait une pièce historique et rarissime. Le vitrail de 1888 surplombe le hall du rez-de-chaussée de la mairie. Le motif central représente la Justice y figurent des bonnets phrygiens, des cocardes aux couleurs inversées et la devise républicaine.
+
+[[Fichier:Église de Montville.jpg|vignette|L'église.]]
+
+* L'église Notre-Dame-de-l'Assomption<ref>{{Base Mérimée|IA00020302|source=non}}.</ref> possède un clocher datant du {{s-|XI}}. Son chœur plus récent est des {{s2-|XV|XVI}}.
+{{Pertinence section|date=février 2021|texte=Exposé sans sources, et dépourvu de caractère encyclopédique dans un article de commune par son caractère démesurément anecdotique}}
+{{Référence nécessaire|** [[Claude-Maur d'Aubigné|{{Mgr|d'Aubigné}}]], archevêque de Rouen, effectue une visite pastorale le mercredi {{Date-|2|juin|1717}}. Il ordonne plusieurs travaux à effectuer : remettre quelques planches aux lambris de la sacristie, ajouter une petite grille qui manque au confessionnal, recharger la couverture du chœur et réparer celle de la sacristie. Les titres et autres papiers de la [[Fabrique (conseil de fabrique)|Fabrique]] seront déposés dans un coffre fermant à clef. Monseigneur réprimande . le curé qui n’effectue pas son [[sacerdoce]] correctement : il recevrait ses ouailles vers dix heures du soir, minuit et autres…
+** {{Lequel|Un dessin datant de 1800 environ}} nous montre l’église avant sa transformation.
+** En 1802, la toiture et les vitraux subissent d’importantes réparations.
+** En 1840, la ville propose la construction d’un [[Voûte en berceau|berceau]] et d’un [[jubé]].
+** À partir de 1853, de nombreux projets sont élaborés pour agrandir l’église, mettre la nef à la même hauteur que le chœur. Les travaux de cet agrandissement s’effectuent pendant les années 1859 et 1860 par l'architecte [[Charles Fleury (architecte)|Charles Fleury]]. La fabrique alloue une somme de {{formatnum:4000}} [[Franc français|francs]] pour l’extension du lieu de culte. La ville procède à un emprunt, six souscripteurs prêtent {{formatnum:18500}} francs à la commune (trois Montvillais figurent parmi ces souscripteurs). Cette somme plus les intérêts à 5 % sont remboursables en dix ans.
+** La sculpture au [[linteau (architecture)|linteau]] du portail s’intitule le Bouquet de la porte.
+** Le  [[clocher]] est consolidé en 1864 et 83 marches de {{unité|18|cm}} de hauteur permettent d’accéder aux cloches de l'église. Le clocher, d’une hauteur de {{unité|20|m}} environ, semble inachevé.
+** Le {{Date-|24|décembre|1902}}, un incendie éclate dans l’église.
+** L’[[Querelle des inventaires|inventaire]] de 1905 mentionne six statues :
+*** une statue de saint [[Antoine de Padoue]] ;
+*** deux statues de la [[Marie (mère de Jésus)|Sainte Vierge]] ;
+*** une statue de l’enfant Jésus ;
+*** une statue de [[Clotilde (femme de Clovis)|sainte Clotilde]] ;
+*** une statue de [[Joseph (Nouveau Testament)|saint Joseph]].
+**En 1907, une partie de la toiture est réparée.
+**En 1913, M. Charpentier peint les 14 tableaux du [[chemin de croix]].
+**En 1928, la municipalité décide d’effectuer des travaux de nettoyage à l’intérieur de l’édifice.
+**L’éclairage est installé au clocher en 1935. Les façades de l’église bénéficient d’une remise en état en 1955.
+**La délibération du conseil municipal du {{Date-|25|novembre|1961}} autorise M. l’Abbé à déposer la [[chaire (église)|chaire]] et les lustres.
+**La ville procède à l’acquisition d’un [[harmonium]] en 1980.
+**En 1981, la réfection totale de l’église est nécessaire : {{Unité|35000|ardoises}}, {{unité|300|kg}} de crochets inox, {{unité|6506|m}} de liteaux (tringle de bois clouée contre la charpente pour servir d’appui à l’ardoise) etc. Ce travail important et délicat est confié à une entreprise de couverture montvillaise. Un nouveau [[Coq dans la culture|coq]] est béni et installé au sommet du clocher.
+**En 1986, l’intérieur de l’église est entièrement restauré, de même que celui de la sacristie. Ce projet conçu et réalisé par un jeune architecte rouennais, Bertrand Vaslet. L’édifice cultuel a retrouvé tout son éclat après des travaux minutieux et délicats réalisés par les entreprises [[Georges Lanfry|Lanfry]] et Delafontaine.
+* L’horloge
+**Un document datant de 1743 relate le devis d’une [[horloge]] pour l’église de Montville et une personne est rémunérée pour le remontage et l’entretien de celle-ci.
+**{{Laquelle|Une illustration de 1800 environ}} mentionne le cadran de l’horloge vers les Sondres (quartier de Montville).
+**En 1852, un monument sonne les quarts doubles à l’aide de deux petites cloches.
+**À partir du {{Date-|1|septembre|1894}}, l’horloge au lieu d’être à l'[[heure solaire]] (en avance de 8 à 10 minutes sur l'[[heure légale]]), devra marquer celle-ci, en concordance avec celle de la [[gare de Montville]].
+**En 1912, le cadran est pourvu d’un éclairage.
+* Les vitraux<ref>{{Base Palissy|IM76003536|source=non}} - {{Base Palissy|IM76003535|source=non}} - {{Base Palissy|IM76003534|source=non}} - {{Base Palissy|IM76003533|source=non}} - {{Base Palissy|IM76003532|source=non}}.</ref>
+**Les sept fenêtres qui éclairent le chœur possèdent une vitrine coloriée portant les dates de [[1527]] et [[1529]]. Nous y remarquons la vie de Notre Seigneur et de [[Jean (apôtre)|saint Jean]], les Saints, les Saintes honorés dans notre contrée.
+**Les vitraux représentent, entre autres, [[Romain de Condat|saint Romain]], une sainte avec une palme et un glaive, un martyr tenant plusieurs flèches avec un carquois à ses pieds. Le [[nimbe]] de chaque personnage est placé dans une coquille agrémentée d’arabesques ou fleurs à tiges d’or.
+**Le {{Date-|25|août|1897}}, le ministre de l'Instruction Publique et des Beaux-Arts visite l'église. Les vitraux du {{s-|XVI}} sont classés en 1898 à titre objet [[Monument historique (France)|monuments historiques]].
+**Pendant la [[Seconde Guerre mondiale]], les vitraux de l’église sont déposés dans l’une des caves du château adossant l’église puis sont remontés et restaurés à la fin du conflit.
+**Les vitraux de l’église de Montville sont protégés par des grillages et entretenus en permanence et mis en valeur depuis peu par un bel éclairage.
+*Les cloches
+**La bénédiction des [[cloche]]s figure parfois sur les registres paroissiaux. La première a lieu en 1622. La grosse cloche est bénie le {{Date-|7|avril|1693}}. Elle est remplacée le {{Date-|26|août|1780}} et prend le nom de Marie-Angélique.
+**Le {{Date-|10|juin|1731}}, une cloche est bénite et nommée Madeleine par Alexandre Bigot, baron de Montville.
+**En 1791, les cloches sont échangées avec d’autres paroisses. Trois nouvelles cloches sont fondues à [[Gueutteville-les-Grès]]. Elles sont solennellement bénites le {{Date|11|novembre|1863}}. La première pèse {{unité|453|kg}} et se nomme Antoinette en l’honneur du prénom de l’épouse de M. le maire d’[[Anceaumeville]]. La seconde pèse {{unité|840|kg}} et se nomme Louise en l’honneur du prénom de l’épouse de M. le maire d’[[Eslettes]]. La dernière pèse {{unité|840|kg}} et se nomme Victoire en l’honneur du troisième prénom d’Antoinette Hommais, l’épouse du maire de Montville. Chaque cloche mesure {{unité|90|cm}} de hauteur environ et {{unité|110|cm}} de diamètre environ. Elles sont restaurées en [[1951 en France|1951]]. L’année suivante, leur mouvement est électrifié.
+*Devise républicaine inscrite sur l’église :<br/>Le {{Date-|14|février|1887}}, le conseil municipal décide que la devise « [[Liberté, Égalité, Fraternité]] » doit être inscrite sur les monuments publics communaux. La ville ayant financé une grande partie de l’agrandissement de l’église, inscrit la devise sur le collatéral et « République française » sur le clocher qui appartient toujours à la [[Conseil de fabrique|fabrique]] jusqu’à la [[Loi de séparation des Églises et de l'État|séparation de l’Église et de l’État]] en 1905. Les inscriptions sont apposées sur la façade de l'église le {{Date-|12|octobre|1887}} par un peintre d’une commune voisine.|date=février 2021}}
+* Musée des sapeurs-pompiers de France : <br/>Montville abrite le [[musée des sapeurs-pompiers de France]]. Inauguré en [[1993 en France|1993]], il détient le label « [[Musée de France]] », dont bénéficie aussi le [[musée des sapeurs-pompiers de Lyon]].
+* Plan d'eau : <br/>Montville possède un plan d'eau de trois hectares sur lequel il est possible de faire du [[Bateau à pédales|pédalo]]. Autour de ce plan d'eau, on trouve un jardin aquatique et un [[arboretum]], une réserve ornithologique, un complexe socioculturel et sportif, un parcours de santé, une aire de jeux ainsi qu'un [[minigolf]] dix-huit trous.
+* Le manoir du Bois-Isambert, qui date du {{-|sXVII}}.
+* Le manoir et son arboretum :<br/>Construite en 1914, cette belle demeure s’appelait à l’origine « Au bon accueil ». Située au milieu d’un arboretum planté d’espèces rares et anciennes ([[hêtre pourpre]] tricentenaire notamment), elle est acquise par la Ville en 1984 et est utilisée aujourd’hui comme salles municipales à disposition des particuliers et des associations montvillaises.
+
+=== Personnalités liées à la commune ===
+* [[Michel Picquenot]] (1747-1814), né à Montville, devient un habile graveur de renommée nationale. Il se distingue surtout par la reproduction de chasses, de paysages et de campements militaires.
+* [[Hector Berlioz]] (1803-1869) séjourna chez son ami, le baron {{Lien|langue=de|Hippolyte Boissel de Monville}}, entre 1845 et 1847, dans le parc du château près de l'église. Il y mit au point ''[[La Damnation de Faust]]''. La mairie comporte une statue du compositeur réalisée par [[Alfred Lenoir]]<ref>{{Lien web |langue=fr |auteur=Jean-Dominique Lavazais |responsabilité1=dir. publication|titre=Pourquoi la statue de Berlioz fait l’objet de toutes les attentions à Montville?|url=https://www.paris-normandie.fr/art/rouen/pourquoi-la-statue-de-berlioz-fait-l-objet-de-toutes-les-attentions-a-montville-OH14318372|site=www.paris-normandie.fr |périodique=[[Paris-Normandie]] |lieu=Rouen |éditeur=[[Société normande d'information et de communication|Société normande d'information et médias]] |date=20 décembre 2018 |e-issn=2743-1517|consulté le=16 mars 2021}}{{Nobr|. {{Accès payant}}}}.</ref>.
+* [[Louis Amand Demarest]] (1817-1883), député, mort à Montville.
+* L'abbé [[Joseph Kerebel]] (1912-1945), vicaire de Montville, [[mort pour la France]] en [[déportation]]<ref>Stéphane Cauchois, ''Joseph Kerebel, prêtre résistant mort en déportation (Le vicaire de Montville)'', Éditions Ysec, 2012</ref>.
+* [[Amaury Vassili]] : né à [[Rouen]] en juin 1989, ce jeune ténor et chanteur lyrique a passé sa jeunesse à Montville entre neuf et seize ans.
+
+=== Héraldique ===
+{{Blason-ville-fr
+| img1=Blason Montville.svg
+| legende1=Armes de Montville
+| texte= L’écu héraldique de forme moderne est dû à l’initiative du [[Le Souvenir français|Souvenir français]] et de la Municipalité. Les Armoiries sont approuvées par le Conseil municipal lors de sa séance du {{Date|8|juin|1921}}.
+Les armes de la commune de Montville se [[blasonnement|blasonnent]] ainsi :<br>'' coupé : au 1) d’azur à la roue dentée d’argent accostée de deux navettes de tisserand du même posées en pal, au 2) de [[gueules]] à la charrue d’argent ; à la divise ondée d’argent brochant sur la partition.''
+''Les deux épées d'argent croisées reflètent notre Garde Nationale. La devise « Vive Labeur » est inscrite sur une banderole supportée par les lames des épées. Ces deux mots signifient « Vive le travail ».''
+}}
+
+== Voir aussi ==
+{{Autres projets
+ | commons = Category:Montville
+ | wiktionary = Montville
+}}
+=== Bibliographie ===
+* {{Ouvrage |auteur1=Alain Poulin |titre=Montville, son histoire|lieu=Montville |éditeur= |année=1988 |pages totales= |isbn= }}
+* {{Ouvrage |auteur1=Alain Alexandre|auteur2=Alain Poulin |titre=Montville|tome=I et II|lieu=Saint-Cyr-sur-Loire|éditeur=[[Éditions Alan Sutton]] |collection=Mémoire en images|année=2006 et 2007|pages totales= |isbn= }}
+
+=== Articles connexes ===<!--Liens vers des pages de l'encyclopédie fr.wikipedia-->
+* [[Liste des communes de la Seine-Maritime]]
+
+=== Liens externes ===<!--Liens vers des pages web externes à l'encyclopédie fr.wikipedia-->
+{{Liens}}
+* [http://www.ot-cleres.fr/ Office de tourisme de Clères]
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Cartes ===
+{{Références|groupe=Carte}}
+
+=== Références ===
+{{Références}}
+
+{{Palette|Villes de Normandie}}
+{{Portail|Seine-Maritime|communes de France}}
+
+[[Catégorie:Commune dans la Seine-Maritime]]
+[[Catégorie:Ville Internet]]
+[[Catégorie:Unité urbaine de Rouen]]
+[[Catégorie:Aire d'attraction de Rouen]]

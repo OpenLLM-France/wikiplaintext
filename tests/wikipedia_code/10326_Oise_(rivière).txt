@@ -1,0 +1,473 @@
+{{Voir homonymes|Oise}}
+{{Infobox Cours d'eau
+|nom=l'Oise
+|autres noms=
+|image=Bateaux sur l'Oise by Daubigny Louvre RF1369 n1.jpg
+|légende image=''Bateaux sur l'Oise'' par [[Charles-François Daubigny]].
+|carte=Oise (rivière).png
+|légende carte=Cours de l’Oise ([http://u.osmfr.org/m/375501/ carte interactive])<br>{{relation OSM|1083417|l'Oise}}
+|longueur=341.1
+|longueur notes=<ref name=sandre/>
+|bassin=36670
+|bassin notes=<ref>De l'entreprise Hydrathec, commandé par Entente Oise-Aisne, Hydrologie du Bassin versant de l'Oise, 01630273 │ Juin 2013, page 24, voir https://www.oise-aisne.net/app/download/13879903633/hydrologie_BV_oise_phase1_2013.pdf%3Ft%3D1533301672&sa=U&ved=2ahUKEwjv15zahPLmAhWKFxQKHagsDNgQFjADegQICBAB&usg=AOvVaw362KXUILnvnV1pm9aEeK1D</ref>
+|bassin collecteur=[[Bassin de la Seine|Seine]]
+|débit=109
+|débit lieu=[[Pont-Sainte-Maxence]]
+|débit notes=<ref name=hydro/>
+|pays={{Belgique}}, {{France}}
+|régions={{Belgique}} : [[Province du Hainaut]] (Chimay, Momignies)
+{{France}} : [[Hauts-de-France]], [[Île-de-France]]
+|subdivision1=[[Nord (département français)|Nord]], [[Aisne (département)|Aisne]], [[Oise (département)|Oise]], [[Val-d'Oise]], [[Yvelines]]
+|lien subdivision1=[[département français|Départements]]
+|subdivision2=
+|lien subdivision2=[[arrondissement français|Arrondissements]]
+|subdivision3=
+|lien subdivision3=[[canton français|Cantons]]
+|villes=[[Chimay]], [[Momignies]], [[Hirson]], [[Guise]], [[Noyon]], [[Compiègne]], [[Creil]], [[Pontoise]], [[Cergy]]
+|régime=[[Régime pluvial|pluvial]] [[climat océanique|océanique]]
+|source=[[Calestienne]]
+|source localisation=[[Chimay]] ([[province de Hainaut]], [[Belgique]])
+|source altitude=310
+|source latitude=49.9967
+|source longitude=4.3453
+|confluence=[[Seine]]
+|confluence localisation=entre [[Andrésy]] et [[Conflans-Sainte-Honorine]] ([[Yvelines]], [[Île-de-France]], [[France]])
+|confluence altitude=22
+|confluence latitude=48.9875
+|confluence longitude=2.0711
+|affluents rive gauche=[[Thon (rivière)|Thon]], [[Serre (affluent de l'Oise)|Serre]], [[Ailette (rivière)|Ailette]], [[Aisne (affluent de l'Oise)|Aisne]]
+|affluents rive droite=[[Brêche]], [[Thérain]]
+|nombre de Strahler=
+|organisme gestionnaire=[[EPTB]] Oise-Aisne
+|sources=[[SANDRE]] :{{sandre|H---0100|texte=H---0100|source=non}}, [[Géoportail (France)|Géoportail]], [[Banque Hydro]], [[OpenStreetMap]]
+}}
+
+L{{'}}'''Oise''' ([[Wikipédia:API|prononcé]] {{MSAPI|w|a|z}}) est une [[Rivière française|rivière]] du [[Bassin parisien]] dans le Nord de la [[France]] et en [[Belgique]], principal [[affluent]] de la [[Seine]], après la [[Marne (rivière)|Marne]].
+
+Elle prend sa source en Belgique, à {{nb|309|mètres d'[[altitude]]}} dans le massif forestier dit ''Bois de Bourlers'', dans l’ancienne commune de [[Forges (Belgique)|Forges]] au sud-est de la ville [[province de Hainaut|hennuyère]] de [[Chimay]]. Cette rivière au cours de {{nobr|341 kilomètres}}<ref name=sandre>{{sandre|H---0100|l'Oise|consulté le=27 novembre 2018}}</ref>, presque entièrement navigable et bordée de canaux sur {{nobr|104 kilomètres}}, baigne [[Hirson]], [[Guise]], [[Ribemont]], [[La Fère]] où elle reçoit la [[Serre (affluent de l'Oise)|Serre]], la ville de [[Compiègne]] en amont de laquelle elle reçoit un gros contributeur, l'[[Aisne (affluent de l'Oise)|Aisne]], l'agglomération de [[Creil]] près de laquelle elle reçoit sur sa rive droite, en amont la [[Brêche]] et en aval le [[Thérain]], puis longe la [[forêt de Chantilly]] avant d'atteindre [[Pontoise]].
+
+L'Oise se jette dans la [[Seine]] à 20 mètres d'altitude, au Pointil en [[Rive (hydrographie)|rive]] droite et en aval du centre de [[Conflans-Sainte-Honorine]] dans le département des [[Yvelines]]. L'Oise a donné son nom aux départements de l'[[Oise (département)|Oise]] et de l'ancienne [[Seine-et-Oise]] créés en 1790 ainsi qu'au département du [[Val-d'Oise]] créé en 1968.
+
+== Hydronymie ==
+'''Oise'''  est issu d'un type toponymique ''Isara'' répandu dans toute l'Europe. [[Jules César|César]] et [[Lucain]] la citent sous le nom d'''Isara''<ref name=":0">{{Ouvrage|auteur1=Albert Dauzat|titre=Dictionnaire étymologique des noms de rivières et de montagnes en France|lieu=Paris|éditeur=[[Klincksieck]]|année=1982|pages totales=234|passage=56|isbn=}}</ref>. Le nom, évolué du vieux-celtique, signifie « l'impétueuse, la rapide »<ref>{{Ouvrage | prénom1=Xavier | nom1=Delamarre | titre=Dictionnaire de la langue gauloise | éditeur=errance | année=2003 | pages totales=440 | passage=191 | isbn=978-2-87772-369-5}}.</ref>. Il est apparenté à l'indo-européen ''*isərós'' « impétueux, vif, vigoureux », proche du sanskrit ''isiráh'', de même sens<ref>Xavier Delamarre, ''op. cit.''.</ref>.
+
+On le retrouve dans :
+* ''Isara'', Vénétie
+* ''Éisra'', Lituanie
+* et surtout par fossilisation de ''*isarā'' comme nom de rivière dans d'anciens pays de langue celtique :
+** Aire, Yorkshire,
+** [[Isère (rivière)|Isère]]
+** [[Isar (rivière allemande)|Isar]]
+** [[Yser]], etc.
+
+Le nom ''Isara'' est devenu ''Oise'', à la suite d'une série de mutations phonétiques dans un temps difficilement définissable.
+# [[Dyslalie|Sigmatisme]] de R en S : ISARA > ISASA
+# [[Amuïssement]] des voyelles et assimilation de SS en S : iSaSa > iSSa > OISE.
+Toutefois le premier A d'ISARA étant bref, l'accent tonique se plaçait en latin sur le I. Ce I bref s'est transformé en E long en bas latin entre le {{sp-|I|et le|IV}}. En effet, le nom de la rivière est attesté sous la forme ''ESERA'' en 742 et en 898. Le E initial s'est [[Diphtongue|diphtongué]] en EI alors que le second E s'amuissait. Du {{sp-|XII|au| XVI|}}, la diphtongue devient OE, et enfin OI. La prononciation actuelle date du {{s-|XVII}}<ref name=":0" />{{,}}<ref>{{Ouvrage|auteur1=Albert Dauzat|auteur2=Jean Dubois|auteur3=Henri Mitterand|titre=Nouveau dictionnaire étymologique et historique|lieu=Paris|éditeur=Larousse|année=1971|passage=XV à XVII|isbn=}}</ref>.
+
+== Situation dans le réseau navigable ==
+L'Oise qui baigne [[Guise]], [[La Fère]], [[Chauny]], [[Noyon]], [[Compiègne]], [[Verberie]], [[Pont-Sainte-Maxence]], [[Creil]], [[Beaumont-sur-Oise|Beaumont]], [[Pontoise]] n'était navigable qu'à partir de Chauny en 1860 d'après les dictionnaires contemporains. Outre des parties de département de l'Aisne, de l'Oise et de Seine-et-Oise à proximité desquelles elle coule paisiblement, elle fait communiquer le [[bassin de la Seine]] avec le réseau de canaux du Nord et de l'Est.
+Les canaux suivants en amont de Compiègne intègrent ce réseau. La plupart sont au gabarit Freycinet sauf le canal du Nord et le canal latéral à l'Oise à gabarit plus large.
+* canal de Crozat ancêtre du canal de Saint-Quentin entre l'Oise et la Somme
+* [[canal de Saint-Quentin]] vers l'Escaut (toujours actif et souvent saturé)
+* [[canal de la Sambre à l'Oise]]
+* [[canal latéral à l'Oise]], dont la partie entre Longueil et Janville soit {{unité|28|km}} est creusée entre 1826 et 1828.
+* [[canal de l'Oise à l'Aisne]] de {{unité|48|km}} qui relie le [[canal latéral à l'Oise]] au [[canal latéral à l'Aisne]].
+* canal de l'Oise à la Seine
+* [[canal de l'Aisne à la Marne]]
+* [[canal des Ardennes]] (vers la Meuse)
+* [[canal du Nord (France)|canal du Nord]] de gabarit intermédiaire entre le gabarit Freycinet et le grand gabarit européen.
+=== Projet d'aménagement ===
+L'Oise, troisième axe fluvial français avec 7 millions de tonnes de fret annuel au début des années 1990, possède une navigation encore active sur une partie au gabarit européen de Conflans-Sainte-Honorine à Compiègne sur plus de {{unité|100|km}}. Au-delà, le gabarit inférieur du canal du Nord constitue une lacune dans le réseau fluvial nord européen.
+La réalisation du [[Liaison Seine-Escaut|canal Seine-Nord Europe]] à grand gabarit européen qui permettra le passage des péniches de 4 400 tonnes de Compiègne au [[canal Dunkerque-Escaut]]  destiné à relier le bassin de la Seine au réseau navigable à grand gabarit du nord de l'Europe en remplacement du canal du Nord a été décidée par accord entre l'État et la région Hauts-de-France en octobre 2017 après une période au cours de laquelle ce projet a été différé.
+
+Le rapport du Conseil d’orientation des infrastructures « rapport Duron » remis le {{date-|1er février 2018}} au ministre des Transports recommande la réalisation pour la période 2023-2027 du projet ''Mageo''  de mise au gabarit de 4 400 tonnes (180 mètres de long sur 11,40 mètres de large)  de l'Oise entre Creil et Compiègne (42&nbsp;km)  en reprenant les berges pour porter le mouillage de 3 à 4 m dans la continuité de la future liaison Seine-Nord Europe<ref>Rapport du Conseil d’orientation des infrastructures « rapport Duron » remis le {{date-|1er février 2018}} au Ministre des Transports pages 96-97
+
+https://www.ecologique-solidaire.gouv.fr/sites/default/files/2018.02.01_rapport_coi.pdf</ref>.
+
+== Introduction géophysique et hydraulique ==
+L'Oise traverse les terrains crétacés de la [[Thiérache]], puis s'enfonce entre les interminables plateaux tertiaires du bassin parisien interne. Elle suit une ondulation tectonique, en réalité une multitude de failles alignées, principalement du nord-est au sud-ouest.
+
+Le bassin de l'Oise estimé entre {{formatnum:17000}} et {{unité|20000|km|2}} est la plus grande surface réceptrice parmi les tributaires du fleuve Seine. Il est supérieur de 30 % au bassin de la Marne, le second en superficie. Mais il faut noter que le régime pluvial océanique présent sur l'étendue du bassin de l'Oise avec seulement {{unité|6.5|l/s/km|2}} d'apport moyen annuel ou {{unité|205|mm}} de hauteur d'eau, assure un même ordre de grandeur à l'apport final des deux affluents, soit environ {{unité|110|m3/s}} de débit modulaire. Depuis un siècle d'observation, les apports orientaux du bassin parisien sont nettement plus importants et constants. L'Oise n'assure un étiage supérieur à {{unité|50|m3/s}} qu'à partir du confluent avec l'Aisne. Le bassin de l'Aisne qui s'étend sur {{unité|7940|km|2}} assure un débit modulaire approchant {{unité|65|m3/s}}, soit un apport respectivement 60 % plus élevé par rapport à l'ensemble du bassin de l'Oise. L'Aisne l'emporte par son débit sur l'Oise.
+
+La modestie des reliefs et de l'altitude caractérise le bassin de l'Oise. La platitude du lit se révèle dangereuse car toute grande crue provoque de graves inondations. Si le creux reste prononcé en août ou en période de canicule, les précipitations hivernales assurent des hautes eaux en janvier/février. En saison froide, le débit moyen peut atteindre {{unité|700|m3/s}} et beaucoup plus si un redoux survient après de fortes chutes de neige, si des pluies océaniques se déversent avec force sur les terres argileuses et imperméables de l'amont, en [[Thiérache]] et aux confins de l'[[Argonne (région)|Argonne]].
+
+Les crues destructrices de 1993 ou encore du 7 au 12 janvier 2011 s'expliquent, ainsi que les difficultés des aménagements hydrauliques en cas de cumul d'intempéries graves.
+
+=== Bassin versant ===
+
+Le bassin versant de l'Oise s’étend sur six départements français : l'Aisne, l'Oise, les Ardennes, la Marne, la Meuse et le Val d'Oise. Il représente 17 000 km2 et se décompose en trois grands sous-bassins :
+* L'Oise amont et médiane (5 000 km2),
+* L'Aisne et l'Aire (8 000 Km2),
+* L'Oise aval (4 000 Km2), à l’aval de leur confluence.
+
+=== Organisme gestionnaire ===
+{{article détaillé|Droit de la gestion des cours d'eau en France|Gestion de l'eau en France}}
+L'organisme gestionnaire est l'[[EPTB]] Oise-Aisne ou Entente Oise-Aisne. Cet établissement public a construit de 2007 à 2009 un ouvrage de protection contre les fortes crues à Proisy comprenant une digue de retenue des eaux d'une longueur d'un kilomètre, d'un clapet mobile et d'un évacuateur de sécurité.
+<gallery mode="packed" heights="240" caption="">
+Barrage Proisy.jpg|{{centrer|Clapet de retenue des eaux en cas de crue à Proisy}}
+Panneau digue d&#039;écrêtement à Proisy.jpg|{{centrer|Panneau explicatif}}
+</gallery>
+
+== Principaux affluents ==
+[[Fichier:Bassin de l'Oise.png|450px|droite|thumb|Le cours de l'Oise et de ses affluents de plus de {{unité|40|km}} ([http://u.osmfr.org/m/375501/ carte interactive])]]
+
+{{Début de colonnes|taille=30}}
+=== Rive gauche ===
+* Le [[Gland (affluent de l'Oise)|Gland]] et son affluent la [[Wartoise]]
+* Le [[Thon (rivière)|Thon]]
+* la [[Serre (affluent de l'Oise)|Serre]] et son affluent la [[Souche (rivière)|Souche]]
+* l'[[Ailette (rivière)|Ailette]]
+* Le ru de Servais
+* L'[[Aisne (affluent de l'Oise)|Aisne]]
+* L'[[Automne (rivière)|Automne]]
+* Le ru Macquart
+* La [[Nonette (rivière)|Nonette]]
+* La [[Thève]]
+* L'[[Ysieux]]
+* Le [[ru de Presles]]
+* Le [[ru de Liesse]]
+* Le [[rû d'Éragny sur Oise]]
+* Le [[ru du Bois]]
+
+=== Rive droite ===
+* Les Anorelles
+* Le [[Noirieu]] ou Noirrieu, et son affluent l'[[Iron (rivière)|Iron]]
+* La [[Verse (rivière)|Verse]]
+* La [[Divette (Oise)|Divette]]
+* Le [[Matz]]
+* L'[[Aronde (rivière)|Aronde]]
+* La [[Frette (rivière)|Frette]]
+* Le [[Rhony]]
+* La [[Brêche]]
+* Le [[Thérain]]
+* L'[[Esches (rivière)|Esches]]
+* Le [[Sausseron]]
+* La [[Viosne]]
+{{fin de colonnes}}
+
+<gallery>
+Aisne Panorama.JPG|L'[[Aisne (Oise)|Aisne]]
+Breche 001.jpg|La [[Brêche]]
+</gallery>
+
+=== Rang de Strahler ===
+{{...}}
+
+== Hydrologie ==
+L'Oise est une rivière assez régulière et bien alimentée toute l'année.
+=== L'Oise à Pont-Sainte-Maxence ===
+Son débit a été observé sur une période de 49 ans (1960-2008), à [[Pont-Sainte-Maxence]], localité du département de l'[[Oise (département)|Oise]] située assez loin de son débouché dans la Seine<ref name=hydro>{{Hydro|H7611012|texte=L'Oise à Pont-Sainte-Maxence|consulté le=7 août 2016}}</ref>. À cet endroit, le bassin versant de la rivière est de {{unité|14200|km|2}} sur {{unité|16667|}}, c'est-à-dire de 85,2 % de sa totalité.
+
+Toujours à Pont-Sainte-Maxence, le débit moyen interannuel, ou [[module (hydrologie)|module]], de la rivière est de {{unité|109|m3/s}}.
+
+{{Relevé hydrologique
+|station=H7611012 - L'Oise à Pont-Sainte-Maxence pour un bassin versant de {{unité|14200|km|2}}<ref name=hydro/>
+|date=Données calculées sur 49 ans
+|unité=m{{3}}/s
+|source=[[Banque Hydro]] - [[MEDDE]]
+|échelle maxi=200
+|échelle principale=50
+|échelle secondaire=10
+|jan1=172.0
+|fev1=187.0
+|mar1=170.0
+|avr1=153.0
+|mai1=108.0
+|jun1=76.30
+|jul1=63.50
+|aou1=49.70
+|sep1=47.40
+|oct1=61.50
+|nov1=87.70
+|dec1=142.0
+}}
+
+L'Oise présente des fluctuations saisonnières de débit pas trop prononcées, avec des hautes eaux d'hiver-printemps portant le débit mensuel moyen au niveau de 142 à {{unité|187|m3/s}} de décembre à avril inclus (avec un maximum en janvier-février), et des basses eaux d'été de juillet à octobre, avec une baisse du débit moyen mensuel jusqu'à {{unité|47.4|m|3}} au mois de septembre, ce qui est encore confortable. Les débits de l'Oise observés et calculés correspondent à s'y méprendre à ceux de la Marne sa voisine, régularisée il est vrai par un énorme lac de retenue, le [[lac du Der-Chantecoq]]. Mais ces moyennes mensuelles occultent des variations intermédiaires plus importantes.
+
+=== Étiage ou basses eaux ===
+À l'étiage, le [[VCN3]] de l'Oise peut chuter jusque {{unité|21.0|m3/s}} en cas de période quinquennale sèche, débit qui reste élevé comparé aux baisses bien plus profondes qui se produisent dans les bassins des grandes rivières comparables dans d'autres régions de France, spécialement plus au sud et à l'est.
+
+=== Crues ===
+Les crues sont rarement très importantes. Ainsi, le débit instantané maximal enregistré a été de {{unité|543|m3/s}} le 8 janvier 2003, tandis que la valeur journalière maximale était de {{unité|665|m3/s}} le 5 février 1995. Les [[QIX (hydrologie)|QIX]] 2 et QIX 5 valent respectivement 340 et {{unité|470|m|3}}. Le QIX 10 est de {{unité|560|m3/s}}, le QIX 20 de {{unité|640|m|3}} et le QIX 50 de {{unité|750|m3/s}}. Il ressort de ces chiffres que les crues de février [[1995]] étaient d'ordre vicennal (20 ans).
+
+[[Fichier:Source de l'Oise Belgique.jpg|thumb|À la source de l'Oise, un petit bassin d'eau (Belgique)]]
+À titre de comparaison :
+* Le VCN3 et le QIX 10 de la [[Marne (rivière)|Marne]] à [[Paris]] valent 23 et {{unité|510|m3/s}} (débit moyen 110)
+* Ceux de l'Oise à [[Pont-Sainte-Maxence]] valent 21 et {{unité|560|m|3}} (débit moyen 109)
+* Ceux de l'[[Yonne (rivière)|Yonne]] à son confluent valent 14 et {{unité|710|m|3}} (débit moyen 93)
+* Ceux du [[Loing]] à son confluent valent 3,2 et {{unité|190|m|3}} (débit moyen 19)
+* Ceux de la [[Moselle (rivière)|Moselle]] peu avant la frontière valent 13 et {{unité|1500|m|3}} (débit moyen 132)
+* Ceux de la [[Seine]] à [[Alfortville]], avant le confluent de la Marne valent 43 et {{unité|1200|m|3}} (débit moyen 218)
+* Enfin ceux de la [[Vienne (rivière française)|Vienne]] à [[Nouâtre]] valent 25 et {{unité|2200|m|3}} (débit moyen 201)
+
+=== Lame d'eau et débit spécifique ===
+L'Oise est donc une rivière abondante et assez régulière, alimentée par des précipitations généralement modérées. La [[lame d'eau]] écoulée dans son bassin versant est de {{nobr|243 millimètres}} annuellement, ce qui est modéré, nettement inférieur à la moyenne d'ensemble de la France ({{nobr|320 millimètres}} par an tous bassins confondus), mais plus ou moins égal à la moyenne de la totalité du bassin versant de la [[Seine]] ({{nobr|240 millimètres}} par an). Le [[débit spécifique]] (ou Qsp) vaut de ce fait {{Unité|7.7|litres}} par seconde et par kilomètre carré de bassin.
+
+{{Article détaillé|Débit de la Seine à Paris}}
+
+== Cours de l'Oise en Belgique ==
+
+L'Oise prend sa source dans le bois de la [[Thiérache]], au sud-est de la [[Ville de Belgique|ville]] de [[Chimay]], dans la [[province de Hainaut]] en Belgique. Un petit monument, avec bassin d'eau, érigé à la sortie du bois en marque l'endroit. La petite rivière apparue au sud du village [[Bourlers]] (à quelques centaines de mètres au nord de l'[[abbaye de Scourmont]]) parcourt seulement quinze kilomètres en Belgique, largement à travers prés et bois. Le seul village belge traversé est [[Macquenoise]] à la [[Frontière entre la Belgique et la France|frontière franco-belge]]. Un peu plus loin, en France, l'Oise reçoit les eaux du [[Gland (affluent de l'Oise)|Gland]] et de la [[Wartoise]], un petit affluent (rive gauche) qui sur plusieurs kilomètres marque la frontière entre les deux pays.
+
+== Départements et communes traversés ou bordés par l'Oise en France ==
+''D'amont en aval ; en gras figurent les communes de plus de 10 000 habitants (en 1999) et chefs-lieux administratifs (de canton, d'arrondissement et de département)''
+
+=== Dans le [[Nord (département français)|Nord]] ===
+
+Une commune est traversée par l'Oise, il s'agit de la commune d'[[Anor]].
+
+=== Dans l'[[Aisne (département)|Aisne]] ===
+
+[[Fichier:Hirson.jpg|thumb|L'Oise à [[Hirson]].]]
+[[Fichier:Guise - L'Oise.jpg|thumb|L'Oise à [[Guise]].]]
+Soixante-et-une communes de l'Aisne sont bordées ou traversées par l'Oise.
+{{colonnes|taille=17|1=
+* '''[[Hirson]]''' (commune traversée, au nord de la commune, sur la rive droite, se trouve la [[Belgique]]),
+* [[Mondrepuis]] (rive droite),
+* [[Neuve-Maison]] (commune traversée),
+* [[Ohis]] (commune traversée),
+* [[Wimy]] (rive droite),
+* [[Effry]] (commune traversée),
+* [[Luzoir]] (commune traversée)
+* [[Gergny]] (commune traversée),
+* [[Étréaupont]] (commune traversée),
+* [[Sorbais (Aisne)|Sorbais]] (commune traversée),
+* [[Autreppes]] (commune traversée)
+* [[Erloy]] (commune traversée),
+* [[Saint-Algis]] (commune traversée),
+* [[Englancourt]] (rive droite),
+* [[Marly-Gomont]] (rive gauche),
+* [[Chigny (Aisne)|Chigny]] (rive droite),
+* [[Proisy]] (commune traversée),
+* [[Malzy]] (rive droite),
+* [[Wiège-Faty]] (commune traversée),
+* [[Monceau-sur-Oise]] (commune traversée),
+* [[Flavigny-le-Grand-et-Beaurain]] (commune traversée),
+* '''[[Guise]]''' (commune traversée),
+* [[Lesquielles-Saint-Germain]] (commune traversée),
+* [[Vadencourt (Aisne)|Vadencourt]] (commune traversée),
+* [[Noyales]] (commune traversée),
+* [[Proix]] (commune traversée sur une très faible portion),
+* [[Macquigny]] (commune traversée),
+* [[Hauteville (Aisne)|Hauteville]] (rive droite),
+* [[Mont-d'Origny]] (commune traversée),
+* [[Bernot (Aisne)|Bernot]] (rive droite),
+* [[Neuvillette (Aisne)|Neuvillette]] (rive droite),
+* [[Origny-Sainte-Benoite]] (commune traversée),
+* [[Thenelles]] (rive droite),
+* '''[[Ribemont]]''' (commune traversée),
+* [[Châtillon-sur-Oise]] (commune traversée),
+* [[Séry-lès-Mézières]] (rive gauche),
+* [[Mézières-sur-Oise]] (commune traversée),
+* [[Berthenicourt]] (commune traversée),
+* [[Alaincourt (Aisne)|Alaincourt]] (commune traversée),
+* '''[[Moÿ-de-l'Aisne]]''' (rive droite),
+* [[Brissy-Hamégicourt]] (rive gauche),
+* [[Brissay-Choigny]] (rive gauche),
+* [[Vendeuil]] (commune traversée),
+* [[Travecy]] (rive droite),
+* [[Mayot]] (rive gauche),
+* [[Achery]] (commune traversée),
+* [[Danizy]] (commune traversée, confluent de la [[Serre]] puis rive gauche),
+* '''[[La Fère]]''' (commune traversée),
+* [[Andelain]] (rive gauche),
+* [[Beautor]] (commune traversée),
+* '''[[Tergnier]]''' (rive droite),
+* [[Amigny-Rouy]] (rive gauche),
+* [[Condren]] (commune traversée),
+* [[Viry-Noureuil]] (rive droite),
+* [[Sinceny]] (rive gauche),
+* '''[[Chauny]]''' (commune traversée),
+* [[Bichancourt]] (rive gauche),
+* [[Abbécourt]] (rive droite),
+* [[Manicamp]] (rive gauche puis commune traversée),
+* [[Marest-Dampcourt]] (rive droite),
+* [[Quierzy]] (commune traversée)
+}}
+
+=== Dans l'[[Oise (département)|Oise]] ===
+[[Fichier:Rieux (60) - L'Oise depuis le chemin de halage.JPG|thumb|L'Oise depuis le chemin de halage à [[Rieux (Oise)|Rieux]], Oise.]]
+Cinquante-trois communes de l'Oise sont bordées ou traversées par la rivière.
+{{colonnes|taille=17|1=
+* [[Appilly]] (rive droite),
+* [[Brétigny (Oise)|Brétigny]] (rive gauche),
+* [[Babœuf]] (commune traversée),
+* [[Béhéricourt]] (rive droite),
+* [[Salency]] (rive droite),
+* [[Varesnes]] (rive gauche),
+* [[Morlincourt]] (rive droite),
+* '''[[Noyon]]''' (rive droite),
+* [[Pontoise-lès-Noyon]] (rive gauche),
+* [[Sempigny]] (commune traversée),
+* [[Pont-l'Évêque (Oise)|Pont-l'Évêque]] (rive droite),
+* [[Passel]] (rive droite),
+* [[Chiry-Ourscamp]] (commune traversée),
+* [[Pimprez]] (rive droite),
+* [[Bailly (Oise)|Bailly]] (rive gauche),
+* [[Saint-Léger-aux-Bois (Oise)|Saint-Léger-aux-Bois]] (rive gauche),
+* '''[[Ribécourt-Dreslincourt]]''' (rive droite),
+* [[Cambronne-lès-Ribécourt]] (rive droite),
+* [[Montmacq]] (rive gauche),
+* [[Thourotte]] (rive droite),
+* [[Le Plessis-Brion]] (rive gauche),
+* [[Longueil-Annel]] (rive droite),
+* [[Choisy-au-Bac]] (rive gauche),
+* [[Janville (Oise)|Janville]] (rive droite)
+* '''[[Compiègne]]''' (commune traversée),
+* [[Clairoix]] (rive droite),
+* [[Margny-lès-Compiègne]] (rive droite),
+* [[Venette]] (rive droite),
+* [[Jaux]] (rive droite),
+* [[Armancourt (Oise)|Armancourt]] (rive droite),
+* [[Le Meux]] (rive droite),
+* [[Lacroix-Saint-Ouen]] (rive gauche),
+* [[Rivecourt]] (rive droite)
+* [[Verberie]] (rive gauche),
+* [[Rhuis]] (rive gauche)
+* [[Longueil-Sainte-Marie]] (rive droite),
+* [[Houdancourt]] (rive droite),
+* [[Pontpoint]] (rive gauche),
+* '''[[Pont-Sainte-Maxence]]''' (commune traversée),
+* [[Beaurepaire (Oise)|Beaurepaire]] (rive gauche),
+* [[Brenouille]] (rive droite),
+* [[Rieux (Oise)|Rieux]] (rive droite),
+* [[Villers-Saint-Paul]] (rive droite),
+* [[Verneuil-en-Halatte]] (rive gauche),
+* '''[[Nogent-sur-Oise]]''' (rive droite),
+* '''[[Creil]]''' (commune traversée),
+* '''[[Montataire]]''' (rive droite),
+* [[Saint-Maximin (Oise)|Saint-Maximin]] (rive gauche),
+* [[Saint-Leu-d'Esserent]] (rive droite),
+* [[Villers-sous-Saint-Leu]] (rive droite),
+* [[Précy-sur-Oise]] (commune traversée),
+* [[Gouvieux]] (rive gauche),
+* [[Boran-sur-Oise]] (commune traversée),
+}}
+
+=== Dans le [[Val-d'Oise]] ===
+[[Fichier:L'Isle-Adam - Oise - Ecluse 01.jpg|thumb|Écluse sur l'Oise à [[L'Isle-Adam]].]]
+[[Fichier:L'Oise à Butry-sur-Oise.JPG|thumb|L'Oise à [[Butry-sur-Oise]].]]
+[[Fichier:Remparts de Pontoise - lever soleil1.jpg|thumb|L'Oise à [[Pontoise]].]]
+Vingt-deux communes du Val-d'Oise sont bordées ou traversées par l'Oise.
+* [[Asnières-sur-Oise]] (rive gauche),
+* [[Bruyères-sur-Oise]] (rive droite),
+* [[Noisy-sur-Oise]] (rive gauche),
+* [[Bernes-sur-Oise]] (rive droite),
+* '''[[Beaumont-sur-Oise]]''' (rive gauche),
+* [[Persan (Val-d'Oise)|Persan]] (rive droite),
+* [[Mours]] (rive gauche),
+* [[Champagne-sur-Oise]] (rive droite),
+* [[Parmain]] (rive droite),
+* '''[[L'Isle-Adam]]''' (rive gauche),
+* [[Valmondois]] (rive droite),
+* [[Butry-sur-Oise]] (rive droite),
+* [[Mériel]] (rive gauche),
+* [[Auvers-sur-Oise]] (rive droite),
+* [[Méry-sur-Oise]] (rive gauche),
+* '''[[Saint-Ouen-l'Aumône|St-Ouen-l'Aumône]]''' (rive gauche),
+* '''[[Pontoise]]''' (rive droite),
+* '''[[Cergy]]''' (commune traversée),
+* '''[[Éragny|Eragny-sur-Oise]]''' (rive gauche),
+* '''[[Vauréal]]''' (rive droite),
+* '''[[Jouy-le-Moutier]]''' (rive droite),
+* [[Neuville-sur-Oise]] (rive gauche)
+
+=== Dans les [[Yvelines]] ===
+[[Fichier:Conflans Fin d'Oise.jpg|vignette|Confluence avec la [[Seine]] à [[Conflans-Sainte-Honorine]].]]
+Trois communes des Yvelines sont bordées par l'Oise :
+* [[Maurecourt]] (rive droite) ;
+* '''[[Andrésy]]''' (rive droite) ;
+* '''[[Conflans-Sainte-Honorine]]''' (rive gauche et confluent avec la [[Seine]]).
+
+== Histoire ==
+[[Fichier:Vallée de l'Oise.JPG|thumb|Vallée de l'Oise en [[Thiérache]].]]
+[[Fichier:Charles François Daubigny - Banks of the Oise.jpg|thumb|right|''Bords de l'Oise'', par [[Charles-François Daubigny]] ([[Musée d'art de Saint-Louis]]).]]
+La rivière ''Isara'' est citée par l'auteur latin [[Lucain]]. Le géographe [[Vibius Sequester]] nous informe qu'à son époque, l'appellation est simplement ''Esia''. L'évolution se poursuit avec une [[diphtongue|diphtongaison]] de la voyelle initiale qui donne ''Oysia'', forme attestée en 886. La forme médiévale apparue probablement au {{s|XII}} mais déjà très répandue au {{s|XIII}} est ''Oise'' ou ''Oyse''.
+
+Il reste pour les [[érudition|clerc]]s la forme latine savante et ses variantes ''Ysera'', ''Isera'', ''Isara''... Nombreux sont les lettrés qui aiment discourir sur la rivière navigable et flottable. Ils prennent en référence l'abbé Folcuin de Lobbes qui écrit en latin au {{s|X}} : {{citation|Hysa nunc fluvii nomen est qui antiquitus Hysara dicebatur}}. La forme latine ''hysa'' est donc employé avant l'an mil dans le monde savant. De l'écriture avec un h antéposé, nous pouvons déduire que le latin médiéval proche de la prononciation germanique, mais aussi peut-être gauloise encore relictuelle au {{s|IX}}, insiste sur l'aspiration de la première voyelle.
+
+L'Oise, rivière navigable, fait la jonction avec le nord du bassin parisien jusqu'au contrefort des Ardennes. Une antique et intense activité de transport est renforcée dès l'[[époque classique]] par l'aménagement de canaux et de routes parallèles. L'essor de la navigation sur l'Oise est un modèle européen de développement au {{s|XIX}}. Les apports pondéreux des pays miniers du Nord valorisent sa vallée et entrainent le prodigieux essor de la ville de Creil, à l'instar de la basse vallée. La rivière Oise est indissociable d'une riche histoire de la [[Transport fluvial|batellerie]]. Le musée de Conflans-Saint-Honorine en témoigne.
+
+La trouée de l'Oise est le terme militaire qui stigmatise la faiblesse de la frontière française face à la [[Meuse (fleuve)|Meuse]]. De tous temps, dans le prolongement de la ''Hellweg'' des marchands, l'Oise est une voie de passage facile, voire d'invasion conquérante vers le sud-ouest. Cette perte de profondeur par disparition d'obstacles naturels à moins de {{unité|200|km}} de [[Paris]] revient de manière inaperçue après les défaites napoléoniennes. Le premier traité de 1814 prive la France des places-fortes cruciales de [[Philippeville]] et [[Mariembourg]]. L'affaiblissement des protections n'échappe pas à l'état-major allemand qui utilise la trouée pour passer en force en 1914 et en 1940. L'intelligence du vieux général [[Gallieni]], profitant d'une mince erreur d'alignement des divisions conquérantes, a sauvé la mise à la France en 1914. Mais le désastre de 1940 témoigne ''a contrario'' de l'exploit oublié du vieil officier colonial, adepte de la vitesse, et surtout de la discipline quasi-prussienne de l'armée française engagée dans une guerre longue de résistance.
+
+Les bords de l'Oise sont le théâtre de combats âpres pendant la [[Première Guerre mondiale|Grande Guerre]]. Outre les durs combats d'août à septembre 1914, notons la densité des engagements de mars à octobre 1918 sur la ligne de front qui est placée :
+* de Creil à [[Beaumont-sur-Oise|Beaumont]] en septembre 1914, les divisions allemandes abordant par le nord et l'ouest.
+* en amont de [[Ribécourt-Dreslincourt|Ribécourt]], sur la rive droite entre Noyon et Compiègne, en novembre 1914 après le sursaut français.
+* à La Fère le 22 avril 1917.
+* à nouveau proche de Ribécourt, mais légèrement en aval le 15 juillet 1918.
+* de manière éphémère à Guise pendant l'assaut victorieux des régiments français du général Debeney du 4 au 5 novembre 1918.
+La déroute allemande permet la remontée à la source avant le 11 novembre 1918.
+
+Notons enfin les durs combats autour de L'Isle-Adam entre les 10 et 15 juin 1940 pour empêcher le franchissement de la rivière par les troupes du {{IIIe}} Reich.
+
+== Les îles de l'Oise ==
+Dans l'Oise :
+* Île du grand peuple ([[Armancourt (Oise)|Armancourt]])
+* Île Saint-Maurice ([[Creil]])
+* Ile de Sarron (pont-Sainte-Maxence)
+* Île de Venette
+* Ile de Janville
+
+Dans le Val-d'Oise :
+* [[Île des Aubins]] ([[Bruyères-sur-Oise]])
+* [[Île de Champagne]] ([[Champagne-sur-Oise]])
+* [[Île de la Dérivation (L'Isle-Adam)|Île de la Dérivation]] ([[L'Isle-Adam]])
+* [[Île du Prieuré]] ([[L'Isle-Adam]])
+* [[Île de la Cohue]] ([[L'Isle-Adam]])
+* [[Île de Vaux (Méry-sur-Oise)|Île de Vaux]] ([[Méry-sur-Oise]])
+* [[Île du Pothuis]] ([[Pontoise]])
+* [[Île de la Dérivation (Saint-Ouen-l'Aumône)|Île de la Dérivation]] ([[Saint-Ouen-l'Aumône]] et [[Éragny]])
+
+== L'Oise des peintres, des écrivains et des poètes ==
+C'est à partir du milieu du {{s|XIX}} que l'Oise et ses environs inspirent régulièrement les artistes.
+
+Peintre pionnier ouvrant cette époque, [[Charles-François Daubigny]] (1857-1878) achète ''Le Botin'', une péniche atelier à [[Auvers-sur-Oise]]. L'auteur du ''Soleil couchant sur l'Oise'', célèbre pour sa recherche en peinture de rivière, a sans doute attiré dans son sillage les [[impressionnistes]] à la recherche des reflets de lumière sur l'eau. {{Pas clair|L'auberge Ravoux, lieu de réunion éphémère à Auvers, en témoigne}}.
+
+[[Camille Pissarro]] s'installe en 1866 avec sa famille à [[Pontoise]]. Après avoir trouvé refuge en Angleterre pendant la [[Guerre de 1870|guerre franco-allemande]], il s'y réinstalle en 1872 et héberge quelque temps la petite famille de [[Paul Cézanne|Cézanne]], son élève. L'année suivante, Cézanne trouve une demeure plus spacieuse à Auvers mais continue à travailler avec Pissarro.
+
+La maison-clinique du docteur Gachet, à Auvers, accueille [[Vincent van Gogh]]. Diminué physiquement, en proie à des hallucinations, le peintre hollandais brossera 70 toiles avant de se retirer de l'existence. Sa tombe est dans un cimetière du village.
+
+[[Robert-Louis Stevenson]] et son ami Walter Simpson descendent l'Oise après avoir emprunté le dédale des canaux du Nord à bord de deux canoës, L'Aréthuse et la Cigarette. Il laisse ses observations dans le récit ''[[Voyage en canoë sur les rivières du Nord|Voyage en canoë sur les rivières du nord de la France et de la Belgique]]'' (''An Inland Voyage'').
+== Valorisation touristique ==
+L'Oise est longée par la [[véloroute]] européenne [[EuroVélo 3]] de Verberie à Hirson. Cette véloroute comprend plusieurs aménagements cyclables, la plupart récemment réalisés, notamment une piste cyclable ancienne de 8 km de Lacroix-Saint-Ouen à Compiègne<ref>{{Lien web|titre=Trans'Oise de Compiègne à Lacroix-Saint-Ouen (EV 3)|url=http://www.af3v.org/-Fiche-VVV-.html?voie=415|site=af3v.org|date=|consulté le=6 février 2018}}</ref>, un tronçon de 28 km en voies partagées (routes secondaires à faible circulation fléchées comme itinéraire cyclable)<ref>{{Lien web|titre=EV3 : Scandibérique / Trans'Oise, de Sempigny (Noyon) à Compiègne|url=http://www.af3v.org/-Fiche-VVV-.html?voie=491|site=af3v.org|date=|consulté le=6 février 2018}}</ref>, le chemin de halage du canal de Sambre à l'Oise aménagé en [[voie verte]] sur 36 km d'Abbécourt à Ribemont <ref>{{Lien web|titre=EV3 : Scandibérique / V30, de Tergnier à Abbécourt|url=www.af3v.org/-Fiche-VVV-.html?voie=496|site=af3v.org|date=|consulté le=6 février 2018}}</ref>{{,}}<ref>{{Lien web|titre=EV3 : Scandibérique, de Ribemont à Tergnier|url=http://www.af3v.org/-Fiche-VVV-.html?voie=497|site=af3.org|date=|consulté le=6 février 2018}}</ref>et la voie verte [[axe vert de Thiérache]] réalisée sur une ancienne voie ferrée dans la haute vallée de l'Oise de Guise à Hirson. La véloroute croise encore le cours de l'Oise 4 km en amont d'Hirson à côté de l'étang Bayard dans la forêt d'Hirson<ref>{{Lien web|titre=Voie Verte de la forêt d'Hirson|url=http://www.af3v.org/-Fiche-VVV-.html?voie=377|site=af3v.org|date=6 février 2018}}</ref>. Quelques tronçons sont encore en projet ou en cours de réalisation.
+== Cinéma ==
+* ''[[L'Ami de mon amie]]'' d'[[Éric Rohmer]] qui se déroule dans la ville nouvelle de [[Cergy-Pontoise]] dans une boucle de l'Oise.
+
+== Liens externes ==
+{{trop de liens|date=novembre 2018}}
+* [http://www.hydro.eaufrance.fr/selection.php?cmd=filtrer&consulte=rechercher&cours_d_eau=oise&station_en_service=1&station_hydrologique=1&btnValider=Nouvelle+Recherche Base de données hydro.eaufrance.fr]
+* [http://www.eptb.asso.fr/documentation-1/etude-monographique/Oise.pdf Le bassin versant de l'Oise]
+
+== Voir aussi ==
+{{Autres projets|wikt=Oise|wiktionary titre=Oise|commons=Category:Oise River|commons titre=Images de l'Oise}}{{GeoGroup}}{{début de colonnes|taille=30}}
+* [[Les Berges de l'Oise]]
+* la [[Liste des ponts sur l'Oise]]
+* la [[Liste des rivières de France]]
+* la [[Liste des cours d'eau de Belgique]]
+* la [[Seine]]
+* la [[liste des cours d'eau de l'Aisne]], la [[liste des cours d'eau de l'Oise]]
+* [[Transports dans l'Oise]], [[Transports dans le Val-d'Oise]], [[Transports dans les Yvelines]]
+{{fin de colonnes}}
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=note|taille=30}}
+=== Références ===
+{{Références|taille=30}}
+{{Bases géographie}}
+{{Autorité}}
+
+{{Palette|Affluents de la Seine|Cours d'eau principaux des bassins versants Seine-Normandie}}
+{{Portail|Hainaut|lacs et cours d'eau|France}}
+
+[[Catégorie:Cours d'eau en Région wallonne]]
+[[Catégorie:Cours d'eau dans l'Aisne]]
+[[Catégorie:Cours d'eau dans l'Oise]]
+[[Catégorie:Cours d'eau dans le Val-d'Oise]]
+[[Catégorie:Cours d'eau dans les Yvelines]]
+[[Catégorie:Cours d'eau navigable]]
+[[Catégorie:Chimay]]
+[[Catégorie:Conflans-Sainte-Honorine]]
+[[Catégorie:Système hydrologique de l'Oise|*]]
+[[Catégorie:Affluent de la Seine]]

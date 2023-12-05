@@ -1,0 +1,448 @@
+{{Voir homophones|Maïence|Mélusine Mayance}}
+{{Unicode}}
+{{Infobox Commune d'Allemagne
+| nom             = Mayence
+| autres noms     = ''Mainz''
+| image           = Mainzer Dom nw.jpg
+| légende         = [[Cathédrale Saint-Martin de Mayence|Cathédrale de Mayence]].
+| blason          = Coat of arms of Mainz-2008 new.svg
+| drapeau         = Mainz Flagge quer.svg
+| land            = {{Rhénanie-Palatinat}}
+| district        = 
+| arr             = Mayence ([[Liste des villes-arrondissements d'Allemagne|ville-arrondissement]])
+| codecomm        = 07 3 15 000
+| superficie      = 97.73
+| population      = 217556
+| gentilé         = Mayençais, Mayençaise
+| année_pop       = [[2021]]
+| altitude        = 
+| alt mini        = 85
+| alt maxi        = 285
+| indicatiftel    = 6131, 6136
+| cp              = 55001-55131
+| latitude        = 50
+| longitude       = 8.271111
+| immatriculation = MZ
+| quartier        = 15
+| weblabel        = www.mainz.de
+| mandat maire    = 
+| maire           = Nino Haase, independent
+| partis          = [[Alliance 90 / Les Verts]] et {{SPD}} 
+}}
+{{Infobox Arrondissement d'Allemagne
+|nom               = 
+|nom_de            = 
+|blason            = 
+|imageloc          = 
+|empire allemand   = 
+|land              = 
+|district          = 
+|prefecture        = 
+|superficie        = 
+|population        = 
+|année_pop         = 
+|codearr           = 
+|immatriculation   = 
+|comm              = 
+|villes            = 
+|web               = 
+|weblabel          = 
+|mandat prefet     = 
+|prefet            = 
+|maire             = 
+|mandat maire      = 
+|partis            = 
+|imageloc land     = Rhineland-Palatinate_MZ.svg
+|latitude          = 
+|longitude         = 
+}}
+'''Mayence ''' (en [[allemand]] : ''Mainz'', prononcé {{API|/maɪ̯nt͡s/}}, en [[latin]] classique ''[[Mogontiacum]]'', devenu ''Magontia'' en [[latin tardif]]) est une ville [[Allemagne|allemande]], [[capitale]], arrondissement et plus grande ville du [[Länder allemands|Land]] de [[Rhénanie-Palatinat]] (''Rheinland-Pfalz''). Entourée de vignobles (Mayence est la première ville d'Allemagne pour le commerce du vin), elle est située sur la rive gauche du [[Rhin]], en face du confluent du [[Main (rivière)|Main]].
+
+Mayence est une ancienne cité [[Rome antique|romaine]], une ville universitaire et un [[archevêché]] ; son [[liste des évêques de Mayence|archevêque]] était l'un des sept (huit à partir de la réforme des institutions du Reich en 1648, puis neuf en 1692, et à nouveau huit en 1777) [[Électorat de Mayence|princes-électeurs]] du [[Saint-Empire romain germanique]].
+
+Elle est le siège du gouvernement du land, de la [[ZDF]] ({{2e|chaîne}} de télévision d'Allemagne), ainsi que d'une [[Université Johannes Gutenberg de Mayence|université]], recréée après la guerre. La ville s'est industrialisée en électrotechnique, chimie, industries graphique, verre et vins. Elle est entourée de villes importantes comme [[Mannheim]], [[Darmstadt]], [[Wiesbaden]] et [[Francfort-sur-le-Main]].
+
+Ville natale de [[Johannes Gutenberg]]. Ancien chef-lieu du département du [[Mont-Tonnerre]].
+Sa [[Cathédrale Saint-Martin de Mayence|cathédrale]] a plus de {{unité|1000|ans}}. Le 27 juillet 2021, les « Sites SchUM de Spire, Worms et Mayence » sont inscrits sur la liste du [[Patrimoine mondial|Patrimoine Mondial de l'UNESCO]]<ref>{{Lien web |url=http://whc.unesco.org/fr/actualites/2319 |titre=Le Comité du patrimoine mondial inscrit des sites culturels d'Afrique, d'Amérique latine, d'Asie, d'Europe et de la région arabe sur la Liste du patrimoine mondial de l'UNESCO |date=27 juillet 2021 |consulté le=27 juillet 2021}}</ref>.
+
+Les habitants de Mayence sont les Mayençais (''Mainzer'' en allemand).
+
+== Géographie ==
+=== Site ===
+La ville est située sur la rive ouest (à gauche) du [[Rhin]], qui forme la limite nord et est de la ville; à 500 kilomètres en aval du [[lac de Constance]] à mi-chemin du Rhin de la mer du Nord. Le « bassin de Mayence » est une dépression du [[Tertiaire (géologie)|Tertiaire]]. Il fait partie de la zone nord du bas [[fossé rhénan]], délimité au sud par les collines du [[Hesse rhénane]] et au nord par le massif du [[Taunus]]. Mayence en parcourant le [[50e parallèle nord|{{50e|parallèle}} nord]].
+
+=== Urbanisme ===
+La ville a mis au point un système de signalisation très simple : les plaques de rue inscrites en rouge et blanc mènent au Rhin tandis que les rues en bleu et blanc lui sont parallèles.
+[[Fichier:Mainz Rheinkilometer500 Tankschiff-am-Kai LWS2754.JPG|vignette|PK 500 du kilométrage du Rhin au port de Mayence et la Rheinpromenade.|alt=|gauche]]
+
+=== Rattachements ===
+
+{| class="wikitable" align="center"
+|- 
+| '''Année''' || '''Lieu''' || '''Surface (en ha)'''
+|-
+| {{s-|XIII|e}} || Selenhofen|| align="right" | ?
+|-
+| 1294 || Vilzbach || align="right" | ?
+|-
+| {{date-|23 mai 1805}} || Zahlbach || align="right" | 120
+|-
+| {{date-|1er avril 1907}} || [[Mombach]] || align="right" | 608
+|-
+| {{date-|1er avril 1908}} || [[Cassel (Mayence)|Cassel]] {{Exposant|1}} et [[Mainz-Amöneburg|Amöneburg]]{{Exposant|1}}|| align="right" | 1332
+|-
+| {{date-|1er janvier 1913}} || [[Mainz-Kostheim|Kostheim]]{{Exposant|1}} || align="right" | 953
+|-
+| {{date-|1er janvier 1930}} || [[Mainz-Bretzenheim|Bretzenheim]], [[Weisenau]], [[Bischofsheim (Mainspitze)|Bischofsheim]]{{Exposant|2}}, [[Ginsheim-Gustavsburg|Ginsheim et Gustavsburg]]{{Exposant|2}} || align="right" | {{formatnum:4140}}
+|-
+| {{date-|1er avril 1937}} || [[Gonsenheim]] || align="right" | {{formatnum:1058}}
+|-
+| {{date-|7 juin 1969}} || [[Mainz-Drais|Drais]], [[Mainz-Ebersheim|Ebersheim]], [[Mainz-Finthen|Finthen]], [[Mainz-Hechtsheim|Hechtsheim]], [[Mainz-Laubenheim|Laubenheim]] et [[Mainz-Marienborn|Marienborn]] || align="right" | {{formatnum:4778}}
+|}
+{{Exposant|1}} ''Rattaché depuis {{date-|août 1945}} à Wiesbaden''
+
+{{Exposant|2}} ''Commune à part entière dans l’arrondissement de Groß-Gerau''
+
+=== Climat ===
+<!-- DÉBUT DU TABLEAU -->
+{{Climat
+|titre= Température moyenne des relevés à Mainz-Lerchenberg (ZDF) entre 1961 et 1990
+|source=Deutscher Wetterdienst: [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KU2/KU21/klimadaten/german/download__mw__temp__akt,templateId=raw,property=publicationFile.zip/download_mw_temp_akt.zip Mittlere Temperatur 1961–1990]
+|diagramme=
+
+<!-- TEMPÉRATURES, DURÉE D'ENSOLEILLEMENT ET HUMIDITÉ -->
+<!-- Température moyenne du mois °C -->
+|tmoy-jan=1.2
+|tmoy-fev=2.4
+|tmoy-mar=5.8
+|tmoy-avr=9.8
+|tmoy-mai=14.3
+|tmoy-jui=17.5
+|tmoy-jul=19.2
+|tmoy-aou=18.6
+|tmoy-sep=15.0
+|tmoy-oct=10.1
+|tmoy-nov=5.1
+|tmoy-dec=2.3
+|tmoy-ann=10.1
+<!-- Quantité de précipitation du mois mm -->
+|prec-jan=38
+|prec-fev=36
+|prec-mar=38
+|prec-avr=38
+|prec-mai=51
+|prec-jui=58
+|prec-jul=56
+|prec-aou=53
+|prec-sep=41
+|prec-oct=43
+|prec-nov=48
+|prec-dec=46
+|prec-ann=455
+}}
+<!-- FIN DE TABLEAU -->
+{{détails|Climat de l'Allemagne}}
+
+== Économie ==
+=== Siège de différents grands médias ===
+
+À Mayence siègent différentes grandes chaînes de télévision et de radio allemandes :
+{{colonnes|taille=30|
+* La [[ZDF]] (''Zweites Deutsches Fernsehen''), la deuxième chaîne de la télévision publique allemande,
+* [[3sat]], chaîne de télévision publique germanophone internationale comparable à [[TV5MONDE|TV5]],
+* [[Südwestrundfunk]] (SWR), radio et télévision publiques de [[ARD]] du [[Länder allemands|Land]] de [[Rhénanie-Palatinat]] et [[Bade-Wurtemberg]]
+* La chaîne de télévision privée [[SAT.1]] y a également siégé jusqu'en [[1999]]. Elle siège maintenant à [[Munich]].
+* [[Maison d’édition|Éditeur]] [[Schott Music S.A.]]
+* [[Presse écrite]] Verlagsgruppe Rhein Main
+* [[Éditeur Philipp von Zabern]].
+}}
+
+Mayence-[[Vins de la Hesse-rhénane|Hesse-rhénane]] fait partie du Réseau des Capitales de Grands Vignobles « Great Wine Capitals Global Network » avec les autres dix villes membres du réseau : Adelaide-South Australia, Bilbao-[[Rioja (DOC)|Rioja]], Bordeaux-[[Vignoble de Bordeaux]], Le Cap - Afrique du Sud, Mendoza-[[Viticulture en Argentine|Vignoble de Mendoza]], [[Porto (vin)|Porto]], Lausanne, Verona, San Francisco-[[Napa Valley]] et Valparaiso-Valley de Casablanca. Le Fonds de promotion des vins allemands ''Deutscher Weinfonds'' et son organe exécutif ''Deutsches Weininstitut'' est établi à côté du [[Théâtre d'État de Mayence|théâtre d'État]]. Le fonds et le DWI occupent 40 salariés, et travaillent en outre avec des agences, des représentants particuliers et de multiples commissions consultatives diverses.
+{{colonnes|taille=30|
+* [[Schott AG]]
+* [[Gebr. Alexander]]
+* [[Mainz Hauptbahnhof]]
+* [[Port douanier et fluvial de Mayence]]
+* [[Werner & Mertz]]
+* [[JF Hillebrand]]
+* [[Archer Daniels Midland]], [[huile]]rie
+* WEPA, [[papier hygiénique]]
+* [[International Business Machines Corporation]]
+* [[Novo Nordisk]] Allemagne
+* [[Compagnie française d'assurance pour le commerce extérieur]] en Allemagne
+* Moguntia, moulin des [[épices]]
+* Ditsch, fabrication industrielle des [[bretzel]]s
+* Une filiale de [[Grands Chais de France]], leader français à l’exportation de vins et spiritueux.
+}}
+
+== Héraldique ==
+{{Article connexe|Roue de Mayence}}Les [[Couleur (héraldique)|couleurs]] des armes de Mayence sont celles de l'[[Liste des évêques de Mayence|évêque de Mayence]], de [[gueules]] (rouge) et d'[[Argent (métal)|argent]] (blanc). Deux roues blanches reliées par une croix de même couleur sur fond rouge sont les armoiries de Mayence. Ces roues rappellent, selon la tradition, la profession du père de [[Willigis]], archevêque de la ville.<gallery>
+Fichier:Coat of arms of Mainz-2008 new.svg|Armoiries de Mayence
+Fichier:Blason ville fr Mayence-Empire (Orn ext).svg|Armoiries de Mayence sous le [[Premier Empire]]
+</gallery>
+
+== Histoire ==
+{{Article détaillé|Histoire de Mayence|Forteresse de Mayence}}
+{| class="wikitable" style="float:left; margin-right: 10px;"
+|'''Appartenances historiques'''
+{{Électorat de Mayence}} 983-1242<br>
+{{Saint-Empire}} ([[Ville libre d'Empire|Ville libre]]) 1242-1462<br>
+{{Électorat de Mayence}} 1462-1797<br>
+{{République cisrhénane}} ([[Mont-Tonnerre]]) 1797-1802<br>
+{{France (1792-1804)}} ([[Mont-Tonnerre]]) 1802-1804<br>
+{{Empire français}} ([[Mont-Tonnerre]]) 1804-1815<br>
+{{Grand-duché de Hesse}} 1816-1871<br>{{Empire allemand}} 1871–1918<br>{{République de Weimar}} 1918-1933<br>
+{{Troisième Reich}} 1933-1945<br>
+{{Allemagne occupée}} 1945-1949<br>
+{{Allemagne de l'Ouest}} 1949-1990<br>
+{{Allemagne}} 1990-présent
+|}
+=== Mayence et la France ===
+[[Fichier:Wappen mainz alt.png|thumb|upright=0.5|Mayence sous le [[Premier Empire]].]]
+L'armée du général [[Adam Philippe de Custine|Custine]] entre dans la ville le {{date|21|octobre|1792}}<ref>[[Jean Delmas (historien)]] (directeur), ''De 1715 à 1870'', Presses universitaires de France, Paris, 1992, ''in'' [[André Corvisier]] (directeur), ''Histoire militaire de la France'', {{ISBN|2-13-043872-5}}, {{p.|265}}</ref>. Une [[République de Mayence|république]] est proclamée le {{date|18|mars|1793}}, demandant son annexion à la France le 21 et l'obtenant le 30. Cette [[République de Mayence|république]] a été la première démocratie sur le sol allemand. Cet événement est commémoré le [[11 novembre]] de chaque année, 11 symbolisant la devise de la France républicaine : ELF (onze en allemand) donnant les initiales de « [[Liberté, Égalité, Fraternité|Égalité, Liberté, Fraternité]] ». Mayence est perdue le {{date|23|juillet|1793}} après un [[Siège de Mayence (1793)|siège]] mené par les [[Autrichiens]] et les [[Prussiens]].
+{{Article détaillé|Siège de Mayence (1793)}}
+Ensuite, une éphémère [[République cisrhénane]] fut proclamée le {{date|5|septembre|1797}} (le [[traité de Campo-Formio]] entérinant l’occupation de la rive gauche du Rhin), mais le {{date|4| novembre|1797}} le Directoire crée le département du [[Mont-Tonnerre]], organisé le {{date|23|janvier|1798}} (arrêté du ''4 pluviôse an VI''). Ce département a été officiellement intégré au territoire français le {{date|9|mars|1801}} et a existé jusqu'au démantèlement de l'Empire en [[1814]]. Sur les conseils de son ministre, par arrêté des Consuls du ''3 nivôse an IX'' ({{date|23|décembre|1802}}), Napoléon rétablit les [[Chambre de commerce et d'industrie en France|Chambres de Commerce]] supprimées en [[1791]] et en créa 10 nouvelles, Mayence bénéficiait d'une Chambre.
+Bonaparte nomma Jean Bon Saint-André [[préfet (France)|préfet]] de [[Mont-Tonnerre]] et le créa baron [[André Jeanbon Saint André]]. Il y mourut du [[typhus]]. Après la chute de l'[[empire napoléonien]], Mayence devint une place militaire, et une forteresse germanique avec droit de garnison à la fois de la Prusse et de l'Autriche, ce que confirma le [[recès de Francfort]] en 1819. Elle le resta jusqu'en 1866, et devint ensuite une forteresse prussienne, dans le cadre de l'armée impériale, jusqu'en 1918<ref>{{ouvrage | langue=fr | lire en ligne=https://books.google.fr/books?id=hRNfAAAAcAAJ&pg=PA17&dq=mayence+prusse+autriche+rec%C3%A8s+francfort+1819&hl=fr&sa=X&ved=0ahUKEwidw42ChavYAhWKCcAKHdhqC6kQ6AEIJzAA#v=onepage&q=mayence%20&f=false | titre=Récès général de la commission territoriale rassemblée à Francfort: conclu  le 20 juillet 1819 entre les cours d'Autriche, de la Grande-Bretagne, de Prusse et de Russie | lieu= Vienne | éditeur=Imprimerie impériale et royale de cour et d'état | année=1819 | passage=17-22, 70-72}}</ref>{{,}}<ref>{{ouvrage | langue=fr | titre=Problèmes historiques des états allemands | auteur1=René Roux | éditeur=DF | année=1950 | passage=117 | lire en ligne=https://books.google.fr/books?hl=fr&id=txQRAQAAMAAJ&dq=Probl%C3%A8mes+historiques+%C3%A9tats+allemands+mayence+grande+forteresse+germanique+austro-prussienne+1815+1866&focus=searchwithinvolume&q=mayence++forteresse+germanique+austro-prussienne+1815+1866}}</ref>.
+[[Fichier:Bateaux Mayence.jpg|thumb|redresse|Le {{date-|28 juin 1921}}, navires sur le Rhin à Mayence.]]
+
+Marquée par une industrialisation tardive après 1872, l'économie de la ville a longtemps reposé sur la présence des administrations et de l'armée.
+
+Après la [[Première Guerre mondiale]], et jusqu’en [[1930]], ''Mayence'' est réoccupée par les Français (voir [[République rhénane]]). La ville est bombardée en 1942 et réduite en cendres en 1944. De nouveau, en [[1945]], ''Mayence'' se trouve sous administration de la France, à la limite des zones d’occupation française et américaine. Aujourd’hui la Maison de Bourgogne et l'Institut Français (anciennement Maison de France) située au [[palais Schönborn]], sont chargés, au travers de programmes linguistiques et culturels (CinéMayence notamment), d’entretenir les relations d’amitié entre Mayence et la France.
+
+== Culture ==
+En tant que ville de la [[GECT Grande Région|Grande Région]], Mayence participe au programme de l'année Européenne de la '''[[Capitale européenne de la culture|Capitale de la Culture 2007]]'''.
+
+* L'[[Académie des sciences et des lettres de Mayence]] est basée en ville.
+* [[Institut Max-Planck de recherche sur les polymères]] près de l'université
+* La [[Stiftung Lesen]] (en français “Fondation Lire”) est une fondation allemande à vocation éducative, culturelle et sociale, de rayonnement national. Elle est basée à Mayence.
+* La fondation [[Villa Musica]] est une fondation allemande à vocation éducative des jeunes musiciens. Elle est basée à Mayence.
+* Mayence a accueilli en 2006 le seizième festival [[Europa Cantat]]
+* [[Institut français de Mayence]]<ref>[https://www.institutfrancais.de/mainz www.institutfrancais.de/mainz]</ref>
+
+=== Festivités mayençaises ===
+==== Carnaval ====
+[[Fichier:Fastnachtsbrunnen Mainz 1.jpg|vignette|La [[Fontaine de carnaval (Mayence)|fontaine de carnaval]], composée de nombreuses figurines de « fous ».]]
+{{Article détaillé|Carnaval de Mayence}}
+Au début de l’année, les [[bouffons]] transforment la métropole en un lieu du carnaval. Le défilé du Rosenmontag, s’irise de mille couleurs chatoyantes.
+
+==== Fête de la Saint-Jean ====
+La [[Johannisnacht (Mayence)|Johannisnacht]], nuit de la Saint-Jean de Mayence, attire également dans la vieille ville nombre de visiteurs des régions proches et lointaines. Cette fête est organisée à la mémoire du plus célèbre fils de la ville de Mayence, Johannes Gutenberg, qui inventa l’imprimerie à lettres mobiles en 1450 à Mayence. Elle se déroule aux environs du {{date-|24 juin}}.
+
+==== Fête de la bière ====
+Depuis 2005, en octobre, la ''Fête de la bière''.
+
+==== Marché aux vins ====
+* voir [[Marché aux vins de Mayence]]
+
+=== Musées ===
+[[Fichier:Mainz Rheinbruecke.jpg|thumb|Mayence et le [[Rhin]] vers 1900.]]
+* [[Musée du Land, Mayence|Musée du Land]]<ref>[http://www.remus.museum/html/fr/museum.php?id=753 Musée du Land, Mayence]</ref>
+* [[Musée Gutenberg (Mayence)|Musée Gutenberg]]<ref>[http://www.remus.museum/html/fr/museum.php?id=756 Musée Gutenberg]</ref>
+* [[Musée d'histoire naturelle de Mayence|Musée d'histoire naturelle]]<ref>[http://www.remus.museum/html/fr/museum.php?id=759 Musée d'histoire naturelle, Mayence]</ref>
+* [[Musée d'histoire de la ville Mayence]]<ref>{{lien brisé|url=http://www.remus.museum/html/fr/museum.php?id=760 |titre=Stadthistorisches Museum Mainz }}</ref>
+* [[Sanctuaire d'Isis et de Mater Magna]]
+* Musée du carnaval
+* Musées régional de Mayence (aussi quartiers)
+* [[Musée central romain-germanique]]<ref>[http://www.remus.museum/html/fr/museum.php?id=751 Musée central romain-germanique]</ref>. Le musée comprend trois sections ayant trait à la Préhistoire et à la Protohistoire de l'Europe, aux civilisations du bassin méditerranéen, à l'archéologie romaine et médiévale.
+* [[Musée de la Navigation antique (Mayence)|Musée de la Navigation antique]]
+* [[Musée épiscopal de la Cathédrale et du Diocèse de Mayence|Musée épiscopal de la cathédrale et du diocèse]]<ref>[http://www.remus.museum/html/fr/museum.php?id=752 Musée épiscopal de la Cathédrale et du Diocèse de Mayence]</ref>
+* Musée a la maison Kupferberg<ref>[http://www.remus.museum/html/fr/museum.php?id=754 Musée des caves de vins mousseux C.A. Kupferberg]</ref>
+* Musée de la garnison et [[forteresse Mayence]]
+
+=== Enseignement ===
+* [[Université Johannes Gutenberg de Mayence]]
+* [[Université de sciences appliquées de Mayence]]
+* [[Université catholique de sciences appliquées de Mayence]]
+
+== Bâtiments, places et autres monuments <ref>[https://www.mainz.de/medien/internet/downloads/Stadtplan_Fr_online.pdf Plan de ville]</ref> ==
+{{début de colonnes|taille=20|nombre=3}}
+{{début de bloc solidaire}}
+; Églises
+* [[Cathédrale Saint-Martin de Mayence|Cathédrale Saint-Martin]]
+* [[Église Saint-Étienne de Mayence|Saint-Étienne]] <small>(Vitraux Chagall)</small>
+* [[Saint-Quentin (Mayence)|Saint-Quentin]]
+* [[Église Saint-Augustin (Mayence)|Saint-Augustin]] <small>(orgue fabriquée par la [[famille Stumm]])</small>
+* [[Église Saint-Pierre (Mayence)|Saint-Pierre]]
+* [[Église Saint-Ignace (Mayence)|Saint-Ignace]]
+* [[Église du Sacré-Cœur (Mayence)|Église du Sacré-Cœur]]
+* [[Église Saint-Jean (Mayence)|Saint-Jean]]
+* [[Chapelle des Antonites (Mayence)|Chapelle des Antonites]]
+* [[Église des Carmes (Mayence)|Église des Carmes]]
+* [[Église Saint-Emmeran (Mayence)|Saint-Emmeran]]
+* [[Église Altmünster (Mayence)|Église Altmünster]]
+* [[Église Saint-Christophe (Mayence)|Église Saint-Christophe]]
+{{fin de bloc solidaire}}
+{{début de bloc solidaire}}
+; Monuments civils
+* [[Château des Princes-Électeurs (Mayence)|Château des Princes-Électeurs]]
+* [[Parlement régional de Rhénanie-Palatinat]] (Hôtel de l'ordre Teutonique)
+* [[Hôpital du Saint-Esprit (Mayence)|Hôpital du Saint-Esprit]]
+* [[Hôtel de l'ordre du Saint-Sépulcre (Mayence)|Hôtel de l'ordre du Saint-Sépulcre]]
+* [[Hôtel d'Ostein]]
+* [[Palais Bassenheim]]
+* [[Citadelle de Mayence|Citadelle]]
+* [[Hôtel de Stadion]]
+* [[Tour du Fer (Mayence)|Tour du Fer]]
+* [[Tour du Bois (Mayence)|Tour du Bois]]
+* [[Palais Schönborn]]
+* [[Mairie (Mayence)|Mairie]]
+* [[Hôtel "Zum Römischen Kaiser"]]
+{{fin de bloc solidaire}}
+{{début de bloc solidaire}}
+; Places et autres
+* [[Magasin aux vivres (Mayence)|Magasin aux vivres]]
+* [[Jardin des cerises (Mayence)]]
+* [[Aqueduc de Mayence]]
+* [[Nouvel arsenal de Mayence]]
+* [[Bibliothèque municipale de Mayence|Bibliothèque municipale]]
+* [[Phönixhalle]]
+* [[Grands Sables de Mayence]]
+* [[Cimetière principal de Mayence|Cimetière principal]]
+* [[Théâtre antique de Mayence]] <small>(découverte archéologique)</small>
+* [[Place du Marché de Mayence|Place du Marché]]
+* [[Mainz Hauptbahnhof|Gare principale de Mayence]]
+* [[Arc de Dativius Victor]]
+* [[Nouvelle synagogue de Mayence]]
+* [[Neubrunnen (Mayence)|Neubrunnen]], (Fontaine neuve)
+{{fin de bloc solidaire}}
+{{fin de colonnes}}
+{{Commons-inline|Category:Cultural heritage monuments in Mainz|Les monuments historiques à Mayence}}
+
+<gallery>
+20140801Mainzer Dom1.jpg|La tour de la cathédrale surpasse en hauteur bon nombre de bâtiments de la ville. 
+Theater mainz.jpg|Le [[Théâtre du land Rhenanie-Palatinat|Théâtre National de Mayence]] comprend, depuis sa rénovation en 2001, un cylindre de verre abritant un restaurant
+Landtagsgebäude Rheinland-Pfalz.jpg|Le parlement du land et Hôtel de l’[[ordre Teutonique]], un des nombreux exemples de architecture [[baroque]] à Mayence
+</gallery>
+
+== Sports ==
+Les sportifs disposent de nombreuses infrastructures, stades, gymnases, courts de tennis, piscines, patinoire, bowlings, parcours de santé dans les parcs péri-urbains. La ville de Mayence se démarque dans de multiples sports : en football avec le [[1.FSV Mayence 05]], [[SV Weisenau-Mainz]] et [[SV 1919 Gonsenheim]], en baseball [[Mainz Athletics]], et en natation  [[SSV Undine 08]] et [[SG EWR Rheinhessen-Mainz]].
+
+La ville est située à la EuroVéloroute [[EuroVelo 15|EV15]] (Véloroute Rhin de la source du Rhin à Rotterdam).
+
+== Gastronomie ==
+Mayence, entourée de vignobles de la [[Vins de la Hesse-rhénane|hesse-rhénane]] est de Rheingau, est très connue pour son [[vin]]. Ces mets sont à déguster dans les "W''oistub"'', restaurants typiquement mayençais, au cadre intime et à l'ambiance chaleureuse, où l'on peut retrouver les spécialités régionales traditionnelles.
+
+Les [[Vignoble de Hesse-Rhénane|vins de la Hesse rhénane]] sont présents dans une grande partie de la région. Un itinéraire a été nommé Route des ''Weinterrasse''. Ces vins, cultivés sur les collines du triangle Mayence - [[Alzey]] - [[Worms (Allemagne)|Worms]], bénéficient d'un micro-climat chaud et ensoleillé à l'origine de la grande variété de [[cépage]]s, il s’appelle « paradis des vins ». Les vins peuvent se consommer tout au long d'un repas.
+
+* Le ''Rheinhessensilvaner'' et le Müller-Thurgau sont les plus légers et peuvent être servis avec de la [[charcuterie]], des [[asperge#L'asperge en cuisine|asperges]], des [[hors-d'œuvre]] ou du poisson.
+* Le Riesling ou les pinots se dégustent avec la [[choucroute]], la [[volaille]] ou le rôti.
+* Enfin, l'arôme velouté et la saveur fruitée du gewurztraminer et du Siegerrebe (cultivé essentiellement en Allemagne) accompagnent à merveille la [[pâtisserie]] ou le [[fromage]].
+
+Les petits plats incontournables sont le [[Cervelas (saucisse)|Fleischwurst]], à base de porc, le [[Spundekäs]], les [[côtelette]]s bouillies (''Mainzer Rippchen'') et le « ''Handkäse'' avec musique » (oignons et vinaigrette). Outre cette cuisine familiale, Mayence produit de nombreux mets raffinés comme la charcuterie très renommée.
+
+<gallery style="text-align:center" styles="text-align:center">
+Fichier:Handkäse mit Musik 004ok.jpg|[[Handkäse]], fromage fait à la main, avec « musique » ([[Vinaigrette (sauce)|Vinaigrette]] et oignons)
+Fichier:Lyoner.JPG|Mainzer Fleischwurst
+Fichier:Pretzel 01-14.jpg|[[Bretzel]] traditionnel
+Fichier:Schwartenmagen-hausmacher-w.jpg|Mainzer Fleischmagen ou [[fromage de tête]] mayençais
+</gallery>
+
+=== Weinstub ===
+[[Fichier:MzKirschgarten.jpg|vignette|Le [[Kirschgarten (Mayence)|Kirschgarten]] dans la vieille ville.]]
+Le Weinstub, littéralement ''local à vin'', restitue le mieux l'art de vivre mayençais. À l'origine, il s'agit d'une salle ouverte au public permettant aux propriétaires, les producteurs, d'écouler le surplus de leur production [[viticole]]. Le vin est servi en '''Mainzer Stange''', un verre spécial, accompagné de petits plats simples.
+
+Aujourd'hui, le Weinstub est le restaurant typiquement mayençais par son esprit terroir et bistrot. On y retrouve des plats traditionnels tels que les ''Spundekäse'', ''Handkäse'', ''Fleischwurst'' et les quenelles de foie. On y mange au coude à coude sur des tables en bois.
+
+== Démographie ==
+La ville a été partiellement (80 %) détruite dans les [[Bombardements aériens de Mayence  |bombardements de 1942 et 1945]]. Depuis sa fusion avec plusieurs communes rurales et la création de nouveaux quartiers et zones industrielles dans les années cinquante, puis dans les années soixante, Mayence connaît un fort accroissement démographique. La refondation de l'[[université Johannes Gutenberg de Mayence]], implantée en 1945, a apporté à Mayence une importante population universitaire. La présence d'un grand nombre de résidents étrangers confère à la ville un caractère cosmopolite.
+
+=== Évolution de la population ===
+Mayence ville compte {{unité|217556|habitants}}<ref>Population légale établie par le recensement rénové. Situation au 31/12/2015, source : Statistisches Landesamt Rheinland-Pfalz – [http://www.statistik.rlp.de/fileadmin/dokumente/berichte/A/1033/A1033_201522_hj_G.pdf Bevölkerung der Gemeinden] am 31. Dezember 2015.</ref>, qui s’étend sur {{unité|98|km|2}}. La ville exerce son influence sur un vaste espace rural et viticole qui s'étend sur la [[Hesse rhénane]]. Elle évolue et se développe au cœur d'une agglomération et d'un bassin de vie.
+
+=== Diversité ethnique<ref>[http://www.mainz.de/medien/internet/downloads/statistik/bericht_2014_kapitel_01.pdf « Statistische Informationen zur Stadtentwicklung 2014 »] Site web de la ville de Mayence, consulté le 5 octobre 2016.</ref> ===
+{| border="1" class="wikitable gauche"
+|-
+! Nationalité!! Population (2013)
+|-
+|{{Turquie}} ||{{formatnum:5944}}
+|-
+|{{Italie}} ||{{formatnum:3806}}
+|-
+|{{Serbie}} ||{{formatnum:3794}}
+|-
+|{{Russie}} ||{{formatnum:2400}}
+|-
+|{{Pologne}} ||{{formatnum:1542}}
+|-
+|{{Portugal}} ||{{formatnum:1378}}
+|-
+|{{Bulgarie}} ||{{formatnum:1348}}
+|-
+|{{Maroc}} ||{{formatnum:904}}
+|-
+|{{Espagne}} ||{{formatnum:768}}
+|-
+|{{France}} ||{{formatnum:741}}
+|}
+{{clr}}
+
+== Personnalités ==
+* [[Liste des bourgmestres de Mayence]]
+* [[Liste des évêques de Mayence]]
+* [[Liste de personnalités liées à Mayence]]
+== Littérature ==
+[[Victor Hugo]] l'évoque dans ses lettres fictives de récit de voyage ''[[Le Rhin]]'' (1842). [[Jacques Aeschlimann]] y fait se dérouler le troisième acte de sa pièce ''Guten Tag, Gutenberg !'' (1956)''.''
+
+== Jumelages ==
+{{Début de carte|style table=float:right}}[[Image:{{Géolocalisation/Europe|image}}|400px]]
+{{G|Europe|51.56|0.04|Watford|Ville|4}}
+{{G|Europe|47.22|5.48|Dijon|Ville|4}}
+{{G|Europe|45.76|16.20|Zagreb|Ville|4|se}}
+{{G|Europe|46.68|12.12|Rodeneck|Ville|4}}
+{{G|Europe|39.35|0.06|Valence (Espagne){{!}}Valence|Ville|4}}
+{{G|Europe|32.68|35.44|Haïfa|Ville|4}}
+{{G|Europe|50.88|11.47|Erfurt|Ville|4}}
+{{Fin de carte}}
+
+Mayence est jumelée avec des villes du monde entier :
+
+* {{jumelage|Watford|Royaume-Uni|année=1956}}
+* {{jumelage|Dijon|France|année=1957}}<ref>[https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/dijon-mayence-fetent-60-ans-leur-jumelage-1470739.html Dijon et Mayence fêtent les 60 ans de leur jumelage]</ref>
+* {{jumelage|Longchamp (Côte-d'Or){{!}}Longchamp|France|année=1966}} (avec le quartier ''Laubenheim'')
+* {{jumelage|Zagreb|Croatie|année=1967}}
+* {{jumelage|Rodeneck|Italie|année=1977}}
+* {{jumelage|Valence (Espagne)|Espagne|ville=Valence|année=1978}}
+* {{jumelage|Haifa|Israël|année=1981}}
+* {{jumelage|Erfurt|Allemagne|année=1988}}
+* {{jumelage|Louisville (Kentucky)|États-Unis|ville=Louisville|année=1994}}.
+
+Il existe par ailleurs une amitié commune :
+* {{jumelage|Bakou|Azerbaïdjan}}.
+{{clr}}
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+ |commons=Mainz
+ |wiktionary=Mayence
+ |wikisource=Page:Diderot - Encyclopedie 1ere edition tome 10.djvu/217|wikisource titre=Mayence sur l’encyclopédie Diderot
+ |wikisource2=Le Rhin/XXIII|wikisource titre2=Le Rhin, lettre XXIII
+}}
+
+=== Bibliographie ===
+* Michelle Marty, ''Mayence, ou l'Allemagne profonde'', [[Centre régional de documentation pédagogique|CRDP]] de Dijon, 1992 {{ISBN|2-86621-165-0}}
+*  ''Guide de Mayence.'', Matthias Grünwald-Verlag, 1951 financiée par [[Ministère de la Culture (France)|Direction générale des affaires culturelles (France)]] ([http://www.diplomatie.gouv.fr/fr/IMG/pdf/AC4_relations_artistiques.pdf AC 627/24]).
+
+=== Articles connexes ===
+* [[Walk of Fame of Cabaret]]
+
+=== Liens externes ===
+* {{Site officiel}}
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+
+{{Palette|Villes Allemagne 200 000 hab|Arrondissements de Rhénanie-Palatinat|Rhin romantique}}
+{{Portail|Mayence|Rhénanie-Palatinat|Hospitaliers}}
+
+[[Catégorie:Mayence|*]]
+[[Catégorie:Ville en Rhénanie-Palatinat]]
+[[Catégorie:Ville portuaire fluviale en Allemagne]]
+[[Catégorie:Commune abritant une commanderie de l'ordre de Saint-Jean de Jérusalem en Allemagne]]
+[[Catégorie:Ancienne préfecture]]
+[[Catégorie:Arrondissement en Rhénanie-Palatinat|Mayence]]
+[[Catégorie:Fête de la bière]]
+[[Catégorie:Shou"m]]
+[[Catégorie:Fondation au Ier siècle av. J.-C.]]

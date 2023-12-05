@@ -1,0 +1,90 @@
+{{Unicode}}
+[[Fichier:Hilbert.jpg|vignette|Une photographie de David Hilbert (1862 - 1943) qui a donné son nom aux espaces dont il est question dans cet article.]]
+
+En [[mathématiques]], un '''espace de Hilbert''' est un [[espace vectoriel]] [[Nombre réel|réel]] (resp. [[Nombre complexe|complexe]]) muni d'un [[Produit scalaire#Bilan : produit scalaire réel|produit scalaire euclidien]] (resp. [[Produit hermitien|hermitien]]), qui permet de mesurer des [[longueur]]s et des [[angle]]s et de définir une [[orthogonalité]]. De plus, un espace de Hilbert est [[Espace complet|complet]], ce qui permet d'y appliquer des techniques d'[[Analyse (mathématiques)|analyse]]. Ces espaces doivent leur nom au [[mathématicien]] allemand [[David Hilbert]].
+
+Le concept d'espace de Hilbert étend les méthodes de l'[[algèbre linéaire]] en généralisant les notions d'[[espace euclidien]] (comme le [[plan euclidien]] ou l'[[Espace (notion)#Physique|espace usuel]] [[Espace vectoriel de dimension finie|de dimension 3]]) et d'[[espace hermitien]] à des espaces de [[dimension d'un espace vectoriel|dimension]] quelconque (finie ou infinie).
+
+Des espaces de Hilbert apparaissent fréquemment en mathématiques et en physique, essentiellement en tant qu'[[espace fonctionnel|espaces fonctionnels]] de dimension infinie. Les premiers espaces de Hilbert ont été étudiés sous cet aspect pendant la première décennie du {{s-|XX|e}} par David Hilbert, [[Erhard Schmidt]] et [[Frigyes Riesz]]. Ils sont des outils indispensables dans les théories des [[équation aux dérivées partielles|équations aux dérivées partielles]], [[mécanique quantique]], [[analyse de Fourier]] (ce qui inclut des applications au [[traitement du signal]] et le [[transfert thermique]]) et la [[théorie ergodique]] qui forme le fondement mathématique de la [[thermodynamique]]. [[John von Neumann]] forgea l'expression espace de Hilbert pour désigner le concept abstrait qui sous-tend nombre de ces applications. Les succès des méthodes apportées par les espaces de Hilbert menèrent à une époque très prolifique pour l'[[analyse fonctionnelle (mathématiques)|analyse fonctionnelle]]. En plus des espaces euclidiens classiques, les exemples les plus courants d'espaces de Hilbert sont les [[Espace L2|espaces de fonctions de carré intégrable]], les [[espace de Sobolev|espaces de Sobolev]] qui sont constitués de fonctions généralisées, et les [[espace de Hardy|espaces de Hardy]] de [[fonction holomorphe|fonctions holomorphes]].
+
+L'intuition géométrique intervient dans de nombreux aspects de la théorie des espaces de Hilbert. Ces espaces possèdent des théorèmes analogues au [[théorème de Pythagore]] et à la [[règle du parallélogramme]]. En mathématiques appliquées, les [[Projection orthogonale|projections orthogonales]] sur un [[Sous-espace vectoriel|sous-espace]] (ce qui correspond à aplatir l'espace de quelques dimensions) jouent un rôle important dans des problèmes d'[[optimisation (mathématiques)|optimisation]] entre autres aspects de la théorie. Un élément d'un espace de Hilbert peut être défini de manière unique par ses coordonnées relativement à une [[base de Hilbert]], de façon analogue aux [[coordonnées cartésiennes]] dans une [[base orthonormale]] du plan. Quand cet ensemble d'axes est [[Ensemble dénombrable|dénombrable]], l'espace de Hilbert peut être vu comme un [[Espace de suites ℓp|ensemble de suites de carré sommable]]. Les opérateurs linéaires sur un espace de Hilbert sont semblables à des objets concrets : dans les « bons » cas, ce sont simplement des transformations qui étirent l'espace suivant différents coefficients dans des directions deux à deux perpendiculaires, en un sens qui est précisé par l'étude de leur [[spectre d'un opérateur linéaire|spectre]].
+
+==Définition et exemples==
+===Exemple introductif : l'espace euclidien de dimension 3===
+Un des exemples les plus courants d'espace de Hilbert est l'[[espace euclidien]] de dimension 3, noté ℝ{{3}}, muni du [[produit scalaire]] usuel. Le produit scalaire associe, à deux vecteurs <math>\mathbf{x}</math> et <math>\mathbf{y}</math> un [[nombre réel]] noté <math>\mathbf{x} \cdot \mathbf{y}</math>. Si <math>\mathbf{x}</math> et <math>\mathbf{y}</math> ont pour coordonnées cartésiennes respectives <math>(x_1,x_2,x_3)</math> et <math>(y_1,y_2,y_3)</math>, alors leur produit scalaire est :
+:<math>\mathbf{x} \cdot \mathbf{y} = x_1y_1+x_2y_2+x_3y_3.</math>
+Le produit scalaire satisfait aux propriétés suivantes :
+# il est symétrique : pour tous vecteurs <math>\mathbf{x}</math> et <math>\mathbf{y}</math>, <math>\mathbf{x} \cdot \mathbf{y} = \mathbf{y} \cdot \mathbf{x}</math> ;
+# il est [[application linéaire|linéaire]] par rapport au premier argument : pour tous nombres réels <math>a</math> et <math>b</math> et tous vecteurs <math>\mathbf{x_1}, \mathbf{x_2}, \mathbf{y}</math>, on a l'égalité <math>(a \mathbf{x_1} + b \mathbf{x_2})\cdot \mathbf{y} = a \mathbf{x_1} \cdot \mathbf{y} + b \mathbf{x_2} \cdot \mathbf{y}</math> ;
+# il est défini positif : pour tout vecteur <math>\mathbf{x}</math>, le produit <math>\mathbf{x}\cdot \mathbf{x}</math> est positif, et [[zéro|nul]] [[si et seulement si]] <math>\mathbf{x}</math> est égal au [[vecteur nul]].
+
+Le produit scalaire est intimement relié avec la [[géométrie euclidienne]] par la formule suivante, qui relie le produit scalaire de deux vecteurs <math>\mathbf{x}</math> et <math>\mathbf{y}</math> avec leurs [[norme (mathématiques)|normes]] (notées respectivement <math>\|\mathbf{x}\|</math> et <math>\|\mathbf{y}\|</math>) et l'[[angle]] <math>\theta</math> qu'ils forment :
+
+:<math>\mathbf{x}\cdot\mathbf{y} = \|\mathbf{x}\|\,\|\mathbf{y}\|\,\cos\theta.</math>
+
+Toute opération sur les vecteurs qui vérifie les trois propriétés ci-dessus est également appelée [[produit scalaire]]. Un [[espace vectoriel]] muni d'un produit scalaire est dit [[espace préhilbertien]] réel.
+
+Un espace de Hilbert est un espace préhilbertien qui possède de plus une propriété d'[[analyse mathématique]] : il est [[Espace complet|complet]], argument reposant sur les limites de [[suite (mathématiques)|suites]] de vecteurs dans cet espace.
+
+===Définition===
+Un espace de Hilbert est un [[espace préhilbertien]] [[espace complet|complet]], c'est-à-dire un [[espace de Banach]] dont la [[Norme (mathématiques)|norme]] ║·║ découle d'un [[produit scalaire]] ou [[produit hermitien|hermitien]] 〈·, ·〉 par la formule
+<center><math>\| x\| = \sqrt{\langle x,x \rangle}.</math></center>
+C'est la généralisation en dimension quelconque (finie ou infinie) d'un [[espace euclidien]] ou [[espace hermitien|hermitien]]<ref>{{Harvsp|Colmez|2009|p=159}}.</ref>.
+
+==Exemples==
+
+* L'espace euclidien ℝ{{exp|''n''}} muni du produit scalaire usuel.
+* L'espace hermitien ℂ{{exp|''n''}} muni du produit hermitien usuel.
+* L'[[Espace L2|espace {{math|L{{exp|2}}([''a'', ''b''])}}]] des fonctions de [''a'', ''b''] à valeurs dans ℂ et de [[carré sommable|carré intégrable]] avec la convention que deux fonctions égales presque partout sont égales (voir l'article [[Espace Lp|espace {{math|L{{exp|''p''}}}}]]), muni de <center><math>\langle f,g \rangle = \int_a^bf(x)\overline{g(x)}~\mathrm dx.</math></center>
+* L'[[espace de suites ℓp|espace de suites ℓ{{2}}]], constitué des suites <math>(u_n)_{n \in\N}</math> de nombres complexes telles que<center><math>\sum_{n=0}^\infty|u_n|^2<+\infty,</math></center>le produit hermitien de deux suites <math>u</math> et <math>v</math> étant par définition la somme de la série<center><math>\sum_{n=0}^\infty u_n\overline{v}_n.</math></center>
+
+==Classification==
+{{Article détaillé|Base de Hilbert}}
+Dans un espace de Hilbert de dimension infinie, le concept habituel de [[base (algèbre linéaire)|base]] est remplacé par celui de base hilbertienne (ou base de Hilbert) qui permet, non plus de décrire un [[vecteur]] par ses coordonnées, mais de l'approcher par une [[Suite (mathématiques)|suite infinie]] de vecteurs ayant chacun des coordonnées finies. On est donc au confluent de l'[[algèbre linéaire]] et de la [[topologie]].
+* Deux espaces de Hilbert admettant des bases hilbertiennes [[équipotent]]es sont [[isométrie|isométriquement]] [[Isomorphisme d'espaces vectoriels|isomorphes]], autrement dit : tout [[Inégalité de Bessel#Généralisation à une famille quelconque|espace de Hilbert de base hilbertienne ''X'']] est isomorphe à [[Espace de suites ℓp#Espace ℓp|ℓ{{2}}(''X'')]]. Par exemple : tout espace de Hilbert [[espace séparable|séparable]] (et de dimension infinie) est isomorphe à ℓ{{2}}(ℕ) = ℓ{{2}}. Le [[théorème de Riesz-Fischer]] peut également être vu comme un cas particulier de ce résultat.
+* Réciproquement, deux bases hilbertiennes d'un même espace de Hilbert ont même [[Cardinalité (mathématiques)|cardinalité]]. Ce [[nombre cardinal]], appelé la [[dimension hilbertienne]] de l'espace, le caractérise donc [[à quelque chose près|à isomorphisme près]] et joue ainsi le même rôle que la dimension dans la [[Théorie des catégories|catégorie]] des espaces vectoriels sur un [[Corps commutatif|corps]] fixé.
+* Un espace de Hilbert est de dimension finie si et seulement si sa dimension hilbertienne est finie, et dans ce cas, ces deux [[entier naturel|entiers]] sont égaux.
+
+==Théorème de Fréchet-von Neumann-Jordan==
+{{Article détaillé|Théorème de Fréchet-von Neumann-Jordan}}
+
+Un espace de Banach (respectivement [[espace vectoriel normé]])  est un espace de Hilbert  (respectivement  [[espace préhilbertien]]) si et seulement si sa norme vérifie l'égalité
+
+<center><math>\| x + y\|^2 + \| x - y\|^2 = 2 ( \| x\|^2 + \| y\|^2)</math>, </center>
+
+qui signifie que la somme des carrés des quatre côtés d'un parallélogramme est égale à la somme des carrés de ses diagonales ([[règle du parallélogramme]]).
+
+Ce théorème est dû à [[Maurice René Fréchet]], [[John von Neumann]] et [[Pascual Jordan]].
+
+[[Identité de polarisation]] :
+*dans le cas réel, le produit scalaire est défini par <center><math>\langle x,y  \rangle = \frac{1}{4}\bigl(\| x + y\|^2 -\| x - y\|^2\bigr)</math> ;</center>
+*dans le cas complexe, le produit hermitien sesquilinéaire ''[[Identité de polarisation#Cas des formes sesquilinéaires à droite|à droite]]'' est défini par<center><math>\langle x,y  \rangle = \langle x,y  \rangle_1+{\rm i}\langle x,{\rm i}y  \rangle_1</math>, </center>où<center><math>\langle x,y\rangle_1=\frac14\bigl(\|x+y\|^2-\|x-y\|^2\bigr)</math></center>et {{math|i}} est l'[[unité imaginaire]] (le nombre complexe identifié au couple de réels (0, 1)).
+
+
+== Applications==
+* C'est dans le cadre des espaces de Hilbert qu'est développée la théorie de la [[formulation variationnelle]], utilisée dans de nombreux domaines de la physique.
+* En [[mécanique quantique]], l'état d'un système est représenté par un vecteur dans un espace de Hilbert.
+
+==Références==
+{{Traduction/Référence|en|Hilbert Space|584158986}}
+* {{Ouvrage|langue=fr|prénom1=Pierre|nom1=Colmez|lien auteur1=Pierre Colmez|titre=Éléments d'analyse et d'algèbre (et de théorie des nombres)|éditeur=[[École polytechnique (France)#Activités de recherche|Éditions de l'École Polytechnique]]|lieu=Palaiseau|année=2009|pages totales=469|page=159-164|isbn=978-2-7302-1563-3|lire en ligne={{Google Livres|hMUiEhsa9WUC|page=159}}|titre chapitre=Espaces de Hilbert}}
+{{Références}}
+
+==Annexes==
+=== Articles connexes ===
+* [[Théorème de représentation de Riesz (Fréchet-Riesz)|Théorème de représentation de Riesz]]
+* [[Théorème de projection sur un convexe fermé]] dans un espace de Hilbert
+* [[Théorème de Lax-Milgram]]
+* [[Théorème de Stampacchia]]
+* [[Espace de Sobolev]]
+* [[Mesure secondaire]]
+* [[Transformation d'Aluthge]]
+* [[Convergence faible (espace de Hilbert)|Convergence faible]] dans un espace de Hilbert
+
+=== Lien externe ===
+[http://cel.archives-ouvertes.fr/cel-00519301/fr/ Cours d'analyse] — Jacques Harthong
+
+{{Palette|Algèbre bilinéaire|Analyse fonctionnelle|Structures algébriques}}
+{{Portail|mathématiques}}
+
+[[Catégorie:Espace de Hilbert]]

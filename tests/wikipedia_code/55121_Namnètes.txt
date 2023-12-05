@@ -1,0 +1,159 @@
+{{Infobox Peuple antique
+| nom=Namnètes
+| image=Kartenn Galianed.jpg
+| légende= Carte des [[Gaulois (peuples)|Peuples gaulois]] de la [[Bretagne]] historique :<!--
+-->{{Légende/Début|centre}}{{légende|#67CB59|[[Osismes]]}}<!--
+-->{{légende|#31EE9C|[[Vénètes (Gaule)|Vénètes]]}}<!--
+-->{{légende|#EEBA30|[[Coriosolites]]}}<!--
+-->{{légende|#EE7330|[[Riedones]]}}<!--
+-->{{légende|#FE8081|'''Namnètes'''}}<!--
+-->{{Légende/Fin}}
+| période=
+| ethnie=[[Celtes]]
+| langue=[[Gaulois (langue)|Gaulois]]
+| religion=[[Religion des Celtes|Celtique]]
+| villes principales= Condevincnum/Portus Namnetum ([[Nantes]])
+| région=[[Armorique]]
+| région actuelle=[[Région Pays de la Loire|Pays de la Loire]] ([[France]])
+| rois/monarques=
+| frontière=[[Andécaves]], [[Coriosolites]], [[Pictons]], [[Riedones]], [[Vénètes (Gaule)|Vénètes]]
+}}
+
+Les '''Namnètes''' sont un [[peuples gaulois|peuple gaulois]] de l'ouest de la Gaule, dont le territoire correspond approximativement à la partie nord du [[département français|département]] de la [[Loire-Atlantique]].
+
+Ils ont donné leur nom à la ville de [[Nantes]]<ref>Et ce dans toutes les langues locales : ''Nantes'' en français, ''Nante'' en [[gallo]] et [[Poitevin-saintongeais|poitevin]] ainsi que ''Naoned'' en [[breton]].</ref>.
+
+Les connaissances que l'on a de ce peuple sont limitées en raison du peu d'intérêt des Romains pour ce peuple "mineur" ainsi que de la faible quantité de références tant au niveau des auteurs antiques qu'en termes de découvertes archéologiques.
+
+== Le matériel documentaire concernant les Namnètes ==
+[[Fichier:Commentarii de Bello Gallico.jpg|thumb|Une édition de 1783 de la ''[[Commentaires sur la Guerre des Gaules|Guerre des Gaules]]'' de [[Jules César]] : Première mention explicite de Namnètes]]
+La plus ancienne attestation explicite des Namnètes se trouve dans un texte littéraire, la ''[[Commentaires sur la Guerre des Gaules|Guerre des Gaules]]'' de [[Jules César]] (vers [[-50]])<ref group="G" name="III,9">III, 9</ref> ; on le trouve encore chez des auteurs de langue grecque – [[Strabon]] (début du {{Ier siècle}})<ref>''Géographie'', IV, 2 ; IV, 6.</ref>, [[Ptolémée]] ({{IIe siècle}})<ref>''Géographie'', II, 8.</ref>, [[Dion Cassius]]<ref>''Histoire romaine'', XXXIX, 40-43</ref> – ou latins – [[Pline l’Ancien]] (vers 70)<ref>''Histoire naturelle'', IV, 32</ref>. On peut trouver des références jusqu’à l’époque mérovingienne ; par exemple chez [[Grégoire de Tours]], Nantes est désignée par la périphrase « ''namnetica urbs'' »<ref>''Histoire des Francs'', V, 33.</ref>.
+
+La plus ancienne inscription a été trouvée à [[Worms (Allemagne)|Worms]]<ref group="JS">p. 56</ref> : il s’agit de la stèle funéraire d’un cavalier auxiliaire de l’armée romaine, mort entre 30 et 40<ref group="note" name="a">L'original de la stèle se trouve au musée de Worms ; une copie au musée Dobrée à Nantes. L'inscription (majuscules) complètement développée (minuscules) énonce :'' ARGIOTALVS/SMERTVLITANI/Filius, NAMNIS, EQVes/ALAe INDIANAE/STIPendiorum X, ANNOrum/XXX, Hic Situs Est/hEREDES POSVE/RUNT'', ce qui signifie : « Argiotalus, fils de Smertulitanus, Namnète, cavalier de l'aile Indienne, 10 ans de solde, 30 ans, se trouve ici. Les héritiers ont mis (cette stèle) ». L'adjectif ''Indiana'' fait référence au premier commandant du corps, le trévire Julius Indus.</ref>{{,}}<ref group="JS">p. 59</ref>. Une autre stèle funéraire de Namnète a été trouvée à [[Dompierre-les-Églises]], dans la [[Haute-Vienne]]. Quant aux stèles funéraires locales, on n’y trouve pas de référence à la cité des Namnètes, qui est implicite<ref group="note">seuls les « étrangers » ont mention de la cité d’origine</ref>. Quelques autres inscriptions en revanche peuvent inclure le mot Namnète, mais souvent sous forme abrégée<ref group="note">L'abréviation et le sigle sont courants chez les Romains : cf. SPQR, INRI, IOM. </ref> : cas extrême, la mention « CN » pour CIVITAS NAMNETUM.
+
+Le plus grand alignement mégalithique d'Europe est l'[[alignement du Pilier]] (ou du Breuil de la Herse), qui correspondrait au marquage d’une zone [[frontière]] entre les Namnètes et les [[Riedones]]. Environ {{nobr|120 pierres}} ont été identifiées sur plus d’un kilomètre de long. Des travaux de dégagement des blocs et une fouille partielle du site ont lieu en 2008<ref name="cassen">{{harvsp|Cassen|2008}}</ref>{{,}}<ref>{{Lien web |titre=Loire Atlantique |url=http://megalithes-breton.fr/44/accueil_44.php?nom=me/gavre.html |site=megalithes-breton.fr |consulté le=2023-01-19}}.</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Un peu d'Histoire... |url=https://www.maisonforetgavre.com/un-peu-d-histoire |site=Mbmf |consulté le=2023-01-19}}.</ref>. Les pièces de monnaie namnètes d'époque celtique ({{-Ier siècle}}) sont dépourvues de texte ; les références monétaires sont tardives, notamment d’[[époque mérovingienne]], mais il s’agit probablement à ce moment de « Nantes » et non plus des Namnètes : ''NTS'', ''NAMETIU'', ''NAMNI'', ''NAMNETI'', ''NAMNETIS''<ref group="JS">p. 70</ref>.
+
+Enfin, on a des références textuelles non littéraires, notamment sur la [[Table de Peutinger]] : « ''portunamnetu'' » ; probablement dans la ''Notitia dignitatum'' (début {{Ve siècle}}) « ''praefectus militum superventorum Mannatias''<ref group="note">Commandant des soldats de réserve de Nantes. ''Mannatias'' est considéré comme une déformation du mot correspondant à « Nantes ».</ref>{{,}}<ref group="CAG44">p. 81. Il faut invoquer une erreur du copiste pour rapprocher ''Mannatias'' de ''Namnetis''</ref> » ; dans la ''Notitia Galliarum'' (id). : « civitas Namnetum ».
+
+== Le nom des Namnètes ==
+[[Fichier:Plan des peuples gaulois.svg|thumb|Les Namnètes, un des peuples du nord-ouest de la Gaule.]]
+
+=== Origines ===
+{{Référence nécessaire|Les Namnètes étaient une tribu secondaire, située au nord de la Loire et dépendante des puissants Vénètes, qui contrôlaient le débouché de la Loire et le commerce de l'étain avec les îles britanniques (port de Corbilo, encore mal situé, dans la zone de la Grande Brière, encore zone de mer à l'époque).
+
+Les Namnètes n'acquerront de territoire distinct qu'après la conquête de la Gaule par César. Leur territoire sera constitué de la moitié est de celui des Vénètes, sur la rive droite de la Loire, et sera inclus dans la province "Lyonnaise IIIème".|date=3 février 2022}}
+
+=== Étymologie ===
+{{refnec|Il est généralement rattaché à une racine celtique ''*nant'' correspondant à la notion de cours d'eau, ou de vallées, peut être d'origine pré-celtique, que l'on retrouve aussi dans le nom de localités comme [[Nant]], [[Nantua]]. La ville de [[Nantes]] tiendra ultérieurement son nom des Namnètes.|date=3 février 2022}}
+
+=== Morphologie ===
+On ne connaît pas la forme celtique du nom des Namnètes. Les auteurs de langue grecque écrivent, au pluriel (nominatif/génitif) : ''Namnitoi/Namnitôn''.
+ 
+En latin classique, la forme qui apparaît habituellement dans les textes est le pluriel ''Namnetes/Namnetum'' ; une forme au singulier se trouve sur la stèle de Worms : ''Namnis''<ref group="note">Le dictionnaire latin-français ''Gaffiot'' (Hachette, 1934), ne tenant pas compte des inscriptions courantes, donne seulement les formes plurielles. On peut sans doute reconstruire  une déclinaison de type ''dux/ducis'' ({{3e}} déclinaison imparisyllabique) : ''Namnis/Namnetis'' au pluriel ''Namnetes/Namnetum. Dans le texte de César : "''sibi ad bellum adciscunt Lexovios, Ambiliatos, Namnetes, Menapios...'' (ils appellent à l'aide pour la guerre les Lexoviens, les Ambilatres, les Namnètes, les Ménapiens...'', ''Namnetes'' est un accusatif pluriel, en l'occurrence identique au nominatif.</ref>. L'adjectif correspondant est ''namneticus'' (et non pas : ''namnetus''). C'est pourquoi la mention de la carte de Peutinger ''portunamnetu'' signifie ''Portus Namnetum'' et non pas ''Portus namnetus''.
+
+=== Une confusion entre ''Namnitoi'' et ''Samnitoi'' ? ===
+[[Fichier:Strabo.jpg|thumb|On prête à Strabon la mention des ''Samnitoi'', les Samnites, à l'embouchure de la Loire. Cette mention peut être considérée comme une erreur d'un copiste médiéval de son œuvre, auquel cas, il faut lire ''Namnitoi'', les Namnètes.]]
+
+Chez Strabon et chez Ptolémée, il existe une scission assez curieuse entre ces deux populations. [[Strabon]], d'une part indique la Loire comme limite entre les Pictons et les Namnètes (''Namnitoi''), d'autre part, parle des Samnites (''Samnitoi''), qu'il situe sur le littoral « à l'embouchure de la Loire ». On peut penser ici, compte tenu de la proximité des localisations, à une erreur de copiste<ref name="Bulletin - Société archéologique et historique de Nantes et de Loire-Atlantique - Google Livres">L.-J.-M. Bizeul, [https://books.google.fr/books?id=cHVLAAAAMAAJ&pg=PA125&dq=samnites+venetes&hl=fr&ei=CS-GTq_uMM7B8QPCzdUp&sa=X&oi=book_result&ct=result&resnum=2&sqi=2&ved=0CDEQ6AEwAQ#v=onepage&q&f=false "Des Nannètes aux époques celtiques et romaines"], ''Bulletin de la société archéologique de Nantes et du département de la Loire-Inférieure'', Tome I p 112, Nantes, 1859</ref>.
+
+En ce qui concerne Ptolémée, la distorsion est plus importante : il situe les Samnites, « au-dessous des Vénètes » (sans indiquer de coordonnées géographiques) et les Namnètes, dont la capitale est ''[[Condevicnum]]''<ref group="CAG44">p. 28 : ou ''Condeouincon''</ref>{{,}}<ref>Cf. texte traduit (avec des erreurs orthographiques) [http://encyclopedie.arbre-celtique.com/celtogalatie-lugdunaise-par-ptolemee-6282.htm]. ''[[Condevicnum]]'' pourrait être la forme latinisée d'un nom gaulois ''*Contigwig'', qui correspond à la notion fréquente dans la toponymie gauloise de « ville du confluent »</ref> nettement plus à l'est ; la suite de peuples qu'il donne est d'ouest en est : Samnites, Andécaves, Aulerques [[Cénomans]], Namnètes ; de même, les coordonnées de Condevicnum placent cette ville plus près de ''[[Rotomagos]]'' (Rouen) que de ''Ratiatum'' (Rezé)<ref name="Bulletin - Société archéologique et historique de Nantes et de Loire-Atlantique - Google Livres"/>.
+
+Cette anomalie pourrait s'expliquer comme suit : Ptomélée, comme d'autres auteurs anciens dont [[Denys le Périégète]], emprunte des informations au géographe [[Artémidore (géographe)|Artémidore]], dont la description correspond à la situation du {{-IIe siècle}}, époque où les migrations celtes n'étaient pas achevées et où les Namnètes n'étaient peut-être pas encore arrivés près de l'estuaire de la Loire<ref group="CAG44">p. 24.</ref>.
+
+== Histoire ==
+=== L'arrivée des Namnètes ===
+Les Namnètes apparaissent dans l'histoire lors de la guerre des Gaules ; {{référence nécessaire |ils occupent leur territoire au plus tôt au {{-s|V|e}}, date de l'arrivée des Celtes en Gaule}}. Mais selon l'interprétation donnée ci-dessus au texte de Ptolémée, leur présence dans le Pays nantais pourrait ne remonter qu'à la fin du {{-IIe siècle}} ou au début du {{-Ier siècle}}, quelques décennies seulement avant la conquête romaine.
+
+=== La période celtique ===
+[[File:Statère d'électrum à l'hippophore et à la croix frappé par les Namnètes.jpg|thumb|Statère d'électrum à l'hippophore et à la croix frappé par les Namnètes. Date : c.80-50 AC.]]
+[[Fichier:Namnetes.jpg|thumb|left|Localisation des Namnètes à l'embouchure de la Loire.]]
+Le territoire des Namnètes s'étendait au nord de la [[Loire (fleuve)|Loire]] de son embouchure jusqu’à l'actuelle ville d'[[Ingrandes (Maine-et-Loire)]], en amont d'[[Ancenis]]. Le nom de cette ville, Ingrandes, vient précisément d'un toponyme gaulois assez fréquent en France, indiquant la frontière entre deux peuples gaulois, ici  les [[Andécaves]] et probablement les Vénètes, puisque les Namnètes ne seront clairement distingués qu'après la guerre des Gaules. Vers le nord<ref>Cf. Jean-Pierre Brunterc'h, « Géographie historique et hagiographie : la vie de Saint Mervé », in ''Mélanges de l'École française de Rome'', 1983, [http://www.persee.fr/web/revues/home/prescript/article/mefr_0223-5110_1983_num_95_1_2692]</ref>, leur territoire était probablement limité par la Vilaine par rapport à celui des [[Vénètes]] et des [[Coriosolites]], mais sans éléments l'attestant, hors le tracé des évêchés qui ont souvent fossilisé des limites entre ''civitates''<ref name="monteil">Martial Monteil, ''La cité antique des Namnètes (Loire-Atlantique et ses marges) au Haut-Empire (27 avant notre ère – 235 de n. è.)'', Cahiers nantais, 2011-1.</ref>, et par le Semnon par rapport à celui des [[Riedones]]. Au sud de la Loire, se trouvaient les territoires des [[Pictons]], des [[Ambilatres]]. Au nord-nord-est, les travaux de recherches restituent un territoire qui empiète sur la [[Mayenne (département)|Mayenne]] et le [[Maine-et-Loire]], allant jusqu'à englober le [[Craonnais]]<ref name="monteil" />.
+
+{| class="toccolours" style="float: right; margin-left: 0em; margin-right: 1em; font-size: 100%; background:#c6dbf7; width:22em; max-width: 75%;" cellspacing="5"
+| style="text-align: left;" |
+ 
+:Posidonius affirme qu’il y a dans l’Océan une petite île qu'il situe sur l’embouchure de la Loire, et pas tout à fait en haute mer, qu'elle est habitée par les femmes des Namnètes, femmes possédées de [[Dionysos]] et vouées à apaiser ce dieu par des rites et toutes sortes de cérémonies sacrées. Aucun mâle ne peut mettre le pied sur l’île. En revanche, les femmes elles-mêmes, qui sont toutes des épouses, traversent l’eau pour s’unir à leurs maris et s’en retournent ensuite. La coutume veut qu'une fois l’an elles enlèvent le toit du sanctuaire et en remettent un autre le même jour, avant le coucher du soleil, chacune y apportant sa charge de matériel. Celle dont le fardeau tombe à terre est déchiquetée par les autres et ses membres promenés autour du sanctuaire au cri de l’[[wikt:évohé|évohé]]. Elles ne s’arrêtent pas avant que leur délire ne prenne fin. Or il arrive toujours que l’une ou l’autre tombe et doive subir un pareil sort. ».
+
+|-
+| style="text-align: right; font-size: 90%;" |Texte de [[Strabon]] citant [[Posidonios]]<ref>[[Marcel Detienne|M. Detienne]], ''Dionysos à ciel ouvert'', {{p.|67-69}}, Coll. Textes du XXe siècle, [[Éditions Hachette|Hachette]], [[Paris]], 1996, {{ISBN|2-01-011954-1}}.</ref>.
+|}
+
+Bien que l'historien grec [[Polybe]] ({{-IIe siècle}}) ne nomme pas les Namnètes dans sa description du monde, il évoque peut-être leur pays à travers le témoignage de Pythéas ({{-s|III|e}}) à propos d'une ville selon lui importante pour le commerce, ''[[Corbilo]]'', qu'il situe sur la Loire, mais qui n'a pas pu être identifiée ni localisée (entre Nantes et Guérande). L'importance de ''Corbilo'' devait reposer sur le commerce des métaux, dont le pays namnète était assez bien pourvu (étain et fer). Strabon, qui cite Polybe, indique que ''Corbilo'' n'existait plus de son temps. Les renseignements précis qu'il donne par ailleurs sur les « Samnites » sont mal étayés. Se référant à un autre auteur, [[Posidonios]], il indique que dans une île<ref group="CAG44">p. 24 : F. Lasserre, traducteur de l'œuvre de Strabon, l'assimile à ce qui était alors les îles de Batz, du Croisic et de Saillé. D'autres localisations sont faites à l'[[île Dumet]], voire à [[Belle-Île-en-Mer|Belle-Ile]].</ref>, face à l'embouchure de la Loire, les « femmes des Samnites » auraient eu un culte à mystères de style dionysiaque<ref>Cf. citation [http://remacle.org/bloodwolf/livres/cougny/extraits3.htm#II]</ref>. Il cite ensuite Artémidore à propos d'un lieu qu'il nomme "le Port des Deux Corbeaux", site d'une ordalie dont le gagnant était celui dont les corbeaux mangeaient les graines. Ce lieu a été identifié, avec réserves, au lieu-dit Brandu<ref>Brandu est un site mégalithique (dolmen) et il y avait autrefois une chapelle consacrée à Notre-Dame-de-Recouvrance</ref> (commune de [[La Turballe]], Loire-Atlantique), terme celtique qui pourrait correspondre à "deux corbeaux" (''vran daou'')<ref>Cf. Strabon, édition des Belles Lettres.</ref>.
+
+Parmi les trouvailles archéologiques d'époque gauloise, on peut noter des pièces de monnaie de frappe namnète : des [[statère]]s et quarts de statère dits ''hippocéphales''<ref group="note">dont l'avers représente une face humaine et le revers un cheval à tête d'homme dit ''androcéphale'' ; pas d'inscription</ref> ; ce monnayage est d'un type courant chez les peuples de l'ouest de la Gaule.
+
+Selon les données disponibles à partir du texte de César, le peuple dominant la région au {{-s|I|er}}  était celui des Vénètes - l'ennemi principal de la campagne de l'année -56 - et que les Namnètes se trouvaient dans une situation de subordination, sans territoire distinct.
+
+Ce n'est qu'après la conquête romaine qu'un territoire Namnète distinct est constitué dans la province Lyonnaise {{3e}}, sur la rive droite de la Loire, sur la partie orientale du territoire Vénète.
+
+=== La conquête romaine ===
+[[Image:Bataille de Vannes (-56) Cote Français 295 BNF.png|thumb|En [[-56]], les Namnètes font partie de la coalition armoricaine avec les Vénètes contre [[Jules César]] lors de l'épisode connu sous le de la ''[[Guerre des Vénètes]]''.]]
+Dans sa ''Guerre des Gaules'', [[Jules César]] indique qu'au printemps [[-56]], les Namnètes, entre autres, ont accepté la demande d'alliance faite par les [[Vénètes (Gaule)|Vénètes]] pour combattre l'armée romaine et la flotte que César faisait construire<ref group="G" name="III,9"/>, sans doute sur l'estuaire de la Loire. La [[Guerre des Vénètes|bataille navale qui s'ensuit]]<ref group="note">non localisée</ref> est remportée par [[Decimus Junius Brutus Albinus|Decimus Brutus]], commandant de la flotte romaine<ref group="G">III, 14</ref>. Par ailleurs, les légionnaires romains, conduits par César lui-même, ont dû traverser le territoire namnète en se rendant du pays andécave vers le pays vénète, sans doute en passant par Blain. La légende locale dit aussi que César aurait assisté à la bataille navale depuis la pointe du Castelli (commune de [[Piriac-sur-Mer]]). Après cette campagne, les Namnètes ne sont plus mentionnés<ref group="CAG44">p. 26</ref> par César. Leur absence parmi les peuples qui contribuent à l'effort de guerre de [[Vercingétorix]] est un élément qui permet de penser qu'ils se sont soumis à l'autorité romaine dès avant la fin de la [[Guerre des Gaules]].
+
+[[Fichier:Gaule -56.png|thumb|left|La Gaule en -56 : [[Decimus Junius Brutus Albinus|Decimus Brutus]] traverse le territoire des Namnètes pour se livrer à une [[Guerre des Vénètes|guerre contre les Vénètes]]]].
+Après la victoire définitive de César, le peuple des Namnètes est considéré comme ennemi par les Romains et subit un certain nombre de rétorsions, au profit des Pictons, leurs alliés. Ceux-ci reçoivent le contrôle de la rive sud de la Loire où ils vont promouvoir le port et la ville de ''Ratiatum'' ([[Rezé]]), attestée comme ville dès le règne d'Auguste<ref group="note">Ratiatum est citée par Ptolémée comme la seconde ville des Pictons (II, 7, 6).</ref>.
+
+=== La période gallo-romaine ===
+==== Statut et vie politiques ====
+Dans le cadre de la domination romaine de la Gaule, le peuple des Namnètes devient la cité des Namnètes (''civitas Namnetum''), qui relève d'abord de la province de la [[Gaule lyonnaise]]<ref>La Lyonnaise est une [[province impériale]] prétorienne</ref> dont le chef-lieu est [[Lugdunum|Lyon]], ville qui est en même temps la métropole des trois Gaules ([[Gaule belgique|Belgique]], Lyonnaise, [[Gaule aquitaine|Aquitaine]]), la [[Narbonnaise]] restant à part. Chaque année, un représentant de la cité des Namnètes se rendait à Lyon pour participer au Conseil des Gaules, assemblée d'abord religieuse, mais aussi politique, qui avait lieu le {{1er}} août.
+
+Sur le plan du statut politique, la cité des Namnètes, comme la plupart des cités des Trois Gaules, est soumise au contrôle étroit du gouverneur de la province<ref>Beaucoup de cités de Narbonnaise et quelques cités des Trois Gaules étaient de droit latin.</ref>. Ses membres sont, à titre individuel, des pérégrine, c'est-à-dire des sujets libres, susceptibles de devenir des citoyens romains. Cette situation dure jusqu'à l'édit de [[Caracalla]] (212), qui donne la citoyenneté romaine à tous les hommes libres de l'Empire. Sur le plan fiscal, c'est une cité stipendiaire, soumise au tribut<ref>Quelques cités des Trois Gaules étaient des cités fédérées ou des cités libres.</ref>.
+
+La cité des Namnètes semble être restée soumise lors de la révolte de Sacrovir en 20-21, mouvement qui a pourtant touché les cités des Andécaves et des [[Turons]].
+
+==== La romanisation ====
+Le site de [[Histoire de Nantes|Nantes]], occupé depuis assez longtemps en relation avec le commerce des métaux (ateliers de Chantenay, de la Prairie de Mauves et du Jardin des Plantes) n'est attesté comme ville qu'à partir du règne de Tibère. L'attribution à Nantes du nom cité par Ptolémée ''[[Condevicnum]]'' est généralement admise, mais n'est pas catégoriquement prouvée<ref>Certains auteurs envisagent une localisation à Blain de ''[[Condevicnum]]''. Néanmoins, à l'époque de Ptolémée, la « ville principale » des Namnètes était localisée à Nantes.</ref>. Cette ville est clairement identifiée par le nom de ''Portus Namnetum'' (Port des Namnètes) de la [[Table de Peutinger]]. On y a trouvé des stèles funéraires en grand nombre par rapport aux autres cités gallo-romaines d'Armorique, ainsi que les vestiges de plusieurs temples et d'une basilique, mais aucun d'un théâtre ou d'un amphithéâtre.
+
+Hors de Nantes, on peut signaler le théâtre romain de [[Mauves-sur-Loire]], plusieurs villas, dont celle de Curin à [[Blain]]<ref group="CAG44">p. 128 à 134</ref>.
+
+Les noms fournis par les inscriptions donnent une indication sur la romanisation : les pérégrins ont un seul nom, soit gaulois, soit latin ; les citoyens romains portent les trois noms (prénom, nom de gens, nom de famille).
+
+==== Le Bas-Empire ====
+À partir du {{IIIe siècle}}, en conséquence des troubles qui agitent l'Empire romain, Nantes est [[Enceinte gallo-romaine de Nantes|dotée de remparts]] et prend plus d'importance que Rezé ; au {{IVe siècle}} elle est le pôle de la christianisation et la création d'un évêché indique sa prééminence.
+
+== Économie et monnayage namnète ==
+[[Image:Coins of the Namnetes.jpg|thumb|Monnaie namnète.]]
+=== Économie ===
+
+La Loire marque une frontière géographique entre le territoire des Namnètes au Nord et celui des Pictons au Sud. Ces deux territoires, pourtant voisins et séparés par le fleuve, sont marqués par un usage différent de la monnaie. En territoire namnète, l'or ne circule pas<ref group="CAG44" name="p28">p. 28</ref> et fait l'objet d'une thésaurisation, notamment dans les campagnes. C'est une valeur refuge et les monnaies divisionnaires sont rares<ref group="CAG44" name="p28"/>. Les métaux dont les gisements sont situés en territoire namnète sont payés en or par les Romains mais cet or ne semble pas réutilisé par les Namnètes pour acquérir de biens de consommation romains<ref group="CAG44" name="p28"/>.
+
+=== Monnayage ===
+{{...}}
+
+== Découvertes archéologiques ==
+
+=== La stèle de Worms ===
+La stèle de [[Worms (Allemagne)|Worms]]<ref>[[Corpus Inscriptionum Latinarum|CIL]], XIII, 6230</ref>{{,}}<ref group="note" name="a" />{{,}}<ref group="JS">p. 55 à 60</ref>, découverte en 1666 à l'occasion de travaux de réfection des remparts, témoigne du plus ancien Namnète identifié nominativement. Il s'agit de Argiotalus, fils de Smertulitanus, cavalier des forces auxiliaires romaines, dans la première moitié du {{Ier siècle}}, mort âgé de 30 ans après dix ans de service. L{{'}}''Ala indiana'', unité d'Argiotalus, faisait partie de la ''[[Legio XIV Gemina]]'', basée à [[Mayence]] ; on sait que cette légion est intervenue contre les [[Andécaves]] lors de la révolte de [[Julius Sacrovir]] et il est envisageable qu'Argiotalus s'y soit engagé à ce moment, donc vers 20, soit à titre personnel, soit au titre de la cité des Namnètes. Par ailleurs, cette légion a été transférée en ''Bretagne''<ref group="note">l'actuelle [[Grande-Bretagne]]</ref> en [[43]] ; donc Argiotalus, inhumé à Worms est mort au plus tard en 43, et au plus tôt en 30, puisqu'il a effectué dix ans de service, total d'ailleurs insuffisant pour obtenir la citoyenneté romaine, celle-ci n'étant accordée qu'au terme de 25 ans de service militaire<ref group="JS">p. 61 et 62</ref>.
+
+=== La stèle de Dampierre ===
+{{...}}
+
+== Dans la culture populaire ==
+* [[Jean Burnat]], dans ''Le vengeur de Vercingétorix'', met en scène un chef Namnète imaginaire, Dumnac<ref>[[Jean Burnat]], ''Le vengeur de Vercingétorix'', [[Collection J]], [[O.D.E.J.]], 1962.</ref>.
+
+== Bibliographie ==
+*Alain Ferdière, ''Les Gaules (provinces des Gaules et Germanies, Provinces Alpines). {{s-|II|e}} av.-{{s-|V|e}} ap. J.-C.)'', Armand Colin, Paris, 2005.<br />Manuel universitaire pour une vue d'ensemble récente.
+*Paul Bois, dir., ''Histoire de Nantes'', Privat, Toulouse, 1977, {{p.}}25-43 (chapitre "Nantes antique" par René Sanquer, alors maître-assistant à l'université de Bretagne occidentale).
+* {{article|langue=fr|prénom1=Jacques|nom1=Santrot|titre=Au temps d’Argiotalus, Nantes, Rezé et le port des Namnètes|périodique=Annales de Bretagne et des Pays de l'Ouest|numéro=115-1|année=2008|pages=55 à 97|url texte=http://abpo.revues.org/354|consulté le=19 novembre 2010}} {{plume}}. Cet article examine de façon détaillée non seulement le cas d'Argiotalus, mais aussi nos connaissances sur les Namnètes, ainsi que les relations de Nantes et Rezé au début de l'Empire romain. Il procède d'une version plus détaillée, ''infra''.
+*Jacques Santrot, Anne Morin et Mathilde Grünewald (musée de Worms), « Argiotalus, fils de Smertulitanus, cavalier namnète à Worms (Allemagne) sous Tibère » in ''Revue archéologique de l'Ouest'', 25, 2008, p. 187-208.<br />Jacques Santrot a été directeur du musée Dobrée de Nantes jusqu'au {{date|1|septembre|2010}}.
+
+== Notes et références ==
+
+=== Notes ===
+{{Références|taille=30|groupe=note}}
+
+=== Références ===
+* [[Jules César]], ''[[Commentaires sur la Guerre des Gaules|Guerre des Gaules]]''
+{{Références|groupe=G}}
+* {{article|langue=fr|prénom1=Jacques|nom1=Santrot|titre=Au temps d’Argiotalus, Nantes, Rezé et le port des Namnètes|périodique=Annales de Bretagne et des Pays de l'Ouest|numéro=115-1|année=2008|pages=55 à 97|url texte=http://abpo.revues.org/354|consulté le=19 novembre 2010}} {{plume}}
+{{Références|taille=30|groupe=JS}}
+* Michel Provost, ''Carte archéologique de la Gaule - La Loire-Atlantique 44'', Académie des inscriptions et Belles-Lettres, 1988, {{ISBN|2-87754-001-4}}, 177 p.
+{{Références|taille=30|groupe=CAG44}}
+* Autres références :
+{{Références|taille=30}}
+
+{{Portail|monde celtique|Rome antique|Bretagne}}
+
+{{DEFAULTSORT:Namnetes}}
+[[Catégorie:Peuple gaulois]]
+[[Catégorie:Bretagne antique]]

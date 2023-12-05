@@ -1,0 +1,388 @@
+{{Ébauche|club de football bulgare}}
+{{Infobox Club de football
+ | couleur cadre          = 0147A7
+ | couleur écriture       = FFFFFF
+ | personnage blanc       = oui
+ | nom                    = Levski Sofia
+ | logo                   = PFC Levski Sofia (logo).svg
+ | nom complet            = Profesionalen Fudbolen Klub Levski Sofia
+ | surnoms                = Сините (Les Bleus)<ref name="nickname">{{Lien web|titre=#695 – PFK Levski Sofia : сините|url=https://footnickname.wordpress.com/2022/01/13/695-pfk-levski-sofia-%d1%81%d0%b8%d0%bd%d0%b8%d1%82%d0%b5/|langue=fr|consulté le=13 Janvier 2022}}</ref><br/>Отбора на народа (L’Equipe du Peuple)<ref name="nickname2">{{Lien web|titre=#804 – PFK Levski Sofia : отбора на народа
+|url=https://footnickname.wordpress.com/2022/07/16/804-pfk-levski-sofia-%d0%be%d1%82%d0%b1%d0%be%d1%80%d0%b0-%d0%bd%d0%b0-%d0%bd%d0%b0%d1%80%d0%be%d0%b4%d0%b0/|site=footnickname.wordpress.com|langue=fr|consulté le=16 juillet 2022}}</ref><br/>Синята лавина (L'Avalanche Bleue)<ref name="nickname"/>
+ | noms précédents        = 
+ | date de fondation      = {{Date|24|mai|1914|en football|âge=oui}}
+ | date de disparition    = 
+ | statut professionnel   = 
+ | couleurs               = Bleu
+ | équipement sportif     = [[Stade Georgi Asparuhov]]
+ | capacité               = 25000
+ | siège                  = [[Sofia]]
+ | proprietaire           = {{BUL-d}} [[Nasko Sirakov]] (86.6%) <br/>{{BUL-d}} Blue Bulgaria Trust (10%) <br/>{{BUL-d}} Actionnaires minoritaires (3.4%)
+ | président              = {{BUL-d}} [[Nasko Sirakov]]
+ | entraîneur             = {{BUL-d}} Nikolai Kostov
+ | championnat actuel     = [[Championnat de Bulgarie de football|Première Ligue bulgare]]
+ | site web               = [http://www.levski.bg/ www.levski.bg]
+ | palmarès national      = {{nobr|[[Championnat de Bulgarie de football|Championnat de Bulgarie]] (26)}}<br />[[Coupe de Bulgarie de football|Coupe de Bulgarie]] (26)<br />[[Supercoupe de Bulgarie de football|Supercoupe de Bulgarie]] (3)
+ | pattern_la1            = _getafe1819h
+ | pattern_b1             = _getafe1819h
+ | pattern_ra1            = _getafe1819h
+ | pattern_sh1            = _getafe1819h
+ | pattern_so1            = _getafe1819h
+ | leftarm1               = 2E64FE
+ | body1                  = 2E64FE
+ | rightarm1              = 2E64FE
+ | shorts1                = 2E64FE
+ | socks1                 = 2E64FE
+ | pattern_la2            = _levski_20_21_a
+ | pattern_b2             = _jomagrafity19b
+ | pattern_ra2            = _jomagrafity19b
+ | pattern_sh2            = _botevvratsa1819_3rd
+ | pattern_so2            = 
+ | leftarm2               = FFFF00
+ | body2                  = FFFF00
+ | rightarm2              = FFFF00
+ | shorts2                = 000000
+ | socks2                 = 000000
+ | pattern_la3            = _levski_20_21_3rd
+ | pattern_b3             = _jomagrafity19y
+ | pattern_ra3            = _jomagrafity19y
+ | pattern_sh3            = _levski_20_21_3rd
+ | pattern_so3            = 
+ | leftarm3               = 000000
+ | body3                  = 8C8C8C
+ | rightarm3              = 000000
+ | shorts3                = FFFF00
+ | socks3                 = FFFF00
+ | actualité              = Championnat de Bulgarie de football 2022-2023
+}}
+
+Le '''Profesionalen Fudbolen Klub Levski Sofia''' (en {{lang-bg|Професионален Футболен Клуб Левски София}}), plus couramment abrégé en '''Levski Sofia''', est un [[club sportif|club]] [[Bulgarie|bulgare]] de [[football]] fondé en [[1914 en football|1914]] et basé à [[Sofia]], la capitale du pays.
+
+Le club est la section footballistique du [[club omnisports]] du même nom, le [[Levski Sofia]]. Cet article ne traite que de la section [[football]].
+
+== Histoire ==
+=== Historique ===
+{{section à sourcer|date=septembre 2013}}
+[[File:Football ultras.jpg|333px|vignette|gauche|Levski Ultras]]
+* [[1914 en football|1914]] : créé en [[1911 en football|1911]] par un groupe d'étudiants du {{IIe}} lycée de garçons de [[Sofia]] (dont le sport principal était le [[football]]), le club fut officiellement enregistré le {{date|24 mai 1914|en football}}. Son nom fut choisi en l'honneur de [[Vasil Levski]], dit « l'apôtre de la liberté », par un des fondateurs, Boris Vassilev (dit « Borkicha »). Les couleurs du club étaient initialement le rouge et le jaune ; elles furent changées en [[1920 en football|1920]] pour le bleu actuel<ref name="nickname"/>.
+* [[1949 en football|1949]] : le club est renommé ''Dinamo Sofia''.
+* [[1957 en football|1957]] : le club est renommé ''Levski Sofia''.
+* [[1965 en football|1965]] : première participation à une Coupe d'Europe (C1, saison 1965/66).
+* [[1969 en football|1969]] : fusion avec le [[FK Spartak Sofia]] sous le nom de ''DFS Levski-Spartak Sofia''.
+* [[1985 en football|1985]] : révocation de la fusion, le club est renommé ''FK Vitocha Sofia'' sur décision du [[comité central]] du [[Parti socialiste bulgare|Parti communiste bulgare]] à la suite de graves incidents sur le terrain et dans les tribunes lors de la finale de la [[Coupe de Bulgarie de football|Coupe de Bulgarie]] contre le [[FK CSKA Sofia]] (qui sera lui aussi renommé).
+* [[1989 en football|1989]] : le club est renommé ''Levski Sofia''.
+
+=== Histoire du club ===
+En [[1919 en football|1919]], le club fusionne avec le [[Sportklub Sofia]], mais la fusion ne dure qu'un an et cesse en [[1920 en football|1920]]. Les deux clubs se séparent alors pour cause de désaccords entre les dirigeants des deux clubs.
+
+== Bilan sportif ==
+=== Palmarès ===
+{|border="0" cellpadding="4" align=center width=75%
+|- valign="top"
+|
+{| cellpadding="3" style="font-size:95%; background-color:#F9F9F9; border:solid 1px #AAAAAA; border-collapse: collapse; margin-top:12px; margin-bottom:12px;" cellspacing="1" border="1" align="center"  
+|+'''Palmarès du PFK Levski Sofia'''
+|-
+| width="50%" style="color:#FFFFFF; background:#0147A7;" align="center" | '''Compétitions nationales'''
+| width="50%" style="color:#FFFFFF; background:#0147A7;" align="center" | '''Compétitions internationales'''
+|-
+| valign="top" |
+* '''[[Championnat de Bulgarie de football|Championnat de Bulgarie]]''' ('''26''') :
+** Champion : [[Championnat de Bulgarie de football 1933|1933]], [[Championnat de Bulgarie de football 1937|1937]], [[Championnat de Bulgarie de football 1942|1942]], [[Championnat de Bulgarie de football 1946|1946]], [[Championnat de Bulgarie de football 1947|1947]], [[Championnat de Bulgarie de football 1949|1949]], [[Championnat de Bulgarie de football 1950|1950]], [[Championnat de Bulgarie de football 1953|1953]], [[Championnat de Bulgarie de football 1964-1965|1964-65]], [[Championnat de Bulgarie de football 1967-1968|1967-68]], [[Championnat de Bulgarie de football 1969-1970|1969-70]], [[Championnat de Bulgarie de football 1973-1974|1973-74]], [[Championnat de Bulgarie de football 1976-1977|1976-77]], [[Championnat de Bulgarie de football 1978-1979|1978-79]], [[Championnat de Bulgarie de football 1983-1984|1983-84]], [[Championnat de Bulgarie de football 1984-1985|1984-85]], [[Championnat de Bulgarie de football 1987-1988|1987-88]], [[Championnat de Bulgarie de football 1992-1993|1992-93]], [[Championnat de Bulgarie de football 1993-1994|1993-94]], [[Championnat de Bulgarie de football 1994-1995|1994-95]], [[Championnat de Bulgarie de football 1999-2000|1999-00]], [[Championnat de Bulgarie de football 2000-2001|2000-01]], [[Championnat de Bulgarie de football 2001-2002|2001-02]], [[Championnat de Bulgarie de football 2005-2006|2005-06]], [[Championnat de Bulgarie de football 2006-2007|2006-07]] et [[Championnat de Bulgarie de football 2008-2009|2008-09]].
+** Vice-champion : [[Championnat de Bulgarie de football 1925|1925]], [[Championnat de Bulgarie de football 1929|1929]], [[Championnat de Bulgarie de football 1939-1940|1940]], [[Championnat de Bulgarie de football 1943|1943]], [[Championnat de Bulgarie de football 1948|1948]], [[Championnat de Bulgarie de football 1956|1956]], [[Championnat de Bulgarie de football 1958|1958]], [[Championnat de Bulgarie de football 1959-1960|1959-60]], [[Championnat de Bulgarie de football 1960-1961|1960-61]], [[Championnat de Bulgarie de football 1963-1964|1963-64]], [[Championnat de Bulgarie de football 1965-1966|1965-66]], [[Championnat de Bulgarie de football 1968-1969|1968-69]], [[Championnat de Bulgarie de football 1970-1971|1970-71]], [[Championnat de Bulgarie de football 1971-1972|1971-72]], [[Championnat de Bulgarie de football 1974-1975|1974-75]], [[Championnat de Bulgarie de football 1975-1976|1975-76]], [[Championnat de Bulgarie de football 1980-1981|1980-81]], [[Championnat de Bulgarie de football 1981-1982|1981-82]], [[Championnat de Bulgarie de football 1982-1983|1982-83]], [[Championnat de Bulgarie de football 1986-1987|1986-87]], [[Championnat de Bulgarie de football 1988-1989|1988-89]], [[Championnat de Bulgarie de football 1991-1992|1991-92]], [[Championnat de Bulgarie de football 1995-1996|1995-96]], [[Championnat de Bulgarie de football 1997-1998|1997-98]], [[Championnat de Bulgarie de football 1998-1999|1998-99]], [[Championnat de Bulgarie de football 2002-2003|2002-03]], [[Championnat de Bulgarie de football 2003-2004|2003-04]], [[Championnat de Bulgarie de football 2004-2005|2004-05]], [[Championnat de Bulgarie de football 2007-2008|2007-08]], [[Championnat de Bulgarie de football 2010-2011|2010-11]], [[Championnat de Bulgarie de football 2012-2013|2012-13]] et [[Championnat de Bulgarie de football 2015-2016|2015-16]].
+* '''[[Coupe de Bulgarie de football|Coupe de Bulgarie]]''' ('''26''') :
+** Vainqueur : [[1942 en football|1942]], [[1946 en football|1946]], [[1947 en football|1947]], [[1949 en football|1949]], [[1950 en football|1950]], [[1956 en football|1956]], [[1957 en football|1957]], [[1959 en football|1959]], [[1967 en football|1966-67]], [[1970 en football|1969-70]], [[1971 en football|1970-71]], [[1976 en football|1975-76]], [[1977 en football|1976-77]], [[1979 en football|1978-79]], [[1984 en football|1983-84]], [[1986 en football|1985-86]], [[1991 en football|1990-91]], [[1992 en football|1991-92]], [[1994 en football|1993-94]], [[1998 en football|1997-98]], [[2000 en football|1999-00]], [[2002 en football|2001-02]], [[2003 en football|2002-03]], [[2005 en football|2004-05]], [[2007 en football|2006-07]] et [[2022 en football|2021-22]].
+** Finaliste : [[1953 en football|1953]], [[1965 en football|1964-65]], [[1969 en football|1968-69]], [[1974 en football|1973-74]], [[1985 en football|1984-85]], [[1987 en football|1986-87]], [[1988 en football|1987-88]], [[1996 en football|1995-96]], [[1997 en football|1996-97]], [[2013 en football|2012-13]], [[2015 en football|2014-15]] et [[2018 en football|2017-18]].
+* '''[[Supercoupe de Bulgarie de football|Supercoupe de Bulgarie]]''' ('''3''') :
+** Vainqueur : [[2005 en football|2005]], [[2007 en football|2007]] et [[2009 en football|2009]].
+** Finaliste : [[2006 en football|2006]] et [[2022 en football|2022]].
+
+| valign="top" |
+* '''[[Ligue Europa|Coupe de l'UEFA]]'''
+** Quart de finaliste : [[Coupe UEFA 1975-1976|1975-76]] et [[Coupe UEFA 2005-2006|2005-06]].
+* '''[[Coupe d'Europe des vainqueurs de coupe de football|Coupe des coupes]]'''
+** Quart de finaliste : [[Coupe d'Europe des vainqueurs de coupe de football 1969-1970|1969-70]], [[Coupe d'Europe des vainqueurs de coupe de football 1976-1977|1976-77]] et [[Coupe d'Europe des vainqueurs de coupe de football 1986-1987|1986-87]]
+|}
+|}
+
+=== Bilan européen ===
+{{article détaillé|Historique du parcours européen du PFK Levski Sofia}}
+
+Le meilleur rang du club au classement des coefficients UEFA est une {{33e}} position acquise en 1980<ref>{{Lien web|langue=en|nom1=Kassies|prénom1=Bert|titre=UEFA European Cup Football|url=https://kassiesa.home.xs4all.nl/bert/uefa/index.html|site=kassiesa.home.xs4all.nl|consulté le=2018-01-21}}.</ref>.
+
+{| class="wikitable alternance" bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="text-align: center; font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|+Bilan européen du Levski Sofia au {{date-|31 août 2023}}<ref>{{Lien web|url=https://www.footballdatabase.eu/fr/club/histoire/214-levski_sofia|titre=Levski Sofia - Histoire|site=footballdatabase.eu|consulté le=20 décembre 2021}}</ref>
+|-
+!Compétition
+!{{abréviation|P|Nombre de participations}}
+!{{abréviation|M|Matchs joués}}
+!{{abréviation|V|Matchs gagnés}}
+!{{abréviation|N|Matchs nuls}}
+!{{abréviation|D|Matchs perdus}}
+!{{abréviation|BP|Buts marqués}}
+!{{abréviation|BC|Buts concédés}}
+!{{abréviation|Diff.|Différence de buts}}
+|-
+|[[Ligue des champions de l'UEFA|Ligue des champions]] (C1)||15||58||15||14||29||74||82||-8
+|-
+|[[Coupe d'Europe des vainqueurs de coupe de football|Coupe des coupes]] (C2)||11||36||14||5||17||70||55||+15
+|-
+|[[Ligue Europa]] (C3)||26||112||41||25||46||144||150||-6
+|-
+|[[Ligue Europa Conférence]] (C4)||2||10||5||3||2||11||7||+4
+|-
+! Total||54||216||75||48||94||299||294||+5
+|}
+
+== Stade ==
+[[Fichier:Georgi_asparuhov_stadium02.jpg|middle|250px|thumb|Stade du Levski Sofia avant rénovation]]
+Le nom du [[Stade Georgi Asparoukhov]] vient du célèbre joueur du Levski Sofia [[Georgi Asparuhov]] qui est mort dans un accident de voiture en 1971<ref>{{lien web | langue = en | url = http://levski.bg/stadium.php | titre = Stadium | éditeur = PFK Levski Sofia | consulté le = 10 septembre 2013 }}.</ref>.
+
+<center>'''Affluences du PFK Levski Sofia depuis la saison 1999-2000'''
+<timeline>
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo    value:rgb(1,1,1)
+  id:blue    value:blue              legend:D1
+
+ImageSize  = width:550 height:350
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:20000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:5000 start:0
+ScaleMinor = gridcolor:lightgrey increment:1000 start:0
+BackgroundColors = canvas:sfondo
+Legend    = columns:2 left:50 top:35 columnwidth:250
+
+BarData=
+  bar:GA text:
+  bar:1  text:1999-2000
+  bar:2  text:
+  bar:3  text:
+  bar:4  text:
+  bar:5  text:
+  bar:6  text:2004-2005
+  bar:7  text:
+  bar:8  text:
+  bar:9  text:
+  bar:10  text:
+  bar:11  text:2009-2010
+  bar:12  text:
+  bar:13  text:
+  bar:14  text:
+  bar:15  text:
+  bar:16  text:2014-2015
+  bar:17  text:
+  bar:18  text:
+  bar:19  text:
+  bar:20  text:2018-2019
+
+PlotData=
+  color:blue width:5
+  bar:1  from:0 till:12667 color:blue
+  bar:2  from:0 till:13216 color:blue
+  bar:3  from:0 till:7250 color:blue
+  bar:4  from:0 till:4538 color:blue
+  bar:5  from:0 till:4500 color:blue
+  bar:6  from:0 till:4295 color:blue
+  bar:7  from:0 till:6228 color:blue
+  bar:8  from:0 till:7572 color:blue
+  bar:9  from:0 till:4940 color:blue
+  bar:10 from:0 till:5967 color:blue
+  bar:11 from:0 till:2277 color:blue
+  bar:12 from:0 till:2811 color:blue
+  bar:13 from:0 till:3133 color:blue
+  bar:14 from:0 till:5510 color:blue
+  bar:15 from:0 till:2924 color:blue
+  bar:16 from:0 till:1628 color:blue
+  bar:17 from:0 till:3558 color:blue
+  bar:18 from:0 till:3255 color:blue
+  bar:19 from:0 till:4483 color:blue
+  bar:20 from:0 till:5817 color:blue
+  bar:GA color:darkgrey from:start till:end width:2
+  at:1963 shift:(0,230) text:"10 mars 1963\n[[Stade Georgi Asparoukhov]]"
+</timeline>
+</center>
+
+== Joueurs et personnalités du club ==
+=== Présidents du club ===
+{{...}}
+
+=== Entraîneurs du club ===
+{{Catégorie connexe|Entraîneur du PFK Levski Sofia}}
+Le tableau suivant présente la liste des entraîneurs du club depuis 1921<ref>{{Lien web|url=https://www.transfermarkt.fr/levski-sofia/mitarbeiterhistorie/verein/156|titre=Liste des entraîneurs du Levski Sofia|éditeur=[[Transfermarkt]]|consulté le=20 décembre 2021}}</ref>.
+{{Début de colonnes|taille=30}}
+* {{BUL-d}} Boris Vasilev (1921-1923)
+* {{URS-d}} Mihail Borisov (1923-1924)
+* {{BUL-d}} Boris Vasilev (1924-1927)
+* {{BUL-d}} Ivan Kachev (1927-1932)
+* {{BUL-d}} Tsvetan Genev (1932-1933)
+* {{BUL-d}} Ivan Radoev (1933)
+* {{BUL-d}} Georgi Karaivanov (1934)
+* {{AUT-d}} Rudolf Lowenfeld (1934-1935)
+* {{BUL-d}} Ivan Radoev (1936)
+* {{BUL-d}} Kiril Yovovich (1936-1937)
+* {{BUL-d}} Ivan Radoev (1937-1938)
+* {{BUL-d}} Dimitar Mutafchiev (1938-1939)
+* {{BUL-d}} Asen Panchev (1939-1940)
+* {{RTC-d}} Miloš Strużka (1940-1941)
+* {{BUL-d}} Asen Panchev (1941-1944)
+* {{BUL-d}} Ivan Radoev (1944-1948)
+* {{HUN-d}} [[Rezső Somlai]] (1948-1949)
+* {{BUL-d}} Ivan Radoev (1950-1951)
+* {{BUL-d}} Ljubej Petkov (1952)
+* {{BUL-d}} Dimitar Mutafchiev (1953)
+* {{BUL-d}} Vasil Spasov (1954-1956)
+* {{BUL-d}} [[Georgi Pachedzhiev]] (1956-1960)
+* {{BUL-d}} Koce Georgiev (1960-1961)
+* {{BUL-d}} Krastio Chakarov (1964-1964)
+* {{BUL-d}} Hristo Mladenov (1964-1965)
+* {{RTC-d}} [[Rudolf Vytlačil]] (1965-1966)
+* {{BUL-d}} Krastio Chakarov (1966-1969)
+* {{BUL-d}} Vasil Spasov (1969)
+* {{RTC-d}} [[Rudolf Vytlačil]] (1969-1970)
+* {{BUL-d}} Yoncho Arsov (1971-1973)
+* {{BUL-d}} Dimitar Doichinov (1973-1975)
+* {{BUL-d}} [[Ivan Vutsov]] (1975-1976)
+* {{BUL-d}} Vasil Spasov (1976-1977)
+* {{BUL-d}} [[Ivan Vutsov]] (1977-1980)
+* {{BUL-d}} Hristo Mladenov (1980-1982)
+* {{BUL-d}} [[Dobromir Zhechev]] (1982-1983)
+* {{BUL-d}} [[Vasil Metodiev]] (1983-1985)
+* {{BUL-d}} [[Kiril Ivkov]] (1985-1987)
+* {{BUL-d}} [[Pavel Panov]] (1986-1987)
+* {{BUL-d}} [[Vasil Metodiev]] (1988-1989)
+* {{BUL-d}} [[Dobromir Zhechev]] (1989)
+* {{BUL-d}} [[Pavel Panov]] (1989-1990)
+* {{BUL-d}} [[Vasil Metodiev]] (1991)
+* {{BUL-d}} [[Dinko Dermendzhiev]] (1991)
+* {{BUL-d}} [[Ivan Vutsov]] (1992-1993)
+* {{BUL-d}} [[Andrej Jeliazkov]] (1992-1997)
+* {{BUL-d}} Georgi Vasilev (1993-1995)
+* {{BUL-d}} Ivan Kiuchukov (1995-1996)
+* {{BUL-d}} Georgi Cvetkov (1996-1997)
+* {{BUL-d}} Stefan Grozdanov (1997)
+* {{BUL-d}} [[Mikhaïl Valchev]] (1998)
+* {{UKR-d}} Vyacheslav Hrozny (1998)
+* {{BUL-d}} Angel Stankov (1999)
+* {{RFY-d}} [[Ljupko Petrović]] (1999-2000)
+* {{BUL-d}} Dimitar Dimitrov (2000)
+* {{RUS-d}} [[Vladimir Fedotov]] (2000)
+* {{RFY-d}} [[Ljupko Petrović]] (2000-2001)
+* {{BUL-d}} Georgi Todorov (2001)
+* {{ALL-d}} [[Rüdiger Abramczik]] (2002)
+* {{RFY-d}} [[Slavoljub Muslin]] (2002-2003)
+* {{BUL-d}} Georgi Todorov (2003)
+* {{BUL-d}} Georgi Vasilev (2003-2004)
+* {{BUL-d}} [[Stanimir Stoilov]] ({{date-|juin 2004}}-{{date-|mai 2008}}
+* {{BUL-d}} Emil Velev (avril 2008-juillet 2009)
+* {{SCG-d}} [[Ratko Dostanić]] (juillet 2009-octobre 2009)
+* {{BUL-d}} [[Georgi Ivanov (football)|Georgi Ivanov]] (octobre 2009-{{date-|juin 2010}}
+* {{BUL-d}} [[Yasen Petrov]] (juillet 2010-{{date-|mai 2011}})
+* {{BUL-d}} [[Georgi Ivanov (football)|Georgi Ivanov]] ({{date-|juin 2011}}-novembre 2011)
+* {{BUL-d}} Nikolay Kostov (novembre 2011-{{date-|mars 2012}})
+* {{BUL-d}} [[Georgi Ivanov (football)|Georgi Ivanov]] ''(intérim)'' ({{date-|mars 2012}}-avril 2012)
+* {{BUL-d}} [[Yasen Petrov]] (avril 2012-{{date-|mai 2012}})
+* {{BUL-d}} [[Ilian Iliev]] (juillet 2012-avril 2013)
+* {{BUL-d}} Nikolay Mitov (avril 2013-juillet 2013)
+* {{SER-d}} [[Slaviša Jokanović]] (juillet 2013-octobre 2013)
+* {{BUL-d}} [[Ivaylo Petev]] (octobre 2013)
+* {{BUL-d}} Antoni Zdravkov (octobre 2013-{{date-|mars 2014}})
+* {{BUL-d}} Elin Topuzakov ({{date-|mars 2014}}-{{date-|juin 2014}})
+* {{ESP-d}} José Murcia ({{date-|juin 2014}}-{{date-|août 2014}})
+* {{BUL-d}} [[Georgi Ivanov (football)|Georgi Ivanov]] ({{date-|août 2014}}-décembre 2014)
+* {{BUL-d}} [[Stoycho Stoev]] (décembre 2014-mai 2016)
+* {{SRB-d}}  [[Ljupko Petrović]]  ({{date-|mai 2016}}-octobre 2016)
+* {{BUL-d}}  [[Elin Topuzakov]]  (octobre 2016-{{date-|mars 2017}})
+* {{BUL-d}}  [[Nikolaï Mitov]]  ({{date-|mars 2017}}-juillet 2017)
+* {{ITA-d}} [[Delio Rossi]]  (août 2017-juillet 2018)
+* {{SLO-d}} [[Slaviša Stojanovič]] (juillet 2018-janvier 2019)
+* {{BUL-d}} [[Georgi Dermendzhiev]] (janvier 2019-avril 2019)
+* {{BUL-d}} [[Petar Houbtchev]] (avril 2019-juin 2020)
+* {{BUL-d}} Georgi Todorov (juin 2020-novembre 2020)
+* {{SLO-d}} [[Slaviša Stojanovič]] (novembre 2020-mai 2021)
+* {{BUL-d}} [[Jivko Milanov]] (juillet 2021-août 2021)
+* {{BUL-d}} [[Stanimir Stoilov]] (depuis septembre 2021)
+{{Fin de colonnes}}
+
+=== Joueurs emblématiques du club ===
+{{Catégorie connexe|Joueur du PFK Levski Sofia}}
+{{...}}
+
+=== Effectif actuel du club ===
+''Effectif à jour au {{date-|10 janvier 2022}}<ref>{{Lien web|url=https://www.transfermarkt.fr/levski-sofia/startseite/verein/156|titre=Effectif du Levski Sofia|site=transfermarkt.fr|consulté le=24 décembre 2019}}.</ref>.''
+{{Fs start}}
+{{Fs player|no= 2|nat=GAM|name=[[Noah Sonko Sundberg]]|pos=DF}}
+{{Fs player|no= 3|nat=MKD|name=[[Gjoko Zajkov]]|pos=DF}}
+{{Fs player|no= 4|nat=BUL|name=[[Ivan Goranov]]|pos=DF}}
+{{Fs player|no= 6|nat=BRA|name=[[Wenderson Tsunami]]|pos=DF}}
+{{Fs player|no= 7|nat=BUL|name=[[Georgi Milanov]]|pos=MF}}
+{{Fs player|no= 10|nat=BUL|name=[[Borislav Tsonev]]|pos=MF}}
+{{Fs player|no= 11|nat=BUL|name=[[Zdravko Dimitrov]]|pos=MF|other=}}
+{{Fs player|no=13|nat=BUL|name=[[Nikolay Mihaylov (football)|Nikolay Mihaylov]]|pos=GK}}
+{{Fs player|no=14|nat=BUL|name=Denis Dinev|pos=DF}}
+{{Fs player|no=17|nat=BRA|name=[[Welton (football, 1997)|Welton]]|pos=FW}}
+{{Fs player|no=19|nat=MAR|name=[[Bilal Bari]]|pos=FW}}
+{{Fs player|no=20|nat=BUL|name=[[Dimitar Kostadinov]]|pos=MF}}
+{{fs mid}}{{Fs player|no=21|nat=BUL|name=[[Radoslav Tsonev]]|pos=MF}}
+{{Fs player|no=22|nat=BUL|name=[[Patrick-Gabriel Galchev]]|pos=DF}}
+{{Fs player|no=27|nat=BUL|name=Asen Mitkov|pos=MF}}
+{{Fs player|no=29|nat=BUL|name=Antoan Stoyanov|pos=MF}}
+{{Fs player|no=33|nat=PAN|name=[[José Córdoba]]|pos=DF|other=<small>prêt du [[SFK Etar Veliko Tarnovo|Etar Veliko Tarnovo]]</small>}}
+{{Fs player|no=66|nat=BUL|name=[[Plamen Andreev]]|pos=GK}}
+{{Fs player|no=77|nat=BUL|name=Nikolay Arahangelov|pos=MF}}
+{{Fs player|no=79|nat=BUL|name=[[Martin Petkov]]|pos=FW}}
+{{Fs player|no=88|nat=BUL|name=[[Marin Petkov]]|pos=MF}}
+{{Fs player|no=89|nat=BUL|name=[[Andrian Kraev]]|pos=MF}}
+{{Fs player|no=91|nat=SUI|name=[[Dragan Mihajlović]]|pos=DF}}
+{{Fs player|no=99|nat=BUL|name=Yoan Zagorov|pos=GK}}
+{{Fs end}}
+
+== Identité du club ==
+=== Supporters ===
+[[Fichier:Levski sofia fans.jpg|thumb|200px| Fans du Levski Sofia.]]
+Il existe au sein du Levski Sofia de nombreux groupes de supporters (« South Division », « Sofia Zapad », « Ultra Varna », « HD Boys »). Ces supporters occupent le secteur B du stade Georgi Asparuhov.<br>
+Le club dispose d'une camionnette aménagée comme un magasin de produits dérivés qui suit toujours l'équipe première au cours de ses déplacements à travers toute la Bulgarie et permet ainsi aux supporters d'acquérir différents articles en rapport avec le club.
+{{clr}}
+
+=== Rivalités ===
+
+Les confrontations opposant les deux clubs les plus titrés et populaires du pays, le Levski Sofia et le [[PFC CSKA Sofia|CSKA Sofia]], leurs valent le surnom de « [[Derby éternel (Bulgarie)|Derby éternel]] ».
+
+=== Logos ===
+
+<gallery>
+Image:Levski sofia 1914-1934.JPG|<center>1914-1934</center>
+Image:Levski sofia 1944-1949.JPG|<center>1944-1949</center>
+Image:Levski sofia 1949-1957.JPG|<center>1949-1957</center>
+Image:Levski sofia 1957-1969.JPG|<center>1957-1969</center>
+Image:Levski sofia 1969-1985.JPG|<center>1969-1985</center>
+Image:Levski sofia 1985-1989.JPG|<center>1985-1989</center>
+</gallery>
+<gallery>
+Image:Levski sofia 1989-1990.JPG|<center>1989-1990</center>
+Image:Levski sofia 1990-1992.JPG|<center>1990-1992</center>
+Image:Levski sofia 1992-1998.JPG|<center>1992-1998</center>
+Image:Levski sofia 1990-1992.JPG|<center>1998-????</center>
+Image:Levski-Sofia.png|<center>2006-????</center>
+Image:PFC Levski Sofia.png|<center>Logo actuel</center>
+</gallery>
+
+== Notes et références ==
+{{Références}}
+
+== Liens externes ==
+{{Liens}}
+* {{mul|bg|en}} [http://www.levski.bg/ Site officiel du club]
+* {{mul|en|bg}} [http://en.levskisofia.info/ Levski Sofia - statistics]
+* {{bg}} [http://fondsectorb.com/ Site du groupe de supporters « Fond Sector B »]
+
+{{Palette|Équipes du championnat de Bulgarie de football D1}}
+{{Portail|football|Bulgarie}}
+
+[[Catégorie:PFK Levski Sofia|*]]
+[[Catégorie:Club de football fondé en 1914|Sofia, Levki]]
+[[Catégorie:Club de football à Sofia|Levki]]

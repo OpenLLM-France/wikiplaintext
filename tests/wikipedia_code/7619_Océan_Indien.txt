@@ -1,0 +1,378 @@
+{{Infobox Étendue d'eau
+ | nom                        = Océan Indien
+ | carte                      = Océan Indien.png
+ | légende                    = Carte de l'océan Indien.
+ | type                       = [[Océan]]
+ | latitude                   = -28.5
+ | longitude                  = 77
+ | superficie                 = 70560000
+ | profondeur moy             = 4210
+ | profondeur max             = 7450
+ | volume                     = 292131000
+ | largeur max                = 9787
+ | salinité                   = 34.5
+ | géolocalisation            = Monde
+}}
+
+L’'''océan Indien''', autrefois appelé '''océan Oriental''' ou '''mer des Indes''', est un [[océan]] qui s’étend sur une surface de {{unité|70560000|km|2}}, soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au [[nord]] par la [[péninsule Arabique]], l'[[Iran]], le [[Pakistan]], l’[[Inde]], le [[Bangladesh]], la [[Birmanie]] et la [[Thaïlande]] ; à l'est par l’[[Indonésie]] (îles de [[Sumatra]], [[Java (île)|Java]], [[Bali]], [[Sumbawa]], [[Sumba (Indonésie)|Sumba]], [[Timor]], la [[Nouvelle-Guinée occidentale]]), le [[détroit de Torrès]] et l’[[Australie]] ; le méridien 146° 55' de longitude est frontalier de l'[[océan Pacifique]] ; au [[sud (point cardinal)|sud]] par le [[Antarctique|continent Antarctique]], à 
+l’[[ouest (point cardinal)|ouest]] par le méridien 20° de longitude est, qui le sépare de l'[[océan Atlantique]], enfin par l'[[Afrique]].
+
+== Géographie ==
+{{à compléter}}
+=== Géographie physique ===
+==== Localisation et limites ====
+L'océan Indien se situe entre l'[[Afrique]], les [[îles Laquedives]], les [[Maldives]], le [[Sri-Lanka]], les [[îles Andaman-et-Nicobar]], les [[îles de la Sonde]] méridionales jusqu'aux îles de [[Rote (île)|Rote]] et Boa et l'[[Australie]]. Bien que ses eaux baignent au sud  l'[[Antarctique]] glacé, la plupart de ses eaux sont tropicales, dotées de [[récifs coralliens]] et d'[[atoll]]s. C'est le plus chaud des océans. Sa chaleur génère de nombreuses tempêtes tropicales pendant les mois d'été. Son code d'enregistrement numérique auprès de l’[[Organisation hydrographique internationale]] est « B »<ref name="Nomenclature-espaces-maritimes-2004" />, et son identification dans ''Limite des océans et des mers'' est « 45 »<ref>{{harvsp|OHI|1953|p=22}}</ref>; son [[Hydronymie|nom français]] dans la nomenclature des espaces maritimes du [[Conseil national de l'information géolocalisée]] est {{citation|Océan Indien}}<ref name="Nomenclature-espaces-maritimes-2004" />.
+
+L'[[Organisation hydrographique internationale]] définit les limites de l'océan Indien comme suit<ref name="OHIpub23">{{harvsp|OHI|1953|p=22}}.</ref> :
+
+Au nord : 
+* Les limites sud de la [[mer d'Arabie]] et de la [[mer des Laquedives]] ; 
+* la limite sud du [[golfe du Bengale]] ;
+* les limites sud de l'[[Insulinde|archipel indonésien]] ;
+* et la limite sud de la [[Grande Baie australienne]].
+
+À l'ouest : 
+* Du [[cap des Aiguilles]] par 20° de longitude Est vers le sud, le long de ce méridien jusqu'au [[continent Antarctique]].
+
+À l'est : 
+* Depuis [[Cap du Sud-Est|{{langue|en|South East Cape}}]], point méridional de [[Tasmanie]] en descendant le méridien 146° 55' E. jusqu'au [[continent Antarctique]].
+
+Au sud : 
+* Le [[continent Antarctique]].
+
+{{à compléter}}
+
+==== Mers bordières ====
+{{à compléter}}
+Les espaces maritimes subordonnés à l'océan Indien se situent à sa périphérie et sont au nombre de quinze :
+* [[Golfe de Suez]]
+* [[Golfe d'Aqaba]]
+* [[Mer Rouge]]
+* [[Golfe d'Aden]]
+* [[Golfe Persique]]
+* [[Golfe d'Oman]]
+* [[Mer d'Arabie]]
+* [[Mer des Laquedives]]
+* [[Golfe du Bengale]]
+* [[Mer d'Andaman]]
+* [[Mer de Timor]]
+* [[Mer d'Arafura]]
+* [[Canal du Mozambique]]
+* [[Grande Baie australienne]]
+* [[Détroit de Bass]]
+
+==== Volume ====
+{{à compléter}}
+
+==== Profondeur ====
+La profondeur de l’océan Indien atteint les {{unité|7187|m}} dans la fosse de Java (son point le plus profond enregistré jusqu’à aujourd’hui)<ref>https://www.bgs.ac.uk/news/deepest-points-of-the-indian-ocean-and-southern-ocean-revealed/</ref>.
+
+== Géologie ==
+À l’époque de l’apparition des premiers [[dinosaure]]s, il y a {{nobr|200 millions}} d’années ([[Trias]]), l’[[Afrique]], l’[[Inde]], l’[[Antarctique]] et l’[[Australie]] se touchaient pour ne former qu’un seul continent, la [[Pangée]]. Il y a {{nobr|170 millions}} d’années, l’[[Afrique]] s’en sépare puis, il y a {{nobr|70 millions}} d’années, l’[[Inde]] s’en détache à son tour pour venir buter sur le continent [[Asie|asiatique]] il y a {{nobr|45 millions}} d’années. C’est cet espace laissé vide que nous nommons océan Indien.
+
+== Les îles ==
+[[Fichier:Indian Ocean bathymetry srtm.png|thumb|Profil [[Bathymétrie|bathymétrique]] de l’océan Indien.]]
+
+* l'île de [[Madagascar]]   
+** [[Liste des îles de Madagascar|îles de Madagascar]]
+* l'île de [[La Réunion]] ([[région française|région]] et [[département français]])
+* l'île de [[Mayotte]] (région et département français) 
+** [[Liste des îles de Mayotte|îles de Mayotte]]
+* les cinq [[îles Éparses de l'océan Indien|îles Éparses françaises de l'océan Indien]] : l'atoll [[Bassas da India]], l'[[île Europa]], l'[[île Juan de Nova]], l'[[île Tromelin]] et les [[îles Glorieuses]] ([[île Grande Glorieuse]] et [[Île du Lys|du Lys]])
+* les dépendances lointaines de l'île Maurice :
+** l'île [[Rodrigues]] (dépendance de [[Maurice (pays)|Maurice]])
+** l'[[archipel d'Agaléga]] (dépendance de Maurice)
+* [[Comores (pays)|Union des Comores]] 
+** [[Anjouan]]
+** [[Grande Comore]]
+** [[Mohéli]]
+* les [[Seychelles]] :
+** les [[îles Intérieures]] granitiques et coralliennes
+** les [[îles Extérieures]] coralliennes (en [[créole seychellois]] : ''Zil Elwannyen Sesel'')
+* les îles [[tanzanie]]nnes :
+** les îles de [[Zanzibar (pays)|Zanzibar]] et de  [[Pemba (île)|Pemba]] ;
+** l'île de [[Mafia (île)|Mafia]].
+* l'île [[yémen]]ite de [[Socotra]] 
+* les îles [[oman]]aises de [[Kira Mourah]]
+* les [[Îles Laquedives]] (territoire de l’[[Inde]])
+* les îles [[Maldives]]
+* l'île de [[Sri Lanka]]
+* l’[[archipel des Chagos]] (dont [[Diego Garcia]] ([[Territoire britannique de l'océan Indien]])
+* les [[îles Andaman]] et les [[îles Nicobar]] (qui forment un territoire de l’[[Inde]])
+* Les îles [[indonésie]]nnes 
+** au large de [[Sumatra]] : [[îles Banyak]], [[Simeulue]], [[Nias]], [[îles Mentawaï]], [[Enggano]],
+** au large de [[Java (île)|Java]] : [[île de Deli]], [[Tinjil]], [[Nusa Kambangan]], [[Sempu (Java)|Sempu]]
+* Les îles [[australie]]nnes :
+** les [[îles Cocos]] (territoire de l'Australie) ;
+** l’[[île Christmas (Australie)|île Christmas]] (territoire de l’[[Australie]]) ;
+** la [[Tasmanie]] et l'[[archipel Furneaux]] ;
+** Les [[îles Heard-et-MacDonald]].
+* les autres îles australes des [[Terres australes et antarctiques françaises]] :
+** les îles [[île Amsterdam|Amsterdam]] et [[Île Saint-Paul (océan Indien)|Saint-Paul]] ;
+** l’[[archipel Crozet]] ;
+** les [[îles Kerguelen]] (ou « îles de la Désolation ») ;
+* Les [[îles du Prince-Édouard]] (ou « îles Froides »), une dépendance [[Afrique du Sud|sud-africaine]] :
+** l'[[Île du Prince-Édouard (Afrique du Sud)|île du Prince-Édouard]]
+** l'[[île Marion]]
+* [[Liste des îles de la mer Rouge]]
+* {{lien|lang=en|trad=List of islands in the Persian Gulf|fr=Liste des îles du golfe Persique}}
+=== Les États riverains ===
+{{colonnes|nombre=4|taille=18|
+* [[Iran]]
+* [[Irak|Iraq]]
+* [[Koweït]]
+* [[Arabie saoudite]]
+* Archipel de [[Bahreïn]]
+* [[Qatar]]
+* [[Émirats arabes unis]]
+* [[Oman]]
+* [[Yémen]]
+* [[Arabie saoudite]] à nouveau
+* [[Jordanie]]
+* [[Israël]]
+* [[Égypte]]
+* [[Soudan]]
+* [[Érythrée]]
+* [[Djibouti]]
+* [[Somalie]]
+* [[Kenya]]
+* [[Tanzanie]]
+* [[Mozambique]]
+* [[Madagascar]] 
+* [[Afrique du Sud]]
+* [[Pakistan]]
+* [[Inde]]
+* [[Bangladesh]]
+* [[Birmanie]]
+* [[Thaïlande]]
+* [[Indonésie]]
+* [[Timor oriental]]
+* [[Australie]]
+* [[Sri Lanka]]
+* [[Royaume-Uni]] dépendances
+* [[France]] dépendances
+* [[Norvège]] dépendances
+}}
+
+
+États de l'océan Indien au sens strict, mer Rouge et golfe Persique non inclus : 
+{| class="wikitable sortable"
+! scope="col"|Pays
+! scope="col"|Plus grande ville côtière
+! scope="col"|Population nationale
+! scope="col"|Langues parlées sur la côte
+|-
+|{{Iran}}
+|[[Tchabahar]]
+|{{formatnum:84923314}}
+|[[Persan|farsi]], [[baloutchi]]
+|-
+|{{Pakistan}}
+|[[Karachi]]
+|{{formatnum:211800000}}
+|[[ourdou]], [[baloutchi]], [[sindhi]]
+|-
+|{{Inde}}
+|[[Bombay]]
+|{{formatnum:1326093247}}
+|[[kutchi]], [[goudjrati]], [[Marathi (langue)|marathe]], [[konkani]], [[Kannada|canarais]], 
+[[toulou]], [[malayalam]], [[tamoul]], [[télougou]], [[oriya]], [[bengali]]
+|-
+|{{Sri Lanka}}
+|[[Colombo]]
+|{{formatnum:23044123}}
+|[[singhalais]], [[tamoul]]
+|-
+|{{Bangladesh}}
+|[[Chittagong]]
+|{{formatnum:162650853}}
+|[[bengali]]
+|-
+|{{Birmanie}}
+|[[Rangoun]]
+|{{formatnum:56590071}}
+|[[birman (langue)|birman]], [[Môn (langue)|môn]]
+|-
+|{{Thaïlande}}
+|[[Bangkok]]
+|{{formatnum:68977400}}
+|[[thaï]], [[Malais (langue)|malais]]
+|-
+|{{Indonésie}}
+|[[Denpasar]]
+|{{formatnum:270203917}}
+|[[indonésien]], [[javanais]], [[soundanais]], 
+[[Minangkabau (langue)|minangkabau]], [[Langues batak|batak]], [[Balinais (langue)|balinais]], [[Sasak (langue)|sasak]], [[Aceh (langue)|aceh]] 
+|-
+|{{Australie}}
+|[[Perth (Australie-Occidentale)|Perth]]
+|{{formatnum:25671900}}
+|[[anglais]]
+|-
+|{{Afrique du Sud}}
+|[[Durban]]
+|{{formatnum:56978635}}
+|[[afrikaans]], [[zoulou]], [[Xhosa (langue)|xhosa]]
+|-
+|{{Mozambique}}
+|[[Maputo]]
+|{{formatnum:27233789}}
+|[[portugais]], [[swahili]], [[Makua (langue)|makua]], [[portugais]]
+|-
+|{{Tanzanie}}
+|[[Dar es Salam]]
+|{{formatnum:62092761}}
+|[[swahili]] & [[anglais]], [[Makondé (langue)|makondé]]
+|-
+|{{Kenya}}
+|[[Mombasa]]
+|{{formatnum:47564296}}
+|[[swahili]] & [[anglais]]
+|-
+|{{Somalie}}
+|[[Mogadiscio]]
+|{{formatnum:11259029}}
+|[[somali]] et [[arabe]]
+|-
+|{{Djibouti}}
+|[[Djibouti]]
+|{{formatnum:921804}}
+|[[français]], [[arabe]], [[afar (langue)|afar]]
+|-
+|{{Yémen}}
+|[[Aden]]
+|{{formatnum:28498683}}
+|[[arabe]], [[Mehri (langue)|mehri]], [[soqotri]], [[hobyot]]
+|-
+|{{Oman}}
+|[[Salalah]]
+|{{formatnum:4664844}}
+|[[arabe]], [[Mehri (langue)|mehri]], [[shehri]], [[bathari]]
+|-
+|{{Madagascar}}
+|[[Toamasina]]
+|{{formatnum:26955737}}
+|[[malagasy]] & [[français]]
+|-
+|{{Comores}}
+|[[Moroni (Comores)|Moroni]]
+|{{formatnum:1071229}}
+|[[comorien]], [[arabe]] & [[français]]
+|-
+|{{France}} ([[Mayotte]] + [[la Réunion]])
+|[[Mamoudzou]]/[[Saint-Denis de la Réunion]]
+|{{formatnum:1135461}}
+|[[français]] (dont [[créole réunionnais]]), [[swahili]]
+|-
+|{{Maurice}}
+|[[Port-Louis (Maurice)|Port-Louis]]
+|{{formatnum:1379365}}
+|[[créole mauricien]], [[anglais]], [[français]], [[bhojpuri]]
+|-
+|{{Maldives}}
+|[[Malé]]
+|{{formatnum:391904}}
+|[[divehi]]
+|-
+|{{Seychelles}}
+|[[Victoria (Seychelles)|Victoria]]
+|{{formatnum:95981}}
+|[[créole seychellois]], [[anglais]] et [[français]]
+|-
+|{{Timor oriental}}
+|[[Dili]]
+|1 321 929
+|[[portugais]] & [[tétoum]]
+|}
+
+== Histoire ==
+
+* {{-s|II|e}} : le [[Grecs|Grec]] [[Eudoxe de Cyzique]] voyage en [[Inde]] par la voie maritime. Le géographe [[Claude Ptolémée |Ptolémée]], à la même époque, le désigne sous le nom d’''Indikon Pelagos'' (« mer Indienne »), puis plus tard [[Pline l'Ancien]] le nomme lui-même : ''Oceanus Indicus'' (océan Indien).
+* {{Ier s}}-{{IVe siècle}} : arrivée en provenance d’[[Indonésie]] des premiers [[Austronésiens]] dans la région, notamment à [[Madagascar]]. Contacts avec l’[[Afrique]] orientale où des plantes cultigènes asiatiques ([[banane]], [[taro (plante)|taro]], [[igname]], etc.) sont introduites.
+* {{VIIe siècle}} : épanouissement du [[bouddhisme]] à [[Sumatra]] et [[Java (île)|Java]]. Voyages de plusieurs moines bouddhistes [[Chinois (groupe ethnique)|chinois]], dont [[Yi Jing (moine)|Yi Jing]], en Inde en passant par la voie maritime.
+* [[860]] : une inscription de [[Histoire de Java|Java]] mentionne, dans une liste de domestiques, le nom de ''Jenggi'', c’est-à-dire « Zengi », nom [[arabe]] des habitants de la côte est de l’Afrique.
+* [[945]]-[[946]] : le livre arabe ''Les Merveilles de l’Inde'' rapporte l’arrivée sur la côte du [[Mozambique]] d’« un millier d’embarcations » montées par des ''[[Waq-Waq]]'' qui viennent d’îles « situées en face de la Chine » (c’est-à-dire l’actuelle [[Indonésie]]) chercher des produits et des esclaves.
+* {{XIe siècle}} : la dynastie [[Chola]] dans l’[[Inde]] du Sud conquiert [[Ceylan]] et lance des expéditions contre le royaume de [[Sriwijaya]] dans l’île indonésienne de [[Sumatra]].
+* {{XIIIe siècle}} : arrivée de Persans [[chiraz]]iens aux [[Archipel des Comores|Comores]].
+* [[1295]] : [[Marco Polo]] rentre de Chine par la voie maritime.
+* {{XIVe siècle}} : 
+** le [[Maroc|Marocain]] [[Ibn Battuta]], ambassadeur du sultanat de [[Delhi]] en [[Chine]], visite Sumatra ;
+** le Chinois [[Wang Dayuan]] effectue plusieurs voyages entre [[1328]] et [[1339]] qui le mèneront en [[Arabie]] (puis en [[Égypte]] et au [[Maroc]]) et en Afrique orientale (jusqu'à l'actuelle [[Tanzanie]])<ref>[[William Woodville Rockhill]], Toung Pao (1915) [http://www.geocities.com/derideauxp/wang_dayuan.html Wang Dayuan (1328-1339) Daoyi Zhilue (Island Savages)].</ref>.
+[[Fichier:1658 Jansson Map of the Indian Ocean (Erythrean Sea) in Antiquity - Geographicus - ErythraeanSea-jansson-1658.jpg|thumb|upright=1.2|Carte de l'océan Indien datant du {{s-|XVII|e}}.]]
+* [[1400]] : fondation de [[Sultanat de Malacca|Malacca]] dans la [[péninsule Malaise]] par un prince de Sumatra.
+* [[1421]]-[[1422]] : {{6e|voyage}} du chinois [[Zheng He]] atteignant l'Afrique orientale.
+* [[1488]] : [[Bartolomeu Dias]] dépasse le [[cap de Bonne-Espérance]].
+* [[1497]] : [[Vasco de Gama]] va jusqu’en [[Inde]]. En chemin, il découvre l'archipel des [[Seychelles]].
+* [[1500]] : première arrivée d’[[Européens]] à [[Madagascar]] ([[Diogo Dias]]).
+* {{Date|9|février|1507}} : découverte de [[La Réunion]] par le Portugais Diogo Dias.
+* [[1510]] : prise de [[Histoire de Goa|Goa]] en Inde par les Portugais sous le commandement d’[[Afonso de Albuquerque]].
+* [[1511]] : conquête de Malacca par Albuquerque.
+* [[1770]] : l’[[Anglais (peuple)|Anglais]] [[James Cook]] arrive en [[Australie]].
+* [[1772]] : découverte des [[îles Kerguelen]] par [[Yves Joseph de Kerguelen de Trémarec]].
+* [[1820]] : découverte du continent [[antarctique]].
+* [[1869]] : ouverture du [[canal de Suez]].
+* [[1883]] :
+** [[Éruption du Krakatoa en 1883|explosion du Krakatoa et tsunami du 27 août 1883]].
+** [[Tremblement de terre du 26 décembre 2004|tsunami du 26 décembre 2004]]
+* [[2014]] : recherche d'un [[Boeing 777#777-200ER|Boeing 777]] de la [[Malaysia Airlines]] sur le vol [[MH370]] disparu depuis le [[8 mars]], potentiellement situé près de l'Australie.
+* [[2015]] : recherche des débris du [[Boeing 777#777-200ER|Boeing 777]] de la Malaysia Airlines sur le vol [[MH370]] au niveau de l'île de la Réunion suite découverte d'une pièce de l'avion.
+
+== Géopolitique ==
+
+L'atoll de [[Diego Garcia]] en plein cœur de l'océan Indien est une [[Possession (droit)|possession]] [[Royaume-Uni|britannique]] louée aux [[États-Unis]] en tant que base militaire. En raison de sa position stratégique, elle permet à ces derniers d'avoir une surveillance active et une possibilité d'intervention rapide vers les zones à risque en [[Afrique]] ([[Somalie]]), au [[Moyen-Orient]] ou en [[Asie]] ([[Indonésie]]).
+
+== Environnement ==
+=== Faune et Flore ===
+{{...|à faire=}}
+
+=== Problèmes environnementaux ===
+Des débris plastiques de provenance mondiale polluent l'ensemble des océans ; concernant l'océan Indien, ils proviennent notamment d'Asie. Chaque année, {{unité|600000|tonnes}} de déchets plastiques sont déversés dans l'océan<ref>{{Lien web|titre=Environnement: l'Inde submergée par la pollution des déchets plastiques|url=http://www.rfi.fr/asie-pacifique/20180605-inde-submergee-pollution-dechets-plastiques|site=rfi.fr|éditeur=[[Radio France internationale]]|date=2018-06-05|consulté le=2019-04-26}}.</ref>. Bien que relativement sporadique, un [[Vortex de déchets#Océan Indien|vortex de déchets]] est présent dans l'océan Indien.
+
+Le [[réchauffement climatique]], par l'élévation progressive du niveau des océans qu'il induit, menace directement les petits états insulaires « au ras de l'eau » comme les [[Maldives]], membre de {{Langue|en|''[[Alliance of Small Island States]]''}}.
+
+=== Protection de l'environnement ===
+Il existe des réglementations nationale et internationale, ainsi que différents classements de certaines zones telles que des aires marines protégées, des réserves de biosphère, des parcs naturels marins...
+
+== Notes et références ==
+{{Références | références=
+
+<ref name="Nomenclature-espaces-maritimes-2004">{{harvsp|SHOM, OHI, IGN et al.|2004|id=Nomenclature-espaces-maritimes-2004|p=9}}.
+</ref>
+
+}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:Indian Ocean}}
+{{catégorie principale}}
+=== Bibliographie ===
+* {{Ouvrage|langue=en|prénom1=Shanti|nom1=Moorthy|directeur1=oui|prénom2=Ashraf|nom2=Jamal|directeur2=oui|titre=Indian Ocean studies|sous-titre=cultural, social, and political perspectives|lieu=New York|éditeur=[[Routledge]]|année=2010|pages totales={{XVII}}-435|isbn=978-0-415-80390-8|isbn2=978-0-203-86743-3|oclc=373474618}}.
+* {{Ouvrage|prénom1=Christian|nom1=Bouchard|titre=L'espace indianocéanique, un système géopolitique en recomposition|lieu=Québec|éditeur=Université Laval|nature ouvrage=thèse de doctorat|année=2000|mois=10|pages totales=329|isbn=0-612-57957-3|oclc=654214187|lire en ligne=http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ57957.pdf|format électronique=pdf|consulté le=2020-03-29}}.
+* {{Ouvrage|prénom1=Bernard|nom1=Chérubini|titre=Le territoire littoral|sous-titre=tourisme, pêche et environnement dans l'océan Indien|lieu=Paris|éditeur=[[Éditions L'Harmattan|L'Harmattan]]|année=2005|mois=01|pages totales=292|isbn=978-2-7475-7678-9}}.
+* {{Article|prénom=Jean-Michel|nom=Jauze|titre=Espaces, sociétés et environnements de l'océan Indien|éditeur=Université de la Réunion|lieu=Saint-Denis|pages totales=266|périodique=Travaux et documents|numéro=20|mois=12|année=2003}}.
+* {{Ouvrage|prénom1=Fabienne|nom1=Pavia|photographe=Matthieu Prier|titre=L'océan indien en 1000 photos|sous-titre=Madagascar, La Réunion, Maurice, les Seychelles, Mayotte|lieu=Paris|éditeur=[[Éditions Solar|Solar]]|année=1996|pages totales=123|isbn=978-2-263-02472-6}}.
+
+=== Articles connexes ===
+* [[Océan]], [[Bassin Indo-Pacifique]], [[Liste des îles de l'océan Indien]]
+* {{Lien|langue=en|trad=Indian Ocean trade|fr=Commerce ancien dans l'Océan Indien}}, {{Lien|langue=en|trad=Indian maritime history|fr=Histoire maritime de l'Inde}}
+* [[Commerce interrégional par caravanes en Afrique de l'Est]]
+* [[Route des Indes]] (Vasco de Gama), [[Compagnie des Indes]]
+* [[Piraterie dans l'océan Indien]]
+* ''[[Périple de la mer Érythrée]]''
+* [[Sultanat Ajuran]] ({{13e}}-{{17e|siècles}}), [[Sultanat de Kilwa]] (~950 - ~1840), [[Culture swahilie]]
+* [[Oman]], sultanat de [[Mascate et Oman]] (1856), [[Zanzibar (sultanat)|Sultanat de Zanzibar]] (1861-)
+* [[Expéditions navales ottomanes dans l'océan Indien]] (1509-1589), [[Raids ottomans sur la côte swahilie]] (1585-1589)
+* [[Esclavage en Afrique]], [[Esclavage dans la Corne de l'Afrique]], [[Traite négrière dans le sud-ouest de l'océan Indien]]
+* [[Traite orientale]], [[Rébellion des Zanj]] (869-883)
+* [[Esclavage à Madagascar]], [[Esclavage aux Comores]], [[Esclavage à Bourbon]], [[:catégorie:Esclavage à Maurice|Esclavage à Maurice]]
+* [[Liste_de_civilisations_de_l%27Afrique_précoloniale#Afrique_de_l'Est|Cultures de l'Afrique de l'Est pré-coloniale]]
+* [[Littérature de l'océan Indien]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://www.ifremer.fr/francais/ocean/ocean_chiffres.htm Les océans en chiffres], Ifremer.
+
+{{Palette|Océans|Mers|Régions du monde}}
+{{Portail|océan Indien|maritime|géographie}}
+
+[[Catégorie:Océan Indien| ]]
+[[Catégorie:Système hydrologique de l'océan Indien]]

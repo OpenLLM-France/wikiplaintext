@@ -1,0 +1,818 @@
+{{voir homonymes|Eure|Loir}}
+{{Infobox Département de France
+ | nom              = Eure-et-Loir
+ | logo             = Eure-et-Loir logo 2019.svg
+ | imageloc         = Eure-et-Loir-Position.svg
+ | région           = [[Centre-Val de Loire]]
+ | insee            = 28
+ | Date de création = {{date|4|mars|1790|âge=ouu}}
+ | Préfecture       = [[Chartres]]
+ | Sous-préfectures = [[Châteaudun]]<br>[[Dreux]]<br>[[Nogent-le-Rotrou]]
+ | population       = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop        = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | superficie       = 5880
+ | arr              = [[Liste des arrondissements d'Eure-et-Loir|4]]
+ | circonscription  = [[Liste des circonscriptions législatives d'Eure-et-Loir|4]]
+ | canton           = [[Liste des cantons d'Eure-et-Loir|15]]
+ | intercommun      = [[Liste des intercommunalités d'Eure-et-Loir|10]]
+ | comm             = [[Liste des communes d'Eure-et-Loir|365]]
+ | président        = [[Christophe Le Dorven]] ([[Les Républicains|LR]])
+ | préfet           = Hervé Jonathan<ref>{{Lien web |prénom1=Simon|nom1=Dechet|titre=Hervé Jonathan est nommé préfet d’Eure-et-Loir et succède à Françoise Souliman |url=https://www.lechorepublicain.fr/chartres-28000/actualites/herve-jonathan-est-nomme-prefet-deure-et-loir-et-succede-a-francoise-souliman_14343287/ |site=lechorepublicain.fr |date=13 juillet 2023|consulté le=19 septembre 2023}}.</ref>
+ | préfète          = 
+ | latitude         = 48/20/N
+ | longitude        = 01/25/E
+ | gentilé          = Eurélien
+ | site web         = [https://www.eurelien.fr eurelien.fr]
+}}
+
+Le département d''''Eure-et-Loir''' ({{MSAPI|/œʁ‿e.lwaʁ/}}<ref group=Note>Prononciation en [[français de France]] [[français standard|standardisé]] retranscrite phonémiquement selon la norme [[Alphabet phonétique international|API]].</ref>) est un [[département français]] dont la préfecture, [[Chartres]], est située à {{unité|90|km}} à l'ouest-sud-ouest de [[Paris]]. Les villes de [[Dreux]], [[Châteaudun]] et [[Nogent-le-Rotrou]] en sont les sous-préfectures. Il fait partie de la [[Région française|région]] [[Centre-Val de Loire]].
+
+Son nom provient des deux principales rivières qui le traversent, l'[[Eure (rivière)|Eure]], affluent de la [[Seine]], et le [[Loir (rivière)|Loir]], affluent de la [[Sarthe (rivière)|Sarthe]]<ref group="Note">Le nom du département est quelquefois écrit ''Eure-et-Loir'''e''''', ce qui est une faute d'orthographe causée par une méconnaissance de la géographie : il ne faut pas confondre le [[Loir (rivière)|Loir]], [[rivière]] affluent de la [[Sarthe (rivière)|Sarthe]], et la [[Loire (fleuve)|Loire]], le grand [[fleuve]] bien connu, qui ne passe nullement en Eure-et-Loir, mais à une cinquantaine de kilomètres au sud.</ref>. L'[[Institut national de la statistique et des études économiques|Insee]] et [[La Poste (entreprise française)|la Poste]] lui attribuent le code 28.
+
+{{Sommaire|niveau=2}}
+
+== Géographie ==
+[[Fichier:CarteRoute28.svg|vignette|gauche|Carte d'Eure-et-Loir.]]
+{{article détaillé|Géographie d'Eure-et-Loir}}
+
+Le département d'Eure-et-Loir s’étend à l'ouest-sud-ouest de l’[[Unité urbaine de Paris|agglomération parisienne]] et comprend plusieurs plateaux : le [[Thymerais]] au nord-ouest, le [[Drouais]] au nord, et la [[Beauce (France)|Beauce]] qui s’étend sur l'est, et dont fait partie le [[Dunois (Orléanais)|Dunois]] au sud. Dans l’ouest du département, le relief s’élève et forme les collines du [[Perche (région naturelle)|Perche]], attenantes à la fois à la [[Normandie (région administrative)|Normandie]] et aux [[Pays de la Loire]]. Le Faux Perche marque la transition entre la [[Beauce (France)|Beauce]] et le [[Perche (région naturelle)|Perche]]. Le département a par ailleurs bénéficié de la création du [[parc naturel régional du Perche]].
+
+Les principales rivières du département alimentent deux [[bassin versant|bassins versants]], celui de la [[Seine]] au nord avec son affluent l'[[Eure (rivière)|Eure]] et ses sous-affluents [[Avre (affluent de l'Eure)|Avre]] et la [[Blaise (affluent de l'Eure)|Blaise]], et celui de la [[Loire]] au sud avec son affluent le [[Loir (rivière)|Loir]] et ses sous-affluents [[Ozanne (rivière)|Ozanne]], [[Conie]] et [[Yerre]].
+
+La forêt, avec près {{unité|75000 hectares}} (appartenant à 80 % au domaine privé et {{formatnum:10000}} de forêts domaniales<ref>{{Lien web |auteur institutionnel=Conseil général d'Eure-et-Loir |titre=Profitons de nos forêts |url=http://nozideo.eurelien.fr/loisirs-nature/profitons-de-nos-forets |site=Nozidéo}}.</ref>) est également présente, notamment dans le Nord-Ouest du département. Les forêts de [[Forêt de Senonches|Senonches]] ({{unité|4300 ha}}) [[Forêt de Dreux|Dreux]] ({{unité|3300 ha}}), [[Forêt de Châteauneuf-en-Thymerais|Châteauneuf]] ({{unité|1750 ha}}) et de Montécot ({{unité|635 ha}}) abritent les massifs les plus importants. La vallée de l'[[Eure (rivière)|Eure]] constitue également une trame verte et boisée qui contraste avec le plateau beauceron attenant.
+
+L'Eure-et-Loir est limitrophe des départements de [[Loir-et-Cher]] et du [[Loiret (département)|Loiret]], qui font également partie de la région [[Centre-Val de Loire]]. Il jouxte la région [[Île-de-France]] avec les départements de l'[[Essonne (département)|Essonne]] et des [[Yvelines]], la région [[Normandie (région administrative)|Normandie]] avec les départements de l'[[Eure (département)|Eure]] et de l'[[Orne (département)|Orne]] et enfin la région des [[Pays de la Loire]] avec le département de la [[Sarthe (département)|Sarthe]].
+
+<gallery mode="packed" caption="Paysages d'Eure-et-Loir">
+Maintenon - Aqueduc 01.jpg|L'[[aqueduc de Maintenon]], dans le Nord-Est.
+Eau lac 21.jpg|[[Margon (Eure-et-Loir)|Margon]], dans l'Ouest.
+Vue générale Lamblore Eure-et-Loir France.jpg|[[Lamblore]], dans le Nord-Ouest.
+Beauce 3.jpg|La [[Beauce (France)|Beauce]] entre [[Dreux]] et [[Chartres]], dans le Nord-Est.
+</gallery>
+
+=== Géologie et relief ===
+{{section à sourcer|date=juin 2017}}
+Schématiquement, quatre « régions » partagent le [[département français|département]] : le [[Perche (région naturelle)|Perche]], au sud-ouest ; le « Faux Perche », à sa marge ; à l'est et au sud, la [[Beauce (France)|Beauce]], avec la « Beauce chartraine » autour de [[Chartres]] ; et au nord-ouest, on trouve le Drouais-Thymerais (autour de [[Dreux]] et de [[Châteauneuf-en-Thymerais]]). Le [[relief (géomorphologie)|relief]] et la disposition des [[cours d'eau]] dans le Perche et en Beauce peuvent se déduire à partir d’une [[Carte topographique|carte]].
+
+==== La répartition des cours d'eau ====
+La répartition des cours d'eau est différente : il y en a plus au sud-ouest, dans le Perche, qu'en Beauce. S'il y a une petite différence de la [[pluviométrie]], elle ne peut expliquer à elle seule cette disposition. Quoi qu'il en soit, on constate donc, que dans le Perche l'eau ruisselle en surface, et qu'en Beauce ce n'est pas le cas. Elle s'infiltre : cela est dû à une différence [[Géologie|géologique]] au niveau des roches du sous-sol. Le sous-sol du Perche est plutôt fait de [[sable]] et de [[grès (géologie)|grès]], avec de l'[[argile]] à [[silex]], et le sous-sol de Beauce est, lui, plutôt constitué de [[calcaire]]<ref>{{Lien web|titre=Visualiseur InfoTerre|url=http://infoterre.brgm.fr/viewerlite/MainTileForward.do|site=infoterre.brgm.fr|consulté le=2017-10-15}}.</ref>.
+
+==== Le sous-sol du Perche ====
+Concernant la géologie du Perche, la structure actuelle serait en lien avec la formation des [[Alpes]]. Lors de cet événement, les [[Roche sédimentaire|roches sédimentaires]] se sont plissées et cela a formé un bourrelet ([[anticlinal]]) dans la région du Perche. En effet, comme les roches du [[Massif armoricain]] sont « rigides » (il s'agit surtout de [[granite]]), elles se sont comportées comme un « mur » contre lequel se sont bloquées les roches sédimentaires du [[Bassin parisien]], donc du Perche. Le Perche se retrouve donc plus haut que la Beauce. D’autre part, les anciennes [[faille]]s [[Orogenèse varisque|hercyniennes]] (ici du Massif armoricain) ont rejoué et permis l’affaissement du sommet du bourrelet. Ainsi, actuellement, la zone centrale est de l’argile à silex, et autour on trouve du sable ou du grès. La présence d'argile, de grès ou de sable permet somme toute à l'eau de ruisseler et de se rassembler en cours d’eau. La pluviosité est relativement importante ({{unité|700 mm}}).
+
+==== Le sous-sol de la Beauce ====
+Dans le calcaire de Beauce, on trouve des [[fossile]]s, notamment, des [[Planorbidae|planorbes]] et des [[Lymnaea|limnées]] (des [[espèce]]s d’eau douce – qui existent toujours -) : il y avait donc un lac en Beauce, c’est lui qui a permis la formation de ce calcaire. On trouve aussi de l’argile à silex, par décalcification du calcaire (qui n’était donc pas pur). Le calcaire s’est dissous, l’argile et les morceaux de silex sont restés. Ainsi, en Beauce, le calcaire se dissout facilement et permet à l’eau de ruissellement de s’infiltrer et il n'y a pas (ou peu) de rivières. De plus, la pluviosité est relativement faible ({{unité|500 mm}}).
+
+==== Le relief ====
+Le [[Relief (géomorphologie)|relief]] est différent au sud-ouest, et au nord et nord-est : vallonné dans le sud-ouest, relativement plat au nord et au nord-est. D'une part, l'[[érosion]] (l'eau) a creusé des [[vallée]]s dans le Sud-Ouest, donc des reliefs. Dans le Nord et le Nord-Est, l'eau a « ramolli » la roche et a donc permis que la surface soit plate : c'est du calcaire plus ou moins argileux (en fait, le calcaire est naturellement dissous par l'eau de ruissellement qui est enrichie par du [[dioxyde de carbone]] rejeté par les êtres vivants du sol, et à la fin, cela peut former des « trous » ou des « fissures », appelées [[diaclase]]s). Ainsi, l'eau s'infiltre relativement rapidement en profondeur (sans vraiment ruisseler) pour rejoindre la [[nappe phréatique]] retenue par les couches plus profondes et [[imperméable]]s<ref>{{Lien web|auteur institutionnel=[[Géoportail (France)|Géoportail]]|titre=Géoportail|url=https://www.geoportail.gouv.fr/carte|site=geoportail.gouv.fr|consulté le=2017-10-15}}.</ref>.
+
+==== L'habitat en lien avec la géologie ====
+Les constructions anciennes montrent en général le contenu du sous-sol : en Beauce, les anciennes maisons sont en calcaire, dans le Perche, elles sont en [[torchis]], en [[Conglomérat (géologie)|conglomérat]] appelé « grison » (morceaux de silex cimentés par du calcaire et de l'argile), en [[brique (matériau)|brique]] et en grès « roussard » (il est de couleur rousse, car assez riche en [[fer]] oxydé : la [[Rouille (oxyde)|rouille]]).
+
+Ces constructions sont aussi en lien avec l'activité agricole.
+
+===== Dans le Perche =====
+Les [[Ferme (agriculture)|fermes]] sont allongées (maison d’habitation que l’on agrandit avec le temps, lorsque les besoins s'en font sentir ou lorsqu'il y a suffisamment d'argent…) : on les appelle « [[longère]] » ; les champs sont délimités par des [[haies]]. Les animaux sont « parqués » par ces haies<ref group="Note">Certaines habitations construites un peu plus tard sont fermées, comme celles construites en Beauce et présentées ci-dessous.</ref>.
+
+===== En Beauce =====
+Les cours des fermes sont fermées, mais les [[Champ (agriculture)|champs]] sont ouverts (''[[openfield]]''). Cela permet de maintenir les animaux d’[[élevage]] dans la cour.
+
+==== L'évolution du paysage ====
+Il y a eu une diminution du nombre de [[parcelle]]s (donc une modification du paysage), en Beauce et dans le Perche à la suite du [[remembrement]] entre le {{s-|XIX}} et [[1980]], pour accroître la surface et permettre l’utilisation du matériel agricole.
+
+=== Climat ===
+Le département présente un contraste climatique entre sa partie ouest et sud-ouest, humide et [[bocage|bocagère]] (qui fait partie du Perche) et sa partie sud et est, beauceronne, qui fait partie des régions les moins arrosées de France, avec le Haut-Languedoc.
+
+<!-- DÉBUT DU TABLEAU DES DONNÉES MÉTÉO -->
+{{Climat
+|titre=Relevé observé de 1971 à 2000, à la station météorologique de Chartres (28)
+|source=[http://www.meteo-centre.fr/norme-chartres.php Météo-Centre.fr]
+
+<!-- PARTIE A : TEMPÉRATURES MOYENNES, ENSOLEILLEMENT ET HUMIDITÉ -->
+<!--température minimale moyenne (en°C)-->
+|tmin-jan=1.0
+|tmin-fev=1.1
+|tmin-mar=3.0
+|tmin-avr=4.4
+|tmin-mai=8.0
+|tmin-jui=10.8
+|tmin-jul=12.8
+|tmin-aou=12.7
+|tmin-sep=10.2
+|tmin-oct=7.2
+|tmin-nov=3.9
+|tmin-dec=2.0
+|tmin-ann=6.4
+
+<!--température moyenne (en°C)-->
+|tmoy-jan=3.6
+|tmoy-fev=4.3
+|tmoy-mar=7.0
+|tmoy-avr=9.1
+|tmoy-mai=13.0
+|tmoy-jui=15.9
+|tmoy-jul=18.4
+|tmoy-aou=18.5
+|tmoy-sep=15.4
+|tmoy-oct=11.3
+|tmoy-nov=6.9
+|tmoy-dec=4.5
+|tmoy-ann=10.6
+
+<!--température maximale moyenne (en°C)-->
+|tmax-jan=6.1
+|tmax-fev=7.4
+|tmax-mar=11.0
+|tmax-avr=13.8
+|tmax-mai=17.9
+|tmax-jui=20.9
+|tmax-jul=24.0
+|tmax-aou=24.3
+|tmax-sep=20.5
+|tmax-oct=15.4
+|tmax-nov=9.8
+|tmax-dec=6.9
+|tmax-ann=14.8
+
+<!--ensoleillement moyen (en h) -->
+|soleil-jan=65
+|soleil-fev=81
+|soleil-mar=130
+|soleil-avr=156
+|soleil-mai=206
+|soleil-jui=205
+|soleil-jul=222
+|soleil-aou=234
+|soleil-sep=166
+|soleil-oct=113
+|soleil-nov=71
+|soleil-dec=47
+|soleil-ann=1696
+
+<!-- PARTIE B : PRÉCIPITATIONS -->
+<!--précipitations mensuelles (en mm) -->
+|prec-jan=48.0
+|prec-fev=44.0
+|prec-mar=43.0
+|prec-avr=47.0
+|prec-mai=58.0
+|prec-jui=49.0
+|prec-jul=57.0
+|prec-aou=38.0
+|prec-sep=54.0
+|prec-oct=56.0
+|prec-nov=49.0
+|prec-dec=55.0
+|prec-ann=598.0
+}}
+<!-- FIN DE TABLEAU DE DONNÉES MÉTÉO -->
+{{article détaillé|Climat d'Eure-et-Loir}}
+
+=== Transports ===
+{{article détaillé|Transports en Eure-et-Loir}}
+
+== Histoire ==
+{{article détaillé|Histoire d'Eure-et-Loir}}
+[[Fichier:Eure-et-Loir et provinces.svg|vignette|L'Eure-et-Loir et les provinces qui occupaient son territoire avant 1790 : l'[[Orléanais]], le [[Perche (province)|Perche]] et l'[[Île-de-France]].]]
+[[Fichier:Carte du département de l'Eure-et-Loir - 1790-1793.tif|vignette|Carte de l'Eure-et-Loir (1790).]]
+Le département est créé à la [[Révolution française]], le {{Date|4|mars|1790}} en application de la loi du {{Date|22|décembre|1789}}, à partir, principalement, de parties des anciennes [[Territoires du royaume de France|provinces]] de l'[[Orléanais]] ([[Beauce (France)|Beauce]]) et du [[Perche (province)|Perche]] (partie Est), mais aussi de l'[[Île-de-France]] ([[Drouais]], [[Thymerais]], Vallée de l'[[Avre (affluent de l'Eure)|Avre]], [[Hurepoix]])<ref group="Note">Il est à noter que le blason, non officiel, du département d'Eure-et-Loir a été créé à partir de ceux du [[Perche (province)|comté du Perche]] (partie occidentale du département) et de l'[[Orléanais]].</ref>.
+
+Au [[Moyen Âge]], le territoire actuel du département est dominé par la ville de [[Chartres]]. La ville se développe grâce à la culture des riches terres de [[Beauce (France)|Beauce]] (marché au blé) et à sa vocation religieuse due notamment à la présence de la [[relique]] du Voile de la [[Marie (mère de Jésus)|Vierge]] (don de [[Charles II le Chauve]] en 876). Sur l'impulsion de [[Fulbert de Chartres]], elle sera le berceau d'une [[Renaissance du XIIe siècle|renaissance]] intellectuelle avec la fondation de l'[[École de Chartres]]. Au nord, [[Dreux]], la vallée de l'Avre et le Thymerais, de même que le comté du Perche à l'ouest, constituent des postes avancés des [[Liste des monarques de France|rois de France]] face aux [[Duché de Normandie|ducs de Normandie]]. Les terres d'Eure-et-Loir, par leur intérêt stratégique, sont donc très tôt ancrées dans la mouvance [[Capétiens|capétienne]] et progressivement rattachées aux anciennes provinces de l'[[Orléanais]] et de l'Île-de-France.
+
+Durant la [[guerre de Cent Ans]], le territoire du département est au centre de plusieurs conflits (dont la [[Journée des Harengs]] à [[Rouvray-Saint-Denis]]), en raison de sa proximité avec Paris et Orléans. Le [[traité de Brétigny]], qui met fin provisoirement à la guerre, y sera signé près de Chartres.
+
+À la [[Renaissance]], l'Eure-et-Loir devient également une région prisée par les rois [[François Ier (roi de France)|François {{Ier}}]] et [[Henri II (roi de France)|Henri II]] avec la présence du château d'[[Anet (Eure-et-Loir)|Anet]], appartenant à une grande dame de la cour : [[Diane de Poitiers]].
+
+Le département est également marqué par la présence de [[Madame de Maintenon]], [[Madame de Pompadour]] ([[Crécy-Couvé]]), [[Maximilien de Béthune (duc de Sully)|Maximilien de Béthune]], duc de Sully, décédé en son château de [[Villebon (Eure-et-Loir)|Villebon]] et inhumé à [[Nogent-le-Rotrou]].
+
+[[Fichier:1852 Levasseur Map of the Department D'Eure Et Loir, France (Loire Wine Region) - Geographicus - EureEtLoir-levasseur-1852.jpg|vignette|Carte du département d'Eure-et-Loir (1852).]]
+À la [[Révolution française|Révolution]], il est dans un premier temps envisagé de créer un département beauceron. La Beauce a en effet l'avantage de n'avoir jamais été une province sous l'Ancien Régime. Sa dimension essentiellement géographique et non politique s'inscrivait donc parfaitement dans l'idéologie révolutionnaire. Ce projet est mis en échec principalement par la volonté du roi de ne pas voir dispersées en un nombre trop important de départements ses possessions franciliennes. La création du département dans sa configuration actuelle tient également aux résistances des terres du Thimerais et du Drouais à se voir agrégées à celles de l'ancienne Normandie, et à l'impossibilité de conserver au Perche son unité, en partie pour des raisons politiques (ancien comté), et surtout à cause de l'absence d'une ville suffisamment importante pour se prévaloir du rang de chef-lieu de département. Chartres, avec entre autres le général [[François Séverin Marceau|Marceau]], l'abbé [[Emmanuel-Joseph Sieyès|Sieyès]] ou encore [[Jacques Pierre Brissot|Brissot de Warville]], chef de file des [[Gironde (Révolution française)|Girondins]], donne plusieurs grands hommes à la Révolution.
+
+Au {{s-|XIX}}, le nord du département connaît une forte industrialisation, avec notamment l’imprimerie de [[Firmin Didot]] et les manufactures textiles des [[Richard Waddington|Waddington]]. Chartres conserve essentiellement sa vocation commerciale grâce à son important marché au blé et au commerce de la laine des nombreux élevages de moutons, dont la foire de Châteaudun est aussi un haut lieu. Le Perche qui s'est peu développé, et a connu une notable émigration vers le [[Québec]] les siècles précédents, devient une terre de [[nourrice]]s réputées pour leur qualités maternelles auprès des familles aisées de Paris. Dreux devient également une ville industrielle, en particulier après la crise du [[phylloxéra]] qui met définitivement à bas les vignes normandes. Après le [[coup d'État du 2 décembre 1851]] de [[Napoléon III]], l'Eure-et-Loir fait partie des départements placés en [[État de siège (France)|état de siège]] afin de parer à tout soulèvement massif. Moins d'une centaine d'opposants sont arrêtés<ref name="boudon">{{Ouvrage |langue=fr |prénom1=Jacques-Olivier |nom1=Boudon |lien auteur1=Jacques-Olivier Boudon |titre=Les Bonaparte |sous-titre=regards sur la France impériale |passage=11 (carte de [[Gilles Pécout]])|lieu=Paris |collection=Documentation photographique, dossier 8073 |année=2010 |pages totales=64}}.</ref>. Le département est durement touché par la [[guerre franco-allemande de 1870|guerre de 1870]], avec la [[bataille de Loigny]] et l'incendie de Châteaudun par l'[[armée prussienne]].
+
+Au {{s-|XX}}, le département devient de plus en plus économiquement lié au développement de la région parisienne. Chartres et Dreux profitent pleinement de cette proximité avec l'implantation de plusieurs grandes entreprises (dont les futurs établissements [[Philips]]), pendant que la vallée de l'Eure qui les relie devient un lieu de villégiature avec la construction de nombreuses résidences secondaires. Des [[Base aérienne|bases aériennes]] importantes s'installent à [[Chartres]] de 1909 à 1997 ([[base aérienne 122 Chartres-Champhol]]), ainsi qu'à [[Châteaudun]] de 1936 à 2014 ([[base aérienne 279 Châteaudun]]).
+
+Durant la [[Seconde Guerre mondiale]], le département est marqué par son préfet [[Jean Moulin]] qui y fait son premier acte de Résistance face à l'occupant. La ville de Chartres est partiellement détruite en 1944 par un bombardement qui [[Incendie de la bibliothèque municipale de Chartres en 1944|incendie sa bibliothèque]]. La ville de [[La Loupe]] est quant à elle presque totalement sinistrée. Après-guerre, l'est du département intègre progressivement l'[[aire urbaine de Paris]], les cantons d'[[Canton d'Anet|Anet]], de [[canton de Maintenon|Maintenon]] et de [[canton de Nogent-le-Roi|Nogent-le-Roi]], voire d'[[canton d'Auneau|Auneau]], qui sont dès lors intimement liés à ceux du département des [[Yvelines]] limitrophes.
+
+En politique, le département est la terre d'élection et le berceau de plusieurs grandes figures des [[Troisième République (France)|{{IIIe}}]] et [[Quatrième République (France)|{{IVe}}]] républiques : [[William Waddington]] (ministre de l’Instruction publique en 1873 et 1877), [[Maurice Viollette]] (ministre d'État sous le [[Front populaire (France)|Front populaire]]), [[Paul Deschanel]] ([[président de la République française|président de la République]] en 1920), [[Maurice Bourgès-Maunoury]] (président du Conseil en 1957).
+
+Au tournant des [[années 1980]], Dreux devient une ville politiquement singulière en élisant comme maire en 1977, puis députée en 1981, [[Françoise Gaspard]], l'une des premières femmes politiques ayant assumé publiquement son homosexualité. En 1983, Dreux est le théâtre d'une alliance entre la droite locale et le [[Rassemblement national|Front national]] mené par [[Jean-Pierre Stirbois]], dont la veuve [[Marie-France Stirbois]] est élue députée en 1989.
+
+== Politique et administration ==
+=== Histoire politique du département ===
+{{article détaillé|conseil départemental d'Eure-et-Loir|élections départementales de 2015 en Eure-et-Loir}}
+{{Section à actualiser|commentaire=[[Claude Térouinard]] (LR), président du conseil départemental depuis 2017.|date=janvier 2019}}
+Ce département fut dirigé entre 1907 et 1960 par le [[Parti républicain, radical et radical-socialiste|parti républicain, radical et radical socialiste]] (PRRRS), avec les présidences de [[Gustave Lhopiteau]] (1907-1920) et de [[Maurice Viollette]] (1920-1960) qui furent tous les deux ministres sous la [[Troisième République (France)|{{IIIe}} République]], le second le fut même sous le [[Front populaire (France)|Front populaire]]. Le [[Parti républicain, radical et radical-socialiste|PRRRS]], parti d'idéologie républicaine et laïque, se situait initialement à gauche de l'[[échiquier politique]], mais glissa ensuite vers le centre lorsque se développa le [[socialisme]].
+
+D'ailleurs c'est le [[parti socialiste (France)|parti socialiste]] qui prendra les rênes du Conseil général d'Eure-et-Loir en [[1960 en France|1960]], avec la présidence d'[[Émile Vivier]] qui durera jusqu'en [[1976 en France|1976]]. 1976 est l'année du retour des radicaux à la tête du Conseil général, cependant ils apparaissent sous une forme différente : le [[parti radical de gauche]], parti issu de la scission du [[Parti républicain, radical et radical-socialiste|PRRRS]] en 1972. [[Edmond Desouches]] puis [[Robert Huwart]], occuperont successivement la présidence du Conseil général sous cette étiquette, et ce jusqu'en [[1985 en France|1985]].
+
+Les [[Élections cantonales françaises de 1985|élections cantonales de 1985]] sont marquées par le basculement à droite du Conseil général d'Eure-et-Loir, [[Martial Taugourdeau]] membre du [[Rassemblement pour la république|RPR]] en devient le président, il occupera ce poste jusqu'à son décès en [[2001 en France|2001]]. Après un cours intérim assuré par le [[Sénateur (France)|sénateur]], [[Gérard Cornu (homme politique)|Gérard Cornu]], [[Albéric de Montgolfier]] alors conseiller général du [[canton d'Orgères-en-Beauce]] et membre du [[Rassemblement pour la république|RPR]] (qui deviendra en 2002 l'[[Union pour un mouvement populaire|UMP]], puis [[Les Républicains (parti français)|Les Républicains]] en 2015), devient président du Conseil général en [[Élections cantonales françaises de 2001|2001]]. Il sera continuellement réélu en [[Élections cantonales françaises de 2004|2004]], [[Élections cantonales françaises de 2008|2008]] et [[Élections départementales françaises de 2015|2015]]. Au terme des [[Élections départementales françaises de 2015|élections départementales de 2015]], il bénéficie d'une très large majorité comprenant 28 conseillers généraux sur 30, parmi lesquelles se trouvent 22 élus [[Les Républicains (parti français)|"Les Républicains"]], 3 élus [[Union des démocrates et indépendants|UDI]] et 3 élus [[Divers droite|DVD]].
+
+Le département d'Eure-et-Loir fut également connu pour la forte implantation qu'eut le [[Front national (parti français)|Front National]] à partir des années 1980. Lors d'une élection municipale partielle à Dreux en [[1983 en France|1983]], le [[Rassemblement pour la république|RPR]] et l'[[Union pour la démocratie française|UDF]] s'allient avec le Front National pour faire basculer la mairie qui était à gauche depuis les [[Élections municipales françaises de 1977|élections municipales de 1977]]. Cela amène à l'élection du RPR [[Jean Hieaux]] qui administrera la ville en compagnie du Front National. Le Front National poursuivra sa progression avec l'élection de [[Marie-France Stirbois]] au poste de députée de la [[deuxième circonscription d'Eure-et-Loir]], à l'occasion d'une élection législative partielle en [[1989 en France|1989]]. Enfin Marie-France Stirbois obtiendra un autre mandat en devenant conseillère générale du [[canton de Dreux-Ouest]] entre 1995 et 2001. Cette même année marque la fin de l'implantation du parti dans le département, lorsque Marie-France Stirbois quitte le département pour les [[Alpes-Maritimes]].
+
+=== La situation actuelle ===
+{{Article détaillé|élections municipales de 2020 en Eure-et-Loir|élections municipales de 2014 en Eure-et-Loir}}
+
+==== À droite ====
+Trois des quatre principales villes du département sont dirigées par des maires de droite :
+* [[Chartres]] : [[Jean-Pierre Gorges]], maire (UMP, puis sans étiquette) ;
+* [[Dreux]] : [[Pierre-Frédéric Billet]], maire (LR) ;
+
+D'autres villes de moindre importance sont dirigées par des maires de droite :
+* [[Lèves]] : Rémi Martial, maire-conseiller départemental (LR) ;
+* [[Anet (Eure-et-Loir)|Anet]] : Aliette Le-Bihan, maire (LR) ;
+
+Un député sur quatre, [[Olivier Marleix]], est membre de LR.
+
+Les trois sénateurs d'Eure-et-Loir, [[Albéric de Montgolfier]], [[Chantal Deseyne]] et [[Daniel Guéret]] sont membres de [[Les Républicains]].
+
+{{Référence nécessaire|Le [[Mouvement pour la France]] compte de son côté deux conseillers municipaux à Chartres et plusieurs élus dans des communes rurales.|date=29 mars 2020}}
+
+==== Au centre ====
+{{Section à actualiser|commentaire=le député [[Guillaume Kasbarian]] de [[La République en marche]], élu en juin 2017, n'est pas mentionné.|date=décembre 2018}}
+[[Les Centristes]] sont surtout présents dans le sud du département marqué par l'ancien président de la région Centre-Val de Loire et député, [[Maurice Dousset]], dont l'un des héritiers est [[Philippe Vigier (homme politique)|Philippe Vigier]], député-maire de [[Cloyes-sur-le-Loir]], conseiller régional et président du [[syndicat du Pays Dunois]]. Il compte également quatre conseillers généraux ([[Michel Boisard]], [[Laurent Leclerc]], [[Marc Guerrini]] et [[Dominique Leblond]]) et quatre présidents d'anciennes intercommunalités ([[communauté de communes de la Beauce de Janville]], [[communauté de communes de la Beauce vovéenne]], [[communauté de communes des Trois Rivières (Eure-et-Loir)|communauté de communes des Trois Rivières]], [[communauté de communes de la Beauce alnéloise]]).
+
+Le [[Parti radical (France)|Parti radical]], ancien parti dirigeant le département entre 1885 et 1979, compte encore plusieurs élus municipaux : [[Philippe Masson]], maire de [[Brou]], des conseillers municipaux à [[Châteaudun]] et un maire honoraire à [[Gasville-Oisème]].
+
+Le [[Mouvement démocrate (France)|Mouvement démocrate]] compte un conseiller général, [[Jean-Pierre Gaboriau]], également maire de [[Châteauneuf-en-Thymerais]].
+
+Deux députés sur quatre sont classés au centre [[Guillaume Kasbarian]] de [[La République en marche]] et [[Laure de La Raudière]] du parti [[Agir]]
+
+==== À gauche ====
+* [[Vernouillet (Eure-et-Loir)|Vernouillet]] : Damien STEPHO, maire ;
+* [[Nogent-le-Rotrou]] : [[Harold Huwart]], maire (PRG) ;
+* [[Mainvilliers (Eure-et-Loir)|Mainvilliers]] : Michèle Bonthoux, maire (PS) ;
+
+
+Elle compte 2 conseillers départementaux sur 30 : Xavier Roux et Marie-Pierre Lemaître-Lezin, élus du canton de [[canton de Lucé|Lucé]] sous l'étiquette [[divers gauche]].
+
+La gauche a longtemps détenu (1978-2002) la [[Première circonscription d'Eure-et-Loir|première circonscription]] du département dont [[Georges Lemoine (homme politique)|Georges Lemoine]] était le député. Ancien maire de Chartres et ministre socialiste, il est membre depuis 2008 du [[Parti ouvrier indépendant]] au nom duquel il s'est présenté à l'élection législative partielle de septembre 2008 (14,51 % des suffrages) et aux élections cantonales de 2011 sur le [[canton de Mainvilliers]].
+
+Depuis 2015, elle compte enfin 5 conseillers régionaux sur 12 dont [[Harold Huwart]] ([[Parti radical de gauche|PRG]]), vice-président, Estelle Cochard ([[Europe Écologie Les Verts|EÉLV]]) et trois élus socialistes, Fabien Verdier, Michèle Bonthoux et Valentino Gambuto.
+
+==== Extrême droite ====
+Le [[Rassemblement national (parti français)|Rassemblement national]] (RN) compte un conseiller régional ([[Philippe Loiseau]]), depuis les élections régionales de 2004. Le RN fait partie de l'opposition aux conseils municipaux de [[Dreux]] et [[Chartres]].
+
+==== Sans étiquette ====
+{{Référence nécessaire|Fabien Verdier, [[Liste des maires de Châteaudun|maire de Châteaudun]] est [[Indépendant (politique)|sans étiquette]].|date=31 octobre 2022}}
+
+=== Tendances politiques et résultats ===
+==== Élections présidentielles, résultats des deuxièmes tours ====
+{{Article détaillé|élections présidentielles sous la Cinquième République en Eure-et-Loir}}
+* [[Élection présidentielle française de 2022|Élection présidentielle de 2022]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection présidentielle 2022 |url=https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/024/028/index.html |site=interieur.gouv.fr |consulté le=5 mai 2022}}.</ref> : 53,29 % pour [[Emmanuel Macron]] ([[La République en marche|LaREM]]), 46,71 % pour [[Marine Le Pen]] ([[Rassemblement national|RN]]), 73,81 % de participation.
+* [[Élection présidentielle française de 2017|Élection présidentielle de 2017]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection présidentielle 2017 |url=http://elections.interieur.gouv.fr/presidentielle-2017/024/028/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 60,27 % pour [[Emmanuel Macron]] ([[La République en marche|LaREM]]), 39,73 % pour [[Marine Le Pen]] ([[Rassemblement national|FN]]), 76,38 % de participation.
+* [[Élection présidentielle française de 2012|Élection présidentielle de 2012]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection présidentielle 2012 |url=http://elections.interieur.gouv.fr/PR2012/024/028/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 53,47 % pour [[Nicolas Sarkozy]] ([[Union pour un mouvement populaire|UMP]]), 46,53 % pour [[François Hollande]] ([[Parti socialiste (France)|PS]]), 81,25 % de participation.
+* [[Élection présidentielle française de 2007|Élection présidentielle de 2007]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection présidentielle 2007 |url=http://elections.interieur.gouv.fr/PR2007/024/028/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 58,16 % pour Nicolas Sarkozy (UMP), 41,84 % pour [[Ségolène Royal]] (PS), 87,74 % de participation.
+* [[Élection présidentielle française de 2002|Élection présidentielle de 2002]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection présidentielle 2007 |url=https://www.interieur.gouv.fr/a_votre_service/resultats-elections/PR2002/024/028/2428.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 79,26 % pour [[Jacques Chirac]] ([[Rassemblement pour la République|RPR]]), 20,74 % pour [[Jean-Marie Le Pen]] ([[Front national (parti français)|FN]]), 80,68 % de participation
+
+==== Élections législatives, résultats des deuxièmes tours ====
+===== Élections législatives de 2022 =====
+{{Article détaillé|élections législatives de 2022 en Eure-et-Loir}}
+* [[Première circonscription d'Eure-et-Loir|{{1re|circonscription}}]]
+* [[Deuxième circonscription d'Eure-et-Loir|{{2e|circonscription}}]]
+* [[Troisième circonscription d'Eure-et-Loir|{{3e|circonscription}}]]
+* [[Quatrième circonscription d'Eure-et-Loir|{{4e|circonscription}}]]
+
+===== Élections législatives de 2017 =====
+{{Article détaillé|élections législatives de 2017 en Eure-et-Loir}}
+*[[Première circonscription d'Eure-et-Loir|{{1re|circonscription}}]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{1re|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives-2017/(path)/legislatives-2017/028/02801.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 55,18 % pour [[Guillaume Kasbarian]] (LaREM), 44,82  % pour [[Franck Masselus]] ([[Les Républicains|LR]]), 43,46 % de participation.
+*[[Deuxième circonscription d'Eure-et-Loir|{{2e|circonscription}}]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{2e|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives-2017/(path)/legislatives-2017/028/02802.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref>: 59,38 % pour [[Olivier Marleix]] (LR), 40,62 % pour [[Claire Tassadit Houd]] (LaREM), 40,06 % de participation.
+*[[Troisième circonscription d'Eure-et-Loir|{{3e|circonscription}}]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{3e|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives-2017/(path)/legislatives-2017/028/02803.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 56,10 % pour [[Laure de La Raudière]] (LR), 43,90 % pour [[François Huwart]] ([[Parti radical de gauche|PRG]]), 45,04 % de participation.
+*[[Quatrième circonscription d'Eure-et-Loir|{{4e|circonscription}}]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{4e|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives-2017/(path)/legislatives-2017/028/02804.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 70,38 % pour [[Philippe Vigier (homme politique)|Philippe Vigier]] ([[Union des démocrates et indépendants|UDI]]), 29,62 % pour [[Clémence Rouvier]] (LaREM), 47,19 % de participation.
+
+===== Élections législatives de 2012 =====
+{{Article détaillé|élections législatives de 2012 en Eure-et-Loir}}
+*{{1re|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{1re|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__LG2012/(path)/LG2012/028/02801.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref>: 50,80 % pour [[Jean-Pierre Gorges]] (UMP), 49,20 % pour [[David Lebon]] (PS), 59,94 % de participation.
+*{{2e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{2e|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__LG2012/(path)/LG2012/028/02802.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 53,64 % pour [[Olivier Marleix]] (UMP), 46,36 % pour [[Gisèle BOULLAIS]] (PS), 54,46 % de participation.
+*{{3e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{3e|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__LG2012/(path)/LG2012/028/02803.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 52,58 % pour [[Laure de La Raudière]] (UMP), 47,42 % pour [[François Huwart]] (PRG), 59,21 % de participation.
+*{{4e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{4e|circonscription}} d'Eure-et-Loir 2012 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__LG2012/(path)/LG2012/028/02804.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 50,72 % pour [[Philippe Vigier (homme politique)|Philippe Vigier]] ([[Groupe Nouveau Centre|NCE]]), 61,57 % de participation (élu au {{1er}} tour).
+
+===== Élections législatives de 2007 =====
+{{Article détaillé|Élections législatives françaises de 2007}}
+*{{1re|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{1re|circonscription}} d'Eure-et-Loir 2007 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2007/028/circons01.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 50,06 % pour [[Jean-Pierre Gorges]] (UMP), 49,94 % pour [[Françoise Vallet]] (PS), 57,67 % de participation.
+*{{2e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{2e|circonscription}} d'Eure-et-Loir 2007 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2007/028/circons02.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 60,41 % pour [[Gérard Hamel]] (UMP), 39,59 % pour [[Birgitta Hessel]] (PS), 54,36 % de participation.
+*{{3e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{3e|circonscription}} d'Eure-et-Loir 2007 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2007/028/circons03.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 53,32 % pour [[Laure de La Raudière]] (UMP), 46,88 % pour [[François Huwart]] (PRG), 58,78 % de participation.
+*{{4e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{4e|circonscription}} d'Eure-et-Loir 2007 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2007/028/circons04.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 57,12 % pour [[Philippe Vigier (homme politique)|Philippe Vigier]] (UMP), 22,61 % pour [[Serge Fauve]] (PS), 63,16 % de participation.
+
+===== Élections législatives de 2002 =====
+{{Article détaillé|Élections législatives françaises de 2002}}
+*{{1re|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{1re|circonscription}} d'Eure-et-Loir 2002 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2002/028/circons01.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 54,31 % pour [[Jean-Pierre Gorges]] (UMP), 45,69 % pour [[Georges Lemoine (homme politique)|Georges Lemoine]] (PS), 61,26 % de participation.
+*{{2e|circonscription}}<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{2e|circonscription}} d'Eure-et-Loir 2002 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2002/028/circons02.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 62,56 % pour [[Gérard Hamel]] (UMP), 37,44 % pour Birgitta Hessel (PS), 55,49 % de participation.
+*{{3e|circonscription}} circonscription<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{3e|circonscription}} d'Eure-et-Loir 2002 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2002/028/circons03.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 53,08 % pour [[Patrick Hoguet]] (UMP), 46,92 % pour [[François Huwart]] (PRG), 59,98 % de participation.
+*{{4e|circonscription}} circonscription<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats de l'élection législative de la {{4e|circonscription}} d'Eure-et-Loir 2004 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/LG2002/028/circons01.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 58,49 % pour [[Alain Venot]] (UMP), 41,51 % pour [[Marie-Hélène Aubert]] ([[Les Verts (France)|Les Verts]]), 52,76 % de participation.
+
+==== Élections référendaires ====
+* [[Référendum français sur le traité établissant une Constitution pour l'Europe|Référendum de 2005 relatif au traité établissant une Constitution pour l’Europe]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir du référendum 2005 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/rf2005/024/028/2428.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> 57,43 % pour le Non, 42,57 % pour le Oui, 71,04 % de participation.
+* [[Référendum français sur le traité de Maastricht|Référendum de 1992 relatif à la ratification du traité sur l'Union Européenne]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir du référendum 1992 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/rf1992/024/028/2428.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> 54,35 % pour le Non, 45,65 % pour le Oui, 73,89 % de participation.
+
+==== Élections régionales, résultats des deux meilleurs scores ====
+* [[Élections régionales françaises de 2021|Élections régionales de 2021]] : à compléter.
+* [[Élections régionales françaises de 2015|Élections régionales de 2015]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection régionale du Centre 2015 |url=http://elections.interieur.gouv.fr/regionales-2015/24/2428/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 39,72 % pour [[Philippe Vigier (homme politique)|Philippe Vigier]] (Union de la Droite), 31,35 % pour [[Philippe Loiseau]] ([[Rassemblement national|Front National]], 57,70 % de participation.
+* [[Élections régionales françaises de 2010|Élections régionales de 2010]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection régionale du Centre 2010 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/RG2010/024/028/028.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 45,38 % pour [[François Bonneau (homme politique, 1953)|François Bonneau]] (PS), 39,20 % pour [[Hervé Novelli]] (UMP), 49,87 % de participation.
+* [[Élections régionales françaises de 2004|Élections régionales de 2004]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection régionale du Centre 2004 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/reg2004/024/028/028.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 46,12 % pour [[Michel Sapin]] (PS), 34,91 % pour [[Serge Vinçon]] (UMP), 63,21 % de participation
+
+==== Élections européennes, résultats des deux meilleurs scores ====
+* [[Élections européennes de 2019 en France|Élections européennes de 2019]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection européenne en France 2019 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Europeennes/elecresult__europeennes-2019/(path)/europeennes-2019/024/028/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : à compléter.
+* [[Élections européennes de 2014 en France|Élections européennes de 2014]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection européenne de la {{6e|circonscription}} de France (Massif-Central Centre) 2014 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Europeennes/elecresult__ER2014/(path)/ER2014/06/024/028/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : à compléter.
+* [[Élections européennes de 2009 en France|Élections européennes de 2009]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection européenne de la {{6e|circonscription}} de France (Massif-Central Centre) 2009 |url=http://www.interieur.gouv.fr/sections/a_votre_service/resultats-elections/ER2009/06/024/028/028.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 30,58 % pour [[Jean-Pierre Audy]] (UMP), 14,99 % pour [[Henri Weber]] (PS), 39,07 % de participation.
+* [[Élections européennes de 2004 en France|Élections européennes de 2004]]<ref>{{Lien web |langue=fr-FR |auteur institutionnel=Ministère de l'intérieur |titre=Résultats en Eure-et-Loir de l'élection européenne de la {{6e|circonscription}} de France (Massif-Central Centre) 2004 |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Europeennes/elecresult__europeennes_2004/(path)/europeennes_2004/006/028/index.html |site=interieur.gouv.fr |consulté le=2021-08-09}}.</ref> : 27,40 % pour [[Catherine Guy-Quint]] (PS), 18,21 % pour [[Brice Hortefeux]] (UMP), 42,49 % de participation.
+
+== Population et société ==
+=== Démographie ===
+{{article détaillé|Démographie d'Eure-et-Loir}}
+Les [[gentilé|habitants]] d'Eure-et-Loir sont les ''Eurélien(ne)s''<ref>{{Lien web| url=http://leplus.nouvelobs.com/contribution/183004;connaissez-vous-les-bucco-rhodaniens-les-samariens-les-manchots-et-les-costaloriens.html| titre=Connaissez vous les Bucco-Rhodaniens, les Samariens, les Manchots et les Costaloriens ?| auteur=[[Le Nouvel Obs]]| éditeur=Le Nouvel Observateur| date=16 août 2011| consulté le=18 août 2011}}.</ref>.
+
+Au niveau national le département occupe le {{56e|rang}}.
+
+L'évolution démographique du département, bien que positive, cache des contrastes importants selon les secteurs
+
+L'est du département, dans la zone d'influence directe de [[Paris]], bénéficie depuis quelques années, de l'arrivée conséquente d'une nouvelle population poussée hors de l'[[Île-de-France]] par la pression immobilière et à la recherche d'une meilleure qualité de vie. Les agglomérations de [[Chartres]] et de [[Dreux]], bien desservies en transports et en infrastructures, sont au cœur des bassins de vie les mieux pourvus.
+
+À l'ouest : le [[Comté du Perche|Perche]] et son cadre bucolique s'est revitalisé depuis la création du [[parc naturel régional du Perche|parc naturel régional]] en 1998 grâce à une population plus touristique et aisée, en quête d'une résidence secondaire
+
+Le centre et le sud du département connaissent une évolution moins favorable. Si la région de [[Courville-sur-Eure]], reliée à Paris et Chartres par le rail et proche de l'autoroute [[Autoroute française A11|A11]] se maintient bien, les secteurs de [[Châteaudun]] et d'[[Illiers-Combray]], mal desservis, subissent un solde démographique nul, voire négatif.
+
+==== Évolution démographique ====
+{{Population de France/section}}
+
+==== Communes les plus peuplées ====
+{{Composition Division de France
+ | charte     = autre
+ | titre      = Liste des quinze communes les plus peuplées du département
+ | commune 1  = Chartres
+ | commune 2  = Dreux
+ | commune 3  = Lucé (Eure-et-Loir)
+ | commune 4  = Châteaudun
+ | commune 5  = Vernouillet (Eure-et-Loir)
+ | commune 6  = Mainvilliers (Eure-et-Loir)
+ | commune 7  = Nogent-le-Rotrou
+ | commune 8  = Luisant
+ | commune 9  = Auneau-Bleury-Saint-Symphorien
+ | commune 10 = Lèves
+ | commune 11 = Cloyes-les-Trois-Rivières
+ | commune 12 = Épernon
+ | commune 13 = Bonneval (Eure-et-Loir)
+ | commune 14 = Maintenon
+ | commune 15 = Saint-Rémy-sur-Avre
+}}
+
+==== Résidences secondaires ====
+Selon le recensement général de la population du {{date-|1 janvier 2008}}, 6,9 % des logements disponibles dans le département étaient des résidences secondaires.
+
+Ce tableau indique les principales communes d'Eure-et-Loir dont les [[Résidence secondaire|résidences secondaires]] et occasionnelles dépassent 10 % des logements totaux.
+
+{{Boîte déroulante/début|titre=Communes ayant plus de 10 % de résidences secondaires en 2008}}
+{|class="wikitable sortable" style="text-align:right;"
+! style="text-align:left"| Ville
+! style="text-align:left"| Population municipale
+! style="text-align:left"| Nombre de logements
+! style="text-align:left"| Résidences secondaires
+! style="text-align:left"| % Rés. secondaires
+|-
+|style="text-align:left"| [[Frétigny]]
+| 480
+| 332
+| 99
+| 29,77 %
+|-
+|style="text-align:left"| [[Frazé]]
+| 519
+| 341
+| 100
+| 29,22 %
+|-
+|style="text-align:left"| [[Dampierre-sur-Avre]]
+| 689
+| 368
+| 98
+| 26,57 %
+|-
+|style="text-align:left"| [[Unverre]]
+| {{formatnum:1172}}
+| 722
+| 177
+| 24,48 %
+|-
+|style="text-align:left"| [[Maillebois]]
+| 990
+| 539
+| 114
+| 21,10 %
+|-
+| style="text-align:left" | [[Arrou]]
+| {{formatnum:1683}}
+| {{formatnum:1106}}
+| 186
+| 16,80 %
+|-
+| style="text-align:left" | [[Sorel-Moussel]]
+| {{formatnum:1802}}
+| 906
+| 149
+| 16,47 %
+|-
+| style="text-align:left" | [[La Bazoche-Gouet]]
+| {{formatnum:1310}}
+| 801
+| 127
+| 15,86 %
+|-
+|style="text-align:left"| [[Villiers-le-Morhier]]
+| {{formatnum:1347}}
+| 624
+| 93
+| 14,96 %
+|-
+|style="text-align:left"| [[Abondant]]
+| {{formatnum:2042}}
+| 847
+| 106
+| 12,52 %
+|-
+|style="text-align:left"| [[Cloyes-sur-le-Loir]]
+| {{formatnum:2676}}
+| {{formatnum:1587}}
+| 179
+| 11,28 %
+|}
+* Source [[Institut national de la statistique et des études économiques|Insee]],chiffres au {{date-|1 janvier 2008}}<ref>[http://www.insee.fr/fr/recensement/page_accueil_rp.htm Source Insee], {{date-|1 janvier 2008}}.</ref>.
+{{Boîte déroulante/fin}}
+
+=== Enseignement ===
+{{Article détaillé|Lycées d'Eure-et-Loir}}
+
+=== Manifestations culturelles et festivités ===
+Parmi les festivals et événements culturels, peuvent être citées : [[Journées lyriques de Chartres et d'Eure-et-Loir]], Rencontres Musiques électroacoustiques, Jazz de Mars, Festival du légendaire, Caravane des poètes, [[Festival Top In Humour]] et Festival de musiques actuelles L'Paille à Sons ([[Chartres]]), [[Festival du Thé Vert]] et Festival Percheval (Nogent-le-Rotrou), Hurluperku ([[Châteauneuf-en-Thymerais]]), Fête des livres de [[La Ferté-Vidame]], Fête des Flambarts de Dreux, Foire aux laines de Châteaudun.
+
+==== Chartres en Lumières ====
+{{Article détaillé|Chartres en Lumières}}
+
+=== Sports ===
+Principaux clubs euréliens :
+* Football
+**''masculin''
+***[[C' Chartres Football|C'Chartres Football]] évoluant pour la saison 18/19 en [[Championnat de France de football de National 2|National 2]] groupe C
+*** [[FC Drouais]] évoluant pour la saison 18/19 en Régional 1
+***[[Olympic Club Châteaudun]] évoluant pour la saison 18/19 en Régional 1
+* Rugby
+**''masculin''
+*** [[C' Chartres Rugby|C'Chartres Rugby]] évoluant pour la saison 22/23 en Fédérale 1 poule 1
+***RCP (Rugby Club Percheron) Nogent-le-Rotrou évoluant pour la saison 18/19 en Honneur
+*** RC (Rugby Club) drouais évoluant pour la saison 18/19 en Honneur
+* Basket-ball
+**''féminin''
+***[[C' Chartres basket féminin|C'Chartres Basket Féminin]] (ex-AB Chartres) évoluant pour la saison 18/19 en [[Championnat de France de basket-ball de Ligue féminine 2|Ligue Féminine 2]]
+** ''masculin''
+***[[C' Chartres basket masculin|C'Chartres Basket Masculin]] évoluant pour la saison 18/19 en [[Championnat de France de basket-ball de Pro B|PRO B]]
+* Handball
+**''féminin''
+***[[Dreux Athletic Club Handball|Dreux AC]] évoluant pour la saison 18/19 en Nationale 2
+** ''masculin''
+***[[C' Chartres Métropole handball|C'Chartres Métropole Handball]] évoluant pour la saison 18/19 en [[Championnat de France masculin de handball de deuxième division|Proligue]]<ref>{{Lien web|titre=C\'Chartres Métropole Handball|url=https://www.lnh.fr/proligue/equipes/c-chartres-metropole-handball|site=lnh.fr|consulté le=2019-02-09}}.</ref>
+*** CO (Club Omnisport) Vernouillet évoluant pour la saison 18/19 en Nationale 1 poule 2
+***[[Dreux Athletic Club Handball|Dreux AC]] évoluant pour la saison 18/19 en Nationale 2 poule 2
+* Volley-ball
+**''féminin''
+*** Châteaudun VB évoluant pour la saison 18/19 en Nationale 3 poule E
+** ''masculin''
+*** Châteaudun VB évoluant pour la saison 18/19 en Nationale 3 poule E
+*** C'Chartres Volley évoluant pour la saison 18/19 en Nationale 3 poule E
+* Tennis de table
+** ''féminin''
+*** Entente Pays Courvillois / Yèvres évoluant pour la saison 18/19 en Nationale 3 poule A
+**''masculin''
+***[[C' Chartres tennis de table|C'Chartres TT]] évoluant pour la saison 18/19 en Pro A
+*** Pays Courvillois Tennis de Table évoluant pour la saison 18/19 en Pré-Nationale poule B
+* Tennis
+**''féminin''
+*** C'Chartres Tennis évoluant pour l'année 2018 en Pré-National
+**''masculin''
+*** C'Chartres Tennis évoluant pour l'année 2018 en Nationale 3
+*** AC Dreux évoluant pour l'année 2018 en Nationale 4
+* Baseball
+**''masculin''
+***[[French Cubs de Chartres]] évoluant pour l'année 2019 en Division 2
+
+=== Médias ===
+* Quotidiens :
+** ''[[L'Écho républicain]]'' (seul quotidien à diffusion départementale, groupe [[Centre-France]]).
+** ''[[La République du Centre]]'' (groupe Centre-France, l'édition Orléans-Beauce ne couvre que les cantons d'[[canton d'Orgères-en-Beauce|Orgères-en-Beauce]] et [[canton de Janville|Janville]] après la cessation de parution des éditions de Chartres, Dreux, Châteaudun et Nogent-le-Rotrou en mars 2011).
+** ''[[Paris-Normandie]]'' ([[groupe Hersant Média]], couvre partiellement les cantons [[canton d'Anet|Anet]] et de [[canton de Brezolles|Brezolles]]).
+* Hebdomadaires :
+** ''[[L'Action républicaine (Nogent-le-Rotrou)|L'Action républicaine]]'' (siège à Nogent-le-Rotrou, groupe [[Publihebdos]]).
+** ''[[Le Perche (hebdomadaire)|Le Perche]]'' (groupe Publihebdos).
+** ''[[L'Écho de Brou]]''.
+** ''Horizon'' (journal agricole).
+** ''[[Le Réveil normand]]'' (couvre les cantons de [[canton de La Ferté-Vidame|La Ferté-Vidame]] et [[canton de Brezolles|Brezolles]] - groupe Publihebdos).
+** ''Courrier du Loiret'' (couvre les cantons de [[canton de Janville|Janville]] et [[canton d'Orgères-en-Beauce|Orgères-en-Beauce]] - groupe Centre-France).
+* Mensuels :
+** ''Le Mag' Dunois et Perche'' (magazine d'informations générales de l'arrondissement de Châteaudun).
+* Radios locales :
+** Intensité (Chartres<ref>[http://www.intensite.net/news.php?lng=fr&pg=21521] À partir du 4 décembre 2008 - brève sur le site intensite.net</ref> et Châteaudun).
+** Radio Trois Vallées (RTV) (Dreux).
+** [http://www.radiograndciel.fr Radio Grand Ciel] (membre de la [[radios chrétiennes francophones|FFRC]]).
+** [[Sweet FM]] (émetteur à Nogent-le-Rotrou, siège à [[La Ferté-Bernard]] (72)).
+** Evasion (Dreux).
+
+== Économie ==
+{{Article détaillé | Économie d'Eure-et-Loir}}
+
+L'Eure-et-Loir est un département de tradition agricole ([[Beauce (France)|Beauce]]) mais aussi en pointe dans trois filières économiques :
+
+=== Agriculture ===
+Le département est un acteur économique majeur dans la production de [[céréales]] et d'oléo-protéagineux en France<ref>Chambre d'agriculture d'Eure-et-Loir</ref>. Son économie agricole est néanmoins très fortement dépendante de la [[conjoncture (économie)|conjoncture]] et de l'environnement réglementaire des marchés des [[Agriculture en France#Grandes cultures|grandes cultures]]. L'Eure-et-Loir est le premier céréalier français. Il occupe également le premier rang national pour la production de [[colza]] et de [[pois protéagineux]]. Le [[blé tendre]] est de loin la production emblématique du département. Ainsi, près de 40 % des surfaces agricoles du département sont consacrées à la culture du blé tendre, qui a généré en moyenne 29 % de la production agricole marchande du département au cours des cinq dernières années.
+
+L'agriculture du département est également promue par le Pôle AgroDynamic, une filière de valorisation des ressources agricoles du département mis en place dans différents secteurs : agroénergie, [[agroalimentaire]], agromatériaux, agrosanté.
+
+=== Industries ===
+* La [[Cosmetic Valley]] ([[Pôle de compétitivité en France|pôle de compétitivité]]), qui constitue le premier pôle français de l'industrie de la beauté et du bien-être (parfums/cosmétique), avec de grands noms comme [[Guerlain]], [[Paco Rabanne]], [[Lolita Lempicka]], [[Jean-Charles de Castelbajac|JC Castelbajac]], [[Jean-Paul Gaultier]]… La {{langue|en|Cosmetic Valley}} représente {{nobr|2,5 milliards}} d'euros de chiffres d'affaires, regroupe {{nobr|200 entreprises}}, travaille en collaboration avec les universités de Tours, d'Orléans et de Paris et emploie plus de {{unité|30000 employés}}. Un projet de petit aéroport sur l'ex-[[base aérienne 279 Châteaudun]] porté par l'élu local Fabien Verdier est à l'étude, qui aurait pour vocation de profiter aux entreprises du pôle<ref>{{Article|langue=français|auteur1=Frédéric Levent|prénom1=Centre|nom1=France|titre=Sicofor, « essentielle à la Cosmetic Valley »|périodique=www.lechorepublicain.fr|date=30/09/2016|lire en ligne=https://www.lechorepublicain.fr/marboue/economie/vie-pratique-consommation/2016/09/30/sicofor-essentielle-a-la-cosmetic-valley_12093696.html|consulté le=2018-04-12}}</ref>.
+* L'industrie pharmaceutique, autour de Dreux et [[Polepharma]]. Créé en 2002 sous l'impulsion du CODEL, PolePharma est un pôle de compétitivité français de production pharmaceutique qui regroupe les entreprises du secteur comme [[Ipsen]], [[Novo Nordisk]], [[Laboratoires Expanscience]], [[Leo Pharma]], [[Ethypharm]], [[Famar]], [[Norgine]], [[Nypro]], [[Synerlab]]/[[Sophartex]], [[Seratec]]... Le pôle représente 50 % de la production de médicament en France et {{unité|30000 emplois}}. Le Pôle Pharma est par ailleurs l'un des créateurs de l'alliance inter régionale {{langue|en|Pharma Valley}} qui regroupe en son sein trois réseaux partenaires : PolePharma, Technopole CBS et le Grepic. À elle seule, l'alliance regroupe 50 % de la production de médicament en France, 60 % des effectifs des sites de production implantés en France et {{nobr|2,5 milliards}} d'euros de chiffre d'affaires.
+* L'industrie agro-alimentaire, promue par [[Agrodynamic]] ([[pôle d'excellence rurale]]), avec deux entreprises importantes du secteur : [[Ebly]] à Châteaudun et une filiale [[Andros (entreprise)|Andros]] à Auneau.
+* L'industrie et l'artisanat du bois et de l'ameublement autour de l'association Perchebois.
+* L'industrie du caoutchouc et des matières plastiques, à travers le pôle de compétitivité [[Elastopole]].
+* L'industrie mécanique, avec l'équipementier ascenseur Octé à Châteauneuf-en-Thymerais.
+* Le groupe allemand, [[Vorwerk (entreprise)|Vorwerk]], après [[Cloyes-sur-le-Loir]], a choisi de localiser son second site de production dans la [[communauté de communes du Grand Châteaudun]] à [[Donnemain-Saint-Mamès]], renforçant ainsi un engagement sur le territoire dont se félicitent les différents acteurs locaux qui ont soutenu le projet<ref>{{Lien web |langue=fr |titre=Vorwerk ouvre une seconde usine de Thermomix® en Eure-et-Loir, injecte 57 millions d'euros et crée 74 emplois |url=https://actu.fr/centre-val-de-loire/donnemain-saint-mames_28132/vorwerk-ouvre-une-seconde-usine-de-thermomix-en-eure-et-loir-injecte-57-millions-d-euros-et-cree-74-emplois_52346634.html |site=actu.fr |consulté le=2022-12-28}}.</ref>.
+* Depuis le {{1er}} octobre 2022, le ''Grand Châteaudun'' devient officiellement propriétaire et gestionnaire de la plate-forme aéronautique qui a abrité durant des décennies la [[Base aérienne 279 Châteaudun|Base aérienne 279 – Lieutenant Marcel-Beau]] pour engager un projet ambitieux qui sera de transformer l'ancienne base en petit aéroport. Ce projet engagé par Fabien Verdier, maire de Châteaudun, est un projet structurant pour la région<ref>{{Lien web |langue=fr |titre=Châteaudun est maintenant aux manettes de l'ancienne Base aérienne et ça redécolle déjà ! |url=https://actu.fr/centre-val-de-loire/chateaudun_28088/chateaudun-est-maintenant-aux-manettes-de-l-ancienne-base-aerienne-et-ca-redecolle-deja_54150343.html |site=actu.fr |consulté le=2022-12-28}}.</ref>.
+
+=== Énergies ===
+{{Article détaillé|Liste des parcs éoliens en Eure-et-Loir}}
+Le département est également en pointe en matière d'[[Énergie renouvelable|énergies renouvelables]]. Déjà classé au deuxième rang national en termes de production électrique grâce à ses parcs éoliens notamment situés dans la Beauce, l'Eure-et-Loir aurait été, dès 2012, le premier producteur d'électricité français d'origine photovoltaïque avec la création sur la base aérienne de l'[[OTAN]] désaffectée de [[Crucey-Villages]], près de [[Brezolles]] dans la [[Thymerais|région naturelle du Thymerais]], du plus grand parc photovoltaïque de France. Confié en février 2011 par le conseil général à l'opérateur [[EDF énergies nouvelles]], le parc couvre 245 des {{unité|500 ha}} de l'ancienne base militaire et a une puissance nominale de {{unité|60 MWc}} (équivalent à la consommation électrique de {{unité|28000 habitants}} ou la production de {{nobr|15 éoliennes}})<ref>{{Lien web|titre=Centrale Photovoltaïque de Crucey|url=http://www.edf-energies-nouvelles.com/wp-contenu/uploads/2012/09/dp_centralepv_crucey_new-1.pdf|site=edf-energies-nouvelles.com|consulté le=7 juillet 2017|brisé le = 2023-10-31}}.</ref>. Le nombre de panneaux installés est de {{formatnum:741150}}.
+
+=== Tourisme ===
+{{article détaillé|Tourisme en Eure-et-Loir}}
+
+<gallery mode="packed" caption="Quelques monuments remarquables d'Eure-et-Loir...">
+Cathédrale Chartres 2007.jpg|[[Cathédrale de Chartres]].
+Maison ancienne Chartres.jpg|Maison de Chartres.
+Dreux 2006-2.jpg|[[Beffroi de Dreux]].
+Chateaudun Chateau 03.jpg|[[Château de Châteaudun]].
+20050921ChStJean1.jpg|Château Saint-Jean à [[Nogent-le-Rotrou]].
+Château de Maintenon 2008.jpg|[[Château de Maintenon]].
+</gallery>
+
+== Culture locale et patrimoine ==
+=== Lieux et monuments ===
+{{Article détaillé|Liste des musées d'Eure-et-Loir|Liste des monuments historiques d'Eure-et-Loir}}
+* Théâtres : [[Chartres]] ([[Théâtre municipal de Chartres|Théâtre de Chartres]] - [[scène conventionnée]], Théâtre du Seuil, Théâtre de Poche, Théâtre du Portail-Sud), [[Dreux]], [[Châteaudun]], [[Nogent-le-Rotrou]].
+* Salles de spectacles et de concert : Théâtre de Chartres, [[Vernouillet (Eure-et-Loir)|Vernouillet]] (Atelier à spectacles), [[Lucé (Eure-et-Loir)|Lucé]] (Centre culturel Edmond Desouches), [[Lèves]] (Espace Soutine), [[Épernon]] (Les Prairiales), Chartres (Salle Ravenne), Châteaudun (Espace Malraux), Nogent-le-Rotrou, Luisant (Salle André Malraux), Anet (Dianetum).
+* Musées : Chartres ([[Musée des beaux-arts de Chartres|Musée des Beaux-Arts]], [[Centre international du vitrail]], [[Maison Picassiette]]), [[Mainvilliers (Eure-et-Loir)|Mainvilliers]] ([[Le Compa]]), Châteaudun (Musée des Beaux-Arts et d'histoire naturelle), Dreux ([[Musée d'art et d'histoire de Dreux|Musée d'Art et d'Histoire]]), Épernon ([[Conservatoire des meules et pavés du bassin d'Épernon|Conservatoire des meules et pavés]]), [[Illiers-Combray]] ([[Musée Marcel Proust]]), Nogent-le-Rotrou ([[Musée de Nogent-le-Rotrou|Musée du château Saint-Jean]]), [[Loigny-la-Bataille]] ([[Musée de la Guerre de 1870 - Loigny-la-Bataille|Musée de la Guerre de 1870]]), [[Charpont]] (Petit musée de peinture), [[Unverre]] (musée-école), [[Bailleau-Armenonville|Pont-sous-Gallardon]] (Musée ateliers des pionniers et Vélorails Du Pays Chartrain).
+* Écomusées, maisons thématiques : Maison de la Beauce à [[Orgères-en-Beauce]], [[Écomusée des vignerons et des artisans drouais]], Écomusée de la vallée de l'Aigre à [[La Ferté-Villeneuil]].
+* Cinémas : Chartres, Dreux, Châteaudun, Nogent-le-Rotrou, [[Senonches]], [[Anet (Eure-et-Loir)|Anet]].
+* Art contemporain : Ateliers [[Gabriel Loire]] (Lèves), Arts itinérance (expositions en plusieurs lieux du département), l'ARTsenal (Dreux).
+* Monuments historiques : [[Église Saint-Pierre de Chartres|église Saint-Pierre]] et [[cathédrale de Chartres]] ([[Liste du patrimoine mondial en France|patrimoine mondial]] - [[UNESCO]]), [[château d'Anet]], [[château de Châteaudun]], [[château de Maintenon]], [[château de La Ferté-Vidame]], château Saint-Jean de Nogent-le-Rotrou, [[maison Picassiette]] à Chartres, [[Église Saint-Pierre de Dreux|église Saint-Pierre]] et [[chapelle royale de Dreux]], [[Abbaye de la Sainte-Trinité de Tiron|abbaye de la Sainte-Trinité de Thiron-Gardais]], château de [[Villebon (Eure-et-Loir)|Villebon]], tombeau du duc de Sully à Nogent-le-Rotrou, aqueduc du [[canal de l'Eure]], château de [[Crécy-Couvé]], abbaye Saint-Florentin de [[Bonneval (Eure-et-Loir)|Bonneval]], château de [[Frazé]], [[Forges de Dampierre-sur-Blévy]], église de [[Meslay-le-Grenet]] (fresques), [[beffroi de Dreux]], celliers du Pressoirs d'Épernon, Pavillon de chasse d'[[Abondant]], Château de [[Montigny-le-Gannelon]], Chapelle Notre-Dame d'Yron à [[Cloyes-sur-le-Loir]] (fresques), château de [[Montigny-sur-Avre]], [[maison de Tante Léonie]] à [[Illiers-Combray]], chapelle de Reveillon à [[La Ferté-Vidame]] (peintures), [[château des Vaux]] à [[Saint-Maurice-Saint-Germain]] et [[Pontgouin]], château de Villeprévost à [[Tillay-le-Péneux]], abbaye du Bois de [[Nottonville]], moulins à vent de Beauce, château de [[Moléans]], château de [[Courtalain]], château du Bois-Ruffin<ref>{{pdf}} [[Jean Mesqui]], [http://www.mesqui.net/Articles_fortif/pdf/alluyes-et-bois-ruffin.pdf Alluyes et Bois-Ruffin. Deux donjons du {{s-|XIII}}], [[Société archéologique d'Eure-et-Loir]], 1980.</ref> à [[Arrou]], château de Bouthonvilliers à Dangeau.
+
+== Personnalités reliées à l'Eure-et-Loir ==
+=== Antiquité ===
+* [[Tasgetios]], prince des [[Carnutes]] de [[57 av. J.-C.|57]] à [[54 av. J.-C.]]
+* [[Cotuatos]] et [[Conconnetodumnos]], instigateurs et meneurs de l'insurrection des Carnutes contre les [[Romains]] en [[53 av. J.-C.]]
+* [[Gutuater]], druide carnute, désigné comme le responsable de l'insurrection de [[52 av. J.-C.]] et exécuté par [[Jules César]]
+
+=== Moyen Âge ===
+* [[Hasting]], chef [[viking]] qui fut comte de Chartres (882-892)
+* [[Hugues Capet]] (mort en Eure-et-Loir près de [[Voves]])
+* [[Maison du Puiset|Seigneurs du Puiset]]
+* [[Fulbert de Chartres]] (évêque fondateur de l'[[École de Chartres]])
+* [[Amaury de Chartres]], né vers 1150 à Bennes, petit village entre [[Ollé]] et [[Chauffours]] à l'ouest de [[Chartres]].
+* [[Jean de Salisbury]] ([[1115]]-[[1180]]), élève d'[[Pierre Abélard|Abélard]] et de [[Fulbert de Chartres]]. Intellectuel anglais, ami de [[Thomas Becket]]. Évêque de Chartres de [[1176]] à [[1180]].
+* [[Bernard de Tiron]], fondateur de l'ordre monastique de Tiron et de l'abbaye de [[Thiron-Gardais]].
+* [[Philippe VI de France|Philippe de Valois]], roi de France, décédé à [[Abbaye Notre-Dame de Coulombs|Coulombs]], près de [[Nogent-le-Roi]]
+* [[Jean II de France]], qui signa pendant la [[guerre de Cent Ans]] un [[Traité de Brétigny|traité]] à [[Sours|Brétigny]]
+* [[Jean de Dunois]] ([[1402]]-[[1468]]), compagnon d'armes de [[Jeanne d'Arc]]
+* [[Foucher de Chartres]] (ou Foulques), aumônier de [[Baudouin Ier de Jérusalem|Baudouin]] premier roi de Jérusalem. Il a écrit l'histoire de ce qui s'est passé de 1095 à 1117. Il avait suivi en Terre Sainte [[Étienne II de Blois|Étienne]] [[Liste des comtes et ducs de Chartres|comte de Chartres]] et de Blois ainsi que le [[duc de Normandie]]. Il les quitta pour s'attacher à Baudouin qu'il accompagna dans sa conquête de la [[Comté d'Édesse|principauté d'Edesse]]. Originaire d'une des plus anciennes familles de Chartres, il fut fait en 1123 gouverneur du [[royaume de Jérusalem]] pendant la captivité de Baudouin qui en était roi. Il partit avec [[Louis IX de France|Saint-Louis]] et devint son chancelier en l'an 1248 pour la septième croisade. Il mourut lors de ce voyage après la prise de [[Damiette]].
+
+=== Renaissance ===
+* [[Rémy Belleau]] (1526-1577) : poète de la [[Pléiade (xvie siècle)|Pléiade]]
+* [[Jean Louis de Nogaret de La Valette|Duc d'Épernon]], mignon d'[[Henri III de France|Henri III]].
+* [[Henri IV de France|Henri IV]] (sacré en la [[cathédrale de Chartres]])
+* [[Maximilien de Béthune (duc de Sully)|Maximilien de Béthune]], duc de [[Sully-sur-Loire|Sully]] (mort au château de [[Villebon (Eure-et-Loir)|Villebon]], repose à [[Nogent-le-Rotrou]])
+* [[Jeanne de France (1464-1505)|Jeanne de France]], née à [[Nogent-le-Roi]], épouse de [[Louis XII de France|Louis XII]], canonisée par le pape [[Pie XII]] en 1950.
+* [[Diane de Poitiers]] ([[château d'Anet]])
+* [[Mathurin Régnier]] (1573-1613) : poète
+* [[Philippe Desportes]] (1543-1606) : poète
+
+=== Époque moderne ===
+* [[Jean de Rotrou]] ([[1609]]-[[1650]]), dramaturge et poète [[Dreux|drouais]]
+* [[Duché de Saint-Simon|Ducs de Saint-Simon]] (propriétaires du [[château de la Ferté-Vidame]])
+* Julien Fleury (né à Montainville 1647 - Paris 1725) philologue et poète<ref>{{Lien web |langue=fr |titre=Julien Fleury (1647-1725) |url=https://data.bnf.fr/fr/13326912/julien_fleury/ |site=data.bnf.fr |consulté le=2021-05-18}}.</ref>
+* Nicolas Chaperon (né en 1612 à Châteaudun) peintre dessinateur et graveur<ref>{{Lien web |langue=fr |titre=Nicolas Chapron (1612-1656?) |url=https://data.bnf.fr/fr/10008723/nicolas_chapron/ |site=data.bnf.fr |consulté le=2021-05-18}}.</ref>
+* [[Madame de Maintenon]] (épouse de [[Louis XIV]])
+*[[Jacques Lenfant]] (1661-1728) [[Pasteur (christianisme)|pasteur]] [[Protestantisme|protestant]] et historien [[Allemagne|allemand]]
+* [[Madame de Pompadour]] (favorite de [[Louis XV]], propriétaire du château de [[Crécy-Couvé]])
+* [[Philippe de Courcillon de Dangeau]], militaire, diplomate et [[mémorialiste]] né au château de [[Dangeau]].
+* [[François-André Danican Philidor]] (né le {{date-|7 septembre 1726}} à Dreux – mort le {{date-|31 août 1795}} à [[Londres]]) compositeur et joueur d'[[échecs]] français.
+* Michel-Philippe Bouvart (1707-1787) docteur régent de la [[Ancienne université de Paris|faculté de médecine de Paris]], membre de l'[[Académie des sciences (France)|Académie des sciences]] et ancien [[Liste des professeurs au Collège de France|professeur]] au [[Collège de France|collège royal de France]] né à Chartres le {{date-|11 janvier 1711}} et mort à Paris<ref>{{Lien web |langue=fr |titre=Michel-Philippe Bouvart (1707-1787) |url=https://data.bnf.fr/fr/15005013/michel-philippe_bouvart/ |site=data.bnf.fr |consulté le=2021-05-18}}.</ref>.
+* [[François Doublet]] docteur régent et ancien professeur de la [[Ancienne université de Paris|faculté de médecine de Paris]], associé ordinaire de la [[Société royale de médecine]], sous inspecteur des hôpitaux civils et des maisons de force né à Chartres le {{date-|30 juillet 1751}}. Il fit imprimer en 1781 un mémoire sur la [[fièvre puerpérale]]. Il meurt à Paris le 18 prairial an IV.
+* [[Jean Dussaulx]] né à Chartres le {{date-|28 décembre 1728}}, écrivain (''La passion du jeu depuis les temps anciens jusqu'à nos jours''), traducteur de [[Juvénal]] et membre de l'[[Assemblée constituante de 1789|assemblée constituante et législative]]. Mort à Paris.
+* [[Charles-Pierre Colardeau]], poète né à Janville en 1735 et mort en 1776 à Paris après son entrée à l'[[Académie française]].
+* [[Gérard Du Doyer de Gastels]] poète et dramaturge né au château de Voventriers près de Chartres le {{date-|19 avril 1731}} et mort à Paris en 1798.
+* [[Léonor Jean Christine Soulas d'Allainval]], auteur dramatique, né à Chartres en 1700, mort à Paris en 1753
+* {{Référence nécessaire|Claude Deshayes-Gendron, né à Voves, docteur en médecine de la [[Université de Montpellier|faculté de Montpellier]] et successivement médecin du frère de Louis XIV et du duc d'Orléans. Il était également homme de lettres et ami de [[Jean-Étienne Despréaux]] et de [[Voltaire]].|date=25 février 2019}}
+*Marie Baron<ref>{{Lien web |langue=en |titre=The Many Lives of Marie Baron |url=https://64parishes.org/many-lives-of-marie-baron |site=64 Parishes |date=2019-05-31 |consulté le=2022-04-19}}.</ref> du [[Le_Mesnil-Thomas|Mesnil-Thomas]], déportée en [[Louisiane (Nouvelle-France)|colonie de Louisiane]], installée près du [[Fort Rosalie|Fort-Rosalie]]. Prisonnière des [[Natchez]], épouse de [[:en:Dumont de Montigny|Dumont de Montigny]], historien prolifique sur la Louisiane française, qu'elle suit en France, à l'[[La Réunion|île Bourbon]] puis [[Pondichéry]].
+
+=== Révolution française ===
+(par ordre alphabétique)
+* [[Jacques Pierre Brissot]], né à Chartres, chef de file des [[Gironde (Révolution française)|Girondins]] ;
+* [[Claude François Chauveau-Lagarde]], né à Chartres, avocat, défenseur de [[Marie-Antoinette d'Autriche|Marie-Antoinette]] et de [[Charlotte Corday]] ;
+* [[Jean-François Delacroix]], [[Anet (Eure-et-Loir)|anetais]] et député d'Eure-et-Loir, membre du [[Comité de salut public]] sous la [[Convention nationale|Convention]], il proposa et fit voter l'abolition de l'esclavage ;
+* [[François Séverin Marceau]], général de la Révolution ;
+* [[Jérôme Pétion de Villeneuve]], né à Chartres, homme politique (maire de [[Paris]], membre de la [[Convention nationale|Convention]]) et essayiste ;
+* [[Emmanuel-Joseph Sieyès]], nommé vicaire général de Chartres en 1787, il y rédigera « [[Qu'est-ce que le tiers état ?]] » (1789).
+
+=== {{sp-|XIX|et|XX|s}} ===
+==== Arts et lettres ====
+(par ordre alphabétique)
+* [[Noël Ballay]], poète, né à [[Fontenay-sur-Eure]] en [[1847]], a vécu à Chartres et a eu droit à des funérailles nationales le {{Date|4|mars|1902}} dans la [[cathédrale de Chartres]].
+* [[Philippe Beaussant]], musicologue et nouvelliste, membre de l'[[Académie française]], qui vit au [[Le Mesnil-Thomas|Mesnil-Thomas]].
+* [[Jean Bertholle]], peintre, membre de l'[[Académie des beaux-arts (France)|Académie des beaux-arts]] qui vécut à [[Saint-Lucien (Eure-et-Loir)|Saint-Lucien]].
+* [[Madeleine Castaing]], décoratrice de renommée internationale, qui habita à [[Lèves]].
+* [[Philarète Chasles]], homme de lettres et journaliste né à [[Mainvilliers (Eure-et-Loir)|Mainvilliers]] en [[1798]].
+* [[Charles-Pierre Colardeau]], poète, membre de l'Académie française, né à Janville.
+* [[Bernard Friot (écrivain)|Bernard Friot]], enseignant et écrivain, auteur de livres pour la jeunesse, né à [[Saint-Piat]].
+* [[Anna Gavalda]], femme de lettres, qui a grandi (1974-1980) à [[Nogent-le-Roi]].
+* [[Ivry Gitlis]], violoniste israélien, qui vit en Eure-et-Loir.
+* [[Pierre-Jules Hetzel]], écrivain et éditeur ([[Honoré de Balzac|Balzac]], [[Jules Verne]], [[George Sand]]...) né à Chartres.
+* [[Pascal Lainé]], écrivain, [[prix Goncourt]], né à Anet.
+* [[Septime Le Pippre]], [[Peinture d'art|peintre]], [[aquarelliste]], militaire et agriculteur au château de Morville, maire de Hanches
+* [[Gilles Leroy]], écrivain, prix Goncourt 2007, qui vit près de [[La Ferté-Vidame]] à [[Boissy-lès-Perche]].
+* [[Gabriel Loire]], maître verrier lévois.
+* [[Diane de Margerie]], femme de lettres, membre du jury du [[prix Fémina]], qui habite Chartres et a consacré l'un de ses ouvrages à la cathédrale.
+* [[Noël Parfait]], né à Chartres en 1813, journaliste, auteur des philippiques, pamphlets contre [[Louis-Philippe Ier|Louis-Philippe]], duc de Chartres.
+* [[Charles Péguy]], qui écrivit sur la [[Beauce (France)|Beauce]] et la cathédrale de Chartres.
+* [[Marcel Proust]] (qui s'inspira du village de sa tante Léonie, [[Illiers-Combray]] où il passa une partie de son enfance).
+* [[Jacqueline de Romilly]], philologue française, membre de l'[[Académie française]], née à Chartres.
+* [[Rhoda Scott]], organiste et chanteuse de jazz qui habite dans le Perche d'Eure-et-Loir.
+* [[Chaïm Soutine]] (peintre), qui séjourna à [[Lèves]] chez [[Madeleine Castaing]].
+* [[Bertrand Visage]], écrivain, [[prix Fémina]] 1984, né à Châteaudun.
+* [[Maurice de Vlaminck]], peintre cubiste et fauve qui habita et mourut à [[Rueil-la-Gadelière]].
+* [[Émile Zola]], qui s'inspira de [[Romilly-sur-Aigre]] pour son roman ''La Terre''.
+*[[Haim Epstein]], peintre, ayant vécu à Épernon à partir de 1938 jusqu'à son arrestation et sa déportation.
+
+==== Sciences ====
+* [[Michel Chasles]], mathématicien né à [[Épernon]].
+* [[Gustave Le Bon]], né à Nogent-le-Rotrou, [[anthropologue]], précurseur de la [[psychologie sociale]], [[sociologue]].
+* [[Henri Ey]], psychiatre, ancien médecin chef de l'hôpital de [[Bonneval (Eure-et-Loir)|Bonneval]].
+* [[Henri Hureau de Senarmont]], physicien et minéralogiste.
+
+==== Religion ====
+* [[Jeanne de France (1464-1505)|Jeanne de France (Sainte)]], née le {{date-|23 avril 1464}} à Nogent-le-Roi, morte le {{date-|4 février 1505}} à Bourges, est la seconde fille de Louis XI et de Charlotte de Savoie. Fondatrice de l'ordre monastique de l'Annonciade.
+* [[Antoine Godeau]], né à Dreux le {{date-|24 septembre 1605}} et mort à Vence le {{date-|21 avril 1672}}, est un homme de lettres et évêque français.
+* [[François de Montmorency-Laval]] (Saint), né le {{date-|30 avril 1623}} à Montigny-sur-Avre et mort le {{date-|6 mai 1708}} à Québec (Canada), premier évêque de Québec.
+* [[François Lamy (théologien)|François Lamy]], né le {{date-|29 janvier 1636}} à Montireau et mort le {{date-|11 avril 1711}} à Saint-Denis, moine bénédictin de la Congrégation de Saint-Maur, théologien et auteur spirituel français.
+* [[Louis-Édouard Pie]] ({{date-|26 septembre 1815}} - {{date-|18 mai 1880}}) né à Pontgouin, cardinal de l'Église catholique, évêque de Poitiers.
+* [[Franz Stock]], (1904-1948) prêtre allemand, aumônier dans les prisons parisiennes durant la Seconde Guerre mondiale (il assiste les condamnés à mort) puis supérieur du « séminaire des barbelés » du Coudray.
+
+==== Armées ====
+* [[Michel Joseph Maunoury]], [[maréchal de France]], né à Maintenon
+* [[Alexandre-Antoine Hureau de Senarmont]], baron d'Empire et général d'artillerie enterré à Dreux
+* [[Alexandre-François de Senarmont]], héros de [[Valmy]] et général enterré à Dreux
+* [[Louis Emmanuel Rey]], général de division, enterré à Bazoches-les-Hautes
+* [[Louis-Gaston de Sonis]], général, héros de la bataille de Loigny, enterré à Loigny-la-Bataille
+* [[Athanase de Charette de la Contrie]], général, héros de la bataille de Loigny, enterré à Loigny-la-Bataille
+
+==== Sports ====
+* [[Louis Blériot]], qui réalisa le premier vol entre deux villes à [[Toury (Eure-et-Loir)|Toury]].
+* [[Hélène Boucher]] (pionnière de l'[[aviation]]) chartraine.
+* [[Géo Lefèvre]] ([[1887]]-[[1961]]), chartrain, journaliste, penseur et créateur du [[Tour de France]] cycliste
+* [[Charles Brennus]], maître-graveur et président d'honneur de la [[Fédération française de rugby à XV|Fédération française de rugby]] ([[1921]]), il est le créateur du [[Bouclier de Brennus]], la récompense suprême du [[Championnat de France de rugby à XV|Championnat de France de rugby]]. Il est né à [[Châteaudun]] en [[1859]].
+* [[Jean Gallet]] ([[1916]]-[[1989]]), né à [[Allonnes (Eure-et-Loir)|Allonnes]], athlète et député d'Eure-et-Loir. Un stade et un complexe sportif portent son nom, respectivement à [[Chartres]] et [[Voves]].
+* [[Jacky Lemée]], footballeur né à Epernon.
+* [[Jean Todt]], qui réside au [[Le Gué-de-Longroi|Gué de Longroi]].
+* [[Philippe Quintais]], né à Chartres, douze fois champion du monde de pétanque.
+* [[Francis Joyon]], né à [[Hanches]], navigateur recordman du tour du monde à la voile.
+* [[Patrick Vieira]] (footballeur originaire de [[Dreux]]).
+* [[Daniel Fernandes (judoka)|Daniel Fernandes]], judoka né à Nogent-le-Rotrou, vice-champion du monde en 2003 (poids légers).
+* [[Terry Bouhraoua]], né à Châteaudun le {{Date|29|août|1987}}, jeune joueur de [[rugby à XV]] et de [[rugby à 7]] prometteur, évoluant actuellement au [[Stade français Paris rugby|Stade français CASG Paris]] au poste de [[Demi de mêlée (rugby à XV)|demi de mêlée]].
+* [[Nicolas Escudé]], joueur de tennis professionnel né à Chartres.
+* [[Kalifa Cissé]], footballeur international né à Dreux.
+* [[Julien Escudé]], footballeur international né à Chartres.
+* [[Romain Feillu]], coureur cycliste professionnel est né à Châteaudun le {{date|16|avril|1984}}. Il a été vice-champion du monde espoirs à [[Salzbourg]] en [[2006]] et porteur du maillot jaune en 2008.
+* [[Anthony Gonçalves]], footballeur né à Chartres.
+* [[Jérémy Stinat]], footballeur né à Chartres.
+* [[Catherine Maunoury]], championne du monde de voltige aérienne en 1988, habite à Chartres.
+* [[Adrien Trebel]], footballeur né à Dreux.
+
+==== Culture, arts décoratifs, spectacle, cinéma et médias ====
+* [[Madeleine Castaing]], antiquaire et décoratrice, [[Mécénat|mécène]], qui a vécu à [[Lèves]].
+* [[Françoise Rosay]], actrice française, inhumée au cimetière de [[Sorel-Moussel]]
+* [[Thérésa (chanteuse)|Thérésa]], née à [[La Bazoche-Gouet]], chanteuse de cabaret surnommée {{Citation|la diva du ruisseau}}.
+* [[Charles Denner]], acteur de théâtre et de cinéma, est mort le 10 septembre [[1995]] à [[Dreux]].
+* [[Robert Massin]], typographe, figure majeure du graphisme en France, né à [[La Bourdinière-Saint-Loup]]
+* [[Gabriel Gabrio]], acteur français, décédé à [[Berchères-sur-Vesgre]].
+* [[Stéphane Grappelli]], un des plus grands violonistes de jazz du {{XXe siècle}}, qui vécut de nombreuses années à [[Fontaine-la-Guyon]].
+* [[Jean Delannoy]], cinéaste français, qui vécut et mourut à [[Guainville]].
+* [[Jacqueline Maillan]], qui vécut à [[Anet (Eure-et-Loir)|Anet]] de 1960 à 1992.
+* [[Georges Cravenne]], créateur des [[César du cinéma|Césars]], qui vécut à [[Charpont]].
+* [[Patrick Pesnot]], journaliste français, vécut à [[Bleury (Eure-et-Loir)|Bleury]] dont le maire et conseiller général fut son épouse Catherine jusqu'en 2004.
+* [[Jean-Marc Providence]] (muséographe, fondateur du [[Le Compa, conservatoire de l'Agriculture|Compa]], du [[Parc d'Aventures scientifiques et de Société|Pass]] (Belgique), commissaire du Pavillon français à l'[[exposition universelle]] d'[[Préfecture d'Aichi|Aichi]])
+* [[Jean-Pierre Coffe]], qui réside à [[Alluyes]].
+* [[Ève Ruggieri]], journaliste, écrivain, directrice artistique des [[Journées lyriques de Chartres et d'Eure-et-Loir]]
+* [[Arlette Chabot]], journaliste née à Chartres
+* [[Mireille Dumas]], animatrice de télévision née à Chartres
+* [[Lolita Lempicka]], créatrice de mode et de parfum, qui réside à [[Berchères-sur-Vesgre]].
+* [[Muriel Montossey]], actrice française et professeur de théâtre vivant à [[Dreux]]
+* [[Catherine Corsini]], réalisatrice, scénariste et actrice née à [[Dreux]]
+* [[Cécile de Ménibus]], animatrice de télévision née à Chartres
+* [[Dominique Chapatte]], journaliste sportif vivant à [[Gallardon]]
+* [[Alain Genestar]], journaliste, rédacteur de ''[[L'Écho républicain]]'' de 1980 à 1987
+* [[Bertrand Gallet (homme politique)|Bertrand Gallet]], député d'Eure-et-Loir, [[prix Albert-Londres]] en 1985
+* [[Jean Mainbourg]] - photographe de personnalités, né à [[Bernay (Eure)|Bernay]] le 28 novembre 1927
+* [[Garcimore]], illusioniste et humoriste, vécut et mourut au Gué de Longroi
+
+==== Politique ====
+* [[Louis-Philippe Ier|Louis-Philippe {{Ier}}]], [[Liste des comtes et ducs de Chartres|duc de Chartres]], et certains de ses ascendants et descendants reposent dans la [[chapelle royale de Dreux]].
+* [[François-André Isambert (avocat)]] (1792-1857), élu [[Liste des députés d'Eure-et-Loir|député d'Eure-et-Loir]] en 1830 et représentant d'Eure-et-Loir à l'[[Assemblée nationale constituante (Deuxième République)|Assemblée constituante de 1848]], cofondateur de la [[Société française pour l'abolition de l'esclavage]].
+* [[Charles Delescluze]], né à Dreux, journaliste et membre important de la [[Commune de Paris]].
+* [[William Waddington]], ministre de l'Instruction publique, né à [[Saint-Rémy-sur-Avre]].
+* [[Maurice Viollette]], élu d'Eure-et-Loir, [[Liste des maires de Dreux|maire de Dreux]] de 1908 à 1959.
+* [[Paul Deschanel]], [[Président de la République française|président de la République]], élu d'Eure-et-Loir.
+* [[Jean Moulin]], [[Liste des préfets d'Eure-et-Loir|préfet d'Eure-et-Loir]].
+* [[Charles Brune]], ministre des [[Postes, télégraphes et téléphones (France)|PTT]] et de l'Intérieur sous la [[Quatrième République (France)|{{IVe}} République]], élu d'Eure-et-Loir.
+* [[Maurice Bourgès-Maunoury]], [[Président du Conseil des ministres (France)|président du Conseil]] sous la {{IVe}} République.
+* [[Pierre July]], résistant et homme politique français, député d'Eure-et-Loir.
+* [[Maurice Dousset]], député d'Eure-et-Loir, président de la région [[Centre-Val de Loire]] de 1985 à 1998.
+* [[Georges Lemoine (homme politique)|Georges Lemoine]], homme politique, ancien ministre.
+* [[Françoise Gaspard]], sociologue, écrivain, féministe et femme politique française, ancienne députée-maire de Dreux.
+* [[Marie-France Stirbois]], députée d'Eure-et-Loir.
+* [[Henri d'Orléans (1908-1999)|Henri d'Orléans]], « [[Liste des comtes de Paris|comte de Paris]] », mort en 1999 à [[Cherisy]].
+* [[Yves Bonnet]], [[Préfet (France)|préfet]], directeur de la [[Direction de la Surveillance du territoire|DST]], ancien député de la [[Manche (département)|Manche]] né à Chartres.
+* [[François Huwart]], ancien ministre.
+* [[Pascal Ory]], historien, homme politique.
+* [[Michel Rousseau (économiste)|Michel Rousseau]], économiste, président de la [[Fondation Concorde]], ancien maire de [[Gallardon]], maire de [[Saint-Denis-des-Puits]].
+* [[Laurent Beauvais]], né à [[Nogent-le-Rotrou]], président du [[conseil régional de Basse-Normandie]] depuis avril 2008.
+{{Catégorie détaillée|élection en Eure-et-Loir}}
+
+==== Entreprises ====
+(par ordre alphabétique)
+* [[Marc Blondel]], ancien secrétaire général de [[Force ouvrière]], qui réside à [[Oysonville]] ;
+* [[Jean Daninos]], fondateur des automobiles [[Facel Vega]] ;
+* [[Firmin Didot]], typographe et imprimeur installé à [[Sorel-Moussel]] ;
+* [[Jean-Paul Guerlain]], président fondateur de la [[Cosmetic Valley]] ;
+* [[Hédiard|Ferdinand Hédiard]], né à [[La Loupe]], fondateur de la célèbre épicerie ;
+* [[Dominique Lefebvre (banquier)|Dominique Lefebvre]], né à [[Jouy (Eure-et-Loir)|Jouy]], président de [[Crédit agricole|Crédit agricole SA]] ;
+* [[Thierry Morin (personnalité du monde des affaires)|Thierry Morin]], né à Dreux, ancien [[Président-directeur général|PD-G]] de [[Valeo]], président du conseil d'administration de l'[[Institut national de la propriété industrielle]] ;
+* [[Colette Neuville]], chartraine, présidente-fondatrice de l'[[Association de défense des actionnaires minoritaires]] ;
+* [[Guillaume Pepy]] qui a des attaches familiales à [[Saulnières (Eure-et-Loir)|Saulnières]]<ref>[http://www.capital.fr/actualite/Default.asp?source=FI&numero=67461&Cat=PAM&numpage=1 Capital.fr ''Les petits secrets de Guillaume Pepy, nouveau président de la SNCF''], {{date-|21 février 2008}}, consulté le {{date-|16 novembre 2008}}.</ref> ;
+* [[Adrien Philippe]], né à [[La Bazoche-Gouet]], l'un des fondateurs de l'entreprise suisse d'horlogerie [[Patek Philippe]] ;
+* Thomas Waddington et son fils [[Richard Waddington]], manufacturiers dans l'industrie du coton à Saint-Rémy-sur-Avre et [[Saint-Lubin-des-Joncherets]].
+
+{{Saut|40}}
+<gallery mode="packed" caption="Personnalités reliées au département d'Eure-et-Loir.">
+Coronation of Hugues Capet 2.jpg|[[Hugues Capet]].
+HenriIV.jpg|[[Henri IV (roi de France)|Henri IV]].
+Atelier Clouet Diane de Poitiers.jpg|[[Diane de Poitiers]].
+Maximilien-de-Sully.jpg|[[Maximilien de Béthune (duc de Sully)|Sully]].
+Louis de Rouvroy duc de Saint-Simon.jpg|[[Louis de Rouvroy de Saint-Simon|Saint-Simon]].
+Francoise Aubigne 1.jpg|[[Madame de Maintenon]].
+Emmanuel Joseph Sieyès - crop.jpg|[[Emmanuel-Joseph Sieyès|Sieyès]].
+François Séverin Desgraviers-Marceau.jpg|[[François Séverin Marceau|Marceau]].
+Marcel Proust 1895.jpg|[[Marcel Proust]].
+Amadeo Modigliani 036.jpg|[[Chaïm Soutine]].
+Deschanel.jpg|[[Paul Deschanel]].
+StephaneGrappelli25.JPG|[[Stéphane Grappelli]].
+</gallery>
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+=== Bibliographie ===
+* {{Ouvrage |auteur1=Lucien Merlet |titre=Dictionnaire topographique de la France. Dictionnaire topographique du département d'Eure-et-Loir comprenant les noms de lieu anciens et modernes|sous-titre=rédigé sous les auspices de la [[Société archéologique d'Eure-et-Loir]], par M. Lucien Merlet ; publié par ordre du ministre de l'Instruction publique ; et sous la direction du [[Comité des travaux historiques et scientifiques|Comité des travaux historiques]] |lieu=Paris |éditeur= Impr. impériale |année=1861  |pages totales=254  |bnf=309310808 |lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k36741j }} ;
+* [http://www.population-demographie.org/revuehs_euretloir2002_p01.htm Revue Population et Avenir - Numéro hors série consacré à l'Eure-et-Loir (2002)].
+
+=== Articles connexes ===
+{{Colonnes|taille=30|
+* [[Conseil départemental d'Eure-et-Loir]]
+* [[Archives départementales d'Eure-et-Loir]]
+* [[Chambre de commerce et d'industrie d'Eure-et-Loir]]
+* [[Liste des arrondissements d'Eure-et-Loir]]
+* [[Liste des cantons d'Eure-et-Loir]]
+* [[Liste des communes d'Eure-et-Loir]]
+* [[Liste des anciennes communes d'Eure-et-Loir]]
+* [[Liste des monuments historiques d'Eure-et-Loir]]
+* [[Liste d'églises en Eure-et-Loir]]
+* [[Liste des sites Natura 2000 d'Eure-et-Loir]]
+* [[Liste de films tournés dans le département d'Eure-et-Loir]]
+{{Catégorie détaillée|Liste en rapport avec le département d'Eure-et-Loir}}
+}}
+{{Autres projets
+| commons       =Eure-et-Loir
+| commons titre ='''Galerie''' Eure-et-Loir
+| commons2      =Category:Eure-et-Loir
+| commons titre2='''Catégorie''' Eure-et-Loir
+| wiktionary  =Eure-et-Loir
+}}
+
+=== Liens externes ===
+* [http://www.eurelien.fr/ Conseil départemental d'Eure-et-Loir]
+* [http://www.Eure-et-Loir.pref.gouv.fr/ Préfecture d'Eure-et-Loir]
+* {{Lien web |langue=fr |titre=Association Églises ouvertes en Eure-et-Loir |url=http://www.eglises-ouvertes-eure-et-loir.fr/ |site=eglises-ouvertes-eure-et-loir.fr |consulté le=6 septembre 2020}}, en partenariat avec le [[diocèse de Chartres]], fondée en 1997 par le père Daniel Rambure
+{{Liens}}
+
+{{Palette|Parlementaires d'Eure-et-Loir|Préfectures et sous-préfectures du Centre-Val de Loire|Départements et métropole à statut de collectivité territoriale français}}
+{{Portail|Eure-et-Loir}}
+
+[[Catégorie:Eure-et-Loir|*]]

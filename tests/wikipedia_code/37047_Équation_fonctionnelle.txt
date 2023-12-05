@@ -1,0 +1,105 @@
+{{Ébauche|Analyse|}}
+
+En [[mathématiques]], une '''équation fonctionnelle''' est une [[équation]] dont les inconnues sont des fonctions. De nombreuses propriétés de fonctions peuvent être déterminées en étudiant les équations auxquelles elles satisfont. D'habitude, le terme « équation fonctionnelle » est réservé aux équations qu'on ne peut pas ramener à des équations plus simples, par exemple à des [[Équation différentielle|équations différentielles]].
+
+== Vocabulaire ==
+
+Le cas le plus fréquent est celui où les valeurs d'une fonction et éventuellement de ses dérivées, calculées en plusieurs points, doivent satisfaire une relation, dite ''relation fonctionnelle'', pour toutes les valeurs de la variable (du moins sur un certain domaine). Deux approches distinctes sont possibles :
+
+* lorsqu'on étudie une fonction en particulier, il peut être utile de mettre en évidence une relation fonctionnelle qu'elle satisfait, comme la relation  <math>x\Gamma(x)=\Gamma(x+1) \,</math> satisfaite par la [[Fonction gamma|fonction gamma d'Euler]], ou celle satisfaite par la [[fonction zêta de Riemann]] : <math>
+\zeta(s) = 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s)
+</math>. On en déduit ensuite d'autres propriétés de la fonction : par exemple que la fonction zêta de Riemann s'annule aux nombres entiers strictement négatifs pairs, et ne possède pas d'autres zéros en dehors de la bande 0 < ''Re(s)'' < 1 ;
+
+* lorsqu'on résout une équation fonctionnelle à proprement parler, on étudie l'ensemble des fonctions satisfaisant une relation donnée. Un exemple est la recherche des fonctions vérifiant <math>f\left({az+b\over cz+d}\right) = (cz+d)^k f(z)</math> (où ''a'', ''b'', ''c'' et ''d'' sont des [[entier naturel|entiers naturels]] vérifiant ''ad'' − ''bc'' = 1) qu'on appelle des [[forme modulaire|formes modulaires]]. <br>Il arrive que certaines conditions analytiques soient exigées. Le [[théorème de Bohr-Mollerup]] en est un exemple. En l'absence de ces conditions, une équation fonctionnelle très simple comme l'[[équation fonctionnelle de Cauchy]] peut avoir des solutions très irrégulières.
+
+Lorsque l'équation relie les valeurs d'une fonction et de ses dérivées en un même point, elle est appelée [[équation différentielle]]. D'autres équations utilisent des propriétés globales des fonctions inconnues ; on parle par exemple d'[[Équation intégrale|équations intégrales]], ou de [[Optimisation (mathématiques)|problèmes d'optimisation]] (lesquels sont l'objet du [[calcul des variations]]), comme le [[problème de Plateau]].
+
+== Exemples ==
+
+* {{math|''f''(''x'' + ''y'') {{=}} ''f''(''x'')''f''(''y'')}}, satisfaite par les [[exponentielle de base a|fonctions exponentielles]] ;
+* {{math|''f''(''xy'') {{=}} ''f''(''x'') + ''f''(''y'')}}, satisfaite par les [[logarithme|fonctions logarithmes]] ;
+* {{math|''f''(''x'' + ''y'') {{=}} ''f''(''x'') + ''f''(''y'')}} ([[équation fonctionnelle de Cauchy]]) ;
+* {{math|''f''(''x+T'') {{=}} ''f''(''x'')}}, définissant les [[Fonction périodique|fonctions périodiques]] de période ''T'' ;
+* {{math|''f''(''az'') {{=}} ''af''(''z'')(1 − ''f''(''z''))}} (équation de [[Henri Poincaré|Poincaré]]) 
+* {{math|''f''((''x'' + ''y'')/2) {{=}} (''f''(''x'') + ''f''(''y''))/2}} ([[Johan Jensen|Jensen]]) ;
+:Les solutions sont celles de l'équation fonctionnelle de Cauchy, à une constante près.
+* {{math|''f''(''x'' + ''y'') + ''f''(''x'' − ''y'') {{=}} 2''f''(''x'')''f''(''y'')}} (équation fonctionnelle de [[Jean le Rond D'Alembert|d'Alembert]])<br>Les solutions continues sont les fonctions constantes 0, 1, et les fonctions trigonométriques [[cosinus]] et [[cosinus hyperbolique]] ;
+* {{math|''f''(''h''(''x'')) {{=}} ''f''(''x'') + 1}} ([[Niels Henrik Abel|Abel]]) ;
+* {{math|''f''(''h''(''x'')) {{=}} ''cf''(''x'')}} ([[Ernst Schröder|Schröder]]).<br />L'[[équation de Schröder]] est satisfaite par la {{Lien|trad=Koenigs function|langue=en|fr=fonction de Koenigs}}.
+* {{math|''f''(''f''(''x'')) {{=}} ''g''(''x'')}}, autrement dit la détermination d'une [[racine carrée fonctionnelle]].
+* Une forme simple d'équation fonctionnelle est la [[relation de récurrence]], dont la fonction inconnue est une [[Suite (mathématiques)|suite]] (formellement : une fonction définie sur l'ensemble des entiers) et qui met en jeu l'[[opérateur de décalage]].
+* L'[[associativité]] et la [[commutativité]] sont des équations fonctionnelles. Quand la [[loi de composition interne]] est représentée sous sa forme habituelle, par un symbole entre les deux variables, son associativité s'écrit comme suit :<center><math>(a * b) * c = a * (b * c).</math></center>
+Mais si l'on écrit {{math|''f''(''a'', ''b'')}} au lieu de {{math|''a'' ∗ ''b''}}, alors l'associativité de la loi ressemble plus à ce que l'on entend conventionnellement par « équation fonctionnelle » :<center><math>f(f(a,b), c) = f(a, f(b,c)).</math></center>
+
+Un point commun à tous ces exemples est que dans chacun des cas, deux ou plusieurs fonctions (tantôt la multiplication par une constante, tantôt l'addition de deux variables, tantôt la fonction identité) sont substituées à l'inconnue.{{quoi}}
+
+== Formule de réflexion ==
+On parle de ''formule de réflexion'' est une équation fonctionnelle caractérisant une fonction {{mvar|f}} entre sa valeur en tout point {{mvar|x}} d'un domaine défini et sa valeur en {{mvar|-x}}, ou plus généralement, sa forme [[Opérateur de décalage|décalée]] {{math|''f''(''a-x'')}}.
+
+=== Exemples ===
+Les formules de réflexion simples comme <math> f(x) = f(-x)</math> ou <math> f(x) = -f(-x)</math> impliquent l'étude de la [[Parité d'une fonction|parité des fonctions solutions]] (la première caractérise les fonctions paires, la seconde pour les fonctions impaires).
+
+Un des exemples les plus connus est la formule des compléments de la [[fonction gamma]], démontré par [[Leonhard Euler]]<ref>{{ouvrage|lang=en|auteur=J. Havil|titre=Gamma: Exploring Euler's Constant|lieu=Princeton, NJ|éditeur=Princeton University Press|année=2003}}.</ref>
+:<math>\forall z \in ]0;1[,\ \Gamma(z)\Gamma(1-z) = \frac{\pi}{\sin(\pi z)}.</math>
+
+La formule de réflexion pour la [[fonction zêta de Riemann]] est donnée par :
+:<math>\zeta(1-z)=\frac{2}{(2\pi)^z}\cos\left(\frac{\pi z}{2}\right) \Gamma(z)\zeta(z).</math>
+qu'on peut réécrire de façon équivalente<ref>{{ouvrage|lang=en|auteur1=Edward Charles Titchmarsh|auteur2=David Rodney Heath-Brown|titre=The theory of the Riemann zeta-function|éditeur=Oxford university press|année=1986}}.</ref>
+:<math>-\pi\zeta(-z)=\frac{1}{(2\pi)^z}\sin\left(\frac{\pi z}{2}\right) \Gamma(z+1)\zeta(z+1).</math>
+
+La [[fonction xi de Riemann]] vérifie la formule de réflexion
+:<math>\xi(z)=\xi(1-z).</math> 	
+
+La [[fonction G de Barnes]] vérifie la formule de réflexion
+:<math>G(z+1)=\Gamma(z)G(z).</math> 
+
+Le [[dilogarithme]] vérifie les formules de réflexion
+:<math>\mathrm{Li}_2(\frac{1}{z})=-\mathrm{Li}_2(z) -\frac{\pi^2}{6} -\frac12 \ln(-z)^2.</math>
+:<math>\mathrm{Li}_2(1-z)=-\mathrm{Li}_2(z) +\frac{\pi^2}{6} -\ln(z)\ln(1-z).</math>
+
+La [[fonction L de Rogers]] vérifie la formule de réflexion
+:<math>L(x)+L(1-x)=1.</math> 	
+
+La [[série L de Dirichlet]] associée à la [[fonction tau de Ramanujan]] {{math|''f''(''s'')}} vérifie la formule de réflexion<ref>{{ouvrage|lang=en|auteur=Godfrey Hardy|titre=Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work|édition=3|lieu= Chelsea|année=1999}}.</ref>
+:<math>\frac{f(s)\Gamma(s)}{(2\pi)^s}=\frac{f(12-s)\Gamma(12-s)}{(2\pi)^{12-s}}. </math>
+
+== Relation de duplication ==
+
+On parle de formule de duplication quand l'équation fonctionnelle fait intervenir les valeurs en {{math|''f''(2''x'')}} ou {{math|''f''(''x''{{2}})}}
+
+=== Exemples ===
+
+De ses liens avec la [[fonction bêta]], on peut montrer que la [[fonction gamma]] vérifie la « formule de duplication de Legendre » :
+:<math>\frac{\Gamma(z)^2}{\Gamma(2z)}=2^{1-2z}\frac{\Gamma(\frac12)\Gamma(z)}{\Gamma(z+\frac12)}.</math> 
+
+Le [[dilogarithme]] satisfait à<ref>{{Chapitre|lang=en|auteur=[[Don Zagier]]|auteurs ouvrage=[[Pierre Cartier]], [[Pierre Moussa]], [[Bernard Julia]] et [[Pierre Vanhove]] (éds.)|titre ouvrage=Frontiers in Number Theory, Physics, and Geometry|vol=II|année=2007|page=3-65|isbn=978-3-540-30308-4|doi=10.1007/978-3-540-30308-4_1|lire en ligne=https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/978-3-540-30308-4_1/fulltext.pdf|titre chapitre=The Dilogarithm Function}}.</ref>
+:<math>\mathrm{Li}_2(z^2)=2 (\mathrm{Li}_2(z) + \mathrm{Li}_2(-z)).</math>
+
+La [[fonction L de Rogers]] vérifie la formule de duplication<ref>{{article|lang=en|auteur1=Basil Gordon|auteur2=Robert J. Mcintosh|titre=Algebraic Dilogarithm Identities|périodique=The Ramanujan Journal|numéro=1|pages=431-448|année=1997|doi=10.1023/A:1009709927327}}</ref> :
+:<math>\frac12 L(x^2)=L(x)-L \left(\frac{x}{1+x}\right).</math>
+
+== Applications ==
+{{section à sourcer|date=novembre 2022}}
+;Etude de fonctions
+Les équations fonctionnelles peuvent faire apparaitre des propriétés remarquables des solutions (symétrie, domaine de définition, ...) et simplifient l'expression de certaines valeurs.
+
+;Calcul de valeurs particulières
+Les formules de réflexion permettent le calcul de valeurs particulières de fonctions spéciales. Par exemple, en sachant que la fonction gamma est positive sur {{math|]1,+∞[}}, la formule des compléments prise en {{math|''z'' {{=}} {{frac|1|2}}}} permet d'établir que {{math|Γ({{frac|1|2}}) {{=}} {{racine|{{mathPi}}}}}}.
+
+;Prolongement analytique
+Par les formules de réflexion, on peut définir un prolongement analytique de la fonction. Par exemple, la définition de base de la fonction zêta de Riemann n'est valable que pour tout nombre complexe de partie réelle strictement supérieure à 1, or la formule de réflexion donnée permet de l'étendre sur tout le plan complexe, sauf 0 et 1.
+
+== Notes et références ==
+{{Traduction/Référence|en|Functional equation|11767627}}
+{{Références}}
+
+=== Bibliographie ===
+* {{mathworld|nom_url=ReflectionRelation|titre=Reflection Relation}}
+* {{mathworld|nom_url=AbelsDuplicationFormula|titre=Abel's Duplication Formula}}
+* {{mathworld|nom_url=LegendreDuplicationFormula|titre=Legendre Duplication Formula}}
+* {{Ouvrage|lang=en|auteur={{Lien|trad=János Aczél (mathematician)|langue=en|fr=János Aczél}}|titre=Lectures on Functional Equations and Their Applications|éditeur=[[Academic Press]]|année=1966|url={{Google Livres|n7vckU_1tY4C}}}}
+* {{chapitre|auteur=[[Jean Dhombres]]|url={{Google Livres|cXz2Prhg7jMC|page=179}}|titre=Une conception architecturale des mathématiques : la [[séparation des variables]] chez [[Johann Friedrich Pfaff|Pfaff]]|titre ouvrage=Entre mécanique et architecture|auteurs ouvrage=Patricia Radelet-de Grave et Edoardo Benvenuto|éditeur=[[Birkhäuser]]|année=1995|isbn=978-3-76435128-1|page= 205-220}}
+
+{{portail|analyse}}
+
+[[Catégorie:Équation fonctionnelle|*]]

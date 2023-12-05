@@ -1,0 +1,199 @@
+{{Confusion|Gare de Stains-La Cerisaie|Gare de Stains-Grande-Ceinture|Gare de Pierrefitte-Nestalas}}
+{{Infobox Gare
+| nom                   = Pierrefitte - Stains
+| image                 = Pierrefitte-Stains IMG 0278.jpg
+| légende               = Bâtiment voyageurs.
+| titre pays            = 
+| pays                  = [[France]]
+| titre ville           = 
+| ville                 = [[Pierrefitte-sur-Seine]]
+| titre quartier        = 
+| quartier              = 
+| adresse               = 1, place du Général-Leclerc<br>[[Pierrefitte-sur-Seine]] (RER D)<br>Rue Joséphine-Baker<br>[[Stains]] (T11)
+| latitude              = 48.963873
+| longitude             = 2.372285
+| propriétaire          = [[Société nationale des chemins de fer français|SNCF]]
+| exploitant            = SNCF (RER D)<br>[[Transkeo]] (T11)
+| titre services        = 
+| services              = {{RER/correspondances avec intitulé|D}} {{Tramway d'Île-de-France/correspondances avec intitulé|11}}
+| lignes                = • [[Ligne de Paris-Nord à Lille|Paris-Nord à Lille]]<br>• [[Ligne de la grande ceinture de Paris|Grande ceinture de Paris]]<br>• [[Ligne 11 Express du tramway d'Île-de-France|Sartrouville à Noisy-le-Sec (tangentielle légère nord)]]
+| voies                 = 8
+| quais                 = 2
+| transit               = {{Unité|10175300|voyageurs}} {{Petit|(2018)}}
+| zone                  = IDF/4
+| altitude              = 46
+| mise en service       = {{Date|10|mai|1859|dans les chemins de fer}}
+| fermeture             = 
+| titre corresp 1       = Bus RATP
+| corresp 1             = {{Bus RATP/correspondances avec intitulé|150|168|268|337|361}}
+| titre corresp 2       = Noctilien
+| corresp 2             = {{Noctilien/correspondances avec intitulé|N44}}
+}}
+
+La '''gare de Pierrefitte - Stains''' est une [[gare ferroviaire]] [[France|française]] des lignes de [[Ligne de Paris-Nord à Lille|Paris-Nord à Lille]] et de Sartrouville à Noisy-le-Sec (tangentielle légère nord), située près de l'ex-[[route nationale 301]], au nord-est du [[centre-ville]], sur le territoire de la [[Commune (France)|commune]] de [[Pierrefitte-sur-Seine]], à proximité de celle de [[Stains]], dans le département de la [[Seine-Saint-Denis]], en région [[Île-de-France]].
+
+Mise en service en [[1859 dans les chemins de fer|1859]], par la [[Compagnie des chemins de fer du Nord]], cette gare de la [[Société nationale des chemins de fer français]] (SNCF) est desservie par les trains de la [[Ligne D du RER d'Île-de-France|{{nobr|ligne D}} du RER]] et les trams-trains de la [[ligne 11 Express du tramway d'Île-de-France]].
+
+== Situation ferroviaire ==
+Établie à {{unité|46|mètres}} d'altitude, la gare de Pierrefitte - Stains est située au [[point kilométrique]] (PK) 10,111 de la [[ligne de Paris-Nord à Lille]], entre les gares de [[Gare de Saint-Denis|Saint-Denis]] et de [[Gare de Garges - Sarcelles|Garges - Sarcelles]]<ref >{{Ouvrage |auteur1=Reinhard Douté |titre=Les 400 profils de lignes voyageurs du réseau français |sous-titre=lignes 001 à 600 |volume=1 |éditeur=[[Les Éditions La Vie du rail|La Vie du Rail]] |lieu=Paris |année=2011 |pages totales=239 |passage=104 |isbn=978-2-918758-34-1 |titre chapitre=[272/1] Paris-Nord - Creil|note=<!-- erreur BnF sur langue/traduction -->}}.</ref>.
+
+La gare est implantée près d'un [[Raccordement (chemin de fer)|raccordement]] vers la [[ligne de la grande ceinture de Paris]] (utilisée par le [[Train de fret|trafic de fret]]), qui atteint cette dernière à proximité immédiate de la gare désaffectée de [[Gare de Stains-Grande-Ceinture|Stains-Grande-Ceinture]].
+
+== Histoire ==
+=== Origine ===
+Le {{Date-|12 février 1844}}, le maire informe le conseil municipal que la « [[Compagnie des chemins de fer du Nord|Compagnie du chemin de fer de Paris en Belgique (par Pontoise)]] »<ref group=Note>Il s'agit en fait de la [[Compagnie des chemins de fer du Nord]] et du premier tracé ouvert entre les gares de Saint-Denis et Creil de la [[ligne de Paris-Nord à Lille]].</ref> se propose d'établir une station à [[Saint-Denis (Seine-Saint-Denis)|Saint-Denis]] à la maison de Seine<ref group=Note>C'est l'emplacement de la [[gare de Saint-Denis]].</ref>. Lors de sa délibération le conseil estime qu'une station établie à cet endroit n'a aucune utilité et émet le vœu qu'elle soit construite sur la place aux Gueldres (aujourd'hui [[place de la Résistance-et-de-la-Déportation]]).
+
+[[Fichier:DétailCarteCFNord1845.jpg|vignette|gauche|Détail de la carte du chemin de fer du Nord (1845), avec la situation de la station de Saint-Denis et des villages de Pierrefitte et de Stains.]]
+Deux ans plus tard, le {{Date-|7 mai 1846}} le conseil doit donner son avis sur un projet d'une ligne de chemin de fer de Paris à [[Gare de Louvres|Louvres]]. Il vote contre car les localités desservies sont trop proches de Paris et parce que cette ligne apporterait un grand trouble dans les habitudes de travail des habitants du fait qu'elle enlèverait {{Unité|180|hectares}} de terre agricole de première classe. Il précise que le prix d'achat proposé, de {{Unité|8000|francs}} l'hectare, devrait être doublé et que par ailleurs si, en dépit de cette vive opposition, la voie ferrée était créée, il réclamerait une station sur Pierrefitte et de plus un chemin de terre parallèle à la ligne et la longeant des deux côtés<ref>{{Harvsp|texte=Fernand Bournon, 1896  |id=FernandBournon1896 |p=18-19}}.</ref>.
+
+La concession à la Compagnie du Nord est accordée le {{Date|13|août|1853|dans les chemins de fer}}, pour une ligne de [[Gare de Paris-Nord|Paris]] à [[Gare de Creil|Creil]] par [[Gare de Chantilly - Gouvieux|Chantilly]]. Les études sont achevées et approuvées en {{Date-|avril 1855}}<ref name="Palau2001p67">{{Ouvrage |langue=fr |auteur1=François Palau |auteur2=Maguy Palau |titre=Le rail en France |sous-titre=Le Second Empire |tome=2 (1858-1863) |éditeur=Palau |lieu=Paris |année=2001 |pages totales=221 |passage=67 |isbn=2-9509421-2-1}}.</ref>. Le sujet de l'ouverture d'une station sur la commune est à l'ordre du jour du conseil municipal du {{Date-|12 juin 1856}}. Il délibère sur la question de l'établissement d'une station sur une nouvelle ligne de Saint-Denis à Creil par Chantilly. Il est demandé que tous les trains omnibus s'y arrêtent et que, dans l'impossibilité de donner le nom des « onze communes » qu'elle est appelée à desservir, elle porte le nom de « Pierrefitte » puisque c'est sur son territoire qu'elle est située et aussi parce que la commune de Stains ne vient qu'en second lieu dans l'ordre alphabétique comme dans celui de la situation et de l'importance<ref>{{Harvsp|texte=Fernand Bournon, 1896|id=FernandBournon1896 |p=19-20}}.</ref>. Sous la direction de l'ingénieur de la Compagnie [[François Hippolyte Désiré Mantion|Mantion]]<ref>{{Article |titre=M. Mantion (notice nécrologique) |périodique=Le Génie Civil |numéro= 794|date=28 août 1897 |pages= |lire en ligne=http://clio.ish-lyon.cnrs.fr/patrons/AC000007337/AC000007337Doc174.pdf |consulté le=28 septembre 2016}}.</ref>, les chantiers de construction sont ouverts en 1857. La première station après l'embranchement à la sortie de la gare de Saint-Denis est celle dénommée « Pierrefitte-Stains », située à l'est de Pierrefitte sur le plateau calcaire. Elle est suivie par la [[Gare de Villiers-le-Bel - Gonesse - Arnouville|station de Villiers-le-Bel]]<ref name="Palau2001p67"/>.
+
+=== Gare de la Compagnie du Nord ===
+La « station de Pierrefitte-Stains » est mise en service le {{Date|10|mai|1859|dans les chemins de fer}} par la [[Compagnie des chemins de fer du Nord|Compagnie du Nord]], lorsqu'elle ouvre à l'exploitation sa nouvelle ligne, à double voie, de Saint-Denis à Creil par Chantilly<ref name="Palau2001p67"/>.
+
+[[Fichier:VP6 - PRFT - La gare.JPG|vignette|Le bâtiment voyageurs vers 1900.]]
+
+En 1864, le ''[[Guides Joanne#Les guides-itinéraires|Guide Joanne]]'' indique : Pierrefitte - Stains est la deuxième station intermédiaire de l'itinéraire de Paris à [[Gare centrale de Cologne|Cologne]] si l'on prend après Saint-Denis l'itinéraire le plus court, qui passe par [[Gare de Chantilly - Gouvieux|Chantilly]], comme le font tous les trains express et presque tous les trains omnibus à destination de la [[Belgique]], de [[Gare de Boulogne-Ville|Boulogne]], de [[Gare de Calais-Ville|Calais]] et de [[Gare de Dunkerque|Dunkerque]]. Le gain de temps est d'une demi-heure par rapport à l'itinéraire le plus ancien qui passe par [[Gare de Pontoise|Pontoise]] et l'économie est d'environ de deux francs pour une place en première classe. La station, située à {{Unité|11|kilomètres}} de Paris, est établie, à {{Unité|1000|mètres}} du village de Pierrefitte qui compte {{Unité|915|habitants}} et à {{Unité|2000|mètres}} de celui de [[Stains]] qui compte {{Unité|1038|habitants}}, dans le [[Seine (département)|département de la Seine]]<ref>{{Ouvrage |auteur1=A. Morel |titre=De Paris à Cologne, à Bruxelles, à Senlis, à Laon, à Dinant, à Givet, à Luxemburg, à Trèves, à Maestricht |sous-titre=itinéraire descriptif et historique |éditeur=Libr. de L. Hachette et Cie. |collection=[[Guides Joanne#Les guides-itinéraires|Guide Joanne]] |lieu=Paris |année=1864 |pages totales=464 |passage=26-27 |lire en ligne=https://books.google.fr/books?id=7iMjRpkY1o4C&pg=PA26}}.</ref>.
+
+Le {{date|5|janvier|1864}} après-midi, la gare est le théâtre d'un des premiers [[Liste des accidents ferroviaires en France au XIXe siècle|accidents ferroviaires]] de l'histoire : le train {{Numéro|24}} venant de [[Calais]] à destination de Paris est arrêté par suite d'une rupture de [[Bielle (mécanique)#Machine à vapeur|bielle d'accouplement de la locomotive]] lorsqu'il est percuté par le train {{numéro|26}} venant de [[Bruxelles]] et à destination de Paris, qui écrase les cinq dernières voitures de l'omnibus, dont on tirera six morts et dix-neuf blessés. Le train tamponneur, qui a accéléré pour rattraper un retard de dix minutes, ne parvient pas à s'arrêter, bien qu'un disque rouge ait été placé par l'aiguilleur de la route de Gonesse et qu'on lui ait fait des signaux de ralentissement. Le 31 janvier, le tribunal correctionnel de Paris condamnera le mécanicien du train tamponneur à trois ans de prison, son chauffeur et le chef de train à six mois et {{unité|300|francs}} d'amende pour n'avoir pas respecté la signalisation couvrant le train en panne et déclare la Compagnie du Nord responsable civilement<ref>{{Article |titre=566 Catastrophe de Pierrefitte - le 5 janvier 1864 |périodique=Répertoire méthodique et alphabétique de législation, de doctrine et de jurisprudence en matière de droit civil, commercial, criminel, administratif, de droit des gens et de droit public |volume=24 |date=1964 |pages=970-971 |lire en ligne=https://books.google.fr/books?id=RGgUAAAAYAAJ&pg=PA971#v=onepage&q&f=false |consulté le=29 septembre 2016}}.</ref>.
+
+[[Fichier:CAF - Us. de la Cie Lincrusta Walton fse & Loreide reunis à Pierrefitte.jpg|vignette|droite|alt=Vue aérienne de la gare (à gauche) et du raccordement de la Grande Ceinture.|À gauche, la gare ; à droite, le raccordement de la Grande Ceinture (vers 1930).]]
+Le raccordement avec la [[Ligne de la grande ceinture de Paris|ligne de la grande-ceinture]] est ouvert le {{Date|20|novembre|1884|dans les chemins de fer}}. Long de {{unité|1000|mètres}}, il s'embranche à proximité de la gare<ref>{{Article |titre=Chemin de fer d'intérêt général livrés à l'exploitation pendant l'année 1884 : Compagnies principales : Nord |périodique=[[Revue générale des chemins de fer]] |volume= |numéro= |date=1885 {{1er|semestre}} |pages=362ter|lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k6476608b/f384 |consulté le=29 septembre 2016}}.</ref>.
+
+En 1896, la desserte de la gare de « Pierrefitte-Stains » est, entre cinq heures du matin et minuit trente, de treize trains en direction de Paris et de quatorze trains en direction de Creil. Il faut dix-sept minutes aux trains pour parcourir les onze kilomètres jusqu'à la [[gare de Paris-Nord]]. Pour Paris, le prix varie en fonction de la classe. Il est possible de prendre un billet simple, un aller-retour ou une carte d'abonnement pour, un, trois, six ou douze mois. Il y a des réductions pour les élèves de moins ou de plus de dix-huit ans, les étudiants des facultés et les ouvriers. Le prix sans réduction, en troisième classe, est de {{Unité|0.55|franc}} pour un billet simple, de {{Unité|0.85|franc}} pour un aller-retour, et pour les cartes d'abonnement de {{Unité|21|francs}} pour un mois à {{Unité|106|francs}} pour un an<ref>{{Harvsp|texte=Fernand Bournon, 1896 |id=FernandBournon1896 |p=44-45}}.</ref>.
+
+Le {{date|6|avril|1905}}, la gare est le lieu d'une rencontre entre le Président de la République [[Émile Loubet]] et le roi d'Angleterre [[Édouard VII]], qui se rend en train de [[Calais]] à [[Marseille]] pour effectuer une croisière en [[mer Méditerranée]]. Le Président effectue le trajet avec lui jusqu'à la [[Paris-Gare-de-Lyon|gare de Lyon]]<ref>{{lien web|url=http://www.mairie-pierrefitte93.fr/content/download/17469/240439/file/VAP30Edouard.pdf |format=PDF |titre=Escale royale à Pierrefitte|éditeur=Ville de Pierrefitte|consulté le=28 septembre 2016}}.</ref>. En 1907, la gare dispose de quatre voies<ref>{{Ouvrage |langue=fr |auteur1=Michel Rival |titre=Le Refoulons |sous-titre=Chemin de fer d'Enghien à Montmorency |éditeur=Éditions du Valhermeil |lieu=Paris |année=1989 |pages totales=285 |passage=248 |isbn=2-905684-20-8 |ean=9782905684202}}.</ref>. Le {{Date-|25 janvier 1917}}, sont déclarés d'utilité publique les travaux pour réaliser une ligne du réseau des [[Compagnie des tramways de Paris et du département de la Seine|Tramways de la Seine]], dit départemental Nord, suivant le décret de constitution du {{Date-|31 mai 1910}}, allant de la [[Porte de Clignancourt (métro de Paris)|station du métropolitain]] de la [[Porte de Clignancourt]] à la gare de Pierrefitte-Stains, via Saint-Denis<ref>{{Article |titre=État des affaires municipales et départementales : Tramways de la gare de Pierrefitte-Stains à Saint-Denis et à la Porte de Clignancourt |périodique=Bulletin de la Chambre de commerce de Paris |date=27 janvier 1917 |pages=117 |lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k5718448n/f125 |consulté le=29 septembre 2016}}.</ref>.
+
+=== Gares de la SNCF ===
+==== Historique de la gare ====
+La gare de Pierrefitte - Stains, comme notamment l'ensemble du réseau de la Compagnie du Nord, [[Histoire de la SNCF|entre officiellement]] dans le réseau de la [[Société nationale des chemins de fer français]] (SNCF) le {{Date|1|janvier|1938|dans les chemins de fer}}<ref>{{Ouvrage |auteur1=Françoise Berger |auteur2=Gilles Ferragu |titre=Le XXe siècle |éditeur=Hachette Éducation |collection=HU Histoire contemporaine |année=2016 |pages totales=416 |passage=107 |isbn=978-2-01-320112-4 |isbn2=2-01-320112-5 |lire en ligne=https://books.google.fr/books?id=DUd1CwAAQBAJ&pg=PA107}}.</ref>. Lors de la [[Seconde Guerre mondiale]], en 1944, la gare est renommée « Pierrefitte-Seine » à la suite d'une demande de la municipalité, nommée par le [[Régime de Vichy|gouvernement de Vichy]], avec comme argument le fait qu'il y avait d'autres gares portant le nom de « Pierrefitte »<ref>{{Harvsp|texte=Louis Bordes, 1979|id=LouisBordes1979|p=155}}.</ref>.
+
+En 1967, à la suite de la [[Réorganisation de la région parisienne en 1964|réorganisation de la région parisienne]], la SNCF décide, sans en informer les municipalités, de renommer la gare en « Pierrefitte-Seine-Saint-Denis ». Les titres de transport sont imprimés avec ce nouveau nom, mais le service Voies et Bâtiments trouve cette dénomination trop longue pour figurer sur les panneaux de quais et n'inscrit, sur les plaques fixées aux bâtiments, que « Pierrefitte ». Les élus de Stains protestent vigoureusement et insistent pour que l'on revienne à l'ancienne dénomination. Il faudra six ans pour que leur vœu soit exaucé en {{Date-|mai 1973}}, où la gare retrouve son nom d'origine « Pierrefitte - Stains »<ref>{{Harvsp|texte=Louis Bordes, 1979|id=LouisBordes1979|p=156}}.</ref>. L’esplanade de la gare a été entièrement rénovée en 1981. En 1983 et 1984, un passage souterrain est construit par la SNCF pour éviter aux voyageurs de faire un détour par le bout du quai<ref name="RERD"/>. Le [[Ligne D du RER d'Île-de-France|{{nobr|RER D}}]] est inauguré le {{date-|27 septembre 1987}} avec un train tous les quarts d’heure en journée puis un toutes les demi-heures après {{heure|21|45}}. L'inauguration officielle a lieu en gare le lendemain à {{heure|18}} par le maire [[Liste des maires de Pierrefitte-sur-Seine|Daniel Bioton]]<ref name="RERD">{{lien web|url=https://archives.mairie-pierrefitte93.fr/2017/07/1987-le-rer-a-pierrefitte/|titre=1987 : le RER à Pierrefitte|site=mairie-pierrefitte93.fr|date={{1er|juillet}} 2017|auteur=|consulté le=15 décembre 2018}}</ref>. Une [[gare routière]] est créée en 1998, ce qui permet aux voyageurs de prendre une correspondance avec les bus dans de meilleures conditions. En 2003, le nombre de voyageurs qui fréquentent quotidiennement la gare se situe entre {{formatnum:7500}} et {{formatnum:15000}}<ref>[http://213.139.127.233/atlas06/ferre.php?saveExt=ok&extcurr=# Stif - Atlas des transports publics en Île-de-France].</ref>.
+
+Au cours des mois, de mars, avril et mai 2015, la gare n'est pas desservie par les trains de la [[Ligne D du RER d'Île-de-France|ligne D]] dans le cadre de la réalisation de travaux concernant le « [[Ligne 11 Express du tramway d'Île-de-France|tramway T11 Express]] »<ref>{{Lien web |titre=RER D : interruptions de desserte de la gare de Pierrefitte-Stains (Six weekends concernés jusqu'au 31 mai) |url=http://www.plainecommune.fr/actualites/actualites/actualite-detaillee/article/rer-d-interruptions-de-desse/#.V-zaoS-UdTY |date=9 mars 2015 |site=/www.plainecommune.fr |consulté le=29 septembre 2016}}.</ref>. La voie 1L est déplacée pour dégager l'espace nécessaire à la réalisation d'un quai central, encadré par les voies 1L et 2L, afin de permettre les relations piétonnes avec la nouvelle ligne. Cette étape est suivie, en septembre, par la pose, avec une grue, d'une passerelle métallique établie en surplomb des quatre voies (RER et Grandes lignes). Longue de {{unité|64|m}} et pesant {{Unité|63|tonnes|}}, elle est posée et scellée sur les appuis établis de chaque côté de la plateforme ferroviaire. Elle permet aux voyageurs d'effectuer des échanges entre les quais du RER et ceux de la nouvelle ligne. Pour son accessibilité, le nouveau quai est desservi par un plan incliné et des ascenseurs<ref>{{Lien web |titre=Aménagement de la correspondance entre la gare de Pierrefitte-Stains et la future Tangentielle Nord |url=https://maligned.transilien.com/2015/09/11/amenagement-de-la-correspondance-entre-la-gare-de-pierrefitte-stains-et-la-future-tangentielle-nord/#more-7960 |date=11 septembre 2015 |site=ttps://maligned.transilien.com/ |consulté le=29 septembre 2016}}.</ref>.
+
+En 2018, selon les estimations de la SNCF, la fréquentation annuelle de la gare est de {{Unité|10175300|voyageurs}}, nombre arrondi à la centaine la plus proche<ref>{{Lien web |url=https://ressources.data.sncf.com/explore/dataset/frequentation-gares/table/?q=87271163 |titre=Fréquentation en gares |sous-titre=Pierrefitte - Stains |site=[https://ressources.data.sncf.com SNCF Open Data] |date=traitement du {{Date-|28 novembre 2019}} [{{cf.}} l'onglet des informations] |consulté le=21 octobre 2020}}.</ref>.
+
+==== Correspondance entre les gares du RER D et du T11 Express ====
+En juillet [[2017]], la gare est mise en correspondance avec la [[Ligne 11 Express du tramway d'Île-de-France|ligne de tramway {{nobr|T11 Express}}]] qui est dotée d'un bâtiment voyageurs au sud des voies du T11<ref>{{lien web|url=http://www.leparisien.fr/info-paris-ile-de-france-oise/transports/tramway-t11-des-gares-ecolos-a-decouvrir-30-06-2017-7101942.php|titre=Tramway T11 : des gares écolos à découvrir|éditeur=leparisien.fr|date=30 juin 2017|auteur=Jean-Gabriel Bontinck|consulté le=2 juillet 2017}}</ref>. La gare tramway est située rue Joséphine Baker, impasse donnant sur l'avenue Colonel Rol-Tanguy à Stains<ref name="sadur"/>. Si la gare est en {{nobr|zone 4}}, l'arrêt de bus la jouxtant est en [[Tarification des transports en commun d'Île-de-France|{{nobr|zone 3}} de la tarification Île-de-France]]<ref name="sadur"/>.
+
+La passerelle de liaison, équipée d'escaliers fixes, d'un [[escalier mécanique]] et d'[[ascenseur]]s, est alors mise en service et relie le nouveau quai central du RER, opérationnel depuis juin 2017, à la nouvelle gare du T11 Express<ref name="sadur">{{lien web|url=http://portail.sadur.org/s-informer/l-actualite-du-rer-d/680-t11-ouverture|titre=La ligne de tramway T11 est ouverte !|éditeur=sadur.org|date=2 juillet 2017|consulté le=24 juillet 2017}}</ref>.
+
+L'ouverture de la gare T11 renforce l'attractivité de la zone des Tartres qui lui fait face. En 2019, la première pierre d'un centre d'affaires de {{unité|25000|m|2}} est posée afin d'accueillir en 2020 un centre de recherche d’[[Engie]], le Crigen ({{unité|250|emplois}}), mais également un centre de formation de [[Total (entreprise)|Total]]<ref>{{lien web|url=https://www.leparisien.fr/seine-saint-denis-93/grand-paris-le-campus-urbain-de-stains-ouvre-la-voie-au-chantier-de-la-metropole-11-03-2019-8029497.php|titre=Grand Paris : le campus urbain de Stains ouvre la voie au chantier de la métropole|site=leparisien.fr|date=11 mars 2019|auteur=Fanny Rocher|consulté le=11 mars 2019}}.</ref>. Le Conseil régional décide fin 2017 la construction d'un [[lycée en France|lycée]] devant ouvrir à proximité pour la rentrée 2021<ref>{{lien web|url=http://www.leparisien.fr/seine-saint-denis-93/un-lycee-a-pierrefitte-a-l-horizon-2021-22-11-2017-7409217.php|titre=Un lycée à Pierrefitte à l’horizon 2021|éditeur=leparisien.fr|date=22 novembre 2017|auteur=Maxime François|consulté le=9 avril 2018}}.</ref>.
+
+<gallery mode="packed" caption="Galerie de photographies">
+Quais gare Pierrefitte-Stains.jpg|<center>Le nouveau quai central.</center>
+Quais et voies de la gare de Pierrefitte-Stains.jpg|<center>Le quai central.</center>
+Gare T11 Express de Pierrefitte-Stains.jpg|<center>L'accès à la gare du T11 Express.</center>
+</gallery>
+
+==== Restructuration d'ici 2025 ====
+En 2021, une enquête publique est menée sur un projet de restructuration de la gare qui inclut la construction d'un nouveau bâtiment voyageurs plus proche des voies (l'ancien devant être affecté à de nouveaux usages), la rénovation de la gare routière avec la mise en place d'un alternat pour les bus, ainsi que la création de stationnements vélo. Les travaux d'un montant évalué à près de {{Unité|21 millions}} d'euros sont prévus entre 2023 et 2025<ref>{{lien web|url=https://www.leparisien.fr/seine-saint-denis-93/rer-dtram-t11-pres-de-21-millions-deuros-pour-transformer-la-gare-de-pierrefitte-stains-et-ses-abords-24-11-2021-ERADT6FWCBCFTEETOQUOKFYHWI.php|titre=RER D/Tram T11 : près de 21 millions d’euros pour transformer la gare de Pierrefitte-Stains et ses abords|site=leparisien.fr|date=24 novembre 2021|auteur=|consulté le=25 novembre 2021}}.</ref>.
+
+== Service des voyageurs ==
+=== Accueil ===
+Gare SNCF du réseau [[Transilien]], elle dispose de deux bâtiments voyageurs (un principal pour la gare de la ligne du RER D et un autre destiné à l'accès au T11 Express). Le bâtiment voyageurs historique, destiné à l'accès aux trains de la ligne du RER D, accueille un guichet ouvert tous les jours. Elle est équipée d'automates pour l'achat de titres de transport Grandes lignes et Transilien et du système d'information sur les horaires des trains en temps réel. Pour l'accessibilité des personnes à mobilité réduite, elle dispose : d'un guichet adapté, de bandes d'éveil de vigilance sur les quais, de boucles magnétiques. Une boutique presse tabac, une cabine photographique automatique et des automates pour des boissons, froides ou chaudes, et des friandises sont installées dans le hall<ref name="SNCFTransilienGare">{{Lien web|url=https://www.transilien.com/fr/gare/pierrefitte-stains-8727116|titre=Gare PIERREFITTE STAINS|site=transilien.com|consulté le=2 juillet 2017}}.</ref>{{,}}<ref>{{Lien web |titre=Tangentielle nord - Grutage d'une passerelle |url=http://www.chantiersdefrance.fr/marches/tangentielle-nord-grutage-dune-passerelle/ |date=Septembre 2015 |site=Chantiers de France |consulté le=29 septembre 2016}}.</ref>.
+
+Le bâtiment voyageurs destiné au trafic de la ligne [[Ligne 11 Express du tramway d'Île-de-France|T11 Express]] abrite uniquement des automates pour l'achat de titres de transport Grandes lignes et Transilien en façade.
+On retrouve en gare l'habituel système d'information sur les horaires de passage des trams-trains en temps réel.
+
+=== Desserte ===
+Desservie par deux lignes ferroviaires distinctes, la gare de {{nobr|Pierrefitte - Stains}} est située en {{nobr|[[Tarification des transports en commun d'Île-de-France|zone 4]]}} pour le {{nobr|[[Ligne D du RER d'Île-de-France|RER D]]}}<ref name="SNCFTransilienGare"/> et le {{nobr|[[Ligne 11 Express du tramway d'Île-de-France|T11 Express]]}}<ref>{{Lien web|format=pdf|url=https://www.transilien.com/sites/default/files/atoms/files/horizontal-plan_de_ligne_t11express_avec-bus-format-70lx10h.pdf|titre=Plan de ligne T11 Express|site=transilien.com|consulté le=2 juillet 2017}}.</ref>. C'est la seule gare de la ligne T11 Express à être située en zone 4, toutes les autres étant en zone 3.
+
+=== Intermodalité ===
+Un parc pour les vélos et des parkings (gratuit et payant) doivent y être aménagés<ref name="SNCFTransilienGare"/>.
+
+<!--NE PAS REMETTRE DE LOGOS DE BUS DANS DU TEXTE BRUT : cf. [[WP:Prise de décision/Usage des blasons et des drapeaux dans wikipédia]] (3e point) du 21/12/2008.-->
+Des lignes de transports en commun routiers ont un arrêt à proximité de la gare SNCF : les {{nobr|lignes 150}}, 168, 268, 337 et 361 du [[réseau de bus RATP]] ; la {{nobr|[[Lignes de bus Noctilien de N01 à N99#Ligne N44|ligne N44]]}} du service de bus de nuit [[Noctilien]]<ref name="SNCFTransilienGare"/>. À compter du {{date-|1 octobre 2020}}, le 
+[[Lignes de bus RATP de 100 à 199#Lignes 160 à 169|bus 168]] dessert la gare du T11 Express par un couloir bus sur la RD 28<ref>https://www.ratp.fr/plans-lignes/busratp/168</ref>{{,}}<ref>{{lien web|url=https://fr.calameo.com/read/0000472045ec2745744be |titre=Avec l'ouverture à la circulation de la RD28, le réseau de transport se développe |site=Ville de Pierrefitte-sur-Seine|date=octobre 2020|consulté le=4 octobre 2020}}</ref>.
+
+<gallery mode="packed" caption="Vues des quais">
+Z 20500 en gare de Pierrefitte-Stains.jpg|Rame {{nobr|[[Z 20500]]}} rénovée.
+Vue d'ensemble du bâtiment voyageurs de la gare T11 Express de Pierrefitte-Stains.jpg|Bâtiment voyageurs destiné au [[Ligne 11 Express du tramway d'Île-de-France|T11 Express]].
+Quai central de la gare T11 Express de Pierrefitte-Stains.jpg|Quai central du tram-train.
+</gallery>
+
+== Dans la culture populaire ==
+La gare est citée dans la chanson ''Plus vite que les balles'', faisant partie de l'album ''[[95200]]'' du groupe sarcellois de rap [[Ministère A.M.E.R.]] :
+{{Citation bloc|Je saute de justesse dans un wagon les poulets sont en chien<br />
+Ah j'vous ai baisé ! Mes baskets ont changé de teint<br />
+Je repense encore à leur éclat du matin<br />
+Je descends à Pierrefite-Stains<ref>{{Lien web|auteur=Ministère A.M.E.R.|url=https://genius.com/Ministere-amer-plus-vite-que-les-balles-lyrics|titre=Plus Vite Que Les Balles|site=[[Genius (site Internet)|genius.com]]|consulté le=19 septembre 2017}}.</ref>}}
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+
+=== Bibliographie ===
+* {{Ouvrage
+|auteur1       = Édouard Baldus
+|lien auteur1  = Édouard Baldus
+|auteur2       = Auguste Hippolyte Collard
+|lien auteur2  = Auguste Hippolyte Collard
+|titre         = Chemin de fer du Nord - Ligne de Paris à Boulogne
+|sous-titre    = Album de vues photographiques
+|éditeur       = [[Compagnie des chemins de fer du Nord]]
+|lieu          = Paris
+|année         = 1860
+|pages totales = 49
+|passage       = 21
+|isbn          = 
+|lire en ligne = https://gallica.bnf.fr/ark:/12148/btv1b52507139d/f21.item
+|consulté le   = 29 mai 2018
+}}, sur [[Gallica]].
+* {{Ouvrage |auteur1=[[Fernand Bournon]] |titre=Pierrefitte |sous-titre=notice historique et renseignements administratifs |éditeur=Département de la Seine, Direction des affaires départementales |lieu=Pierrefitte-sur-Seine |année=1896 |pages totales=63 |lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k210036x/f41 |id=FernandBournon1896}}.
+* {{Ouvrage |auteur1=Louis Bordes |auteur2=Vladimir Thonet <small>(collaborateur)</small> |auteur3=Pierre Loiseau <small>(collaborateur)</small> |titre=Stains et son histoire |éditeur=Alliance services |année=1979 |pages totales=403 |isbn= |lire en ligne=https://books.google.fr/books?id=QX8tAQAAIAAJ |id=LouisBordes1979}}.
+
+=== Articles connexes ===
+{{Autres projets|commons=Category:Gare de Pierrefitte - Stains|commons titre=Images de la gare de Pierrefitte - Stains}}
+* [[Liste de gares en France]]
+* [[Liste des gares du RER d'Île-de-France]]
+* [[Ligne de Paris-Nord à Lille]]
+* [[Schéma de la ligne de Paris-Nord à Lille]]
+* [[Gare de Stains-Grande-Ceinture]]
+* [[Dépôt des Joncherolles]]
+
+=== Lien externe ===
+* {{Site Transilien}}
+
+{{Desserte gare/début}}
+{{Desserte gare
+| direction précédente = [[Gare d'Orry-la-Ville - Coye|Orry-la-Ville - Coye]]<br>ou [[Gare de Creil|Creil]]<br>ou [[Gare de Villiers-le-Bel - Gonesse - Arnouville|Villiers-le-Bel - Gonesse - Arnouville]]
+| gare précédente = [[Gare de Garges - Sarcelles|Garges - Sarcelles]]
+| activité = RER
+| détail1 = D
+| gare suivante = [[Gare de Saint-Denis|Saint-Denis]]
+| direction suivante = [[Gare de Corbeil-Essonnes|Corbeil-Essonnes]] <small>(par [[Gare d'Évry-Courcouronnes|Évry-Courcouronnes]])</small><br>ou [[Gare de Juvisy|Juvisy]]
+}}
+{{Desserte gare
+| direction précédente = [[Gare de Goussainville|Goussainville]]
+| gare précédente = [[Gare de Garges - Sarcelles|Garges - Sarcelles]]
+| activité = RER
+| détail1 = D
+| gare suivante = [[Gare de Saint-Denis|Saint-Denis]]
+| direction suivante = [[Gare de Melun|Melun]] <small>(par [[Gare de Combs-la-Ville - Quincy|Combs-la-Ville]])</small>
+}}
+{{Desserte gare
+| direction précédente = [[Gare d'Épinay-sur-Seine|Épinay-sur-Seine]]
+| gare précédente = [[Gare de Villetaneuse-Université|Villetaneuse-Université]]
+| activité = T
+| détail1 = 11
+| gare suivante = [[Gare de Stains-La Cerisaie|Stains-La Cerisaie]]
+| direction suivante = [[Gare du Bourget|Le Bourget]]
+}}
+{{Desserte gare/fin}}
+
+{{Palette|Tramway d'Île-de-France/ligne 11}}
+
+{{Portail|chemin de fer|transports en Île-de-France|Seine-Saint-Denis}}
+
+{{DEFAULTSORT:Pierrefitte - Stains}}
+[[Catégorie:Gare dans la Seine-Saint-Denis]]
+[[Catégorie:Ligne de Paris-Nord à Lille]]
+[[Catégorie:Pierrefitte-sur-Seine|Gare]]
+[[Catégorie:Stains|Gare]]

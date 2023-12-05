@@ -1,0 +1,796 @@
+{{Voir homonymes|Jeux olympiques de 1968}}
+{{Infobox Jeux olympiques
+| charte = sports d'hiver
+| olympiade=Jeux olympiques d'hiver de 1968
+|Lien=Jeux olympiques d'hiver de
+|AnnéePréc=1964
+|AnnéeSuiv=1972
+| ville hôte=[[Grenoble]]
+| nation hôte={{France}}
+| nations=37
+| logo=Logo JO d'hiver - Grenoble 1968.svg
+| taille logo=190
+| athlètes=1158
+| femmes=211
+| hommes=947
+| nombre d'épreuves=35
+| nombre de sports=6
+| nombre de disciplines=10
+| nombre d'épreuves féminines=17
+| nombre d'épreuves masculines=19
+| nombre d'épreuves mixtes=2
+| date ouverture=[[6 février|6]]
+| date clôture={{Date|18|février|1968}}
+| lecteur ouverture=[[Charles de Gaulle]]
+| fonction lecteur ouverture= [[Président de la République française]]
+| lecteur serment=[[Léo Lacroix (ski alpin)|Léo Lacroix]]
+| fonction lecteur serment= Skieur alpin français
+| allumeur= [[Alain Calmat]]
+| fonction allumeur= Patineur artistique
+| mascotte= [[Shuss le skieur]]
+| géolocalisation=France
+| géolocalisation2=Isère
+| site1=Grenoble
+| latitude1=45.16583
+| longitude1=5.7322
+| position1=
+| site2=Autrans
+| latitude2=45.18583
+| longitude2=5.54277
+| position2=no
+| site3=Chamrousse
+| latitude3=45.10916
+| longitude3=5.87444
+| position3=e
+| site4=L'Alpe d'Huez
+| latitude4=45.0537
+| longitude4=6.0417
+| position4=se
+| site5=Saint-Nizier
+| latitude5=45.1719
+| longitude5=5.6311
+| position5=so
+| site6=Villard-de-Lans
+| latitude6=45.0708
+| longitude6=5.55138
+| position6=s
+}}
+
+Les '''Jeux olympiques d'hiver de 1968''', officiellement connus comme les '''{{Xes}} Jeux olympiques d'hiver''', se déroulent du [[6 février en sport|6]] au {{date|18|février|1968|en sport}}. La [[Procédure de sélection de la ville hôte des Jeux olympiques|ville candidate]], Grenoble, obtient les Jeux dès sa première tentative. Elle est la deuxième ville française à accueillir les [[Jeux olympiques d'hiver]] après [[Chamonix]] en [[Jeux olympiques d'hiver de 1924|1924]]. L’ensemble des sites de compétition se situent dans le département de l'[[Isère (département)|Isère]], à [[Grenoble]] pour les épreuves de patinage artistique, de hockey sur glace et de patinage de vitesse, ainsi que dans les stations de sports d'hiver qui entourent la ville pour les autres épreuves.
+
+Les Jeux rassemblent {{unité|1158 athlètes}} de {{nobr|37 pays}}, ce qui constitue un record à l'époque pour les Jeux d'hiver. Ils se mesurent dans dix disciplines qui regroupent un total de {{nobr|35 épreuves}} officielles, soit une de plus qu'en [[Jeux olympiques d'hiver de 1964|1964]]. Pour la première fois, l'[[Allemagne de l'Est aux Jeux olympiques d'hiver de 1968|Allemagne de l'Est]] et l'[[Allemagne de l'Ouest aux Jeux olympiques d'hiver de 1968|Allemagne de l'Ouest]] sont présentes séparément, tandis que le [[Maroc aux Jeux olympiques d'hiver de 1968|Maroc]] effectue sa première participation.
+
+La [[Norvège aux Jeux olympiques d'hiver de 1968|Norvège]] finit en tête du classement des nations en remportant quatorze médailles dont six en or. L'[[France aux Jeux olympiques d'hiver de 1968|équipe de France]] obtient son meilleur total jusqu'alors dans l'histoire des Jeux d'hiver avec neuf médailles, un résultat couronné par la performance individuelle de [[Jean-Claude Killy]], qui remporte trois médailles d'or dans les trois disciplines de ski alpin.
+
+Ces Jeux innovent dans plusieurs domaines comme l'utilisation de tests antidopage, de [[Test de féminité|tests de féminité]], d'une identité visuelle globale, du chronométrage électronique ou de la retransmission télévisée en couleur via satellite. Si les dépenses liées à l'événement affectent durablement les finances de la ville de Grenoble, les Jeux la font rentrer dans la modernité et lui confèrent l'image d'une ville dynamique. La ville se dote d'équipements généraux et de nouvelles infrastructures sportives ou routières dont la réalisation est accélérée par le biais de cette organisation. Si certaines installations sont abandonnées après les Jeux, comme la [[Piste olympique de bobsleigh de l'Alpe d'Huez|piste de bobsleigh de l'Alpe d'Huez]] ou le [[Tremplin du Dauphiné|tremplin]] de saut de [[Saint-Nizier-du-Moucherotte]], d'autres sont conservées au bénéfice de la population grenobloise, comme les logements du village olympique ou le stade de glace, converti en [[Palais des sports de Grenoble|Palais des sports]] et utilisé aussi bien dans le cadre de manifestations sportives que culturelles. L'État, qui finance les Jeux à hauteur de 80 %, y voit un moyen d'accroître le prestige de la France, tout en mettant en œuvre des projets de modernisation des stations de sports d'hiver et de promotion du tourisme.
+
+== Sélection de la ville-hôte ==
+{{article détaillé|Sélection de la ville hôte pour les Jeux olympiques d'hiver de 1968}}
+
+L'idée d'une candidature de [[Grenoble]] pour accueillir les Jeux d'hiver apparaît pour la première fois dans la presse régionale le {{date-|24 novembre 1960}}. Elle émane de Francis Raoul, [[Liste des préfets de l'Isère|préfet de l'Isère]], de Raoul Arduin, président du Comité de Ski du Dauphiné, de l'architecte [[Laurent Chappis]] et de l'ingénieur des ponts et chaussées au chef-lieu de l'Isère Georges Cumin<ref>{{Ouvrage|auteur1=Eric Monnin|titre=L'olympisme à l'école ?|éditeur=Pôle éditorial de l'université de technologie de Belfort-Montbéliard|année=2008|passage=122|isbn=}}.</ref>. Elle reçoit l'approbation immédiate de la municipalité de la ville. [[Albert Michallon]], maire de la commune, adresse le {{date-|30 décembre 1960}} une lettre au [[Comité international olympique]] dans laquelle il déclare officiellement la candidature de Grenoble pour accueillir la dixième édition des Jeux olympiques d'hiver, en 1968<ref name="candidature"/>. Cette candidature reçoit le soutien des stations de sports d'hiver qui entourent la ville et celui du [[Conseil général de l'Isère]]. Un comité pour la candidature de Grenoble est créé en {{date-|décembre 1961}}. Il est présidé par Albert Michallon et reçoit {{unité|170000 francs}} de subvention, dont {{unité|50000 francs}} de la part de la ville de Grenoble, {{unité|50000 francs}} de la part du Conseil général et {{unité|70000 francs}} de la part de l'ensemble des stations de sports d'hiver associées à la candidature<ref name="candidature">{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=17-19}}.</ref>.
+
+[[Fichier:City of Grenoble.jpg|vignette|alt=Le quai de l'Isère avec les sommets enneigés au loin.|Grenoble entourée par les Alpes.]]
+L'État soutient fermement cette candidature : le président de la République [[Charles de Gaulle]] voit dans l'organisation des Jeux un moyen d'accroître le prestige de la France tout en mettant en œuvre des projets de modernisation des stations de sports d'hiver pour promouvoir le tourisme<ref name="universalis"/>. Pour la municipalité grenobloise, l'enjeu est d'accélérer les projets d'urbanisme afin de rattraper le retard de la ville. Marquée par une croissance démographique et économique exceptionnelle après la fin de la [[Seconde Guerre mondiale]], Grenoble est alors plus une ville industrielle qu'une ville de montagne. Elle possède l'image d'une ville moderne et dynamique notamment grâce à la croissance rapide de son [[Université Grenoble-Alpes|Université]] et à l'implantation du premier [[CEA Grenoble|Centre d'études nucléaires]] en dehors de la région parisienne {{nobr|en 1956}}<ref>{{article|titre=Louis Néel et le magnétisme à Grenoble|sous-titre=Récit de la création d'un empire dans la province française 1940-1965|auteur=[[Dominique Pestre]]|périodique=''Cahiers pour l'histoire du CNRS''|année=1990|lire en ligne=http://www.histcnrs.fr/cahiers-cnrs/pestre.pdf|format=pdf}}.</ref>, mais elle apparaît sous-équipée en matière d'infrastructures de transport et d'équipements urbains. Un rapport ministériel de 1964 précise notamment que {{citation|Les équipements urbains existant à Grenoble correspondent aux besoins d'une ville de {{unité|80000 habitants}}, alors que les besoins sont ceux d'une ville de {{unité|300000 habitants}}}}. Le dossier de candidature affirme pourtant que la ville est très bien équipée<ref>{{harvsp|Frappat|1991|p=46-52}}.</ref>.
+
+Cinq autres villes sont candidates pour accueillir les Jeux d'hiver de 1968 : [[Calgary]] au [[Canada]], [[Lahti]] en [[Finlande]], [[Sapporo]] au [[Japon]], [[Oslo]] en [[Norvège]] et [[Lake Placid (New York)|Lake Placid]] aux [[États-Unis]], ces deux dernières ayant déjà accueilli les Jeux en [[Jeux olympiques d'hiver de 1952|1952]] et [[Jeux olympiques d'hiver de 1932|1932]]. La candidature grenobloise est présentée par un film innovant produit par [[Jack Lesage]]<ref>{{lien web|url=https://cinevod.bm-grenoble.fr/thema/2017/09/les-j.o-de-68-vus-par-jack-lesage cinevod.bm-grenoble.fr|titre=Les J.O de 1968 vus par Jack Lesage|site=Bibliothèque numérique de Grenoble|consulté le=7 mars 2018}}.</ref>. Le vote a lieu le {{date-|28 janvier 1964}} lors de la {{61e|session}} du CIO, qui se déroule à [[Innsbruck]] en [[Autriche]], juste avant l'ouverture des [[Jeux olympiques d'hiver de 1964|Jeux]]. Au troisième tour du vote, Grenoble l'emporte face à Calgary avec {{nobr|27 voix}} contre 24. Elle devient ainsi la deuxième ville française hôte des Jeux d'hiver, alors que les premiers de l'histoire se sont tenus à [[Jeux olympiques d'hiver de 1924|Chamonix en 1924]]<ref name="universalis">{{lien web|url=http://www.universalis.fr/encyclopedie/grenoble-jeux-olympiques-de-1968-contexte-organisation-bilan/|accès url=inscription|titre=Grenoble (Jeux olympiques de) 1968 - Contexte, organisation, bilan|auteur=Pierre Lagrue|éditeur=[[Encyclopædia Universalis]]|consulté le=2 janvier 2016}}.</ref>{{,}}<ref name="candidature"/>.
+
+== Organisation ==
+=== Comité d'organisation ===
+[[Fichier:Michallon-Grenoble.jpg|vignette|redresse|alt=Portrait d'un homme en noir et blanc.|[[Albert Michallon]], président du Comité d'organisation.]]
+Le comité d'organisation des Jeux voit le jour le {{date-|10 juillet 1964}} sous le nom officiel de « Comité d'organisation des {{Xes}} Jeux olympiques d'hiver » (COJO). Il est présidé par [[Albert Michallon]], maire de Grenoble, tandis que Pierre Randet, ancien Directeur de l'Aménagement du Territoire, en est nommé directeur général. Il assume également la fonction de commissaire du gouvernement chargé de coordonner l'intervention des administrations. Il assure ainsi la cohérence des projets liés à l'organisation des Jeux tout en les soumettant à l'approbation du [[Comité international olympique]] (CIO)<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=20}}.</ref>. En 1966, Pierre Randet démissionne. [[Robert Héraud]], président de l'[[Institut national du sport, de l'expertise et de la performance|Institut national des sports]], prend en charge la direction générale, tandis que la mission de commissaire du gouvernement est supprimée. La coordination de l'organisation générale des Jeux est alors confiée directement au [[Liste des ministres français de la Jeunesse et des Sports|ministre de la Jeunesse et des Sports]], en l'occurrence [[François Missoffe]], sous contrôle du [[Premier ministre français|premier ministre]]<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=26-27}}.</ref>.
+
+Le conseil d'administration du {{Abréviation discrète|COJO|Comité d'organisation des Jeux olympiques}}, qui assure le choix des grandes options et le contrôle de l'organisation des Jeux, se compose de {{nobr|39 membres}}, dont {{nobr|20 membres}} élus par l'assemblée générale des membres du {{Abréviation discrète|COJO|Comité d'organisation des Jeux olympiques d'hiver}} et {{nobr|19 membres}} de droits : le président du [[Comité olympique français]], les membres français du {{Abréviation discrète|CIO|Comité international olympique}}, des membres du [[Conseil général de l'Isère]], du conseil municipal de [[Grenoble]] et des conseils municipaux des stations qui ont soutenu la candidature, [[Autrans]], [[Huez]], [[Lans-en-Vercors]], [[Méaudre]], [[Mont-de-Lans]], [[Saint-Martin-d'Uriage]], [[Vénosc]] et [[Villard-de-Lans]]. En 1966, la commune de [[Saint-Nizier-du-Moucherotte]] rejoint elle aussi le conseil d'administration après être devenue station olympique par la construction d'un tremplin de saut à ski sur son territoire<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=22}}.</ref>.
+
+L'[[Forces armées françaises|armée]] est sollicitée par le comité d'organisation pour opérer un certain nombre de tâches liées à l'organisation des Jeux : préparation et entretien des installations sportives sur les lieux d'épreuve, transport de matériel et de personnel, équipement en liaisons filaires des lieux d'épreuve, mise en place de clôtures, travaux sur les infrastructures ou les parkings, prêt de matériel, enfin police et secourisme sur les pistes d'[[Autrans]], [[Villard-de-Lans]] et [[Saint-Nizier-du-Moucherotte]]<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=118}}.</ref>.
+
+=== Aspects économiques ===
+[[Fichier:Jo1968-dépenses.jpg|vignette|alt=Diagramme en couleurs.|Répartition des dépenses.]]
+Le coût des Jeux de Grenoble s'élève à {{unité|1097295000 francs}}. Les investissements concernent les infrastructures de communication et de transport, les sites d'hébergement ou de compétition, les équipements culturels et ceux destinés aux médias, ainsi qu'un certain nombre d'équipements généraux dans les villes olympiques. L'État en finance la plus grande partie avec un investissement de plus de {{unité|519 millions}} de francs<ref name="universalis"/>, auxquels il faut ajouter l'investissement d'organismes publics ou semi-publics, comme l'[[Office de radiodiffusion-télévision française|ORTF]] ou la [[Société nationale des chemins de fer français|SNCF]] à hauteur de {{unité|302,6 millions}} de francs. Le [[Isère (département)|département de l'Isère]] participe pour plus de {{unité|40 millions}} de francs, tandis que la ville de [[Grenoble]] investit {{unité|220,3 millions}} de francs et les autres communes olympiques {{unité|15 millions}} de francs<ref name="éco">{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=38-41}}.</ref>.
+
+La construction des différents sites de compétition coûte {{unité|92,517 millions}} de francs, mais les dépenses les plus importantes se situent dans l'aménagement des infrastructures routières et ferroviaires ({{unité|465,181 millions}} de francs) et la construction du [[village olympique]] pour plus de {{unité|179 millions}} de francs. Le comité d'organisation reçoit une subvention de fonctionnement de {{unité|90,429 millions}} de francs de la part de l'État<ref name="universalis"/>{{,}}<ref name="éco"/>.
+
+=== Transports ===
+D'importants travaux sont entrepris sur les routes menant aux stations de ski. Les différents aménagements réalisés pour faciliter l'accès à la station de [[Chamrousse]] coûtent {{unité|33 millions}} de francs. Ils consistent en l'élargissement des chaussées, l'aménagement d'un carrefour et de ponts en béton armé ainsi que la création d'une bretelle de {{unité|3400 m}} entre [[Uriage-les-Bains]] et [[Grenoble]]. La pente maximum de ce [[viaduc de Gières]] est réduite à 9 % et certains virages sont modifiés pour faciliter le passage d'engins lourds de transport. La construction de nouveaux tronçons et l'élargissement de certaines routes visent également à faciliter l'accès au [[massif du Vercors]]. La circulation se fait en sens unique, en utilisant la voie du plateau de [[Saint-Nizier-du-Moucherotte]] à l'aller et la route traversant les gorges d'[[Engins]] au retour. Une déviation permet d'éviter la traversée étroite du village de [[Sassenage]], tout en limitant la pente moyenne de la route à 6 %. Une route empruntant des voies communales et un tronçon neuf de huit kilomètres permet l'accès à [[Autrans]] depuis la vallée du [[Rhône]] sans passer par Grenoble, pour un montant de quatre millions de francs, dont un million pour le percement d'un tunnel de {{unité|502 m}} de longueur, le [[tunnel du Mortier]]. Cet ouvrage d'art restera en service jusqu'en 1992, année où l'éboulement d'une falaise toute proche empêche son franchissement<ref>{{lien web|lang=en|site=www.dangerousroads.org|titre=The abandoned Tunnel du Mortier in France|lire en ligne=https://www.dangerousroads.org/europe/france/826-tunnel-du-mortier-france.html|consulté le=4 mars 2021}}</ref>. La déviation de [[Vizille]] est créée, la route accédant à la station de l'[[Alpe d'Huez]] est elle aussi élargie et une déviation de {{unité|3.5|km}} permet d'atteindre la [[Piste olympique de bobsleigh de l'Alpe d'Huez|piste de bobsleigh]] sans traverser la station<ref name="transports">{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=50-56}}.</ref>.
+
+L'attribution des Jeux olympiques à Grenoble rend nécessaire la création d'un aéroport commercial. L'[[Aéroport de Grenoble-Mermoz|aérodrome Grenoble-Mermoz]], trop exigu et gênant l'urbanisation au sud de la ville par sa trop grande proximité avec des habitations, est fermé. L'[[Aéroport de Grenoble-Isère|aéroport de Grenoble-Saint-Geoirs]] est construit au terme d'un projet porté par le maire de Grenoble, le préfet de l'Isère et le président de la [[Chambre de commerce et d'industrie de Grenoble]]. L'État ne participe pas au financement de sa construction car il considère que ce projet entre en concurrence avec celui de [[Aéroport de Lyon-Saint-Exupéry|Lyon-Satolas]] dans le cadre de l'aménagement régional, à l'encontre du principe de centralisation et de concentration financière<ref>{{article|auteur=Bernard Fanget|titre=L'aéroport de Grenoble - St-Geoirs|périodique=[[Revue de géographie alpine]]|année=1972|volume=60|numéro=1|pages=135-148|lire en ligne=http://www.persee.fr/doc/rga_0035-1121_1972_num_60_1_1254}}.</ref>. L'emplacement libéré par l'ancien aéroport est immédiatement utilisé pour construire le [[stade olympique de Grenoble]], où se tient la cérémonie d'ouverture, ainsi que des parkings et une gare SNCF provisoire, la [[gare de Grenoble-Olympique]]. Les transports par avions légers s'effectuent également en utilisant des infrastructures déjà existantes, comme l'[[aérodrome de Grenoble-Le Versoud]], l'[[altiport de l'Alpe d'Huez]] et la base d'hélicoptères de Chamrousse-Roche Béranger<ref name="transports"/>.
+
+[[Fichier:Chausson APH 2-522 n°208 (vue avant gauche) - SGTE (Le Pont-de-Claix * printemps 2019).jpg|vignette|alt=Autobus ancien utilisé en 1968.|Autobus [[Chausson AP|Chausson APH]]-2/522 utilisé en 1968 et exposé de nos jours à l'[[Histo Bus Dauphinois]].]]
+Un bâtiment appelé [[Alpexpo]] situé tout près de la gare provisoire devient le point des départs des cars acheminant les spectateurs vers les lieux des épreuves<ref name="frappat55">{{harvsp|Frappat|1991|p=55}}.</ref>. Une société éphémère de cars, la ''Trans Olympe'', y prend en charge les visiteurs à l'aide de {{unité|540 autobus}} venus de toute la France et des garages de plusieurs marques de camions y sont positionnés afin de pallier toute panne de véhicule<ref>{{lien web|url=http://www.standard216.com/lhistoire-des-transports-de-lagglomeration-grenobloise/lalbum-photo-de-jean-marie/les-jeux-olympiques-dhiver-de-grenoble-avec-la-trans-olympe/|titre=Les Jeux Olympiques d’Hiver de Grenoble, avec la Trans Olympe|site=Standard 216-Histo Bus Grenoblois|consulté le=24 février 2018}}.</ref>. Par ailleurs, trois lignes de bus assurent des liaisons en provenance de la [[gare de Grenoble]] (ligne A), du pont de Catane (ligne B), de l'[[Île-Verte (Grenoble)|Île verte]] (ligne C) à destination de la [[gare de Grenoble-Olympique]]. Deux lignes de navettes assurent quant à elles les liaisons entre la gare de Grenoble ou le pont de Catane vers le stade de glace<ref>{{lien web|url=http://snotag.free.fr/histoire_reseau/histoire_lignes/index.php3|titre=Histoires des lignes de l'agglomération grenobloise|site=snotag.free.fr|consulté le=26 février 2018}}.</ref>.
+
+La mise en place du nouveau plan d'urbanisme grenoblois entraîne le déplacement de la voie ferrée reliant la ville à [[Chambéry]] de {{unité|2,5 km}} plus au sud, accompagné de la création de la rocade sud de contournement autoroutier<ref name="frappat54">{{harvsp|Frappat|1991|p=54}}.</ref>, qui n'est achevée qu'{{nobr|en 1987}}<ref name="frappat57">{{harvsp|Frappat|1991|p=57}}.</ref>. Un [[autopont]] sur le [[Grands boulevards (Grenoble)|boulevard Joseph-Vallier]] est construit<ref group="Note">Il est finalement démoli en 2004 pour le passage du tramway C.</ref>, de même que sur la rue Albert-Reynier. Par ailleurs, la mise en service des autoroutes [[Autoroute A48 (France)|A48]] jusqu'à [[Voreppe]], [[Autoroute A480 (France)|B48]] jusqu'à son terminus au niveau du stade Bachelard et l'amorce de l'[[Autoroute A41 (France)|A41]] jusqu'au [[Le Touvet|Touvet]] complètent la liste des aménagements routiers autour de la ville<ref name="transports"/>.
+
+=== Médias ===
+Pour la première fois dans l'histoire, les Jeux sont diffusés en couleur : sur les {{nobr|155 heures}} de programmes produits par l'[[Office de radiodiffusion-télévision française]] (ORTF), 91 le sont en couleur<ref name="lequipe">{{article|lire en ligne=https://www.lequipe.fr/Tous-sports/Article/Les-jo-de-grenoble-un-festival-de-premieres/873613|titre=Les JO de Grenoble, un festival de premières|auteur=Vincent Hubé|périodique=''[[L'Équipe]]''|date=7 février 2018}}.</ref>. Les droits de diffusion rapportent {{nobr|12,5 millions}} de francs à l'organisation, dont dix millions de francs versés par la chaîne [[American Broadcasting Company|ABC]] qui s'assure l'exclusivité des droits pour les États-Unis. L'[[Eurovision (réseau)|Eurovision]] verse pour sa part {{nobr|2,5 millions}} de francs, tandis que les Jeux sont également diffusés en [[Amérique du Sud]], en [[Australie]] ou encore au Japon par l'intermédiaire de la chaîne [[NHK]]. Les téléspectateurs français bénéficient de {{nobr|111 heures}} de retransmission en direct, dont {{nobr|59 heures}} en couleur. Vingt-sept heures de retransmission en direct sont proposées aux États-Unis par l'intermédiaire du satellite [[Intelsat I]]<ref name="universalis"/>. Pour améliorer cette retransmission, l'{{abréviation discrète|ORTF|Office de radiodiffusion-télévision française}} a installé une Maison de la Radio et de la Télévision sur {{unité|6000 m 2}} dans le quartier Malherbe<ref>''Les Nouvelles de Grenoble'', {{n°|117}}, février 2008, {{p.|29}}.</ref>. De nombreuses installations provisoires sont mises en place pour faciliter la communication, comme des cabines téléphoniques et des [[télex]] publics<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=58}}.</ref>.
+
+Un centre de presse est construit sous la direction de [[Maurice Novarina]] dans le quartier Malherbe en vue d'accueillir les {{unité|2500 journalistes}} qui couvrent l'évènement. Comme le village olympique situé à proximité, il est conçu dans le but d'être reconverti en logements pour la population grenobloise après les Jeux. Il consiste en un ensemble de sept bâtiments où sont logés les représentants de la presse écrite et de l'{{abréviation discrète|ORTF|Office de radiodiffusion-télévision française}} et un groupe scolaire qui accueille les journalistes des chaînes de radio et de télévision, ainsi que les employés des sociétés [[Ibm]], [[Gestetner]] et Multitex, chargées de traiter l'information<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=65-66}}.</ref>.
+
+=== Marketing ===
+ 
+L'[[emblème]] des Jeux olympiques, créé par [[Roger Excoffon]], représente un cristal de neige entouré des trois roses rouges symboles de la ville de [[Grenoble]] et surmontant les [[anneaux olympiques]] reproduits en blanc. L'emblème est entouré de l'appellation « {{Xe|Jeux}} olympiques d'hiver - Grenoble 1968 »<ref name=CIO/>{{,}}<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=129}}.</ref>. Le personnage de « [[Shuss le skieur|Shuss]] », un objet rouge et bleu représentant un skieur, devient la première mascotte olympique, bien que non officielle<ref name="universalis"/>. Créé par Aline Lafargue, des studios « Films et Promotion » de Paris, il se distingue par son pied unique et sa tête disproportionnée<ref>{{lien web|url=http://www.olympic.org/fr/content/archive/le-musee-olympique/mosaic/mascottes/mascot_salt-lake_20027/|titre=Mascotte des Jeux Olympiques de Grenoble 1968|site=olympic.org|éditeur=[[Comité international olympique]]|consulté le=7 janvier 2016}}.</ref>. Un set de pictogrammes est également créé pour présenter les différents sports et disciplines au programme. Inspirés de l'[[op art]], un mouvement artistique né dans les années soixante, ces pictogrammes dessinés par Roger Excoffon représentent un athlète en mouvement qui apparaît au travers de courbes d'épaisseur variable. Ce système de trames graphiques vise à transmettre une impression de vitesse et de glisse, éléments caractéristiques des sports d'hiver. Ces pictogrammes, utilisés pour la communication par les différents médias, figurent également sur les médailles remises aux vainqueurs<ref>{{lien web|format=pdf|url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/Pictograms/Document-de-reference-Les-pictogrammes-sportifs-des-JO-d-hiver-de-Grenoble-1968-a-PyeongChang-2018.pdf|titre=Les pictogrammes sportifs des Jeux Olympiques d'hiver de Grenoble 1968 à PyeongChang 2018|éditeur=Centre d'Études olympiques|date=9 février 2017|consulté le=24 février 2018}}.</ref>.
+
+[[Fichier:JO Grenoble 1968.jpg|vignette|redresse|alt=Photographie d'un porte-clés|Porte-clés des Jeux.]]
+En [[1967]], c'est le dessinateur et affichiste grenoblois [[Jean Brian]] qui remporte le concours lancé pour la création de l'affiche officielle des Jeux de Grenoble. Elle représente les anneaux olympiques dévalant "tout schuss" une pente de neige. Elle sera tirée à {{unité|170000|exemplaires}}, et déclinée en plusieurs langues<ref>{{Base Joconde|50279000110|Vue affiche en ligne}}.</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Jean Brian |titre=Affiche officielle Xe Jeux olympiques d'hiver Grenoble 1968 |url=https://www.olympic.org/fr/grenoble-1968#affiche |date=1968 |site=olympic.org |lieu=Musée olympique, Lausanne |consulté le=24 mai 2020}}.</ref>.
+
+De nombreux produits dérivés en rapport avec ces Jeux olympiques ont été créés. Le [[Ministère des PTT]] met en vente en {{date-|avril 1967}} un [[Timbre postal|timbre]] pré-olympique d'une valeur de {{unité|60 centimes}} de francs et destiné à la correspondance internationale. Reproduisant l'emblème officiel des Jeux, il est édité à {{unité|300000 exemplaires}}. Cinq timbres commémoratifs<ref>{{Lien web|url=https://www.wikitimbres.fr/timbres/groupe/1266|titre=Voir La fiche technique des timbres-poste|site=www.wikitimbres.fr}}.</ref> dessinés et gravés par Jean Combet sont mis en vente les 27 et {{date-|28 janvier 1968}}, avant l'ouverture des Jeux, représentant une discipline ou la flamme olympique. Le produit de la surtaxe généré sur ces timbres est partagé entre la [[Croix-Rouge française|Croix-Rouge]] et le comité d'organisation. Par ailleurs, la [[Société d'exploitation industrielle des tabacs et des allumettes]] fabrique {{unité|500000|étuis}} de cinq cigarettes frappés de l'emblème des Jeux, distribués en France comme à l'étranger. Les marques de cigarettes « Isère » et « Grenoble » sont créées, et {{unité|230 millions}} de boîtes d'allumettes portant l'emblème des Jeux sont mises en vente<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=132-133}}.</ref>. Un très grand nombre de cartes postales en couleur<ref>{{lien web|url=http://www.grenoble-1968.com/mur-de-cartes-postales|titre=Cartes postales olympiques 1968|auteur=Geoffrey Auguiard|site=grenbole-1968.com|consulté le=24 février 2018}}.</ref>, d'objets divers<ref>{{lien web|url=http://www.grenoble-1968.com/category/objets|titre=Objets olympiques 1968|auteur=Geoffrey Auguiard|site=grenbole-1968.com|consulté le=24 février 2018}}.</ref> et de matériel philatélique sont créés pour l'évènement<ref>{{lien web|url=http://www.grenoble-1968.com/category/philatelie/|titre=Philatélie olympique 1968|auteur=Geoffrey Auguiard|site=grenbole-1968.com|consulté le=24 février 2018}}.</ref>.
+
+Plusieurs entreprises sont désignées comme « fournisseur officiel des Jeux » : [[Renault]] pour les véhicules nécessaires au transport des athlètes, des officiels et des journalistes, [[Total (entreprise)|Total]] pour le carburant de ces véhicules, [[Lip]], [[Omega (entreprise)|Omega]] et [[Longines]] pour le chronométrage, [[International Business Machines|IBM France]] pour le calcul des résultats et [[Gestetner]] pour leur duplication, [[Kodak|Kodak-Pathé]] pour les films, [[Philips]] pour la sonorisation et les enregistrements électro-magnétiques, ainsi qu'Elektroimpex pour l'affichage lumineux des résultats. Ces entreprises sont les seules autorisées à exposer leur marque sur les lieux d'épreuve à condition que cette exposition se limite aux installations nécessaires à l'exercice de leur activité<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=128-129}}.</ref>.
+
+=== Nations participantes ===
+[[Fichier:1968 Winter olympics team.png|vignette|alt=Carte mondiale des pays participant aux Jeux olympiques de Grenoble.|Trente-sept nations (en vert) participent aux Jeux de Grenoble.]]
+Trente-sept nations envoient une délégation à Grenoble, soit une de plus qu'à [[Innsbruck]] en [[Jeux olympiques d'hiver de 1964|1964]], pour un total de {{unité|1158 athlètes}} dont {{nobr|947 hommes}} et {{nobr|211 femmes}}<ref name=CIO>{{lien web|url=https://www.olympic.org/fr/grenoble-1968|titre=Grenoble 1968|éditeur=[[Comité international olympique]]|consulté le=26 décembre 2013}}</ref>. Pour la première fois, l'[[Allemagne de l'Est aux Jeux olympiques d'hiver de 1968|Allemagne de l'Est]] et l'[[Allemagne de l'Ouest aux Jeux olympiques d'hiver de 1968|Allemagne de l'Ouest]] sont présentes séparément. Alors que le {{Abréviation discrète|CIO|Comité international olympique}} était parvenu à maintenir l'équipe unifiée d'Allemagne pour les précédents Jeux malgré la recrudescence des tensions entre l'Est et l'Ouest après la construction du [[mur de Berlin]], il ne peut éviter la séparation des deux délégations à Grenoble. Dès la fin des [[Jeux olympiques d'été de 1964|Jeux d'été de 1964]] à [[Tokyo]], l'Allemagne de l'Est réclame une participation indépendante, ce qui est d'abord refusée par les pays de l'[[OTAN]] et plus particulièrement le gouvernement français, bien que la proposition reçoive le soutien de la majorité des fédérations sportives internationales. La participation séparée des deux équipes est entérinée lors de la session du {{Abréviation discrète|CIO|Comité international olympique}} qui se tient à [[Madrid]] en {{date-|octobre 1965}}<ref>{{harvsp|Espy|1979|p=106-108}}.</ref>.
+
+Le [[Maroc aux Jeux olympiques d'hiver de 1968|Maroc]] connaît quant à lui sa première participation aux Jeux olympiques d'hiver. La [[Belgique aux Jeux olympiques|Belgique]] et la [[Corée du Nord aux Jeux olympiques|Corée du Nord]], présentes aux Jeux d'Innsbruck, n'envoient aucun athlète à Grenoble<ref name="monninp80"/>{{,}}<ref>{{lien web|langue=en|url=https://www.olympedia.org/countries/PRK|titre=North Korea|site=olympedia.org|consulté le=18 janvier 2016}}.</ref>. Enfin, la [[Nouvelle-Zélande aux Jeux olympiques d'hiver de 1968|Nouvelle-Zélande]] fait son retour aux Jeux, pour sa troisième participation, la première depuis [[Squaw Valley]] en [[Jeux olympiques d'hiver de 1960|1960]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/countries/NZL|titre=New Zealand|site=olympedia.org|consulté le=18 janvier 2016}}.</ref>.
+
+<center>
+<small>Le nombre indiqué entre parenthèses est le nombre d'athlètes engagés dans les épreuves officielles pour chaque pays<ref name="1968 Grenoble Winter Games SR">{{lien web|langue=en|url=https://www.olympedia.org/editions/38|titre=1968 Winter Olympics|site=olympedia.org|consulté le=4 janvier 2015}}</ref>.</small>
+{|
+|
+* {{JO|GDR|hiver de 1968}} (57)
+* {{JO|FRG|hiver de 1968}} (75)
+* {{JO|ARG|hiver de 1968}} (5)
+* {{JO|AUS|hiver de 1968}} (3)
+* {{JO|AUT|hiver de 1968}} (76)
+* {{JO|BUL|hiver de 1968}} (6)
+* {{JO|CAN|hiver de 1968}} (70)
+* {{JO|CHI|hiver de 1968}} (4)
+* {{JO|KOR|hiver de 1968}} (8)
+* {{JO|DEN|hiver de 1968}} (3)
+* {{JO|ESP|hiver de 1968}} (18)
+* {{JO|USA|hiver de 1968}} (95)
+* {{JO|FIN|hiver de 1968}} (52)
+|width=25|
+|valign=top|
+* {{JO|FRA|hiver de 1968}} (88)
+* {{JO|GBR|hiver de 1968}} (38)
+* {{JO|GRE|hiver de 1968}} (3)
+* {{JO|HUN|hiver de 1968}} (10)
+* {{JO|IND|hiver de 1968}} (1)
+* {{JO|IRN|hiver de 1968}} (4)
+* {{JO|ISL|hiver de 1968}} (4)
+* {{JO|ITA|hiver de 1968}} (47)
+* {{JO|JPN|hiver de 1968}} (61)
+* {{JO|LIB|hiver de 1968}} (3)
+* {{JO|LIE|hiver de 1968}} (9)
+* {{JO|MAR|hiver de 1968}} (5)
+* {{JO|MGL|hiver de 1968}} (7)
+|width=25|
+|valign=top|
+* {{JO|NOR|hiver de 1968}} (66)
+* {{JO|NZL|hiver de 1968}} (6)
+* {{JO|NED|hiver de 1968}} (9)
+* {{JO|POL|hiver de 1968}} (31)
+* {{JO|ROM|hiver de 1968}} (30)
+* {{JO|SWE|hiver de 1968}} (68)
+* {{JO|SUI|hiver de 1968}} (34)
+* {{JO|TCH|hiver de 1968}} (48)
+* {{JO|TUR|hiver de 1968}} (11)
+* {{JO|URS|hiver de 1968}} (86)
+* {{JO|YUG|hiver de 1968}} (30)
+|}
+</center>
+
+== Sites ==
+=== Sites sportifs ===
+[[Fichier:Chamrousse-Jeux olympiques-1968.jpg|vignette|gauche|alt=Photographie de l'aire d'arrivée d'une piste de ski vue depuis une tribune.|Le site de [[Chamrousse]] pendant les Jeux.]]
+Bien que ville de plaine, Grenoble présente des atouts dans l'organisation des différentes compétitions sportives car elle se situe au croisement de plusieurs massifs montagneux. Les épreuves de neige sont ainsi organisées en dehors de la ville, s'étalant sur trois massifs : [[Autrans]], [[Saint-Nizier-du-Moucherotte]] et [[Villard-de-Lans]] dans le [[Massif du Vercors|Vercors]], [[Chamrousse]] en [[Chaîne de Belledonne|Belledonne]] et L'[[Alpe d'Huez]] dans l'[[Massif de l'Oisans|Oisans]]<ref>{{harvsp|Lévy|2018|p=9|texte=(H)auteurs}}.</ref>. La ville de Grenoble accueille, quant à elle, les épreuves de patinage et de [[hockey sur glace]]. Le [[Palais des sports de Grenoble|Stade de glace]], renommé par la suite « Palais des sports », est conçu par les architectes Robert Demartini et Pierre Junillon. Implanté à proximité du [[parc Paul-Mistral]], il peut accueillir {{unité|12000 spectateurs}} et concentre les épreuves de hockey sur glace et de [[patinage artistique]]. Un [[Anneau de vitesse de Grenoble|anneau de vitesse]] en plein air est aménagé à côté du Stade de Glace. D'une capacité de {{unité|2500 spectateurs}}, il compte une piste de {{unité|400 m}} de longueur et {{unité|14 m}} de largeur pour les épreuves de [[patinage de vitesse]]<ref name="universalis"/>{{,}}<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=105}}.</ref>. La [[Halle Clemenceau|Patinoire municipale]] de Grenoble, inaugurée en {{date-|septembre 1963}} et testée à l'occasion des [[championnats d'Europe de patinage artistique 1964]], sert de patinoire secondaire pour les hockeyeurs<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=106}}.</ref>.
+
+[[Fichier:Villard hiver 2013 (3).JPG|vignette|alt=Photographie d'un village enneigé.|[[Villard-de-Lans]] en 2013.]]
+La station de [[Chamrousse]] accueille les épreuves de [[ski alpin]]. La descente dames et les différents slaloms sont disputés sur les pistes du Recoin, tandis que la descente homme est disputée à Casserousse, à {{unité|2 km}} du Recoin, pour des raisons de configuration de terrain. D'importants travaux de terrassement sont entrepris pour aménager la partie haute de la descente de Casserousse, tracée à travers des barres rocheuses. La piste, d'une longueur de {{unité|2890 m}}, est testée une première fois à l'occasion des championnats de France de 1966, puis lors des Semaines Internationales de 1967, à l'issue desquelles de légères modifications de terrain sont apportées sur le bas du parcours, avant l'homologation officielle de la piste. La création du stade de slalom dans la cuvette du Recoin nécessite quant à elle le comblement d'un ravin et l'aplanissement de près de {{unité|200000 m 3}} de roc. La descente femmes, elle aussi disputée sur la piste du Recoin, possède une longueur de {{unité|2160 m}}. Les règlements de la [[Fédération internationale de ski]] et du [[Comité international olympique]] imposant la sélection de pistes de repli pour le ski alpin, celles-ci sont prévues à L'[[Alpe d'Huez]], station sélectionnée pour son ensoleillement et sa capacité hôtelière<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=77-82}}.</ref>. L'aménagement des pistes de Chamrousse coûte {{unité|8,6 millions}} de francs<ref name="universalis"/>.
+
+Les épreuves de [[ski nordique]], à savoir le [[ski de fond]], le [[biathlon]] et le [[combiné nordique]], ont lieu à [[Autrans]], sur le [[massif du Vercors]], de même que l'épreuve de [[saut à ski]] sur petit tremplin de {{unité|70 m}}, disputée sur le [[tremplin du Claret]]. La décision d'installer ce tremplin à Autrans est dictée par la proximité des pistes de ski de fond, également utilisées dans l'épreuve de combiné nordique. L'aire d'arrivée du tremplin a la forme d'un cirque creusé dans la montagne et peut accueillir {{unité|40000 spectateurs}}<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=93}}.</ref>. Le tremplin de {{unité|90 m}} est quant à lui édifié à [[Saint-Nizier-du-Moucherotte]] : le [[tremplin du Dauphiné]] est construit par l'architecte [[Pierre Dalloz]], sur les conseils de l'Allemand {{Lien|langue=de|fr=Heini Klopfer}}, ancien sauteur à ski et architecte de tremplins. La piste d'élan, entièrement artificielle, amène sur une aire d'arrivée prévue elle aussi pour {{unité|40000 spectateurs}}<ref name="rapport officiel p96-98">{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=96-98}}.</ref>. Le montant de sa construction s'élève à {{nobr|6,9 millions}} de francs<ref name="universalis"/>.
+
+Deux pistes sont construites pour la [[luge de course|luge]] et le [[bobsleigh]], alors que ces épreuves se disputent habituellement sur le même tracé<ref name="universalis"/>. La station de [[Villard-de-Lans]] accueille la [[luge de course|luge]] avec une piste de {{unité|1000 m}} comptant une pente moyenne de 11 %. Elle est conçue sur le versant nord du Bois du Frier avec l'aide de l'ancien lugeur polonais Jan Steler<ref name="rapport officiel p96-98" />. La [[Piste olympique de bobsleigh de l'Alpe d'Huez|piste de bobsleigh de l'Alpe d'Huez]], dont l'altitude permet d'assurer la bonne conservation de la glace : le départ de la piste est situé à {{unité|2030 m}} d'altitude et son arrivée à {{unité|1890 m}}. D'une longueur de {{unité|1500 m}} et d'une pente moyenne de 9,33 %, elle est conçue par l'architecte italien Luciano Galli à proximité du col du Poutran<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=103-104}}.</ref>. L'aménagement de la piste de L'Alpe d'Huez coûte {{unité|6,7 millions}} de francs, tandis que la piste de Villard-de-Lans coûte {{unité|3,2 millions}} de francs<ref name="universalis"/>.
+
+Des « Semaines Internationales » sont organisées tout au long de l'année 1967 pour procéder à des essais techniques des installations sportives construites pour les Jeux<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=28}}.</ref>.
+
+=== Sites d'hébergement ===
+[[Fichier:Village olympiq - Grenoble.jpg|vignette|alt=Photographie d'un parc et d'un immeuble.|Le village olympique en 2014.]]
+Deux villages olympiques sont construits dans les stations, à Autrans pour les épreuves nordiques et à Chamrousse pour celles du ski alpin<ref>{{lien web|lang=|url=https://www.francebleu.fr/sports/sport-d-hiver-ski-biathlon/jo-de-1968-a-grenoble-pendant-deux-semaines-la-vie-a-l-heure-olympique-1516100628|titre=JO de 1968 à Grenoble : pendant deux semaines, la vie à l'heure olympique|site=francebleu.fr|date=30 janvier 2018|consulté le=31 janvier 2018}}.</ref>. Mais le principal village est édifié à Grenoble et se compose d'un village olympique et d'une cité olympique. Agrémenté de trois restaurants, l'ensemble pouvant accueillir {{unité|8054 lits}} est construit sous la direction de l'architecte [[Maurice Novarina]] dans le sud de la ville, en bordure des pistes de l'ancien [[Aéroport de Grenoble-Mermoz|aérodrome Grenoble-Mermoz]]{{Référence nécessaire|date=4 mars 2021}}.
+
+Le village olympique destiné aux athlètes et aux accompagnateurs est prêt le {{date-|15 janvier}} et se compose d'un groupe de onze bâtiments cubiques de quatre à cinq étages offrant {{nobr|800 chambres}} individuelles, de deux bâtiments offrant {{nobr|300 chambres}} individuelles, d'une tour de quinze étages offrant {{nobr|62 appartements}} de trois à cinq pièces, ainsi que du centre de réception du village destiné à devenir par la suite l'école maternelle du quartier{{Référence nécessaire|date=4 mars 2021}}.
+
+La cité olympique hébergeant les services publics, ceux du comité olympique ainsi que les firmes participantes est prête le {{date-|15 octobre 1967}} et se compose d'un groupe de douze bâtiments allongés offrant {{unité|1200 logements}} et de sept tours de quinze étages offrant chacune {{nobr|62 appartements}} de trois à cinq pièces<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=69}}.</ref>.
+
+Le village, caractérisé par ses façades en bois, et agrémenté par six œuvres d'art grâce au premier symposium français de sculpture organisé depuis l'été 1967<ref>{{Ouvrage|auteur1=Ivan Boccon-Perroud|auteur2=Marie Savine|titre=Un musée sans murs : Le premier symposium français de sculpture. Grenoble, été 1967.|éditeur=Département de l'Isère|année=1998|pages totales=64|isbn=2-905375-23-X|présentation en ligne=https://musees.isere.fr/publication/musee-dauphinois-un-musee-sans-murs-le-premier-symposium-francais-de-sculpture-grenoble-ete-1967}}.</ref>, et l'ensemble de ce quartier sont labellisés trente-cinq ans après les Jeux [[Liste des édifices labellisés « Patrimoine du XXe siècle » de Grenoble|« patrimoine du {{s-|XX}} »]]<ref>{{lien web|url=http://www.rhone-alpes.culture.gouv.fr/label/spip.php?rubrique9|titre=Label Patrimoine du {{s-|XX}} en Rhône-Alpes|site=rhone-alpes.culture.gouv.fr|éditeur=DRAC Rhône-Alpes}}.</ref>.
+
+== Déroulement ==
+=== Relais de la flamme olympique ===
+[[Fichier:Alain Mimoun.jpg|vignette|redresse|alt=Photographie d'un homme aux cheveux blancs.|[[Alain Mimoun]], premier relayeur.]]
+{{article détaillé|Relais de la flamme olympique}}
+D'une longueur de {{unité|70 cm}}, la torche olympique de Grenoble est un flambeau en tôle cuivrée surmonté d'une vasque dont la partie supérieure est crénelée. Un morceau de tissu rouge recouvre en partie le manche. L'inscription « {{Xe|Jeux}} Olympiques d'Hiver Grenoble 1968 » est frappée sur la vasque<ref name="flamme">{{Ouvrage|auteur institutionnel=Centre d'Études Olympiques|titre=Torches et relais de la flamme des Jeux Olympiques d’hiver d’Oslo 1952 à PyeongChang 2018|éditeur=[[Comité international olympique]]|année=2017|pages totales=87|format=pdf|passage=23-27|isbn=|lire en ligne=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/Torches/Document-de-reference-Torches-et-relais-de-la-flamme-des-JO-d-hiver-d-Oslo-1952-a-PyeongChang-2018.pdf}}.</ref>.
+
+La [[flamme olympique|flamme]] est allumée à [[Olympie (ville)|Olympie]] le {{date-|16 décembre 1967}}, conformément à la tradition, sous une pluie très importante. Elle est ensuite emmenée sur le [[mont Olympe]] où une cérémonie a lieu en son honneur, puis est transportée en [[France]] par [[Sud-Aviation SE 210 Caravelle|Caravelle]]. L'ancien skieur alpin [[Jean Vuarnet]], médaillé d'or en descente aux [[Jeux olympiques d'hiver de 1960|Jeux de Squaw Valley en 1960]], reçoit la flamme à son arrivée à l'[[aéroport de Paris-Orly]] le {{date-|19 décembre 1967}}. Le coureur de fond [[Alain Mimoun]], plusieurs fois médaillé olympique, est le premier relayeur sur le sol français. Le parcours de la flamme olympique en France comprend {{unité|7222 km}}, dont {{unité|3500 km}} parcourus à pied, {{unité|1600 km}} à skis, {{unité|1900 km}} par des moyens mécaniques divers (avion, hélicoptère, véhicule) et près de {{unité|300 km}} à bicyclette, à cheval ou à rame. Le parcours célèbre les massifs montagneux français, en prenant la direction des [[Massif des Vosges|Vosges]] à la sortie de [[Paris]], via [[Reims]] et [[Nancy]], puis le [[Massif du Jura|Jura]], le [[Massif central]] et les [[Pyrénées]] via [[Lyon]] et [[Bordeaux]], et enfin les [[Alpes]] après un détour en [[Corse]]. La flamme olympique traverse le massif alpin entre [[Nice]] et [[Chamonix]] avant d'arriver à [[Grenoble]] lors de la cérémonie d'ouverture le {{date-|6 février 1968}}<ref name="flamme"/>. Sur place, la flamme en provenance du [[massif de la Chartreuse]] emprunte les quais de l'Isère, traverse l'[[Isère (rivière)|Isère]] par le pont de la Citadelle, rejoint le [[boulevard Gambetta (Grenoble)|boulevard Gambetta]], puis l'avenue Albert-1er-de-Belgique et enfin l'avenue Marcellin-Berthelot{{Référence nécessaire|date=4 mars 2021}}.
+
+=== Calendrier des épreuves ===
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; position:relative; width:55%;"
+|- style="text-align:center"
+| style="background:#0c3;" width="5%"|&nbsp;'''CO'''&nbsp;|| align="left" width="20%" | Cérémonie d'ouverture
+| style="background:#39f;" width="5%"|&nbsp; ●&nbsp;|| align="left" width="20%" | Épreuve(s)
+| style="background:#fc0;" width="5%"|&nbsp;'''1'''&nbsp;|| align="left" width="20%" | Finale d'épreuve officielle<ref group=Note>Le chiffre indique le nombre de finales qui se tiennent ce jour-là pour chaque sport.</ref>
+| style="background:#e33;" width="5%"|&nbsp;'''CC'''&nbsp;|| align="left" width="20%" | Cérémonie de clôture
+|}
+
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; line-height:1.25em; width:75%;"
+|+ Calendrier des épreuves
+|-
+! scope=col style="width:20%;"|{{date-|février 1968}}
+! scope=col style="width:5%;"|4<br />{{abréviation discrète|Dim|Dimanche}}
+! scope=col style="width:5%;"|5<br />{{abréviation discrète|Lun|Lundi}}
+! scope=col style="width:5%;"|6<br />{{abréviation discrète|Mar|Mardi}}
+! scope=col style="width:5%;"|7<br />{{abréviation discrète|Mer|Mercredi}}
+! scope=col style="width:5%;"|8<br />{{abréviation discrète|Jeu|Jeudi}}
+! scope=col style="width:5%;"|9<br />{{abréviation discrète|Ven|Vendredi}}
+! scope=col style="width:5%;"|10<br />{{abréviation discrète|Sam|Samedi}}
+! scope=col style="width:5%;"|11<br />{{abréviation discrète|Dim|Dimanche}}
+! scope=col style="width:5%;"|12<br />{{abréviation discrète|Lun|Lundi}}
+! scope=col style="width:5%;"|13<br />{{abréviation discrète|Mar|Mardi}}
+! scope=col style="width:5%;"|14<br />{{abréviation discrète|Mer|Mercredi}}
+! scope=col style="width:5%;"|15<br />{{abréviation discrète|Jeu|Jeudi}}
+! scope=col style="width:5%;"|16<br />{{abréviation discrète|Ven|Vendredi}}
+! scope=col style="width:5%;"|17<br />{{abréviation discrète|Sam|Samedi}}
+! scope=col style="width:5%;"|18<br />{{abréviation discrète|Dim|Dimanche}}
+! scope=col style="width:10%;"|Épreuves
+|- style="text-align:center;"
+! scope=row align=left| Cérémonies
+|
+|
+|style="background:#0c3; text-align:center;"| [[Cérémonies olympiques|'''CO''']]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| style="background:#e33; text-align:center;"| [[Cérémonies olympiques|'''CC''']] || —
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Biathlon pictogram.svg|20px|alt=Logo du biathlon|link=]] [[Biathlon aux Jeux olympiques de 1968|Biathlon]]
+|
+| 
+|
+| 
+|
+| 
+|
+| 
+| style="background:#fc0;"|'''1'''
+| 
+| 
+| style="background:#fc0;"|'''1'''
+| 
+| 
+|
+|2
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Bobsleigh pictogram.svg|20px|alt=Logo du bobsleigh|link=]] [[Bobsleigh aux Jeux olympiques de 1968|Bobsleigh]]
+|
+|
+|
+|
+| style="background:#39f;"|●&nbsp;
+| 
+| 
+| style="background:#fc0;"|'''1'''
+|
+|
+| 
+| 
+| style="background:#39f;"|●&nbsp;
+| style="background:#fc0;"|'''1'''
+|
+|2
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Nordic combined pictogram.svg|20px|alt=Logo du combiné nordique|link=]] [[Combiné nordique aux Jeux olympiques de 1968|Combiné nordique]]
+| 
+|
+|
+|
+|
+|
+| style="background:#39f;"|●&nbsp;
+|
+| style="background:#fc0;"|'''1'''
+|
+|
+|
+|
+|
+|
+|1
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Ice hockey pictogram.svg|20px|alt=Logo du hockey sur glace|link=]] [[Hockey sur glace aux Jeux olympiques de 1968|Hockey sur glace]]
+| style="background:#39f;"|●&nbsp;
+| 
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| style="background:#fc0;"|'''1'''
+| 
+|1
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Luge pictogram.svg|20px|alt=Logo de la luge|link=]] [[Luge aux Jeux olympiques de 1968|Luge]]
+|
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:#39f;"|●&nbsp;
+|
+| style="background:#fc0;"|'''2'''
+|
+|
+|
+|
+| style="background:#fc0;"|'''1'''
+|3
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Figure skating pictogram.svg|20px|alt=Logo du patinage artistique|link=]] [[Patinage artistique aux Jeux olympiques de 1968|Patinage artistique]]
+| 
+| 
+| 
+| style="background:#39f;"|●&nbsp;
+| style="background:#39f;"|●&nbsp;
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#39f;"|●&nbsp;
+| 
+| style="background:#39f;"|●&nbsp;
+| style="background:#fc0;"|'''1'''
+| 
+| style="background:#fc0;"|'''1'''
+|
+|
+|3
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Speed skating pictogram.svg|20px|alt=Logo du patinage de vitesse|link=]] [[Patinage de vitesse aux Jeux olympiques de 1968|Patinage de vitesse]]
+| 
+| 
+| 
+| 
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+|
+|8
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Ski jumping pictogram.svg|20px|alt=Logo du saut à ski|link=]] [[Saut à ski aux Jeux olympiques de 1968|Saut à ski]]
+|
+|
+|
+|
+|
+| 
+| 
+| style="background:#fc0;"|'''1'''
+| 
+|
+|
+|
+|
+|
+| style="background:#fc0;"|'''1'''
+|2
+|- style="text-align:center;"
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Alpine skiing pictogram.svg|20px|alt=Logo du ski alpin|link=]] [[Ski alpin aux Jeux olympiques de 1968|Ski alpin]]
+|
+| 
+| 
+| 
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| style="background:#39f;"|●&nbsp;
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| style="background:#39f;"|●&nbsp;
+| style="background:#fc0;"|'''1'''
+| 
+| style="background:#fc0;"|'''1'''
+|
+|6
+|- style="text-align:center;"
+! scope=row align="left"|[[Fichier:Cross country skiing pictogram.svg|20px|alt=Logo du ski de fond|link=]] [[Ski de fond aux Jeux olympiques de 1968|Ski de fond]]
+|
+| 
+| 
+| style="background:#fc0;"|'''1'''
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| 
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| 
+| style="background:#fc0;"|'''1'''
+| style="background:#fc0;"|'''1'''
+| 
+|7
+|-
+! scope=row |Nombre total de finales
+|align="center"|0
+|align="center"|0
+|align="center"|0
+|align="center"|1
+|align="center"|0
+|align="center"|3
+|align="center"|4
+|align="center"|3
+|align="center"|4
+|align="center"|4
+|align="center"|3
+|align="center"|3
+|align="center"|3
+|align="center"|5
+|align="center"|2
+|align="center"|35
+|-
+! scope=row |Total
+|align="center"|0
+|align="center"|0
+|align="center"|0
+|align="center"|1
+|align="center"|1
+|align="center"|4
+|align="center"|8
+|align="center"|11
+|align="center"|15
+|align="center"|19
+|align="center"|22
+|align="center"|25
+|align="center"|28
+|align="center"|33
+|align="center"|35
+|align="center"|35
+|}
+
+=== Cérémonie d'ouverture ===
+[[Fichier:Alain Calmat 1968.jpg|vignette|gauche|[[Alain Calmat]], brandissant la torche, s'apprête à allumer la vasque de la [[flamme olympique]], lors de la cérémonie d'ouverture, le 6 février.]]
+[[Fichier:Stade olympique - Grenoble 1968.jpg|vignette|Lors de la cérémonie d'ouverture en couleur, sous les yeux du public, les athlètes prennent place à leur tour dans le stade.]]
+
+La cérémonie d'ouverture se déroule le {{date-|mardi 6 février 1968}} dans le [[stade olympique de Grenoble]], un stade provisoire de {{unité|60000 places}} conçu par les architectes grenoblois Bruno Pouradier-Duteil et Georges Pillon et situé à l'extrémité sud de l'avenue Marcellin-Berthelot. Formé d'une structure tubulaire en acier, le stade recouvre une surface de {{unité|60000 m 2}}. L'animation de la cérémonie est l'œuvre du « Groupe de Paris », dirigé par Alain Duchemin, sur une musique de [[Jacques Bondon]]. La mise en scène et les décors sont réalisés par le cinéaste Jacques Valentin, assisté par l'architecte Denis Soulie. L'arrivée dans le stade de [[Charles de Gaulle]], président de la République, marque le début de la cérémonie d'ouverture. L'exécution de ''[[La Marseillaise]]'' est suivie du défilé des athlètes, regroupés par délégations. [[Albert Michallon]], président du comité d'organisation, et [[Avery Brundage]], président du {{abréviation discrète|CIO|Comité international olympique}}, prononcent tour à tour un discours d'encouragement aux athlètes, puis Charles de Gaulle proclame l'ouverture officielle des Jeux<ref name="rapport officiel p200"/>.
+
+Le patineur artistique [[Alain Calmat]] reçoit la [[flamme olympique]] à l'entrée du stade des mains de [[Daniel Robin]], puis traverse le stade pour embraser la vasque olympique. L'enregistrement de battements de cœur lorsqu'il traverse le stade et qu'il gravit l'escalier de {{unité|96 marches}} le menant au sommet d'une haute tour d'[[échafaudage]]s, jusqu'au pied de la vasque, est retransmis dans tout le stade qui devient alors silencieux. Puis, des hélicoptères déversent trois tonnes de roses en papier (symbolisant celles figurant sur les armes de la ville de Grenoble) sur les spectateurs<ref name="monninp80">{{harvsp|Monnin|2013|p=80}}.</ref>. Le skieur alpin [[Léo Lacroix (skieur)|Léo Lacroix]] prononce le [[serment olympique]], qui marque la fin de la cérémonie<ref name="rapport officiel p200">{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=200}}.</ref>{{,}}<ref>{{lien web|url=https://www.lesechos.fr/27/07/2012/LesEchos/21236-019-ECH_06-02-1968---les-jo-s-ouvrent-a-grenoble.htm|titre=06/02/1968 : les JO s'ouvrent à Grenoble|auteur=Gabrielle Sarraz|site=lesechos.fr|éditeur=[[Les Échos]]|date=27 juillet 2012|consulté le=8 janvier 2016}}.</ref> et cinq [[Fouga CM-170 Magister|Fouga Magister]] de la [[patrouille de France]] tracent les couleurs olympiques dans le ciel de Grenoble<ref name="rapport officiel p200"/>.
+
+=== Épreuves ===
+==== Biathlon ====
+{{article détaillé|Biathlon aux Jeux olympiques de 1968}}
+[[Fichier:Александр Тихонов.jpg|vignette|redresse|alt=Photographie d'un homme aux cheveux blancs.|[[Alexandre Tikhonov]], ici en 2007, remporte deux médailles lors de ces Jeux.]]
+Les compétitions de [[biathlon]] ont lieu à [[Autrans]], dans le [[massif du Vercors]]. Deux épreuves masculines sont au programme : la course individuelle de {{unité|20 kilomètres}} ainsi que le relais 4 × {{unité|7,5 kilomètres}}. Elles sont disputées par {{unité|72 athlètes}} de {{nobr|16 pays}} différents. Les épreuves sont dominées par les [[Union soviétique aux Jeux olympiques d'hiver de 1968|Soviétiques]], qui remportent trois médailles, tandis que les [[Norvège aux Jeux olympiques d'hiver de 1968|Norvégiens]] en remportent deux<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/BIA|titre=Biathlon at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=25 février 2018}}.</ref>.
+
+L'épreuve de {{unité|20 kilomètres}} a lieu le {{date-|lundi 12 février}} par un temps médiocre : un ciel couvert, une neige molle et une température douce<ref name="rapport 224">{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=224}}.</ref>. Le Norvégien [[Magnar Solberg]], sélectionné à la surprise des journalistes de son pays à la place de l'ancien champion du monde [[Olav Jordet]], remporte la course en {{heure|1|13|45|9}} en ne manquant aucune cible. Le Soviétique [[Alexandre Tikhonov]] est deuxième : alors qu'il se montre le plus rapide sur les skis, il manque deux cibles qui lui valent une pénalité d'une minute chacune. Il est ainsi classé avec un temps de {{heure|1|14|40|4}}. Le podium est complété par un autre Soviétique, [[Vladimir Gundartsev]], qui rate également deux cibles<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1517|titre=Biathlon at the 1968 Grenoble Winter Games: 20 kilometres, Men|site=olympedia.org|consulté le=9 janvier 2016}}.</ref>.
+
+Le relais {{nobr|4 ×}} {{unité|7,5 kilomètres}} se déroule le jeudi {{date-|15 février}} et quatorze équipes composées de quatre coureurs y participent. Cette épreuve est introduite au programme olympique pour ces Jeux. Les favoris sont les Soviétiques, qui ont placé quatre coureurs dans les sept premiers lors de l'épreuve individuelle<ref name="relais biathlon"/>. La course initialement prévue le matin est décalée en début d'après-midi en raison du brouillard<ref name="rapport 224"/>. Les Soviétiques, menés par Alexandre Tikhonov, s'adjugent le premier titre dans l'histoire de cette épreuve en occupant la tête de la course du début à la fin. Ils signent finalement un temps de {{heure|2|13|02|4}} avec deux cibles manquées et sont suivis des Norvégiens, qui manquent cinq cibles, puis des Suédois, qui réalisent un sans faute mais se montrent moins rapides sur les skis, alors que la Pologne prend la quatrième place<ref name="relais biathlon">{{lien web|langue=en|url=https://www.olympedia.org/results/1518|titre=Biathlon at the 1968 Grenoble Winter Games: 4 × 7.5 kilometres Relay, Men|site=olympedia.org|consulté le=25 février 2018}}.</ref>.
+
+==== Bobsleigh ====
+{{article détaillé|Bobsleigh aux Jeux olympiques de 1968}}
+[[Fichier:Eugenio monti.jpg|vignette|alt=Photographie en noir et blanc d'un athlète portant un dossard marqué de l'inscription Cortina et du numéro 38.|Âgé de {{unité|40 ans}}, [[Eugenio Monti]] remporte deux médailles d'or.]]
+Les épreuves de bobsleigh, le bob à deux et le bob à quatre, se déroulent sur la [[Piste olympique de bobsleigh de l'Alpe d'Huez|piste de l'Alpe d'Huez]]. Onze nations engagent des bobeurs, pour un total de {{unité|90 participants}}. Le pilote italien [[Eugenio Monti]], âgé de {{unité|40 ans}}, remporte la médaille d'or dans les deux épreuves<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/BOB|titre=Bobsleigh at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=9 janvier 2016}}.</ref>.
+
+Dès la première manche de l'épreuve de bob à deux, le {{date-|8 février}}, le bob italien d'Eugenio Monti et [[Luciano de Paolis]] devance un équipage roumain et un équipage britannique. Dans la deuxième manche, le bob d'[[Allemagne de l'Ouest]] piloté par [[Horst Floth]] se montre le plus rapide, mais les Italiens conservent la première place du classement général après le premier jour de compétition. Les conditions météorologiques retardent les deux dernières manches, qui sont finalement disputées le {{date-|11 février}}. Lors de la troisième manche, l'équipage Horst Floth-[[Pepi Bader]] prend la tête du classement alors qu'Eugenio Monti et Luciano de Paolis reculent au deuxième rang, mais les Italiens sont les plus rapides dans la quatrième et dernière manche au cours de laquelle ils établissent le record de la piste. Les deux équipages se retrouvent à égalité parfaite avec un temps cumulé de {{heure||4|41|54}}. Le règlement stipule qu'en cas d'égalité, l'équipage ayant réussi la manche la plus rapide est désigné vainqueur, c'est la raison pour laquelle la médaille d'or revient à Eugenio Monti et Luciano de Paolis, tandis que Horst Floth et Pepi Bader doivent se contenter de la médaille d'argent. La troisième place revient aux Roumains [[Ion Panțuru]] et [[Nicolae Neagoe]], qui terminent à près de trois secondes des deux équipages de tête<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/323|titre=Bobsleigh at the 1968 Grenoble Winter Games : Two, Men|site=olympedia.org|consulté le=25 février 2018}}.</ref>.
+
+Les mauvaises conditions météorologiques perturbent également le déroulement de l'épreuve de bob à quatre et empêchent que les deux dernières manches soient disputées. Le classement final est alors établi sur la base des deux premières manches, disputées le {{date-|16 février}}, à l'issue desquelles l'équipage italien mené par Eugenio Monti se trouve en tête. La médaille d'argent revient au bob autrichien piloté par [[Erwin Thaler]] et la médaille de bronze au bob suisse de [[Jean Wicki]]. Ce dernier équipage, seulement septième à l'issue de la première manche, effectue une remontée spectaculaire en améliorant le record de la piste dans la seconde manche<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/330|titre=Bobsleigh at the 1968 Grenoble Winter Games : Four, Men|site=olympedia.org|consulté le=25 février 2018}}.</ref>{{,}}<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=245}}.</ref>.
+
+==== Combiné nordique ====
+[[Fichier:Autrans, Grenoble 1968 Winter Olympics. The site of Golden Olympic Success of Jiri Raska (normal hill event, 79m).JPG|vignette|gauche|Le tremplin du Claret.]]
+{{article détaillé|Combiné nordique aux Jeux olympiques de 1968}}
+Aucun des six premiers du classement de l'épreuve lors des [[Jeux olympiques d'hiver de 1964|Jeux d'Innsbruck en 1964]] n'est engagé lors de cette édition. Quarante-et-un représentants de treize nations participent à l'épreuve du saut sur le [[tremplin du Claret]] à [[Autrans]] le {{date-|10 février}}. L'Allemand de l'Ouest [[Franz Keller (ski)|Franz Keller]] réalise le meilleur saut, à {{unité|77,5 m}}. Le Japonais [[Hiroshi Itagaki]] se place au second rang. Dans l'épreuve de {{unité|15 kilomètres}} ski de fond, disputée deux jours plus tard, le Suisse [[Alois Kälin]] réussit une grande performance : seulement {{24e}} à l'issue du saut, il s'élance avec {{heure||3|30}} de retard sur Franz Keller et achève son parcours à seulement {{heure|||6|3}} de l'Allemand de l'Ouest. C'est insuffisant pour remporter la médaille d'or, qui revient à Franz Keller, mais cette performance lui permet de monter sur la deuxième marche du podium. [[Andreas Kunz]], {{10e}} après le saut, remonte au troisième rang et apporte la médaille de bronze à la délégation d'[[Allemagne de l'Est aux Jeux olympiques d'hiver de 1968|Allemagne de l'Est]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/2238|titre=Nordic Combined at the 1968 Grenoble Winter Games: Individuel, Men|site=olympedia.org|consulté le=9 janvier 2016}}.</ref>.
+
+==== Hockey sur glace ====
+{{article détaillé|Hockey sur glace aux Jeux olympiques de 1968}}
+
+Le tournoi olympique de [[hockey sur glace]], qui est le dernier à faire également office de [[Championnat du monde de hockey sur glace|championnat du monde]] de la discipline, rassemble quatorze équipes réparties en deux groupes : huit équipes dans le {{nobr|groupe A}} se disputent les médailles sous la forme d'un [[tournoi toutes rondes]] et six équipes sont placées dans le {{nobr|groupe B}} pour disputer les matchs de classement de la {{9e}} à la {{14e|place}}. Cinq équipes sont directement qualifiées dans le {{nobr|groupe A}} (l'Union soviétique, le Canada, les États-Unis, la Suède et la Tchécoslovaquie) et trois équipes dans le {{nobr|groupe B}} (l'Autriche, le Japon et la France), tandis que les autres équipes disputent un match à élimination directe pour déterminer leur groupe. L'Allemagne de l'Ouest, l'Allemagne de l'Est et la Finlande se qualifient pour le {{nobr|groupe A}} en battant respectivement la Roumanie, la Norvège et la Yougoslavie, qui rejoignent le {{nobr|groupe B}}. Les rencontres du {{nobr|groupe A}} sont disputées au [[Palais des sports de Grenoble|Stade de glace]] et les rencontres du {{nobr|groupe B}} à la [[Halle Clemenceau|patinoire municipale]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/ICH|titre=Ice Hockey at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=10 janvier 2016}}.</ref>{{,}}<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=233}}.</ref>.
+
+Triples champions du monde en titre, les Soviétiques sont les grands favoris du tournoi, d'autant qu'ils n'ont perdu aucune rencontre internationale depuis 1963. Alors qu'ils remportent leurs cinq premiers matchs, ils s'inclinent dans le sixième face à la Tchécoslovaquie ({{nobr|5-4)}}. Ces deux équipes possèdent le même bilan de cinq victoires pour une défaite avant le dernier match, ce qui signifie que les Tchécoslovaques sont sacrés champions olympiques s'ils obtiennent un résultat identique aux Soviétiques lors de leur dernière rencontre. Alors que les Soviétiques s'imposent sur le score de {{nobr|5-0}} face aux Canadiens, troisièmes du tournoi et médaillés de bronze, la Tchécoslovaquie concède le match nul face à la Suède. L'Union soviétique gagne la médaille d'or, comme [[Hockey sur glace aux Jeux olympiques de 1964|quatre ans plus tôt]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/20349|titre=Ice Hockey at the 1968 Grenoble Winter Games : Men's Ice Hockey|site=olympedia.org|consulté le=10 janvier 2016}}.</ref>.
+
+==== Luge ====
+[[Fichier:Bundesarchiv Bild 183-H0223-0021-001, Klaus Bonsack.jpg|vignette|[[Klaus Bonsack]] médaillé d'argent en luge simple et champion olympique en luge double.|alt=Photographie en noir et blanc d'un lugeur.]]
+{{article détaillé|Luge aux Jeux olympiques de 1968}}
+Intégrée au programme des Jeux quatre ans plus tôt, la [[Luge aux Jeux olympiques|luge]] rassemble lors de cette édition un total de {{unité|85|participants}} originaires de quatorze pays<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/LUG|titre=Luge at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=24 février 2018}}.</ref>. Les épreuves, organisées sur la piste de [[Villard-de-Lans]], souffrent des conditions climatiques : les températures trop élevées retardent plusieurs départs et provoquent l'annulation de certaines manches. Elles sont également marquées par un acte de tricherie : des concurrentes de l'[[Allemagne de l'Est aux Jeux olympiques d'hiver de 1968|Allemagne de l'Est]] sont disqualifiées pour avoir chauffé les patins de leur luge afin de gagner de la vitesse en piste<ref name="francebleu">{{lien web|url=https://www.francebleu.fr/sports/sport-d-hiver-ski-biathlon/jo-de-1968-a-grenoble-cinquante-ans-apres-que-sont-devenus-les-sites-olympiques-1516100950|titre=JO de 1968 à Grenoble : les pistes "maudites" de l'Alpe d'Huez et Villard-de-Lans|auteur=Denis Souilla et Antonin Kermen|site=francebleu.fr|éditeur=[[France Bleu]]|date=31 janvier 2018}}.</ref>.
+
+La délégation est-allemande remporte toutefois trois médailles, dont l'or sur l'épreuve double devant l'[[Autriche aux Jeux olympiques d'hiver de 1968|Autriche]] et l'[[Allemagne de l'Ouest aux Jeux olympiques d'hiver de 1968|Allemagne de l'Ouest]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/51|titre=Luge at the 1968 Grenoble Winter Games : Doubles, Open|site=olympedia.org|consulté le=24 février 2018}}.</ref>. Les deux engagés, [[Thomas Köhler]] et [[Klaus Bonsack]], remportent également une médaille dans l'épreuve simple, se classant respectivement deuxième et troisième derrière l'Autrichien [[Manfred Schmid]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/46|titre=Luge at the 1968 Grenoble Winter Games : Singles, Men|site=olympedia.org|consulté le=24 février 2018}}.</ref>. Chez les femmes, le titre olympique revient à l'Italienne [[Erika Lechner]], qui devance les Allemandes de l'Ouest [[Christa Schmuck]] et [[Angelika Dünhaupt]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/54|titre=Luge at the 1968 Grenoble Winter Games : Singles, Women|site=olympedia.org|consulté le=24 février 2018}}.</ref>.
+
+==== Patinage artistique ====
+{{article détaillé|Patinage artistique aux Jeux olympiques de 1968}}
+Quatre-vingt-seize patineurs de {{nobr|17 nations}}, dont {{nobr|46 hommes}} et {{nobr|50 femmes}}, sont rassemblés au [[Palais des sports de Grenoble|Stade de glace]] pour les épreuves de patinage artistique<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/FSK|titre=Figure Skating at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=16 janvier 2016}}.</ref>. La patineuse américaine [[Peggy Fleming]] remporte la seule médaille d'or pour les États-Unis au cours de ces Jeux<ref>{{lien web|url=http://www.universalis.fr/encyclopedie/peggy-fleming/|accès url=inscription|titre=Fleming, Peggy (1948-)|éditeur=[[Encyclopædia Universalis]]|consulté le=16 janvier 2016}}.</ref>. Elle se classe en tête du programme court puis du programme libre et devance la patineuse est-allemande [[Gabriele Seyfert]] et la Tchécoslovaque [[Hana Mašková]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/13212|titre=Figure Skating at the 1968 Grenoble Winter Games : Singles, Women|site=olympedia.org|consulté le=16 janvier 2016}}.</ref>.
+
+Dans l'épreuve par couples, les Soviétiques [[Ludmila Belousova]] et [[Oleg Protopopov]] gagnent leur second titre olympique après celui obtenu à Innsbruck quatre ans plus tôt. Pour la première fois dans l'histoire des Jeux, un autre couple soviétique monte sur le podium : [[Tatiana Zhuk]] et [[Aleksandr Gorelik]] se classent à la {{2e|place}} tandis que la médaille de bronze revient aux Allemands de l'Ouest [[Margot Glockshuber]] et [[Wolfgang Danne]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/13242|titre=Figure Skating at the 1968 Grenoble Winter Games : Pairs, Mixed|site=olympedia.org|consulté le=16 janvier 2016}}.</ref>.
+
+L'Autrichien [[Emmerich Danzer]] est le favori de l'épreuve masculine, en tant que double champion du monde et triple champion d'Europe en titre, mais il tombe lors du programme court et doit se contenter de la {{4e|place}} finale malgré sa bonne prestation dans le programme libre. La médaille d'or revient à un autre patineur autrichien, [[Wolfgang Schwarz]]. L'Américain [[Tim Wood (patinage artistique)|Tim Wood]] et le Français [[Patrick Péra]] prennent respectivement les médailles d'argent et de bronze<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/13182|titre=Figure Skating at the 1968 Grenoble Winter Games : Singles, Men|site=olympedia.org|consulté le=16 janvier 2016}}.</ref>.
+
+==== Patinage de vitesse ====
+[[Fichier:Fred Anton Maier.jpg|vignette|redresse|alt=Photographie en noir et blanc d'un patineur en combinaison.|[[Fred Anton Maier]] bat le record du monde du {{unité|5000|m}}.]]
+{{article détaillé|Patinage de vitesse aux Jeux olympiques de 1968}}
+L'[[anneau de vitesse de Grenoble]] accueille les huit épreuves de patinage de vitesse organisées lors de ces Jeux : les {{unité|500|m}} et {{unité|1500|m}} masculins et féminins, ainsi que le {{unité|1000|m}} et le {{unité|3000|m}} chez les femmes et les {{unité|5000|m}} et {{unité|10000|m}} chez les hommes. Cent-vingt-neuf participants représentent {{unité|19|pays}}. Les [[Pays-Bas aux Jeux olympiques d'hiver de 1968|Pays-Bas]] dominent les compétitions avec un total de neuf médailles dont trois de chaque métal. Sept athlètes remportent deux médailles<ref name="ssk">{{lien web|lang=en|url=https://www.olympedia.org/editions/38/sports/SSK|titre=Speed Skating at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=20 janvier 2016}}.</ref>.
+
+Le {{nobr|15 février}}, le patineur norvégien [[Fred Anton Maier]] réalise une performance exceptionnelle sur le {{unité|5000|m}}. Avec un temps de {{heure||7|22|4}}, il améliore son propre record du monde de {{heure|||3|8}} et obtient son premier titre olympique. Deux jours plus tard, il doit se contenter de la médaille d'argent sur le {{unité|10000|m}} remporté par le Suédois [[Johnny Höglin]]. Lors de cette course, les cinq premiers patineurs battent le [[record olympique]], sans toutefois améliorer le record du monde<ref>{{harvsp|Monnin|2013|p=83}}.</ref>. Le Néerlandais [[Kees Verkerk]], deuxième du {{unité|5000|m}}, gagne la médaille d'or du {{unité|1500|m}}<ref>{{lien web|lang=en|url=https://www.olympedia.org/results/1022|titre=Speed Skating at the 1968 Grenoble Winter Games : 1,500 Metres, Men|site=olympedia.org|consulté le=21 janvier 2016}}.</ref>. Chez les femmes, la Soviétique [[Lyudmila Titova]], la Néerlandaise [[Carolina Geijssen]] et la Finlandaise [[Kaija Mustonen]] réalisent toutes les trois le même exploit, en remportant une médaille d'or et une médaille d'argent lors de ces Jeux<ref name="ssk"/>.
+
+==== Saut à ski ====
+{{article détaillé|Saut à ski aux Jeux olympiques de 1968}}
+Soixante-six athlètes venus de {{nobr|17 pays}} prennent part aux épreuves de [[saut à ski]] lors de ces Jeux. L'épreuve du petit tremplin se déroule le {{date-|11 février}} sur le [[tremplin au Claret]] d'[[Autrans]]. Chaque concurrent bénéficie de deux sauts. L'Autrichien [[Baldur Preiml]] réalise le plus long saut de la compétition avec {{unité|80 m}}. Le Tchécoslovaque [[Jiří Raška]] ne saute qu'à {{unité|79 m}} mais obtient une meilleure note de style que Baldur Preiml et remporte ainsi la médaille d'or. Baldur Preiml ne finit que sur la troisième marche du podium, devancé par son compatriote [[Reinhold Bachler]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/2382|titre=Ski Jumping at the 1968 Grenoble Winter Games : Normal Hill, Individual, Men|site=olympedia.org|consulté le=20 janvier 2016}}.</ref>.
+
+L'épreuve du grand tremplin a lieu sept jours plus tard sur le [[tremplin du Dauphiné]] de [[Saint-Nizier-du-Moucherotte]]. Après son premier titre, Jiří Raška est le grand favori de l'épreuve et domine les entraînements qui se tiennent les jours précédents. Il est pourtant battu par le Soviétique [[Vladimir Belooussov]], qui réalise le meilleur et le plus long saut à {{unité|101,5 m}} et devient ainsi le premier sauteur à ski soviétique médaillé d'or aux Jeux. Jiří Raška obtient la médaille d'argent, loin devant le Norvégien [[Lars Grini]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/2385|titre=Ski Jumping at the 1968 Grenoble Winter Games : Large Hill, Individual, Men|site=olympedia.org|consulté le=20 janvier 2016}}.</ref>.
+
+==== Ski alpin ====
+{{article détaillé|Ski alpin aux Jeux olympiques de 1968}}
+[[Fichier:JO-Grenoble 1968-Slalom géant.jpg|vignette|alt=Photographie d'une piste de ski lors d'une compétition.|La station de Chamrousse lors de la première manche du slalom géant masculin.]]
+La station de [[Chamrousse]] accueille les six épreuves de [[ski alpin]] programmées lors de ces Jeux : la descente, le slalom géant et le slalom spécial chez les hommes et chez les femmes. Ces épreuves rassemblent {{unité|191|skieurs}} de {{unité|33|nations}}, dont {{unité|136|hommes}} et {{unité|55|femmes}}. La [[France aux Jeux olympiques d'hiver de 1968|France]] domine largement les compétitions en remportant huit médailles dont quatre titres olympiques. L'[[Autriche aux Jeux olympiques d'hiver de 1968|Autriche]] obtient cinq médailles, mais seulement une en or<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/ASK|titre=Alpine Skiing at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=9 janvier 2016}}.</ref>. Certains concurrents sont filmés par une caméra de l'[[Office de radiodiffusion-télévision française|ORTF]] depuis un hélicoptère{{Référence nécessaire|date=4 mars 2021}}.
+
+[[Fichier:Marielle Goitschel (1968).jpg|vignette|gauche|alt=Photographie en noir et blanc d'une skieuse en course portant le dossard {{numéro|5}}|[[Marielle Goitschel]] remporte la médaille d'or en slalom.]]
+La descente masculine, prévue le {{nobr|8 février}}, est repoussée au lendemain en raison des conditions météorologiques défavorables. Le Français [[Guy Périllat]] s'élance en premier et établit le temps de référence, en {{heure||1|59|93}}. Il n'est finalement devancé que par son compatriote [[Jean-Claude Killy]], grand favori de l'épreuve et qui améliore le meilleur temps de huit centièmes de seconde. Les Français réalisent ainsi le doublé, alors que la médaille de bronze revient au Suisse [[Jean-Daniel Dätwyler]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1238|titre=Alpine Skiing at the 1968 Grenoble Winter Games : Downhill, Men|site=olympedia.org|consulté le=14 janvier 2016}}.</ref>{{,}}<ref name="monninp81-82">{{harvsp|Monnin|2013|p=81-82}}.</ref>. La première manche du slalom géant se tient le {{nobr|11 février}} dans des conditions parfaites. Pour la première fois dans l'histoire des Jeux, il est couru en deux manches. Jean-Claude Killy est une nouvelle fois le favori, dans une discipline qu'il affectionne particulièrement. Il réalise le meilleur temps de la première manche, et bien qu'il concède {{unité|21|centièmes}} de seconde sur l'Américain [[Billy Kidd]] dans la deuxième manche, disputée le lendemain, il remporte son deuxième titre olympique, devant le Suisse [[Willy Favre]] et l'Autrichien [[Heinrich Messner]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1239|titre=Alpine Skiing at the 1968 Grenoble Winter Games : Giant Slalom, Men|site=olympedia.org|consulté le=14 janvier 2016}}.</ref>{{,}}<ref name="monninp81-82"/>. La première manche du slalom est disputée dans le brouillard le {{nobr|17 février}}. Jean-Claude Killy réalise le meilleur temps avec {{unité|31|centièmes}} de seconde d'avance sur l'Autrichien [[Alfred Matt]]. À l'issue de la seconde manche, le Norvégien [[Håkon Mjøen]] prend la tête du classement général, mais il est disqualifié pour avoir manqué deux portes. La victoire doit alors revenir à l'Autrichien [[Karl Schranz]]. Ce dernier a bénéficié d'une seconde chance et a été autorisé à descendre une deuxième fois car il dit avoir été gêné par un officiel dans le brouillard avant de franchir la {{21e|porte}}. L'équipe de France porte réclamation : les jurés disqualifient finalement Karl Schranz en l'accusant d'avoir manqué deux portes avant d'avoir été gêné<ref>{{harvsp|Kessous|2012|p=67}}.</ref>. Jean-Claude Killy passe de la troisième à la première place et remporte ainsi sa troisième médaille d'or. Il égale ainsi l'Autrichien [[Toni Sailer]], triple médaillé d'or à [[Jeux olympiques d'hiver de 1956|Cortina d'Ampezzo en 1956]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1242|titre=Alpine Skiing at the 1968 Grenoble Winter Games : Slalom, Men|site=olympedia.org|consulté le=14 janvier 2016}}.</ref>{{,}}<ref name="monninp81-82"/>. Le Suisse [[Dumeng Giovanoli]], qui avait remporté le mois précédent les slaloms de Wengen et Kitzbühel, n'obtient aucune médaille.
+
+Championne olympique et médaillée d'argent à [[Jeux olympiques d'hiver de 1964|Innsbruck en 1964]], [[Marielle Goitschel]] apparaît comme l'une des grandes favorites des épreuves féminines après avoir remporté les classements de la Coupe du monde de descente et de slalom en [[Coupe du monde de ski alpin 1967|1967]]. Elle ne se classe pourtant que {{8e}} de la descente remportée par l'Autrichienne [[Olga Pall]]. L'équipe de France obtient quand même une médaille avec la {{2e|place}} d'[[Isabelle Mir]]. L'Autrichienne [[Christl Haas]] complète le podium<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1282|titre=Alpine Skiing at the 1968 Grenoble Winter Games : Downhill, Women|site=olympedia.org|consulté le=16 janvier 2016}}.</ref>. Dans le slalom, Marielle Goitschel se montre à son meilleur niveau. Elle se classe {{2e}} de la première manche derrière [[Judy Nagel]], puis à nouveau {{2e}} de la seconde manche derrière [[Nancy Greene]], ce qui lui permet de remporter la médaille d'or. Elle devance Nancy Greene et une autre Française, [[Annie Famose]]<ref>{{Ouvrage|prénom1=Jean-Pierre|nom1=Vidal|lien auteur1=Jean-Pierre Vidal|titre=Jeux Olympiques d'hiver : La belle histoire des champions français|éditeur=[[Éditions Jacob-Duvernet|Jacob-Duvernet]]|année=2013|passage=29|isbn=978-2-84724-494-6}}.</ref>. Contrairement à l'épreuve masculine, le slalom géant féminin ne compte qu'une seule manche. La Canadienne Nancy Greene, qui a remporté la Coupe du monde de la spécialité la saison précédente, tient son rang de favorite : elle domine la course avec {{heure|||2|64}} d'avance sur Annie Famose, sa plus proche poursuivante. La Suissesse [[Fernande Bochatay]] gagne la médaille de bronze, tandis que Marielle Goitschel, tenante du titre, se classe seulement {{7e}}<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1283|titre=Alpine Skiing at the 1968 Grenoble Winter Games : Giant Slalom, Women|site=olympedia.org|consulté le=16 janvier 2016}}.</ref>.
+
+==== Ski de fond ====
+{{article détaillé|Ski de fond aux Jeux olympiques de 1968}}
+[[Fichier:Toini Gustafsson Rönnlund, 1968.jpg|vignette|alt=Photographie en noir et blanc d'une skieuse posant avec ses deux médailles autour du cou.|La fondeuse suédoise [[Toini Gustafsson]], double médaille d'or.]]
+Sept épreuves de [[ski de fond]] sont programmées à [[Autrans]] lors de ces Jeux : le {{unité|15|km}}, le {{unité|30|km}} et le {{unité|50|km}} chez les hommes, le {{unité|5|km}} et le {{unité|10|km}} chez les femmes, ainsi que les relais masculin et féminin. La Norvège est la nation la plus médaillée avec sept podiums dont quatre titres olympiques, et deux athlètes remportent chacun trois médailles, le Finlandais [[Eero Mäntyranta]] et la Suédoise [[Toini Gustafsson]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/editions/38/sports/CCS|titre=Cross Country Skiing at the 1968 Grenoble Winter Games|site=olympedia.org|consulté le=13 janvier 2016}}.</ref>.
+
+En remportant la course de {{unité|30|km}}, l'Italien [[Franco Nones]] devient le premier champion olympique de ski de fond hors pays scandinaves et Union soviétique. Favori de l'épreuve, Eero Mäntyranta finit à la {{3e|place}}, à près d'{{heure||1|20}} du vainqueur<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1949|titre=Cross Country Skiing at the 1968 Grenoble Winter Games : 30 kilometres, Men|site=olympedia.org|consulté le=13 janvier 2016}}.</ref>. [[Harald Grønningen]], champion olympique sur {{unité|15|km}} et [[Ole Ellefsæter]], vainqueur du {{unité|50|km}}, remportent une autre médaille d'or avec le relais norvégien, qui s'impose avec {{heure||1|40}} d'avance sur les Suédois et {{heure||2|23}} sur les Finlandais<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1951|titre=Cross Country Skiing at the 1968 Grenoble Winter Games : 4 × 10 kilometres Relay, Men|site=olympedia.org|consulté le=13 janvier 2016}}.</ref>.
+
+Chez les femmes, la fondeuse suédoise [[Toini Gustafsson]] survole la première épreuve, le {{unité|10|km}}. À mi-course, elle possède déjà {{unité|15|secondes}} d'avance sur sa plus proche poursuivante, la Finlandaise [[Marjatta Kajosmaa]], et finit avec une marge de {{heure||1|8}} sur la médaillée d'argent norvégienne [[Berit Mørdre Lammedal]], tandis que Marjatta Kajosmaa s'écroule et termine à la {{5e|place}}, cédant la médaille de bronze à une autre Norvégienne, [[Inger Aufles]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1956|titre=Cross Country Skiing at the 1968 Grenoble Winter Games : 10 kilometres, Women|site=olympedia.org|consulté le=13 janvier 2016}}.</ref>. Dans le {{unité|5|km}}, Toini Gustafsson, qui est la dernière des {{unité|34|concurrentes}} à s'élancer, remporte sa deuxième médaille d'or. L'écart est cette fois plus réduit : elle devance la Soviétique [[Galina Kulakova]] d'un peu plus de {{unité|3|secondes}}. Le podium est complété par une autre Soviétique, [[Alevtina Kolchina]]<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1955|titre=Cross Country Skiing at the 1968 Grenoble Winter Games : 5 kilometres, Women|site=olympedia.org|consulté le=13 janvier 2016}}.</ref>. Gustafsson devient ainsi la première Suédoise à remporter deux médailles d'or lors des mêmes Jeux d'hiver<ref>{{lien web|lang=en|url=http://www.britannica.com/biography/Toini-Gustafsson|titre=Toini Gustafsson|site=britannica.com|éditeur=[[Encyclopædia Britannica]]|consulté le=13 janvier 2016}}.</ref>. Elle gagne une troisième médaille en trois courses puisqu'elle achève le relais à la {{2e|place}} avec ses compatriotes [[Britt Strandberg]] et [[Barbro Martinsson]]. Le titre revient aux Norvégiennes Inger Aufles, Berit Mørdre Lammedal et [[Babben Enger Damon]], tandis que le relais soviétique prend la médaille de bronze<ref>{{lien web|langue=en|url=https://www.olympedia.org/results/1957|titre=Cross Country Skiing at the 1968 Grenoble Winter Games : 3 × 5 kilometres Relay, Women|site=olympedia.org|consulté le=13 janvier 2016}}.</ref>.
+
+=== Cérémonies de remise des médailles ===
+{{multiple image|width=140|image1=1968 Winter Olympics gold medal.jpg|image2=1968 Winter Olympics silver medal.jpg|footer=Avers de la médaille d'or et revers d'une médaille d'argent des épreuves de ski de fond.}}
+Les cérémonies de remise des médailles se tiennent dans un seul et même lieu, le [[Palais des sports de Grenoble|Stade de Glace]]<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=202}}.</ref>. Dessinées par [[Roger Excoffon]], les médailles ont un diamètre de {{unité|60|mm}} et sont frappées par l'[[Monnaie de Paris|Administration des Monnaies et Médailles]]. L'emblème des Jeux apparaît sur l'avers des médailles, entouré de l'appellation « {{Xe}} Jeux Olympiques d'hiver - Grenoble 1968 », tandis que le pictogramme de la discipline apparaît sur le revers. C'est la première fois dans l'histoire des Jeux d'hiver que les médailles sont différentes d'une discipline à l'autre<ref>{{lien web|url=http://www.olympic.org/medailles-grenoble-1968|titre=Médailles Grenoble 1968|site=olympic.org|éditeur=[[Comité international olympique]]|consulté le=10 janvier 2016}}.</ref>.
+
+=== Cérémonie de clôture ===
+La cérémonie de clôture des Jeux se déroule le {{nobr|dimanche 18 février}} au [[Palais des sports de Grenoble|Stade de glace]] de Grenoble, en présence du premier ministre français [[Georges Pompidou]]. Au cours de la cérémonie, [[Jean-Claude Killy]] reçoit sa troisième médaille d'or, celle obtenue en slalom, des mains du comte [[Jean de Beaumont]], président du Comité olympique français. La [[flamme olympique]] entre dans le stade portée par [[Daniel Robin]], puis les athlètes défilent. L'[[Kimi ga yo|hymne japonais]] est joué alors que le drapeau japonais est hissé en haut d'un mât pour saluer la ville de [[Sapporo]] qui accueillera l'édition suivante des Jeux d'hiver, en [[Jeux olympiques d'hiver de 1972|1972]]. Le président du {{Abréviation discrète|CIO|Comité international olympique}} [[Avery Brundage]] prononce un discours de clôture dans lequel il remercie les autorités et le comité d'organisation<ref>{{harvsp|id=Rapport officiel|texte=Rapport officiel|p=363}}.</ref>.
+
+=== Tableau des médailles ===
+{{Article détaillé|Tableau des médailles des Jeux olympiques d'hiver de 1968|Liste des médaillés aux Jeux olympiques d'hiver de 1968}}
+
+Quinze des trente-sept nations participant à ces Jeux remportent au moins une médaille et treize d'entre elles remportent au moins un titre olympique. La [[Norvège aux Jeux olympiques d'hiver de 1968|Norvège]] obtient quatorze médailles, dont six en or, six en argent et deux en bronze. Elle retrouve ainsi la première place du classement des nations, un rang qu'elle a occupé de [[Jeux olympiques d'hiver de 1924|1924]] à [[Jeux olympiques d'hiver de 1952|1952]], avant de se classer {{7e}} en [[Jeux olympiques d'hiver de 1956|1956]], {{4e}} en [[Jeux olympiques d'hiver de 1960|1960]] et {{3e}} en [[Jeux olympiques d'hiver de 1964|1964]]. L'[[Union soviétique aux Jeux olympiques d'hiver de 1968|Union soviétique]], première nation lors des trois dernières éditions des Jeux d'hiver recule au deuxième rang avec treize médailles dont cinq en or. La [[France aux Jeux olympiques d'hiver de 1968|France]] se classe troisième avec neuf médailles, dont quatre en or, trois en argent et deux en bronze, une progression de deux rangs par rapport aux Jeux d'Innsbruck en 1964. Avec ses quatre médailles, toutes en or, l'Italie se place au {{4e|rang}} des nations, alors qu'elle n'était que {{12e}} quatre ans plus tôt. L'[[Autriche aux Jeux olympiques d'hiver de 1968|Autriche]] gagne onze médailles, le troisième total des nations, mais ne se classe que {{5e}} avec seulement trois médailles d'or. Les deux équipes allemandes sont en retrait, à la {{8e|place}} pour l'[[Allemagne de l'Ouest aux Jeux olympiques d'hiver de 1968|Allemagne de l'Ouest]] avec sept médailles dont deux en or, et à la {{10e|place}} pour l'[[Allemagne de l'Est aux Jeux olympiques d'hiver de 1968|Allemagne de l'Est]] avec cinq médailles, dont un seul titre olympique<ref name="universalis"/>.
+<center>
+{| class="wikitable" style="text-align:center"
+|+ Nations les plus médaillées
+! scope=col|Rang
+! scope=col|Nation
+! scope=col width=40 | {{médaille|or|JO}}
+! scope=col width=40 | {{médaille|argent|JO}}
+! scope=col width=40 | {{médaille|bronze|JO}}
+! scope=col width=55 | Total
+|-
+|1||align=left| {{NOR-d}} [[Norvège aux Jeux olympiques d'hiver de 1968|Norvège]] ||'''6'''||'''6'''||2||'''14'''
+|-
+|2||align=left| {{URS (1955-1980)-d}} [[Union soviétique aux Jeux olympiques d'hiver de 1968|Union soviétique]] ||5||5||3||13
+|- style="background:#ccf;"
+|3||align=left| {{FRA-d}} [[France aux Jeux olympiques d'hiver de 1968|France]] (pays hôte) ||4||3||2||9
+|-
+|4||align=left| {{ITA-d}} [[Italie aux Jeux olympiques d'hiver de 1968|Italie]] ||4||0||0||4
+|-
+|5||align=left| {{AUT-d}} [[Autriche aux Jeux olympiques d'hiver de 1968|Autriche]] ||3||4||'''4'''||11
+|-
+|6||align=left| {{NED-d}} [[Pays-Bas aux Jeux olympiques d'hiver de 1968|Pays-Bas]] ||3||3||3||9
+|-
+|7||align=left| {{SWE-d}} [[Suède aux Jeux olympiques d'hiver de 1968|Suède]] ||3||2||3||8
+|-
+|8||align=left| {{RFA-d}} [[Allemagne de l'Ouest aux Jeux olympiques d'hiver de 1968|Allemagne de l'Ouest]] ||2||2||3||7
+|-
+|9||align=left| {{USA-d}} [[États-Unis aux Jeux olympiques d'hiver de 1968|États-Unis]] ||1||5||1||7
+|-
+|rowspan=2|10||align=left| {{RDA-d}} [[Allemagne de l'Est aux Jeux olympiques d'hiver de 1968|Allemagne de l'Est]] ||1||2||2||5
+|-
+|align=left| {{FIN-d}} [[Finlande aux Jeux olympiques d'hiver de 1968|Finlande]] ||1||2||2||5
+|-
+|12||align=left| {{TCH-d}} [[Tchécoslovaquie aux Jeux olympiques d'hiver de 1968|Tchécoslovaquie]] ||1||2||1||4
+|-
+|13||align=left| {{CAN-d}} [[Canada aux Jeux olympiques d'hiver de 1968|Canada]] ||1||1||1||3
+|-
+|14||align=left| {{SUI-d}} [[Suisse aux Jeux olympiques d'hiver de 1968|Suisse]] ||0||2||'''4'''||6
+|-
+|15||align=left| {{ROU (1965-1989)-d}} [[Roumanie aux Jeux olympiques d'hiver de 1968|Roumanie]] ||0||0||1||1
+|- class="sortbottom"
+!colspan=2 scope=row| Total
+|align=center|35
+| align="center" |39
+| align="center" |32
+| align="center" |106
+|}
+</center>
+
+=== Sportifs les plus médaillés ===
+{{article connexe|Liste des médaillés aux Jeux olympiques d'hiver de 1968}}
+[[Fichier:Olympische Spelen Grenoble, ceremonie afdaling, in midden Killy (Frankrijk), Bestanddeelnr 921-0677.jpg|vignette|alt=Photographie en noir et blanc montrant trois sportifs sur un podium saluant la foule.|[[Jean-Claude Killy]], au centre, remporte trois médailles d'or au cours de ces Jeux.]]
+Le skieur alpin français [[Jean-Claude Killy]], sacré dans toutes les épreuves auxquelles il participe, est le sportif le plus médaillé de ces Jeux avec trois médailles d'or<ref name="1968 Grenoble Winter Games SR"/>.
+
+<center>
+{| class="wikitable" style="text-align:center"
+|+ Sportifs les plus médaillés<ref name=CIO/>
+! scope=col|Rang
+! scope=col|Athlète
+! scope=col|Sport
+! scope=col width=40 | {{médaille|or|JO}}
+! scope=col width=40 | {{médaille|argent|JO}}
+! scope=col width=40 | {{médaille|bronze|JO}}
+! scope=col width=55 |Total
+|-
+| 1
+| align="left" | {{FRA-d}} [[Jean-Claude Killy]] ([[France aux Jeux olympiques d'hiver de 1968|FRA]])
+| align="left" |[[Ski alpin aux Jeux olympiques de 1968|Ski alpin]]
+| 3
+| 0
+| 0
+| 3
+|-
+| 2
+| align="left" | {{SWE-d}} [[Toini Gustafsson]] ([[Suède aux Jeux olympiques d'hiver de 1968|SWE]])
+| align="left" |[[Ski de fond aux Jeux olympiques de 1968|Ski de fond]]
+| 2
+| 1
+| 0
+| 3
+|-
+| rowspan="4"| 3
+| align="left" | {{ITA-d}} [[Luciano De Paolis]] ([[Italie aux Jeux olympiques d'hiver de 1968|Italie]])
+| align="left" |[[Bobsleigh aux Jeux olympiques de 1968|Bobsleigh]]
+| 2
+| 0
+| 0
+| 2
+|-
+| align="left" | {{NOR-d}} [[Ole Ellefsæter]] ([[Norvège aux Jeux olympiques d'hiver de 1968|NOR]])
+| align="left" |[[Ski de fond aux Jeux olympiques de 1968|Ski de fond]]
+| 2
+| 0
+| 0
+| 2
+|-
+| align="left" | {{NOR-d}} [[Harald Grønningen]] ([[Norvège aux Jeux olympiques d'hiver de 1968|NOR]])
+| align="left" |[[Ski de fond aux Jeux olympiques de 1968|Ski de fond]]
+| 2
+| 0
+| 0
+| 2
+|-
+| align="left" | {{ITA-d}} [[Eugenio Monti]] ([[Italie aux Jeux olympiques d'hiver de 1968|Italie]])
+| align="left" |[[Bobsleigh aux Jeux olympiques de 1968|Bobsleigh]]
+| 2
+| 0
+| 0
+| 2
+|}
+</center>
+
+== Réactions et retombées ==
+=== Bilan des Jeux ===
+Les Jeux de Grenoble sont considérés comme un succès. La qualité de l'organisation des compétitions est particulièrement saluée malgré le report de quelques épreuves à cause du brouillard. Les résultats de l'équipe de France, avec neuf médailles dont trois en or pour le seul [[Jean-Claude Killy]], soulèvent l'enthousiasme du public français<ref name="kukawka101">{{harvsp|Kukawka|1999|p=101}}.</ref>{{,}}<ref name="monninp84">{{harvsp|Monnin|2013|p=84}}.</ref>. Le succès populaire est relatif : {{unité|503700 billets}} sont vendus, alors que le nombre escompté approchait le million de visiteurs avant les Jeux. Ces billets sont vendus principalement à une clientèle locale plus qu'étrangère, et surtout dans la deuxième semaine des Jeux, quand les billets d'abord commercialisés au prix fort deviennent plus accessibles<ref name="frappat49">{{harvsp|Frappat|1991|p=49}}.</ref>. Pour la première fois, un chef d'État français reçoit les athlètes français au [[palais de l'Élysée]] après ces Jeux{{Référence nécessaire|date=4 mars 2021}}.
+
+Les dépenses liées à la construction des différents sites de compétition, des infrastructures et des équipements généraux placent ces Jeux sous le signe de la démesure. L'historien du sport [[Éric Monnin]] estime qu'{{citation|avec les Jeux de Grenoble, on assiste à un tournant dans la manière d'organiser et de médiatiser. Il faut absolument valoriser l'événement, en promouvant toute une région. Les Jeux deviennent une immense vitrine où se mêlent région, département, ville, sites, architecture, technologie<ref name="monninp81">{{harvsp|Monnin|2013|p=81}}.</ref>.}} Le déficit observé à l'issue des Jeux s'élève à {{unité|80 millions}} de francs, une somme importante mais bien moindre que celles enregistrées lors d'autres éditions, comme le souligne l'économiste du sport Wladimir Andreff. L'organisation de l'évènement a un impact durable sur les finances de la commune de Grenoble, qui met {{unité|27 ans}} pour rembourser ses emprunts estimés à plus de {{unité|200 millions}} de francs. Dans les trois années qui suivent les Jeux, les impôts locaux augmentent de 230 %. Pour autant, la ville aurait pu subir une situation économique bien plus difficile sans l'intervention de deux facteurs. D'une part, grâce à l'aide de l'État, seuls 20 % du coût total des Jeux lui reviennent, et d'autre part, l'[[inflation]] observée les années suivant les Jeux produit un effet modérateur sur la dette de la commune<ref name="girardon">{{lien web|url=https://www.20minutes.fr/societe/2214555-20180206-50-ans-jeux-olympiques-grenoble-gouffre-financier-pari-reussi|titre=50 ans des Jeux olympiques de Grenoble: Un gouffre financier ou un pari réussi ?|auteur=Caroline Girardon|site=20minutes.fr|éditeur=''[[20minutes]]''|date=6 février 2018}}.</ref>.
+
+Sur le plan sportif, ces Jeux sont l'occasion de grandes premières pour l'olympisme à l'image des premiers [[Dopage aux Jeux olympiques|contrôles antidopage]] et des premiers [[Test de féminité|tests de féminité]] inclus dans le cahier des charges des Jeux à Grenoble<ref>{{Ouvrage|auteur1=Michaël Attali|titre=Les valeurs de l'olympisme|sous-titre=un modèle éducatif en débat|éditeur=[[Éditions L'Harmattan|L'Harmattan]]|année=2009|passage=28|isbn=}}.</ref>, mais également l'utilisation des premiers chronomètres automatiques<ref name="lepoint">{{lien web|url=http://www.lepoint.fr/sport/il-y-a-50-ans-grenoble-inventait-les-jeux-olympiques-modernes-25-01-2018-2189507_26.php|titre=Il y a 50 ans, Grenoble inventait les Jeux olympiques modernes|auteur=Catherine Lagrange|site=lepoint.fr|éditeur=''[[Le Point]]''|date=25 janvier 2018}}.</ref>.
+
+==== Commentaires des médias ====
+Après les Jeux, le magazine municipal retranscrit quelques réactions de médias nationaux et étrangers. ''[[France-Soir]]'' relate « Tout d'abord le côté sportif et technique… Enfin tous les problèmes de circulation et de service d'ordre ont été réglés dans le calme avec une grande efficacité ». ''[[L'Équipe]]'', « Des faits, des champions, des Jeux. Des épreuves d'une richesse exceptionnelle. Une grande victoire française à Grenoble: l'organisation parfaite ». ''[[La Croix]]'', « La réussite est me semble-t-il indéniable » signe le journaliste Jean Vigneron. ''[[Combat (journal)|Combat]]'', « Avec ces lumières et ces ombres, les Jeux de Grenoble furent cependant remarquables: l'organisation, en dépit de sa complexité, fonctionne sans à-coups. L'hébergement des athlètes parfait, l'information dans ces courses fut rapide et complète ». ''[[L'Aurore (journal français, 1944-1985)|L'Aurore]]'' décrit : « C'est une grande réussite, surtout si l'on tient compte de l'effort colossal consenti par les chaînes de TV, que ce soit l'[[Office de radiodiffusion-télévision française|ORTF]] ou l'[[American Broadcasting Company|ABC]]. Les organisateurs avaient calculé leurs prévisions sur la venue d'un million de visiteurs, ils ne sont pas très loin du compte (25 à 30 % de spectateurs non payants). ». ''[[Le Monde]]'', « C'est une ville jaillissante, nette, qui se révèle. Une ville du {{s-|XX}}, ce qui n'est pas banal en France » relate [[Jean Lacouture]]{{Référence nécessaire|date=4 mars 2021}}.
+
+De son côté, la presse étrangère poursuit avec l{{'}}''[[International New York Times|International Herald Tribune]]'' qui relate « Tout a été fait pour atteindre la perfection dans le domaine des facilités sportives ». ''[[The Daily Mirror]]'' précise « Cette cérémonie dépassait tout ce qu'un metteur en scène aurait pu mettre sur pied ». ''[[The Guardian]]'', « Ce fut impressionnant et spectaculaire ». ''[[Die Presse]]'', « Cérémonie de gala à Grenoble, pathétique mais solennelle, un super music-hall olympique qui n'a pas raté son effet. Une cérémonie d'ouverture minutée dans les moindres détails ». ''[[Volksblad]]'', « La composition musicale avait presque transformé la cérémonie en jeux mystiques. Un évènement inoubliable. ». L'agence [[TASS (agence de presse)|TASS]], « Avant de quitter Grenoble, nous voudrions noter que tout a été fait pour que les épreuves puissent se dérouler au plus haut niveau sportif dans une ambiance de franche amitié entre athlètes de {{nobr|37 pays}} ». ''[[Il Tempo]]'', « L'organisation a été parfaite. Tous les services ont répondu à la perfection aux tâches qui leur étaient attribuées ». ''[[De Telegraaf]]'', « La cérémonie d'ouverture était un peu pompeuse mais impressionnante et très bien organisée ». Enfin le journal suisse ''Sport'' écrit « Les Jeux de Grenoble pourraient être définis comme les Jeux de l'amabilité, de la politesse, du tact et du sourire. L'organisation en a été proche de la perfection »{{Référence nécessaire|date=4 mars 2021}}.
+
+=== Retombées ===
+L'organisation des Jeux olympiques renforce considérablement l'image de ville dynamique que possède [[Grenoble]]. Elle est même qualifiée de {{citation|première ville française du {{s-|XXI}}}} par l'hebdomadaire [[Paris-Match]] dans un numéro spécial consacré aux Jeux, en {{date-|février 1968}}. La retransmission télévisée en couleur, pour la première fois dans l'histoire de l'olympisme, contribue également à répandre cette image<ref name="frappat49"/>. Le sociologue [[Michel Raspaud]] souligne que la ville attire de nombreux investisseurs après les Jeux, à l'image des entreprises [[Hewlett-Packard]], [[Schneider Electric]] et [[Thomson (marque)|Thomson]] qui y concentrent leurs activités. Parallèlement, de nombreux enseignants-chercheurs s'y installent<ref>{{lien web|url=https://www.20minutes.fr/societe/2214559-20180206-jeux-olympiques-grenoble-traces-laisse-jo-1968-capitale-alpes|titre=Jeux olympiques de Grenoble : Quelles traces ont laissé les JO de 1968 dans la capitale des Alpes ?|auteur=Caroline Girardon|site=20minutes.fr|éditeur=''[[20minutes]]''|date=6 février 2018}}.</ref>. En revanche, l'impact des Jeux sur le développement du tourisme à Grenoble est relativement faible dans les années qui suivent les Jeux de 1968, mais plus important pour les stations alpines ayant accueilli les épreuves de neige<ref name="frappat50">{{harvsp|Frappat|1991|p=50}}.</ref>. Celles-ci bénéficient à travers les Jeux d'une augmentation de leur capacité hôtelière, du nombre de remontées mécaniques ou encore du nombre de moniteurs de ski<ref>{{harvsp|Arnaud|Terret|1993|p=217}}.</ref>.
+
+[[Fichier:Logo JO d'hiver - Candidature Grenoble 2018.png|vignette|redresse|alt=Logo représentant en flocon de neige vert et bleu avec les inscriptions GRENOBLE 2018 ISÈRE cœur des Alpes.|Le logo de la candidature de Grenoble aux [[Jeux olympiques d'hiver de 2018|Jeux d'hiver 2018]].]]
+À travers l'organisation des Jeux, la ville de [[Grenoble]] se dote de nouvelles infrastructures sportives, mais également d'équipements généraux prévus dans le [[Planification en France|{{Ve|Plan}} d'Aménagement du Territoire]] : le nouvel [[Hôtel de ville de Grenoble|Hôtel de ville]], la nouvelle [[Gare de Grenoble|gare SNCF]], la [[MC2|maison de la Culture]], les accès autoroutiers ou encore l'[[Aéroport de Grenoble-Isère|aéroport de Grenoble-Saint-Geoirs]]<ref name="kukawka101"/>. [[Pierre Arnaud (historien)|Pierre Arnaud]] et [[Thierry Terret]] modèrent l'impact direct des Jeux dans ces travaux de transformation et de rénovation urbaines, en précisant que {{citation|ces évolutions auraient de toute manière eu lieu, mais le consensus sur le caractère positif des JO a amené les divers responsables à en accélérer parfois la réalisation pour profiter de la médiatisation et de la dynamique olympiques<ref>{{harvsp|Arnaud|Terret|1993|p=209}}.</ref>.}} Pierre Kukawka estime que les Jeux de Grenoble sont une vitrine pour la municipalité d'[[Hubert Dubedout]], en tant que {{citation|laboratoire expérimental de la nouvelle gauche française}}, notamment autour du premier [[Groupe d'action municipale]] en France, créé par ce maire<ref name="kukawka101"/>.
+
+Si 80 % des travaux attendus dans le {{Ve|Plan}} d'Aménagement du Territoire sont terminés dès la fin de l'année 1967, soit près de trois ans avant l'échéance prévue, l'exécution complète du programme olympique entraîne la ville de Grenoble dans une situation économique difficile et l'oblige à emprunter {{nobr|20 millions}} de francs à la [[Caisse des dépôts et consignations]] en {{date-|juin 1969}} et près de {{nobr|10 millions}} de francs en {{date-|octobre 1970}}<ref name="arnaud terret 211">{{harvsp|Arnaud|Terret|1993|p=211}}.</ref>.
+
+Après le retrait de la ville de [[Denver]] pour l'organisation des [[Jeux olympiques d'hiver de 1976|Jeux d'hiver 1976]], la municipalité grenobloise envisage une nouvelle candidature placée sous le signe de l'économie et de la simplicité, en visant à réduire les charges financières pour transformer la recherche du prestige en une grande fête populaire. Le maire Hubert Dubedout justifie cette candidature auprès du [[Comité national olympique et sportif français]] comme un {{citation|retour aux sources par la réalisation de Jeux olympiques plus sportifs et populaires que prestigieux}} et cherchant à {{citation|s'engager dans un processus de réduction des dépenses par rapport aux dernières expériences.}} Cette candidature, à laquelle s'opposent de nombreux Grenoblois, n'aboutit pas<ref>{{harvsp|Arnaud|Terret|1993|p=251}}.</ref>{{,}}<ref name="arnaud terret 211"/>. Grenoble se porte une nouvelle fois candidate pour les [[Jeux olympiques d'hiver de 2018|Jeux d'hiver 2018]], mais c'est finalement [[Annecy]] qui est choisie par le [[Comité national olympique et sportif français|CNOSF]] pour porter la candidature française<ref>{{lien web|url=https://www.nouvelobs.com/sport/20090318.OBS9436/jo-2018-la-ville-francaise-candidate-sera-annecy.html|titre=JO 2018 : la ville française candidate sera Annecy|site=nouvelobs.com|éditeur=''[[L'Obs]]''|date=18 mars 2009}}.</ref>. Les Jeux sont finalement attribués à [[District de Pyeongchang|Pyeongchang]], en Corée du Sud<ref>{{lien web|url=https://www.leparisien.fr/sports/jo-d-hiver-2018-le-triomphe-de-pyeongchang-l-humiliation-d-annecy-06-07-2011-1522792.php|titre=JO d'hiver 2018 : le triomphe de Pyeongchang, l'humiliation d'Annecy|site=leparisien.fr|éditeur=''[[Le Parisien]]''|date=6 juillet 2011}}.</ref>.
+
+== Postérité ==
+
+=== Reconversion des équipements sportifs ===
+L'utilisation des différents sites de compétition après les Jeux est contrastée. Le [[Palais des sports de Grenoble|stade de Glace]] de Grenoble, transformé en Palais des Sports, est utilisé occasionnellement pour des rencontres de hockey sur glace ou de patinage, et plus régulièrement pour des compétitions d'athlétisme ou de cyclisme comme les [[Six jours de Grenoble]]. Il accueille également des manifestations de boxe, de basket ou de tennis ainsi que des expositions culturelles ou des concerts. Cette reconversion a permis à la ville de Grenoble de combler une partie des charges financières et des frais de fonctionnement entraînés par l'entretien du bâtiment, à l'image des travaux de réfection nécessaires pour réparer le défaut d'étanchéité originel de la voûte en béton, mais sa gestion demeure nettement déficitaire<ref>{{harvsp|Arnaud|Terret|1993|p=221}}.</ref>. L'[[Anneau de vitesse de Grenoble|anneau de vitesse]] est utilisé pendant quelques années pour le public, puis devient en 1990 une piste de [[patinage à roulettes]] à cause de la vétusté des installations frigorifiques, ce qui laisse la France sans [[anneau de glace]]<ref>{{harvsp|Kukawka|1999|p=102}}.</ref>{{,}}<ref>{{article|url= https://www.lemonde.fr/sport/article/2010/02/23/patinage-de-vitesse-d-une-glisse-a-l-autre_1310188_3242.html|auteur=Yann Sternis|titre= JO 2010 : patinage de vitesse, d'une glisse à l'autre|journal=[[Le Monde]]|date= 23 février 2010}}.</ref>.
+
+[[Fichier:Anneau de vitesse - Grenoble(1).jpg|vignette|gauche|alt=Photographie d'une piste ovale en béton|L'anneau de vitesse en 2010.]]
+Les autres équipements sportifs sont peu à peu délaissés. Le [[Tremplin au Claret|tremplin d'Autrans]], peu utilisé, accueille parfois des entraînements de sauteurs, tandis que [[Tremplin du Dauphiné|celui de Saint-Nizier-du-Moucherotte]] est abandonné depuis le début des [[années 1990]], souffrant de la concurrence du [[Tremplins du Praz|tremplin du Praz]] construit à [[Courchevel]] dans le cadre des [[Jeux olympiques d'hiver de 1992|Jeux d'Albertville en 1992]]. Il symbolise à lui seul la difficile reconversion fonctionnelle des sites olympiques qui conduit le plus souvent à leur abandon, comme le souligne, en 2014, Franck Girard-Carrabin, maire de la commune : {{citation|Après les Jeux olympiques, le tremplin a continué à servir pour des entraînements et des compétitions. Jusqu'en 1989. Et puis les normes ont changé. Il aurait fallu investir pour remodeler la piste de réception. Seulement, le saut à ski est une discipline mineure en France. Et Saint-Nizier ne dispose pas de structures de ski nordique alentour pour rentabiliser un tel investissement. Quand Albertville a organisé les Jeux, en 1992, son comité d'organisation s'est posé la question de rénover le tremplin pour le réutiliser. Mais les Savoyards étaient contre : Albertville, c'était les Jeux de la Savoie, pas ceux de l'Isère.}} Inutilisé, le site est alors classé en zone dangereuse et son accès est interdit<ref>{{lien web|url=http://www.wedemain.fr/Jeux-olympiques-La-malediction-des-elephants-blancs_a422.html|titre=Jeux olympiques : La malédiction des « éléphants blancs »|auteur=Olivier Delahaye|site=wedemain.fr|éditeur=We Demain|date=4 février 2014|consulté le=13 janvier 2016}}.</ref>. De même, la [[Piste olympique de bobsleigh de l'Alpe d'Huez|piste de bobsleigh de l'Alpe d'Huez]] est détruite au cours des années 1990, tandis que la piste de luge de [[Villard-de-Lans]], abandonnée elle aussi, est en partie reconvertie et intégrée dans un complexe touristique, le ''Ludi Parc''<ref>{{lien web|url=http://sport24.lefigaro.fr/le-scan-sport/2018/02/06/27001-20180206ARTFIG00022-grenoble-1968-que-reste-t-il-des-sites-olympiques.php|titre=Grenoble 1968 : que reste-t-il des sites olympiques ?|auteur=Gilles Festor|site=sport24.lefigaro.fr|éditeur=''[[Le Figaro]]''|date=6 février 2018}}.</ref>.
+
+=== Postérité culturelle ===
+Les Jeux de Grenoble servent de cadre au film américain ''[[La Descente infernale]]'', réalisé par [[Michael Ritchie]] et sorti sur les écrans {{nobr|en 1969}}. Porté par les acteurs [[Robert Redford]] et [[Gene Hackman]], il intègre quelques scènes tournées lors de la cérémonie d'ouverture<ref>{{lien web|auteur=Ursula Michel|titre=Les cinés font du ski: retour sur quelques films se déroulant pendant les JO d'hiver|url=http://www.slate.fr/sports/83127/jo-sotchi-2014-films|site=slate.fr|date=19 février 2014|consulté le=18 février 2016}}.</ref>. Un film documentaire, ''[[Treize jours en France]]'', réalisé par [[Claude Lelouch]] et [[François Reichenbach]], est également tourné pendant les Jeux. Il présente des images des compétitions sportives et de la vie privée des champions, ainsi que des images des spectacles organisés autour des Jeux<ref>{{lien web|titre=Treize jours en France|url=http://www.unifrance.org/film/1711/treize-jours-en-france|site=unifrance.org|éditeur=[[Unifrance]]|consulté le=18 février 2016}}.</ref>. Mais le documentaire par son style décousu et particulier déçoit le CIO et l'exploitation est confidentielle<ref>{{Lien web|titre=JO de Grenoble : A la recherche du film perdu de Lelouch|url=http://next.liberation.fr/cinema/2018/02/16/jo-de-grenoble-a-la-recherche-du-film-enfoui-de-claude-lelouch_1630290|site=Libération|date=16 février 2018}}</ref>. Le [[Cinéma français|film documentaire français]] ''[[Les Neiges de Grenoble]]'', d'une durée de 1 h 37, est réalisé par [[Jacques Ertaud]] et [[Jean-Jacques Languepin]]<ref>{{Lien web |langue=fr-FR |titre=Neiges de Grenoble (Les) - Jacques ERTAUD - 1968 - Films de montagne - Cinémathèque d'images de montagne |url=https://www.cimalpes.fr/Films-de-montagne-Neiges-de-Grenoble-_Les_-752-3548-0-0.html? |site=Neiges de Grenoble (Les) - Jacques ERTAUD - 1968 - Films de montagne - Cinémathèque d'images de montagne |consulté le=2022-01-24}}</ref>.
+
+=== Impacts locaux ===
+Des [[odonymie|odonymes]] locaux rappellent le déroulement de ces Jeux en différents sites, comme la « Route des J.O. 68 » à [[Saint-Nizier-du-Moucherotte]]<ref>{{lien web|url=https://maps.google.fr/maps?q=Route+des+J.o.+68,+Saint-Nizier-du-Moucherotte,+Is%C3%A8re,+Rh%C3%B4ne-Alpes,+France&hl=fr&ie=UTF8&ll=45.168461,5.630407&spn=0.004145,0.009238&sll=45.168464,5.630408&sspn=0.00829,0.018475&oq=Route+des+J.o.+68,+Saint-Nizier-du-Moucherotte,+Is%C3%A8re,+Rh%C3%B4ne-Alpes,+France&hnear=Route+des+J.o.+68,+38250+Saint-Nizier-du-Moucherotte,+Is%C3%A8re,+Rh%C3%B4ne-Alpes&t=m&z=17|titre=La Route des J.O. 68 à Saint-Nizier-du-Moucherotte|site=maps.google.fr|éditeur=[[Google Maps]]|consulté le=24 février 2018}}.</ref>. En 1978, une avenue des Jeux-olympiques est inaugurée à Grenoble, reliant l'[[avenue Jean-Perrot]] à la commune de [[Saint-Martin-d'Hères]]. Depuis 2002, une association portant le nom de [[#Le conservatoire observatoire et laboratoire des Jeux Olympiques de Grenoble|conservatoire observatoire laboratoire des Jeux olympiques de Grenoble]] ravive la mémoire de l'évènement olympique et supporte les différentes cérémonies festives qui y sont liées. Lors du quarantième anniversaire des Jeux, en 2008, la patineuse américaine [[Peggy Fleming]] est l'invitée d'honneur de la ville de Grenoble<ref>{{Article|langue=|auteur1=|titre=Programme du 40e anniversaire des JO de Grenoble|périodique=tirage unique|date=février 2008|issn=|lire en ligne=http://isere.franceolympique.com/isere/fichiers/File/2007evenements/prog40anniplaquetville.pdf}}.</ref>.
+
+[[Fichier:Expo JO 68.jpg|vignette|alt=Objets et affiches des Jeux exposés en vitrine.|Salle d'exposition célébrant les Jeux de 1968 au musée dauphinois en 2018.]]
+À l'occasion du cinquantième anniversaire des Jeux, en 2018, le [[musée dauphinois]] inaugure une exposition d'une durée de onze mois qui retrace l'évènement. Une version itinérante de cette exposition circule à travers le département de l'Isère durant l'année 2018<ref>{{lien web|url=https://www.placegrenet.fr/2018/01/27/chamrousse-inaugure-museobus-olympique-va-parcourir-lisere/173919|titre=Chamrousse inaugure le Muséobus olympique qui va parcourir l’Isère|site=placegrenet.fr|éditeur=|date=27 janvier 2018|consulté le=01 février 2018}}.</ref>. La chaîne [[Télé Grenoble Isère|TéléGrenoble]] réalise le {{date-|6 février 2018}} sur l'[[Anneau de vitesse de Grenoble|anneau de vitesse]] une soirée spéciale de {{unité|75|minutes}} contenant un spectacle chorégraphique et pyrotechnique en l'honneur des Jeux. Des sportifs de l'époque y sont invités, à l'image de [[Jean-Claude Killy]], [[Marielle Goitschel]] ou [[Alain Calmat]]<ref>{{lien web|url=http://www.telegrenoble.net/replay/emissions-speciales_18/emission-speciale-les-50-ans-des-jo-de-grenoble_x6ei5q3.html|titre=Émission spéciale : Les 50 ans des JO de Grenoble|site=telegrenoble.net|consulté le=24 février 2018}}.</ref>. Pour autant, Anne-Marie Granet-Abisse, professeure d'histoire contemporaine à l'université de Grenoble, constate un {{citation|effacement des traces}} laissées par les Jeux. Elle affirme que la mémoire de l'évènement disparaît peu à peu et qu'en dehors des passionnés, la plupart des Grenoblois ne font plus de lien entre les Jeux de 1968 et l'héritage qu'ils ont laissé à la ville : {{citation|Pour qu'une mémoire puisse exister, il faut qu'il y ait des traces, des points de fixation et surtout une transmission, qui dans le cas des JO ne s'est pas faite, ou seulement partiellement. Lorsque cette mémoire existe, elle est très incomplète : on se souvient de la mascotte Schuss, de la venue du Président De Gaulle, des victoires de Killy...Il n'y a donc pas une mémoire mais « des » mémoires sélectives des Jeux.}}<ref>{{harvsp|Lévy|2018|p=12|texte=(H)auteurs}}.</ref> À l'inverse, l'attrait des collectionneurs pour les objets liés à cet évènement est toujours vif des années après les Jeux comme en témoigne la vente aux enchères de la torche olympique, en {{date-|janvier 2018}}, en pleine période de célébration du cinquantième anniversaire des Jeux de Grenoble, pour la somme de {{unité|202400|euros}}<ref>{{lien web|lang=|url=https://www.lequipe.fr/Tous-sports/Actualites/La-torche-des-jo-1968-vendue-aux-encheres/869786|titre=La torche des JO 1968 vendue aux enchères|site=lequipe.fr|éditeur=''[[L'Équipe]]''|date=24 janvier 2018|consulté le=25 janvier 2018}}.</ref>.
+
+=== Le conservatoire observatoire et laboratoire des Jeux Olympiques de Grenoble ===
+Le conservatoire observatoire et laboratoire des Jeux Olympiques de Grenoble (COLJOG) est une association indépendante qui a pour vocation de recenser, protéger et mettre en valeur le patrimoine culturel, architectural, artistique et sportif des Jeux Olympiques de Grenoble (1968){{Référence nécessaire|date=4 mars 2021}}.
+
+==== Histoire ====
+Le Conservatoire observatoire et laboratoire des Jeux Olympiques de Grenoble a été créé en 2002<ref>[https://www.la-croix.com/Sport/reste-Jeux-Grenoble-1968-2017-09-03-1200873932 la-croix.com du 3 septembre 2017, Que reste-t-il des Jeux de Grenoble de 1968 ?]</ref> à l’initiative de Bernard Loucel, [[Jack Lesage]] et Paul Blanc. La plupart des membres de l’association se sont investis lors des Jeux de 1968 : [[Jack Lesage]] était le cinéaste attitré des JO, Paul Blanc le responsable des relations presse<ref>[https://www.la-croix.com/Archives/1999-03-17/Jeux-olympiques-et-corruption-_NP_-1999-03-17-470873 la-croix.com du 17 mars 1999, Jeux olympiques et corruption.]</ref> et Roger Alepée l’adjoint à la direction sportive du Comité d’organisation. Géo Perli, ancien footballeur professionnel, cofondateur du [[musée Géo-Charles]] à [[Échirolles]], artiste peintre, sculpteur, est sollicité pour en prendre la présidence afin de dynamiser les projets et trouver de nouvelles idées en vue des commémorations à venir. L'idée d'un musée consacré aux Jeux d'hiver de 1968 est envisagée, mais on s’oriente très vite plutôt vers une célébration plus vivante afin de recréer un esprit olympique{{Référence nécessaire|date=4 mars 2021}}.
+
+L'association œuvre depuis cette date, en partenariat avec le [[Musée olympique|musée olympique de Lausanne]], l'[[Académie nationale olympique française|Académie nationale olympique]] française, le [[Musée national du Sport|musée national du sport]] de Paris, le [[musée dauphinois]] de Grenoble, le musée d'entreprise [[Skis Rossignol]] et les collectionneurs privés afin de répertorier, faire découvrir, rassembler, réhabiliter et valoriser l’exceptionnel patrimoine humain et matériel constitué à partir de 1964. Elle souhaite ainsi révéler et analyser les traces olympiques inscrites dans l’histoire locale, nationale et internationale. En 2010, elle a également soutenu activement la candidature de Grenoble à l'organisation des Jeux d'hiver de 2018{{Référence nécessaire|date=4 mars 2021}}.
+
+Le président de la structure est aujourd'hui Gilles Grindler qui a succédé à Géo Perli en 2019{{Référence nécessaire|date=4 mars 2021}}.
+
+==== Réalisations du COLJOG ====
+En 2008, pour le {{40e}} anniversaire des JO<ref>{{Article|langue=|auteur1=|titre=Programme du {{40e}} anniversaire des JO de Grenoble|périodique=tirage unique|date=février 2008|issn=|lire en ligne=http://isere.franceolympique.com/isere/fichiers/File/2007evenements/prog40anniplaquetville.pdf|pages=}}</ref>, la régie du [[Téléphérique de Grenoble Bastille|téléphérique de Grenoble]] et le COLJOG ont réalisé une exposition réunissant objets et illustrations de la gare du téléphérique jusqu’au sommet de la [[Bastille (Grenoble)|Bastille]], intitulée “1968-2008, panorama Olympique”<ref>{{Article|langue=fr-FR|auteur1=|titre=Exposition à la Bastille - 40ème Anniversaire des JO - 2008 - COLJOG - Jeux Olympiques de Grenoble 1968|périodique=COLJOG - Jeux Olympiques de Grenoble 1968|date=2008|issn=|lire en ligne=http://coljog.fr/exposition-a-la-bastille-40eme-anniversaire-des-jo-2008/|consulté le=|pages=}}</ref> du {{date-|8 février}} au {{date-|4 mai 2008}}, exposition autour de différents thèmes : l’épopée des Jeux, les symboles, l’innovation. À cette occasion, les cabines du téléphérique ont été décorées avec la mascotte des JO, [[Shuss le skieur|Shuss]]<ref>{{Lien web |langue=fr |prénom=Le chercheur de vos |nom=empreintes |titre=Les bulles ont la nostalgie |url=http://graffitis-et-empreintes.over-blog.fr/article-les-bulles-ont-la-nostalgie-45778972.html |site=Empreintes, Graffitis, Trompe l'oeil et Marques de tâcheron |consulté le=2022-01-24}}</ref>.
+
+Cette même année, le COLJOG publie ''Les Neiges de Grenoble'', ouvrage écrit par Alain Arvin Berod, qui retrace la grande aventure humaine qui a scellé l'histoire d'une ville, d'une agglomération, d'un département et de la [[région Rhône-Alpes]] à l'olympisme<ref>{{Ouvrage|auteur1=Alain Arvin Berod|titre=Les neiges de Grenoble|éditeur=Coljog|date=février 2008|isbn=978-2-9530044-2-7|isbn2=2-9530044-2-4}}</ref>.
+
+Lancé le {{date-|11 Janvier 2014}}, un parcours pédagogique, allant de la [[gare de Grenoble]] à [[Alpexpo]] suit la “voie triomphale” des JO. Ce parcours étant desservi par la [[Ligne A du tramway de Grenoble|ligne A du tramway]] depuis 1987, le [[Syndicat mixte des mobilités de l'aire grenobloise|SMTC]] et le COLJOG choisissent d'installer des [[flashcode]]s aux différentes stations de cette ligne et proposent, à l'aide d'un smartphone, de découvrir, ou redécouvrir, une partie du patrimoine historique, sportif et architectural encore présent ou disparu. Une rame de cette ligne A<ref>{{Lien web|langue=fr-FR|titre=Inauguration du "Tram Olympique" - Panathlon Grenoble Alpes|url=http://www.panathlon-grenoble-alpes.org/inauguration-du-tram-olympique/|site=www.panathlon-grenoble-alpes.org|consulté le=2017-12-26}}</ref> a alors été entièrement habillée aux couleurs des Jeux Olympiques de 1968.
+
+Pour les {{nobr|50 ans}} des Jeux de Grenoble, l'association a répertorié à travers la France<ref>{{Lien web|langue=|nom1=|prénom1=|titre=50 ans après les JO de Grenoble, un appel aux porteurs de flamme francs-comtois|url=https://www.estrepublicain.fr/edition-de-besancon/2017/08/17/50-ans-apres-les-jo-de-grenoble-un-appel-aux-porteurs-de-flamme-francs-comtois|site=estrepublicain.fr|date=17 août 2017|consulté le=2018-02-03}}</ref>{{,}}<ref>{{Lien web|langue=|nom1=|prénom1=|titre=Avez-vous porté ou vu passer la flamme olympique en 1968 ?|url=https://www.lamontagne.fr/grenoble/sports/2015/12/23/avez-vous-porte-ou-vu-passer-la-flamme-olympique-en-1968_11716993.html|site=lamontagne.fr|date=23 décembre 2017|consulté le=2018-02-03}}</ref> et le monde les anciens porteurs de la [[flamme olympique]] ({{nombre|7000|personnes}} se sont relayées à pied, à skis et même en parachute pour porter la flamme olympique jusqu’à Grenoble) avec l'objectif de faire une grande exposition de photographies des relayeurs de l'époque présentée en gare de Grenoble durant tout l'hiver 2018<ref>[http://www.ledauphine.com/isere-sud/2016/06/18/recherche-de-porteurs-de-la-flamme-olympique ledauphine.com du 19 juin 2016, A la recherche de porteurs de la flamme des JO de 1968.]</ref>. Le cinquantième anniversaire des Jeux de 1968 est également l'occasion pour le COLJOG de prêter des photos et des films lors d'une exposition au [[musée-bibliothèque de Grenoble]] à l'automne 2017<ref>[https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/50-ans-jo-grenoble-exposition-ancien-musee-peinture-1330997.html france3-regions.francetvinfo.fr du 19 septembre 2017, {{nobr|50 ans}} des JO de Grenoble : une exposition à l'ancien musée de peinture.]</ref>, ainsi que pour celle organisée par le [[musée dauphinois]] à partir du {{date-|6 février 2018}}<ref>[https://www.placegrenet.fr/2017/10/04/lisere-fete-le-50e-anniversaire-des-jeux-olympiques-de-1968/155565 placegrenet.fr du 4 octobre 2017, L’Isère parée à fêter le {{50e}} anniversaire des Jeux olympiques de 1968.]</ref>.
+
+Par ailleurs, le COLJOG porte le projet, en collaboration avec la ville de Grenoble, de l'aménagement et la valorisation du patrimoine architectural hérité des Jeux olympiques basé dans le [[parc Paul-Mistral]] comme l’actuel [[Palais des sports de Grenoble|palais des sports]] (ancien palais de glace), l’ancien [[Anneau de vitesse de Grenoble|anneau de vitesse]] et ses bâtiments tribunes et l’actuelle [[Halle Clemenceau]] (ancienne patinoire), ainsi que l'[[Hôtel de ville de Grenoble|hôtel de ville]]. Il faut y rajouter les œuvres monumentales issues du premier symposium de sculptures<ref>{{Lien web|langue=|nom1=|titre=Un musée sans murs - Le premier symposium français de sculpture. Grenoble, été 1967 - Auteur : Ivan Boccon-Perroud et Marie Savine|url=http://www.musee-dauphinois.fr/TPL_CODE/TPL_PUBLICATION/PAR_TPL_IDENTIFIANT/486/138-.htm|site=www.musee-dauphinois.fr|consulté le=2017-12-26}}</ref> réalisé en 1967 pour honorer la venue des Jeux Olympiques d'hiver ainsi que la valorisation du [[Stade olympique de Grenoble|mat]] et de la [[vasque olympique]], patrimoine unique et hautement symbolique.
+
+==== Shuss, mascotte des JO 1968 ====
+[[Shuss le skieur|Shuss]] (créé par Aline Lafargue, créatrice de films animés à destination de la jeunesse pour l’[[Office de radiodiffusion-télévision française|ORTF]]) dont le COLJOG détient la propriété<ref>{{Lien web|langue=|nom1=|titre=JO de 1968 à Grenoble : publicité et produits dérivés, des Jeux très marchands|url=https://www.francebleu.fr/sports/sport-d-hiver-ski-biathlon/jo-de-1968-a-grenoble-des-jeux-tres-marchands-1516108895|site=francebleu.fr|date=2018-02-01|consulté le=2018-02-19}}</ref>, est la première mascotte (non officielle) de l'histoire des Jeux olympiques et reste l'un des symboles emblématiques des JO de Grenoble<ref>{{Lien web |langue=fr-FR |titre=Histoire de fabrication d'une mascotte Olympique, le Shuss en tissu |url=https://collectionolympique.org/mascotte-olympique-shuss-tissu |site=Collection Olympique |date=2017-02-19 |consulté le=2022-01-24}}</ref>.
+
+== Notes et références ==
+=== Notes ===
+{{crédit d'auteurs|interne|Conservatoire observatoire laboratoire des Jeux olympiques de Grenoble|note=oui}}
+{{références|groupe=Note}}
+
+=== Références ===
+{{Références nombreuses|taille=20}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:1968 Winter Olympics|commons titre=Jeux olympiques d'hiver de 1968}}
+
+=== Bibliographie ===
+{{légende plume}}
+* {{Ouvrage|prénom1=Jean-Pierre|nom1=Taillandier|prénom2=Robert|nom2=Chastagnol|titre={{Xes}} Jeux Olympiques d'hiver Grenoble 1968|éditeur=B. Arthaud|année=1967|pages totales=198}}.
+* {{Ouvrage|prénom1=André-Georges|nom1=Dassaud|titre=Fantastique Grenoble|éditeur=B. Arthaud|année=1968|pages totales=162}}.
+* {{Ouvrage|langue=fr|auteur institutionnel=Bureau de presse du Comité d'organisation des Jeux olympiques|préface=[[Albert Michallon]]|titre=Grenoble 1968. Xèmes Jeux olympiques d'hiver|lieu=Grenoble|éditeur=Maîtres imprimeurs de Grenoble|nature ouvrage=Rapport officiel. Official report. [the text is translate in ''english'']|année=1969|numéro d'édition=1|pages totales=416|lire en ligne=https://digital.la84.org/digital/collection/p17103coll8/id/17968/rec/5|consulté le=6 août 2015|id=Rapport officiel|plume=oui}}
+* {{Ouvrage|langue=en|prénom1=Richard|nom1=Espy|titre=The Politics of the Olympic Games|lieu=Berkeley, États-Unis|éditeur=University Press|année=1979|pages totales=212|isbn=0-520-03777-4|lire en ligne={{Google Livres|nVcYzlvnpwYC}}|id=Espy1979|plume=oui}}
+* {{Ouvrage|langue=fr|auteur1=Claude Francillon|titre=Chamonix 24, Grenoble 68, Albertville 92|sous-titre=le roman des jeux|lieu=Grenoble|éditeur=[[Glénat]]|année=1991|pages totales=178|isbn=2-7234-1418-3}}.
+* {{Article|auteur1=Pierre Frappat|titre=Les Jeux Olympiques à Grenoble : une ville industrielle saisie par le sport|périodique=[[Revue de géographie alpine]]|volume=79|numéro=3|année=1991|pages=45-48|issn= |lire en ligne=http://www.persee.fr/doc/rga_0035-1121_1991_num_79_3_3612?h=jeux&h=grenoble&h=1968|id=|plume=oui}}
+* {{Article|auteur1=Jean Billet|titre=La région Rhône-Alpes et les Jeux Olympiques : tourisme, compétitivité internationale et aménagement|périodique=[[Revue de géographie alpine]]|volume=79|numéro=3|année=1991|pages=99-108|issn= |lire en ligne=http://www.persee.fr/doc/rga_0035-1121_1991_num_79_3_3617?h=jeux&h=grenoble&h=1968|id= }}.
+* {{Ouvrage|langue=fr|prénom1=Pierre|nom1=Arnaud|lien auteur1=Pierre Arnaud (historien)|prénom2=Thierry|nom2=Terret|lien auteur2=Thierry Terret|titre=Le rêve blanc, olympisme et sport d'hiver en France|sous-titre=Chamonix 1924, Grenoble 1968|lieu=Bordeaux|éditeur=Presses universitaires de Bordeaux|année=1993|pages totales=268|isbn=2-86781-134-1|lire en ligne=https://books.google.com/books?id=BDWV_DtRLgQC&printsec=frontcover|plume=oui}}
+* {{Article|auteur1=Nadir Boumaza|titre=Grenoble, ses universités et la montagne|périodique=[[Revue de géographie alpine]]|volume=83|numéro=4|année=1995|pages=39-51|issn= |lire en ligne=http://www.persee.fr/doc/rga_0035-1121_1995_num_83_4_3834?h=jeux&h=grenoble&h=1968|id= }}.
+* {{Ouvrage|prénom1=Paul|nom1=Zilbertin|prénom2=Honoré|nom2=Bonnet|lien auteur2=Honoré Bonnet|titre=L'année des médailles|sous-titre=Grenoble 1968|lieu=Biarritz|éditeur=[[Éditions Atlantica|Atlantica]]|année=1997|pages totales=162|isbn=978-2-84394-022-4}}.
+* {{article|prénom1=Bernard|nom1=Bruneteau|lien auteur1=Bernard Bruneteau|titre=Le "Mythe de grenoble" des années 1960 et 1970|sous-titre=un usage politique de la modernité|périodique=''Vingtième Siècle : Revue d'histoire''|numéro=58|date=avril-juin 1998|pages=111-126}}.
+* {{Article|auteur1=Pierre Kukawka|titre=Les Jeux Olympiques d'hiver : enjeux et perspectives. Grenoble 1968 - Nagano 1998|périodique=[[Revue de géographie alpine]]|volume=87|numéro=1|année=1999|pages=99-104|issn= |lire en ligne=http://www.persee.fr/doc/rga_0035-1121_1999_num_87_1_2923?h=jeux&h=grenoble&h=1968|id=|plume=oui}}
+* {{Ouvrage|langue=en|prénom1=David|nom1=Wallechinsky|titre=The complete book of the Winter Olympics|lieu=Woodstock (New York, États-Unis)|éditeur=Overlook Press|année=2001|isbn=1-58567-195-9|présentation en ligne={{Google Livres|oftY6V7isL8C}}}}.
+* {{chapitre|prénom1=Douglas|nom1=Brown|prénom2=Gordon|nom2=MacDonald|titre chapitre=Grenoble 1968|titre ouvrage=Encyclopedia of the Modern Olympic Movement|éditeur=John E. Findling et Kimberly D. Pelle, Greenwood Press|lieu=Westport (Connecticut, États-Unis)|passage=351-358|pages totales=602|année=2004|isbn=0-313-32278-3|langue=anglais|présentation en ligne={{Google Livres|QmXi_-Jujj0C}}|id=BrownMacDonald}}.
+* {{Ouvrage|auteur1=Alain Arvin-Berod|titre=Les Neiges de Grenoble|sous-titre=1968-2008|lieu=Bresson|éditeur=Conservatoire Observatoire Laboratoire des Jeux Olympiques de Grenoble|année=1998|isbn=978-2-9530044-2-7}}.
+* {{Ouvrage|langue=en|auteur1=Ron C. Judd|titre=The Winter Olympics|sous-titre=An insider's guide to the Legends, the Lore and the Games|lieu=Seattle, États-Unis|éditeur=[[Mountaineers Books]]|année=2009|pages totales=252|isbn=|lire en ligne=https://books.google.ch/books?id=Hc2dCHfyh0AC&printsec=frontcover}}.
+* {{Ouvrage|langue=fr|auteur1=[[Mustapha Kessous]]|titre=Les 100 histoires des Jeux Olympiques|lieu=Paris|éditeur=[[Presses universitaires de France|PUF]]|collection=Que sais-je ?|année=2012|pages totales=127|isbn=978-2-13-060629-1|plume=oui}}
+* {{Ouvrage|langue=fr|prénom1=Éric|nom1=Monnin|lien auteur1=Éric Monnin|titre=De Chamonix à Sotchi|sous-titre=Un siècle d'olympisme en hiver|lieu=Gap|éditeur=Éditions Désiris|année=2013|pages totales=224|isbn=978-2-36403-066-4|plume=oui}}
+* {{article|auteur=André Suchet|titre=Les ruines des jeux olympiques de Grenoble 1968|périodique=''Techniques & Culture''|numéro=65-66|volume=I|année=2016|pages=434-447|lire en ligne=https://www.cairn.info/revue-techniques-et-culture-2016-1-p-434.htm}}.
+* {{Ouvrage|langue=fr|auteur1=Gilles Chappaz|auteur2=Bruno Kauffmann|titre=Le jour JO|sous-titre=Comment ils sont devenus champions olympiques|lieu=Grenoble|éditeur=[[Glénat]]|année=2017|pages totales=360|isbn=978-2-344-02354-9}}.
+* {{article|prénom1=Patrick|nom1=Lévy|lien auteur1=Patrick Lévy|directeur1=oui|et al.=oui|titre=Grenoble, que reste-t-il des Jeux olympiques ?|périodique=''(H)auteurs''|numéro=4|date=hiver 2018|éditeur=[[Université Grenoble-Alpes]]|pages=6-15|lire en ligne=https://newsroom.univ-grenoble-alpes.fr/h-auteurs/numero-4/|plume=oui}}
+* {{Ouvrage|langue=fr|auteur institutionnel=[[Musée dauphinois]]|titre=Grenoble 1968|sous-titre=Les Jeux olympiques qui ont changé l'Isère|lieu=Grenoble|éditeur=[[Glénat]]|année=2018|pages totales=192|isbn=978-2-344-02590-1}}.
+
+=== Articles connexes ===
+* [[Jeux olympiques d'été de 1968]]
+* Autres Jeux olympiques d'hiver ayant lieu en France :
+** [[Jeux olympiques d'hiver de 1924]] à [[Chamonix]]
+** [[Jeux olympiques d'hiver de 1992]] à [[Albertville]]
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+* [http://www.olympic.org/fr/grenoble-1968-olympiques-hiver Les Jeux de Grenoble sur le site du CIO]
+* [http://coljog.fr/ Conservatoire observatoire laboratoire des Jeux olympiques de Grenoble]
+* [http://www.telegrenoble.net/replay/evenement_18/documentaire-grenoble-1968-les-jo-qui-ont-change-l-isere_x6z80qo.html Film diffusé sur TéléGrenoble et présenté par le conservateur du musée dauphinois pour l'exposition du cinquantième anniversaire des Jeux.]
+
+{{Palette|Jeux olympiques d'hiver de 1968|Délégations aux Jeux olympiques d'hiver de 1968|Jeux olympiques d'hiver|Jeux olympiques}}
+{{portail|Jeux olympiques|sports d'hiver|années 1960|Grenoble}}
+
+[[Catégorie:Jeux olympiques d'hiver de 1968| ]]
+[[Catégorie:1968 en France]]
+[[Catégorie:Histoire de Grenoble|Conservatoire observatoire laboratoire des Jeux olympiques de Grenoble]]

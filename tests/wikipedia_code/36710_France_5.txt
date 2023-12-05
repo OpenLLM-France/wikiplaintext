@@ -1,0 +1,715 @@
+{{titre mis en forme|France&nbsp;5}}
+{{Confusion|texte=Ne doit pas être confondu avec les chaînes de télévision {{page h'|TV5}}, [[La Cinq]] ou [[La5]], ni avec la série télévisée [[France Five]].}}
+{{Infobox Chaîne de télévision
+ | couleur boîte        = 00d282
+ | nom                  = {{nobr|{{blanc|France 5}}}}
+ | format d'image       = [[Format 16/9|16/9]], [[576i]] ([[SDTV|SD]]), [[1080i]] ([[Haute définition|HD]])
+ | statut               = Généraliste nationale publique
+ | chaîne sœur          = [[Outre-mer La Première (réseau)|La {{1re}}]] (9 chaînes), {{nobr|[[France 2]]}}, {{nobr|[[France 3]]}} (et ses déclinaisons locales), {{nobr|[[France 4]]}}, {{nobr|[[France Info (chaîne de télévision)|France Info]]}}
+ | diffusion            = [[Télévision numérique terrestre|TNT]], [[Télévision par satellite|satellite]], [[Télévision par câble|câble]], [[Télévision IP|IPTV]] et [[World Wide Web|Web]].
+ | aire diffusion       = {{France}}<br />{{Belgique}}<br />{{Luxembourg}}<br />{{Monaco}}<br />{{Portugal}}<ref>{{lien web |langue=pt |titre=Adesaocanaispremium |url=https://loja.meo.pt/canais/adesaocanaispremium?cid=26 |site=Meo.pt |consulté le=29-06-2020}}.</ref><br />{{Suisse}}
+}}
+
+'''{{nobr|France 5}}''', anciennement '''La Cinquième'''<ref>Le slogan du changement de nom étant « Le nom change, les visages restent », La Cinquième n'a connu aucun remaniement important permettant de la différencier - mis à part l'habillage.</ref>, est une [[chaîne de télévision généraliste]] [[France|française]] de [[Service public en France|service public]] diffusant depuis le {{date|13 décembre 1994|à la télévision}} et faisant partie du groupe [[France Télévisions]]. Ses programmes, principalement composés de magazines et de [[documentaire]]s, sont axés sur l'[[éducation]] et le partage des [[savoir]]s et des [[connaissance]]s. Sa couleur d'identification au sein du groupe de télévision public est le [[vert]] et se retrouve sur tout son habillage d'antenne.
+
+Après avoir fait partie d'un [[groupement d'intérêt économique]] avec [[Arte France|La Sept-Arte]] à partir de 1994, La Cinquième intègre le groupe France Télévisions avec la loi du {{date|1 août 2000|à la télévision}}. La chaîne est finalement renommée '''France 5''' le {{date|7 janvier 2002|à la télévision}} pour mieux marquer son appartenance au groupe audiovisuel public.
+
+Cinquième chaîne de France en termes d'audience, elle est diffusée sur la [[Télévision numérique terrestre en France|TNT]], le [[Télévision par satellite|satellite]], le [[Télévision par câble|câble]], la [[télévision IP]] et le [[World Wide Web|Web]]. Elle est également disponible dans certains pays limitrophes et ses programmes sont partiellement repris par le réseau de [[TV5 Monde]].
+
+== Histoire de la chaîne ==
+=== 1992-1994 : La genèse ===
+{{Article connexe|La Cinq}}
+Le {{date-|12 avril 1992}}, la chaîne privée [[La Cinq]], très endettée et mise en liquidation judiciaire depuis le {{date-|3 avril}}, cesse d'émettre sur le cinquième réseau [[Télévision analogique terrestre|analogique terrestre]] de [[TDF]]. Divers projets sont alors proposés pour occuper le réseau vacant, mais la procédure habituelle d'appel à candidature par le [[Conseil supérieur de l'audiovisuel (France)|Conseil supérieur de l'audiovisuel]] (CSA) n'est pas suivie. Le {{date-|23 avril 1992}}, avec l'appui du [[Président de la République française|président]] [[François Mitterrand]], le [[gouvernement Pierre Bérégovoy]] préempte le réseau pour diffuser la chaîne franco-allemande [[Arte]] à partir du {{date-|28 septembre 1992}} entre {{heure|19}} et {{heure|1}}. Pour compléter la diffusion, le [[gouvernement Édouard Balladur]] crée la société ''La Télévision du savoir, de la formation et de l'emploi'' (future La Cinquième) par la loi du {{date-|1 février 1994}}. Le journaliste [[Jean-Marie Cavada]] en prend la présidence et le philosophe [[Michel Serres]] est nommé président du Conseil scientifique de la chaîne<ref name="ChronoPolAudio">{{Lien web |titre=Chronologie de la politique de l'audiovisuel |url=http://www.vie-publique.fr/politiques-publiques/politique-audiovisuel/chronologie/ |date=7 juillet 2010 |site=[[Vie-publique.fr]] |consulté le=29 septembre 2016}}.</ref>{{,}}<ref name="INACinquieme">{{Lien web |titre=La Cinquième, la chaîne de la connaissance |url=http://www.ina.fr/contenus-editoriaux/articles-editoriaux/la-cinquieme-la-chaine-de-la-connaissance/ |date=4 décembre 2014 |site=le site de l'[[Institut national de l'audiovisuel|INA]] |consulté le=29 septembre 2016}}.</ref>.
+
+Le {{date-|1 décembre 1994}}, le [[Liste des ministres français de la Communication|ministre de la Communication]] [[Nicolas Sarkozy]] impose la création d'un [[groupement d'intérêt économique]] (GIE) incluant [[Arte France|La Sept-Arte]] (le pôle français d'[[Arte]]) et La Cinquième. Les chaînes doivent trouver des terrains de coopération, comme le partage de l'exploitation de programmes. La structure est dirigée par une présidence tournante<ref name="INACinquieme"/>{{,}}<ref>{{Lien web |auteur=Nicole Vulser |titre=La Sept-Arte accélère sa diversification |url=https://www.lesechos.fr/19/10/1994/LesEchos/16754-102-ECH_la-sept-arte-accelere-sa-diversification.htm |date=19 octobre 1994 |site=le site des [[Les Échos|Échos]] |consulté le=4 octobre 2016}}.</ref>.
+
+=== 1994-2002 : La Cinquième ===
+Le {{date-|13 décembre 1994}} à {{Heure|18}}, La Cinquième est inaugurée sous la pyramide du [[musée du Louvre|Louvre]] en présence du [[Premier ministre français|Premier ministre]] [[Édouard Balladur]] et de {{unité|500|enfants}} venus de toute la France. La chaîne se présente comme celle du savoir et de la connaissance, diffusant notamment des programmes éducatifs à destination des enfants. À partir du lendemain, la chaîne diffuse tous les jours de {{heure|7}} à {{heure|19}} en complément d'[[Arte]]<ref name="INACinquieme"/>{{,}}<ref>{{vidéo}}{{Lien web |titre=Inauguration de La Cinquième au ''Journal de 20H'' de France 2 |url=http://www.ina.fr/video/CAB94107690/la-cinquieme-video.html |date=13 décembre 1994 |site=le site de l'INA |consulté le=4 octobre 2016}}.</ref>{{,}}<ref>{{vidéo}}{{Lien web |titre=Inauguration de La Cinquième au ''19/20'' de France 3 |url=http://www.ina.fr/video/CAC94107702/la-cinquieme-video.html |date=13 décembre 1994 |site=le site de l'INA |consulté le=4 octobre 2016}}.</ref>. L'habillage de la Cinquième est de Philippe Lallemant, [[Antoine Lantieri]] et Martial Valenchon.
+
+La chaîne étend sa programmation de 19 h à minuit à partir du {{date-|3 novembre 1995}} sur le câble parisien<ref>{{Lien web |titre=Projet de loi de finances pour 1996 - La Cinquième |url=http://www.senat.fr/rap/l95-077-3-12/l95-077-3-1256.html |date=5 décembre 1995 |site=le site du [[Sénat (France)|Sénat]] |consulté le=8 octobre 2016}}.</ref>, puis sur le satellite à partir du {{date-|31 janvier 1998}} sur [[Canalsat|Canalsatellite]] et du {{date-|16 février}} sur [[TPS (entreprise)|TPS]]<ref>{{pdf}}{{Lien web |titre=Bilan de La Cinquième - 2000 |url=www.csa.fr/content/download/17411/319957/file/5e.pdf |site=le site du [[Conseil supérieur de l'audiovisuel (France)|CSA]] |consulté le=7 octobre 2016}}.</ref>. En {{date-|novembre 1999}}, le [[Conseil supérieur de l'audiovisuel (France)|CSA]] autorise la chaîne d'étendre sa diffusion jusqu'à {{heure|3}} sur le câble<ref>{{Lien web |titre=La Cinquième : nouveaux horaires sur le câble |url=http://www.csa.fr/Espace-juridique/Decisions-du-CSA/La-Cinquieme-nouveaux-horaires-sur-le-cable |date=23 novembre 1999 |site=le site du CSA |consulté le=7 octobre 2016}}.</ref>.
+
+En {{date-|mars 1996}}, la chaîne est l'une des premières à se doter d'un [[site web]]. Elle met à disposition des acteurs de l'éducation et de la vie sociale une banque de programmes et de services. Cette expérience d'un an est accessible sur quatre sites en [[France]], à [[Lyon]], [[Marseille]], [[Bordeaux]] et en [[Nord-Pas-de-Calais]], et un site en [[Grèce]]<ref>{{Lien web |titre=La Cinquième lance une banque de programmes et de services |url=https://www.lesechos.fr/28/08/1996/LesEchos/17219-056-ECH_la-cinquieme-lance-une-banque-de-programmes-et-de-services.htm |date=28 août 1996 |site=le site des Échos |consulté le=6 octobre 2016}}.</ref>{{,}}<ref name="JMM51109">{{Lien web |titre=Fr5: Une émission spéciale pour fêter ses 15 ans en décembre |url=http://www.jeanmarcmorandini.com/article-32333-fr5-une-emission-speciale-pour-feter-ses-15-ans-en-decembre.html |date=5 novembre 2009 |site=[[Jean-Marc Morandini#Site internet sur l'actualité des médias|jeanmarcmorandini.com]] |consulté le=7 octobre 2016}}.</ref>.
+
+Fin 1996, face à l'échec du GIE La Sept-Arte/La Cinquième en termes d'économies, le [[Ministère de la Culture (France)|ministre de la Culture]] [[Philippe Douste-Blazy]] envisage la création d'une nouvelle société dotée d'un budget propre<ref>{{Lien web |auteur=Martine Esquirou |titre=Cinquième-Arte, mariage forcé |url=http://www.liberation.fr/medias/1996/08/31/cinquieme-arte-mariage-force-le-gouvernement-veut-rapprocher-les-deux-chaines-pour-faire-des-economi_178547 |date=31 août 1996 |site=le site de [[Libération (journal)|Libération]] |consulté le=6 octobre 2016}}.</ref>. Cette structure est mise en place par le [[gouvernement Lionel Jospin]] après les [[élections législatives françaises de 1997]], et se voit dotée d'un budget de {{unité|1.6|milliard}} d'euros. [[Jérôme Clément]], président de La Sept-Arte, devient également PDG de La Cinquième. La chaîne se dote d'un nouvel habillage, d'un nouveau logo et lance de nouvelles émissions<ref name="INACinquieme"/>{{,}}<ref>{{Lien web |auteur=Odile Benyahia-Kouider |titre=Arte-la Cinquième font la chaîne. Jérôme Clément cumule depuis hier la présidence des deux chaînes |url=http://www.liberation.fr/medias/1997/04/17/arte-la-cinquieme-font-la-chaine-jerome-clement-cumule-depuis-hier-la-presidence-des-deux-chaines_202443 |date=17 avril 1997 |site=le site de Libération |consulté le=6 octobre 2016}}.</ref>.
+
+Le {{date-|21 mars 1998}}, La Cinquième participe au lancement de la chaîne musicale [[Mezzo (chaîne de télévision)|Mezzo]]. Elle en détient 5 % du capital aux côtés de [[France Télécom]], [[France 2]] et [[Arte]]<ref>{{Lien web |titre=Lancement de la chaîne Mezzo |url=http://www.liberation.fr/medias/1998/03/21/lancement-de-la-chaine-mezzo_230919 |date=21 mars 1998 |site=le site de Libération |consulté le=7 octobre 2016}}.</ref>. Le {{date-|10 août 1999}}, le GIE La Cinquième/La Sept-Arte entre à hauteur de 25 % dans le capital de la chaîne internationale francophone [[TV5 Monde|TV5]]<ref name="JMM51109"/>{{,}}<ref>{{Lien web |titre=30 ans de TV5MONDE... |url=https://pacific.tv5monde.com/About/Group/History.aspx?lang=fr-FR |site=le site de [[TV5 Monde]] |consulté le=7 octobre 2016}}.</ref>.
+
+=== 2000 : Intégration dans France Télévisions ===
+En 1998, la ministre de la Culture [[Catherine Trautmann]] lance un projet de réforme de l'audiovisuel public qui prévoit notamment la création d'une holding regroupant les sociétés [[France 2]], [[France 3]], [[La Cinquième]]/[[Arte France|La Sept-Arte]] et [[Réseau Outre-Mer première|RFO]] pour faire face aux groupes privés<ref>{{Lien web |auteur=Martine Esquirou |titre=Le gouvernement veut créer un super holding pour coiffer l'audiovisuel public |url=https://www.lesechos.fr/04/09/1998/LesEchos/17724-058-ECH_le-gouvernement-veut-creer-un-super-holding-pour-coiffer-l-audiovisuel-public.htm |date=4 septembre 1998 |site=le site des Échos |consulté le=7 octobre 2016}}.</ref>. Mais les Allemands s'opposent à ce que La Sept-Arte {{incise|la partie française d'[[Arte]]}} intègre cette structure franco-française, menaçant l'indépendance de la chaîne franco-allemande<ref>{{Lien web |auteur=Emmanuel Berretta |titre=France Télé sans pub : Arte ne se sent pas inquiétée |url=http://www.lepoint.fr/actualites-medias/2008-01-09/france-tele-sans-pub-arte-ne-se-sent-pas-inquietee/1253/0/217792 |date=9 janvier 2008 |site=le site du [[Le Point|Point]] |consulté le=7 octobre 2016}}.</ref>.
+
+La loi du {{date-|1 août 2000}} crée la holding [[France Télévisions]] rassemblant les chaînes [[France 2]], [[France 3]] et [[La Cinquième]]<ref>{{Lien web |titre=Les principales dispositions de la loi du {{date-|1 août 2000}} |url=http://www.culturecommunication.gouv.fr/Politiques-ministerielles/Audiovisuel/Sous-Dossiers-thematiques/La-loi-n-2000-719-du-1er-aout-2000-modifiant-la-loi-n-86-1067-du-30-septembre-1986-relative-a-la-liberte-de-communication/Les-principales-dispositions-de-la-loi-du-1er-aout-2000 |date=30 avril 2016 |site=le site du [[Ministère de la Culture (France)|ministère de la Culture]] |consulté le=7 octobre 2016}}.</ref>{{,}}<ref name="HistoireFTV">{{Lien web |titre=Histoire de France Télévisions |url=http://www.francetelevisions.fr/histoire |site=le site de [[France Télévisions]] |consulté le=7 octobre 2016}}.</ref>. Le GIE La Cinquième/[[Arte France|La Sept-Arte]] est donc dissous<ref>{{Ouvrage |auteur1=Marc Endeweld |titre=France Télévisions, Off the Record |sous-titre=Histoires secrètes d'une télé publique sous influences |éditeur=Éditions Flammarion |année=2010 |pages totales=479 |isbn=978-2-08-125442-8 |isbn2=2-08-125442-5 |lire en ligne=https://books.google.fr/books?id=ZkKQVznJIGQC&pg=PT80&dq=arte+Catherine+Trautmann+ind%C3%A9pendante}}.</ref> et La Cinquième devient une société nationale de programmes<ref name="JMM51109"/>.
+
+À la rentrée 2001, la chaîne modifie en profondeur sa grille de programmes (à plus de 80 %) avec le lancement de nombreuses nouvelles émissions telles que ''[[C dans l'air]]'' et ''[[Les Maternelles]]''. Cette grille est construite autour d'une hypothèse de diffusion 24 heures sur 24 en préfiguration du développement de la [[télévision numérique terrestre en France]]<ref name="JMM51109"/>{{,}}<ref>{{Lien web |auteur=Alexandre Raveleau |titre=Les 10 ans du succès pour France 5 |url=http://www.toutelatele.com/les-10-ans-du-succes-pour-france-5-4124 |date=13 décembre 2004 |site=[[toutelatele.com]] |consulté le=7 octobre 2016}}.</ref>.
+
+=== Depuis 2002 : France 5 ===
+Le {{date-|7 janvier 2002}}, La Cinquième devient France 5 pour mieux marquer son appartenance au groupe [[France Télévisions]] et se voit attribuer la couleur verte, complémentaire du rouge de [[France 2]] et du bleu de [[France 3]]<ref name="ChronoPolAudio"/>{{,}}<ref>{{Lien web |titre=Nouvelle identité visuelle de France Télévisions |url=http://www.telesatellite.com/actu/3000-france-television-la-holding-publique-qui-coiffe-les-chaines-france-france.html |date=7 janvier 2002 |site=telesatellite.com |consulté le=6 août 2016}}.</ref>. La chaîne diffuse alors pendant deux mois des auto-promotions indiquant qu'elle conserve ses visages, ses programmes et ses missions<ref>{{Lien web|titre=Auto-promo France 5 : animateurs 1|url=http://www.ina.fr/video/PUB2346235054/france-5-animateurs-1-video.html|site=[[Institut national de l'audiovisuel|Ina]]}}</ref>{{,}}<ref>{{Lien web|titre=Auto-promo France 5 : animateurs 2|url=http://www.ina.fr/video/PUB2346235055/france-5-animateurs-2-video.html|site=Ina}}</ref>{{,}}<ref>{{Lien web|titre=Auto-promo France 5 : programmes|url=http://www.ina.fr/video/PUB2346235056/france-5-programmes-video.html|site=Ina}}</ref>{{,}}<ref>{{Lien web|titre=Auto-promo France 5 : missions|url=http://www.ina.fr/video/PUB2346235057/france-5-missions-video.html|site=Ina}}</ref>{{,}}<ref>{{Lien web|titre=Auto-promo France 5 : apports|url=http://www.ina.fr/video/PUB2346236048/france-5-apports-video.html|site=Ina}}</ref>.
+
+Le {{date-|31 mars 2005}}, la [[Télévision numérique terrestre en France|télévision numérique terrestre française]] (TNT) est lancée. France 5 obtient alors son propre canal et peut désormais émettre {{nobr|24h/24}} sur le hertzien, comme elle le fait déjà sur le [[Télévision par câble|câble]] et le [[Télévision par satellite|satellite]]. La chaîne met alors au point une nouvelle grille des programmes, préparée depuis cinq ans. Elle dispose d'un budget d'un peu plus de {{unité|100|millions}} d'euros<ref>{{Lien web |auteur=Guy Dutheil |titre=24 heures sur 24, France 5 va tenter de séduire avec "une autre télévision" |url=https://www.lemonde.fr/actualite-medias/article/2005/03/30/24-heures-sur-24-france-5-va-tenter-de-seduire-avec-une-autre-television_633423_3236.html |date=30 mars 2005 |site=le site du [[Le Monde|Monde]] |consulté le=6 août 2016}}.</ref>.
+
+En {{date-|juin 2009}}, France 5 arrête la rediffusion de ses magazines dans son créneau horaire du canal analogique partagé avec [[Arte]]. La chaîne prépare l'arrêt de l'analogique prévu pour le {{date-|30 novembre 2011}}<ref>{{Lien web |auteur=Tony Cotte |titre=France 5 supprime ses rediffusions |url=http://www.toutelatele.com/france-5-supprime-ses-rediffusions-17881 |date=30 juin 2009 |site=toutelatele.com |consulté le=6 août 2016}}.</ref>.
+
+La loi {{n°|2009-258}} du {{date-|5 mars 2009}} transforme au {{date-|4 janvier 2010}} [[France Télévisions]] en une entreprise commune, société nationale de programme, par fusion-absorption de la quarantaine de sociétés qui compose jusque-là un holding. France 5, comme ses chaînes sœurs, est désormais directement éditée par France Télévisions. De plus, la loi entérine la suppression de la publicité du service public entre {{heure|20}} et {{heure|6}}, déjà effective depuis le {{date-|5 janvier 2009}}. Les programmes de première partie de soirée débutent désormais à {{heure|20|35}} au lieu de {{heure|20|50}} auparavant<ref name="HistoireFTV"/>{{,}}<ref>{{Lien web |titre=La réforme de l’audiovisuel public |url=http://www.culturecommunication.gouv.fr/Politiques-ministerielles/Audiovisuel/Sous-Dossiers-thematiques/Loi-n-2009-258-du-5-mars-2009-relative-a-la-communication-audiovisuelle-et-au-nouveau-service-public-de-la-television/La-reforme-de-l-audiovisuel-public |date=3 août 2009 |site=le site du ministère de la Culture |consulté le=6 août 2016}}.</ref>
+
+À la rentrée 2015, le nouveau directeur de la chaîne, [[Michel Field]], décide de retravailler les [[Première partie de soirée|premières parties de soirée]] de la chaîne, historiquement plus faibles que les journées, en misant sur l'événementiel et des soirées thématiques<ref>{{Lien web |auteur=Christine Rousseau |titre=Michel Field : "Il n'est pas question que France 5 dorme pendant dix ans" |url=https://www.lemonde.fr/televisions-radio/article/2015/11/19/michel-field-il-n-est-pas-question-que-france-5-dorme-pendant-dix-ans_4813320_1655027.html |date=19 novembre 2016 |site=le site du Monde |consulté le=6 août 2016}}.</ref>.
+
+== Identité visuelle ==
+=== Habillage et logos ===
+
+==== 1994-2002 ====
+Le logo de La Cinquième est un [[Disque (géométrie)|disque]] bleu bombé percé d'un « 5 » blanc avec le nom de la chaîne écrit en dessous en noir avec des accents rouges. Il reprend ainsi les trois couleurs nationales. L'habillage de la Cinquième est de Philippe Lallemant, [[Antoine Lantieri]] et Martial Valenchon.
+
+Le {{date-|16 octobre 1999}}, pour ses cinq ans, La Cinquième change de logo et d'habillage. Le logo évolue en douceur : le disque bleu est conservé, le nom de la chaîne est supprimé et un [[Exposant (typographie)|exposant]] « e » est ajouté au « 5 » blanc. Le nouvel habillage de l'agence Aart Design décline les bandes-annonces, génériques et jingles publicitaires en trente langues étrangères<ref>{{Lien web |auteur=Colette Boillon |titre=Les habits neufs de La Cinquième |url=http://www.la-croix.com/Archives/1999-09-30/Les-habits-neufs-de-La-Cinquieme-_NP_-1999-09-30-483947 |date=30 septembre 1999 |site=le site de [[La Croix]] |consulté le=8 octobre 2016}}.</ref>.<gallery caption="Logo de la Cinquième (1994-2002)">
+Fichier:La Cinquième logo 1994.png|Logo de la Cinquième du 13 décembre 1994 au 15 octobre 1999.
+Fichier:La Cinquième 1999.svg|Logo de la Cinquième du 16 octobre 1999 au 6 janvier 2002.
+</gallery>
+
+==== 2002-2018 ====
+Le {{date-|7 janvier 2002}}, le groupe [[France Télévisions]] adopte une nouvelle identité visuelle conçue par l'agence Gédéon. La toute nouvelle France 5 est dotée d'un nouveau logo similaire aux autres chaînes : un trapèze de couleur verte (complémentaire au rouge de [[France 2]] et au bleu de [[France 3]] et rappelant les couleurs [[Rouge vert bleu|RVB]] des écrans) avec le chiffre « 5 » en blanc positionné à l'intérieur le long du côté droit<ref name="HabillageFR5">{{Ouvrage |auteur1=Julien Baldacchino |titre=France Télévisions |sous-titre=Histoires d'habillages |éditeur= |nature ouvrage=mémoire |année=2012 |pages totales=106 |isbn= |lire en ligne=https://dl.dropboxusercontent.com/u/7945714/FTV_MEMOIRE.pdf |format électronique=pdf}}.</ref>.
+
+Le {{date-|20 mars 2002}}, France 5 dévoile un nouvel [[Habillage (graphique)|habillage]] signé de l'agence View. Cet habillage met l'accent sur l'écriture et les alphabets. La flèche est aussi un élément fort de cet habillage, surtout présente dans les bandes-annonces des programmes. Les premiers jingles pub mêlant prises de vues réelles et images de synthèse sont rapidement remplacés car trop chers à produire. Les nouveaux jingles, mis à l'antenne en juin 2003, sont des animations de nuages de lettres sur des sons décalés. Plus tard, l'habillage doit être adapté au [[format 16/9]]<ref name="HabillageFR5"/>.
+
+Du 11 au 13 décembre 2004, France 5 fête ses 10 ans avec un habillage spécial<ref>{{Lien web|url=http://inatheque.ina.fr/doc/TV-RADIO/TV_2723214.001/france-5-a-10-ans?rang=1|titre=Notice "France 5 à 10 ans"|site=[[Inathèque]]}}</ref>. Les chiffres 10 s'exposent autour du logo à l'antenne et remplacent les lettres dans les jingles pub.
+
+Le {{date-|7 avril 2008}}, le logo de France 5 évolue avec l'ajout d'un effet en [[Trois dimensions|3D]]. De plus, l'habillage de la chaîne est optimisé pour le nouveau [[format 16/9]]<ref>{{Lien web |auteur=Alexandre Raveleau |titre=Nouvelle identité visuelle pour France Télévisions |url=http://www.toutelatele.com/nouvelle-identite-visuelle-pour-france-televisions-10173 |date=2 avril 2008 |site=[[toutelatele.com]] |consulté le=6 août 2016}}.</ref>{{,}}<ref name="HabillageFR5"/>. Si le logo en 3D apparaît à l'antenne, l'ancien en 2D reste toujours utilisé pour les imprimés de la chaîne<ref>{{Lien web |titre=Charte Graphique de France Télévisions |url=http://issuu.com/france5/docs/ftv_charte1109_a-i |date=septembre 2009 |site=issuu.com |consulté le=7 août 2016}}.</ref>.
+
+Le {{date-|4|octobre|2008}}, France 5 lance un nouvel habillage toujours signé de l'agence View, en conservant certains éléments, dont la flèche, avec cette fois un effet 3D. Les jingles pub, conçus par l'agence Luigi&Luigi, sont lancés le {{date-|5 janvier 2009||}} et sont désormais des séquences colorées et chorégraphiées sur des thèmes musicaux rappelant les comédies musicales des années 1930. Au fil des années, ils connaissent différentes évolutions. Les auto-promotions sont réalisées de toutes pièces, sans images des programmes<ref name="HabillageFR5"/>.
+
+Le {{date-|30 avril 2012}}, la chaîne se dote d'un nouvel d'habillage signé de Les Télécréateurs. Les séquences d'autopromotion font apparaître des rectangles de couleurs vives et une typographie noire sur carrés blancs. Les jingles pubs sont des montages rapides de plusieurs éléments visuels ayant un mouvement commun<ref name="HabillageFR5"/>{{,}}<ref>{{Lien web |titre=Le nouvel habillage de France 5 |url=http://blog.lenodal.com/index.php?/categories/11-France-5 |date=11 mai 2012 |site=blog.lenodal.com |consulté le=7 août 2016}}.</ref>.
+
+<gallery caption="Premier logo de France 5 (2002-2018)">
+Fichier:France5.svg|Logo de {{nobr|France 5}} du {{date-|7 janvier 2002}} au 7 avril 2008.
+Fichier:Logo France 5.svg|Logo de France 5 du {{date-|7 avril 2008}} au 29 janvier 2018. 
+</gallery>
+
+==== Depuis 2018 ====
+Le {{date|8|décembre|2017}}, [[France Télévisions]] dévoile les nouveaux logos de ses chaînes, qui sont mises à l'antenne le {{Date|29|janvier|2018}}. La couleur historique Vert, devient plus foncée. France 5 conserve cependant les jingles pub et certains éléments de l'habillage de 2012.
+
+Le {{date|4|janvier|2021}}, de nouveaux jingles pub et identitaires, signés de l'agence Motion Palace, sont lancés, dont chacun est composé de trois plans séquences partant d'un regard jusqu'à un plan très large dévoilant le vaste décors, accompagné par quelques notes de musique originale, avec pour but de créer une respiration positive. Tournés en 8k, en décors naturels et en studio, ces jingles, au nombre de 75, réunissent plus de 100 talents internationaux, artistes et sportifs de haut niveau<ref>{{Lien web|url=https://www.cbnews.fr/medias/image-france-5-renouvelle-son-habillage-avec-motion-palace-57572|titre=FRANCE 5 RENOUVELLE SON HABILLAGE AVEC MOTION PALACE|site=[[CB News]]|date=6 janvier 2021}}</ref>{{,}}<ref>{{Lien web|url=https://www.ozap.com/actu/france-5-adopte-un-nouvel-habillage/600467|titre=France 5 adopte un nouvel habillage|site=[[PureMédias]]|date=6 janvier 2021}}</ref>. L'autre partie de l'habillage (bande-annonce et auto-promotion) reste inchangée.
+
+<gallery caption="Deuxième logo de France 5 (2018-)">
+Fichier:France 5 2018.svg|Logo de France 5 depuis le 29 janvier 2018.
+Fichier:France 5 - logo 2018.svg|Logo alternatif de France 5 depuis le 29 janvier 2018.
+</gallery>
+
+==== Autres logos ====
+{{boîte déroulante/début|titre=Autres Logos de France 5}}
+<gallery>
+France 5 HD.svg|Logo de {{nobr|France 5 HD}} du {{date-|6 octobre 2011}} au {{date-|26 avril 2016}}.
+</gallery>
+{{boîte déroulante/fin}}
+
+=== Slogans ===
+* {{date-|Décembre 1994}} : « Éduquons ! C'est une insulte ? »<ref name="Croix161299">{{Lien web |auteur=Colette Boillon |titre=Cinq bougies pour La Cinquième |url=http://www.la-croix.com/Archives/1999-12-16/Cinq-bougies-pour-La-Cinquieme-_NP_-1999-12-16-489523 |date=16 décembre 1999 |site=le site de La Croix |consulté le=8 octobre 2016}}.</ref>
+* 1995 : « Vivre au {{s-|XXI|e}}. »
+* 2000 : « Télé bien curieuse. »<ref name="Croix161299"/>
+* {{date-|Septembre 2007}} : « Faisons connaissance ! »<ref>{{Lien web |auteur=Jérôme Roulet |titre=Faisons connaissance avec France 5 |url=http://www.toutelatele.com/faisons-connaissance-avec-france-5-7644 |date=24 août 2007 |site=toutelatele.com |consulté le=8 août 2016}}.</ref>
+* 2011 : « Explorer, étonner, éclairer. »
+* {{date-|Septembre 2013}} : « France 5, d'intérêt public. »<ref>{{Lien web |auteur=Benoit Daragon |titre=France 5 lance une campagne de pub à l'occasion de sa nouvelle signature |url=http://www.ozap.com/actu/france-5-lance-une-campagne-de-pub-a-l-occasion-de-sa-nouvelle-signature/447960 |date=3 juillet 2013 |site=[[PureMédias]] |consulté le=6 août 2016}}.</ref>
+
+== Organisation ==
+=== Dirigeants de France 5 ===
+France 5 est présidée depuis le {{date-|2 août 2000}} par le [[président-directeur général]] de [[France Télévisions]]. Depuis {{date-|janvier 2013}} et la suppression du poste de directeur général, la chaîne est dirigée par le directeur de l'antenne et des programmes<ref>{{Lien web |titre=France Télévisions: Pflimlin supprime les directions de chaîne |url=http://tempsreel.nouvelobs.com/topnews/20130128.AFP1929/france-televisions-pflimlin-supprime-les-directions-de-chaine.html |date=28 janvier 2013 |site=le site du [[L'Obs|Nouvel Observateur]] |consulté le=22 août 2016}}.</ref>.
+
+;Présidents-directeurs généraux
+* [[Jean-Marie Cavada]] : {{date-|13 décembre 1994}} - {{date-|16 avril 1997}}<ref name="INACinquieme"/> puis 16 octobre 1999 - 2 août 2000 ;
+* [[Jérôme Clément]] : {{date-|16 avril 1997}} - {{date-|16 octobre 1999}}<ref>{{Lien web |auteur=Odile Benyahia-Kouider |titre=Arte-la Cinquième font la chaîne. Jérôme Clément cumule depuis hier la présidence des deux chaînes |url=http://www.liberation.fr/medias/1997/04/17/arte-la-cinquieme-font-la-chaine-jerome-clement-cumule-depuis-hier-la-presidence-des-deux-chaines_202443 |date=17 avril 1997 |site=le site de [[Libération (journal)|Libération]] |consulté le=6 octobre 2016}}.</ref> ;
+* [[France Télévisions#Présidents-directeurs généraux|PDG de France Télévisions]] : depuis le {{date-|2 août 2000}}.
+
+;Directeurs généraux
+* [[Jean-Pierre Cottet]] : {{date-|13 septembre 2000}} - {{date-|2 février 2004}}<ref>{{Lien web |titre=Jean-Pierre Cottet, directeur général de La Cinquième |url=http://www.strategies.fr/actualites/medias/r60617W/jean-pierre-cottet-directeur-general-de-la-cinquieme.html |date=14 septembre 2000 |site=le site de [[Stratégies]] |consulté le=6 août 2016}}.</ref> ;
+* [[Daniel Goudineau]] : {{date-|3 février 2004}} - {{date-|24 août 2005}}<ref>{{Lien web |titre=Daniel Goudineau devient directeur général |url=http://tempsreel.nouvelobs.com/culture/20040128.OBS3277/daniel-goudineau-devient-directeur-general.html |date=3 février 2004 |site=le site du [[L'Obs|Nouvel Observateur]] |consulté le=6 août 2016}}.</ref> ;
+* [[Claude-Yves Robin]] : {{date-|25 août 2005}} - {{date-|octobre 2010}}<ref>{{Lien web |titre=Claude-Yves Robin, directeur général de France 5 |url=http://tempsreel.nouvelobs.com/medias/20050825.OBS7491/claude-yves-robin-directeur-general-de-france-5.html |date=25 août 2005 |site=le site du Nouvel Observateur |consulté le=6 août 2016}}.</ref> ;
+* [[Bruno Patino]] : {{date-|octobre 2010}} - {{date-|janvier 2013}}<ref>{{Lien web |auteur=Fernand Nouvet |titre=Pflimlin a nommé ses directeurs de chaîne |url=https://www.humanite.fr/27_10_2010-pflimlin-nomm%C3%A9-ses-directeurs-de-cha%C3%AEne-456575 |date=28 octobre 2010 |site=le site de [[L'Humanité]] |consulté le=6 août 2016}}.</ref>.
+
+;Directeurs de l'antenne et des programmes
+* {{Lien par élément|Q3173543}} : {{date-|13 décembre 1994}} - {{date-|29 mars 1996}}<ref name="Croix80797">{{Lien web |titre=Jean Mino devient directeur général adjoint de La Cinquième |url=http://www.la-croix.com/Archives/1997-07-08/Jean-Mino-devient-directeur-general-adjoint-de-La-Cinquieme-_NP_-1997-07-08-431617 |date=8 juillet 1997 |site=le site de [[La Croix]] |consulté le=8 octobre 2016}}.</ref> ;
+* [[Norbert Balit]] : {{date-|29 mars 1996}} - {{date-|1 août 1997}}<ref>{{Lien web |titre=Norbert Balit arrive sur La Cinquième |url=http://www.liberation.fr/medias/1996/03/29/norbert-balit-arrive-sur-la-cinquieme_164527 |date=29 mars 1996 |site=le site de Libération |consulté le=8 octobre 2016}}.</ref> ;
+* Jean Mino : {{date-|1 août 1997}} - {{date-|13 décembre 2000}}<ref name="Croix80797"/> ;
+* Geneviève Giard : {{date-|13 décembre 2000}} - {{date-|janvier 2004}}<ref>{{Lien web |titre=Geneviève Giard, directrice générale de France 3 |url=http://tempsreel.nouvelobs.com/medias/20050825.OBS7490/genevieve-giard-directrice-generale-de-france-3.html |date=25 août 2005 |site=le site du Nouvel Observateur |consulté le=8 août 2016}}.</ref> ;
+* [[Alexandre Michelin]] : {{date-|janvier 2004}} - {{date-|5 juin 2006}}<ref>{{Lien web |titre=France Télévisions: Alexandre Michelin, premier candidat déclaré à la présidence du groupe |url=https://www.20minutes.fr/television/1548855-20150225-france-televisions-alexandre-michelin-premier-candidat-declare-presidence-groupe |date=25 février 2015 |site=le site de [[20 minutes]] |consulté le=8 août 2016}}.</ref> ;
+* [[Philippe Vilamitjana]] : {{date-|6 juillet 2006}} - {{date-|octobre 2010}} <small>(intérim du {{date-|5 juin}} au {{date-|6 juillet 2006}})</small><ref>{{Lien web |titre=Le journaliste Philippe Vilamitjana a été nommé directeur de l'antenne et des programmes de France 5 |url=http://www.telesatellite.com/actu/18834-le-journaliste-philippe-vilamitjana-51-ans-ete-nomme-directeur-de-antenne.html |date=6 juillet 2006 |site=telesatellite.com |consulté le=8 août 2016}}.</ref> ;
+* Pierre Block de Friberg : {{date-|octobre 2010}} - {{date-|août 2015}}<ref>{{Lien web |auteur=Benjamin Meffre |titre=L'instoppable valse des patrons de chaînes à France Télévisions |url=http://www.ozap.com/actu/l-instoppable-valse-des-patrons-de-chaines-a-france-televisions/453015 |date=1 mai 2014 |site=[[PureMédias]] |consulté le=6 août 2016}}.</ref> ;
+* [[Michel Field]] : {{date-|août 2015}} - {{date-|7 décembre 2015}}<ref>{{Lien web |auteur=Christine Rousseau |titre=Michel Field : "Il n’est pas question que France 5 dorme pendant dix ans" |url=https://www.lemonde.fr/televisions-radio/article/2015/11/19/michel-field-il-n-est-pas-question-que-france-5-dorme-pendant-dix-ans_4813320_1655027.html |date=19 novembre 2016 |site=le site du [[Le Monde|Monde]] |consulté le=6 août 2016}}.</ref> ;
+* [[Caroline Got]] : {{date-|8 décembre 2015}} - {{date-|31 décembre 2015}}<ref>{{Lien web |auteur=Benjamin Meffre |titre=Nathalie Darrigrand en route pour la direction de France 5 |url=http://www.ozap.com/actu/nathalie-darrigrand-en-route-pour-la-direction-de-france-5/485557 |date=16 décembre 2015 |site=PureMédias |consulté le=8 août 2016}}.</ref> <small>(intérim)</small> ;
+* {{Lien par élément|Q105070974}} : du {{date-|1 janvier 2016}} à {{date-||janvier|2019}}<ref>{{Lien web |titre=France 5 a une nouvelle directrice: Nathalie Darrigrand |url=http://www.lexpress.fr/actualite/medias/france-5-a-une-nouvelle-directrice-nathalie-darrigrand_1746976.html date=17 décembre 2015 |date=17 décembre 2015 |site=le site de [[L'Express]] |consulté le=6 août 2016}}.</ref>.
+* {{Lien par élément|Q105071187}} : depuis {{Date-||janvier|2019}}<ref>[https://www.mediaclub.fr/les-membres/mouvements/sophiane-tilikete-devient-directeur-de-lantenne-de-france-5-2 « Sophiane Tilikete devient directeur de l’Antenne de France 5 »] sur mediaclub.fr, {{Date-|22 janvier 2019}}</ref>
+
+{{Saut|12px}}
+{{boîte déroulante/début|titre=Autres dirigeants |alignB=center |largeur=80%}}
+;Directeurs de la communication
+* [[Jacques Bouzerand]] : {{date-|13 décembre 1994}} - 2002<ref>{{Lien web |titre=Biographie de Jacques Bouzerand |url=https://www.whoswho.fr/decede/biographie-jacques-bouzerand_25943 |site=le site de [[Who's Who in France]] |consulté le=8 octobre 2016}}.</ref> ;
+* Marie-Anne Bernard : 2002 - {{date-|octobre 2006}} ;
+* Stéphane Bondoux : {{date-|octobre 2006}} - {{date-|mars 2008}}<ref>{{pdf}}{{Lien web |titre=Satellimag {{n°|83}} - avril 2008 |url=http://files.satellifax.com/satellimag/Satellimag-83.pdf |date=avril 2008 |site=satellifax.com |consulté le=8 août 2016}}.</ref> ;
+* Valérie Dissaux : {{date-|18 mars 2008}} - {{date-|janvier 2011}}<ref>{{Lien web |titre=Valérie Dissaux, directrice de la communication et du marketing de France 5 |url=http://www.strategies.fr/guides-annuaires/nominations/r96853W/valerie-dissaux-directrice-de-la-communication-et-du-marketing-de-france-5.html |date=18 mars 2008 |site=le site de Stratégies |consulté le=8 août 2016}}.</ref> ;
+* Laurence Cadenat : depuis {{date-|janvier 2011}}<ref>{{Lien web |titre=Laurence Cadenat |url=https://fr.linkedin.com/in/laurencecadenat8 |site=[[LinkedIn]] |consulté le=8 août 2016}}.</ref>.
+
+;Médiateurs
+* [[Daniel Duigou]] : {{date-|14 janvier 2007}} - {{date-|avril 2008}}<ref>{{Lien web |titre=Daniel Duigou a été nommé médiateur de France 5 |url=http://www.telesatellite.com/actu/21484-daniel-duigou-ete-nomme-mediateur-de-france.html |date=14 janvier 2007 |site=telesatellite.com |consulté le=8 août 2016}}.</ref> ;
+* Éric Martinet : depuis {{date-|avril 2008}}<ref>{{Lien web |titre=Éric Martinet, nouveau médiateur de France 5 |url=http://www.programme.tv/news/actu/1841-eric-martinet-nouveau-mediateur-de-france-5/ |date=14 avril 2008 |site=le site de [[Télé 2 semaines]] |consulté le=8 août 2016}}.</ref>.
+{{boîte déroulante/fin}}
+
+=== Capital ===
+De sa création le {{date-|1 février 1994}} à {{date-|juin 1997}}, La Cinquième est éditée par la société nationale de programme publique La Télévision du savoir, de la formation et de l'emploi, détenue à 100 % par l'[[France|État français]]. En {{date-|juin 1997}}, elle fusionne avec [[Arte France|La Sept-Arte]], le pôle français de la chaîne franco-allemande [[Arte]], au sein d'un [[groupement d'intérêt économique]] (GIE) dont le capital est toujours détenu à 100 % par l'État français.
+
+Le {{date-|7 janvier 2002}}, France 5 intègre la holding [[France Télévisions]] et redevient une société nationale de programme publique détenue à 100 % par l'État français.
+
+Le {{date-|4 janvier 2010}}, elle perd son statut de société pour devenir une simple chaîne éditée par la nouvelle entreprise commune, France Télévisions<ref>{{Lien web |titre=La réforme de l’audiovisuel public |url=http://www.culturecommunication.gouv.fr/Politiques-ministerielles/Audiovisuel/Sous-Dossiers-thematiques/Loi-n-2009-258-du-5-mars-2009-relative-a-la-communication-audiovisuelle-et-au-nouveau-service-public-de-la-television/La-reforme-de-l-audiovisuel-public |date=3 août 2009 |site=le site du [[Ministère de la Culture (France)|ministère de la Culture]] |consulté le=6 août 2016}}.</ref>, dont le capital est détenu à 100 % par l'État français via l'[[agence des participations de l'État]] (APE).
+
+=== Missions ===
+La loi {{n°|94-88}} du {{date-|1 février 1994}} définit les missions de la future La Cinquième.
+
+{{Citation bloc|Une société est chargée de la conception et de la programmation d'émissions de télévision à vocation nationale favorisant l'accès au savoir, à la formation et à l'emploi sur l'ensemble du territoire. La programmation doit spécialement viser à améliorer les moyens de connaissance et de défense de la langue française tout en illustrant l'expression de la francophonie dans le monde. Une partie significative de cette programmation doit être consacrée à des programmes de promotion pour des organismes favorisant l'accès au savoir.||Article 2 de la loi {{n°|94-88}} du {{date-|1 février 1994}}<ref>{{Lien web |titre=Loi {{n°|94-88}} du {{date-|1 février 1994}} modifiant la loi {{n°|86-1067}} du {{date-|30 septembre 1986}} relative à la liberté de communication |url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000363209&categorieLien=id |site=[[Légifrance]] |consulté le=9 octobre 2016}}.</ref>.}}
+
+Désormais, les missions de France 5 sont précisées dans le [[cahier des charges]] de [[France Télévisions]], fixé par le décret {{n°|2009-796}} du {{date-|23 juin 2009}}<ref>{{Lien web |titre=Les chaînes nationales gratuites |url=http://www.csa.fr/Television/Les-chaines-de-television/Les-chaines-hertziennes-terrestres/Les-chaines-nationales-gratuites |site=le site du [[Conseil supérieur de l'audiovisuel (France)|CSA]] |consulté le=11 août 2016}}.</ref>.
+
+{{Citation bloc|France 5 est la chaîne du décryptage, du partage des savoirs et de la transmission des connaissances. Ses programmes contribuent à la découverte et à la compréhension du monde, en s'attachant tout particulièrement aux registres des sciences et techniques, des sciences humaines, de l'environnement et du développement durable. Elle valorise l'accessibilité de ses contenus pédagogiques et de connaissances par tout moyen de communication électronique et développe la coopération avec les milieux éducatifs.||Article 3 du décret {{n°|2009-796}} du {{date-|23 juin 2009}}<ref>{{Lien web |titre=Décret {{n°|2009-796}} du 23 juin 2009 fixant le cahier des charges de la société nationale de programme France Télévisions |url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020788471 |site=Légifrance |consulté le=11 août 2016}}.</ref>.}}
+
+=== Siège ===
+Le siège de La Cinquième se situait dans l'immeuble « Le Gouverneur » au 10-14 rue Horace Vernet à [[Issy-les-Moulineaux]], dans les [[Hauts-de-Seine]] en région [[Île-de-France]]. La nécessité de contacts réguliers avec le monde culturel et éducatif ont justifié l'implantation du siège social de l'entreprise en région [[Paris|parisienne]]. En 1996, les {{unité|2800|m|2}} de surface ne suffisant plus à accueillir tous les services de la chaîne, cette dernière s'étend à de nouveaux locaux d'une surface de {{unité|244|m|2}} situés au 18 rue Horace Vernet<ref>{{Lien web |titre=Rapport 1997/1998 - L'avenir de l'audiovisuel à l'ère du numérique |url=http://www.senat.fr/rap/r97-4562/r97-45625.html |site=le site du [[Sénat (France)|Sénat]] |consulté le=9 octobre 2016}}.</ref>.
+
+=== Filiale ===
+Fondée en 1995, La Cinquième Développement, filiale à 100% de La Cinquième, a pour mission de développer des services en lignes ([[Minitel]], [[Internet]], [[Télétexte]]...), et des éditions de programmes éducatifs de la chaîne sur des supports multimédias, tels que des vidéocassettes, des livres, des DVD ou des CD-ROM<ref>{{Lien web|titre=Projet de loi de finances pour 1997|url=http://www.senat.fr/rap/l96-086-3-8/l96-086-3-897.html|site=senat.fr}}</ref>. À la suite de l'intégration de la chaîne à France Télévisions en août 2000, ces activités sont transférées aux filiales du groupe à la fin de cette même année<ref>{{Lien web|url=https://www.csa.fr/content/download/17411/319957/version/1/file/5e.pdf|titre=Bilan de La Cinquième - Année 2000 - document au format PDF, p.69.|site=[[Conseil supérieur de l'audiovisuel (France)|csa.fr]]|date=7 juin 2001}}</ref>.
+
+== Programmes ==
+{{Catégorie détaillée|Émission diffusée sur France 5|Émission diffusée sur La Cinquième}}
+
+À ses débuts, les programmes éducatifs de La Cinquième sont constitués de formats courts (jamais plus de {{unité|13|minutes}}) destinés à rapprocher la télévision et l'école. Ils cohabitent avec d'autres formats plus longs comme les magazines éducatifs ''[[Les Écrans du savoir]]'' et ''[[Va savoir (émission de télévision)|Va savoir]]'', le magazine sportif ''[[L'Esprit du sport]]'' ou encore ''Inventer demain'' qui donne la parole à des chercheurs. Organisée dans une forme de puzzle, la programmation de La Cinquième doit lutter pour que le commun des téléspectateurs y retrouve son compte. La chaîne lance des émissions emblématiques telles que ''[[Arrêt sur images]]'', ''[[Le Magazine de la santé|Le Journal de la santé]]'', ''[[Les Maternelles]]'', ''[[C dans l'air]]'' ou ''[[Silence, ça pousse !]]''.
+
+Aujourd'hui, la programmation de France 5 est essentiellement axée sur le [[documentaire]] et le magazine. Elle se différencie ainsi des autres chaînes de [[France Télévisions]] et de ses concurrentes nationales françaises.
+
+Les documentaires occupent 50 % de la grille des programmes, représentant environ {{unité|4200|heures}} diffusées chaque année. En 2014, la chaîne produit {{unité|351|heures}} de documentaires, dont {{heure|50}} avec des partenaires internationaux, et en achète {{unité|600|heures}}<ref>{{Lien web |auteur=Isabelle Repiton |titre=France 5, chaîne grand public de tous les documentaires |url=http://www.ina-expert.com/e-dossier-le-documentaire-un-genre-multiforme/france-5-chaine-grand-public-de-tous-les-documentaires.html |date=août 2013 |site=le site de l'[[Institut national de l'audiovisuel|INA]] |consulté le=16 août 2016}}.</ref>{{,}}<ref>{{Lien web |auteur=Cédric Mal |titre=Les documentaires à France Télévisions : bilan et perspectives 2015/2016 |url=http://leblogdocumentaire.fr/les-documentaires-a-france-televisions-bilan-et-perspectives-20152016/ |date=18 juin 2015 |site=leblogdocumentaire.fr |consulté le=16 août 2016}}.</ref>. Les documentaires sont unitaires ou font partie d'une collection telle que ''[[Des trains pas comme les autres]]'', ''[[J'irai dormir chez vous]]'', ''[[Le Doc du dimanche]]'', ''[[Les Routes de l'impossible]]'', ''[[Nus et culottés]]'' ou ''[[Sale temps pour la planète]]''.
+
+L'autre grande partie de la programmation de la chaîne consiste en des magazines. Elle diffuse chaque jour de la semaine le magazine de santé ''[[Le Magazine de la santé]]'', l'émission de débat ''[[C dans l'air]]'' et le talk-show ''[[C à vous]]''. D'autres magazines sont diffusés chaque semaine et chaque soir : ''[[La Grande Librairie]]'' sur la littérature, ''[[C ce soir|C ce Soir]]'' sur les débats des idées, ''[[Échappées belles]]'' sur la découverte, ''Science Grand Format'' sur les sciences et l'Histoire, et ''[[Silence, ça pousse !]]'' sur le jardinage.
+
+La chaîne diffuse occasionnellement de la [[fiction]], que ce soit des films, des [[téléfilm]]s ou des [[Série télévisée|séries télévisées]] françaises ou étrangères. Chaque jour, elle diffuse des [[Émission pour la jeunesse|séries jeunesses]] dans le cadre de son bloc de programme [[Zouzous]] puis [[Okoo]] depuis décembre 2019.
+
+Les [[Première partie de soirée|premières parties de soirée]] abordent chacune des thèmes différents à travers des documentaires ou des magazines. Le lundi est consacré au [[cinéma]], le mardi aux sujets de [[Société (sciences sociales)|société]] et de [[géopolitique]], le mercredi à la [[littérature]], le jeudi aux [[science]]s et à l'[[archéologie]], le vendredi à la Culture et aux Spectacles vivant, le samedi à la découverte et au [[voyage]], et le dimanche aux sujets de [[consommation]] et d'[[histoire]].
+
+== Présentateurs ==
+<!-- Liste des personnes ayant présenté ou animé une ou des émissions sur France 5. Ne pas ajouter les noms des simples chroniqueurs. -->
+
+=== Présentateurs actuels ===
+{{début de colonnes|taille=30}}
+* [[Daniel Abbou]] <small>(depuis 1994)</small>
+* [[Ali Baddou]] <small>(depuis 2017)</small>
+* [[Dominique Besnehard]] <small>(2004-2008/depuis 2016)</small>
+* [[François Busnel]] <small>(1999-2000/depuis 2008)</small>
+* [[Marina Carrère d'Encausse]] <small>(depuis 2000)</small>
+* [[Aurélie Casse]] <small>(depuis 2023)</small>
+* [[Hugo Clément]] <small>(depuis 2021)</small>
+* [[Michel Cymes]] <small>(depuis 1994)</small>
+* [[Philippe Gougler]] <small>(depuis 2011)</small>
+* [[Sandrine Herman]] <small>(depuis 1996)</small>
+* [[Thomas Isle]] <small>(depuis 2013)</small>
+* [[Sophie Jovillard]] <small>(depuis 2006)</small>
+* [[Anne-Élisabeth Lemoine]] <small>(depuis 2014)</small>
+* [[Stéphane Marie]] <small>(depuis 1998)</small>
+* [[Guillaume Mouton]] <small>(depuis 2012)</small>
+* [[Jérôme Pitorin]] <small>(depuis 2010)</small>
+* [[Karim Rissouli]] <small>(depuis 2016)</small>
+* [[Caroline Roux]] <small>(depuis 2012)</small>
+* [[Thomas Snégaroff]] <small>(depuis 2021)</small>
+* [[Mélanie Taravant]] <small>(depuis 2015)</small>
+* [[Ronald Guintrange]] <small>(depuis 2024)</small>
+* [[Nans Thomassey]] <small>(depuis 2012)</small>
+* [[Sophie Ducasse|Tiga]] <small>(depuis 2018)</small>
+* [[Carole Tolila]] <small>(depuis 2013)</small>
+* [[Augustin Trapenard]] <small>(depuis 2022)</small>
+* [[Laurent Valo]] <small>(depuis 2011)</small>
+* [[Mathieu Vidard]] <small>(depuis 2017)</small>
+* [[Isabelle Voizeux]] <small>(depuis 2004)</small>
+{{fin de colonnes}}
+
+=== Anciens présentateurs ===
+{{début de colonnes|taille=30}}
+* [[Aline Afanoukoé]] <small>(2005-2007)</small>
+* [[Axel de Tarlé]] <small>(2010-2023)</small> 
+* [[Alexandre Adler]] <small>(1997-2001)</small> 
+* [[Safia Allag]] <small>(2002-2015)</small>
+* [[Paul Amar]] <small>(2001-2013)</small>
+* [[Julie Andrieu]] <small>(2007-2012)</small>
+* [[Stéphane Basset]] <small>(2008-2009)</small>
+* [[Thomas Baudeau]] <small>(2009-2015)</small>
+* [[Frédéric Benudis]] <small>(2005)</small>
+* [[Maïtena Biraben]] <small>(2001-2004)</small>
+* [[Sidonie Bonnec]] <small>(2015-2016)</small>
+* [[Sacha Bollet]] <small>(2012-2013)</small>
+* [[Jean-Claude Bourret]] <small>(1994-1997)</small>
+* [[Stéphane Bouillaud]] <small>(2006-2007)</small>
+* [[Noëlle Bréham]] <small>(1998-2015)</small>
+* [[Serge Bromberg]] <small>(1995-2001)</small>
+* [[Daphné Bürki]] <small>(2011-2012)</small>
+* [[Yves Calvi]] <small>(2001-2016)</small>
+* [[Benjamin Castaldi]] <small>(1997-1998)</small>
+* [[Jean-Marie Castille]] <small>(1996-1999)</small> 
+* [[Hervé Chabalier]] <small>(2006-2008)</small>
+* [[Raphaël de Casabianca (animateur)|Raphaël De Casabianca]] <small>(2013-2018)</small>
+* [[Élise Chassaing]] <small>(2014-2015)</small>
+* [[Vincent Chatelain]] <small>(2011-2015)</small>
+* [[Miruna Coca-Cozma]] <small>(2005)</small>
+* [[Annick Cojean]] <small>(2007-2016)</small>
+* [[Ray Cokes]] <small>(2004-2005)</small>
+* [[Frédéric Courant]] <small>(1999-2000)</small>
+* [[Frédérique Courtadon]] <small>(2007-2008)</small>
+* [[Nicolas Demorand]] <small>(2009-2011)</small>
+* [[Jean-Sébastien Desbordes]] <small>(2015)</small>
+* [[Cendrine Dominguez]] <small>(1999)</small>
+* [[Marie Drucker]] <small>(2011)</small>
+* [[Églantine Éméyé]] <small>(2009-2014)</small>
+* [[Frédéric Ferney]] <small>(1996-2008)</small>
+* [[Claire Fournier]] <small>(2008-2014)</small>
+* [[Carole Gaessler]] <small>(2004-2008)</small>
+* [[Sophie Gastrin]] <small>(2009-2011)</small>
+* [[Hélène Gateau]] <small>(2014-2015)</small>
+* [[Emmanuelle Gaume]] <small>(1996-1997)</small>
+* [[Franz-Olivier Giesbert]] <small>(2006-2009/2011-2015)</small>
+* [[Laurent Goumarre]] <small>(2011-2015)</small>
+* [[Jamy Gourmaud]] <small>(2000/2021-2022)</small>
+* [[Jean-Luc Hees]] <small>(1994-2000)</small>
+* [[Pascal Hernandez]] <small>(1998-2004)</small>
+* [[Fred Hissbach]] <small>(2012-2013)</small>
+* [[Thomas Hugues]] <small>(2008-2016)</small>
+* [[Alex Jaffray]] <small>(2000-2001)</small>
+* [[Laurent Joffrin]] <small>(2002-2010)</small>
+* [[Gérard Klein (acteur)|Gérard Klein]] <small>(1994-2004)</small>
+* [[Maya Lauqué]] <small>(2013-2021)</small>
+* [[Séverine Labat]] <small>(1999-2001)</small>
+* [[Françoise Laborde (journaliste)|Françoise Laborde]] <small>(2002-2005)</small>
+* [[Chakib Lahssaini]] <small>(2004-2005)</small>
+* [[Anne-Sophie Lapix]] <small>(2013-2017)</small>
+* [[Nathalie Le Breton]] <small>(1994-2016)</small>
+* [[Gaël Leforestier]] <small>(1998-2000)</small>
+* [[Annie Lemoine]] <small>(1998-2001)</small>
+* [[Frédéric Lopez]] <small>(2004-2005)</small>
+* [[Véronika Loubry]] <small>(1994-1995)</small>
+* [[David Lowe (acteur)|David Lowe]] <small>(2011-2016)</small>
+* [[Laurent Maistret]] <small>(2015-2016)</small>
+* [[André Manoukian]] <small>(2008-2011)</small>
+* [[Karine Le Marchand]] <small>(2004-2009)</small>
+* [[Juan Massenya]] <small>(2009-2011)</small>
+* [[Sophie Massieu]] <small>(2001)</small>
+* [[Laura Massis]] <small>(1995-1999)</small>
+* [[Gérard Miller]] <small>(2001)</small>
+* [[Annabelle Milot]] <small>(1994-1995)</small>
+* [[Olivier Minne]] <small>(2000-2001)</small>
+* [[Serge Moati]] <small>(1999-2011)</small>
+* [[Hélène Molière]] <small>(2000-2001)</small>
+* Marie Montuir <small>(1997-2001)</small>
+* [[Virginie Mouzat]] <small>(2004-2005)</small>
+* [[Géraldine Muhlmann]] <small>(2011-2012)</small>
+* [[Antoine de Maximy]] <small>(2001-2002/2006-2021)</small>
+* [[Vincent Nguyen (journaliste)|Vincent Nguyen]] <small>(2015)</small>
+* [[Peggy Olmi]] <small>(2003-2007)</small>
+* [[Valérie Pascale]] <small>(1997-1998)</small>
+* [[Jacques Pessis]] <small>(1996-2004)</small>
+* [[Daniel Picouly]] <small>(2005-2008/2009-2011)</small>
+* [[Laurence Piquet]] <small>(2006-2015)</small>
+* [[Plantu]] <small>(1999-2000)</small>
+* [[Patrick Poivre d'Arvor]] <small>(2009-2013)</small>
+* [[David Pujadas]] <small>(2006-2007)</small>
+* [[François Rollin]] <small>(2011-2012)</small>
+* [[Marcel Rufo]] <small>(2009-2014)</small>
+* [[Daniel Schneidermann]] <small>(1995-2007)</small>
+* [[Alessandra Sublet]] <small>(2009-2014)</small>
+* [[Maxime Switek]] <small> (2013-2020)</small> 
+* [[Élizabeth Tchoungui]] <small>(2000-2006/2009-2011)</small>
+* [[Tété]] <small>(2008-2011)</small>
+* [[Hervé This]] <small>(2002)</small>
+* [[Bruce Toussaint]] <small>(2016-2018)</small>
+* [[Stéphane Thébaut]] <small>(2003-2020)</small>
+* [[Benoît Thévenet]] <small>(2002-2018)</small>
+* [[Elsa Vecchi]] <small>(2005-2007)</small>
+* [[Julia Vignali]] <small>(2012-2015)</small>
+* [[Marine Vignes]] <small>(1994-1995)</small>
+* [[Cyril Viguier]] <small>(1995-1997)</small>
+* [[Vinvin]] <small>(2011-2013)</small>
+{{fin de colonnes}}
+
+== Audiences ==
+=== Audiences en France ===
+==== Audiences générales ====
+D'après [[Médiamétrie]], en 2016, France 5 est la cinquième chaîne de télévision la plus regardée de France, ex-æquo avec [[C8 (chaîne de télévision)|C8]], avec une part d'[[Audience (média)|audience]] moyenne annuelle de 3,4 %<ref>{{Lien web |auteur=Charles Decant |titre=Audiences annuelles 2016 : TF1, France 2, France 3 et Canal+ au plus bas |url=http://www.ozap.com/actu/audiences-annuelles-2016-tf1-france-2-france-3-et-canal-au-plus-bas/516025 |date=2 janvier 2017 |site=ozap.com |consulté le=5 janvier 2017}}.</ref>.
+
+La chaîne conserve au fil des ans sa place de sixième chaîne nationale de France avec une audience stabilisée depuis 2004 entre 3 et 3,5 %<ref>{{Lien web |auteur=Julien Lalande |titre=Les audiences des chaînes de télévision en 2012 : le grand bilan |url=http://www.ozap.com/actu/les-audiences-des-chaines-de-television-en-2012-le-grand-bilan-1-3/444797 |date=2 janvier 2013 |site=ozap.com |consulté le=14 août 2016}}.</ref>{{,}}<ref>{{Lien web |auteur=Benoit Daragon |titre=Audiences : le bilan annuel 2013 des chaînes de télévision gratuites |url=http://www.ozap.com/actu/audiences-le-bilan-annuel-des-chaines-de-television-gratuites/450942 |date=6 janvier 2014 |site=PureMédias |consulté le=14 août 2016}}.</ref>{{,}}<ref>{{Lien web |auteur=Benoit Daragon |titre=Audiences : Le grand bilan 2014 des chaînes de télévision gratuites |url=http://www.ozap.com/actu/audiences-le-grand-bilan-2014-des-chaines-de-television-gratuites/460535 |date=30 décembre 2014 |site=PureMédias |consulté le=14 août 2016}}.</ref>{{,}}<ref>{{Lien web |auteur=Benoit Daragon |titre=Audiences : Le grand bilan 2015 des chaînes de télévision gratuites |url=http://www.ozap.com/actu/audiences-le-grand-bilan-2015-des-chaines-de-television-gratuites/486712 |date=4 janvier 2016 |site=PureMédias |consulté le=14 août 2016}}.</ref>. Elle est la seule des chaînes dites « historiques » à avoir résisté à l'arrivée de nouvelles chaînes concurrentes avec le lancement de la [[Télévision numérique terrestre en France|télévision numérique terrestre]] (TNT) en 2005, dont la mesure d'audience débute en 2007.
+
+En 2017, France 5 reste la cinquième chaîne la plus regardée en France, avec 3,6 % de parts d'audience sur les neuf premiers mois de l'année, soit sa meilleure année historique (hors canal partagé).
+
+{| class="wikitable" style="margin:auto; background:#ffffff; text-align:center;"
+|+Audiences annuelles en part de marché<br/>de La Cinquième <small>(1995-2001)</small> puis de France 5 <small>(2002-2006)</small><ref name="Mediamétrie"/>
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1995
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1996
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1997
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1998
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1999
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 2000
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 2001
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2002
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2003
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2004
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2005
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2006
+|-
+ | 1,3 %** || 1,6 % || 1,8 % || 1,9 % || 1,9 % || 1,8 % || 1,9 % || 2,3 % || 2,9 % || 3,0 % || 3,1 % || 3,1 %
+|}
+{{saut|20px}}
+{| class="wikitable" style="width:100%; margin:auto; background:#ffffff; text-align:center;"
+|+Audiences mensuelles et annuelles en part de marché de France 5
+ ! width="35" style="background:#ffffff; color:#ffffff;" scope="col" |
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Janvier
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Février
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Mars
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Avril
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Mai
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Juin
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Juillet
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Août
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Septembre
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Octobre
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Novembre
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Décembre
+ ! width="75" style="background:#00d282; color:#ffffff;" scope="col" | Moyenne annuelle
+ ! width="65" style="background:#00d282; color:#ffffff;" scope="col" | Rang
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2007 à la télévision|2007]]
+ | || || || || || || || || || || || || 3,3 % || rowspan="2"|{{6e}}
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2008 à la télévision|2008]]
+ | || || || || || || || || || || || || 3,0 %
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2009 à la télévision|2009]]
+ | || || || || || || || || || || || || 3,1 % || {{5e}}
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2010 à la télévision|2010]]
+ | || || || || || || || || colspan="2"| 3,2 % || 3,4 % || bgcolor="#00b300" | 3,6 % || 3,2 % || {{6e}}
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2011 à la télévision|2011]]
+ | 3,4 % || bgcolor="#00b300" | 3,5 % || 3,3 % || bgcolor="#ff3333" | 3,1 % || 3,3 % || 3,2 % || bgcolor="#ff3333" | 3,1 % || colspan="2"| 3,4 % || 3,2 % || bgcolor="#00b300" colspan="2" | 3,5 % || 3,3 % || {{7e}}
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2012 à la télévision|2012]]
+ | colspan="2"| 3,7 % || 3,5 % || 3,6 % || 3,5 % || bgcolor="#00b300" | 3,8 %* || 3,3 % || bgcolor="#ff3333" | 3,2 % || 3,4 % || 3,5 % || colspan="2"| 3,6 % || 3,5 % || rowspan="4"|{{6e}}
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2013 à la télévision|2013]]
+ | bgcolor="#00b300" colspan="6" | 3,4 % || bgcolor="#ff3333" | 3,0 % || colspan="3"| 3,2 % || 3,3 % || 3,2 % || 3,3 %
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2014 à la télévision|2014]]
+ | 3,3 % || 3,1 % || 3,2 % || 3,3 % || colspan="2" | 3,2 % || bgcolor="#ff3333" | 2,7 %** || 3,0 % || 3,5 % || 3,4 % || 3,5 % || bgcolor="#00b300" | 3,6 % || 3,2 %
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2015 à la télévision|2015]]
+ | colspan="2" | 3,5 % || 3,4 % || 3,3 % || colspan="2"| 3,4 % || bgcolor="#ff3333" | 3,1 % || 3,2 % || 3,3 % || 3,4 % ||  3,5 % || bgcolor="#00b300" |3,6 % || 3,4 %
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2016 à la télévision|2016]]
+ | bgcolor="#00b300" | 3,7 % || 3,5 % || 3,4 % || 3,3 % || colspan="2"| 3,4 % || bgcolor="#ff3333" colspan="2" | 2,9 % || 3,5 % || colspan="3"| 3,6 % || 3,4 % || rowspan="7" |{{5e}}
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2017 à la télévision|2017]]
+ | bgcolor="#00b300" colspan="3" | 3,7 %  || 3,5 %||3,6 %||bgcolor="#00b300" |3,7 % ||bgcolor="#ff3333" |3,3 % ||3,4 % ||3,5 % || colspan="3" | 3,6 % ||3,6 %*
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2018 à la télévision|2018]]
+ |3,6 % ||colspan="2"| 3,7 % || 3,5 %<ref>{{Article|auteur1=|titre=Audiences avril : TF1 se maintient, France 2 recule, M6 en difficulté, W9 remonte|périodique=ozap.com|date=30 Avril 2018|issn=|lire en ligne=http://www.ozap.com/actu/audiences-avril-tf1-se-maintient-france-2-recule-m6-en-difficulte-w9-remonte/557229|consulté le=2018-04-30|pages=}}</ref> || 3,6 %<ref>{{Article|auteur1=|titre=Audiences mai : TF1 sous les 20%, France 2 en forme, M6 souffre encore, RMC Découverte au plus haut|périodique=ozap.com|date=4 Juin 2018|issn=|lire en ligne=http://www.ozap.com/actu/audiences-mai-tf1-sous-les-20-france-2-en-forme-m6-souffre-encore-rmc-decouverte-au-plus-haut/560244|consulté le=2018-06-04|pages=}}</ref> || 3,5 %<ref>{{Article|titre=Audiences juin : TF1 s'envole grâce à la Coupe du monde, France 3 résiste bien, M6 au plus bas|périodique=ozap.com|date=2 Juillet 2018|lire en ligne=http://www.ozap.com/actu/audiences-juin-tf1-s-envole-grace-a-la-coupe-du-monde-france-3-resiste-bien-m6-au-plus-bas/562348|consulté le=2018-07-02}}</ref> ||bgcolor="#ff3333"| 2,9 %<ref>{{Article|titre=Audiences juillet : TF1 au plus haut depuis 2015 grâce à la Coupe du monde, pire mois historique pour M6 et Canal+|périodique=ozap.com|date=1{{er}} Août 2018|lire en ligne=http://www.ozap.com/actu/audiences-juillet-tf1-au-plus-haut-depuis-2015-grace-a-la-coupe-du-monde-pire-mois-historique-pour-m6-et-canal/563996|consulté le=2018-08-01}}</ref> || 3,3 %<ref>{{Article|titre=Audiences août : TF1 repasse sous les 20%, RMC Découverte, Numéro 23, Chérie 25 et Franceinfo au plus haut|périodique=ozap.com|date=3 Septembre 2018|lire en ligne=http://www.ozap.com/actu/audiences-aout-tf1-repasse-sous-les-20-rmc-decouverte-numero-23-cherie-25-et-franceinfo-au-plus-haut/565952|consulté le=2018-09-03}}</ref> || 3,4 %<ref>{{Article|titre=Audiences septembre : TF1 leader en légère hausse, France 2 progresse fortement, M6 repasse devant France 3|périodique=ozap.com|date={{1er}} Octobre 2018|lire en ligne=http://www.ozap.com/actu/audiences-septembre-tf1-en-legere-hausse-france-2-progresse-fortement-m6-repasse-devant-france-3/567524|consulté le=2018-10-01}}</ref> || 3,5 %<ref>{{Article|titre=Audiences octobre : TF1 leader en forte hausse, France 3 en forme, TFX et 6ter en difficulté|périodique=ozap.com|date=29 Octobre 2018|lire en ligne=http://www.ozap.com/actu/audiences-octobre-tf1-leader-en-forte-hausse-france-3-en-forme-tfx-et-6ter-en-difficulte/569300|consulté le=2018-10-29}}</ref> || 3,6 % ||bgcolor="#00b300" | 3,8 %* || 3,5 %
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2019 à la télévision|2019]]
+|bgcolor="#00b300" |3,8 %*
+|3,7 %<ref>{{Lien web|titre=Audiences février : TF1 stable sous les 20%, M6 double France 3 en forte baisse, Canal+ et LCI en forme|url=https://www.ozap.com/actu/audiences-fevrier-tf1-stable-sous-les-20-m6-double-france-3-en-forte-baisse-canal-et-lci-en-forme/575504|site=ozap.com|consulté le=2019-03-06}}</ref>
+|bgcolor="#00b300" |3,8 %*
+|3,5 %
+|colspan="2" |3,6 %<ref>{{Lien web|titre=Audiences juin : TF1 garde la tête, France 2 en forme, M6 faiblit, TMC puissante avec la Coupe du monde féminine|url=https://www.ozap.com/actu/audiences-juin-tf1-garde-la-tete-france-2-en-forme-m6-faiblit-tmc-puissante-grace-aux-bleues/580589|site=[[ozap.com]]|consulté le=2019-07-01}}.</ref>
+|bgcolor="#ff3333" |3,2 %<ref>{{Lien web|titre=Audiences juillet : TF1 à son plus bas historique, France 2 au plus haut depuis 2010, C8 et Gulli souffrent|url=https://www.ozap.com/actu/audiences-juillet-tf1-a-son-plus-bas-historique-france-2-au-plus-haut-depuis-2010-c8-et-gulli-souffrent/581654|site=[[ozap.com]]|consulté le=2019-07-29}}.</ref>
+|3,3 %
+|3,4 %
+|colspan="3" | 3,7 %
+|3,6 %*
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2020 à la télévision|2020]]
+|3,6 %<ref>{{Lien web|titre=Audiences janvier : TF1 à l'un de ses plus bas niveaux, France 2 en grande forme, Gulli et CStar en difficultés|url=https://www.ozap.com/actu/audiences-janvier-tf1-a-l-un-de-ses-plus-bas-niveaux-france-2-en-grande-forme-gulli-et-cstar-en-difficultes/588904|site=ozap.com|consulté le=2020-02-03}}</ref>
+|bgcolor="#00b300" |3,8 %*<ref>{{Lien web|titre=Audiences février : TF1 leader, France 2 en forme, France 5 et RMC Story ai plus haut, NRJ 12 au plus bas depuis 2009|url=https://www.ozap.com/actu/audiences-fevrier-tf1-leader-france-2-en-forme-france-5-et-rmc-story-au-plus-haut-nrj-12-au-plus-bas-depuis-2009/589966|site=ozap.com|consulté le=2020-03-02}}</ref>
+|3,7 %<ref>{{Lien web|titre=Audiences mars : TF1 leader en baisse, France 2 brille, record historique pour BFMTV, LCI et Franceinfo|url=https://www.ozap.com/actu/audiences-mars-tf1-leader-en-baisse-france-2-brille-record-historique-pour-bfmtv-lci-et-franceinfo/591280|site=ozap.com|consulté le=2020-03-30}}</ref>
+|3,4 %<ref>{{Lien web|titre=Audiences avril : TF1 petit leader, France 2 en forme, M6 reprend des couleurs, Arte, RMC Découverte et LCI au plus haut|url=https://www.ozap.com/actu/audiences-avril-tf1-petit-leader-france-2-en-forme-m6-reprend-des-couleurs-arte-rmc-decouverte-et-lci-au-plus-haut/592642|site=ozap.com|consulté le=2020-05-04}}</ref>
+|3,3 %<ref>{{Lien web|titre=Audiences mai : TF1 reprend des couleurs, F2 se tasse, F3, M6, BFMTV, les RMC et LCI en forme, F4 au plus bas|url=https://www.ozap.com/actu/audiences-mai-tf1-reprend-des-couleurs-f2-se-tasse-f3-m6-bfmtv-les-rmc-et-lci-en-forme-f4-au-plus-bas/593572|site=ozap.com|consulté le=2020-06-01}}</ref>
+|3,6 %<ref>{{Lien web|titre=Audiences juin : TF1 leader en baisse, France 3 et W9 en forme, Arte et RMC Story au top|url=https://www.ozap.com/actu/audiences-juin-tf1-leader-en-baisse-france-3-et-w9-en-forme-arte-et-rmc-story-au-top/594583|site=ozap.com|consulté le=2020-06-29}}</ref>
+|colspan="2" bgcolor="#ff3333" | 3,2 %<ref>{{Lien web|titre=Audiences juillet : TF1 leader, M6 au plus bas, records historiques pour Arte, les RMC, TF1SF et Franceinfo|url=https://www.ozap.com/actu/audiences-juillet-tf1-leader-m6-au-plus-bas-records-historiques-pour-arte-les-rmc-tf1sf-et-franceinfo/595699|site=ozap.com|consulté le=2020-08-03}}</ref>
+|3,3 %<ref>{{Lien web|titre=Audiences septembre : TF1 petit leader, F2 et F3 très en forme, C8 battue par TMC, W9, Arte et BFMTV, CNews au top|url=https://www.ozap.com/actu/audiences-septembre-tf1-petit-leader-f2-et-f3-tres-en-forme-c8-battue-par-tmc-w9-arte-et-bfmtv-cnews-au-top/597352|site=ozap.com|consulté le=2020-09-29}}</ref>
+|3,6 %<ref>{{Lien web|titre=Audiences octobre : TF1 leader, M6 et BFMTV en forme, Arte au top, record historique pour CNews, F4 et C8 dévissent|url=https://www.ozap.com/actu/audiences-octobre-tf1-leader-m6-et-bfmtv-en-forme-arte-au-top-record-historique-pour-cnews-f4-et-c8-devissent/598433|site=ozap.com|consulté le=2020-11-02}}</ref>
+|3,7 %<ref>{{Lien web|titre=Audiences novembre : TF1 leader au-dessus des 20%, M6 stable, les chaînes info au top, France 4 s'enfonce|url=https://www.ozap.com/actu/audiences-novembre-tf1-leader-au-dessus-des-20-m6-stable-les-chaines-info-au-top-france-4-s-enfonce/599405|site=ozap.com|consulté le=2020-12-01}}</ref>
+|3,5 %<ref>{{Lien web|titre=Audiences décembre : TF1 et M6 au plus haut en 2020, Arte et TMC à égalité, CNews en hausse, France 4 chute|url=https://www.ozap.com/actu/audiences-decembre-tf1-et-m6-au-plus-haut-en-2020-arte-et-tmc-a-egalite-cnews-en-hausse-france-4-chute/600203|site=ozap.com|consulté le=2020-12-30}}</ref>
+|3,5 %<ref>{{Lien web|titre=Audiences annuelles 2020 : TF1 petit leader, F2, F3 et M6 en hausse, les chaînes info au top, C8 dévisse|url=https://www.ozap.com/actu/audiences-annuelles-2020-tf1-petit-leader-f2-f3-et-m6-en-hausse-les-chaines-info-au-top-c8-devisse/600029|site=ozap.com|consulté le=2021-01-04}}</ref>
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2021 à la télévision|2021]]
+|bgcolor="#00B300" |3,6 %<ref>{{Lien web|auteur=|titre=Audiences janvier : TF1 en forme, BFMTV {{6e}} chaîne de France devant Arte et TMC, record historique pour CNews|url=https://www.ozap.com/actu/audiences-janvier-tf1-en-forme-bfmtv-6e-chaine-de-france-devant-arte-et-tmc-record-historique-pour-cnews/601313|site=ozap.com|consulté le=2021-02-01}}</ref>
+|colspan="2"|3,3 %<ref>{{Lien web|titre=Audiences février : TF1 leader en forme, F2 en hausse, M6 au top grimpe sur le podium, Arte et CNews survitaminées|url=https://www.ozap.com/actu/audiences-fevrier-tf1-leader-en-forme-f2-en-hausse-m6-au-top-grimpe-sur-le-podium-arte-et-cnews-survitaminees/602193|site=ozap.com|consulté le=2021-03-01}}</ref>{{,}}<ref>{{Lien web|titre=Audiences mars : TF1 à la fête, M6 au top sur les FRDA-50, record historique égalé pour CNews, France 4 en souffrance|url=https://www.ozap.com/actu/audiences-mars-tf1-a-la-fete-m6-au-top-sur-les-frda-50-record-historique-egale-pour-cnews-france-4-en-souffrance/603093|site=ozap.com|consulté le=2021-03-29}}</ref>
+|colspan="2"|3,2 %<ref>{{Lien web|titre=Audiences avril : TF1 et M6 en forme, France 2 stable, France 5 {{5e}} mais en baisse, BFMTV agrandit l'écart avec CNews|url=https://www.ozap.com/actu/audiences-avril-tf1-et-m6-en-forme-france-2-stable-france-5-5e-mais-en-baisse-bfmtv-agrandit-l-ecart-avec-cnews/604188|site=ozap.com|consulté le=2021-05-03}}</ref>{{,}}<ref>{{Lien web|titre=Audiences mai : TF1 frôle les 20%, France 2 en forme, M6 et F3 au coude-à-coude, record historique pour CNews|url=https://www.ozap.com/actu/audiences-mai-tf1-frole-les-20-france-2-en-forme-m6-et-f3-au-coude-a-coude-record-historique-pour-cnews/605076|site=ozap.com|consulté le=2021-05-31}}</ref>
+|3,1 %<ref>{{Lien web|titre=Audiences juin : TF1 petit leader, France 2 et M6 bondissent, TMC bat France 5, BFMTV creuse l'écart avec CNews|url=https://www.ozap.com/actu/audiences-juin-tf1-petit-leader-france-2-et-m6-bondissent-tmc-bat-france-5-bfmtv-creuse-l-ecart-avec-cnews/606015|site=ozap.com|consulté le=2021-06-28}}</ref>
+|bgcolor="#FF3333" | 3,0 %<ref>{{Lien web|titre=Audiences juillet : TF1 solide, France 2 et France 3 s'envolent, M6 faiblarde, BFMTV tient en respect CNews|url=https://www.ozap.com/actu/audiences-juillet-tf1-solide-france-2-et-france-3-s-envolent-m6-faiblarde-bfmtv-tient-en-respect-cnews/607104|site=ozap.com|consulté le=2021-08-02}}</ref>
+|3,4 %<ref>{{Lien web|titre=Audiences août : TF1 recule, F2 et F3 à un bon niveau, M6 en difficulté, records pour BFMTV et CNews|url=https://www.ozap.com/actu/audiences-aout-tf1-recule-f2-et-f3-a-un-bon-niveau-m6-en-difficulte-records-pour-bfmtv-et-cnews/607944|site=ozap.com|consulté le=2021-08-30}}</ref>
+|colspan="2" |3,3 %<ref>{{Lien web|titre=Audiences septembre : TF1 solide leader creuse l'écart, F2 et F3 souffrent, rentrée record pour BFMTV et CNews|url=https://www.ozap.com/actu/audiences-septembre-tf1-solide-leader-creuse-l-ecart-f2-et-f3-souffrent-rentree-record-pour-bfmtv-et-cnews/609087|site=ozap.com|consulté le=2021-10-04}}</ref>{{,}}<ref>{{Lien web|titre=Audiences octobre : TF1 solide leader, M6 double F3, C8 en forme, CNews se rapproche de BFMTV|url=https://www.ozap.com/actu/audiences-octobre-tf1-solide-leader-m6-double-f3-c8-en-forme-cnews-se-rapproche-de-bfmtv/610047|site=ozap.com|consulté le=2021-11-02}}</ref>
+|3,5 %<ref>{{Lien web|titre=Audiences novembre : TF1 leader mais en baisse, F2 au top, F3 en repli, C8 et Cnews en forme |url=https://www.ozap.com/actu/audiences-novembre-tf1-leader-mais-en-baisse-f2-au-top-f3-en-repli-c8-et-cnews-en-forme/611001 |site=ozap.com |consulté le=2021-12-05}}</ref>
+|bgcolor="#00B300"|3,6 %<ref>{{Lien web |langue=fr |titre=Audiences décembre : TF1 proche de son plus bas historique, F2 et F5 paradent, M6 souffre, les chaînes infos en hausse |url=https://www.ozap.com/actu/audiences-decembre-tf1-proche-de-son-plus-bas-historique-f2-et-f5-paradent-m6-souffre-les-chaines-info-en-hausse/611109 |site=ozap.com |consulté le=2022-01-03}}</ref>
+|3,3 %<ref>{{Lien web |langue=fr |titre=Audiences annuelles 2021 : TF1 leader en hausse, F2 au top réduit l'écart, records historiques pour CNews et RMC Story |url=https://www.ozap.com/actu/audiences-annuelles-2021-tf1-leader-en-hausse-f2-au-top-reduit-l-ecart-records-historiques-pour-cnews-et-rmc-story/611742 |site=ozap.com |consulté le=2022-01-05}}</ref>
+|-
+ ! scope="row" style="background:#ffffff; text-align:center;"| [[2022 à la télévision|2022]]
+|3,7 %<ref>{{Lien web |langue=fr |titre=Audiences janvier : TF1 leader très faible, France 2 et France 3 à la fête, M6 en baisse, C8 et TMC à égalité |url=https://www.ozap.com/actu/audiences-janvier-tf1-leader-tres-faible-france-2-et-france-3-a-la-fete-m6-en-baisse-c8-et-tmc-a-egalite/613200 |site=ozap.com |consulté le=2022-02-01}}</ref>
+|3,6 %<ref>{{Lien web |langue=fr |titre=Audiences février : TF1 leader égale son plus bas historique, F2 et F3 boostées par les JO, les chaînes info au top |url=https://www.ozap.com/actu/audiences-fevrier-tf1-leader-egale-son-plus-bas-historique-f2-et-f3-boostees-par-les-jo-les-chaines-info-au-top/614181 |site=ozap.com |consulté le=2022-03-01}}</ref>
+|bgcolor="#00B300"|3,8 %*<ref>{{Lien web |langue=fr |titre=Audiences mars : TF1 en petite forme, France 3 et M6 font jeu égal, records historiques pour les chaînes info |url=https://www.ozap.com/actu/audiences-mars-tf1-en-petite-forme-france-3-et-m6-font-jeu-egal-records-historiques-pour-les-chaines-info/615522 |site=ozap.com |consulté le=2022-04-04}}</ref>
+|colspan="3" | 3,6 %<ref>{{Lien web|langue=fr|titre=Audiences avril : TF1 leader en forte baisse, F2 progresse, M6 faible, BFMTV et LCI bondissent|url=https://www.ozap.com/actu/audiences-avril-tf1-leader-en-forte-baisse-f2-progresse-m6-faible-bfmtv-et-lci-bondissent/616539|site=ozap.com|consulté le=2022-05-03}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Audiences mai : TF1 leader en nette baisse, F2 en hausse, F3 plus forte que M6, BFMTV et LCI au top|url=https://www.ozap.com/actu/audiences-mai-tf1-leader-en-nette-baisse-f2-en-hausse-f3-plus-forte-que-m6-bfmtv-et-lci-au-top/617484 |site=ozap.com |consulté le=2022-06-01}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Audiences juin : TF1 limite la casse, M6 souffre, BFMTV en forme, record historique égalé pour L'équipe|url=https://www.ozap.com/actu/audiences-juin-tf1-limite-la-casse-m6-souffre-bfmtv-en-forme-record-historique-egale-pour-l-equipe/618652 |site=ozap.com |consulté le=2022-07-04}}</ref>
+|bgcolor="#FF3333" | 3,0 %<ref>{{Lien web |langue=fr |titre=Audiences juillet : TF1 et M6 au plus bas historique, France Télévisions rafle la mise|url=https://www.ozap.com/actu/audiences-juillet-tf1-et-m6-au-plus-bas-historique-france-televisions-rafle-la-mise/619672 |site=ozap.com |consulté le=2022-08-02}}</ref>
+|3,4 %<ref>{{Lien web |langue=fr |titre=Audiences TV TNT (Août 2022) : LCI au coude à coude avec CNews, TF1 Séries Films chute, BFMTV puissante... |url=https://www.toutelatele.com/audiences-tv-tnt-aout-2022-lci-au-coude-a-coude-avec-cnews-tf1-series-films-chute-bfmtv-puissante-143868 |site=toutelatele.com |consulté le=2022-08-29}}</ref>
+|3,6 %<ref>{{Lien web |langue=fr |titre=Audiences septembre 2022 : La crise avec Canal+ fait plonger la moyenne de TF1 à son plus bas historique |url=https://www.ozap.com/actu/audiences-septembre-2022-la-crise-avec-canal-fait-plonger-la-moyenne-de-tf1-a-son-plus-bas-historique/622094 |site=ozap.com |consulté le=2022-10-04}}</ref>
+|bgcolor="#00B300"|3,8 %*<ref>{{Lien web |langue=fr |titre=Audiences octobre 2022 : TF1 égale sa pire audience historique, M6 plonge, C8 en forme, record pour LCI proche de CNews |url=https://www.ozap.com/actu/audiences-octobre-2022-tf1-egale-sa-pire-audience-historique-m6-plonge-c8-en-forme-record-pour-lci-proche-de-cnews/623294 |site=ozap.com |consulté le=2022-11-02}}</ref>
+|3,6 %<ref>{{Lien web |langue=fr |titre=Audiences novembre 2022 : TF1 dopée par la Coupe du monde, France 3 double M6 qui s'effondre, succès confirmé pour LCI |url=https://www.ozap.com/actu/audiences-novembre-2022-tf1-dopee-par-la-coupe-du-monde-france-3-double-m6-qui-s-effondre-succes-confirme-pour-lci/624482 |site=ozap.com |consulté le=2022-11-30}}</ref>
+|3,4 %<ref>{{Lien web|langue=fr|titre=L'audience de la télévision en 2022|url=https://www.mediametrie.fr/sites/default/files/2023-01/2023%2001%2002%20M%C3%A9diamat%20annuel%202022.pdf|site=mediametrie.fr|consulté le=2023-01-02}}</ref>
+|3,6 %*<ref>{{Lien web|langue=fr|titre=Audiences annuelles 2022 : TF1, historiquement faible mais leader devant France 2, M6 à son plus bas depuis 1992 |url=https://www.ozap.com/actu/audiences-annuelles-2022-tf1-historiquement-faible-mais-leader-devant-france-2-m6-a-son-plus-bas-depuis-1992/624779 |site=oazp.com|consulté le=2023-01-04}}</ref>
+|-
+! scope="row" style="background:#ffffff; text-align:center;"| [[2023 à la télévision|2023]]
+|3,8 %*<ref>{{Lien web |langue=fr |titre=Audiences janvier 2023 : TF1 leader en baisse avec France 2 à ses trousses, M6 dévisse encore, C8 double Arte et TMC |url=https://www.ozap.com/actu/audiences-janvier-2023-tf1-leader-en-baisse-avec-france-2-a-ses-trousses-m6-devisse-encore-c8-double-arte-et-tmc/627209 |site=ozap.com |consulté le=2023-02-01}}</ref>
+|3,7 %<ref>{{Lien web |langue=fr |titre=Audiences février 2023 : France 2 grossit dans le rétroviseur de TF1, France 3 en nette baisse, LCI progresse encore |url=https://www.ozap.com/actu/audiences-fevrier-2023-france-2-grossit-dans-le-retroviseur-de-tf1-france-3-en-nette-baisse-lci-progresse-encore/628583 |site=ozap.com |consulté le=2023-03-01}}</ref>
+|3,5 %<ref>{{Lien web |langue=fr |titre=Audiences mars 2023 : TF1 respire, France 2 grignote son retard, C8 s'envole, BFMTV et franceinfo: trébuchent |url=https://www.ozap.com/actu/audiences-mars-2023-tf1-respire-france-2-grignote-son-retard-c8-s-envole-bfmtv-et-franceinfo-trebuchent/630182 |site=ozap.com |consulté le=2023-04-04}}</ref>
+|3,6 %<ref>{{Lien web |langue=fr |titre=Audiences avril 2023 : TF1 leader à la peine devant France 2 qui remonte, belle percée de France 3 et C8, BFMTV chute |url=https://www.ozap.com/actu/audiences-avril-2023-tf1-leader-a-la-peine-devant-france-2-qui-remonte-belle-percee-de-france-3-et-c8-bfmtv-chute/631379 |site=ozap.com |consulté le=2023-05-03}}</ref>
+| colspan="2" |3,4 %<ref>{{Lien web |langue=fr |titre=Audiences mai 2023 : TF1 leader stable, France 2 progresse encore, record historique pour LCI qui rattrape CNews |url=https://www.ozap.com/actu/audiences-mai-2023-tf1-leader-stable-france-2-progresse-encore-record-historique-pour-lci-qui-rattrape-cnews/630536 |site=ozap.com |date=2023-05-31 |consulté le=2023-05-31}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Audiences juin 2023 : France 2 réduit encore l'écart avec TF1, France 3 dévisse, M6 s'enfonce sous les 8% |url=https://www.ozap.com/actu/audiences-juin-2023-france-2-reduit-encore-l-ecart-avec-tf1-france-3-devisse-m6-s-enfonce-sous-les-8/634165 |site=ozap.com |date=2023-07-05 |consulté le=2023-07-05}}</ref>
+|3,1 %<ref>{{Lien web |langue=fr |titre=Audiences juillet 2023 : TF1 s'impose au finish contre France 2 au terme d'un match à suspense |url=https://www.ozap.com/actu/audiences-juillet-2023-tf1-s-impose-au-finish-contre-france-2-au-terme-d-un-match-a-suspense/635104 |site=ozap.com |date=2023-07-31 |consulté le=2023-07-31}}</ref>
+|3,2 %<ref>{{Lien web |langue=fr |titre=Audiences août 2023 : TF1 à la fête grâce au XV de France et l'information, plus mauvais mois de l'année pour France 2 |url=https://www.ozap.com/actu/audiences-aout-2023-tf1-a-la-fete-grace-au-xv-de-france-et-l-information-plus-mauvais-mois-de-l-annee-pour-france-2/636511 |site=ozap.com |date=2023-09-06 |consulté le=2023-09-06}}</ref>
+|3,3 %<ref>{{Lien web |langue=fr |titre=Audiences septembre 2023 : TF1 à son plus haut niveau de l'année, dopée par le rugby, M6 fait jeu égal avec France 3 |url=https://www.ozap.com/actu/audiences-septembre-2023-tf1-a-son-plus-haut-niveau-de-l-annee-dopee-par-le-rugby-m6-fait-jeu-egal-avec-france-3/637843 |site=ozap.com |date=2023-10-03 |consulté le=2023-10-03}}</ref>
+|3,4 %<ref>{{Lien web |langue=fr |titre=Audiences octobre 2023 : Record de l'année pour TF1, M6 double France 3, une première depuis 17 mois |url=https://www.ozap.com/actu/audiences-octobre-2023-record-de-l-annee-pour-tf1-m6-double-france-3-une-premiere-depuis-17-mois/639067 |site=ozap.com |date=2023-10-31 |consulté le=2023-11-01}}</ref>
+|
+|
+|
+|
+|}
+
+<small>Source : [[Médiamétrie]]</small><ref name="Mediamétrie">[http://www.mediametrie.fr/ Médiamétrie, mesure d'audience], Mediametrie.fr</ref>
+
+{{Souligner|Légende}} :
+:{{Légende/Début}}
+:{{Légende|texte=<nowiki>*</nowiki>|maximum historique.}}
+:{{Légende|texte=<nowiki>**</nowiki>|minimum historique.}}
+:{{Légende|#00B300|Meilleur score mensuel de l'année.}}
+:{{Légende|#FF3333|Pire score mensuel de l'année.}}
+:{{Légende/Fin}}
+
+==== Audiences du canal partagé ====
+[[File:AudienceTV France5 1994–2010.png|droite|350px]]
+
+Du {{date-|13 décembre 1994}} au {{date-|30 novembre 2011}}, La Cinquième puis France 5 est diffusée de {{heure|3}} à {{heure|19}} sur le cinquième [[Télévision analogique terrestre|réseau analogique terrestre]] de [[TDF]] en canal partagé avec la chaîne franco-allemande [[Arte]]. Cette tranche bénéfice alors d'une mesure spécifique de son audience.
+
+{| class="wikitable" style="margin:auto; background:#ffffff; text-align:center;"
+|+Audiences annuelles de La Cinquième<ref name="Mediamétrie"/>
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1994
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1995
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1996
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1997
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1998
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 1999
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 2000
+ ! scope="col" style="background:#0266b0; color:#ffffff;"| 2001
+|-
+ | 4,5 % || 4,6 % || 4,5 % || 4,6 % || 4,7 % || 4,7 % || 5,0 % || 5,0 %
+|}
+{{Saut|10px}}
+{| class="wikitable" style="margin:auto; background:#ffffff; text-align:center;"
+|+Audiences annuelles de France 5<ref name="Mediamétrie"/>
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2002
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2003
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2004
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2005
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2006
+ ! scope="col" style="background:#80c342; color:#ffffff;"| 2007
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2008
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2009
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2010
+|-
+ | 5,1 % || 6,4 % || 6,7 % || 7,3 % || 7,2 % || 6,5 % || 5,5 % || 5,1 % || 4,7 %
+|}
+
+=== Records d'audiences ===
+Le lundi {{date-|25 janvier 2016}}, France 5 réalise sa meilleure journée historique avec une part d'audience moyenne atteignant 5,2 % sur l'ensemble de la journée. Ce record est atteint grâce à la bonne forme de ses émissions en journée, ''[[Le Magazine de la santé]]'' ({{unité|712000 téléspectateurs}}) et ''[[Le Magazine de la santé|Allô Docteurs]]'' ({{formatnum:635000}}), en [[access prime-time]], ''[[C dans l'air]]'' ({{nobr|1,94 million}}) et ''[[C à vous]]'' ({{nobr|1,1 million}}), et à la bonne performance en [[première partie de soirée]] du téléfilm ''[[L'Orange de Noël (téléfilm)|L'Orange de Noël]]'' de [[Jean-Louis Lorenzi]] ({{unité|1,6 million}})<ref>{{Lien web |auteur=Benoit Daragon |titre=Audiences : France 5 réalise sa meilleure journée historique |url=http://www.ozap.com/actu/audiences-france-5-realise-sa-meilleure-journee-historique/488726 |date=26 janvier 2016 |site=PureMédias |consulté le=14 août 2016}}.</ref>.
+
+Le {{date-|7 novembre 2005}}, France 5 réalise son record d'audience historique avec l'émission de débat ''[[C dans l'air]]'' sur les [[émeutes de 2005 dans les banlieues françaises]]. Elle est suivie par {{nobr|2,3 millions}} de téléspectateurs, soit 16,7 % de part de marché<ref name="JDD180911">{{Lien web |auteur=Camille Neveux |titre=''C dans l'air'', dix ans de débats |url=http://www.lejdd.fr/Medias/Television/Actualite/Yves-Calvi-presente-C-dans-l-air-depuis-dix-ans-391263 |date=18 septembre 2011 |site=le site du [[Le Journal du Dimanche|Journal du Dimanche]] |consulté le=15 août 2016}}.</ref>. Dix ans plus tard, le {{date-|18 novembre 2015}}, le record est battu par cette même émission sur les [[attentats du 13 novembre 2015 en France]] en attirant {{nobr|2,46 millions}} de téléspectateurs, soit 16,5 % de part de marché<ref name="Ozap191115">{{Lien web |auteur=Julien Bellver |titre=''C dans l'air'' offre un record d'audience historique à France 5 |url=http://www.ozap.com/actu/-c-dans-l-air-offre-un-record-d-audience-historique-a-france-5/483210 |date=19 novembre 2015 |site=[[PureMédias]] |consulté le=15 août 2016}}.</ref>. Un mois plus tard, le {{date-|7 décembre 2015}}, ce record est de nouveau battu par ''C dans l'air'' avec {{nobr|2,5 millions}} de téléspectateurs, soit 17,2 % de part de marché. L'émission est consacrée aux résultats du premier tour des [[élections régionales françaises de 2015]], marqué par une forte poussée du [[Front national (parti français)|Front national]]<ref name="TVMag81215">{{Lien web |auteur=Xavier Allain |titre=Régionales : ''C dans l'air'' bat son record d'audience historique |url=http://tvmag.lefigaro.fr/programme-tv/article/television/90104/regionales-c-dans-l-air-bat-son-record-d-audience-historique-.html |date=8 décembre 2015 |le site de [[TV Magazine]] |consulté le=14 août 2016}}.</ref>.
+
+Durant la saison 2016-2017, le magazine ''[[C dans l'air]]'' a réalisé de très bonnes audiences grâce à la forte actualité liée aux élections [[Élection présidentielle française de 2017|présidentielle]] et [[Élections législatives françaises de 2017|législatives]]. En moyenne, ''C dans l'air'' a rassemblé 1,5 million de téléspectateurs chaque jour, soit une part de marché de 12,8 %<ref>{{Article|langue=|auteur1=|nom1=Toutelatele.com|titre=C dans l’air / C à vous : Une saison historique pour Caroline Roux, Bruce Toussaint et Anne-Sophie Lapix sur France 5|périodique=Toutelatele|date=27 juin 2017|issn=|lire en ligne=http://www.toutelatele.com/c-dans-l-air-c-a-vous-une-saison-historique-pour-caroline-roux-bruce-toussaint-et-anne-sophie-lapix-sur-france-5-91916|consulté le=24 octobre 2017|pages=}}.</ref>. 
+
+Le {{date-|9 janvier 2017}}, le téléfilm ''Les petits meurtres d'Agatha Christie'' permet à France 5 de réaliser son record en téléspectateurs, avec {{nobr|1,98 million}} de personnes présentes et 7,7 % du public<ref name=":0" />. 
+
+Le {{date-|19 juillet 2017}}, la chaîne bat son record historique en prime avec le documentaire ''Une vie de chaton''. Le programme a rassemblé {{nobr|1,8 million}} de téléspectateurs pour 9,1 % de part de marché (record historique sur ce critère)<ref>{{Article|langue=fr|titre=Audiences : "Blindspot" leader sans éclat pour son retour, France 5 cartonne, "Undressed" en hausse|périodique=ozap.com|lire en ligne=http://www.ozap.com/actu/audiences-blindspot-leader-sans-eclat-pour-son-retour-france-5-cartonne-undressed-en-hausse/532637|consulté le=2017-10-28|date=19 juillet 2017}}.</ref>. 
+
+{| class="wikitable centre"
+|+ Les quinze meilleures audiences de la chaîne
+|-
+ ! scope="col" style="background:#00d282; color:#ffffff;" | Date
+ ! scope="col" style="background:#00d282; color:#ffffff;" | Programme
+ ! scope="col" style="background:#00d282; color:#ffffff;" | Genre
+ ! scope="col" style="background:#00d282; color:#ffffff;" | Téléspectateurs
+ ! scope="col" style="background:#00d282; color:#ffffff;" | Part de marché (%)
+|-
+ | align="center" | {{date-|7 décembre 2015}}
+ | ''[[C dans l'air]]'' ([[Élections régionales françaises de 2015]])
+ | align="center" | Magazine
+ | align="center" | {{formatnum:2500000}}
+ | align="center" | 17,2<ref name="TVMag81215" />
+|-
+ | align="center" | {{date-|18 novembre 2015}}
+ | ''[[C dans l'air]]'' ([[Attentats du 13 novembre 2015 en France]])
+ | align="center" | Magazine
+ | align="center" | {{formatnum:2460000}}
+ | align="center" | 16,5<ref name="Ozap191115" />
+|-
+ | align="center" | {{date-|7 novembre 2005}}
+ | ''[[C dans l'air]]'' ([[Émeutes de 2005 dans les banlieues françaises]])
+ | align="center" | Magazine
+ | align="center" | {{formatnum:2300000}}
+ | align="center" | 16,7<ref name="JDD180911" />
+|-
+ | align="center" | {{date-|10 décembre 2006}}
+ | ''[[Ripostes]]'' ([[Nicolas Sarkozy]])
+ | align="center" | Magazine
+ | align="center" | {{formatnum:2242400}}
+ | align="center" | 14,1<ref>{{Lien web |titre=''Ripostes'' bat un record d'audience avec Sarkozy |url=http://tempsreel.nouvelobs.com/politique/elections-2007/20061211.OBS2434/ripostes-bat-un-record-d-audience-avec-sarkozy.html |date=12 décembre 2006 |site=le site du [[L'Obs|Nouvel Observateur]] |consulté le=15 août 2016}}.</ref>
+|-
+ | align="center" | {{date-|5 décembre 2018}}
+ | ''[[C dans l'air]]'' ([[Mouvement des Gilets jaunes en France|Mouvement des Gilets jaunes]])
+ | align="center" | Magazine
+ | align="center" | {{formatnum:2200000}}
+ | align="center" | 17,1<ref>{{Lien web |titre= Audiences : "C dans l'air" au plus haut sur France 5 |url=http://www.ozap.com/actu/audiences-c-dans-l-air-au-plus-haut-sur-france-5/571699 |date=6 décembre 2018 |site=le site du [[Puremedias]] |consulté le=30 janvier 2019}}.</ref>
+|-
+ | align="center" | {{date-|30 janvier 2012}}
+ | ''[[C dans l'air]]'' ([[Élection présidentielle française de 2012]])
+ | align="center" | Magazine
+ | align="center" | {{formatnum:2172000}}
+ | align="center" | 14,5<ref>{{Lien web |titre=Record d’audience pour ''C dans l''air'' |url=http://www.programme.tv/news/audiences/9793-record-d-audience-pour-c-dans-l-air/ |date=31 janvier 2012 |site=le site de [[Télé 2 Semaines]] |consulté le=15 août 2016}}.</ref>
+|-
+| align="center" | {{date-|9 janvier 2017}}
+|''[[Les Petits Meurtres d'Agatha Christie]]''
+| align="center" | Téléfilm
+| align="center" | {{formatnum:1978000}}
+| align="center" |7,7<ref name=":0">{{Article|langue=français|auteur1=|nom1=Toutelatele.com|titre=Audiences : "Clem" leader en hausse, "L'Amour est dans le pré" en baisse, France 5 bat France 3|périodique=Toutelatele|date=10 janvier 2017|issn=|lire en ligne=http://www.ozap.com/actu/audiences-clem-leader-en-hausse-l-amour-est-dans-le-pre-en-baisse-france-5-bat-france-3/516580|consulté le=28 octobre 2017|pages=}}.</ref>{{,}}<ref>Record en téléspectateurs pour un prime de la chaîne</ref>
+|-
+| align="center" | {{date-|20 avril 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:2110000}}
+| align="center" | 9,8<ref>{{Lien web |titre=Audiences access 19h : Démarrage difficile pour "Qui veut gagner des millions ?", record historique pour "C à vous" |url=https://www.ozap.com/actu/audiences-access-19h-demarrage-difficile-pour-qui-veut-gagner-des-millions-record-historique-pour-c-a-vous/592135 |date=2020-04-21 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-21}}.</ref>
+|-
+| align="center" | {{date-|15 avril 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:2100000}}
+| align="center" | 10,2<ref>{{Lien web |titre=Audiences access 19h : Record historique pour "C à vous", Cyril Lignac en forme, le bêtisier de TF1 faible |url=https://www.ozap.com/actu/audiences-access-19h-record-historique-pour-c-a-vous-cyril-lignac-en-forme-le-betisier-de-tf1-faible/591958 |date=2020-04-16 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-16}}.</ref>
+|-
+| align="center" | {{date-|16 mars 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:2040000}}
+| align="center" | 8,5<ref>{{Lien web |titre=Audiences access 19h : "C à vous" pulvérise son record historique, "DNA" et "L'info du vrai" au plus haut |url=https://www.ozap.com/actu/audiences-access-19h-c-a-vous-pulverise-son-record-historique-dna-et-l-info-du-vrai-au-plus-haut/590620 |date=2020-03-17 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-16}}.</ref>
+|-
+| align="center" | {{date-|27 mars 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:2040000}}
+| align="center" | 9,0<ref>{{Lien web |titre=Audiences access 19h : Nagui leader, "Tous en cuisine" avec Cyril Lignac au plus haut, record pour "C à vous" |url=https://www.ozap.com/actu/audiences-access-19h-nagui-leader-tous-en-cuisine-avec-cyril-lignac-au-plus-haut-record-pour-c-a-vous/591151 |date=2020-03-28 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-16}}.</ref>
+|-
+| align="center" | {{date-|28 avril 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:2020000}}
+| align="center" | 9,2<ref>{{Lien web |auteur=Benjamin Meffre |titre=Audiences access 19h : Le "19/20" leader, Nagui plombé par son lead-in, M6 au plus haut depuis 2012, record pour Combal |url=https://www.ozap.com/actu/audiences-access-19h-le-19-20-leader-nagui-plombe-par-son-lead-in-m6-au-plus-haut-depuis-2012-record-pour-combal/592453 |date=2020-04-29 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-29}}.</ref>
+|-
+| align="center" | {{date-|25 mars 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:2000000}}
+| align="center" | 8,9<ref>{{Lien web |titre=Audiences access 19h : Nagui net leader, "Sept à Huit" baisse encore, carton pour le "19/20" et "C à vous" |url=https://www.ozap.com/actu/audiences-access-19h-nagui-net-leader-sept-a-huit-baisse-encore-carton-pour-le-19-20-et-c-a-vous/591082 |date=2020-03-26 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-16}}.</ref>
+|-
+| align="center" | {{date-|7 avril 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:1990000}}
+| align="center" | 9,5<ref>{{Lien web |auteur=Benjamin Meffre |titre=Audiences access 19h : Nagui puissant leader, record historique pour "C à vous" devant "Sept à Huit" au plus bas |url=https://www.ozap.com/actu/audiences-access-19h-nagui-puissant-leader-record-historique-pour-c-a-vous-devant-sept-a-huit-au-plus-bas/591646 |date=2020-04-08 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-16}}.</ref>
+|-
+| align="center" | {{date-|17 avril 2020}}
+| ''[[C à vous]]'' ([[Pandémie de Covid-19]])
+| align="center" | Magazine
+| align="center" | {{formatnum:1980000}}
+| align="center" | 9,6<ref>{{Lien web |titre=Audiences access 19h : Nagui leader, Cyril Lignac et "C à vous" en forme, le bêtisier de TF1 faible |url=https://www.ozap.com/actu/audiences-access-19h-nagui-leader-cyril-lignac-et-c-a-vous-en-forme-le-betisier-de-tf1-faible/592057 |date=2020-04-18 |site=[[PureMédias|ozap.com]] |consulté le=2020-04-18}}.</ref>
+
+|}
+
+=== Audiences en Belgique ===
+France 5 est en 2015, la treizième chaine belge ex-æquo avec [[13e rue]]<ref name="CSABelgique">{{Lien web |titre=Télévision : Audience et parts de marché |url=http://www.csa.be/pluralisme/audience/secteur/1 |site=le site du [[Conseil supérieur de l'audiovisuel (Belgique)|CSA]] |consulté le=21 octobre 2016}}.</ref>.
+
+{| class="wikitable centre" style="text-align:center;"
+|+ Audiences annuelles en part de marché en Belgique (%)<ref name="CSABelgique"/>
+|-
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2010
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2011
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2012
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2013
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2014
+ ! scope="col" style="background:#83b719; color:#ffffff;"| 2015
+|-
+||1,3 ||1,3 ||1,3 ||1,3 ||1,4 ||1,4
+|}
+
+== Diffusion ==
+France 5 est diffusée sur la [[Télévision numérique terrestre en France|télévision numérique terrestre]], le [[télévision par câble|câble]], le [[Télévision par satellite|satellite]], la [[télévision IP]] et en [[streaming]]. Comme les autres chaînes publiques de [[France Télévisions]] et conformément à la [[Loi relative à la liberté de communication|loi {{n°|86-1067}} du {{date-|30 septembre 1986}}]], les distributeurs de télévision en France ont l'obligation de la reprendre gratuitement dans leurs offres<ref>{{Lien web |titre=Article 34-2 - Loi {{n°|86-1067}} du 30 septembre 1986 relative à la liberté de communication |url=https://www.legifrance.gouv.fr/affichTexteArticle.do;?idArticle=LEGIARTI000024423360&cidTexte=LEGITEXT000006068930&dateTexte=20160420 |date=31 juillet 2011 |site=[[Légifrance]] |consulté le=13 août 2016}}.</ref>. La chaîne peut également être reçue dans des pays limitrophes : la [[Belgique]], le [[Luxembourg (pays)|Luxembourg]], [[Monaco]] et la [[Suisse]]. De plus, ses programmes sont en partie repris par la chaîne francophone internationale [[TV5 Monde]].
+
+La chaîne émet en [[français]] depuis le {{date-|13 décembre 1994}}, d'abord sous le nom de La Cinquième puis sous le nom de France 5 à partir du {{date-|7 janvier 2002}}. Elle est diffusée au [[format 16/9]] depuis le {{date-|7 avril 2008}}<ref>{{Lien web |auteur=Julie de Meslon |titre=France Télévisions se met à l'heure des télés 16/9 |url=http://www.01net.com/actualites/france-televisions-se-met-a-lheure-des-teles-16-9-377806.html |date=7 avril 2008 |site=[[01net (site web)|01net]] |consulté le=6 août 2016}}.</ref>.
+
+=== Analogique ===
+Du {{date-|14 décembre 1994}} au {{date-|30 novembre 2011}}, date de l'arrêt de la télévision analogique en France, La Cinquième puis France 5 est diffusée, tout d'abord, de {{heure|6.15}} <ref>[https://www.youtube.com/watch?v=7hFsv0NqZDc La Cinquième / Arte 5 Janvier 1995 Coming Next, 1 Pub, 6 BA, Imprévus, Météo, Relais Arte, Confetti-YouTube]</ref> à {{heure|19}}, puis, à partir de {{date-|novembre 1999}}, de {{heure|3}}<ref>[https://www.youtube.com/watch?v=C9FthvF4_wI Arte - Soirée du 24/07/2007 & Ouverture antenne France 5-YouTube]</ref> à {{heure|19}} sur le cinquième [[Télévision analogique terrestre|réseau analogique terrestre]] de [[TDF]], en canal partagé avec la chaîne franco-allemande [[Arte]], au standard [[SÉCAM|SÉCAM L]] à {{nobr|625 lignes}}.
+
+=== TNT ===
+France 5 est diffusée en [[Diffusion télévisée en clair|clair]] sur le [[Télévision numérique terrestre en France#R4 - Multi 4 (Société opératrice du multiplex R4)|multiplex R4]] (Multi 4) de la [[Télévision numérique terrestre en France|télévision numérique terrestre]] (TNT) au standard [[MPEG-4]] (HDTV) depuis le {{date-|5 avril 2016}}. Auparavant, elle est alors disponible sur le [[Télévision numérique terrestre en France#R1 - SGR1 (Société de gestion du réseau 1)|multiplex R1]] (SGR1) au standard [[MPEG-2]] ([[SDTV]]) à partir du {{date-|31 mars 2005}}. En [[France d'outre-mer]], la chaîne est diffusée sur le multiplex {{nobr|ROM 1}} de la TNT au standard [[MPEG-4]] ([[SDTV]]) depuis le {{date-|30 novembre 2010}}.
+
+=== Câble ===
+France 5 est diffusée sur le [[télévision par câble|réseau câblé]] de [[Société française du radiotéléphone|SFR]]. En France d'outre-mer, elle est disponible sur les réseaux de [[SFR Caraïbe]] et [[Zeop]].
+
+Dans les autres pays francophones, elle est diffusée sur les réseaux câblés belge ([[SFR Belux]], [[Telenet Group]], [[VOO]]), luxembourgeois (SFR Belux), monégasque ([[MC Cable]]) et suisse ([[Naxoo]], [[UPC Suisse]]).
+
+La Cinquième est diffusée sur le réseau câblé parisien de {{heure|6.15}} à minuit à partir du {{date-|3 novembre 1995}}, puis jusqu'à {{heure|3}} à partir de {{date-|novembre 1999}}. Les émissions de La Cinquième seront diffusées 24 heures sur 24 sur le câble et le satellite à partir du {{date-|8 septembre 2001}}<ref>[https://www.lemonde.fr/archives/article/2001/09/02/la-cinquieme-change-presque-tout_4190607_1819218.html La Cinquième change presque tout-Le Monde-02/09/2001]</ref>.
+
+=== Satellite ===
+France 5 est diffusée sur [[Télévision par satellite|satellite]] via les bouquets [[Canalsat]], [[Fransat]], [[TNTSAT]], [[Bis Télévisions]], et les offres satellites de [[La TV d'Orange]] et du [[Bouquet TV de SFR]]. En France d'outre-mer, elle est disponible dans les offres de [[Canalsat Caraïbes]], [[Canalsat Calédonie]], [[Canalsat Réunion]], Parabole Maurice, [[Parabole Réunion]] et [[Tahiti Nui Satellite]].
+
+Dans les autres pays francophones, elle est diffusée par l'opérateur belge et luxembourgeois [[TéléSAT]].
+
+La Cinquième est diffusée de {{heure|6.15}} à {{heure|19}} dès son lancement sur le satellite Telecom 2B sur 12606V, puis sur le bouquet [[TPS (société)|TPS]] à sa création en 1996. Elle étend sa programmation jusqu'à minuit à partir du {{date-|31 janvier 1998}} sur Canalsatellite et du {{date-|16 février}} sur TPS, et diffusera ses émissions 24 heures sur 24 à partir du {{date-|8 septembre 2001}}.
+
+=== Internet ===
+France 5 est diffusée en [[streaming]] sur le site web de la chaîne et sur le service de [[télévision de rattrapage]] [[france.tv]]. Elle est également disponible via la [[télévision IP]] sur la [[Freebox TV]], [[La TV d'Orange]], le [[Bouquet TV de SFR]], la [[Bbox]] et la [[Wibox (entreprise)|Wibox]]. En France d'outre-mer, elle est accessible dans les offres de [[Mediaserv]], [[SFR Caraïbe]] et [[Zeop]].
+
+Dans les autres pays francophones, elle est diffusée par les opérateurs belge ([[Proximus TV]]), luxembourgeois ([[POST Luxembourg]]) et suisse ([[Swisscom TV]]). Elle est également disponible au [[Portugal]] sur le réseau [[Meo (entreprise)|Meo]] depuis 2019<ref>{{Lien web|langue=pt-PT|nom1=MEO|titre=adesaocanaispremium|url=https://loja.meo.pt/canais/adesaocanaispremium?cid=26|site=loja.meo.pt|consulté le=2020-05-07}}.</ref>.
+
+== Références ==
+
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:France 5}}
+
+=== Bibliographie ===
+* {{Ouvrage |auteur1=[[Guy Zilberstein]] |préface=[[Michel Serres]] |postface=[[Jean-Marie Cavada]] |titre=En savoir plus sur La Cinquième, les enjeux d'une chaîne éducative |éditeur=La Cinquième |lieu=Nevers |année=1995 |pages totales=86 |isbn= |bnf=35805892b}}.
+
+=== Articles connexes ===
+* [[France Télévisions]]
+* [[Liste des chaînes de télévision en France]]
+* [[Télévision numérique terrestre en France]]
+
+=== Liens externes ===
+{{Liens}}
+
+
+{{Succession/Début|titre=Chronologie de la télévision française : [[Canal 5 en France|chaîne {{n°|5}}]]}}
+{{Succession/Ligne
+ | nom     = La Cinquième / France 5
+ | avant   = [[Télé emploi]] (indirectement)<br>[[Arte]] (analogique jusqu'en novembre 2011)
+ | après   = 
+ | période = {{date|13 décembre 1994|à la télévision}} -
+}}
+{{Succession/Fin}}
+
+{{Palette|Chaînes nationales de la TNT en France|France Télévisions}}
+{{Portail|Télévision française|Entreprises}}
+
+[[Catégorie:Chaîne de télévision en français en France]]
+[[Catégorie:Chaîne de télévision numérique terrestre en France]]
+[[Catégorie:Chaîne de télévision en haute définition en France]]
+[[Catégorie:Chaîne de télévision numéro 5]]
+[[Catégorie:Chaîne ou station de télévision fondée en 1994]]
+[[Catégorie:France Télévisions]]
+[[Catégorie:Chaîne de télévision éducative]]

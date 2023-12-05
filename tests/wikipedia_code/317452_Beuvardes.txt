@@ -1,0 +1,309 @@
+{{Infobox Commune de France
+ | nom                         = Beuvardes
+ | image                       = WWI 42nd Division burial party.jpg
+ | légende                     = Troupes en juillet 1918.
+ | région                      = [[Hauts-de-France]]
+ | département                 = [[Aisne (département)|Aisne]]
+ | arrondissement              = [[Arrondissement de Château-Thierry|Château-Thierry]]
+ | canton                      = [[Canton de Fère-en-Tardenois]]
+ | circonscription législative = {{Circonscription fr|5|Aisne}}
+ | insee                       = 02083
+ | cp                          = 02130
+ | maire                       = Catherine Richard
+ | mandat maire                = [[Élections municipales françaises de 2020|2020]]-2026
+ | intercomm                   = [[Communauté d'agglomération de la Région de Château-Thierry|CA de la Région de Château-Thierry]]
+ | latitude                    = 49.1427777778
+ | longitude                   = 3.49027777778
+ | altitude                    = 101
+ | alt mini                    = 131
+ | alt maxi                    = 226
+ | superficie                  = 15.66
+ | unité urbaine               = Commune rurale
+ | aire d'attraction           = [[Aire d'attraction de Château-Thierry|Château-Thierry]]<br><small>(commune de la couronne)</small>
+ | population                  = {{Population de France/dernière pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                   = {{Population de France/dernière année Infobox}}<!-- Insertion automatique, ne pas modifier -->
+ | gentilé                     = Beuvardais
+ | siteweb                     = https://mairiedebeuvardes.e-monsite.com/
+ | géoloc-département          = Aisne/Hauts-de-France
+}}
+
+'''Beuvardes''' est une [[Commune (France)|commune française]] située dans le [[départements français|département]] de l'[[Aisne (département)|Aisne]], en [[Régions françaises|région]] [[Hauts-de-France]].
+
+{{Sommaire|niveau=2}}
+
+== Géographie ==
+=== Localisation ===
+[[File:Beuvardes OSM 02.png|vignette|gauche|redresse|Carte topographique de la commune.]]
+Beuvardes est un village [[périurbain]] du [[Tardenois]] dans l'[[Aisne (département)|Aisne]], desservi par l'ancienne [[route nationale 367]] (actuelle RD 967)  qui le relie à [[Château-Thierry]], situé à {{Unité|12|km}} à [[vol d'oiseau]] au sud-ouest du village. [[Villers-Cotterêts]] est à {{Unité|31|km}} au nord-ouest, [[Soissons]] à {{29|km}} plus au nord, [[Reims]] à {{Unité|41|km}}au nord-est et [[Épernay]] à {{Unité|36|km}} à l'est.
+
+Le sud du territoire communal est traversé par l'[[Autoroute A4 (France)]] et la [[LGV Est européenne]]
+{{clr|left}}
+
+=== Communes limitrophes ===
+{{Carte communes limitrophes|intro=oui|zoom=11}}
+{{Localisation ville
+ | élision    =
+|nord-ouest=
+|nord=[[Villeneuve-sur-Fère]]
+|nord-est=[[Fresnes-en-Tardenois]]
+|ouest=[[Brécy (Aisne)|Brécy]]
+|ville=Beuvardes
+|est=[[Le Charmel]]
+|sud-ouest=[[Épieds (Aisne)|Epieds]]
+|sud=[[Mont-Saint-Père]]
+|sud-est=
+}}
+
+=== Hydrographie ===
+Le Ru du Pont-Foirier draine le territoire communal. Il s'agit d'un [[affluent]] de l'Ordrimouille, et donc d'un sous-affluent de la [[Seine]] par la [[Marne (rivière)|Marne]].
+
+Sa source est située aux alentours de Beuvardes et elle est alimentée par la la [[nappe phréatique]]  du toit des marnes du [[Bartonien]] supérieur.
+
+=== Climat ===
+Le climat qui caractérise la commune est qualifié, en 2010, de « [[climat océanique dégradé]] des plaines du Centre et du Nord », selon la typologie des [[climat de la France|climats de la France]] qui compte alors huit grands types de climats en [[France métropolitaine|métropole]]<ref name=Joly>{{Article |langue= fr|auteur1= Daniel Joly, Thierry Brossard, Hervé Cardot, Jean Cavailhes, Mohamed Hilal et Pierre Wavresky|titre= Les types de climats en France, une construction spatiale|périodique= Cybergéo, revue européenne de géographie - European Journal of Geography |volume= |numéro=501|date= 18 juin 2010|pages= |doi= https://doi.org/10.4000/cybergeo.23155|lire en ligne=http://journals.openedition.org/cybergeo/23155  |consulté le=30 juillet 2021}}</ref>. En 2020, la commune ressort du type « climat océanique altéré » dans la classification établie par [[Météo-France]], qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs<ref>{{Lien web |url=https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine |titre= Le climat en France métropolitaine |site = meteofrance.fr |date=4 février 2020|consulté le= 30 juillet 2021}}.</ref>.
+
+{| align="right" bgcolor="#F8F8F8" | style="border: 1px solid #999
+|<center>'''Paramètres climatiques communaux sur la période 1971-2000<ref name=Joly/>'''</center>
+----
+* Moyenne annuelle de température : {{tmp|10.2| °C }}
+* Nombre de jours avec une température inférieure à {{tmp|-5| °C}} : 4,2 j
+* Nombre de jours avec une température supérieure à {{tmp|30| °C}} : 4,1 j
+* Amplitude thermique annuelle<ref group=Note>L'amplitude thermique annuelle mesure la différence entre la température moyenne de juillet et celle de janvier. Cette variable est généralement reconnue comme critère de discrimination entre climats océaniques et continentaux.</ref> : {{tmp|15.3| °C }}
+* Cumuls annuels de précipitation{{note|texte= Une précipitation, en météorologie, est un ensemble organisé de particules d'eau liquide ou solide tombant en chute libre au sein de l'atmosphère. La quantité de précipitation atteignant une portion de surface terrestre donnée en un intervalle de temps donné est évaluée par la hauteur de précipitation, que mesurent les pluviomètres{{note|texte= [http://www.meteofrance.fr/publications/glossaire/153276-precipitation Glossaire – Précipitation], Météo-France}}.|groupe=Note}} : {{Unité|775 mm}}
+* Nombre de jours de précipitation en janvier : 12,4 j
+* Nombre de jours de précipitation en juillet : 8,5 j
+|}
+Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les [[précipitations]], dont les valeurs correspondent à la normale 1971-2000{{note|texte=Les normales servent à représenter le [[Climat de la France|climat]]. Elles sont calculées sur {{Unité|30 ans}} et mises à jour toutes les décennies. Après les normales 1971-2000, les normales pour la période 1981-2010 ont été définies et, depuis 2021, ce sont les normales 1991-2020 qui font référence en Europe et dans le monde{{note|texte= [https://meteofrance.com/actualites-et-dossiers/actualites/la-une/2021-de-nouvelles-normales-pour-qualifier-le-climat-en 2021 : de nouvelles normales pour qualifier le climat en France], Météo-France, 14 janvier 2021.}}.|groupe=Note}}. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-contre.
+
+Avec le [[changement climatique]], ces variables ont évolué. Une étude réalisée en 2014 par la [[Direction générale de l'Énergie et du Climat]]<ref>{{Lien web |url=https://www.ecologie.gouv.fr/sites/default/files/ONERC_Climat_France_XXI_Volume_4_VF.pdf|titre= Le climat de la France au XXIe siècle - Volume 4 - Scénarios régionalisés : édition 2014 pour la métropole et les régions d’outre-mer|site= ecologie.gouv.fr |consulté le=12 juin 2021}}.</ref> complétée par des études régionales<ref>{{Lien web |url=http://www.observatoireclimat-hautsdefrance.org/Les-grandes-questions/Changement-climatique-en-Hauts-de-France-ou-en-sommes-nous |titre=Observatoire régional sur l'agriculture et le changement climatique (Oracle) -  |site =www.observatoireclimat-hautsdefrance.org|consulté le= 30 juillet 2021}}.</ref> prévoit en effet que la  température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la [[station météorologique]] de [[Météo-France]] la plus proche, « Oulchy-le-Château », sur la commune d'[[Oulchy-le-Château]], mise en service en 1964<ref>{{Lien web |url=https://donneespubliques.meteofrance.fr/metadonnees_publiques/fiches/fiche_02580001.pdf|titre= Station Météo-France Oulchy-le-Château - métadonnées|site= donneespubliques.meteofrance.fr |consulté le=30 juillet 2021}}.</ref> et qui se trouve à {{unité|11|km}} à [[orthodromie|vol d'oiseau]]<ref>{{Lien web |url=https://fr.distance.to/Beuvardes,Ain/Oulchy-le-Château,Ain |titre=Orthodromie entre Beuvardes et Oulchy-le-Château |site=fr.distance.to |consulté le=30 juillet 2021}}.</ref>{{,}}<ref group=Note>La distance est calculée à vol d'oiseau entre la station météorologique proprement dite et le chef-lieu de commune.</ref>, où la température moyenne annuelle est de {{ tmp |11|°C}} et la hauteur de précipitations de {{Unité|712.6|mm}} pour la période 1981-2010<ref>{{Lien web |url=https://donneespubliques.meteofrance.fr/FichesClim/FICHECLIM_02580001.pdf|titre= Station Météo-France Oulchy-le-Château - fiche climatologique - statistiques 1981-2010 et records |site= donneespubliques.meteofrance.fr |consulté le=30 juillet 2021}}.</ref>.
+Sur la station météorologique historique la plus proche<ref group=Note>Par station météorologique historique, il convient d'entendre la station météorologique qui a été mise en service avant 1970 et qui est la plus proche de la  commune. Les données s'étendent ainsi au minimum sur trois périodes de trente ans (1971-2000, 1981-2010 et 1991-2020).</ref>, « Saint-Quentin », sur la commune de [[Fontaine-lès-Clercs]],  mise en service en 1933 et à {{unité|76|km}}<ref>{{Lien web |url=https://fr.distance.to/Beuvardes,Ain/Fontaine-lès-Clercs,Ain |titre=Orthodromie entre Beuvardes et Fontaine-lès-Clercs |site=fr.distance.to |consulté le=30 juillet 2021}}.</ref>, la température moyenne annuelle évolue de {{ tmp |10|°C}} pour la période 1971-2000<ref>{{Lien web |url=https://www.infoclimat.fr/climatologie/normales-records/1971-2000/saint-quentin-roupy/valeurs/07061.html |titre= Station météorologique de Saint-Quentin - Normales pour la période 1971-2000  |site =infoclimat.fr |consulté le= 30 juillet 2021}}.</ref> à {{ tmp |10.3|°C}} pour 1981-2010<ref>{{Lien web |url=https://www.infoclimat.fr/climatologie/normales-records/1981-2010/saint-quentin-roupy/valeurs/07061.html |titre= Station météorologique de Saint-Quentin - Normales pour la période 1981-2010  |site =infoclimat.fr |consulté le= 30 juillet 2021}}.</ref>, puis à {{ tmp |10.8|°C}} pour 1991-2020<ref>{{Lien web |url=https://www.infoclimat.fr/climatologie/normales-records/1991-2020/saint-quentin-roupy/valeurs/07061.html |titre= Station météorologique de Saint-Quentin - Normales pour la période 1991-2020  |site =infoclimat.fr |consulté le= 30 juillet 2021}}.</ref>.
+
+== Urbanisme ==
+=== Typologie ===
+Beuvardes est une commune rurale<ref group=Note>Selon le zonage publié en décembre 2020, en application de la nouvelle définition de la ruralité validée le {{date-|14 novembre 2020}} en comité interministériel des ruralités.</ref>{{,}}<ref>{{Lien web |url=https://www.observatoire-des-territoires.gouv.fr/kiosque/2020-article-zonage-rural#:~:text=Valid%C3%A9e%20lors%20du%20Comit%C3%A9%20interminist%C3%A9riel,de%20la%20diversit%C3%A9%20des%20territoires |titre=Zonage rural |site=www.observatoire-des-territoires.gouv.fr |consulté le= 23 mars 2021}}.</ref>. Elle fait en effet partie des communes peu ou très peu denses, au sens de la grille communale de densité de l'[[Institut national de la statistique et des études économiques|Insee]]<ref>{{Lien web |url=https://www.insee.fr/fr/metadonnees/definition/c1472|titre=Commune urbaine-définition |site=le site de l’[[Insee]] |consulté le= 23 mars 2021}}.</ref>{{,}}<ref>{{Lien web |url= https://www.observatoire-des-territoires.gouv.fr/methodes/methode-comprendre-la-grille-de-densite|titre= Comprendre la grille de densité|site=www.observatoire-des-territoires.gouv.fr |consulté le= 23 mars 2021}}.</ref>.
+
+Par ailleurs la commune fait partie de l'[[aire d'attraction de Château-Thierry]], dont elle est une commune de la couronne<ref group=Note>La notion d'[[aire d'attraction d'une ville|aire d'attraction des villes]] a remplacé en {{date-|octobre 2020}} celle d'[[aire urbaine (France)|aire urbaine]], pour permettre des comparaisons cohérentes avec les autres pays de l'[[Union européenne]].</ref>. Cette aire, qui regroupe {{Unité|52|communes}}, est catégorisée dans les aires de moins de {{Unité|50000|habitants}}<ref name="AAV2020">{{Lien web|url=https://www.insee.fr/fr/information/4803954|titre=Base des aires d'attraction des villes 2020|date=21 octobre 2020|site=le site de l'[[Institut national de la statistique et des études économiques]] |consulté le= 23 mars 2021}}.</ref>{{,}}<ref name="AAV20202b">{{Lien web|url=https://www.insee.fr/fr/statistiques/4806694 |titre=En France, neuf personnes sur dix vivent dans l’aire d’attraction d’une ville |auteur=Marie-Pierre de Bellefon, Pascal Eusebio, Jocelyn Forest, Olivier Pégaz-Blanc et Raymond Warnod (Insee) |date=21 octobre 2020 |site=le site de l'[[Institut national de la statistique et des études économiques]] |consulté le= 23 mars 2021}}.</ref>.
+
+=== Occupation des sols ===
+[[Fichier:02083-Beuvardes-Sols.png|vignette|redresse=1.4|alt=Carte en couleurs présentant l'occupation des sols.|Carte des infrastructures et de l'occupation des sols de la commune en 2018 ([[Corine Land Cover|CLC]]).]]
+L'occupation des sols de la commune, telle qu'elle ressort de la [[base de données]] [[Europe|européenne]] d’occupation [[biophysique]] des sols [[Corine Land Cover]] (CLC), est marquée par l'importance des territoires agricoles (51,5 % en 2018), néanmoins en diminution par rapport à 1990 (54,7 %). La répartition détaillée en 2018 est la suivante : 
+forêts (39,8 %), [[terres arables]] (36,6 %), prairies (11,8 %), zones urbanisées (5,6 %), zones agricoles hétérogènes (3,1 %), espaces verts artificialisés, non agricoles (2,9 %), milieux à végétation arbustive et/ou herbacée (0,1 %)<ref name="CLC">{{Lien web |url=https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0 |titre=CORINE Land Cover (CLC) - Répartition des superficies en 15 postes d'occupation des sols (métropole). |site=le [https://www.statistiques.developpement-durable.gouv.fr/ site des données et études statistiques] du ministère de la Transition écologique.|consulté le= 20 mai 2021}}.</ref>.
+
+L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la [[carte de Cassini]] ({{s-|XVIII}}), la [[carte d'état-major]] (1820-1866) et les cartes ou photos aériennes de l'[[Institut national de l'information géographique et forestière|IGN]] pour la période actuelle (1950 à aujourd'hui)<ref group=Carte>{{Lien web |url= https://remonterletemps.ign.fr/comparer/basic?x=3.49027777778&y=49.1427777778&z=14&layer1=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&layer2=GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR40&mode=doubleMap|titre=Évolution comparée de l'occupation des sols de la commune sur cartes anciennes|auteur =IGN |date = |site = remonterletemps.ign.fr |consulté le=13 juillet 2023}}.</ref>.
+
+=== Habitat et logement ===
+En 2018, le nombre total de [[logement]]s dans la commune était de 360, alors qu'il était de 334 en 2013 et de 326 en 2008<ref name="LogT2" group="I"/>.
+
+Parmi ces logements, 84,2 % étaient des [[résidence principale|résidences principales]], 11,1 % des résidences secondaires et 4,7 % des logements vacants. Ces logements étaient pour 96,4 % d'entre eux des [[maison|maisons individuelles]] et pour 2,5 % des [[appartement]]s<ref name="LogT2" group="I">{{lienweb|titre=Chiffres-clés - Logement en 2018 à Beuvardes - Section LOG T2|url=https://www.insee.fr/fr/statistiques/5397827?geo=COM-02083#ancre-LOG_T2 |consulté le=27 août 2023}}.</ref>.
+
+Le tableau ci-dessous présente la typologie des logements à Beuvardes en 2018 en comparaison avec celle de l'Aisne et de la France entière. Une caractéristique marquante du parc de logements est ainsi une proportion de [[résidence secondaire|résidences secondaires]] et logements occasionnels (11,1 %) supérieure à celle du département (3,5 %) et à celle de la France entière (9,7 %). Concernant le statut d'occupation de ces logements, 84,8 % des habitants de la commune sont propriétaires de leur logement (87,2 % en 2013), contre 61,6 % pour l'Aisne et 57,5 % pour la France entière<ref name="LogT7" group="I">{{lienweb|titre=Chiffres-clés - Logement en 2018 à Beuvardes - Section LOG T7|url=https://www.insee.fr/fr/statistiques/5397827?geo=COM-02083#ancre-LOG_T7 |consulté le=27 août 2023}}.</ref>.
+
+{| class="wikitable centre" style="text-align:center;"
+ |+ Le logement à Beuvardes en 2018.
+ |-
+! scope="col" style="background: #DDFFDD; color:#000000;" | Typologie
+! scope="col" style="background: #DDFFDD; color:#000000;" | Beuvardes<ref name="LogT2" group="I"/>
+! scope="col" style="background: #DDFFDD; color:#000000;" | Aisne<ref name="LogDep" group="I">{{lienweb|titre=Chiffres clés - Logement en 2018 dans l'Aisne - Section LOG T2|url=https://www.insee.fr/fr/statistiques/5397827?geo=DEP-02#ancre-LOG_T2 |consulté le=27 août 2023}}.</ref>
+! scope="col" style="background: #DDFFDD; color:#000000;" | France entière<ref name="LogFr" group="I">{{lienweb|titre=Chiffres clés - Logement en 2018 dans la France entière  - Section LOG T2|url=https://www.insee.fr/fr/statistiques/5397827?geo=FE-1#ancre-LOG_T2 |consulté le=27 août 2023}}.</ref>
+|-
+! scope="row" style="background: #DDFFDD; color:#000000; text-align:left;"   | Résidences principales (en %)
+| style="background: #FFFFFF; color:#000000;"  |84,2
+| style="background: #FFFFFF; color:#000000;"  |86,7
+| style="background: #FFFFFF; color:#000000;"  |82,1
+|-
+! scope="row" style="background: #DDFFDD; color:#000000; text-align:left;"   | Résidences secondaires et logements occasionnels (en %)
+| style="background: #FFFFFF; color:#000000;"  |11,1
+| style="background: #FFFFFF; color:#000000;"  |3,5
+| style="background: #FFFFFF; color:#000000;"  |9,7
+ |-
+! scope="row" style="background: #DDFFDD; color:#000000; text-align:left;"   | Logements vacants (en %)
+| style="background: #FFFFFF; color:#000000;"  |4,7
+| style="background: #FFFFFF; color:#000000;"  |9,8
+| style="background: #FFFFFF; color:#000000;"  |8,2
+ |-
+|}
+
+== Toponymie ==
+{{...}}
+Le nom de la localité est attesté sous les formes ''Beuvarda'' (1223) ; ''Buverde'' (1464) ; ''Beuvarde'' (1509) ; ''Buvarda'', ''Beuverde'' (1573) ; ''Buvarde'' (1580) ; ''Buvardes'' (1710)<ref name="Matton">{{Ouvrage|auteur1=Auguste Matton|titre=Dictionnaire topographique de l’Aisne|lieu=Paris|année=1871|passage=28|lire en ligne=https://dicotopo.cths.fr/places/P68794996}}.</ref>.<br>
+
+Beuvardes, à son origine, n'était composé que de Beuves ou [[wikt:bove#Nom_commun|Boves]] isolées, établies ça et là sur les vastes [[Pâturage|pâtis]] dont se composait le territoire. Dans les guerres du {{IXe|s}} siècle, ces Beuves furent brûlées, « ardées », comme on disait alors, et de là le nom de « Beuve ardée », Beuvardes<ref>{{Ouvrage|auteur1=Reḿy Amand de Vertus|titre=Histoire de [[Coincy (Aisne)|Coincy]], [[Fère-en-Tardenois|Fère]], Oulchy et des villages, châteaux, monastères, hameaux environnants|lieu= |éditeur=Imprimerie Saint-Antoine|année=1967|passage=169}}.</ref>{{,}}<ref>{{Ouvrage|auteur1=Henri Prieux|titre=Historique du Tardenoisien et des communes voisines de Fère en Tardenois|lieu= |éditeur=|année=1988|passage=154}}.</ref>.
+
+Beuvardelle, hameau de la commune<ref>{{Ouvrage|auteur1=Auguste Matton|titre=Dictionnaire topographique de l’Aisne|lieu=Paris|année=1871|passage=28|lire en ligne=https://dicotopo.cths.fr/places/P64627125}}.</ref>, est à l'origine une petite Beuve (ferme).
+
+== Histoire ==
+=== Ancien Régime ===
+Avant la [[Révolution française]], Beuvardes possédait une fondation de 300 livres de rentes pour ses pauvres<ref name="Généalogique"/>. 
+; Circonscriptions d'[[Société d'Ancien Régime|Ancien Régime]] :
+La [[paroisse]] relevait de l'[[Intendant (royaume de France)|intendance]] de [[Soissons]], des [[Bailliage et sénéchaussée|bailliage]] et [[Pays d'élection|élection]] de [[Château-Thierry]], ainsi que du [[Diocèse de Soissons, Laon et Saint-Quentin|diocèse de Soissons]]<ref name="Généalogique">{{Lien web
+|url=https://www.genealogie-aisne.com/communes/02083/
+|titre=Beuvardes
+|série=Communes |site=genealogie-aisne.com |consulté le=27 août 2023 }}.</ref>.
+
+=== Époque contemporaine ===
+Durant la [[Première Guerre mondiale]], le village subit des destructions<ref name="CSRD">Carte spéciale des régions dévastées, [[#CSRD|document mentionné en liens externes]], 1920.</ref> et a  été décoré de la [[croix de guerre 1914-1918 (France)|Croix de guerre 1914-1918]], le {{Date-|22 octobre 1920}}<ref>Journal officiel du 24 octobre 1920, {{p.|16440}}.</ref>.
+
+== Politique et administration ==
+=== Administration municipale ===
+=== Rattachements administratifs et électoraux ===
+==== Rattachements administratifs ====
+La commune se trouve depuis 1942 dans l'[[arrondissement de Château-Thierry]] du département de l'[[Aisne (département)|Aisne]]<ref name="meta">{{Lien web |url=https://www.insee.fr/fr/metadonnees/cog/commune/COM02083-beuvardes |titre=Code officiel géographique- Rattachements de la commune de Beuvardes |site=le [https://www.insee.fr/ site de l'Insee] |consulté le=20 avril 2020}}.</ref>.  
+
+Elle faisait partie depuis 1801 du [[canton de Fère-en-Tardenois]]<ref name="Cassini"/>. Dans le cadre du [[redécoupage cantonal de 2014 en France]], cette circonscription administrative territoriale a disparu, et le canton n'est plus qu'une circonscription électorale.
+
+==== Rattachements électoraux ====
+Pour les [[élections départementales en France|élections départementales]], la commune fait partie [[redécoupage cantonal de 2014 en France|depuis 2014]] d'un nouveau  [[canton de Fère-en-Tardenois]] porté de 23 à 84 communes<ref name="meta"/>.
+{{Article détaillé|Liste des cantons de l'Aisne |Conseil départemental de l'Aisne |Liste des conseillers départementaux de l'Aisne}}
+Pour l'[[élections législatives en France|élection des députés]], elle fait partie de la [[cinquième circonscription de l'Aisne]]depuis le [[Redécoupage des circonscriptions législatives françaises de 2010|dernier découpage électoral de 2010]]<ref name="Rattachements-elect">{{Lien web |url=http://www.politiquemania.com/decoupage-electoral-aisne.html|titre= Découpage électoral de l'Aisne (avant et après la réforme de 2010) |auteur= |date = |site =politiquemania.com |consulté le= 20 avril 2020}}.</ref>.
+{{Article détaillé|Liste des circonscriptions législatives de l'Aisne|Liste des députés de l'Aisne}} 
+
+=== Intercommunalité ===
+Beuvardes était membre de la [[communauté de communes du Tardenois]], un [[établissement public de coopération intercommunale]] (EPCI) à fiscalité propre créé en 2001 et auquel la commune avait transféré un certain nombre de ses compétences, dans les conditions déterminées par le [[code général des collectivités territoriales]].
+
+Dans le cadre des dispositions de la [[loi portant nouvelle organisation territoriale de la République]] du 7 août 2015, qui prévoit que les établissements publics de coopération intercommunale (EPCI) à fiscalité propre doivent avoir un minimum de {{unité|15000|habitants}}, cette intercommunalité a fusionné avec sa voisine pour former, le {{Date-|1er janvier 2017}}, la [[communauté  d'agglomération de la Région de Château-Thierry]] dont est désormais membre la commune<ref name="meta"/>.
+
+=== Liste des maires ===
+{{ÉluDébut |Titre= Liste des maires successifs<ref name="Généalogique"/>|Charte=commune}}
+{{ÉluDonnées}}
+{{Élu |Début= |Fin= |Identité= |Parti= |Qualité= }}
+{{Élu |Début=1820 |Fin= |Identité={{M.}} Deligny |Parti= |Qualité= }}
+{{Élu |Début= |Fin= |Identité= |Parti= |Qualité= }}
+{{Élu |Début=1900 |Fin= |Identité={{M.}} Leopolard  |Parti= |Qualité= }}
+{{Élu |Début= |Fin= |Identité= |Parti= |Qualité= }}
+{{Élu |Début= 1978 |Fin= mars 1989 |Identité= Yolande Dubois<ref>{{Article
+ |titre=	Certains élèves n’oublieront pas l’habitante de Beuvardes Yolande Dubois
+ |sous-titre=Le décès de Yolande Dubois a affecté élèves et enseignants qui avaient travaillé grâce à elle.
+ |périodique=[[L'Union (journal français)|L'Union ]] |date=27/10/2019
+ |lire en ligne=https://www.lunion.fr/id104463/article/2019-10-27/certains-eleves-noublieront-pas-lhabitante-de-beuvardes-yolande-dubois
+ |consulté le= 27/8/2023 }}.</ref>{{,}}<ref>{{Article |format=pdf
+ |titre=Yolande Dubois, une institutrice dans la Résistance
+ |périodique=àCT (À Château-Thierry) |date=octobre 2016 |pages=50
+ |lire en ligne=https://www.chateau-thierry.fr/publication/chateau-thierry-ndeg15-repensons-la-ville
+ |consulté le= 27/8/2023 }} {{Citation|Par la suite, elle fonde une famille avec Pierre Dubois, élève 3 enfants, devient professeur d’anglais et Maire de Beuvardes en décembre
+1978.}}.</ref>
+|Parti=[[Sans étiquette|SE]]  |Qualité= Institutrice et professeure d’anglais, résistante. }}
+
+{{Élu |Début= 1989|Fin= novembre 1995 <br/>{{Référence nécessaire||date=août 2023}}
+|Identité= Fernand Richard<ref group="Note">Une place de la commune porte le nom de ce maire.</ref>|Parti=[[Sans étiquette|SE]]  |Qualité= Directeur commercial ancien combattant}}
+
+{{Élu |Début= |Fin= |Identité= |Parti= |Qualité= }}
+{{Élu |Début= 2001|Fin= 2008|Identité= Luc Dussaussoy  |Parti=  |Qualité=Agriculteur }}
+{{Élu |Début= mars 2008<ref>[http://www.aisne.gouv.fr/Politiques-publiques/Collectivites-territoriales/Communes-de-l-Aisne Préfecture de l'Aisne] consulté le 7 juillet 2008</ref> |Fin= juillet 2020 |Identité=Lucien Jérome<ref>Réélu pour le mandat 2014-2020: {{Lien web  | format      = xls 
+ | url         = http://www.aisne.gouv.fr/content/download/10455/63953/file/Communes-Aisne.xls
+ | titre       = Liste des maires de l'Aisne  | jour        = 12/5/2014
+ | éditeur     = Préfecture de l'Aisne  | consulté le = 26 juillet 2014}}.</ref>
+|Parti=[[Divers droite|DVD]]  |Qualité=Professeur}}
+
+{{Élu actuel|Début= juillet 2020<ref>{{Lien web |format=txt
+ |url=https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503
+ |titre=Répertoire national des maires
+ |série=Répertoire national des élus
+ |date=2/12/2020 |site=data.gouv.fr|consulté le=29 mars 2021}}.</ref>
+|Fin= |Identité=Catherine Richard<ref>{{Article
+ |auteur1=
+ |titre=Dans le sud de l’Aisne, cinq mairesses parlent de ces petites différences quand le maire est une femme
+ |sous-titre=Elles échangent beaucoup, se concertent et se déplacent ensemble, notamment pour se rendre aux réunions, lorsque l’invitation est commune. Rencontre avec cinq maires au féminin dans des communes du Tardenois.
+ |périodique=[[L'Union (journal français)|L'Union]] |date=8/3/2023
+ |lire en ligne=https://www.lunion.fr/id462671/article/2023-03-08/dans-le-sud-de-laisne-elles-parlent-de-ces-petites-differences-quand-le-maire
+ |consulté le= 27/8/2023 }}.</ref>
+|Parti= |Qualité=Professeur ou profession scientifique 
+| Date à jour = 6 juin 2023}}
+{{ÉluFin}}
+
+== Démographie ==
+{{article connexe|Histoire du recensement de la population en France|Démographie de la France}}	
+<!--Le paragraphe que vous essayez de modifier est rédigé automatiquement par un modèle. 
+Veuillez insérer votre texte après {{Section démographie d'article de commune de France}} -->
+{{Population de France/section}}
+
+== Culture locale et patrimoine ==
+=== Lieux et monuments ===
+[[Fichier:Chene d'Artois.JPG|vignette|Le chêne d'Artois dans les années 1980.]]
+* [[Église Saint-Martin de Beuvardes|Église Saint-Martin]]<ref>[https://clochers.org/Fichiers_HTML/Accueil/Accueil_clochers/02/accueil_02083.htm Église Saint-Martin photographiée  par Clochers de France]</ref>
+* À la ferme d'''Artois'' se trouve un des arbres remarquables, un chêne de 700 ans.
+* Fontaine avec la statue de saint Martin.
+* [[Lavoir (bassin public)|Lavoirs]]<ref>[http://france.lavoirs.free.fr/region/Aisne/Aisne_lavoirs_omois.html Photo et localisation d'un lavoir, sur un site spécialisé]</ref>.
+* Circuit des Écuyers, dédié aux sports mécaniques auto et moto<ref>[http://www.lunion.presse.fr/index.php/cms/13/article/27285/Circuit_auto_de_Beuvardes___le_promoteur_s_explique Article de l''''Union''', en date du 5 juillet 2007]</ref>{{,}}<ref>[http://moto.caradisiac.com/Nouveaute-circuit-Beuvardes-02-et-ses-Ecuyers-vous-ouvre-ses-portes-402]</ref>. Cette piste vallonnée (parfois appelée « Circuit de Château-Thierry ») n'accueille pas de compétition.
+
+=== Personnalités liées à la commune ===
+* [[Prudent Prudent-Dervillers]] (1849-1896), maître tailleur, [[communard]], ancien député, fondateurs du [[Parti ouvrier français|Parti ouvrier]] y est né<ref>{{Lien web
+|url=https://maitron.fr/spip.php?article79980
+|titre=DERVILLERS Onésime, Prudent, Jean-François, dit PRUDENT-DERVILLERS
+|sous-titre=Né le 1er décembre 1849 à Beuvardes par La Fère-en-Tardenois (Aisne) ; mort le 30 octobre 1896 à Paris (XIXe arr.) ; coupeur-tailleur ; communard ; possibiliste ; conseiller municipal socialiste du XIIIe arr. ; député du XIXe arr
+|auteurs=[[Claude Pennetier]], Justinien Raymond |éditeur=[[Le Maitron en ligne]] |date=30/3/2010 mis à jour le 13/11/2021 |consulté le=27 août 2023}}.</ref>{{,}}<ref>{{Sycomore|6527|Prudent, Onésime Prudent-Dervillers(1849-1896)}}.</ref>.
+
+== Pour approfondir ==
+{{Autres projets 
+| commons = Category:Beuvardes
+}}
+
+=== Bibliographie ===
+* {{Ouvrage
+|auteur1=[[Étienne Moreau-Nélaton]]
+|titre=Recueil. Patrimoine architectural du département de l'Aisne
+|sous-titre=Arrondissement de Château-Thierry
+|année=1907-1913
+|volume= |titre volume=Communes classées dans l'ordre alphabétique, de Beuvardes à Brécy
+|passage=1-19
+|lire en ligne=https://gallica.bnf.fr/ark:/12148/btv1b84329938/f9.vertical
+|consulté le=27 août 2023 }}, sur [[Gallica]].
+
+* {{Ouvrage
+|auteur1=[[Étienne Moreau-Nélaton]]
+|titre=Recueil. Monuments du département de l'Aisne détruits ou endommagés pendant la guerre de 1914-1918
+|année=vers 1919
+|passage=49-54
+|lire en ligne=https://gallica.bnf.fr/ark:/12148/btv1b84329597/f53.vertical.r=beuvardes
+|consulté le=27 août 2023}}, sur [[Gallica]].
+
+=== Articles connexes ===
+* [[Liste des communes de l'Aisne]]
+
+=== Liens externes ===
+* {{Lien web
+|url=https://www.insee.fr/fr/statistiques/2011101?geo=COM-02083
+|titre=Dossier complet : Commune de Beuvardes  (02083)
+|série=Recensement général de la population de 2020
+|éditeur=[[Institut national de la statistique et des études économiques|INSEE]] |id=RGP
+|en ligne le=25/7/2023 |consulté le=27/8/2023}}.
+
+* [http://www.insee.fr/fr/themes/comparateur.asp?codgeo=COM-02083 Résumé statistique de Beuvardes  sur le site de l'Insee]
+
+* {{Géoportail
+ | latitude                    = 49.1427777778
+ | longitude                   = 3.49027777778
+|zoom=8
+|desc=Beuvardes 
+}}
+
+* {{Ouvrage
+|titre=Carte spéciale des régions dévastées
+|sous-titre= 33 SE, Soissons [Sud-Est]
+|éditeur=Service géographique de l'armée
+|année=1920 |consulté le =27/8/2023
+|lire en ligne=https://gallica.bnf.fr/ark:/12148/btv1b85934945/f1.item.zoom |id=CSRD }}, sur [[Gallica]]
+
+* {{Autorité}}
+
+== Notes et références ==
+=== Notes et cartes ===
+==== Notes ====
+{{Références|groupe=Note}}
+
+==== Cartes ====
+{{Références|groupe=Carte}}
+
+=== Références ===
+==== Site de l'Insee ====
+{{Références|group=I}}
+
+==== Autres sources ====
+{{Références}}
+
+{{Palette|Canton de Fère-en-Tardenois|Communauté d'agglomération de la Région de Château-Thierry|Arrondissement de Château-Thierry}}
+
+{{Portail|Aisne|communes de France}}
+
+[[Catégorie:Commune dans l'Aisne|Beuvardes]]
+[[Catégorie:Ville décorée de la croix de guerre 1914-1918]]
+[[Catégorie:Aire d'attraction de Château-Thierry]]

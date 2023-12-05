@@ -1,0 +1,619 @@
+{{coord|53|-8|scale:2000000|display=title}}
+{{3autres|l'État souverain|l'île dont il occupe la majeure partie|Irlande (île)|le pays constitutif du Royaume-Uni|Irlande du Nord||Irlande}}
+{{redirect|République d'Irlande|homonymie=République irlandaise}}
+{{Infobox Pays
+ | nom_français            = Irlande<ref name="nomofficiel" group="Note">Bien que parfois appelée {{citation|République d'Irlande}}, l'[https://www.irishstatutebook.ie/eli/cons/en/html#part2 article 4] de la [[Constitution de l'Irlande]] déclare que le nom de l'État est {{citation|Irlande}} ({{lang|en|''Ireland''}} et {{lang|ga|''Éire''}}). La [http://www.irishstatutebook.ie/1948/en/act/pub/0022/sec0002.html deuxième section] de la [[Loi sur la République d'Irlande de 1948]] déclare que la « République d'Irlande » est « la description de l'État »</ref>
+ | nom_ancien              = 
+ | nom_local               = 
+ | langue                  = 
+ | prononciation           = 
+ | nom_local1              = {{langue|ga|Éire}}
+ | nom_local2              = {{langue|en|Ireland}}
+ | langue1                 = ga
+ | langue2                 = en
+ | transcription1          = 
+ | transcription2          = 
+ | prononciation1          = 
+ | prononciation2          = 
+ | nom                     = Irlande
+ | de                      = d'
+ | image_drapeau           = Flag of Ireland.svg
+ | bordure_drapeau         = 
+ | lien_drapeau            = Drapeau de l'Irlande
+ | image_blason            = Coat of arms of Ireland.svg
+ | lien_blason             = Armoiries de l'Irlande
+ | image_carte             = EU-Ireland (orthographic projection).svg
+ | upright carte           = 
+ | descr_carte             = 
+ | image_carte2            = Ei-map-fr.png
+ | upright carte2          = 
+ | descr_carte2            = 
+ | devise1                 = Pas de devise officielle
+ | langue_devise1          = 
+ | transcription_devise1   = 
+ | traduction_devise1      = 
+ | note_devise1            = 
+ | hymne1                  = [[Amhrán na bhFiann]]
+ | langue_hymne1           = [[irlandais]]
+ | transcription_hymne1    = 
+ | traduction_hymne1       = La Chanson du soldat
+ | note_hymne1             = 
+ | audio_hymne1            = United States Navy Band - Amhrán na bhFiann.ogg
+ | langues_officielles     = [[irlandais]] • [[anglais]]
+ | type_langues            = [[Langues en Irlande|Langues officielles]]
+ | langues_régionales_off  = 
+ | capitale                = [[Dublin]]
+ | coordonnées_capitale    = {{coord|53.343418|-6.267612}}
+ | lien_villes             = Liste des villes de l'État d'Irlande
+ | titre_plus_grande_ville = Villes principales
+ | plus_grande_ville       = [[Dublin]]
+ | type_gouvernement       = [[République]] [[Régime parlementaire|parlementaire]] [[État unitaire|unitaire]]
+ | titre_revendication     = 
+ | revendication           = 
+ | reconnaissance          = 
+ | titre_dirigeant         = [[Président de l'Irlande|Président]]
+ | nom_dirigeant           = [[Michael D. Higgins]]
+ | titre_dirigeant2        = [[Taoiseach|Premier ministre]]
+ | nom_dirigeant2          = [[Leo Varadkar]]
+ | titre_dirigeant3        = [[Tánaiste|Vice-Premier ministre]]
+ | nom_dirigeant3          = [[Micheál Martin]]
+ | titre_parlement         = [[Parlement]]
+ | nom_parlement           = [[Oireachtas]]
+ | titre_parlement2        = [[Chambre haute]]<br/>[[Chambre basse]]
+ | nom_parlement2          = [[Seanad Éireann|Sénat]]<br/>[[Dáil Éireann|Assemblée]]
+ | superficie_rang         = 118
+ | superficie_totale       = 70273
+ | pourcentage_eau         = 2 %
+ | population_rang         = 113
+ | population_totale       = 5011500
+ | population_année        = 2021<ref>{{lien web|url=https://www.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2021/ |éditeur=Central Statistics Office |titre=Population and Migration Estimates |date=31 août 2021 |consulté le=31 août 2021 |archive-date=31 août 2021 |archive-url=https://web.archive.org/web/20210831101202/https://www.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2021/ }}</ref>
+ | groupes_ethniques       = 
+ | type_formation          = [[Proclamation de la République irlandaise|Proclamation]] de la [[République irlandaise (1919)|République]]
+ | date_formation          = {{date-|24|avril|1916}}
+ | type_formation2         = [[Déclaration d'indépendance de l'Irlande|Déclaration d'indépendance]]
+ | date_formation2         = {{date-|21|janvier|1919}}
+ | type_formation3         = [[Guerre d'indépendance irlandaise|Guerre d'indépendance]]
+ | date_formation3         = {{période|1919|1921}}
+ | type_formation4         = [[Partition de l'Irlande|Partition]]
+ | date_formation4         = {{date-|3|mai|1921}}
+ | type_formation5         = [[Irlande du Sud]]
+ | date_formation5         = {{période|1921|1922}}
+ | type_formation6         = [[Guerre civile irlandaise|Guerre civile]]
+ | date_formation6         = {{période|1922|1923}}
+ | type_formation7         = [[Traité anglo-irlandais|Création]] de l'[[État libre d'Irlande]] et {{1re|Constitution}}
+ | date_formation7         = {{date-|6|décembre|1922}}
+ | type_formation8         = État libre d'Irlande
+ | date_formation8         = {{période|1922|1937}}
+ | type_formation9         = [[Constitution de l'Irlande|Constitution républicaine]]
+ | date_formation9         = {{date-|29|décembre|1937}}
+ | type_formation10        = [[Loi sur la République d'Irlande de 1948|Loi sur la République d'Irlande]]
+ | date_formation10        = {{date-|18|avril|1949}}
+ | gentilé                 = [[Irlandais (peuple)|Irlandais]]<br>[[Irlandais (peuple)|Irlandaise]]
+ | déflateur               = 
+ | déflateur_année         = 
+ | PIBPPA_année            = 2022
+ | PIB_PPA                 = {{augmentation}} {{unité|633.533|milliards}} de [[Dollar américain|$]]<br/>+ 11,80 %
+ | PIBPPA_rang             = {{50e}}
+ | PIB_année               = 2022
+ | PIB                     = {{augmentation}} {{unité|516.146|milliards}} de [[Dollar américain|$]]<br/>+ 3,45 %
+ | PIB_rang                = {{32e}}
+ | PIB_HABNOM              = {{augmentation}} {{unité|101509.490|[[Dollar américain|$]]}}<br/>+ 2,52 %
+ | PIBHABNOM_année         = 2022
+ | PIBHABNOM_rang          = {{7e}}
+ | PIB_HAB                 = {{augmentation}} {{unité|124595.726|[[Dollar américain|$]]}}<br/>+ 10,70 %
+ | PIBHAB_année            = 2022
+ | PIBHAB_rang             = {{6e}}
+<!--  | PIBV_année         = 2014
+ | PIBV                    = {{augmentation}} {{unité|181.330|milliards}} d'[[euro]]s<br/>+ 8,84 % --> | chômage_année           = 2022
+ | chômage                 = {{diminution positive}} 5,9 % de la pop. active<br/>- 4,64 %
+ | chômage_rang            = 
+ | dette_année             = 2022
+ | dette                   = '''Nominale :'''<br/>{{augmentation négative}} {{unité|243.933|milliards}} d'[[Euro|€]]<br/>+ 4,71 % <br/>'''Relative :'''<br/>{{diminution positive}} 53,283 % du [[Produit intérieur brut|PIB]]<br/>- 3,56 %
+ | monnaie                 = [[Euro]]<ref group="Note">Avant 2002, la monnaie était la [[livre irlandaise (1927-2002)|livre irlandaise]].</ref>
+ | code_monnaie            = EUR
+ | IDH                     = {{augmentation}} 0,945<ref name="IDH">{{HDR|2022}}</ref>
+ | IDH_année               = 2021
+ | IDH_catégorie           = très élevé
+ | IDH_rang                = {{8e}}
+ | IDHI                    = {{augmentation}} {{formatnum:0.886}}<ref name="hdr2021-22">https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf </ref>
+ | IDHI_année              = 2021
+ | IDHI_rang               = {{6e}}
+ | Gini                    = {{diminution positive}} 29,2 %<ref name="Gini_BM">{{Lien web |langue=en |titre=Gini index |url=https://data.worldbank.org/indicator/SI.POV.GINI?most_recent_value_desc=false |consulté le=24 avril 2023 |site=[[Banque mondiale]]}}.</ref>
+ | Gini_année              = 2020
+ | Gini_rang               = 
+ | IIG                     = {{augmentation négative}} {{formatnum:0.074}}<ref name="hdr2021-22" />
+ | IIG_année               = 2021
+ | IIG_rang                = {{21e}}
+ | IPE                     = {{augmentation}} {{formatnum:57.4}}<ref name="IPE2022">{{Ouvrage |langue=en |auteur1=Martin J. Wolf |auteur2=John W. Emerson |auteur3=Daniel C. Esty |auteur4=Alex de Sherbinin |auteur5=Zachary A. Wendling |et al.=oui |titre=2022 Environmental Performance Index |lieu=New Haven, Connecticut, États-Unis |éditeur=Yale Center for Environmental Law & Policy |année=2022 |pages totales=192 |isbn= |lire en ligne=https://epi.yale.edu/downloads/epi2022report06062022.pdf |format électronique=pdf }}.</ref>
+ | IPE_année               = 2022
+ | IPE_rang                = {{24e}}
+ | fuseau_horaire          = [[UTC±00:00|+0]] ([[heure d'été|été]] : [[UTC+01:00|UTC+1]])
+ | fête_nationale          = [[17 mars]]
+ | fête_evt                = [[Fête de la Saint-Patrick]]
+ | domaine_internet        = [[.ie]] ([[.eu]]<ref group=Note>[[.eu]], partagé avec les autres pays de l’Union européenne.</ref>)
+ | iso3166-1               = IRL, IE
+ | indicatif_téléphonique  = 353
+ | code_plaque             = IRL
+ | organisations           = {{ONU}}{{-}}[[Fichier:Logo du Conseil de l'Europe (version révisée 2013).svg|20x20px]] [[Conseil de l'Europe|COE]]{{-}}{{UE-d}} [[Union européenne|UE]]<br>[[Fichier:ESA Logo.svg|20x20px]] [[Agence spatiale européenne|ESA]]{{-}}[[Fichier:OECD logo.svg|20x20px]] [[Organisation de coopération et de développement économiques|OCDE]]
+ | p1                      = 
+}}
+
+L{{'}}'''Irlande''' ({{MSAPI|/iʁ.lɑ̃d/}} {{Prononciation|LL-Q150 (fra)-Fhala.K-Irlande.wav}} ; {{En langue|ga|Éire}} {{MSAPI|/ˈeːɾʲə/}} {{Prononciation|Eire_pronunciation.ogg}} ; {{En langue|en|Ireland}} {{MSAPI|/ˈaɪəɹ.lənd/}} {{Prononciation|en-us-Ireland.ogg}}), également connue de manière informelle sous le nom de '''République d'Irlande''' ({{En langue|ga|Poblacht na hÉireann}} ; {{En langue|en|Republic of Ireland}})<ref name="nomofficiel" group="Note" />, est un [[État souverain]] d'[[Europe de l'Ouest]], ou selon d'autres définitions, du [[Europe du Nord|Nord]]. Il est constitué de vingt-six des trente-deux [[Comté d'Irlande|comtés]] de l'île d'[[Irlande (île)|Irlande]]. La capitale et la plus grande ville est [[Dublin]], située dans l'est de l'île.
+
+La population, estimée à environ {{nobr|5 millions}} d'habitants en 2021, réside à 40 % dans la région du [[Grand Dublin]]. L'État souverain partage sa seule [[Frontière entre l'Irlande et le Royaume-Uni|frontière terrestre]] avec l'[[Irlande du Nord]], qui fait [[Nation constitutive (Royaume-Uni)|partie]] du [[Royaume-Uni]]. Situé dans les [[Îles Britanniques]], il est par ailleurs entouré par l'[[océan Atlantique]], avec la [[mer Celtique]] au sud, le [[canal Saint-Georges]] au sud-est et la [[mer d'Irlande]] à l'est, qui la sépare de la [[Grande-Bretagne]].
+
+L'Irlande est une [[république]] [[État unitaire|unitaire]] et [[Régime parlementaire|parlementaire]]. Sa législature, le [[Oireachtas|Parlement national]] (''Oireachtas''), se compose d'une [[chambre haute]], le [[Seanad Éireann|Sénat d'Irlande]] (''Seanad Éireann''), d'une [[chambre basse]], l'[[Dáil Éireann|Assemblée d'Irlande]] (''Dáil Éireann''), et d'un [[Président de l'Irlande|président élu]] (''Uachtarán'') qui sert de [[chef d'État]] avec un rôle en grande partie cérémoniel, tout en ayant des pouvoirs et des devoirs importants. Le [[chef du gouvernement]] est le [[Taoiseach|Premier ministre]] (''Taoiseach''), qui est élu par l'Assemblée et nommé par le président. Le Premier ministre nomme à son tour les autres ministres du gouvernement.
+
+L'[[État libre d'Irlande]] a été créé, avec le statut de [[dominion]], en 1922 à la suite du [[traité anglo-irlandais]]. En 1937, une [[Constitution de l'Irlande|nouvelle constitution]] a été adoptée, dans laquelle l'État a été nommé « Irlande » et est effectivement devenu une république, avec un président non exécutif élu. Elle a été officiellement déclarée république en 1949, à la suite de l'entrée en vigueur de la [[loi sur la République d'Irlande de 1948]]. L'Irlande est devenue membre de l'[[Organisation des Nations unies]] en {{date-|décembre 1955}}. Elle a rejoint les [[Communautés européennes]] (préfigurant l'[[Union européenne]]) en 1973.
+
+L'État n'a eu aucune relation formelle avec l'[[Irlande du Nord]] pendant la majeure partie du {{s-|XX}}, mais au cours des années 1980 et 1990, les gouvernements [[Gouvernement du Royaume-Uni|britannique]] et [[Gouvernement de l'Irlande|irlandais]] ont travaillé avec les partis politiques d'Irlande du Nord pour mettre fin aux « [[Conflit nord-irlandais|troubles]] ». Depuis la signature de l'[[accord du Vendredi saint]] en 1998, le gouvernement irlandais et l'[[Exécutif d'Irlande du Nord]] ont coopéré dans un certain nombre de domaines politiques, dans le cadre du Conseil ministériel Nord/Sud créé par l'accord.
+
+[[Dublin]] constitue l'un des principaux centres financiers d'[[Europe]]. L'Irlande se classe parmi les dix pays les plus riches du monde en termes de [[produit intérieur brut par habitant]], bien que cela ait été partiellement attribué aux distorsions causées par les pratiques d'inversion fiscale de diverses multinationales opérant en Irlande. À partir de 2017, un [[revenu national brut]] modifié a été adopté par la [[Central Bank and Financial Services Authority of Ireland|Banque centrale d'Irlande]], car l'écart type était considéré comme trop déformé pour mesurer ou représenter avec précision l'[[Économie de l'Irlande|économie irlandaise]].
+
+Après avoir rejoint les Communautés européennes, le gouvernement irlandais a pratiqué une série de [[Libéralisme économique|politiques économiques libérales]] qui ont entraîné une forte croissance économique entre 1995 et 2007, aujourd'hui connue sous le nom de la période du [[Tigre celtique]], avant son arrêt ultérieur pendant la [[Crise économique mondiale de 2008|Grande Récession]]. En tant que [[pays développé]], l'Irlande possède une qualité de vie parmi les meilleures au [[Monde (univers)|monde]], et elle obtient de bons résultats dans plusieurs indicateurs de performances nationales, comme les [[soins de santé]], la [[liberté économique]] et la [[Classement mondial de la liberté de la presse|liberté de la presse]].
+
+L'Irlande est membre de l'[[Union européenne]], du [[Conseil de l'Europe]] et de l'[[Organisation de coopération et de développement économiques|OCDE]]. Le gouvernement irlandais a suivi une politique de [[Neutralité (relations internationales)|neutralité militaire]] par non-alignement, depuis la veille de la [[Seconde Guerre mondiale]]. Par conséquent, le pays n'est pas membre de l'[[Organisation du traité de l'Atlantique nord|OTAN]], bien qu'il soit membre du [[Partenariat pour la paix]] et de certains aspects de la [[Coopération structurée permanente|CSP]].
+{{Sommaire|niveau=2}}
+
+== Toponymie ==
+{{Article détaillé|Noms de l'État d'Irlande}}
+Selon la [[Constitution de l'Irlande|Constitution de 1937]], le nom officiel de l'État est simplement « Irlande » (''Éire'' en [[irlandais]] et ''Ireland'' en [[anglais]])<ref>{{loi |langue= en|pays= Irlande|lien titre= Constitution de l'Irlande|titre= Constitution de l'Irlande|article= 4|lire en ligne= http://www.irishstatutebook.ie/eli/cons/en/html|consulté le= 4/4/2017}}.</ref>.
+
+Depuis l'entrée en vigueur de la [[loi sur la République d'Irlande de 1948|loi sur la République d'Irlande]] en 1949, la « désignation officielle » de l'État (au sens de l'organisation politique du pays) est « République d'Irlande » (''Poblacht na hÉireann'' en [[irlandais]] ou ''Republic of Ireland'' en [[anglais]])<ref>{{loi |langue= en|pays= Irlande|lien titre= Republic of Ireland Act|titre= Republic of Ireland Act 1948|article= 2|lire en ligne= http://www.irishstatutebook.ie/eli/1948/act/22/enacted/en/print|consulté le= 4/4/2017}}.</ref>, mais le nom de l'État (au sens de sujet de droit international) reste « Irlande ». Ainsi, par exemple, le chef d'État porte le titre de [[président de l'Irlande]] et non pas de président de la république d'Irlande<ref>{{loi |langue= en|pays= Irlande|lien titre= Constitution de l'Irlande|titre= Constitution de l'Irlande|article= 12|lire en ligne= http://www.irishstatutebook.ie/eli/cons/en/html|consulté le= 4/4/2017}}.</ref>. En outre, les sources toponymiques francophones indiquent bien que la forme longue (ou officielle) du pays est « Irlande »<ref>{{lien web |auteur1=Office des Publications - Diffusion |titre=Office des Publications - Code de rédaction interinstitutionnel  Annexe A5 …<!-- Vérifiez ce titre --> |url=https://archive.wikiwix.com/cache/20020703000000/http://publications.eu.int/code/fr/fr-5000500.htm |site=publications.eu.int via [[Wikiwix]] |consulté le=13-10-2023}}.</ref>{{,}}<ref>{{Lien web |langue=en |titre=Alphabetical list of ILO member countries |url=http://www.ilo.org/public/english/standards/relm/country.htm |site=www.ilo.org |consulté le=2019-11-10}}</ref>{{,}}<ref>{{Lien web |auteur1=[[Commission d'enrichissement de la langue française]] |titre=Recommandation concernant les noms d’États, d’habitants, de capitales, de sièges diplomatiques ou consulaires |url=https://www.diplomatie.gouv.fr/IMG/pdf/denomination_pays_habitants_2019_cle0e391e.pdf |site=diplomatie.gouv.fr |jour=21 |mois=4 |année=2019 |consulté le=10/11/2019}}.</ref>, ce qui est confirmé par les versions françaises des traités européens dont l'Irlande fait partie.
+
+L'appellation « [[République irlandaise (1919)|République irlandaise]] » (''Irish Republic'') est le nom de la république autoproclamée le {{date-|21/1/1919}}. Entre 1922 (sortie du [[Royaume-Uni]]) et 1937, l'État portait le nom officiel d'[[État libre d'Irlande]] (''Saorstát Éireann'' en irlandais, ''Irish Free State'' en anglais)<ref>{{en}} [http://www.irishstatutebook.ie/eli/1922/act/1/enacted/en/print Constitution of the Irish Free State (Saorstát Eireann) Act, 1922], ISB</ref>.
+
+Chaque État de l'[[Union européenne]] porte un nom propre dans chacune des langues officielles. Le nom de l'État est donc « Éire » en irlandais, « Ireland » en anglais et « Irlande » en français<ref name=":1">{{Lien web |langue=irlandais |titre=Iarscríbhinn A5, Liosta tíortha, críoch agus airgeadraí |url=http://publications.europa.eu/code/ga/ga-5000500.htm |site=an Treoir Stíle (Europa, Oifig na bhFoilseachán) |date=20.8.2018}}.</ref>. Mais les appellations « Poblacht na hÉireann », « Republic of Ireland » ou « République d’Irlande », n'ont aucun caractère officiel pour l'Union<ref name=":1" />.
+
+== Géographie ==
+{{Article détaillé|Géographie de l'Irlande (pays)}}
+{{Article connexe|amorce=Pour la globalité de l'île d'Irlande|Géographie de l'Irlande}}
+[[Fichier:Map of Ireland.jpg|vignette|Carte de l'Irlande avant la partition.]]
+[[Fichier:Inisheer landscape.jpg|vignette|[[Îles d'Aran]].]]
+L'Irlande est située sur l'[[Irlande (île)|île éponyme]], au nord-ouest du continent européen dans l'[[océan Atlantique]] nord. Elle s'étend sur plus de 85 % de la superficie de l'île, soit {{unité|70273|km|2}}<ref name="2020_www.cia.gov" /> (l'[[Irlande du Nord]], au nord-est de l'île, est elle sous souveraineté britannique). Le pays est divisé en vingt-six [[comté d'Irlande|comtés]].
+
+La capitale de l'Irlande est [[Dublin]], mais d'autres villes possèdent {{Passage évasif|une certaine notoriété}} : [[Galway]], [[Cork]], [[Waterford (Irlande)|Waterford]] et [[Limerick]].
+
+=== Localisation et frontières ===
+{{Section vide ou incomplète}}
+Le territoire irlandais se situe par 53° 20' 36" Nord, soit à peu près à la même longitude que la [[Côte d'Ivoire|République de Côte d'Ivoire]], et à 6° 16' 03" Ouest soit à peu près à la même latitude que la province canadienne de [[Terre-Neuve-et-Labrador]].{{Territoires limitrophes|type=Territoire|élision= de l'|nom=Irlande|notes=|nord=[[Irlande du Nord]], à {{Unité|140|km}}|nord-est=[[Norvège]], à {{Unité|1265|km}}|est=[[Royaume-Uni]], à {{Unité|463|km}}|sud-est =[[France]], à {{Unité|787|km}}|sud=[[Portugal]], à {{Unité|1637|km}}|sud-ouest=[[Venezuela]], à {{Unité|7110|km}}|ouest=[[Canada]], à {{Unité|4900|km}}|nord-ouest =[[Groenland]], à {{Unité|2805|km}}|width=|align=}}
+
+
+Les [[frontière entre l'Irlande et le Royaume-Uni|frontières de l'État d'Irlande]] sont [[Frontière maritime|maritimes]] à l'exception de [[Frontière entre l'Irlande et le Royaume-Uni|celle traversant l'île sur {{unité|500|km}}]] et séparant l'[[Irlande du Nord]], membre du [[Royaume-Uni]], de l'[[Irlande du Sud]].
+
+=== Géologie ===
+{{Section vide ou incomplète}}
+
+=== Topographie et hydrographie ===
+La morphologie de l'île comprend une plaine centrale entourée de montagnes et de collines, particulièrement dans le [[Donegal]] et le [[Comté de Wicklow|Wicklow]]. Mais les sommets les plus hauts se trouvent au sud-ouest avec les [[Macgillycuddy's Reeks]] qui comprend le point culminant du pays, le [[Carrauntuohil]] avec ses {{unité|1038|mètres}}.
+
+Les paysages sont faits de [[tourbière]]s, de lacs et de rivières. L'Irlande possède d'ailleurs dans la totalité de son cours, le plus long fleuve des îles Britanniques (appelées ici [[îles Britanniques|îles Anglo-Celtes]]) : le [[Shannon (fleuve)|Shannon]], qui parcourt {{unité|386|km}} du nord au sud-ouest avant de se jeter dans l'océan Atlantique. Deux autres cours d'eau sont également particulièrement importants : la [[Barrow (fleuve)|Barrow]] et la [[Blackwater (comté de Cork)|Blackwater]].
+
+Au sud-ouest, les [[falaises de Moher]] surplombent l'océan Atlantique. Non loin de là, les [[îles d'Aran]] font face à la baie de [[Galway]]. À l'est du pays, au nord de Dublin, le rivage est assez plat. Mais tout autour de l'île s'étendent de nombreuses plages de sable fin.
+
+=== Climat ===
+Le climat est de type [[climat océanique|tempéré océanique]], ou Cfb selon le système de [[Classification de Köppen|classification de climat de Köppen]]. Les étés sont généralement doux, la température ne dépassant que très rarement les {{Température|25|°C}}.
+Les hivers sont frais et pluvieux. Les températures minimales ne descendent qu'exceptionnellement en dessous de {{Température|0|°C}}.
+
+Le Centre et l'Est de l'île connaissent des températures un peu plus basses en hiver que l'Ouest du pays, qui bénéficie énormément de l'effet du [[Gulf Stream]]. À Dublin, les mois les plus frais sont janvier et février des moyennes de {{tmp|3|°C}} pour les minimales et de {{tmp|8|°C}} pour les maximales ; en été, les températures moyennes oscillent entre {{tmp|12|°C}} pour les minimales et {{tmp|19|°C}} pour les maximales. Les précipitations sont assez importantes ({{unité|733|mm}} de précipitations annuelles en moyenne à Dublin). Elles tombent rarement sous forme de neige (quatre jours de neige par an en moyenne à Dublin).
+
+Les écarts de température dans une même journée sont faibles : il n'est pas rare que la température soit constante du matin au soir, ce qui contraste avec les brusques changements de temps durant les saisons intermédiaires (printemps et automne), au cours desquelles la rapidité d'évolution du temps est étonnante avec des épisodes de « giboulées » très fréquents.
+
+{{Climat
+|titre=Relevé météorologique de Dublin (normales et records)
+|source='''Le climat à Dublin (en °C et mm, moyennes mensuelles et records)''' [http://www.met.ie/climate/dublinairport.asp met.ie]
+|diagramme=oui
+|tmax-jan=7.6    |tmoy-jan=5.0       |tmin-jan=2.5
+|tmax-fev=7.5    |tmoy-fev=5.0       |tmin-fev=2.5
+|tmax-mar=9.5    |tmoy-mar=6.3       |tmin-mar=3.1
+|tmax-avr=11.4    |tmoy-avr=7.9       |tmin-avr=4.4
+|tmax-mai=14.2   |tmoy-mai=10.5      |tmin-mai=6.8
+|tmax-jui=17.2    |tmoy-jui=13.4       |tmin-jui=9.6
+|tmax-jul=18.9    |tmoy-jul=15.1      |tmin-jul=11.4
+|tmax-aou=18.6    |tmoy-aou=14.9       |tmin-aou=11.1
+|tmax-sep=16.6    |tmoy-sep=13.1       |tmin-sep=9.6
+|tmax-oct=13.7    |tmoy-oct=10.6      |tmin-oct=7.6
+|tmax-nov=9.8    |tmoy-nov=7.0       |tmin-nov=4.2
+|tmax-dec=8.4    |tmoy-dec=5.9       |tmin-dec=3.4
+|prec-jan=70 |pluie-jour-jan=
+|prec-fev=50 |pluie-jour-fev=
+|prec-mar=54 |pluie-jour-mar=
+|prec-avr=51 |pluie-jour-avr=
+|prec-mai=55 |pluie-jour-mai=
+|prec-jui=56 |pluie-jour-jui=
+|prec-jul=50 |pluie-jour-jul=
+|prec-aou=71 |pluie-jour-aou=
+|prec-sep=66 |pluie-jour-sep=
+|prec-oct=70 |pluie-jour-oct=
+|prec-nov=64 |pluie-jour-nov=
+|prec-dec=76 |pluie-jour-dec=
+|tmax-record-ann=28.7
+|tmin-record-ann=-12.2
+|tmax-ann=12.8       <!--température maximum moyenne annuelle (en°C) -->
+|tmoy-ann=9.6           <!--température moyenne annuelle (en°C) -->
+|tmin-ann=6.4       <!--température minimum moyenne annuelle(en°C) -->
+|prec-ann=733           <!--précipitations annuelles moyennes (en mm) -->
+|tmin-record-jan=-9.4      |tmin-record-date-jan=
+|tmin-record-fev=-6.2      |tmin-record-date-fev=
+|tmin-record-mar=-6.7     |tmin-record-date-mar=
+|tmin-record-avr=-3.7      |tmin-record-date-avr=
+|tmin-record-mai=-1.0      |tmin-record-date-mai=
+|tmin-record-jui=1.5     |tmin-record-date-jui=
+|tmin-record-jul=4.8      |tmin-record-date-jul=
+|tmin-record-aou=4.1      |tmin-record-date-aou=
+|tmin-record-sep=1.7      |tmin-record-date-sep=
+|tmin-record-oct=-0.6      |tmin-record-date-oct=
+|tmin-record-nov=-3.4     |tmin-record-date-nov=
+|tmin-record-dec=-12.2      |tmin-record-date-dec=
+|tmin-record-date-ann=
+|tmax-record-jan=16.6      |tmax-record-date-jan=
+|tmax-record-fev=15.3      |tmax-record-date-fev=
+|tmax-record-mar=21.3      |tmax-record-date-mar=
+|tmax-record-avr=20.5      |tmax-record-date-avr=
+|tmax-record-mai=23.4      |tmax-record-date-mai=
+|tmax-record-jui=25.1      |tmax-record-date-jui=
+|tmax-record-jul=27.6    |tmax-record-date-jul=
+|tmax-record-aou=28.7      |tmax-record-date-aou=
+|tmax-record-sep=23.9      |tmax-record-date-sep=
+|tmax-record-oct=21.2      |tmax-record-date-oct=
+|tmax-record-nov=18.0      |tmax-record-date-nov=
+|tmax-record-dec=16.2      |tmax-record-date-dec=
+|tmax-record-date-ann=
+<!-- paramètre de cloture de l'infobox-->
+}}
+
+=== Environnement ===
+{{article détaillé|Environnement en Irlande}}
+Le [[jour du dépassement]] (date de l’année à partir de laquelle l’humanité est supposée avoir consommé l’ensemble des ressources que la planète est capable de régénérer en un an) de l'Irlande<ref group="Note">Le jour du dépassement calculé par pays est le jour où le dépassement mondial se produirait si toute la population mondiale consommait comme la population du pays en question.</ref> est en 2019 le {{date-|27 avril}}<ref>{{Article |titre=Jour du dépassement : quelles solutions pour la planète ? |périodique=''Le Parisien'' |date=10/5/2019 |lire en ligne=http://www.leparisien.fr/environnement/jour-du-depassement-quelles-solutions-pour-la-planete-10-05-2019-8069085.php}}.</ref>. L'Irlande est l'un des pays dont la consommation dépasse le plus les capacités de la planète.
+
+==== Réseau européen Natura 2000 ====
+Le [[réseau Natura 2000]] rassemble des [[Habitat (écologie)|sites naturels]] ou semi-naturels de l'[[Union européenne]] ayant une grande valeur patrimoniale, par la [[Faune (biologie)|faune]] et la [[flore]] exceptionnelles qu'ils contiennent.
+
+En {{date-|décembre 2018}}, l'Irlande comptait {{nobr|604 sites}} dont :
+* 165 [[Zone de protection spéciale|zones de protection spéciale (ZPS) pour les oiseaux]] sur une superficie de {{unité|5895 km2}} ;
+* 439 [[Zone spéciale de conservation|zones spéciales de conservation (ZSC)]] (dont les [[Site d'importance communautaire|pSIC, SIC]]) pour les habitats et les espèces sur une superficie de {{unité|16950|km|2}}.
+
+La superficie totale est de {{unité|19 486 km2}}, ce qui représente 13,1 % de la surface terrestre et marine du territoire de l'Irlande<ref>{{Lien web |titre=Natura 2000 Barometer |url=https://www.eea.europa.eu/data-and-maps/dashboards/natura-2000-barometer |site=European Environment Agency |consulté le=10/7/2019}}.</ref>.
+
+=== Géographie humaine ===
+{{Section vide ou incomplète}}
+
+=== Transports ===
+{{Article détaillé|Transport en Irlande}}
+{{Section vide ou incomplète}}
+[[Cherbourg]] est devenu le premier port irlandais de France, tant en fret qu’en passagers, avec en moyenne et en tout, une douzaine de rotations chaque semaine et les statistiques montrent que plus d’Irlandais que de Français font la traversée, et surtout entre Pâques et la mi-octobre<ref name="clercof">Article par Olivier CLERC dans ''Ouest-France'' le 16/02/2023  [https://www.ouest-france.fr/tourisme/tourisme-lirlande-met-les-petits-plats-dans-les-grands-c4a374a0-ad4f-11ed-a71b-]</ref>. Ainsi, Cherbourg concentre depuis 2023 environ 57 % du trafic maritime depuis la France<ref name="Vignon">"En 2023, l’Irlande mise sur le développement durable, le Titanic… et les Normands", par Emilie Vignon le 17 février 2023 [https://www.lechotouristique.com/article/en-2023-lirlande-mise-sur-le-developpement-durable-le-titanic-et-les-normands]</ref>. Les connexions se développent plus généralement sur les axes Cherbourg-Rosslare, Roscoff-Cork, Cherbourg-Dublin, Dunkerque-Rosslare<ref name=Vignon/>.
+
+== Histoire ==
+{{Article détaillé|Histoire de l'Irlande (pays)|Chronologie de l'Irlande}}
+{{Article connexe|amorce=Pour l'histoire de l'île entière, voir|Histoire de l'Irlande}}{{Section à sourcer|date=mars 2022}}
+Les premiers occupants de l'[[Irlande (île)|Irlande]] sont arrivés sur l'île environ au {{-m-|9|e}}. Ensuite sont venues des peuplades mégalithiques, puis néolithiques, qui ont développé l'agriculture et l'élevage. Au {{-s-|VI}}, les [[Celtes]] vont imposer leur civilisation [[La Tène|laténienne]].
+C'est une société parfaitement organisée en clans, et parlant le gaélique dans lequel les premiers poètes composent des chants et légendes qui constituent le patrimoine autochtone.
+
+=== Préhistoire ===
+{{Article détaillé|Histoire de l'Irlande primitive}}
+[[Fichier:Poulnabrone dolmen-SteveFE.jpg|vignette|Dolmen de Poulnabrone.]]
+Les traces les plus anciennes du peuplement de l'île remontent au {{-m|IX|e}}, elles ont été retrouvées dans le comté de [[Comté de Waterford|Waterford]]. Une migration de populations [[mésolithique]]s est attestée vers le {{-s-|LXVI}}, il semble qu'il s'agisse de peuples venus d'[[Europe du Nord]], passés par l'[[Écosse]]. Ils se sont installés dans la région de l'actuelle [[Ulster]]. Leur mode de vie est une économie de prédation ([[chasse]] et [[pêche (halieutique)|pêche]]) qui va progressivement évoluer vers l'[[agriculture]] et l'[[élevage]]. Ils connaissent l'usage d'outils en pierre polie, cultivent la terre et ont du bétail. C'est une civilisation [[mégalithe|mégalithique]] qui érige des [[dolmen]]s à vocation funéraire. De nouveaux arrivants entre les {{-sp-|XX| et |XVII|}} apportent l'[[âge du bronze]]. C'est de cette époque que date l'exploitation de mines de cuivre dans les régions de [[Comté de Cork|Cork]] et [[Comté de Kerry|Kerry]] et d'or dans le [[Wicklow (Irlande)|Wicklow]].
+
+=== Celtes ===
+{{Article détaillé|liste des peuples celtes d'Irlande|Mythologie celtique irlandaise}}
+C'est [[Années 500 av. J.-C.|vers - 500]] que les [[Celtes]] font leur apparition en Irlande. Leur civilisation sur l'île va durer près de mille ans. Leur arrivée s'est faite par deux routes différentes : par l'actuelle [[Grande-Bretagne]] et par l'[[Espagne]]. La [[mythologie celtique]] a d’ailleurs conservé le souvenir de cette ''origine espagnole'' puisque, selon le ''[[Lebor Gabála Érenn]] (Livre des Conquêtes d’Irlande)'', les [[Milesiens]] (c’est-à-dire les [[Gaëls]]) sont dits fils de [[Mile (mythologie celtique)|Míl Espáine]]. Avant l'introduction de la civilisation de [[La Tène]] (second [[âge du fer]]), l’histoire d’Erin est largement mythique.
+
+La structure de la société celtique reprend le schéma de la [[Fonctions tripartites indo-européennes|structure sociale tripartite des Indo-européens]] au sommet de laquelle on trouve une classe sacerdotale composée des [[druide]]s, des [[Barde (druidisme)|bardes]] et des [[vate]]s. Les [[Druide|druides]] ont en charge la religion, le sacrifice, la justice, l’enseignement, la poésie, la divination ; les bardes sont spécialisés dans la poésie orale et chantée et doivent faire la louange, la satire ou le blâme ; les vates sont des devins qui se consacrent plus particulièrement à la divination et à la médecine. En [[Irlande (île)|Irlande]], les ''filid'' (bardes) vont devenir les membres les plus influents de cette classe sacerdotale, dont une des prérogatives est de conseiller le roi. Dans la civilisation celtique, le rôle du roi est non seulement de mener la guerre, mais surtout de redistribuer les richesses et de dire la justice, inspirée par les druides. Longtemps ces rois n’ont été que des chefs au pouvoir incertain et aux successions problématiques. La deuxième classe de la société est celle des guerriers et la troisième est celle des producteurs, artisans, agriculteurs et éleveurs.
+Ces clans vont progressivement fusionner pour constituer quatre royaumes (ou provinces) : l’[[Ulster]], le [[Leinster]], le [[Munster (Irlande)|Munster]] et le [[Connacht]] (Connaught). Au début du {{s-|V}}, un [[Ard rí Érenn]] (roi suprême d’Irlande) étend son pouvoir sur toute l’île, il siège à [[Tara (site archéologique)|Tara]] capitale du [[Royaume de Mide]]. Les autres rois lui doivent le « boroma », tribut payable en bétail – son non-paiement entraîne des guerres dont la mythologie se fait l’écho, tout autant que les [[Razzia (militaire)|razzias]].
+
+Les Romains, qui occupent la ''[[Bretagne (province romaine)|Bretagne]]'' (Grande-Bretagne actuelle), n'occuperont jamais l'Irlande (qu'ils appellent ''[[Hibernia]]'', « Hibernie »), peuplée de populations trop difficilement assimilables et loin du centre de l'Empire.
+
+=== Christianisation ===
+{{Article détaillé|Patrick d'Irlande|Christianisme irlandais|Livre de Kells|Livre d'Armagh}}
+[[Fichier:Celtic cross Knock Ireland.jpg|vignette|Croix celtique à [[Knock (Irlande)|Knock]].]]
+La christianisation de l’[[Irlande (île)|Irlande]] marque la fin de la religion celtique, du moins en ce qui concerne sa [[mythologie celtique|mythologie]], car la structure de la société s’est maintenue, avec une classe sacerdotale prédominante. Les circonstances exactes de l’introduction du [[christianisme]] dans l’île sont mal connues, d’autant que les textes relatifs à son initiateur, [[Patrick d'Irlande|saint Patrick]], sont largement [[Hagiographie|hagiographiques]].
+
+[[Patrick d'Irlande|Padraig]] serait né en 390 en un lieu incertain de l’[[Grande-Bretagne|île de Bretagne]]. Il était le fils d’un fonctionnaire britto-romain. En 405, il aurait été victime d’une razzia de [[Gaëls]] et aurait été emmené comme esclave en [[Irlande (île)|Irlande]], sous le règne du [[Ard rí Érenn]], [[Niall Noigiallach]]. Pendant six années de captivité, passées à surveiller les troupeaux, sa foi en Dieu se serait affermie et une fois évadé, il aurait poursuivi ses études théologiques en [[Gaule]]. Les dates de son retour en Irlande sont incertaines (entre 432 et 490 selon les différentes thèses) mais la conversion de l’île, probablement commencée avant lui, aurait connu un moment décisif sous le règne du roi [[Lóegaire mac Néill|Lóegaire]], fils de Niall. Patrick est souvent décrit conversant avec les druides pour tenter de les convaincre que le Dieu unique est plus puissant que la magie druidique. La légende rapporte aussi qu’il a chassé tous les serpents de l'île et qu'il avait l'habitude d'expliquer le principe de la [[Trinité (christianisme)|Trinité]] en montrant les feuilles du trèfle. Le concept de ''triades'' était en effet très répandu dans la mythologie celtique. Patrick est mort vers 461.
+
+Dans ce contexte, la conversion du pays ne s’est faite que par celle des ''[[Barde (druidisme)|filid]]'', qui sont devenus les porteurs de la nouvelle religion, de manière pacifique. Le rite celte est imprégné par les usages [[monachisme|monastiques]]. Des moines des pays celtiques sont nombreux venus dans plusieurs pays d'[[Europe de l'Ouest|Europe occidentale]] pour évangéliser et fonder des monastères. Les monastères de [[Abbaye de Clonard|Clonard]], de [[Monastère de Clonmacnoise|Clonmacnoise]], ou de [[Glendalough]] sont des centres importants de culture et de spiritualité. L’église d’[[Armagh]] est fondée par saint Patrick vers 445.
+Au {{s-|VI}}, fondation du monastère de [[Bangor (Irlande du Nord)|Bangor]] (558) par [[Comgall de Bangor|Comgall]].
+
+Ce n’est qu’au {{s-|VII}} que le [[Concile de Whitby|synode de Whitby]] (664) préconise l'abandon des rites celtes au profit du rite romain mais certains usages celtiques se maintiennent jusqu'au {{s-|XII}}.
+
+=== Vikings ===
+[[Fichier:Viking ship in Stockholms strom.jpg|vignette|Un [[bateau viking]].]]
+Au {{s-|VIII}}, la croissance démographique et des guerres de succession entraînent, semble-t-il, des peuples scandinaves, [[Norvège|Norvégiens]] et [[Danemark|Danois]], à sortir de leurs territoires. Les [[Varègues]] partent vers l’est et fondent en Russie des embryons d’États, les [[Vikings]] (du norrois ''fara í víkingu'' : partir en expédition et ''víkingar'' qui désigne ceux qui partent) déferlent sur les îles britanniques à l’ouest et le continent au sud.
+
+L’[[Irlande (île)|Irlande]] vit un âge d’or intellectuel par le dynamisme de ses institutions religieuses, mais sur le plan politique l’île est divisée entre cent et cent cinquante ''tuatha'' (les clans), à la tête de chacun desquels se trouve un ''rí'' (roi). Ces chefs sont eux-mêmes assujettis au roi d’une des cinq provinces ([[Ulster]], [[Connacht]], [[Munster (Irlande)|Munster]], [[Leinster]] et [[Royaume de Mide|Mide]]). Le ''Ard rí'' (roi suprême) porte un titre honorifique : son titulaire ne bénéficie pas d'une réelle autorité.
+
+C’est dans ce contexte d’instabilité que les [[Vikings]] arrivent dans l’île. Les premières expéditions attestées sont de 795, ils brûlent l’église de l’[[île Lambay]] ainsi que les monastères d’Inisbifin et d’Inismurray ; ce dernier subira un nouvel assaut en 807. Dès 812 les raids se concentrent sur la côte ouest, puis sur les rivages de la [[mer d'Irlande]]. Au début des années 820 le tour de l’île est accompli. Pendant une quarantaine d’années, les Vikings vont multiplier les raids et les razzias, privilégiant les monastères, non pour des raisons religieuses, mais parce que plus riches en trésors. Durant les années 830, ils remontent les fleuves et pénètrent à l’intérieur des terres qu’ils ravagent. En 836, ils empruntent la rivière [[Shannon (fleuve)|Shannon]] et pillent le Connaught. L’année suivante, deux flottes d’une soixantaine de [[Bateau viking|drakkars]] chacune, reconnaissent la [[Liffey]] et [[Boyne (Irlande)|La Boyne]], les territoires sont systématiquement ravagés, les habitants massacrés. Nombreux sont les exemples de leurs méfaits. L’hiver 840-841 marque une étape, puisque pour la première fois les Vikings passent la saison dans l’île et s’installent dans des places fortifiées qui deviennent aussi des lieux de commerce : [[Dublin]], [[Annagassan]], puis par la suite, [[Wexford]], [[Cork]], [[Limerick]], pour ne citer que quelques établissements. Ce sont autant de bases retranchées qui permettent des expéditions vers l’intérieur, dont le point culminant semble être l’année 845, à tel point que l’on parle d’invasion. Le revers de la médaille est que les rois [[celtes]] peuvent parfois les contenir et les assiéger.
+
+=== Sous la couronne anglaise ===
+Après la victoire de [[Brian Boru]] à la [[bataille de Clontarf]], en 1014, l'Irlande connaît une brève période d'indépendance. Mais à la fin du {{s-|XII}}, l'Angleterre entreprend sa conquête. Après s'être limitée à l'ouest de l'île, en 1494, la couronne anglaise déclare sa domination sur toute l'île (loi [[Édouard Poynings|Poynings]]). En 1541, {{souverain2|Henri VIII}} prend le titre de roi d'Irlande. La colonisation par les confiscations de terres se développe alors ({{cf.}} [[Plantations en Irlande]]).
+
+Une grande révolte éclate en 1641, brisée par [[Oliver Cromwell]] en 1649 (massacres de [[Siège de Drogheda de 1649|Drogheda]] et [[Sac de Wexford|Wexford]]). Les [[Irlandais (peuple)|Irlandais]] ont profité de la [[Première révolution anglaise]] pour tenter de retrouver leur indépendance. Cromwell débarque à Dublin (durant l'été 1649) avec ses soldats, les « Côtes de Fer », entreprend la [[Conquête cromwellienne de l'Irlande|reconquête de l'île]] et organise un véritable massacre. Selon les sources, entre le tiers et la moitié de la population de l'île est massacrée. La sauvagerie de l'armée de Cromwell, très anti-catholique<ref name="viv">{{Lien web |titre=Comment Cromwell conquit l'Irlande en seulement quatre ans ? |url=http://www.vivre-en-irlande.fr/culture-irlandaise/histoire/cromwell-irlande |site=www.vivre-en-irlande.fr}}.</ref>, contribuera à créer de profonds clivages entre catholiques et protestants en Irlande<ref name=viv />. Après sa défaite, l'Irlande est soumise à l'autorité et aux lois de l'Angleterre et les terres du Nord du pays sont confisquées et attribuées à des colons venus d'[[Écosse]] et d'[[Angleterre]].
+
+Les Irlandais sont par la suite soumis à une répression et à des discriminations très fortes de la part des autorités anglaises, qui continuent les décennies suivantes. Des lois leur interdisent notamment de pratiquer leur religion catholique<ref name="eu">{{Lien web |langue=en |titre=Irish EU Presidency, L'Irlande en bref : L'histoire de l'Irlande en bref |url=http://eu2013.ie/fr/l-irlande-et-la-presidence/a-propos-de-lirlande/lirlandeenbref/lhistoiredelirlandeenbref/ |site=eu2013.ie}}.</ref>. À partir des années 1650, l'Angleterre renforce son emprise en installant des paysans protestants sur des terres confisquées aux catholiques locaux dans la province d'Ulster. Leurs descendants vivent dans la crainte d’être chassés des terres qu'ils cultivaient, ce qui les conduit à ressentir une communauté d’intérêts avec les grands propriétaires anglo-irlandais protestants. Ainsi, ils n'osent pas contester la politique imposée par les gouvernements britanniques, de peur que cela n'encourage les catholiques dépossédés<ref name=":0">{{Ouvrage |auteur1=Chris Harman |titre=Une histoire populaire de l'humanité |passage=340-343 |éditeur=La Découverte |date=2011}}.</ref>.
+
+[[Fichier:MAXWELL(1845) p145 Battle of Ross.jpg|vignette|[[Rébellion irlandaise de 1798]].]]
+{{souverain2|Jacques II (roi d'Angleterre)}}, roi catholique chassé du trône de l'Angleterre protestante, tente de reprendre pied en Irlande et y est défait à la [[bataille de la Boyne]] (1690), le sort de l'Irlande s'aggrave encore. En 1695, {{souverain3|Guillaume III d'Orange-Nassau}} promulgue des « lois pénales » anti-catholiques. Celles-ci interdisent notamment l'enseignement en langue irlandaise, excluent les catholiques de l'administration, de l'armée, de l'enseignement dans les écoles<ref>{{Lien web |langue=en |titre=Penal Laws |url=http://members.pcug.org.au/~ppmay/acts/penal_laws.htm |site=members.pcug.org.au}}.</ref>, les empêchent d'être [[propriété foncière|propriétaires terriens]]<ref name="eu" />, et leur interdisent d'exercer des [[profession libérale|professions libérales]]<ref>{{Lien web |auteur1=Jacques Leclerc |titre=Irlande (République d') |url=http://www.axl.cefan.ulaval.ca/europe/irlande.htm |site=www.axl.cefan.ulaval.ca}}.</ref>.
+
+Enthousiasmés par la Révolution française, des volontaires commencent à s’entraîner et à revendiquer des réformes. En 1792, la ville de [[Belfast]] célèbre par une grande procession et une fête l'anniversaire de la révolution. Des slogans attaquent le sectarisme religieux. En conséquence, des lois interdirent le port d'armes ainsi que l'association des Irlandais unis. Contrainte à la clandestinité, celle-ci devient de plus en plus révolutionnaire. Dès 1795, les autorités encouragent des groupes de protestants à organiser des campagnes contre les catholiques, ce qui conduit à la création de l'[[Ordre d'Orange (1795)|Ordre d'Orange]]. Un soulèvement révolutionnaire a lieu en [[1798]] (il est commémoré par la chanson ''[[The Wind That Shakes the Barley (chanson)|The Wind That Shakes the Barley]]''). Une éphémère [[République du Connaught]] est proclamée après la [[bataille de Castlebar]] et [[John Moore (Irlandais)|John Moore]], chef de la [[Société des Irlandais unis]], a été déclaré son président. La répression qui s'ensuit fait {{nombre|30000|morts}} parmi ceux soupçonnés d'avoir soutenu la révolte et le {{date-|1/8/1800}} la Grande-Bretagne proclame un « [[actes d'Union (1800)|acte d'union]] » unissant totalement l'Irlande au Royaume-Uni<ref name=":0" />.
+
+=== Émigration et révolte ===
+{{Article détaillé|Diaspora irlandaise}}
+[[Fichier:An gorta Mor.jpg|vignette|[[Grande famine irlandaise]].]]
+Le {{s-|XIX}} est marqué par une émigration massive des Irlandais (plusieurs millions) en direction de l'[[Amérique]], émigration accrue par les conséquences de la [[grande famine irlandaise|grande famine]] qui sévit en Irlande entre 1845 et 1852. Celle-ci a fait un million de morts, qui, cumulés à l'exode des habitants, ont provoqué une réduction de la population de l'île de 25 % en à peine dix ans<ref name="famine">{{Lien web |titre=La Grande Famine d'Irlande Toute son histoire et ses conséquences |url=http://www.vivre-en-irlande.fr/culture-irlandaise/histoire/histoire-grande-famine-irlande |site=www.vivre-en-irlande.fr}}.</ref>.
+
+Cette famine est aggravée par le fait que le Royaume-Uni force les Irlandais à continuer leurs exportations de nourriture vers l'Angleterre, alors même que la population irlandaise meurt de faim<ref name=famine />. Le nombre de victimes aurait pu être sensiblement moins élevé si les responsables politiques britanniques avaient choisi d'intervenir. Pourtant, par négligence, indifférence, insensibilité, cynisme, ou mépris des pauvres clairement affiché, ils restèrent globalement passifs. {{Qui|Ceux|date=mai 2023}} s'étant prononcés en faveur d'une aide à l'Irlande ont rencontré l’hostilité d’une partie de l’opinion publique anglaise et aux partisans d’un [[libéralisme économique]] sans entrave<ref>{{Article|langue=fr |titre=Sur Arte, « La Grande Famine en Irlande », dernière tragédie avant l’indépendance |périodique=[[Le Monde]]|date=2021-11-30|lire en ligne=https://www.lemonde.fr/culture/article/2021/11/30/sur-arte-la-grande-famine-en-irlande-derniere-tragedie-avant-l-independance_6104208_3246.html}}</ref>.
+
+Mais à la fin du {{s-|XIX}}, le mouvement pour l'indépendance reprend de la force, les élus irlandais au parlement britannique s'en font l'écho. Une suite de réformes agraires commence à restituer des terres aux Irlandais. En 1905, le [[Sinn Féin (1905-1970)|Sinn Féin]], un parti indépendantiste, est fondé. De son côté, [[James Connolly (Irlande)|James Connolly]] fonde le premier journal socialiste irlandais : ''Workers' Republic''. Les syndicats irlandais se développent.
+
+En 1914, le « [[Home Rule (Irlande)|Home Rule]] » est voté, donnant une autonomie relative à l'île. Néanmoins le pouvoir suspensif de la [[Chambre des lords]] puis le déclenchement de la [[Première Guerre mondiale]] l'empêcheront d'être mis en œuvre.
+
+Durant la guerre, en 1916, sous la direction de l'[[Irish Republican Brotherhood]] du Sinn Féin et de l'[[Irish Citizen Army]] de James Connolly, éclate l'[[insurrection de Pâques 1916]] à [[Dublin]], qui proclame la République au nom de Dieu et des générations disparues. Le centre de Dublin est bombardé par des navires de guerre et l'insurrection est écrasée au bout d'une semaine. [[James Connolly (Irlande)|James Conolly]], [[Patrick Pearse]] et les autres meneurs sont exécutés. Mais le [[Sinn Féin]] en retira une popularité accrue : il remporta triomphalement les élections de {{date-|décembre 1918}}, constitua un parlement irlandais (le ''[[Dáil Éireann]]'') et proclama l'indépendance. Le pouvoir britannique interdit le parlement. Un [[Guerre d'indépendance irlandaise|nouveau soulèvement]] mené par l'[[Armée républicaine irlandaise|IRA]] éclate, qui dura trois ans. Les rebelles parviennent à rendre l'Irlande ingouvernable (boycott des tribunaux et percepteurs anglais, grèves, actions armées contre les forces britanniques). Les autorités ripostèrent en emprisonnant des dirigeants irlandais élus, en pendant des rebelles capturés, et en recourant à des groupes paramilitaires pour exécuter des suspects républicains. Ces groupes constituèrent les [[Black and Tans]], qui se rendirent extrêmement impopulaires à la suite d'atrocités perpétrées contre la population (ils ouvrirent le feu à la mitrailleuse sur le public venu assister à un match de football, incendièrent le centre de [[Cork]] et chassèrent les catholiques de leurs emplois et de leurs maisons dans le Nord-Est)<ref name=":0" />.
+
+=== Indépendance ===
+{{Article détaillé|Guerre d'indépendance irlandaise}}
+En 1921, le Premier ministre britannique [[David Lloyd George]] parvient à un accord. Lors de négociations avec une délégation irlandaise, il menaçe de la terre brûlée et de répression totale si les nationalistes irlandais ne consentaient pas à laisser les six comtés d'Irlande du Nord sous administration britannique, à fournir à la Grande-Bretagne des bases dans certains ports et à faire serment d'allégeance à la couronne. Le chef de l'IRA [[Michael Collins (homme politique)|Michael Collins]] accepte ces conditions lors du [[Traité anglo-irlandais|traité de Londres]], qui fait de l'Irlande, amputée des deux tiers de l'[[Ulster]], un [[dominion]] au sein de l'empire britannique, l'[[État libre d'Irlande]], qui se dote d'une constitution en {{date-|octobre 1922}}. L'est de l'[[Ulster]] est la région la plus développée à l'époque. Le traité anglo-irlandais est ratifié par le [[Dáil Éireann]] le {{date-|9 janvier 1922}} par {{nobr|60 voix}} contre 58. Cela entraîne la [[Guerre civile irlandaise|guerre civile d'Irlande]] qui dure jusqu'en 1923, opposant les adeptes d'une poursuite de la lutte pour obtenir l'indépendance complète de l'île et les partisans du compromis de 1921<ref name=":0" />.
+
+Durant ses premières années, ce nouvel État fut gouverné par les vainqueurs de la guerre civile. Cependant, en 1932, {{Langue|ga|[[Fianna Fáil]]}}, le parti des opposants au traité, dirigé par [[Éamon de Valera]], remporta les élections (il resta au pouvoir jusqu'en 1948). En 1933, De Valera, devenu président du conseil, fit abolir le serment d’allégeance au souverain du Royaume-Uni<ref>{{Article |langue=en |titre=Obsessive Historian: Eamon de Valera and the Policing of His Reputation |périodique=Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature |année=2018}}.</ref>.
+
+En 1937, il fait adopter une nouvelle [[Constitution de l'Irlande|constitution républicaine]] qui renomme l'État en ''{{Langue|ga|Éire}}'' ou en anglais ''{{Langue|en|Ireland}}''. Un traité conclu en 1938 avec le Royaume-Uni, lui laissait ses bases navales en Irlande, et entérinait cette indépendance. L'Irlande resta neutre durant la [[Seconde Guerre mondiale]], interdisant même officiellement au Royaume-Uni l'usage militaire de ses ports et aéroports.
+
+En {{date-|février 1948}}, c'est le parti {{Langue|ga|[[Fine Gael]]}} qui remporte les élections. Le gouvernement est une coalition constituée avec le parti travailliste. En 1948, l{{'}}''{{Langue|ga|[[Oireachtas]]}}'' proclame le [[Loi sur la République d'Irlande de 1948]] qui prend effet le {{date-|18|4|1949}}. Il a déclaré que l’Irlande pouvait officiellement être décrite comme la République d'Irlande et que le [[président de l'Irlande]] avait le pouvoir exécutif de l'État dans ses relations extérieures. La loi n'a pas créé un nouvel État. La constitution de 1937 est restée en vigueur. La loi n'a pas non plus changé le nom du pays, qui est resté « Irlande ». La loi a mis fin au rôle du roi britannique dans la signature des [[lettres de créance]] des diplomates irlandais. Depuis l'entrée en vigueur de la loi, le [[Commonwealth]] ne considérait plus l'Irlande comme membre.
+
+L'Irlande a rejoint la [[Communauté économique européenne]] en 1973, aux côtés du [[Royaume-Uni]], pays dont elle restait très dépendante (90 % des exportations à l'époque). Mais les problèmes économiques mondiaux des années 1970, aggravés par une mauvaise politique économique des gouvernements suivants, dont celui de Premier ministre [[Jack Lynch]], entraînent une stagnation de l'économie.
+
+Toutefois, les réformes économiques des années 1980, aidées par les investissements de la Communauté européenne, conduisent à l'émergence de l'un des taux de croissance économique les plus élevés du monde avec une immigration massive (en particulier de personnes en provenance d'Asie et d'Europe orientale) comme caractéristique de la fin des années 1990. Cette période sera connue comme celle du « [[Tigre celtique]] ».
+
+Mais le pays est frappé peu après de plein fouet par la [[bulle immobilière]] de 2007<ref>{{Lien web |titre=L’Irlande s'affranchit de la tutelle de la troïka |url=https://www.france24.com/fr/20131213-irlande-sortie-plan-sauvetage-tutelle-troika-economie-zone-euro-crise-dette-deficit-chomage |site=France 24 |date=2013-12-13 |consulté le=2019-10-18}}</ref> et la [[crise économique mondiale de 2008|crise économique de 2008]]. En 2010, le [[Fonds monétaire international]] (FMI) et l'[[Union européenne|UE]] mettent en place une tutelle, que l'Irlande quitte en 2013. Le pays connait en 2014 et 2015 des manifestations massives contre l'adoption par le gouvernement d’une loi prévoyant l'instauration d’une taxe sur la consommation d'eau courante<ref name=":4">{{Article |auteur1=Renaud Lambert |titre=La goutte d'eau irlandaise |périodique=[[Le Monde diplomatique]] |date=01-05-2015 |lire en ligne=https://www.monde-diplomatique.fr/2015/05/LAMBERT/52906 |consulté le=16-09-2020}}.</ref>.
+
+== Politique ==
+{{Article détaillé|Politique en Irlande (pays)}}
+Selon la loi irlandaise, depuis 1937, l'Irlande est une [[république]] [[parlement]]aire.
+
+=== Organisation des pouvoirs ===
+Le [[président de l'Irlande]] (''{{Langue|ga|texte=Uachtarán}}'' en irlandais, ''{{Langue|en|texte=President}}'' en anglais) est élu pour sept ans au suffrage universel direct.
+Le [[Dáil Éireann]] est le nom irlandais de la chambre basse du [[Parlement]] (l'[[Oireachtas]]) de l'Irlande. Il est directement élu tous les cinq ans selon un système de représentation [[Scrutin proportionnel plurinominal|proportionnelle]] (selon la [[Scrutin à vote unique transférable|méthode du vote transférable]]). Il a le pouvoir de voter les lois, de nommer et de remplacer le [[Taoiseach]] (Premier ministre). La chambre haute s'appelle [[Seanad Éireann]].
+
+=== Tendances politiques et élections ===
+Le paysage politique irlandais prend la forme d'un [[bipartisme]] opposant les partis héritiers des deux camps s'étant affrontés durant la [[guerre civile irlandaise]] : le ''[[Fianna Fáil]]'' (littéralement « Soldats de la destinée »), aussi appelé Parti républicain (''Fianna Fáil - The Republican Party'' en anglais, ''Fianna Fáil - An Páirtí Poblachtánach'' en irlandais), issu des opposants au [[traité anglo-irlandais]] de 1921 menés par [[Éamon de Valera]] ; le ''[[Fine Gael]]'' (littéralement « le clan des [[Gaëls]] »), qui descend des partisans de ce traité dirigés par [[Arthur Griffith]] et [[Michael Collins (homme politique)|Michael Collins]]. Aucun de ces deux partis principaux de la vie politique irlandaise ne s’identifie fermement comme étant un parti de droite ou de gauche, le premier se réclamant du [[républicanisme irlandais]] et étant souvent comparé, par sa volonté affichée de transcender le clivage gauche-droite et sa défense du particularisme culturel et d'une politique d'indépendance nationale, aux [[gaullisme|mouvements gaullistes]] [[France|français]] ou au [[Parti révolutionnaire institutionnel]] [[Mexique|mexicain]]<ref>{{Lien web |langue=en |auteur1=D. Gardner |titre=Writing on the wall |url=http://www.ft.com/cms/s/0/fa24c430-f998-11df-9e29-00144feab49a.html#axzz18B4fV0SG |site=The Financial Times |date=26/11/2010}}.</ref> et est membre depuis 2009 du [[Parti de l'Alliance des libéraux et des démocrates pour l'Europe]] (ALDE, [[centrisme|centriste]], [[libéralisme|libéral]] et [[fédéralisme européen|fédéraliste européen]]), tandis que le second se définit comme étant du « centre progressiste » (''progressive centre'' ou ''Chorplár'') inspiré de la [[démocratie chrétienne]], il est généralement progressiste en matière sociale et sociétale, conservateur sur le plan du maintien de l'ordre et de la fiscalité et libéral concernant l'économie, et a contribué à fonder le [[Parti populaire européen]] (PPE, [[centre droit]] [[libéral-conservatisme|libéral-conservateur]], [[démocratie chrétienne|démocrate chrétien]] et [[fédéralisme européen|fédéraliste européen]])<ref>{{en}} [http://finegael.org/join/b/ Valeurs du Fine Gael sur son site officiel].</ref>.
+
+Parmi ces deux formations, le ''[[Fianna Fáil]]'' a longtemps eu une position dominante, étant le premier parti en nombre de voix à toutes les élections entre 1932 et 2009. Il a dirigé 26 exécutifs ou gouvernements de 1932 à 1948, de 1951 à 1954, de 1957 à 1973, de 1977 à 1981, en 1982, de 1987 à 1994 et de 1997 à 2011. Avant 1989, lorsqu'il a gouverné, il l'a toujours fait seul, en étant majoritaire de 1933 à 1948, de 1957 à 1961, de 1965 à 1973 et de 1977 à 1981, minoritaire les autres fois (avec le soutien sans participation du [[Parti travailliste (Irlande)|Parti travailliste]] de 1932 à 1933 puis d'indépendants de 1951 à 1954, de 1961 à 1965, en 1982 et de 1987 à 1989). Après 1989, il a en revanche toujours gouverné en coalition, d'abord avec les [[Démocrates progressistes]] (''Progressive Democrats'' ou ''An Paírtí Daonlathach'', fondé en 1985 suivant une plateforme [[libéral-conservatisme|libérale-conservatrice]] par des dissidents des deux grands partis, il a été la troisième puis quatrième force électorale d'Irlande (jusqu'à sa dissolution en 2009) de 1989 à 1992 et de 1997 à 2009 (minoritaire de 1997 à 2002), avec le [[Parti travailliste (Irlande)|Parti travailliste]] (''The Irish Labour Party'' ou ''Páirti an Lucht Oibre'', principale force du [[centre gauche]] [[social-démocratie|sociale-démocrate]] et généralement le troisième parti en nombre de voix) de 1992 à 1994 et avec le [[Parti vert (Irlande)|Parti vert]] (''Green Party'' ou ''Comhaontas Glas'', [[Écologie politique|écologiste]]) de 2007 à 2011. Le reste du temps, le ''[[Fine Gael]]'' a toujours détenu la direction du gouvernement, généralement en coalition avec le [[Parti travailliste (Irlande)|Parti travailliste]] (mais aussi avec les [[Démocrates progressistes]] de 1994 à 1997) jusqu'en 2016, puis de façon minoritaire depuis 2016 (à la suite de l'effondrement électoral des [[Parti travailliste (Irlande)|travaillistes]], le ''[[Fine Gael]]'' a passé un accord avec le ''[[Fianna Fáil]]'' pour pouvoir mettre en place un exécutif et assurer le vote des budgets). Le ''[[Fine Gael]]'' a devancé le ''[[Fianna Fáil]]'' en nombre de voix pour la première fois lors des [[élections européennes de 2009 en Irlande|élections européennes]] de 2009, et est resté le premier parti lors des [[élections générales irlandaises de 2011|élections générales]] de 2011 (lors desquelles le ''[[Fianna Fáil]]'' n'obtient que le troisième score, soit le plus mauvais résultat de toute son histoire, étant alors devancé également par le [[Parti travailliste (Irlande)|Parti travailliste]]) et [[élections générales irlandaises de 2016|celles]] de 2016.
+
+Historiquement, le ''[[Fianna Fáil]]'' est tout particulièrement dominant dans les régions rurales du centre et de l'ouest de l'île tout en étant bien implanté dans les quartiers et banlieues populaires de [[Dublin]], et plus contesté dans l'est, le sud et le nord-ouest, notamment dans les villes, où le ''[[Fine Gael]]'' et le [[Parti travailliste (Irlande)|Parti travailliste]] constituent une grande partie de leur base électorale<ref>{{en}} {{Lien web |url=https://web.archive.org/web/20181116175956/https://www.independent.ie/irish-news/fine-gael-general-election-win-hinges-on-regaining-former-strongholds-says-kenny-26352883.html |titre=R. RIEGEL, « ''Fine Gael general election win hinges on regaining former strongholds, says Kenny'' », ''The Independent'', 28/12/2006 |consulté le=2017-06-10}}.</ref>{{,}}<ref>{{Lien web |langue=en |titre=Lucinda Creighton-Fine Gael 2007- Dublin South East |url=http://irishelectionliterature.wordpress.com/2010/01/24/luina-creighton-fine-gael-2007-dublin-south-east/ |site=Irish Election Literature Blog |date=24/01/2010}}.</ref>{{,}}<ref>{{Lien web |langue=en |titre=Fine Gael's new young tigers stake a claim to Bebo generation |url=http://www.independent.ie/unsorted/features/fine-gaels-new-young-tigers-stake-a-claim-to-bebo-generation-52587.html |site=The Independent |date=31/03/2007}}.</ref>{{,}}<ref>{{Lien web |langue=en |titre=Socialist party to contest limerick city |url=http://www.politics.ie/limerick/141270-socialist-party-contest-limerick-city-2.html |site=politics.ie |date=26/10/2010}}.</ref>. Cette géographie traditionnelle a toutefois été remise en question depuis les années 1990, le virage plus libéral et pro-européen du ''[[Fianna Fáil]]'' sous la présidence de [[Bertie Ahern]], lui-même député de [[Dublin]], ayant contribué à augmenter l'assise de ce parti dans la classe moyenne urbaine, tandis que le ''[[Fine Gael]]'', de son côté, a fortement diminué le quasi-monopole exercé jusque-là par son adversaire sur les circonscriptions rurales<ref>{{Lien web |langue=en |auteur1=A. Kavanagh |titre=Fine Gael rurality key to Enda’s survival ? |url=http://politicalreform.ie/2010/06/17/fine-gael-rurality-key-to-endas-survival/ |site=Political Reform |date=17/06/2010}}.</ref>. De plus, le ''[[Fianna Fáil]]'' se voit être sérieusement concurrencé depuis [[2011]] par le ''[[Sinn Féin]]'' au sein de l'électorat attaché aux idées du [[républicanisme irlandais]] (plutôt implanté historiquement en [[Irlande du Nord]], ce parti de la gauche [[républicanisme irlandais|républicaine]] et [[euroscepticisme|eurosceptique]] a fait un retour remarqué sur la scène politique de l'Irlande indépendante à partir de 2011).
+
+=== Administration territoriale ===
+{{Article détaillé|Organisation territoriale de l'Irlande (pays)}}
+L’île d'Irlande est divisée entre [[Comté d'Irlande|32 comtés]] et [[Provinces d'Irlande|4 provinces]] : [[Ulster]], [[Connacht]], [[Munster (Irlande)|Munster]] et [[Leinster]]. Les provinces suivent approximativement les anciennes provinces d'Irlande, les six comtés d'[[Irlande du Nord]], tous en [[Ulster]], ne sont pas inclus. Les provinces ne sont pas utilisées par l'administration, {{Pas clair|elles sont utilisées seulement pour les sports, le [[rugby à XV]] ou les [[sport gaélique|sports gaéliques]] |date=mars 2022}}.
+
+Les comtés sont utilisés pour l'administration locale. Ils ont été créés par les Britanniques après la conquête de l'Irlande. Il y a 26 comtés traditionnels dans la république plus les comtés issus de la partition du [[Comté de Dublin]] ([[Comté de Dublin Sud|Dublin Sud]], [[Comté de Fingal|Fingal]] et [[Comté de Dún Laoghaire-Rathdown|Dún Laoghaire-Rathdown]]) {{incise|ainsi que, jusqu'à la réunification du [[comté de Tipperary]], les comtés de [[comté de Tipperary-Nord|Tipperary-Nord]] et [[comté de Tipperary-Sud|Tipperary-Sud]]|point}}.
+
+Certaines villes ont aussi un pouvoir de décision du même niveau que le comté au travers d'un conseil de Cité ([[Dublin]], [[Cork]], [[Galway]], [[Limerick]] et [[Waterford (Irlande)|Waterford]]).
+
+=== Politique étrangère ===
+{{Section vide ou incomplète}}
+En {{date-|juin 2020}}, l'Irlande est élue membre non permanent du [[Conseil de sécurité des Nations unies|conseil de sécurité de l'ONU]] pour 2021 et 2022<ref>{{Article |langue=fr |auteur1= |titre=L’Inde, le Mexique, la Norvège et l’Irlande au Conseil de sécurité de l’ONU en 2021-2022 |périodique=ouest france |date=18/06/2020 |lire en ligne=https://www.ouest-france.fr/monde/organismes-internationaux/onu/l-inde-le-mexique-la-norvege-et-l-irlande-au-conseil-de-securite-de-l-onu-en-2021-2022-6872677 |pages= }}</ref>.
+
+== Économie ==
+{{Article détaillé|Tigre celtique|Économie de l'Irlande}}
+De 1995 à 2007, l'économie irlandaise croît en moyenne de 6 % par an<ref name="2020_www.cia.gov" />, lui valant le surnom de « [[tigre celtique]] ».
+
+Comme quinze autres [[Zone euro|pays européens]], l'Irlande a abandonné sa monnaie nationale, la [[livre irlandaise (1927-2002)|livre irlandaise]], pour adopter l'[[euro]] le {{date-|1/1/1999}} (les pièces et billets ayant été introduits le {{date-|1/1/2002}}).
+
+Adepte de la [[concurrence fiscale]], de la déréglementation et considéré comme un paradis fiscal<ref>{{Lien web |titre=IRLANDE. Pas un penny pour ce paradis fiscal ! |url=https://www.courrierinternational.com/article/2010/11/25/pas-un-penny-pour-ce-paradis-fiscal |site=Courrier international |date=2010-11-25 |consulté le=2018-05-16}}.</ref>{{,}}<ref>{{Lien web |langue=en |titre=World's Best Tax Havens |url=https://www.forbes.com/2010/07/06/tax-havens-delaware-bermuda-markets-singapore-belgium.html |site=forbes.com |jour=6 |mois=7 |année=2010 |consulté le=27/11/2018}}.</ref>, le pays a connu une forte croissance depuis le début des années 1990 avant de subir l'explosion de la [[bulle spéculative]] immobilière et d'être l'un des plus touchés<ref>{{Article |titre=Irlande : une pure crise spéculative |périodique=Les Echos |date=21/04/2011 |lire en ligne=https://www.lesechos.fr/21/04/2011/LesEchos/20917-034-ECH_irlande---une-pure-crise-speculative.htm |consulté le=2018-11-27}}.</ref> par la [[crise bancaire et financière de l'automne 2008|crise financière de 2008]], ce qui entraîna une [[Crise financière irlandaise|crise économique et politique majeure]] pour le pays jusqu'en 2011.
+
+En 2010, son déficit public s'établissait à 32,4 % du PIB et en 2012 le taux de chômage y était supérieur à 15 % de la population active<ref>{{Lien web |titre=Irlande: du "Tigre Celtique" au crash économique puis à la reprise |url=https://www.lepoint.fr/monde/irlande-du-tigre-celtique-au-crash-economique-puis-a-la-reprise-27-02-2016-2021398_24.php |site=Le Point |date=2016-02-27 |consulté le=2019-01-11}}.</ref>. Le pays a depuis renoué avec la croissance et le PIB a connu une croissance de 7,8 % en 2015, soit le niveau le plus élevé de l'Union européenne<ref>{{Lien web |titre=L'Irlande enregistre une croissance exceptionnelle |url=https://www.challenges.fr/europe/20160310.CHA6092/l-irlande-enregistre-une-croissance-exceptionnelle.html |site=challenges.fr |date=2016-03-10 |archive-url=http://archive.wikiwix.com/cache/20171111135009/https://www.challenges.fr/europe/20160310.CHA6092/l-irlande-enregistre-une-croissance-exceptionnelle.html |archive-date=11/11/2017}}.</ref>, un chiffre depuis révisé à 26,3 %<ref>{{Lien web |titre=Incroyable mais vrai : la croissance de l'Irlande révisée à… 26,3% ! |url=http://www.lefigaro.fr/conjoncture/2016/07/12/20002-20160712ARTFIG00220-incroyable-mais-vrai-la-croissance-de-l-irlande-revisee-a-263.php |site=lefigaro.fr |date=12/7/2016 |archive-url=https://web.archive.org/web/20160713174358/http://www.lefigaro.fr/conjoncture/2016/07/12/20002-20160712ARTFIG00220-incroyable-mais-vrai-la-croissance-de-l-irlande-revisee-a-263.php |archive-date=13/7/2016}}.</ref>, soit la croissance la plus élevée au monde. En {{date-|novembre 2019}}, le taux de chômage s'élève à 4,8 %<ref>{{Lien web |langue=en |titre=Ireland Unemployment Rate |url=https://tradingeconomics.com/ireland/unemployment-rate |site=tradingeconomics.com |consulté le=2020-01-15}}</ref>{{,}}<ref>{{lien web|langue=en|url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=teilm020&tableSelection=1&plugin=1 |titre=Harmonised unemployment rate by gender – total – [teilm020,; Total % (SA)] |site=epp.eurostat.ec.europa.eu}}.</ref>. En {{date-|juin 2012}}, {{unité|1787900|personnes}} travaillaient en république d'Irlande, soit {{unité|33400|personnes}} de moins que début 2012. La plus forte baisse a eu lieu dans le secteur public, les industries de la finance, de l'assurance et de la construction<ref name="rte">{{Lien web |langue=en |titre=CSO figures show drop in employment numbers |url=https://www.rte.ie/news/business/2012/0919/338200-unemployment-rate-steady-at-14-8-in-q2/ |site=rte.ie |date=2012-09-19 |consulté le=2019-12-30}}.</ref>.
+
+En 2009, le [[Produit intérieur brut par habitant|PIB par habitant]] de l'Irlande est le second plus élevé de l'[[Union européenne]], après celui du Luxembourg<ref>{{Lien web |titre=Le PIB par habitant a varié dans les États membres de 41 % à 268 % de la moyenne de l’UE27 Eurostat |url=http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-21062010-AP/FR/2-21062010-AP-FR.PDF |site=europa.eu}}.</ref>. Il était de 64 % de la moyenne européenne lors de son adhésion en 1973<ref>[http://www.delhrv.ec.europa.eu/?lang=en&content=994] {{Lien archive |url=http://www.delhrv.ec.europa.eu/?lang=en&content=994 |titre=Copie archivée |horodatage archive=20121117035717}}.</ref>. Le calcul du PIB en Irlande est toutefois jugé trompeur : « Le poids des multinationales est tel et les profits rapatriés si importants que le PIB surévalue la production de richesse réelle » explique l'Institut de recherche économique Nevin (NERI)<ref name=":5">{{Lien web |langue=fr-FR |prénom=Renaud |nom=Lambert |titre=Contre l’austérité : Sur quels alliés Syriza peut-il compter ? |url=https://librejugement.org/2015/05/19/contre-lausterite-sur-quels-allies-syriza-peut-il-compter/ |site=Libres jugements |date=2015-05-18 }}</ref>, dont l'analyse est partagée par le ''[[Financial Times]]''<ref name=":6">{{Lien web |langue=fr |titre=Économie. Ce que cache le “miracle” irlandais |url=https://www.courrierinternational.com/article/economie-ce-que-cache-le-miracle-irlandais |site=Courrier international |date=2020-11-21 }}</ref>. Le quotidien britannique rappelle que les autorités irlandaises « utilisent un outil spécifique, le revenu national brut modifié (GNI). Il s’agit de soustraire l’impact des [[investissements étrangers]] afin de mieux comprendre l’état réel de l’économie et le niveau de vie des Irlandais. » Ainsi, en 2020 (année durant laquelle l’économie mondiale a été fortement affectée par la [[pandémie de Covid-19]]), la récession mesurée en termes de PIB serait de 2,3 %, et de 6 % selon le GNI<ref name=":6" />.
+
+Les salaires élevés ainsi que le plein emploi (le taux de chômage n'était que de 4 % en 2007) ont engendré une immigration importante au cours des années 2000. L'immigration en provenance des pays de l'Est (Pologne, Estonie…), de France (près de {{unité|9000|Français}} vivent en Irlande à la fin de 2009<ref name="expatries">Source : [http://www.expatries.org/index.php/Portails-Pays/Irlande page « Irlande »], sur le site http://www.expatries.org de la Maison des Français de l'étranger.</ref>), et d'Asie (de très nombreux Chinois vivent à Dublin) entraîne une augmentation de la population de 2,5 % par an durant les années 2000. En raison de la crise économique, l’émigration a néanmoins fortement augmenté à partir de 2010<ref>{{Lien web |langue=en |titre=Ireland's outward migration highest in 20 years: CSO |url=http://www.breakingnews.ie/ireland/irelands-outward-migration-highest-in-20-years-cso-474450.html |site=breakingnews.ie |date=21/9/2010 |archive-url=https://web.archive.org/web/20140107142803/http://www.breakingnews.ie/ireland/irelands-outward-migration-highest-in-20-years-cso-474450.html |archive-date=7/1/2014}}.</ref>.
+
+Le niveau de l’[[impôt sur les sociétés]], qui s’établit à 12,5 % en Irlande, est exceptionnellement bas pour un pays européen, où le taux moyen est de 25,9 %<ref name=":4" />.
+
+Entre 2000 et 2017, l’emploi industriel en Irlande a chuté de 22,1 %. Le modèle économique irlandais est désormais basé en grande partie sur la [[concurrence fiscale]]<ref>{{Lien web |titre=Changer l'Europe ! - Ces chiffres miraculeux de l’économie irlandaise - Libération.fr |url=http://leseconomistesatterres.blogs.liberation.fr/2017/01/15/ces-chiffres-miraculeux-de-leconomie-irlandaise/ |site=leseconomistesatterres.blogs.liberation.fr |consulté le=10/7/2019}}.</ref>. En 2022, l'Irlande est classée en {{23e|position}} pour l'[[indice mondial de l'innovation]]<ref>{{Lien web |langue=fr |nom=WIPO |titre=Indice mondial de l'innovation 2022|url=https://www.wipo.int/global_innovation_index/fr/2022/index.html |site=[[Organisation mondiale de la propriété intellectuelle]] |consulté le=2022-11-16}}</ref>.
+
+Proportionnellement au nombre d'habitants, l'Irlande est en 2016 le deuxième pays le plus endetté au monde après le Japon<ref>{{Article |titre=Ces pays où la dette par habitant est la plus élevée |périodique=BFM BUSINESS |date=28/11/2016 |lire en ligne=http://bfmbusiness.bfmtv.com/observatoire/ces-pays-ou-la-dette-par-habitant-est-la-plus-elevee-1063571.html |archiveurl=https://web.archive.org/web/20170731040922/http://bfmbusiness.bfmtv.com/observatoire/ces-pays-ou-la-dette-par-habitant-est-la-plus-elevee-1063571.html |archivedate=31/7/2017 }}.</ref>.
+
+=== Crise financière de 2008 ===
+La crise de 2008-2009 a frappé de plein fouet l'économie celtique, les économistes parlant même pour l'Irlande d'une [[Histoire des bourses de valeurs#Les crises 2007-2011 poussent les taux d'intérêt au plus bas depuis deux siècles|crise financière de 2007-2010]]. La récession est particulièrement violente avec une contraction du PIB de 3 % en 2008, 7 % en 2009 et 0,4 % en 2010<ref>{{Lien web |titre=Ireland GDP Data & Country Report - Global Finance magazine |url=https://web.archive.org/web/20091216203448/http://www.gfmag.com/gdp-data-country-reports/251-ireland-gdp-country-report.html |site=web.archive.org |date=2009-12-16 |consulté le=2022-01-12}}</ref>.
+
+Ainsi le taux de chômage était de 14,8 % de la population active en 2012<ref name="rte" />. Les années 2011 et 2012 semblent ouvrir la porte à une légère embellie, avec une hausse du PIB de 0,7 % et 0,5 % respectivement. Ce retour à la croissance peut s'expliquer en grande partie par la bonne tenue des exportations (multinationales installées en Irlande), la demande intérieure demeurant faible.
+
+Entre 2008 et 2014, des coupes budgétaires de {{nobr|30 milliards}} d’euros — soit près de 20 % du produit intérieur brut (PIB) — ont été décidées. Le taux de privation matérielle (qui désigne l’incapacité de se procurer certains biens et services considérés comme souhaitables ou nécessaires pour avoir un niveau de vie acceptable) est passé de 13,7 % (2008) à 30,5 % (2013).
+
+Le déficit budgétaire, à cause de l'effondrement des recettes fiscales et de la hausse des dépenses sociales, explose. Les plans de sauvetage des banques irlandaises coûtent une fortune à l'État. Le déficit public pour 2010 atteint 32 % du PIB<ref name=":4" />. La dette publique avoisine les 100 % du PIB.
+
+Les prix à la consommation baissent fortement en 2009. Les prix de l'immobilier s'effondrent.
+Les pancartes ''to let'' (à louer) et ''for sale'' (à vendre) fleurissent dans toutes les rues des villes du pays.
+Nombre de ménages connaissent des défauts de paiements sur leurs crédits immobiliers.
+
+Les activités bancaires et financières qui avaient connu un essor sans égal à Dublin sur les bords de la Liffey dans les années 2000 ont été particulièrement touchées par la crise financière d'{{date-|octobre 2008}}, mettant en grandes difficultés les principales banques du pays et obligeant le gouvernement à intervenir en recapitalisant ou nationalisant les établissements financiers et éviter une faillite générale du système. Le coût de ces plans de sauvetage est énorme (près de 20 % du PIB en 2010), expliquant le niveau astronomique du déficit public à 32 % du PIB (à titre de comparaison, la France connait un déficit public de 7,8 % du PIB en 2010).
+
+La délocalisation d'une partie des activités de l'informatique Dell de Limerick vers la Pologne, entraînant la perte de près de {{nombre|2000|emplois}}, ce qui est énorme à l'échelle irlandaise, est ressentie comme une catastrophe économique et sociale par l'Irlande tout entière pour cette région qui avait connu une renaissance économique dans les années 2000. L'ampleur de cette crise est inédite.
+
+Les difficultés financières s'accumulant depuis plusieurs mois, le gouvernement de [[Brian Cowen]] s'est résigné, sous la pression des dirigeants européens, à accepter l'aide financière du [[Fonds monétaire international|FMI]] pilotée par l'Union Européenne.
+Ce « plan de sauvetage » sous la forme d'un emprunt de {{nobr|85 milliards}} d'euros au taux de 6,7 %, est largement décrié par la population du fait de son coût prohibitif et du plan d'austérité qui y est associé.
+
+La dette continue néanmoins d'augmenter, passant de 91,2 % du PIB en 2010 à 124,8 % ({{nombre|204,696|milliards}} d’euros) fin 2013, avec un dernier trimestre de cette même année en récession de 2,3 %<ref>{{Lien web |titre=Le PIB de l'Irlande a baissé de 2,3% au 4e trimestre |url=https://reuters.com/article/businessNews/idFRKBN0C404B20140313 |site=Reuters |date=2014-03-13 |consulté le=2019-11-10}}.</ref>. Elle diminue en 2014 et 2015, grâce à la forte croissance du PIB et à l'émission de reconnaissances de dette destinées à permettre aux banques en difficulté de se financer auprès de la [[Central Bank and Financial Services Authority of Ireland|Banque centrale irlandaise]], le tout pour un montant de {{nobr|31 milliards}} d’euros (soit environ 20 % du PIB). « Dans les faits, il s’agit d’une opération de monétisation de la dette. La Banque centrale a tout simplement créé {{nobr|31 milliards}} d’euros sur un écran d’ordinateur », indique l’économiste Tom McDonnell. Une opération théoriquement illégale au sein de la [[zone euro]]<ref name=":5" />.
+
+Malgré une forte reprise de l'activité économique en 2014 (avec un taux de croissance du PIB de 4,8 % en 2014), les mesures d'austérité continuent de fortement affecter la population. Un tiers de la population se trouve cette année-là en situation de « privation forcée », caractérisée par « l’insatisfaction de deux besoins de base, ou plus (…) tels que la nourriture, le chauffage ou des vêtements adaptés pour l’hiver »<ref name=":4" />.
+
+=== Énergie ===
+=== Économie traditionnelle ===
+{{Section vide ou incomplète}}
+
+=== Tourisme ===
+==== Points touristiques principaux ====
+{{article détaillé|Tourisme en Irlande}}
+[[Fichier:Pasture near Ballyieragh - geograph.org.uk - 15185.jpg|vignette|[[Comté de Cork]].]]
+Tous les comtés du pays développent leurs infrastructures afin d'attirer les touristes du monde entier. Les points touristiques principaux sont :
+* [[Connemara]] : ses lacs et ses collines ;
+* [[Îles d'Aran]] ;
+* [[Péninsule de Dingle]] : ses ports et ses collines ;
+* [[Comté de Kerry]] : le [[Parc national de Killarney]], le [[Muckross House]]… ;
+* [[Dublin]] ;
+* Les Midlands et le [[Shannon (fleuve)|Shannon]] ;
+* [[comté de Clare]] : les [[falaises de Moher]] ;
+* [[comté de Waterford]] : la cristallerie ;
+* [[Comté de Louth]] et [[comté de Meath]] : la vallée historique avec la colline de Tara, Monasterboice… ;
+* [[Comté de Cork]] ;
+* Comté de [[Galway]] ;
+* Musée de la [[Guinness]] à [[Dublin]] ;
+* les distilleries de [[Midleton (distillerie)|Midleton]] et [[Cooley]].
+==== Activités touristiques ====
+Parmi les activités touristiques se développant en Irlande, le  [[vélorail]] sur la ligne de chemin de fer à travers le comté de Mayo, près de la ville de [[Kiltimagh]] dont la fermeture au milieu des années 70 a été un désastre pour la région<ref name=velorlande/>, le dernier train de voyageurs quittant la gare de Kiltimagh en 1963<ref name="velorlande">"Country’s first velorail opening in Mayo this month" dans le ''Connaught Telegraph''le 3 juin 2023 [https://www.con-telegraph.ie/2023/06/03/countrys-first-velorail-opening-in-mayo-this-month/]
+</ref>. Une portion de  15 km de cette ligne de chemin de fer a été transformée en ressource touristique de plein air<ref name=velorlande/>, grâce à un partenariat entre la communauté locale et l’Association touristique de Kiltimagh<ref name=velorlande/>. Le financement a été assuré par des fonds publics du ministère du Développement rural
+<ref name=velorlande/>. La voie était restée inactive depuis 1975 et était devenue envahie par la végétation dans de nombreuX lieux<ref name=velorlande/>. Il a ouvert au public sur une longueur de 15 km<ref name=velorlande/> le 10 juin 2023<ref name=velorlande/>.
+
+=== Transports ===
+{{Section vide ou incomplète}}
+La République d'Irlande dispose de quatre aéroports internationaux : [[Aéroport international de Dublin|Dublin]], [[Aéroport de Cork|Cork]], [[Aéroport de Shannon|Shannon]] et [[Aéroport de Knock|Knock]]. Le pays est également accessible par la mer via des [[Ferry (bateau)|ferries]] qui assurent des liaisons depuis [[Cherbourg]] et [[Roscoff]] vers [[Dublin]] et [[Rosslare]] mais aussi depuis [[Dunkerque]] vers Rosslare (depuis {{date-|janvier 2021}}).
+
+=== Numérique ===
+{{...}}
+L'Irlande abrite les sièges européens d'un grand nombre de multinationales américaines du secteur du [[numérique]] ([[GAFAM]]), dans un quartier de Dublin appelé « {{Lien|trad=Silicon Docks|fr=Silicon Docks|texte=Silicon Docks}} » en référence à la [[Silicon Valley]] et aux anciens docks de [[Dublin]]. Le régime fiscal de l'Irlande particulièrement avantageux pour les sociétés a ainsi attiré les géants du Web, ce qui a permis à l'Irlande, après la crise de 2008 particulièrement dure, de reprendre sa marche en avant. L'Irlande affiche ainsi un taux de croissance supérieur à 10 % sur la période 2014-2018 dont un incroyable +25 % en 2016<ref>« Silicon Docks, nouveau quartier de Dublin, symbole de la présence des GAFAM en Irlande », [https://www.etonnante-epoque.fr/apple-irlande-taxation-des-gafam-encore-rate/ lire en ligne]</ref>.
+
+== Population et société ==
+=== Démographie ===
+{{Article détaillé|Démographie de l'Irlande (pays)}}
+[[Fichier:Eire-demography.png|vignette|Évolution de la démographie entre 1961 et 2003 (chiffre de la [[Organisation des Nations unies pour l'alimentation et l'agriculture|FAO]], 2005). Population en milliers d'habitants.]]
+L'Irlande comptait {{unité|4757976|habitants}} d'après le recensement de 2016. La densité reste assez faible : avec {{unité|67.7|{{hab.}}/km|2}}, elle est presque deux fois moindre que la [[Démographie de l'Union européenne|moyenne de l'Union européenne]], ensemble dont l'Irlande regroupe environ 1 % de la population.
+
+Le dynamisme démographique est relativement nouveau dans le pays. Il est dû à la relative jeunesse de la population, à un taux de natalité élevé pour l'Europe et surtout à une forte immigration. Il s'agit d'un phénomène assez nouveau : la croissance démographique n'a commencé que dans les années 1960. Auparavant, la région s'était fortement dépeuplée. Elle comptait {{nombre|6,5|millions}} d'habitants en 1841<ref name=":7">{{Lien web |url=https://web.archive.org/web/20110607065551/http://www.cso.ie/releasespublications/documents/statisticalyearbook/2007/Chapter%201%20-%20Population.pdf |titre=CS0 |consulté le=2013-03-25}} les chiffres ne prennent pas en compte l'actuelle Irlande du Nord.</ref>, et passe à {{nombre|5,1|millions}} en 1850 du fait d'une [[grande famine irlandaise|grande famine]] accompagnée d'une émigration massive. L'émigration s'est poursuivie pendant le {{s-|XIX}} et une bonne partie du {{s-|XX}}, et a fait plus que contrebalancer l'excédent naturel. La population a donc globalement continué à décroître jusque dans les années 1960 : {{nombre|3,2|millions}} d'habitants en 1901 et {{nombre|2,8|millions}} en 1961.
+
+À partir de cette date la population a crû de nouveau<ref name=":7" />. Dans les années 1990, et plus encore les années 2000, la population immigrée a fortement augmenté. En 2011, {{unité|544357|non-nationaux}} vivaient en Irlande, soit une augmentation de 143 % par rapport au recensement de 2002<ref>{{Lien web |langue=en |titre=Press Release Census 2011 Profile 6 Migration and Diversity - CSO - Central Statistics Office |url=http://www.cso.ie/en/newsandevents/pressreleases/2012pressreleases/pressreleasecensus2011profile6migrationanddiversity/ |site=www.cso.ie}}.</ref>. La plupart viennent d'Europe, du Royaume-Uni pour plus de la moitié, d'Europe de l'Est pour une part importante et en rapide augmentation<ref>entre 2002 et 2006, le nombre de Polonais est passé de {{unité|2200|à=63000}} {{Lien web |url=https://web.archive.org/web/20090325005303/http://www.cso.ie/census/documents/Final%20Principal%20Demographic%20Results%202006.pdf|titre=CSO |consulté le=2013-03-25}} ({{p.}}24).</ref>.
+
+=== Principales villes ===
+Villes principales, avec leur nombre d'habitants en 2016 :
+* [[Dublin]] : {{formatnum:553165}} hab. ;
+* [[Cork]] : {{formatnum:125622}} hab. ;
+* [[Limerick]] : {{formatnum:94192}} hab. ;
+* [[Galway]] : {{formatnum:79934}} hab. ;
+* [[Waterford (Irlande)|Waterford]] : {{formatnum:45748}} hab.
+
+=== Langues ===
+Il existe deux [[langue officielle|langues officielles]] en Irlande. La constitution dispose que la première langue nationale est l'[[irlandais]], et que l'[[anglais]] est une langue annexe. Toutefois, l'anglais est fortement majoritaire, et l'irlandais, bien qu'enseigné obligatoirement à l'école, n'est plus pratiqué dans la vie courante que par peu de personnes (environ {{unité|1,8|million}} d'Irlandais ont une connaissance de la langue, et {{formatnum:538283}} la parlent tous les jours), essentiellement dans les ''[[Gaeltacht|gaeltachtai]]''<ref>Mot gaélique désignant une région où l’on parle le gaélique irlandais dans une importante proportion.</ref>{{,}}<ref>[http://www.dfa.ie/home/index.aspx?id=75982#3 Article 8 de la Constitution irlandaise « ''{{Langue|en|The Irish language as the national language is the first official language. The English language is recognised as a second official language}}.'' » La Constitution n'utilise pas les mots « gaélique irlandais » ou « ''{{Langue|en|Irish Gaelic}}'' » mais « irlandais ».]</ref>, qui sont surtout éparpillées le long de la côte occidentale. En 1840, l'Irlandais était parlé par {{nobr|6 millions}} d'Irlandais, et était la langue celtique la plus parlée, et la plus dynamique. La Grande famine en Irlande, surtout entre 1845 et 1850, sera fatale pour cette langue, qui perdra au moins 90 % de ses locuteurs, avec l'immigration, et le temps, et aussi du fait des morts de la grande famine.
+
+=== Religions ===
+{{Article détaillé|Religion en Irlande}}
+D'après le recensement de 2016, 78,3 % des habitants se déclarent [[Catholicisme|catholiques]] et 9,8 % n'ont pas de religion. Les 11,9 % restants sont [[Protestantisme|protestants]], [[musulman]]s{{etc.}}<ref>{{Lien web |langue=en |titre=Census 2016 Summary Results - Part 1 |url=http://www.cso.ie/en/csolatestnews/presspages/2017/census2016summaryresults-part1/ |site=cso.ie}}.</ref>.
+
+L'Irlande est le pays occidental possédant la plus forte pratique religieuse (entre 35 et 50 % de pratiquants réguliers), même si ce taux a sensiblement baissé depuis vingt ans (près de 90 % de pratiquants jusque dans les années 1980). La religion catholique occupe de fait un rôle prédominant dans la culture et l'identité irlandaise, celle-ci ayant été utilisée pour se démarquer du [[Royaume-Uni]] où le protestantisme est majoritaire<ref name=":2">{{Article |langue=fr |prénom1=Catherine |nom1=Piola |titre=Le paysage religieux de la République et de l’Irlande du Nord au début du XXIe siècle |périodique=Études irlandaises |numéro=39-2 |date=2014-11-20 |issn=0183-973X |doi=10.4000/etudesirlandaises.3869 |lire en ligne=http://journals.openedition.org/etudesirlandaises/3869 |consulté le=2020-01-24 |pages=17–35 }}</ref>. La religion est encore considérée comme un marqueur identitaire même si depuis le début du {{s-|XXI}} le bi-confessionnalisme est moins présent<ref name=":2" />.
+
+L'Église catholique a longtemps conservé une influence sur les questions de société, comme pour le divorce, légalisé en 1995, l'homosexualité légalisée en 1993<ref name="auto">{{Article |langue=fr |titre=L'Irlande, premier pays à approuver le mariage homosexuel par référendum |périodique=Le Monde.fr |date=2015-05-23 |lire en ligne=https://www.lemonde.fr/europe/article/2015/05/23/mariage-homosexuel-en-irlande-les-partisans-du-oui-confiants_4639307_3214.html |consulté le=2020-01-24 }}</ref>, ou pour l'[[avortement]], interdit dans tous les cas jusqu'en 2018.
+
+Mais cette influence est en perte de vitesse au {{s-|XXI}}. En vue du [[Référendum irlandais sur le mariage homosexuel|référendum de 2015]] sur le [[mariage homosexuel en Irlande]], l’Église catholique mène une campagne pour le ''non''. Le ''oui'' l'emporte finalement avec plus de 62 % des voix<ref name="auto"/>. Le {{date-|25/5/2018}} un [[Référendum constitutionnel irlandais de 2018 sur l'accès à l'avortement|référendum sur le trente-sixième amendement de la constitution]] est organisé quant au droit à l'avortement. Le oui l'emporte avec plus de 66 % des voix<ref>{{Lien web|langue=fr|titre=Référendum sur l'avortement en Irlande : raz-de-marée pour le "oui"|url=https://www.francetvinfo.fr/societe/droits-des-femmes/referendum-sur-l-avortement-en-irlande-raz-de-maree-pour-le-oui_2772614.html|site=''Franceinfo''|date=2018-05-27|consulté le=2020-01-24}}.</ref>. L'avortement est légal depuis le {{date-|1/1/2019}}<ref>{{Article |langue=fr |titre=En Irlande, l’avortement, même légalisé, est toujours tabou |périodique=Le Monde.fr |date=2019-02-19 |lire en ligne=https://www.lemonde.fr/international/article/2019/02/19/en-irlande-l-avortement-meme-legalise-est-toujours-tabou_5425085_3210.html |consulté le=2020-01-24 }}.</ref>.
+
+=== Sécurité et criminalité ===
+La [[mafia irlandaise]] (The Irish Mob) est le nom donné au crime organisé irlandais ou d'origine irlandaise. C'est la plus ancienne pègre aux États-Unis, qui existe depuis le début du {{s-|XIX}}.
+
+=== Système éducatif ===
+{{Section vide ou incomplète}}
+* [[Université en Irlande (pays)]]
+
+=== Système de soins ===
+Le système de soins [[irlandais]] est perçu comme fortement inégalitaire. Si les citoyens aisés détiennent généralement une assurance privée, les plus modestes sont contraints de s'en remettre à un système public sous-financé. Confrontées aux coupes budgétaires, les structures manquent de moyens, le nombre de patients admis sur un brancard plutôt que sur un lit est élevé, de même que les listes d'attente pour obtenir un rendez-vous chez un [[spécialiste]]<ref name=":3">{{Article |auteur1=Julien Mercille |titre=En Irlande, les nationalistes portés par la crise sociale |périodique=[[Le Monde diplomatique]] |date=01-05-2020 |lire en ligne=https://www.monde-diplomatique.fr/2020/05/MERCILLE/61760 |consulté le=16-09-2020}}.</ref>.
+
+== Logement ==
+La question du logement est devenue une préoccupation majeure dans le pays. Les loyers ont augmenté de 65 % entre 2011 et 2018 en conséquence de la pénurie de logements dans les villes<ref>{{Lien web |titre=Irlande. Les loyers sont 30 % plus élevés qu’au moment de la bulle immobilière |url=https://www.courrierinternational.com/article/irlande-les-loyers-sont-30-plus-eleves-quau-moment-de-la-bulle-immobiliere |site=Courrier international |date=14/11/2018 |consulté le=10/7/2019}}.</ref>{{,}}<ref>{{Lien web |auteur1=Manon Deniau |titre=Irlande, des bulles dans le béton |url=https://www.monde-diplomatique.fr/2018/04/DENIAU/58552 |site=Le Monde diplomatique |date=1/4/2018 |consulté le=10/7/2019}}.</ref>. La capitale de l'Irlande, [[Dublin]], est la capitale européenne la plus onéreuse pour le montant des loyers<ref name=":3" />.
+
+Le budget de rénovation et de construction de logements sociaux est passé de {{nombre|1,4|milliard}} d’euros en 2008 à {{nobr|167 millions}} en 2014. En conséquence, les constructions de logements sociaux ont chuté, passant de {{nombre|5300 appartements}} en 2009 à 1000 en 2012 et à 476 en 2015. Le nombre de familles inscrites sur les listes d’attente pour en obtenir un a doublé entre 2005 et 2017. Plutôt que de construire de nouveaux logements, le gouvernement a choisi d'accorder des aides aux locataires du privé, ce qui a eu pour résultat d'aggraver la crise en dopant la demande sans chercher à stimuler l’offre<ref name=":3" />.
+
+Entre 2015 et 2018, le nombre de [[Sans-abri|sans-abris]] a presque doublé chez les adultes (+ 95 %) et plus que triplé chez les enfants (+ 228 %)<ref name=":3" />.
+
+== Culture ==
+{{Article détaillé|Culture de l'Irlande}}
+
+=== Fêtes et jours fériés ===
+La [[Fête de la Saint-Patrick|saint Patrick]] est un événement que l'on fête le {{date-|17 mars}}.
+
+=== Littérature ===
+{{article détaillé|Littérature irlandaise}}
+
+Parmi les écrivains irlandais, on compte [[Jonathan Swift]], [[Oscar Wilde]], [[James Joyce]], [[George Bernard Shaw]], [[Samuel Beckett]], [[William Butler Yeats]], [[Eoin Colfer]], [[John Millington Synge]].
+
+=== Art ===
+{{Section vide ou incomplète}}
+
+=== Musique ===
+* Groupes de [[musique]] ou artistes : [[Gavin James]], [[Hozier]], [[Niall Horan]], [[Rory Gallagher]], [[U2]], [[Thin Lizzy]],[[ Gary Moore]],[[The Cranberries]], [[The Pogues]], [[Van Morrison]], [[The Corrs]], [[The Boomtown Rats]], [[Sinéad O'Connor]], [[Enya]], [[Westlife]], [[The Script]], [[Flogging Molly]], [[The Chieftains]], [[The Dubliners]], [[The Bothy Band]], [[Planxty]], [[Clannad (groupe)|Clannad]], [[Boyzone]], [[Jedward]], [[Therapy?]], [[Damien Rice]], [[Primordial (groupe)|Primordial]], [[Chris de Burgh]],
+*Le pays participe au [[Irlande au Concours Eurovision de la chanson|Concours Eurovision de la Chanson]] depuis [[Concours Eurovision de la chanson 1965|1965]] et a remporté {{nobr|7 fois}} le concours (1970, 1980, 1987, 1992, 1993, 1994 et 1996). L'Irlande est le pays ayant le plus de victoires au concours<ref>{{Lien web |titre=Eurovision-fr.net - Concours Eurovision de la Chanson :Irlande |url=http://www.eurovision-fr.net/pagespays/pays.php?abreg=IE |site=www.eurovision-fr.net |consulté le=2022-04-20}}</ref>.
+
+=== Cinéma ===
+{{Catégorie détaillée|Film tourné en Irlande (pays)}}{{Section à recycler|motif=le champ de la section n'est pas explicite: sont-ce des films produits par des Irlandais?, tournés en Irlande ?, réalisés par des Irlandais?, dont l'histoire concerne l'Irlande?. De même les acteurs sont ils d'origine irlandaise? de nationalité?|date=mars 2022}}
+**''[[L'Homme tranquille]] de [[John Ford]]'' sorti en [[1952 au cinéma|1952]] ;
+** ''[[La Fille de Ryan]] de [[David Lean]]'' sorti en [[1970 au cinéma|1970]] ;
+** ''[[Barry Lyndon]]'' de [[Stanley Kubrick]] sorti en [[1975 au cinéma|1975]] ;
+** ''[[Gens de Dublin]]'' de [[John Huston]] sorti en [[1987 au cinéma|1987]] ;
+** ''[[My Left Foot]] de [[Jim Sheridan]]'' sorti en [[1989 au cinéma|1989]] ;
+** ''[[Les Commitments]] de [[Chris de Burgh|Alan Parker]]'' sorti en [[1991 au cinéma|1991]] ;
+** ''[[Le Cheval venu de la mer]]'' de [[Mike Newell (réalisateur)|Mike Newell]] sorti en [[1994 au cinéma|1994]] ;
+** ''[[Au nom du père (film, 1993)|Au nom du père]]'' de [[Jim Sheridan]] sorti en [[1994 au cinéma|1994]] ;
+** ''[[Michael Collins (film)|Michael Collins]]'' de [[Neil Jordan]] sorti en [[1996 au cinéma|1996]] ;
+** ''[[The Van]]'' de [[Stephen Frears]] sorti en [[1996 au cinéma|1996]] ;
+** ''[[Le Général (film)|Le Général]]'' de [[John Boorman]] sorti en [[1997 au cinéma|1997]] ;
+** ''Waking Ned'' (''Vieilles Canailles'') de Kirk Jones sortie en 1998 ;
+** ''[[Les Cendres d'Angela (film)|Les Cendres d'Angela]]'' de [[Alan Parker]] sorti en [[1999 au cinéma|1999]] ;
+** ''[[Bloody Sunday (film)|Bloody Sunday]]'' de [[Paul Greengrass]] sorti en [[2002 au cinéma|2002]] ;
+** ''[[Omagh (téléfilm)|Omagh]]'' de [[Pete Travis]] sorti en [[2004 au cinéma|2004]] ;
+** ''[[Le vent se lève (film, 2006)|Le vent se lève]]'' de [[Ken Loach]] sorti en [[2006 au cinéma|2006]] ;
+** ''[[PS I Love You (film)|PS I Love You]]'' de [[Richard LaGravenese]] sorti en [[2007 au cinéma|2007]] ;
+** ''[[Hunger (film, 2008)|Hunger]]'' de [[Steve McQueen (réalisateur)|Steve McQueen]] sorti en [[2008 au cinéma|2008]] ;
+** ''[[L'Irlandais (film, 2011)|L'Irlandais]]'' de [[John Michael McDonagh]] sorti en [[2011 au cinéma|2011]] ;
+** ''[[Grabbers]]'' de {{Lien|trad=Jon Wright|fr=Jon Wright|texte=Jon Wright}} sorti en [[2012 au cinéma|2012]] ;
+** ''[[Jimmy's Hall]]'' de [[Ken Loach]] en [[2014 au cinéma|2014]] ;
+** ''[[Calvary]]'' de [[John Michael McDonagh]] sorti en 2014.
+
+* Acteurs et actrices : [[Daniel Day-Lewis]], [[Pierce Brosnan]], [[Peter O'Toole]], [[Jonathan Rhys-Meyers]], [[Colin Farrell]], [[Evanna Lynch]], [[Fiona Shaw]], [[Pauline McLynn]], [[Devon Murray]], [[Saoirse Ronan]], [[Brendan Gleeson]], [[Domhnall Gleeson]], [[Maureen O'Hara]], [[Richard Harris (acteur)|Richard Harris]], [[Maureen O'Sullivan]], [[Cillian Murphy]], [[Aidan Turner]], [[Stephen Rea]], [[Gabriel Byrne]], [[Colm Meaney]], [[Michael Fassbender]], [[Liam Cunningham]], [[Stuart Townsend]], [[Colin O'Donoghue]], [[Allen Leech]], [[Jamie Dornan]], [[Jack Reynor]], [[Aidan Gillen]], [[Andrew Scott (acteur)]], [[Katie McGrath]].
+
+=== Cuisine ===
+{{Article détaillé|Cuisine irlandaise}}
+
+=== Sport ===
+{{Article détaillé|Sport en Irlande}}
+Le [[football gaélique]] et le [[hurling]] sont les sports traditionnels de l'Irlande. Ce sont eux qui drainent le plus de pratiquants et de spectateurs<ref>{{lien web|langue=en|url=http://www.gaa.ie/gaa-news-and-videos/daily-news/3/2107111732-gaa-attendances-hold-firm |format=PDF |titre=GAA attendances hold firm |éditeur=GAA official website |date=21/7/2011 |consulté le=28 août 2011 |archive-url=https://web.archive.org/web/20111230062255/http://www.gaa.ie/gaa-news-and-videos/daily-news/3/2107111732-gaa-attendances-hold-firm |archive-date=30/12/2011 }}</ref>. Ils sont administrés par la [[Association athlétique gaélique|GAA]] sur une base transfrontalière sur toute l'île d'Irlande. Les autres [[sport gaélique|sports gaéliques]] sont le [[handball gaélique]] et le [[rounders]]. De cette importance découle le suivi particulier du [[football australien]] et de l'[[Football de règles internationales|International rules football]] né de la fusion des règles gaéliques et australiennes. La GAA est la propriétaire du plus grand stade d'Irlande, [[Croke Park]], qui avec ses {{nombre|82000|places}} est un des plus grands stades d'Europe.
+
+Le [[football]], souvent appelé Soccer pour faire contraste avec le football (gaélique) est le troisième sport le plus populaire en Irlande. Même si le [[championnat d'Irlande de football]] est la compétition nationale, ce sont bel et bien les championnats anglais qui suscitent le plus grand engouement populaire dans le pays. La quasi-totalité des [[équipe de République d'Irlande de football|internationaux irlandais]] y jouent. Il est à noter que le championnat irlandais accueille dans ses rangs une équipe [[Irlande du Nord|nord-irlandaise]], le [[Derry City FC]], exclu de son championnat national au moment des [[Conflit nord-irlandais|Troubles]].
+
+Le [[rugby à XV]] vient ensuite en termes de notoriété. Il est organisé tant au niveau national qu'au niveau international sur une base trans-nationale : les clubs et l'équipe nationale ne connaissent pas la frontière entre l'État d'Irlande et l'Irlande du Nord. Bien qu'étant de notoriété bien moindre, le [[rugby à XIII]] est également pratiqué en Irlande, sa [[Équipe d'Irlande de rugby à XIII|sélection nationale]] étant régulièrement qualifiée pour [[Coupe du monde de rugby à XIII|la coupe du monde]].
+
+Du côté des personnalités sportives irlandaises en sports individuels, on peut retrouver le pratiquant d'[[Arts martiaux mixtes|art martiaux mixtes]] (MMA) [[Conor McGregor]], et la catcheuse de la [[World Wrestling Entertainment]] (WWE) [[Becky Lynch]].
+
+== Codes ==
+{{Section vide ou incomplète}}
+
+== Notes et références ==
+=== Notes ===
+{{Références|taille=30|groupe="Note"}}
+=== Références ===
+{{Références nombreuses| références=
+
+<ref name="2020_www.cia.gov">{{Lien web |langue=en |titre=The World Factbook — Central Intelligence Agency |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ei.html |site=cia.gov |consulté le=2020-02-04}}.</ref>
+
+}}
+
+== Annexes ==
+{{Autres projets
+ | commons     = Category:Ireland | commons titre = Irlande
+ | wiktionary  = Irlande
+ | wikibooks   = <!-- Wikibooks -->
+ | wikisource  = Catégorie:Irlande | wikisource titre = Irlande
+ | wikiquote   = Catégorie:Irlande | wikiquote titre = Irlande
+ | wikinews    = Page:Irlande | wikinews titre = Irlande
+ | wikivoyage  = République d'Irlande | wikivoyage titre = Irlande
+}}
+{{Catégorie principale|Irlande (pays)}}
+
+=== Bibliographe ===
+{{Section vide ou incomplète}}
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+* {{en}} [http://www.gov.ie/ Portail de l'administration irlandaise]
+* {{img}} [https://www.eea.europa.eu/data-and-maps/figures/natura-2000-birds-and-habitat-directives-9/ireland/Natura2000_End2017_Ireland.eps.75dpi.png/download Carte des sites Natura 2000 (SIC, ZSC + ZPS) de l'Irlande, {{date-|décembre 2017}} (haute définition)], [https://www.eea.europa.eu/data-and-maps/figures/natura-2000-birds-and-habitat-directives-9/ireland Source]
+
+{{Palette|Îles Britanniques|Pays d'Europe|Conseil de l'Europe}}
+{{Portail|Irlande|Europe}}
+
+[[Catégorie:Irlande (pays)|*]]
+[[Catégorie:Toponyme controversé|Irlande]]
+[[Catégorie:Éponyme d'un objet céleste]]

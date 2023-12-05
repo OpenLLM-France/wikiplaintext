@@ -1,0 +1,76 @@
+{{Infobox Graphe
+| nom = Graphe complet
+| image = Complete graph K5.svg
+| légende = <math>K_5</math>
+| maille = ∞ si ''n'' = 1 ou 2<br>3 si ''n'' > 2
+| notation = <math>K_n</math>
+| sommets = <math>n</math>
+| arêtes = <math>n(n-1)/2</math>
+| distribution = ''(n-1)''-régulier
+| diamètre = 1
+| nombre chromatique = <math>n</math>
+| propriétés = [[Graphe hamiltonien|Hamiltonien]], [[Graphe symétrique|symétrique]], [[graphe régulier|régulier]]
+}}
+
+En [[théorie des graphes]], un '''graphe complet''' est un [[graphe simple]] dont tous les sommets sont adjacents deux à deux, c'est-à-dire que tout couple de sommets disjoints est relié par une arête. Si le graphe est [[graphe orienté|orienté]], on dit qu'il est complet si chaque paire de sommets est reliée par exactement deux arcs (un dans chaque sens).
+
+== Définitions ==
+Un graphe complet est un graphe dont tous les sommets sont adjacents<ref>{{Graph Theory (Diestel)|numéro chapitre=1.1|titre chapitre=Basics:Graphs|passage=3}}.</ref>.
+
+À [[Isomorphisme de graphes|isomorphisme]] près, il n'existe qu'un seul graphe complet non orienté d'ordre ''n'', que l'on note <math>K_n</math>.
+
+Dans un graphe ''G'' quelconque, on appelle [[Clique (théorie des graphes)|clique]] un sous-ensemble de sommets induisant un [[sous-graphe]] complet de ''G''. Rechercher une clique de taille maximum dans un graphe est un problème classique en [[théorie des graphes]]. Il est [[NP-complet]].
+
+La notion de [[graphe biparti complet]] existe également. Mais un graphe biparti complet n'est pas un graphe complet.
+
+== Propriétés ==
+Le nombre d'arêtes de <math>K_n</math> est :
+:<math> \sum_{i=1}^{n} \left(n-i\right) =  \sum_{i=1}^{n-1} i = \frac{n(n-1)}{2}</math>.
+Le premier terme s'obtient en remarquant que la suppression d'un premier sommet de <math>K_n</math> entraîne la suppression de <math>n-1</math> arêtes, la suppression d'un deuxième sommet, la suppression de <math>n-2</math> arêtes, et celle d'un i-ème sommet <math>n-i</math> arêtes. Le deuxième terme s'obtient par la même opération en marquant les arêtes au lieu de les supprimer, chaque arête est alors marquée deux fois et l'on fait <math>n-1</math> marquages par sommet (c'est la formule générale de la demi-somme des degrés).
+
+On peut également obtenir cette formule en voyant le nombre d’arêtes comme le nombre de couples distincts que l’on peut former avec <math>n</math> nœuds, soit <math>\binom{n}{2}</math> arêtes, ce qui vaut bien <math>\dfrac{n(n-1)}{2}</math>.
+
+Le graphe complet <math>K_n</math> est [[graphe symétrique|symétrique]] : il est sommet-transitif, arête-transitif et arc-transitif. Cela signifie que son groupe d'automorphismes agit transitivement sur l'ensemble de ses sommets, de ses arêtes et de ses arcs. Ce groupe d'automorphismes est de cardinal ''n!'' et est isomorphe au [[groupe symétrique]] <math>S_n</math>.
+
+Le [[polynôme caractéristique]] du graphe complet <math>K_n</math> est : <math>(x-n+1) (x+1)^{n-1}</math>. Ce polynôme caractéristique n'admet que des racines entières. Le graphe complet est donc un [[graphe intégral]], un graphe dont le [[Théorie spectrale des graphes|spectre]] est constitué d'entiers.
+
+Le graphe <math>K_5</math> est le plus petit graphe non planaire. Il sert dans les caractérisations des [[Graphe planaire|graphes planaires]] de [[Kazimierz Kuratowski]] et de [[Klaus Wagner]].
+
+== Conjectures ==
+
+=== Nombre de croisements ===
+{{Article détaillé|Nombre de croisements (théorie des graphes)}}
+On note <math>\mathrm{cr}(G)</math> le [[Nombre de croisements (théorie des graphes)|nombre de croisements]] du graphe <math>G</math>, le nombre minimal de croisements parmi les tracés possibles de <math>G</math>. A. Hill et J. Ernest ont [[Conjecture|conjecturé]] une valeur pour le nombre de croisements du graphe complet <math>K_n</math>, que [[Richard Guy|Richard K. Guy]] a publiée en 1960<ref name="nabla">{{article|prénom1=R. K. |nom1=Guy |titre=A combinatorial problem |journal=Nabla (Bulletin of the Malayan Mathematical Society) |volume=7 |année=1960 |pages=68–72 |lien auteur=Richard K. Guy }}</ref>. On sait qu'il existe toujours un tracé avec 
+
+: <math>\textrm{cr}(K_n) \le \frac{1}{4} \left\lfloor\frac{n}{2}\right\rfloor\left\lfloor\frac{n-1}{2}\right\rfloor\left\lfloor\frac{n-2}{2}\right\rfloor\left\lfloor\frac{n-3}{2}\right\rfloor</math>
+
+croisements ({{OEIS|id=A000241}}). Il est conjecturé que l'inégalité est en fait une égalité. Une formulation indépendante de la même conjecture a été faite par [[Thomas L. Saaty]] en 1964<ref name="pnas">{{article|prénom1=T.L. |nom1=Saaty |titre=The minimum number of intersections in complete graphs |journal=[[Proceedings of the National Academy of Sciences of the United States of America]] |volume=52 |année=1964 |pmid=16591215 |pmc=300329 |doi=10.1073/pnas.52.3.688 |bibcode=1964PNAS...52..688S |pages=688–690 |lien auteur=Thomas L. Saaty }}</ref>.
+
+Saaty a en outre vérifié que cette formule donne le nombre optimal de croisements pour {{Formule|''n'' ≤ 10|§=''n'' ≤ 10}} et Pan et Richter ont montré qu'elle était également optimale pour {{Formule|''p'' {{=}} 11, 12|§=''n'' {{=}} 11, 12}}<ref name="pr">{{article|prénom1=Shengjun |nom1=Pan |prénom2=R. Bruce |nom2=Richter |titre=The crossing number of {{math|''K''<sub>11</sub>}} is {{math|100}} |journal=[[Journal of Graph Theory]] |volume=56 |numéro=2 |année=2007 |doi=10.1002/jgt.20249 |mr=2350621 |pages=128–134 }}.</ref>.
+
+== Galerie ==
+Pour chacun des graphes complets de 1 à 12 sommets, est indiqué le nombre de ses arêtes. 
+<gallery>
+Image:Complete graph K1.svg|<math>K_1</math> : 0 arête<br>[[graphe singleton]]
+Image:Complete graph K2.svg|<math>K_2</math> : 1 arête
+Image:Complete graph K3.svg|<math>K_3</math> : 3 arêtes<br>[[graphe triangle]]
+Image:Complete graph K4.svg|<math>K_4</math> : 6 arêtes<br>[[graphe tétraédrique]]
+Image:Complete graph K5.svg|<math>K_5</math> : 10 arêtes<br>[[pentacle]]
+Image:Complete graph K6.svg|<math>K_6</math> : 15 arêtes
+Image:Complete graph K7.svg|<math>K_7</math> : 21 arêtes
+Image:Complete graph K8.svg|<math>K_8</math> : 28 arêtes
+Image:8-simplex graph.svg|<math>K_9</math> : 36 arêtes
+Image:9-simplex graph.svg|<math>K_{{10}}</math> : 45 arêtes
+Image:10-simplex graph.svg|<math>K_{{11}}</math> : 55 arêtes
+Image:11-simplex graph.svg|<math>K_{{12}}</math> : 66 arêtes
+</gallery>
+
+== Notes et références ==
+<references />
+
+{{Autres projets|commons=Category:Complete graphs}}
+
+{{Portail|mathématiques|informatique théorique}}
+
+{{DEFAULTSORT:Complet, graphe}}
+[[Catégorie:Famille de graphes|Complet]]
