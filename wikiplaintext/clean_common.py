@@ -45,3 +45,15 @@ def final_clean(text):
 
 def collapse_whitespace(text):
     return re.sub(r"\s+", " ", text).strip()
+
+_ignore_from_section = {
+    "fr": [
+        "Notes",
+        "Notes et références",
+        "Références",
+        "Voir aussi",
+        "Liens externes",
+        # "Bibliographie",
+        "Annexes",
+    ],
+}

@@ -1,0 +1,956 @@
+<div class="mw-content-ltr mw-parser-output" lang="fr" dir="ltr"><div class="bandeau-container metadata bandeau-article bandeau-niveau-ebauche"><div class="bandeau-cell bandeau-icone" style="display:table-cell;padding-right:0.5em"><span class="noviewer" typeof="mw:File"><a href="/wiki/Fichier:F_of_x.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/F_of_x.svg/45px-F_of_x.svg.png" decoding="async" width="45" height="32" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/F_of_x.svg/68px-F_of_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/F_of_x.svg/90px-F_of_x.svg.png 2x" data-file-width="512" data-file-height="369" /></a></span></div><div class="bandeau-cell" style="display:table-cell;padding-right:0.5em">
+<p><strong class="bandeau-titre">Cet article est une <a href="/wiki/Aide:%C3%89bauche" title="Aide:Ébauche">ébauche</a> concernant l’<a href="/wiki/Analyse_(math%C3%A9matiques)" title="Analyse (mathématiques)">analyse</a>.</strong>
+</p><p>Vous pouvez partager vos connaissances en l’améliorant (<b><a href="/wiki/Aide:Comment_modifier_une_page" title="Aide:Comment modifier une page">comment&#160;?</a></b>) selon les recommandations des <a href="/wiki/Projet:Accueil" title="Projet:Accueil">projets correspondants</a>.
+</p><p>Consultez la liste des <b>tâches à accomplir</b> en <a href="/wiki/Discussion:%C3%89quation_fonctionnelle" title="Discussion:Équation fonctionnelle">page de discussion</a>.
+</p>
+</div></div>
+<p>En <a href="/wiki/Math%C3%A9matiques" title="Mathématiques">mathématiques</a>, une <b>équation fonctionnelle</b> est une <a href="/wiki/%C3%89quation" title="Équation">équation</a> dont les inconnues sont des fonctions. De nombreuses propriétés de fonctions peuvent être déterminées en étudiant les équations auxquelles elles satisfont. D'habitude, le terme «&#160;équation fonctionnelle&#160;» est réservé aux équations qu'on ne peut pas ramener à des équations plus simples, par exemple à des <a href="/wiki/%C3%89quation_diff%C3%A9rentielle" title="Équation différentielle">équations différentielles</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Vocabulaire">Vocabulaire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=1" title="Modifier la section : Vocabulaire" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=1" title="Modifier le code source de la section : Vocabulaire"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Le cas le plus fréquent est celui où les valeurs d'une fonction et éventuellement de ses dérivées, calculées en plusieurs points, doivent satisfaire une relation, dite <i>relation fonctionnelle</i>, pour toutes les valeurs de la variable (du moins sur un certain domaine). Deux approches distinctes sont possibles&#160;:
+</p>
+<ul><li>lorsqu'on étudie une fonction en particulier, il peut être utile de mettre en évidence une relation fonctionnelle qu'elle satisfait, comme la relation  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x\Gamma (x)=\Gamma (x+1)\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\Gamma (x)=\Gamma (x+1)\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a743e1cfeeef12cae18f7dd45b96c3d00bfab7cf" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:18.002ex; height:2.843ex;" alt="x\Gamma (x)=\Gamma (x+1)\,"></span> satisfaite par la <a href="/wiki/Fonction_gamma" title="Fonction gamma">fonction gamma d'Euler</a>, ou celle satisfaite par la <a href="/wiki/Fonction_z%C3%AAta_de_Riemann" title="Fonction zêta de Riemann">fonction zêta de Riemann</a>&#160;: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \zeta (s)=2^{s}\pi ^{s-1}\sin \left({\frac {\pi s}{2}}\right)\Gamma (1-s)\zeta (1-s)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B6;<!-- ζ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>s</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+          </mrow>
+        </msup>
+        <msup>
+          <mi>&#x03C0;<!-- π --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mi>&#x03C0;<!-- π --></mi>
+                <mi>s</mi>
+              </mrow>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>s</mi>
+        <mo stretchy="false">)</mo>
+        <mi>&#x03B6;<!-- ζ --></mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>s</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \zeta (s)=2^{s}\pi ^{s-1}\sin \left({\frac {\pi s}{2}}\right)\Gamma (1-s)\zeta (1-s)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16c0dcb4535d0e42b3e09cff1736643170ad9e71" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:39.327ex; height:4.843ex;" alt="\zeta (s)=2^{s}\pi ^{{s-1}}\sin \left({\frac  {\pi s}{2}}\right)\Gamma (1-s)\zeta (1-s)"></span>. On en déduit ensuite d'autres propriétés de la fonction&#160;: par exemple que la fonction zêta de Riemann s'annule aux nombres entiers strictement négatifs pairs, et ne possède pas d'autres zéros en dehors de la bande 0 &lt; <i>Re(s)</i> &lt; 1&#160;;</li></ul>
+<ul><li>lorsqu'on résout une équation fonctionnelle à proprement parler, on étudie l'ensemble des fonctions satisfaisant une relation donnée. Un exemple est la recherche des fonctions vérifiant <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f\left({az+b \over cz+d}\right)=(cz+d)^{k}f(z)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mi>a</mi>
+                <mi>z</mi>
+                <mo>+</mo>
+                <mi>b</mi>
+              </mrow>
+              <mrow>
+                <mi>c</mi>
+                <mi>z</mi>
+                <mo>+</mo>
+                <mi>d</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>c</mi>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>d</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f\left({az+b \over cz+d}\right)=(cz+d)^{k}f(z)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b9e3ca9206947655424e4237d2de2cabe561c1f1" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.505ex; width:28.403ex; height:6.176ex;" alt="f\left({az+b \over cz+d}\right)=(cz+d)^{k}f(z)"></span> (où <i>a</i>, <i>b</i>, <i>c</i> et <i>d</i> sont des <a href="/wiki/Entier_naturel" title="Entier naturel">entiers naturels</a> vérifiant <i>ad</i> − <i>bc</i> = 1) qu'on appelle des <a href="/wiki/Forme_modulaire" title="Forme modulaire">formes modulaires</a>. <br />Il arrive que certaines conditions analytiques soient exigées. Le <a href="/wiki/Th%C3%A9or%C3%A8me_de_Bohr-Mollerup" title="Théorème de Bohr-Mollerup">théorème de Bohr-Mollerup</a> en est un exemple. En l'absence de ces conditions, une équation fonctionnelle très simple comme l'<a href="/wiki/%C3%89quation_fonctionnelle_de_Cauchy" title="Équation fonctionnelle de Cauchy">équation fonctionnelle de Cauchy</a> peut avoir des solutions très irrégulières.</li></ul>
+<p>Lorsque l'équation relie les valeurs d'une fonction et de ses dérivées en un même point, elle est appelée <a href="/wiki/%C3%89quation_diff%C3%A9rentielle" title="Équation différentielle">équation différentielle</a>. D'autres équations utilisent des propriétés globales des fonctions inconnues&#160;; on parle par exemple d'<a href="/wiki/%C3%89quation_int%C3%A9grale" title="Équation intégrale">équations intégrales</a>, ou de <a href="/wiki/Optimisation_(math%C3%A9matiques)" title="Optimisation (mathématiques)">problèmes d'optimisation</a> (lesquels sont l'objet du <a href="/wiki/Calcul_des_variations" title="Calcul des variations">calcul des variations</a>), comme le <a href="/wiki/Probl%C3%A8me_de_Plateau" title="Problème de Plateau">problème de Plateau</a>.
+</p>
+<h2><span class="mw-headline" id="Exemples">Exemples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=2" title="Modifier la section : Exemples" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=2" title="Modifier le code source de la section : Exemples"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="texhtml"><i>f</i>(<i>x</i> + <i>y</i>) = <i>f</i>(<i>x</i>)<i>f</i>(<i>y</i>)</span>, satisfaite par les <a href="/wiki/Exponentielle_de_base_a" title="Exponentielle de base a">fonctions exponentielles</a>&#160;;</li>
+<li><span class="texhtml"><i>f</i>(<i>xy</i>) = <i>f</i>(<i>x</i>) + <i>f</i>(<i>y</i>)</span>, satisfaite par les <a href="/wiki/Logarithme" title="Logarithme">fonctions logarithmes</a>&#160;;</li>
+<li><span class="texhtml"><i>f</i>(<i>x</i> + <i>y</i>) = <i>f</i>(<i>x</i>) + <i>f</i>(<i>y</i>)</span> (<a href="/wiki/%C3%89quation_fonctionnelle_de_Cauchy" title="Équation fonctionnelle de Cauchy">équation fonctionnelle de Cauchy</a>)&#160;;</li>
+<li><span class="texhtml"><i>f</i>(<i>x+T</i>) = <i>f</i>(<i>x</i>)</span>, définissant les <a href="/wiki/Fonction_p%C3%A9riodique" title="Fonction périodique">fonctions périodiques</a> de période <i>T</i>&#160;;</li>
+<li><span class="texhtml"><i>f</i>(<i>az</i>) = <i>af</i>(<i>z</i>)(1 − <i>f</i>(<i>z</i>))</span> (équation de <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a>)</li>
+<li><span class="texhtml"><i>f</i>((<i>x</i> + <i>y</i>)/2) = (<i>f</i>(<i>x</i>) + <i>f</i>(<i>y</i>))/2</span> (<a href="/wiki/Johan_Jensen" title="Johan Jensen">Jensen</a>)&#160;;</li></ul>
+<dl><dd>Les solutions sont celles de l'équation fonctionnelle de Cauchy, à une constante près.</dd></dl>
+<ul><li><span class="texhtml"><i>f</i>(<i>x</i> + <i>y</i>) + <i>f</i>(<i>x</i> − <i>y</i>) = 2<i>f</i>(<i>x</i>)<i>f</i>(<i>y</i>)</span> (équation fonctionnelle de <a href="/wiki/Jean_le_Rond_D%27Alembert" class="mw-redirect" title="Jean le Rond D&#39;Alembert">d'Alembert</a>)<br />Les solutions continues sont les fonctions constantes 0, 1, et les fonctions trigonométriques <a href="/wiki/Cosinus" title="Cosinus">cosinus</a> et <a href="/wiki/Cosinus_hyperbolique" title="Cosinus hyperbolique">cosinus hyperbolique</a>&#160;;</li>
+<li><span class="texhtml"><i>f</i>(<i>h</i>(<i>x</i>)) = <i>f</i>(<i>x</i>) + 1</span> (<a href="/wiki/Niels_Henrik_Abel" title="Niels Henrik Abel">Abel</a>)&#160;;</li>
+<li><span class="texhtml"><i>f</i>(<i>h</i>(<i>x</i>)) = <i>cf</i>(<i>x</i>)</span> (<a href="/wiki/Ernst_Schr%C3%B6der" title="Ernst Schröder">Schröder</a>).<br />L'<a href="/wiki/%C3%89quation_de_Schr%C3%B6der" title="Équation de Schröder">équation de Schröder</a> est satisfaite par la <a href="/w/index.php?title=Fonction_de_Koenigs&amp;action=edit&amp;redlink=1" class="new" title="Fonction de Koenigs (page inexistante)">fonction de Koenigs</a>&#160;<a href="https://en.wikipedia.org/wiki/Koenigs_function" class="extiw" title="en:Koenigs function"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Koenigs function&#160;»">(en)</span></a>.</li>
+<li><span class="texhtml"><i>f</i>(<i>f</i>(<i>x</i>)) = <i>g</i>(<i>x</i>)</span>, autrement dit la détermination d'une <a href="/wiki/Racine_carr%C3%A9e_fonctionnelle" title="Racine carrée fonctionnelle">racine carrée fonctionnelle</a>.</li>
+<li>Une forme simple d'équation fonctionnelle est la <a href="/wiki/Relation_de_r%C3%A9currence" class="mw-redirect" title="Relation de récurrence">relation de récurrence</a>, dont la fonction inconnue est une <a href="/wiki/Suite_(math%C3%A9matiques)" title="Suite (mathématiques)">suite</a> (formellement&#160;: une fonction définie sur l'ensemble des entiers) et qui met en jeu l'<a href="/wiki/Op%C3%A9rateur_de_d%C3%A9calage" title="Opérateur de décalage">opérateur de décalage</a>.</li>
+<li>L'<a href="/wiki/Associativit%C3%A9" title="Associativité">associativité</a> et la <a href="/wiki/Commutativit%C3%A9" class="mw-redirect" title="Commutativité">commutativité</a> sont des équations fonctionnelles. Quand la <a href="/wiki/Loi_de_composition_interne" title="Loi de composition interne">loi de composition interne</a> est représentée sous sa forme habituelle, par un symbole entre les deux variables, son associativité s'écrit comme suit&#160;:<center><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (a*b)*c=a*(b*c).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mi>c</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a*b)*c=a*(b*c).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16ac40121bf386a1d113dc9712af671c799ad97c" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:22.611ex; height:2.843ex;" alt="{\displaystyle (a*b)*c=a*(b*c).}"></span></center></li></ul><p>
+Mais si l'on écrit <span class="texhtml"><i>f</i>(<i>a</i>, <i>b</i>)</span> au lieu de <span class="texhtml"><i>a</i> ∗ <i>b</i></span>, alors l'associativité de la loi ressemble plus à ce que l'on entend conventionnellement par «&#160;équation fonctionnelle&#160;»&#160;:</p><center><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(f(a,b),c)=f(a,f(b,c)).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>,</mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(f(a,b),c)=f(a,f(b,c)).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/966015a53d99028cdb75d1d74543c102094e252d" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:26.701ex; height:2.843ex;" alt="{\displaystyle f(f(a,b),c)=f(a,f(b,c)).}"></span></center>
+<p>Un point commun à tous ces exemples est que dans chacun des cas, deux ou plusieurs fonctions (tantôt la multiplication par une constante, tantôt l'addition de deux variables, tantôt la fonction identité) sont substituées à l'inconnue.<sup class="need_ref_tag" style="padding-left:2px;"><a href="/wiki/Aide:Pr%C3%A9ciser_un_fait" title="Aide:Préciser un fait">[Quoi&#160;?]</a></sup>
+</p>
+<h2><span id="Formule_de_r.C3.A9flexion"></span><span class="mw-headline" id="Formule_de_réflexion">Formule de réflexion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=3" title="Modifier la section : Formule de réflexion" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=3" title="Modifier le code source de la section : Formule de réflexion"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On parle de <i>formule de réflexion</i> est une équation fonctionnelle caractérisant une fonction <span class="texhtml mvar" style="font-style:italic;">f</span> entre sa valeur en tout point <span class="texhtml mvar" style="font-style:italic;">x</span> d'un domaine défini et sa valeur en <span class="texhtml mvar" style="font-style:italic;">-x</span>, ou plus généralement, sa forme <a href="/wiki/Op%C3%A9rateur_de_d%C3%A9calage" title="Opérateur de décalage">décalée</a> <span class="texhtml"><i>f</i>(<i>a-x</i>)</span>.
+</p>
+<h3><span class="mw-headline" id="Exemples_2">Exemples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=4" title="Modifier la section : Exemples" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=4" title="Modifier le code source de la section : Exemples"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Les formules de réflexion simples comme <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(x)=f(-x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)=f(-x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f76b338e56f5332ea116ad2a0b58eb1e67ae44b" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:13.742ex; height:2.843ex;" alt="{\displaystyle f(x)=f(-x)}"></span> ou <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(x)=-f(-x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)=-f(-x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4094f5420dd33b3e7046c48fd369aef381655938" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:15.55ex; height:2.843ex;" alt="{\displaystyle f(x)=-f(-x)}"></span> impliquent l'étude de la <a href="/wiki/Parit%C3%A9_d%27une_fonction" title="Parité d&#39;une fonction">parité des fonctions solutions</a> (la première caractérise les fonctions paires, la seconde pour les fonctions impaires).
+</p><p>Un des exemples les plus connus est la <a href="/wiki/Formule_des_compl%C3%A9ments" title="Formule des compléments">formule des compléments</a> de la <a href="/wiki/Fonction_gamma" title="Fonction gamma">fonction gamma</a>, démontré par <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \forall z\in ]0;1[,\ \Gamma (z)\Gamma (1-z)={\frac {\pi }{\sin(\pi z)}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mi>z</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mo stretchy="false">]</mo>
+        <mn>0</mn>
+        <mo>;</mo>
+        <mn>1</mn>
+        <mo stretchy="false">[</mo>
+        <mo>,</mo>
+        <mtext>&#xA0;</mtext>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>&#x03C0;<!-- π --></mi>
+            <mrow>
+              <mi>sin</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>&#x03C0;<!-- π --></mi>
+              <mi>z</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \forall z\in ]0;1[,\ \Gamma (z)\Gamma (1-z)={\frac {\pi }{\sin(\pi z)}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/388b9b2c10d95a8f7c50396c4f60ceb9c85ee078" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:35.213ex; height:5.509ex;" alt="{\displaystyle \forall z\in ]0;1[,\ \Gamma (z)\Gamma (1-z)={\frac {\pi }{\sin(\pi z)}}.}"></span></dd></dl>
+<p>La formule de réflexion pour la <a href="/wiki/Fonction_z%C3%AAta_de_Riemann" title="Fonction zêta de Riemann">fonction zêta de Riemann</a> est donnée par&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \zeta (1-z)={\frac {2}{(2\pi )^{z}}}\cos \left({\frac {\pi z}{2}}\right)\Gamma (z)\zeta (z).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B6;<!-- ζ --></mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>2</mn>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>z</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mi>&#x03C0;<!-- π --></mi>
+                <mi>z</mi>
+              </mrow>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mi>&#x03B6;<!-- ζ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \zeta (1-z)={\frac {2}{(2\pi )^{z}}}\cos \left({\frac {\pi z}{2}}\right)\Gamma (z)\zeta (z).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9dc271f7c0047c1ffd387cd665f89e837a5ac478" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:35.755ex; height:6.009ex;" alt="{\displaystyle \zeta (1-z)={\frac {2}{(2\pi )^{z}}}\cos \left({\frac {\pi z}{2}}\right)\Gamma (z)\zeta (z).}"></span></dd></dl>
+<p>qu'on peut réécrire de façon équivalente<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle -\pi \zeta (-z)={\frac {1}{(2\pi )^{z}}}\sin \left({\frac {\pi z}{2}}\right)\Gamma (z+1)\zeta (z+1).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>&#x03C0;<!-- π --></mi>
+        <mi>&#x03B6;<!-- ζ --></mi>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>z</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mi>&#x03C0;<!-- π --></mi>
+                <mi>z</mi>
+              </mrow>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mi>&#x03B6;<!-- ζ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle -\pi \zeta (-z)={\frac {1}{(2\pi )^{z}}}\sin \left({\frac {\pi z}{2}}\right)\Gamma (z+1)\zeta (z+1).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c785faefafeb51266064c4432f70e151838a5139" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:44.451ex; height:6.009ex;" alt="{\displaystyle -\pi \zeta (-z)={\frac {1}{(2\pi )^{z}}}\sin \left({\frac {\pi z}{2}}\right)\Gamma (z+1)\zeta (z+1).}"></span></dd></dl>
+<p>La <a href="/wiki/Fonction_xi_de_Riemann" title="Fonction xi de Riemann">fonction xi de Riemann</a> vérifie la formule de réflexion
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \xi (z)=\xi (1-z).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03BE;<!-- ξ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>&#x03BE;<!-- ξ --></mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \xi (z)=\xi (1-z).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69b514324d135cd35202f9fef5d234f9c71ce225" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:15.603ex; height:2.843ex;" alt="{\displaystyle \xi (z)=\xi (1-z).}"></span></dd></dl>
+<p>La <a href="/wiki/Fonction_G_de_Barnes" title="Fonction G de Barnes">fonction G de Barnes</a> vérifie la formule de réflexion
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle G(z+1)=\Gamma (z)G(z).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G(z+1)=\Gamma (z)G(z).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6999083c5ff723a446566bc0a74e37e9cea6564" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:21.547ex; height:2.843ex;" alt="{\displaystyle G(z+1)=\Gamma (z)G(z).}"></span></dd></dl>
+<p>Le <a href="/wiki/Dilogarithme" title="Dilogarithme">dilogarithme</a> vérifie les formules de réflexion
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {Li} _{2}({\frac {1}{z}})=-\mathrm {Li} _{2}(z)-{\frac {\pi ^{2}}{6}}-{\frac {1}{2}}\ln(-z)^{2}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>z</mi>
+          </mfrac>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msup>
+              <mi>&#x03C0;<!-- π --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mn>6</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mi>ln</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {Li} _{2}({\frac {1}{z}})=-\mathrm {Li} _{2}(z)-{\frac {\pi ^{2}}{6}}-{\frac {1}{2}}\ln(-z)^{2}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61da53dc81631fbfc17f32222253b413342cf03c" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:37.557ex; height:5.676ex;" alt="{\displaystyle \mathrm {Li} _{2}({\frac {1}{z}})=-\mathrm {Li} _{2}(z)-{\frac {\pi ^{2}}{6}}-{\frac {1}{2}}\ln(-z)^{2}.}"></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {Li} _{2}(1-z)=-\mathrm {Li} _{2}(z)+{\frac {\pi ^{2}}{6}}-\ln(z)\ln(1-z).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msup>
+              <mi>&#x03C0;<!-- π --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mn>6</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>ln</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mi>ln</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {Li} _{2}(1-z)=-\mathrm {Li} _{2}(z)+{\frac {\pi ^{2}}{6}}-\ln(z)\ln(1-z).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b91b3d7ca3065cdafa89c252816a2245d922d3ed" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:44.628ex; height:5.676ex;" alt="{\displaystyle \mathrm {Li} _{2}(1-z)=-\mathrm {Li} _{2}(z)+{\frac {\pi ^{2}}{6}}-\ln(z)\ln(1-z).}"></span></dd></dl>
+<p>La <a href="/w/index.php?title=Fonction_L_de_Rogers&amp;action=edit&amp;redlink=1" class="new" title="Fonction L de Rogers (page inexistante)">fonction L de Rogers</a> vérifie la formule de réflexion
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L(x)+L(1-x)=1.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>L</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>L</mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L(x)+L(1-x)=1.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dab454cb568f87f88c387881435242497834deb3" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:21.195ex; height:2.843ex;" alt="{\displaystyle L(x)+L(1-x)=1.}"></span></dd></dl>
+<p>La <a href="/wiki/S%C3%A9rie_L_de_Dirichlet" title="Série L de Dirichlet">série L de Dirichlet</a> associée à la <a href="/wiki/Fonction_tau_de_Ramanujan" title="Fonction tau de Ramanujan">fonction tau de Ramanujan</a> <span class="texhtml"><i>f</i>(<i>s</i>)</span> vérifie la formule de réflexion<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {f(s)\Gamma (s)}{(2\pi )^{s}}}={\frac {f(12-s)\Gamma (12-s)}{(2\pi )^{12-s}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>f</mi>
+              <mo stretchy="false">(</mo>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>f</mi>
+              <mo stretchy="false">(</mo>
+              <mn>12</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mn>12</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>12</mn>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {f(s)\Gamma (s)}{(2\pi )^{s}}}={\frac {f(12-s)\Gamma (12-s)}{(2\pi )^{12-s}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/94b4d3a6fcd08c17594c5bff1bf0f5e87b2f59ba" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:32.81ex; height:6.509ex;" alt="{\displaystyle {\frac {f(s)\Gamma (s)}{(2\pi )^{s}}}={\frac {f(12-s)\Gamma (12-s)}{(2\pi )^{12-s}}}.}"></span></dd></dl>
+<h2><span class="mw-headline" id="Relation_de_duplication">Relation de duplication</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=5" title="Modifier la section : Relation de duplication" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=5" title="Modifier le code source de la section : Relation de duplication"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On parle de formule de duplication quand l'équation fonctionnelle fait intervenir les valeurs en <span class="texhtml"><i>f</i>(2<i>x</i>)</span> ou <span class="texhtml"><i>f</i>(<i>x</i><sup>2</sup>)</span>
+</p>
+<h3><span class="mw-headline" id="Exemples_3">Exemples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=6" title="Modifier la section : Exemples" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=6" title="Modifier le code source de la section : Exemples"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>De ses liens avec la <a href="/wiki/Fonction_b%C3%AAta" title="Fonction bêta">fonction bêta</a>, on peut montrer que la <a href="/wiki/Fonction_gamma" title="Fonction gamma">fonction gamma</a> vérifie la «&#160;formule de duplication de Legendre&#160;»&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {\Gamma (z)^{2}}{\Gamma (2z)}}=2^{1-2z}{\frac {\Gamma ({\frac {1}{2}})\Gamma (z)}{\Gamma (z+{\frac {1}{2}})}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mi>z</mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>z</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>2</mn>
+            <mi>z</mi>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mn>1</mn>
+                  <mn>2</mn>
+                </mfrac>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mi>z</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x0393;<!-- Γ --></mi>
+              <mo stretchy="false">(</mo>
+              <mi>z</mi>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mn>1</mn>
+                  <mn>2</mn>
+                </mfrac>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {\Gamma (z)^{2}}{\Gamma (2z)}}=2^{1-2z}{\frac {\Gamma ({\frac {1}{2}})\Gamma (z)}{\Gamma (z+{\frac {1}{2}})}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ff16e1bfc2dad576db9a7b5c9b2fc7ae1f0b1f4" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -3.338ex; width:25.287ex; height:7.843ex;" alt="{\displaystyle {\frac {\Gamma (z)^{2}}{\Gamma (2z)}}=2^{1-2z}{\frac {\Gamma ({\frac {1}{2}})\Gamma (z)}{\Gamma (z+{\frac {1}{2}})}}.}"></span></dd></dl>
+<p>Le <a href="/wiki/Dilogarithme" title="Dilogarithme">dilogarithme</a> satisfait à<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {Li} _{2}(z^{2})=2(\mathrm {Li} _{2}(z)+\mathrm {Li} _{2}(-z)).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>2</mn>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">L</mi>
+            <mi mathvariant="normal">i</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {Li} _{2}(z^{2})=2(\mathrm {Li} _{2}(z)+\mathrm {Li} _{2}(-z)).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d32665ad30869e5cd06dc1d512e4b779e9dd8669" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:30.576ex; height:3.176ex;" alt="{\displaystyle \mathrm {Li} _{2}(z^{2})=2(\mathrm {Li} _{2}(z)+\mathrm {Li} _{2}(-z)).}"></span></dd></dl>
+<p>La <a href="/w/index.php?title=Fonction_L_de_Rogers&amp;action=edit&amp;redlink=1" class="new" title="Fonction L de Rogers (page inexistante)">fonction L de Rogers</a> vérifie la formule de duplication<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {1}{2}}L(x^{2})=L(x)-L\left({\frac {x}{1+x}}\right).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mi>L</mi>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>L</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>L</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>x</mi>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>x</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{2}}L(x^{2})=L(x)-L\left({\frac {x}{1+x}}\right).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0964917ddea436c75b2d200492631939144fc6c2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.505ex; width:31.029ex; height:6.176ex;" alt="{\displaystyle {\frac {1}{2}}L(x^{2})=L(x)-L\left({\frac {x}{1+x}}\right).}"></span></dd></dl>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=7" title="Modifier la section : Applications" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=7" title="Modifier le code source de la section : Applications"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="bandeau-container metadata bandeau-section bandeau-niveau-modere"><div class="bandeau-cell bandeau-icone" style="display:table-cell;padding-right:0.5em"><figure class="mw-halign-center noviewer" typeof="mw:File"><a href="/wiki/Fichier:2017-fr.wp-orange-source.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/25px-2017-fr.wp-orange-source.svg.png" decoding="async" width="25" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/38px-2017-fr.wp-orange-source.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/50px-2017-fr.wp-orange-source.svg.png 2x" data-file-width="512" data-file-height="512" /></a><figcaption></figcaption></figure></div><div class="bandeau-cell" style="display:table-cell;padding-right:0.5em">
+<div class="mw-collapsible mw-collapsed"><b>Cette section <a href="/wiki/Wikip%C3%A9dia:Citez_vos_sources" title="Wikipédia:Citez vos sources">ne cite pas suffisamment ses sources</a></b><small>&#160;(novembre 2022)</small>.&#160;<div class="mw-collapsible-content">Pour l'améliorer, ajoutez <a href="/wiki/Aide:Identifier_des_sources_fiables" title="Aide:Identifier des sources fiables">des références de qualité et vérifiables</a> (<a href="/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_(%C3%89diteur_visuel)" title="Aide:Insérer une référence (Éditeur visuel)">comment faire&#160;?</a>) ou le modèle <a href="/wiki/Mod%C3%A8le:R%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Modèle:Référence nécessaire">{{Référence nécessaire}}</a> sur les passages nécessitant une source.</div></div>
+</div></div>
+<dl><dt>Etude de fonctions</dt></dl>
+<p>Les équations fonctionnelles peuvent faire apparaitre des propriétés remarquables des solutions (symétrie, domaine de définition, ...) et simplifient l'expression de certaines valeurs.
+</p>
+<dl><dt>Calcul de valeurs particulières</dt></dl>
+<p>Les formules de réflexion permettent le calcul de valeurs particulières de fonctions spéciales. Par exemple, en sachant que la fonction gamma est positive sur <span class="texhtml">]1,+∞[</span>, la formule des compléments prise en <span class="texhtml"><i>z</i> = <span class="frac nowrap"><sup style="font-size: 70%; vertical-align: 0.4em;">1</sup>&#8260;<sub style="font-size: 70%; vertical-align: 0em;">2</sub></span></span> permet d'établir que <span class="texhtml">Γ(<span class="frac nowrap"><sup style="font-size: 70%; vertical-align: 0.4em;">1</sup>&#8260;<sub style="font-size: 70%; vertical-align: 0em;">2</sub></span>) = <span class="racine texhtml">&#8730;<span style="border-top:1px solid; padding:0 0.1em;"><span class="texhtml">&#960;</span></span></span></span>.
+</p>
+<dl><dt>Prolongement analytique</dt></dl>
+<p>Par les formules de réflexion, on peut définir un prolongement analytique de la fonction. Par exemple, la définition de base de la fonction zêta de Riemann n'est valable que pour tout <a href="/wiki/Nombre_complexe" title="Nombre complexe">nombre complexe</a> de partie réelle strictement supérieure à 1, or la formule de réflexion donnée permet de l'étendre sur tout le plan complexe, sauf 0 et 1.
+</p>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=8" title="Modifier la section : Notes et références" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=8" title="Modifier le code source de la section : Notes et références"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé <span class="plainlinks">«&#160;<a class="external text" href="https://en.wikipedia.org/wiki/Functional_equation?oldid=11767627">Functional equation</a>&#160;» <small>(<a class="external text" href="https://en.wikipedia.org/wiki/Functional_equation?action=history">voir la liste des auteurs</a>)</small></span>.</li></ul>
+<div class="references-small decimal" style=""><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink noprint"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Havil2003"><span class="ouvrage" id="J._Havil2003"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> J. Havil, <cite class="italique" lang="en">Gamma: Exploring Euler's Constant</cite>, Princeton, NJ, Princeton University Press, <time>2003</time><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gamma%3A+Exploring+Euler%27s+Constant&amp;rft.place=Princeton%2C+NJ&amp;rft.pub=Princeton+University+Press&amp;rft.aulast=Havil&amp;rft.aufirst=J.&amp;rft.date=2003&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink noprint"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Charles_TitchmarshRodney_Heath-Brown1986"><span class="ouvrage" id="Edward_Charles_TitchmarshDavid_Rodney_Heath-Brown1986"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Edward Charles Titchmarsh et David Rodney Heath-Brown, <cite class="italique" lang="en">The theory of the Riemann zeta-function</cite>, Oxford university press, <time>1986</time><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+theory+of+the+Riemann+zeta-function&amp;rft.pub=Oxford+university+press&amp;rft.au=Edward+Charles+Titchmarsh&amp;rft.au=David+Rodney+Heath-Brown&amp;rft.date=1986&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink noprint"><a href="#cite_ref-3">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Hardy1999"><span class="ouvrage" id="Godfrey_Hardy1999"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Godfrey Hardy, <cite class="italique" lang="en">Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work</cite>, Chelsea, 3, <time>1999</time><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ramanujan%3A+Twelve+Lectures+on+Subjects+Suggested+by+His+Life+and+Work&amp;rft.place=Chelsea&amp;rft.pub=3&amp;rft.aulast=Hardy&amp;rft.aufirst=Godfrey&amp;rft.date=1999&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink noprint"><a href="#cite_ref-4">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Zagier2007"><span class="ouvrage" id="Don_Zagier2007"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a href="/wiki/Don_Zagier" title="Don Zagier">Don Zagier</a>, <cite style="font-style:normal" lang="en">«&#160;The Dilogarithm Function&#160;»</cite>, dans <a href="/wiki/Pierre_Cartier" title="Pierre Cartier">Pierre Cartier</a>, <a href="/wiki/Pierre_Moussa" class="mw-disambig" title="Pierre Moussa">Pierre Moussa</a>, <a href="/wiki/Bernard_Julia" title="Bernard Julia">Bernard Julia</a> et <a href="/wiki/Pierre_Vanhove" title="Pierre Vanhove">Pierre Vanhove</a> (éds.), <cite class="italique" lang="en">Frontiers in Number Theory, Physics, and Geometry</cite>, <abbr class="abbr" title="volume">vol.</abbr>&#160;II, <time>2007</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-3-540-30308-4" title="Spécial:Ouvrages de référence/978-3-540-30308-4"><span class="nowrap">978-3-540-30308-4</span></a>, <a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="https://dx.doi.org/10.1007/978-3-540-30308-4_1">10.1007/978-3-540-30308-4_1</a></span>, <a rel="nofollow" class="external text" href="https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/978-3-540-30308-4_1/fulltext.pdf">lire en ligne</a>)</small>, <abbr class="abbr" title="pages">p.</abbr>&#160;3-65<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Frontiers+in+Number+Theory%2C+Physics%2C+and+Geometry&amp;rft.atitle=The+Dilogarithm+Function&amp;rft.aulast=Zagier&amp;rft.aufirst=Don&amp;rft.date=2007&amp;rft.volume=II&amp;rft.pages=3-65&amp;rft.isbn=978-3-540-30308-4&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-540-30308-4_1&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink noprint"><a href="#cite_ref-5">↑</a> </span><span class="reference-text"><span class="ouvrage" id="GordonMcintosh1997"><span class="ouvrage" id="Basil_GordonRobert_J._Mcintosh1997"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Basil Gordon et Robert J. Mcintosh, «&#160;<cite style="font-style:normal" lang="en">Algebraic Dilogarithm Identities</cite>&#160;», <i><span class="lang-en" lang="en">The Ramanujan Journal</span></i>, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;1,&#8206; <time>1997</time>, <abbr class="abbr" title="pages">p.</abbr>&#160;431-448 <small style="line-height:1em;">(<a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="https://dx.doi.org/10.1023/A%3A1009709927327">10.1023/A:1009709927327</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Algebraic+Dilogarithm+Identities&amp;rft.jtitle=The+Ramanujan+Journal&amp;rft.issue=1&amp;rft.aulast=Gordon&amp;rft.aufirst=Basil&amp;rft.au=Robert+J.+Mcintosh&amp;rft.date=1997&amp;rft.pages=431-448&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1009709927327&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span></span>
+</li>
+</ol></div>
+</div>
+<h3><span class="mw-headline" id="Bibliographie">Bibliographie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;veaction=edit&amp;section=9" title="Modifier la section : Bibliographie" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_fonctionnelle&amp;action=edit&amp;section=9" title="Modifier le code source de la section : Bibliographie"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ouvrage" id="Weisstein"><span class="ouvrage" id="Eric_W._Weisstein"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Eric W. Weisstein</a>, «&#160;<a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/ReflectionRelation.html"><cite style="font-style:normal;" lang="en"><span class="lang-en" lang="en">Reflection Relation</span></cite></a>&#160;», sur <span class="italique"><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></span></span></span></li>
+<li><span class="ouvrage" id="Weisstein"><span class="ouvrage" id="Eric_W._Weisstein"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Eric W. Weisstein</a>, «&#160;<a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/AbelsDuplicationFormula.html"><cite style="font-style:normal;" lang="en"><span class="lang-en" lang="en">Abel's Duplication Formula</span></cite></a>&#160;», sur <span class="italique"><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></span></span></span></li>
+<li><span class="ouvrage" id="Weisstein"><span class="ouvrage" id="Eric_W._Weisstein"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Eric W. Weisstein</a>, «&#160;<a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/LegendreDuplicationFormula.html"><cite style="font-style:normal;" lang="en"><span class="lang-en" lang="en">Legendre Duplication Formula</span></cite></a>&#160;», sur <span class="italique"><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></span></span></span></li>
+<li><span class="ouvrage" id="Aczél1966"><span class="ouvrage" id=":János_Aczél1966"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a href="/w/index.php?title=J%C3%A1nos_Acz%C3%A9l&amp;action=edit&amp;redlink=1" class="new" title="János Aczél (page inexistante)">János Aczél</a>&#160;<a href="https://en.wikipedia.org/wiki/J%C3%A1nos_Acz%C3%A9l_(mathematician)" class="extiw" title="en:János Aczél (mathematician)"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;János Aczél (mathematician)&#160;»">(en)</span></a>, <cite class="italique" lang="en">Lectures on Functional Equations and Their Applications</cite>, <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>, <time>1966</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="//books.google.com/books?id=n7vckU_1tY4C">lire en ligne</a>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lectures+on+Functional+Equations+and+Their+Applications&amp;rft.pub=Academic+Press&amp;rft.aulast=Acz%C3%A9l&amp;rft.aufirst=%3AJ%C3%A1nos&amp;rft.date=1966&amp;rft_id=%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dn7vckU_1tY4C&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span></li>
+<li><span class="ouvrage" id="Dhombres1995"><span class="ouvrage" id="Jean_Dhombres1995"><a href="/wiki/Jean_Dhombres" title="Jean Dhombres">Jean Dhombres</a>, <cite style="font-style:normal">«&#160;Une conception architecturale des mathématiques&#160;: la <a href="/wiki/S%C3%A9paration_des_variables" title="Séparation des variables">séparation des variables</a> chez <a href="/wiki/Johann_Friedrich_Pfaff" title="Johann Friedrich Pfaff">Pfaff</a>&#160;»</cite>, dans Patricia Radelet-de Grave et Edoardo Benvenuto, <cite class="italique">Entre mécanique et architecture</cite>, <a href="/wiki/Birkh%C3%A4user" class="mw-redirect" title="Birkhäuser">Birkhäuser</a>, <time>1995</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-3-76435128-1" title="Spécial:Ouvrages de référence/978-3-76435128-1"><span class="nowrap">978-3-76435128-1</span></a>, <a rel="nofollow" class="external text" href="//books.google.com/books?id=cXz2Prhg7jMC&amp;pg=PA179">lire en ligne</a>)</small>, <abbr class="abbr" title="pages">p.</abbr>&#160;205-220<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Entre+m%C3%A9canique+et+architecture&amp;rft.atitle=Une+conception+architecturale+des+math%C3%A9matiques+%3A+la+s%C3%A9paration+des+variables+chez+Pfaff&amp;rft.pub=Birkh%C3%A4user&amp;rft.aulast=Dhombres&amp;rft.aufirst=Jean&amp;rft.date=1995&amp;rft.pages=205-220&amp;rft.isbn=978-3-76435128-1&amp;rft_id=%2F%2Fbooks.google.com%2Fbooks%3Fid%3DcXz2Prhg7jMC%26pg%3DPA179&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3A%C3%89quation+fonctionnelle"></span></span></span></li></ul>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer" typeof="mw:File"><a href="/wiki/Portail:Analyse" title="Portail de l&#39;analyse"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/24px-Nuvola_apps_kmplot.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/36px-Nuvola_apps_kmplot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/48px-Nuvola_apps_kmplot.svg.png 2x" data-file-width="400" data-file-height="400" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Analyse" title="Portail:Analyse">Portail de l'analyse</a></span> </span></li>                    </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1367
+Cached time: 20231205211558
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.244 seconds
+Real time usage: 0.375 seconds
+Preprocessor visited node count: 1517/1000000
+Post‐expand include size: 34942/2097152 bytes
+Template argument size: 2713/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7616/5000000 bytes
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 6810706/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.713      1 -total
+ 24.45%   64.240      1 Modèle:Ébauche
+ 23.65%   62.123      1 Modèle:Références
+ 16.98%   44.613      4 Modèle:Ouvrage
+ 12.01%   31.563      1 Modèle:Portail
+ 11.08%   29.116      1 Modèle:Traduction/Référence
+  8.12%   21.330      1 Modèle:Indication_de_langue
+  7.35%   19.305      3 Modèle:Mathworld
+  6.37%   16.737      1 Modèle:Suivi_des_biographies
+  5.82%   15.278      3 Modèle:Lien_web
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:37047-0!canonical and timestamp 20231205211558 and revision id 209083095. Rendering was triggered because: page-view
+ -->
+</div>

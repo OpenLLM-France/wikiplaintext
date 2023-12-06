@@ -1,0 +1,172 @@
+La règle à calcul (ou règle à calculer) est un instrument mécanique qui permet le calcul analogique et sert à effectuer facilement des opérations arithmétiques de multiplication et de division par simple déplacement longitudinal d’un coulisseau gradué. Elle utilise pour cela la propriété des fonctions logarithmes qui transforment un produit en somme et une division en différence. Elle permet également la réalisation d'opérations plus complexes, telles que la détermination de racines carrées ou cubiques et tous les calculs trigonométriques courants.
+Du XVIIe siècle jusqu'à l'apparition des premières calculatrices électroniques portables dans le dernier quart du XXe siècle, les règles à calcul sont largement utilisées par les étudiants, les scientifiques et les ingénieurs pour les calculs approchés.
+Simples de conception et de fabrication, bon marché, elles sont faciles d'utilisation et apportent une précision suffisante aux calculs triviaux (typiquement 3 chiffres significatifs) pourvu qu'on leur consacre le soin et la rigueur d'utilisation nécessaires.
+Aujourd'hui, devenues obsolètes, seules des règles à calcul circulaires restent parfois utilisées pour la navigation aérienne, ainsi que celles présentes sur les cadrans à lunette tournante de certaines montres.
+
+Composants :
+
+* Une règle à calcul se compose en général de deux réglettes fixes solidaires graduées, dans lesquelles s’imbrique une réglette mobile, également graduée, ainsi que d’un curseur se déplaçant longitudinalement (celui-ci étant parfois équipé d'une loupe). Les plus beaux modèles sont totalement double face, étant constitués de deux règles reliées par des ponts, encadrant une réglette mobile, ce qui permet l'utilisation d'un plus grand nombre d'échelles.
+
+* La réglette centrale peut coulisser par rapport aux deux autres, et permet de décaler des graduations. Elle est souvent graduée des deux côtés :
+
+X2y • X3 • 1/X • Xy
+Les fonctions trigonométriques.
+* X2y • X3 • 1/X • Xy
+* Les fonctions trigonométriques.
+* Le curseur central facilite la lecture et l’interpolation entre les graduations ; il sert surtout à mémoriser une valeur, lors de calculs enchaînés (règle de trois par exemple).
+* Il existe aussi des versions circulaires (cercle à calcul) ou hélicoïdales (hélice à calcul).
+
+Principe :
+
+Détermination des différentes échelles :
+La composition des règles à calcul est variable. Il convient donc à l'utilisateur de repérer les échelles.
+* On trouve souvent quatre échelles étiquetées A, B, C et D.
+A et B sont les échelles des carrés (identifiables par une graduation logarithmique de 1 à 100), C et D étant les échelles des unités (graduation logarithmique de 1 à 10). L'échelle B est parfois absente (anciennes règles), dans ce cas, on peut juste trouver les carrés et racines carrées, mais pas calculer dans les carrés. Pour reconnaître avec certitude une échelle des carrés, celle-ci est graduée de 1 à 100 (il s'agit de deux échelles des unités mises bout-à-bout).
+* On trouve aussi presque toujours une échelle des cubes (graduée de 1 à 1000) : trois échelles logarithmiques identiques bout-à-bout.
+* On trouve généralement une échelle de logs (décimaux), graduée de 0 à 10 et qui n'est pas logarithmique, mais tout à fait régulière.
+* Un grand classique est l'échelle des inverses : elle est identique aux échelles C et D des unités, mais de droite à gauche. Souvent notée CI et graduée en rouge.
+La graduation va de 1 à 0,1 ou de 10 à 1.
+* Encore presque toujours, les fonctions trigonométriques : S pour les sinus (gradués de 6 à 90), T pour les tangentes (graduées de 6 à 45).
+* Sur les règles modernes, les échelles Log-Log, notées LL.
+* Sur les règles spécialisées (électricité, etc.), des échelles dédiées à des calculs spécifiques. On les identifiera grâce à la documentation, aux inscriptions situées dans les marges et à une bonne connaissance du domaine en question.
+
+Pour son utilisation la plus courante (la multiplication et la division), la règle à calcul utilise des échelles logarithmiques et le principe selon lequel la somme des logarithmes de deux nombres est égale au logarithme du produit des deux nombres :
+
+Cela se traduit par le fait que, pour multiplier deux valeurs, il suffit d’additionner leurs longueurs représentées sur la règle, et de les retrancher pour faire une division.
+Pour multiplier 2 par 3, on positionne donc le 1 de la règle mobile en regard du 2 de la règle fixe, et on lit le résultat 6 sur l'échelle fixe en face du 3 de la règle mobile.
+Cette opération est très facile à effectuer, mais a l’inconvénient de ne pas donner les exposants de 10 (la position de la virgule), qui doivent être trouvés par une autre méthode (généralement un calcul mental approché).
+Un autre inconvénient est que le résultat est souvent hors échelle (exemple : 2 × 6 est impossible sur le premier exemple). Dans ce cas, on procède comme sur le deuxième exemple, en alignant le nombre à multiplier, non pas avec le 1, mais avec le 10 (deuxième exemple).
+Pour limiter cet inconvénient, certaines règles proposent un petit prolongement au bout de chaque échelle, ou bien des échelles décalées notées CF et DF, allant de racine de 10 à racine de 10, avec le 1 au milieu. Dans ce cas, on commence le calcul sur l'échelle classique C-D, et on le finit sur CF-DF.
+Pour la division, la position des règles est la même que pour la multiplication. L'exemple illustré ci-dessus concerne aussi bien la division de 6 par 3 : en retranchant la longueur (log) de 3 à la longueur 6, on obtient la longueur 2.
+
+Calculs enchaînés :
+
+Lorsque l'on vient de faire une division le 1 de l'échelle C est placé en face du résultat, et est idéalement positionné pour faire une multiplication de ce nombre par un autre.
+Une fois ce nouveau nombre trouvé, on le repère grâce au curseur mobile, et on déplace la règle mobile pour placer le nouveau diviseur en face du repère pour obtenir une nouvelle division, et ainsi de suite.
+On constate donc qu'on peut alterner à l'infini des multiplications et des divisions avec un minimum de déplacements des éléments de la règle.
+
+Carrés, cubes et racines :
+
+Les règles à calcul servent aussi à trouver les carrés, les cubes, ainsi que les racines.
+Le maniement est très simple. Généralement, il suffit d'utiliser le curseur et de chercher la correspondance sur l'échelle adaptée.
+Pour trouver le carré d'un nombre, on place le curseur sur ce nombre sur l'échelle des unités, et on cherche son correspondant sur l'échelle des carrés. En procédant à l'inverse, on trouve, sur l'échelle des unités, la racine carrée d'un nombre lu sur l'échelle des carrés. L'exemple ci-contre montre aussi bien que la racine carrée de 2,1 (échelle A) est proche de 1,45 (échelle D), que l'inverse.
+Le principal piège est de ne pas se tromper dans le choix du nombre pour une racine carrée : la racine carrée de 9 est 3, tandis que celle de 90 est d'environ 9,5. En revanche, si l'on cherche la racine de 900, on doit bien trouver 30. En pratique, il faut donc trouver combien de fois on peut retirer deux zéros pour arriver à un nombre entre 1 et 100 pour choisir la position sur l'échelle.
+On procède exactement pareil pour les cubes et racines cubiques, simplement en utilisant l'échelle des cubes au lieu de l'échelle des carrés.
+
+Inverses :
+
+L'échelle CI donne les inverses de l'échelle C (ou D). Par exemple le 5 sur l'échelle C est aligné verticalement avec le 2 sur l'échelle CI, qui s'interprète ici 0,2 (1⁄5 = 0,2), les chiffres de la règle ne renseignant pas sur la position de la virgule.
+Cette échelle semble faire double emploi au premier abord avec les échelles C et D. En effet, pour trouver l'inverse de 5, on peut passer par la division de 10 par 5.
+En fait, cette échelle permet un gain de temps notable pour les calculs à la chaîne. En effet, nous avons vu qu'il est très rapide d'alterner des multiplications et divisions avec un minimum de déplacements. Dans le cas où l'on aurait plusieurs multiplications à enchaîner, il suffit de considérer une multiplication sur deux comme une division par l'inverse.
+
+Trigonométrie :
+
+Les sinus sont de lecture simple : après repérage de l'échelle des sinus (souvent au dos de la règle mobile), on place le curseur sur l'angle désiré, et on trouve le sinus sur l'échelle D (penser à placer la virgule, en pensant qu'il s'agit d'un nombre entre 0 et 1, ce qui pose d'ailleurs un problème, puisque la règle donne des résultats de 0,1 à 1). Par exemple, le sinus de 45 devrait se trouver proche du chiffre 7.
+Les sinus des petits angles (< 6°, soit un sinus < 0,1 — représentant le début de l'échelle D) nécessitent une échelle supplémentaire ST.
+Les cosinus sont les sinus des angles complémentaires. Par exemple, le cosinus de 60° est le sinus de 30°. On se passe donc d'échelle des cosinus moyennant un calcul simple.
+Les tangentes s'utilisent comme les sinus, à ceci près que l'échelle des tangentes s'arrête à 45° (la tangente de 45° est 1, ce qui est la limite de l'échelle D). N'oublions pas que les tangentes tendent vers l'infini lorsque les angles approchent de 90°. Certaines règles proposent une échelle T2 pour les grands angles
+Enfin, les cotangentes sont de même valeur que les tangentes des angles complémentaires à 90°.
+
+Logarithmes :
+
+Les règles à calcul comportent le plus souvent une échelle de logarithmes en base 10, sur la face avant ou arrière de la règle selon les cas.
+Après identification de l'échelle (une échelle de 0 à 1 sur laquelle les chiffres sont régulièrement espacés et étiquetée L), on repère la correspondance entre l'échelle de base (notée D en général) avec l'échelle des logs.
+Pour mémoire, le log (ou logarithme décimal) d'un nombre a est le nombre qu'il faut mettre en exposant à 10 pour obtenir a.
+Par exemple, 100,3 vaut environ 2. Le 2 de l'échelle D doit donc correspondre au 0,3 (ou .3) de l'échelle des logs.
+
+Exponentielles ou échelle log-log :
+
+Certaines règles à calcul (Graphoplex par exemple) fournissent en outre des échelles permettant de connaître :
+* e
+x
+{\displaystyle e^{x}}
+ : LL3 ;
+* e
+0
+1
+x
+{\displaystyle e^{0,1x}}
+ : LL2 ;
+* e
+0
+01
+x
+{\displaystyle e^{0,01x}}
+ : LL1.
+Cette triple échelle permet de manipuler des nombres variants de 1,01 à 5×104. Elle permet de calculer rapidement des racines et des puissances de nombres.
+Exemples: Soit à calculer 1,25 et 5√1,2
+* On place le curseur sur le 1,2 figurant dans la ligne LL2. On aligne le « 1 » de la réglette avec le curseur, on déplace le curseur sur le « 5 » de la réglette et on lit le résultat sur la ligne LL2. 1,25≈2,49.
+Le curseur permet de lire 10.ln(1,2), on l'a multiplié par 5, puis on a lu exp[0,1.(5×10.ln(1,2))].
+* On place le curseur sur le 1,2 figurant dans la ligne LL2. On aligne le « 5 » de la réglette avec le curseur, on ne peut pas déplacer le curseur sur le « 1 » de la réglette, on le déplace sur le 10 de la réglette et on change d'échelle, et on lit le résultat sur la ligne LL1. 5√1,2≈1,0371.
+Le curseur permet de lire 10.ln(1,2), on l'a divisé par 5, puis multiplié par 10 puis on a lu exp[0,01.(1⁄5×10×10.ln(1,2))].
+
+Il existe des règles à calcul (Aristo super log, par exemple) qui proposent des échelles supplémentaires :
+
+* e
+0
+001
+x
+{\displaystyle e^{0,001x}}
+ : LL0
+* e
+0
+001
+x
+{\displaystyle e^{-0,001x}}
+ : LL00
+* e
+0
+01
+x
+{\displaystyle e^{-0,01x}}
+ : LL01
+* e
+0
+1
+x
+{\displaystyle e^{-0,1x}}
+ : LL02
+* e
+x
+{\displaystyle e^{-x}}
+ : LL03
+
+Lecture :
+
+La lecture des échelles est un peu déroutante pour les débutants.
+En effet, le nombre de graduations entre les chiffres n'est généralement pas constant d'un bout à l'autre de l'échelle, car les espaces changent, et on ne peut tasser indéfiniment les graduations au fur et à mesure que les chiffres se resserrent.
+De plus, certaines échelles se lisent de gauche à droite, tandis que les autres se lisent de droite à gauche.
+Comme pour compliquer tout cela, les zéros sont souvent sous-entendus, ce qui fait que, par exemple, sur l'échelle des cubes, parfois les puissances de 10 ne sont pas notées 10-100-1000, mais 1-1-1.
+Enfin, il y a peu d'indications sur l'usage des échelles.
+
+L'utilisateur doit donc utiliser son bon sens pour :
+
+* déterminer le sens de lecture (les inverses se lisent de droite à gauche) ;
+* compter les graduations pour savoir si un trait vaut 0,1 (9 graduations entre deux chiffres), 0,2 (4 graduations) ou 0,5 (1 graduation) ;
+* déterminer l'amplitude de l'échelle (unités de 1 à 10, carrés de 1 à 100, cubes de 1 à 1 000, par exemple), afin de ne pas confondre 2 et 20, par exemple ;
+* déterminer l'usage de chaque échelle (en s'aidant de l'aspect de l'échelle et des inscriptions souvent situées aux extrémités).
+
+Précision et exactitude :
+
+La précision d’une règle dépend de sa longueur mais aussi de la qualité de la gravure.
+Les règles de 30 cm donnent une précision de lecture de l’ordre de 0,2 %, ce qui permet de lire entre deux et trois décimales au voisinage de la valeur 2, deux décimales et même un peu moins lorsqu'on fait une lecture entre 5 et 10 compte tenu de la décroissance des intervalles qu'induit l'échelle logarithmique. L'influence sur le résultat d'une multiplication ou une division reste donc inférieure à 0,3 %.
+La qualité de gravure est primordiale pour la précision : les traits doivent être d'épaisseur identique sur toute la longueur de l'échelle, les plus fins possibles.
+Certaines règles sont fausses, ce qui peut être facile à démontrer, comme dans le cas où les échelles C et D ne sont pas strictement superposables. Avant d'utiliser une règle inconnue pour des calculs importants, il peut être utile de la tester sur quelques calculs dont les résultats sont connus et tombent juste de préférence.
+
+Fabrication :
+
+Anciennement, les règles à calcul sont fabriquées en bois d’ébénisterie : buis, poirier, acajou ou ébène afin d'assurer la régularité du glissement, la stabilité de la forme et la longévité nécessaires à une utilisation répétée. L'os et l’ivoire sont réservés aux versions luxueuses. Au XIXe siècle, le buis recouvert de celluloïd s'impose et le métal apparaît quelquefois. L’époque moderne utilise principalement des matériaux plastiques, ainsi les réglettes sont en acrylique ou en polycarbonate glissant sur des paliers en téflon. Le bambou, pour ses propriétés de stabilité dimensionnelle et de bon glissement est utilisé en Orient. Le marquage est peint, ou mieux gravé, ce qui offre une solution à la fois précise et durable mais plus onéreuse.
+
+Histoire :
+
+L'écossais John Napier invente en 1614 les logarithmes, bases mathématiques de certaines fonctions des règles à calcul.
+Edmund Gunter (1581-1626) enseignait alors l’astronomie au collège de Gresham. On lui doit l’invention de plusieurs instruments géométriques, tels que le secteur à l’aide duquel on trace les lignes parfaites des cadrans solaires. Il invente l’échelle dite « de Gunter » ou règle logarithmique en 1620, qui simplifie les opérations de calcul : sur cette règle, il suffisait d'ajouter ou retirer un écart à l'aide d'un compas pour multiplier ou diviser un nombre par un facteur.
+L'idée de remplacer le compas par une seconde règle coulissante est souvent attribuée à Edmond Wingate, qui dès 1627, popularise la règle de proportion de Gunter. Mais selon Florian Cajori, il n'y a en fait aucune description de règle coulissante dans les écrits de Wingate. L’Anglais William Oughtred présente en 1632, dans son The Circles of Proportion and the Horizontal Instrument, une règle à calcul circulaire, en transposant l'idée sous la forme de deux échelles logarithmiques dessinées sur deux cercles concentriques. Dans la dédicace de l'ouvrage, écrite par son élève Forster, il est fait mention de deux règles de Gunter appliquées l'une contre l'autre pour se passer du compas.
+M. Milburne, vers 1670, trace les premières spirales logarithmiques. Une version moderne et aboutie est réalisée et commercialisée en France par Léon Appoullot vers 1930.
+En 1654, Robert Bissaker fait prendre à l’instrument sa forme classique (baguette coulissante dans une forme fixe).
+Certains attribuent le montage des deux règles à Seth Partridge. Une description de la version Partridge est donnée dans The description and use of an instrument called the double scale of proportion, ouvrage de Partridge, Londres, 1671, existant à la Bibliothèque Nationale.
+Amédée Mannheim, officier puis professeur à l'École polytechnique lui adjoint (1850) un pointeur mobile (curseur) permettant une lecture plus aisée et de « stocker » un résultat intermédiaire. La règle de type Mannheim est la première règle moderne.
+L’enroulement de deux longues échelles logarithmiques sur un cylindre permet d’obtenir une précision de calcul théoriquement supérieure — Otis King en Angleterre, A. Lafay en France, tous deux vers 1921, puis Fuller. L'aspect confus et peu lisible de ces hélices logarithmiques a été cause de leur insuccès.
+Les échelles Log-Log sont déjà connues dans l'entre-deux-guerres avec la règle « Electro » et ses échelles LL2 et LL3 dès les années 1920 et la règle « Darmstadt » et ses échelles LL1, LL2 et LL3 en 1935. Vers 1950, André Séjourné, professeur en classe préparatoire aux Arts et Métiers au lycée Voltaire à Paris et conseil auprès de la société Graphoplex pour la création de ses premières règles, diffuse l'« Electro Log Log » (Graphoplex 640), qui ne fut utilisée pratiquement qu'en France.
+L'usage de la règle à calcul se généralise en France à partir de la fin de la Seconde Guerre mondiale, les marques françaises les plus répandues étaient Tavernier-Gravet, Graphoplex et parmi les règles importées, les Nestler, Aristo et Faber-Castell allemandes, les Sun Hemmi japonaises en bambou et les Pickett américaines en aluminium. Son règne se poursuit jusqu’au milieu des années 1980 malgré l’apparition des premières calculatrices, la règle étant le seul instrument autorisé lors des examens et concours (apparition des calculatrices à mémoire). La circulaire no 86-228 du 28 juillet 1986, autorisant et recommandant l’emploi des calculettes pendant les épreuves des examens, la relègue finalement au fond des tiroirs. Elle est cependant toujours autorisée en 2016 au Concours commun Mines-Ponts et au concours de l'École polytechnique.
+Les règles à calcul subsistent encore dans certains métiers, comme la navigation aérienne. Certains appareils de mesures analogiques spécialisés (par exemple les posemètres) sont également équipés d’un cercle à calcul intégré pour faciliter l’utilisation des mesures.

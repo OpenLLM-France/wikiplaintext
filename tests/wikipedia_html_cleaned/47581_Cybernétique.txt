@@ -1,0 +1,155 @@
+La cybernétique est l'étude des mécanismes d'information des systèmes complexes, explorés en vue d'être standardisés lors des conférences Macy et décrits en 1947 par le mathématicien Norbert Wiener dans ce but. Des scientifiques d'horizons très divers et parmi les plus brillants de l'époque participèrent à ce projet interdisciplinaire de 1942 à 1953 : mathématiciens, logiciens, ingénieurs, physiologistes, anthropologues, psychologues, etc. Les contours parfois flous de cet ensemble de recherches s'articulent toutefois autour du concept clé de rétroaction (en anglais feedback) ou mécanisme téléologique. Leur but était de donner une vision unifiée des domaines naissants de l'automatique, de l'électronique et de la théorie mathématique de l'information, en tant que « théorie entière de la commande et de la communication, aussi bien chez l'animal que dans la machine ».
+La formalisation du résultat de leurs échanges a été confiée à Norbert Wiener, mathématicien aux compétences multiples, ce qu'il fait dans l'ouvrage Cybernetics or Control and Communication in the Animal and the Machine. Publié en 1948, il est considéré comme l'ouvrage fondateur de la cybernétique et assure à celle-ci une large diffusion publique. Malgré le succès populaire du terme, son usage déclina rapidement dans le contexte scientifique après la dispersion des participants aux conférences Macy et la mort de Norbert Wiener en 1964. L'ambition développée par la cybernétique a pourtant constitué un creuset important pour l'élaboration des sciences cognitives, de l'intelligence artificielle, des thérapies systémiques de l'école de Palo Alto, ou encore des théories biologiques de l'auto-organisation.
+Les évolutions récentes de la robotique et de la cybersécurité contribuent à revaloriser les recherches de la cybernétique.
+
+Histoire du mouvement :
+
+Le terme cybernétique fut popularisé en 1948 par le mathématicien Norbert Wiener dans son ouvrage fondateur de la discipline Cybernetics, or Control and Communication in the Animal and the Machine ; ce domaine sera désigné ultérieurement comme « la science des analogies maîtrisées entre organismes et machines ».
+
+Bases :
+
+Étymologie :
+Platon utilisait le terme « κυβερνητική » (grec kubernêtikê, de kubernân, gouverner) pour désigner le pilotage d'un navire. Les termes « gouverne », « gouvernail », « gouvernement » ou encore « gouverneur » partagent cette étymologie commune avec le terme « cybernétique ».
+Le terme cybernétique apparaît en 1834 dans la classification des sciences proposée par André-Marie Ampère (physicien et fondateur de l'électrodynamique, 1775-1836) et désigne « la science du gouvernement des hommes ».
+Il s'agit ici d'une utilisation politique de la même base étymologique, dont Norbert Wiener déclarera ne pas avoir eu connaissance lorsqu'il a utilisé le terme cybernétique pour la première fois en 1947. Wiener déclare avoir fait dériver le mot cybernétique « du mot grec kubernetes, ou pilote, le même mot grec dont nous faisons en fin de compte notre mot gouverneur ».
+
+Principes :
+
+Les principes logiques auxquels la cybernétique fait appel sont souvent des résurgences de principes plus anciens, parfois déjà décrits depuis l'Antiquité.
+Des dispositifs précurseurs emblématiques peuvent être convoqués, comme le régulateur à boules de James Watt (1788), qui a été l'un des premiers mécanismes de rétroaction utilisés dans le domaine industriel, ou le servomoteur pour les machines à vapeur, créé par Joseph Farcot (1824-1908) en 1859, qui a été d'abord appliqué au gouvernail des navires : l'action de la vapeur agissait sur le piston commandant le gouvernail à partir d'une information prélevée sur la position de celui-ci.
+
+Alfred Wallace, parlant de la sélection naturelle, décrit celle-ci en la comparant au contrôle automatique d'un moteur à vapeur :
+
+« L'action de ce principe est exactement comme celle du gouvernail centrifuge d'un moteur à vapeur, qui contrôle et corrige toute irrégularité presque avant qu'elle ne devienne perceptible ; et d'une façon semblable aucun défaut d'équilibre dans le règne animal ne peut jamais atteindre un degré significatif, car cela le rendrait sensible dès le premier pas, rendant l'existence difficile et l'extinction quasiment sûre de s'ensuivre. »
+— Alfred Wallace, On the Tendency of Varieties to Depart Indefinitely From the Original Type
+La sélection naturelle est ainsi justement décrite comme une autorégulation qui maintient la stabilité de l'écosystème et prévient toute évolution. Bateson dirait ensuite que « Wallace dit là probablement la chose la plus puissante qui fut dite au XIXe siècle ».
+
+Les théories :
+
+La thermodynamique, souvent citée en référence par Wiener, est probablement la science préexistante qui s'apparente le plus à la cybernétique. On citera en particulier Rudolf Clausius qui développe le concept d'entropie de 1850 à 1865. En 1894, Ludwig Boltzmann fait le lien entre l'entropie et l'information en remarquant que l'entropie est liée à de l'information à laquelle on n'a pas accès.
+La pensée atomiste, fille du structuralisme, va aussi faire son chemin dans le domaine des sciences et contribuer aux progrès de schématisation (réduction) de la diversité du monde à la combinatoire d'éléments simples, plus faciles à appréhender par les systèmes informatiques. On peut citer parmi les travaux importants les théorèmes d'incomplétude de Kurt Gödel (1931) et les travaux sur la Machine de Turing d'Alan Turing (1936).
+La physiologie lui a également apporté de nombreux éléments. Par exemple, le principe d'homéostasie, mis en évidence par Claude Bernard puis étudié de façon approfondie par Walter Cannon en 1932, est une base directe des réflexions préliminaires à la cybernétique : en effet, Henry Pickering Bowditch (en), qui travailla avec Claude Bernard, dirigea ensuite le laboratoire de physiologie d'Harvard et eut comme élève Cannon, lequel cite Bernard dans son ouvrage The Wisdom of the Body (1932), essai qui fut séminal pour Norbert Wiener, le « pape » de la cybernétique.
+La cybernétique est aussi une suite de la phénoménologie, en tant qu'elle ausculte les phénomènes pour en saisir l'autonomie et la particularité, notamment par la forme pour ensuite passer à un autre type d'analyse : modélisation, mécanique…
+Dès 1938, la thèse de Louis Couffignal L'analyse mécanique, application aux machines à calculer et à la mécanique céleste, et plus tard son étude des systèmes nerveux avec Louis Lapicque, dénotent un développement en parallèle des principes de la future cybernétique.
+
+Premier mouvement cybernétique :
+
+Rencontres scientifiques :
+La première cybernétique s'établit dans le cadre des conférences Macy qui réunissent entre 1942 et 1953 un groupe interdisciplinaire de mathématiciens, logiciens, anthropologues, psychologues et économistes qui s'étaient donné pour objectif d'édifier une science générale du fonctionnement de l'esprit. Parmi les participants les plus illustres, on trouve le neurophysiologiste Arturo Rosenblueth, les mathématiciens John von Neumann et Norbert Wiener, l'ingénieur Julian Bigelow, le neurophysiologiste Warren McCulloch, le logicien Walter Pitts, le psychanalyste Lawrence Kubie et les anthropologues Gregory Bateson et Margaret Mead. Ce qui rapproche les différents participants est leur intérêt commun pour les mécanismes de causalité circulaire (notamment le concept de feedback) qu'ils étudient dans leurs disciplines respectives.
+À la suite de la première conférence de 1942 sont publiés en 1943 les deux articles fondateurs de la cybernétique : « Behavior, Purpose and Teleology », dans lequel Arturo Rosenblueth, Norbert Wiener et Julian Bigelow étudient les modèles d'organisation sous-jacents aux comportements finalisés, et « A Logical Calculus of Ideas Immanent in Nervous Activity », dans lequel Warren McCulloch et Walter Pitts étudient les modèles d'organisation sous-jacents à la perception.
+En 1947, Wiener est invité à un congrès d'analyse harmonique à Nancy, organisé par Szolem Mandelbrojt, l'oncle du célèbre mathématicien Benoît Mandelbrot. Lors de ce congrès, auquel participe notamment Louis Couffignal, on lui propose d'écrire une caractérisation unifiée du mouvement brownien (processus stochastique, aussi appelé « processus de Wiener »). Il décide à son retour d'introduire le néologisme cybernétique dans sa théorisation scientifique. En 1948, Wiener définit la cybernétique comme une science qui étudie exclusivement les communications et leurs régulations dans les systèmes naturels et artificiels.
+À partir de 1949, un autre groupe interdisciplinaire, le Ratio Club, commence une série de rencontres informelles pour discuter de sujets ayant trait à la cybernétique. On compte parmi eux W. Ross Ashby, William Grey Walter, Alan Turing et Georges R. Boulanger, mathématicien qui fut président de l'Association internationale de cybernétique.
+À partir de 1950, le mot « cybernétique » est inclus dans le titre des conférences Macy. La même année, Wiener popularise les implications sociales de la cybernétique, en figurant l'analogie entre les systèmes automatiques et les institutions humaines dans son best-seller Cybernétique et société, sous-titré De l'usage humain des êtres humains.
+Dès le milieu des années 1950, en France, le terme « cybernétique » est rejeté par les ingénieurs et les chercheurs qui s'occupent d'ordinateurs et de programmation. La « cybernétique » a en effet attiré trop de spéculations hasardeuses et de journalistes en quête de reportages à sensation. Norbert Wiener lui-même est déjà passé à d'autres sujets plus spécialisés.
+
+Principes de Wiener :
+
+La cybernétique désigne d'abord un moyen de connaissance, qui étudie l'information au sens de la physique, dans la définition qu'en donne Norbert Wiener : « De même que l'entropie est une mesure de désorganisation, l'information fournie par une série de messages est une mesure d'organisation. » Dans cette acception première, la cybernétique est une approche phénoménologique qui étudie l'information, sa structure et sa fonction dans les interactions systémiques, ce qui peut être traduit par la science générale de la régulation et des communications dans les systèmes naturels et artificiels.
+
+La cybernétique décrite par Norbert Wiener est un moyen d'expliquer et de comprendre tous les mécanismes rencontrés avec quelques briques logiques simples :
+
+* La boîte noire : un élément relié à d'autres, dont on ne se soucie pas de savoir ce qu'il contient (ou son fonctionnement d'après sa structure interne, inaccessible de façon momentanée ou définitive), mais dont on déduit la fonction apparente à partir de l'étude de ses entrées/sorties.
+L'émetteur, qui agit sur l'environnement, donc envoie de l'information, sorte de porte de sortie.
+Le récepteur, qui en intègre depuis l'environnement, donc capte les informations, comme une porte d'entrée de la boîte noire.
+* L'émetteur, qui agit sur l'environnement, donc envoie de l'information, sorte de porte de sortie.
+* Le récepteur, qui en intègre depuis l'environnement, donc capte les informations, comme une porte d'entrée de la boîte noire.
+* Le flux d'information : ce qui est transmis, donc envoyé et effectivement reçu, autrement dit l'information efficace.
+La rétroaction (feedback) : c'est l'information en retour de l'état.
+* La rétroaction (feedback) : c'est l'information en retour de l'état.
+Le feedback est mis en évidence par cette approche car il est indispensable pour concevoir une logique d'autorégulation. On voit donc émerger des boucles de rétroaction, mécanismes circulaires qui mettent en évidence des systèmes. Si les systèmes sont mis en évidence par cette cybernétique (parfois dite du premier ordre), ils ne le sont d'abord que par voie de conséquence d'une étude strictement limitée aux échanges d'information et à l'évolution de ces échanges dans le temps. Plus tard se constituera un paradigme propre à l'étude des systèmes en tant que tels, la systémique.
+Portés par les participants du mouvement cybernétique, pour la plupart des auteurs majeurs dans leur discipline, les concepts de la cybernétique se diffusent rapidement. La cybernétique marque le moment d'une rupture épistémologique majeure qui a profondément influencé tous les domaines de la science et ses retombées sont innombrables.
+
+Deuxième mouvement cybernétique :
+
+Marvin Minsky présente la première cybernétique comme un tronc commun qui se serait divisé en trois branches : la « simulation cognitive » à la Allen Newell et Herbert Simon, l'« intelligence artificielle » et la « seconde cybernétique » ou théorie des systèmes auto-organisateurs.
+
+Morphogenèse et émergence :
+
+Alors que la première cybernétique étudie comment les systèmes maintiennent l'homéostasie (morphostase) par des mécanismes d'autorégulation, la « deuxième cybernétique » du psychiatre W. Ross Ashby et des biologistes Humberto Maturana et Francisco Varela étudie comment les systèmes évoluent et créent des nouvelles structures (morphogenèse). Ashby parle d'auto-organisation, Maturana et Varela d'autopoïèse. Cette étude des systèmes éloignés de leur point d'équilibre se rapproche des travaux sur les structures dissipatives du prix Nobel de chimie belge Ilya Prigogine. Au lieu de se demander comment se maintient un certain équilibre, on observe comment un nouvel équilibre peut émerger d'une situation de déséquilibre. Prigogine a montré que contrairement à ce que l'on croyait, dans certaines conditions, en s'éloignant de son point d'équilibre, le système ne va pas vers sa mort ou son éclatement mais vers la création d'un nouvel ordre, d'un nouvel état d'équilibre. Les situations extrêmes recèlent la possibilité de créer une nouvelle structure. On voit ici la possibilité de recréer du vivant, de l'organiser là où il n'y avait plus que du chaos.
+On emploiera bientôt également le terme d'émergence pour désigner non seulement les nouvelles formes, mais aussi les propriétés et processus nouveaux qui apparaissent lors de la réorganisation spontanée d'un système. Ce type de phénomène met parfois en jeu, plus qu'une réorganisation du système, une organisation à un degré supérieur de complexité. Pour imager, là où on avait un système de 5 éléments en interaction, on les voit se grouper en sous-systèmes de 2 et 3 éléments, eux-mêmes en relation.
+
+Inclusion de l'observateur :
+
+Dans la cybernétique de deuxième ordre, qui prend forme avec Heinz von Foerster à partir de 1950-1953 avec les dernières conférences Macy, l'observateur s'inclut lui-même dans le système observé. Comme le rappelle von Foerster, « pour écrire une théorie du cerveau, il faut un cerveau ». En ce sens, cette conception de la cybernétique est une composante importante du constructivisme radical. La cybernétique de deuxième ordre vise à l'élaboration d'une méthode de description « universelle » commune aux différents champs de la science. Foerster précise :
+« L'effort d’unification entrepris par les cybernéticiens ne se situe pas au niveau des solutions, mais à celui des problèmes. Certaines classes de problèmes, définies par une même structure logique, traversent les disciplines les plus variées. La cybernétique s’est édifiée autour de deux de ces classes : les problèmes de communication, et les problèmes posés par l’étude des mécanismes qui produisent eux-mêmes leur unité (self-integrating mechanisms). »
+Pour W. Ross Ashby, « la cybernétique se situe comme une approche indépendante de la nature des éléments qu'elle étudie ».
+
+Développements ultérieurs et champs d'influence :
+
+Cybernétique et systémique :
+L'implication de la cybernétique dans la systémique est historiquement plus liée au « deuxième mouvement cybernétique ». En effet, si selon Norbert Wiener la cybernétique étudie exclusivement les échanges d'information (car c'est « ce qui dirige » les logiques des éléments communicants, d'où le mot cybernétique), dans son évolution, qui engendrera la systémique, on réintègre les caractéristiques des composantes du système, et on reconsidère les échanges d'énergie et de matière indépendamment des échanges d'information.
+Pourtant, au-delà des querelles d'écoles entre la cybernétique et la systémique issue des travaux de Ludwig von Bertalanffy, on peut, à la suite de Gregory Bateson, considérer ces deux mouvements de pensée comme faisant partie d'un ensemble d'idées relativement unifié.
+Ainsi, avec l'assimilation des théories cybernétiques par la systémique, on a été amené à comprendre les mécanismes d'autorégulation des systèmes comme des processus de feedback négatif visant à empêcher une déviation. Les systèmes cybernétiques visent à maintenir un état stable viable d'interaction au sein d'environnements changeants via un processus stochastique d'essais et erreurs.
+En France, Joël de Rosnay a été parmi les premiers à populariser les grands thèmes de la cybernétique et à les appliquer à l'approche systémique de la complexité : cellule, corps, ville, économie, écosystème.
+
+Variété d'un système :
+
+La notion de système s'applique à tout processus, qu'il soit physique, chimique, biologique, économique ou social. Ainsi, par exemple, une entreprise ou même chacune des parties qui la composent (division, service, atelier, etc.) peuvent être considérées comme un système.
+On peut modéliser la complexité d'un système par la variété des états différents que ce système est susceptible de prendre. Lorsque l'on fusionne plusieurs systèmes, leurs variétés (ou complexités) ne s'additionnent pas, elles se multiplient entre elles.
+Le contrôle d'un système consiste à lui associer un autre système dont le rôle sera de maintenir aussi faible que possible la variété des résultats (ou objectifs). Par exemple, le système à étudier étant une voiture, le système de contrôle sera son conducteur. L'objectif est alors de maintenir quasi constant l'écart entre le véhicule et le bord de la route, tout au long du parcours.
+
+On constate alors que la variété des résultats ou objectifs (V0) ne peut être moindre que :
+
+La variété des résultats étant minimum, elle ne peut diminuer que si la variété du système de contrôle croit.
+Cette loi est la loi de la variété indispensable qui établit que seule la variété du système de contrôle peut réduire celle qui résulte du processus à contrôler, que seule la complexité peut détruire la complexité.
+
+Cybernétique assimilée à son application technique :
+
+Dans son champ d'application, la cybernétique peut signifier le moyen d'organiser les échanges pour les rendre efficaces et, poussée à l'extrême, le moyen de contrôler plus efficacement. Le mot cybernétique est parfois interprété comme une méthode, qui passe par la science en question mais qui la lie à l'utilisation qui en est faite. On trouve ainsi le mot cybernétique expression du moyen de contrôle, rejoignant ainsi la définition d'Ampère.
+Par exemple, Louis Couffignal, participant du premier mouvement cybernétique, la définira ainsi (en 1953 ou 1956 selon les sources) : « La cybernétique est l'art de rendre l'action efficace. » Georges R. Boulanger, président de l'Association Internationale de Cybernétique, mathématicien formé aux disciplines de la technologie, énonce que « la logique peut être mécanisée ». Il définit la cybernétique comme « la science de la communication dans l'être vivant et dans la machine ».
+Le mot cybernétique est souvent utilisé en laissant de côté le principe scientifique d'accès à la connaissance, et il est confondu avec ce qu'il étudie, c'est-à-dire le moyen de contrôle.
+Il y a parfois aussi un sous-entendu de contrôle de la personne humaine au sens de manipulation, et parfois même le sous-entendu d'utilisation par l'État pour la manipulation des masses. C'est donc également un terme polémique qui, sous cet angle, n'a plus grand-chose à voir avec son origine scientifique. On peut supposer que le titre de l'ouvrage de Norbert Wiener de 1950, Cybernetics and Society, The Human Use of Human Beings (cybernétique et société, l'usage humain de l'être humain), n'est pas étranger à cette vision.
+
+* sciences cognitives : le premier modèle de neurone formel de McCulloch et Pitts a été réalisé dans le cadre des conférences Macy. Les réseaux de neurones formels jouent un rôle fondamental tant en intelligence artificielle qu'en neurosciences théoriques :
+
+intelligence artificielle,
+neurobiologie ;
+* intelligence artificielle,
+* neurobiologie ;
+* Internet ;
+
+* systémique :
+
+sociologie : la systémique sociale de Jean-Claude Lugan ;
+* sociologie : la systémique sociale de Jean-Claude Lugan ;
+* constructivisme radical ;
+* sciences humaines : sciences de l'information et de la communication (école de Palo Alto), psychanalyse (notamment Jacques Lacan), management, économie. Il existe des méthodes d'application aux systèmes sociaux, qui se sont surtout développées dans les pays anglo-saxons. Parmi les théoriciens, on peut citer Karl E. Weick ou Peter Checkland ;
+* ingénierie, et plus spécialement automatique ;
+* robotique : William Grey Walter, le premier à construire une machine autonome pour étudier les comportements animaux, fut également un cybernéticien ;
+* écologie : l'hypothèse Gaïa de James Lovelock se fonde sur les postulats de la cybernétique et voit dans la Terre un mécanisme d'autorégulation.
+
+Cas des sciences sociales :
+
+Une branche de l'école de pensée cybernétique, que l'on peut lier à l'école de Palo Alto, s'est formée principalement sous l'impulsion de Gregory Bateson. Ce dernier organisait des conférences en parallèle des conférences Macy pour faire passer ce courant de pensée dans les sciences sociales, de l'anthropologie à la psychanalyse. C'est une référence en matière de thérapie familiale par exemple, et beaucoup de définitions actuelles de la cybernétique y sont rattachées.
+« L'existence de sciences dites sociales indique le refus de permettre aux autres sciences d'être sociales. »
+— von Foerster
+« … et de permettre aux sciences sociales d'être physiques. »
+— Edgar Morin
+La cybernétique a mis en évidence que n'importe quel organisme est constitué d'un ensemble plus ou moins grand d'organes, appartenant à un nombre très limité de types (fonctions élémentaires) combinés en un certain ordre pouvant être traduit par des règles d'assemblage ou de disjonction.
+Une organisation (ou organisme de nature quelconque) est, le plus souvent, décrite en termes de structure (ce qu'elle est) et parfois comme une fonction (ce qu'elle fait), mais rarement en termes de correspondance (évolution adaptative).
+
+La description d'une organisation en termes de correspondance, d'adaptation et d'adéquation aux conditions du contexte et de l'environnement révèle l'explication cybernétique qui, dans la terminologie de Bateson, est d'un type logique différent de celui de l'explication causale : il ne s'agit plus de savoir pourquoi quelque chose s'est produit mais de savoir quelles contraintes ont fait que n'importe quoi ne se soit pas produit. Bateson fait une description de la démarche cybernétique :
+
+«  En termes cybernétiques, on dit que le cours des événements est soumis à des restrictions, et on suppose que, celles-ci mises à part, les voies du changement n'obéiraient qu'au seul principe de l'égalité des probabilités. En fait, les restrictions sur lesquelles se fonde l'explication cybernétique peuvent être considérées, dans tous les cas, comme autant de facteurs qui déterminent l'inégalité des probabilités… Idéalement — et c'est bien ce qui se passe dans la plupart des cas — dans toute séquence ou ensemble de séquences, l'événement qui se produit est uniquement déterminé en termes d'une explication cybernétique. Un grand nombre de restrictions différentes peuvent se combiner pour aboutir à cette détermination unique. Dans le cas du puzzle, par exemple, le choix d'une pièce pour combler un vide est restreint par de nombreux facteurs : sa forme doit être adaptée à celle des pièces voisines et, en certains cas, également à celle des frontières du puzzle ; sa couleur doit correspondre à celles des morceaux environnants… Du point de vue de celui qui essaie de résoudre le puzzle, ce sont là des indices, autrement dit des sources d'information qui le guideront dans son choix. Du point de vue de la cybernétique, il s'agit de restrictions. De même, pour la cybernétique, un mot dans une phrase, une lettre à l'intérieur d'un mot, l'anatomie d'un quelconque élément d'un organisme, le rôle d'une espèce dans un écosystème, ou encore le comportement d'un individu dans sa famille, tout cela est à expliquer (négativement) par l'analyse des restrictions. »
+La description d'une organisation n'est donc adéquate que si l'on inclut une description des contraintes exercées par le contexte et l'environnement sur ses possibilités d'action (comportement, fonction et processus), d'agencement (structure) et de devenir (évolution). Il en est de même du comportement conçu comme un construit organisé d'activités, de la cellule jusqu'à la machine et aux institutions, en passant par l'animal et l'homme, la société.
+* Dans l'explication causale, dite positive (où, par exemple, une boule de billard B se déplace parce qu'elle est heurtée par une boule A sous tel angle et à telle vitesse), la trajectoire ou le comportement de la boule B est considéré entièrement prédictible à partir des conditions initiales.
+* Dans l'explication cybernétique, dite négative, l'examen des restrictions ou contraintes du système montre que n'importe quoi ne peut se produire et que seule une réponse appropriée à ces contraintes peut survivre, se développer et se reproduire. À partir de l'explication cybernétique se déploient les principes d'équifinalité et de multifinalité qui sont très loin du précepte déterministe, ou peut-être plus exactement causaliste, de René Descartes de la relation directe linéaire (proportionnalité de l'effet à la cause et antécédence : la cause précède l'effet). Le comportement d'une fourmi devient intelligible en regard des contraintes topographiques du parcours et des contraintes du ravitaillement à rapporter dans un processus stochastique du hasard des rencontres et de la nécessité de ramener la nourriture.
+L'« équifinalité », formulée par Ludwig von Bertalanffy, désigne un même état final qui peut être atteint à partir de différents états initiaux, à travers différentes voies et avec différents moyens. En d'autres termes, des effets identiques peuvent avoir des causes différentes. C'est une sorte de suite convergente. La « multifinalité » dans la théorie des contextes d'Anthony Wilden, en termes de causes et d'effets, énonce que des causes identiques peuvent produire des effets différents en une sorte de suite divergente.
+
+La cybernétique en politique :
+
+Conformément aux vues d'Ampère, Wigner et Dubarle, la cybernétique possède une dimension politique lorsqu'elle se trouve instrumentée à travers des « machines à gouverner ».
+Soit l'instrumentation est informatique, elle se réalise alors à travers des programmes logiciels ; soit l'instrumentation est juridique. Elle correspond alors à un projet bien plus ancien des juristes d'un gouvernement selon la méthode scientifique (voir par exemple S. von Pufendorf). Elle se réalise alors à travers des systèmes juridiques.
+
+La cybernétique à large échelle :
+
+L'avènement de l'internet des objets offre à la cybernétique de Wiener une nouvelle jeunesse et donne aux ingénieurs une bonne raison de dépasser le modèle cartésien. Les millions de capteurs connectés, capables de sonder l'environnement dans des conditions difficiles et éloignés, sont idéaux pour créer des boucles de rétroaction même à très grande échelle. Ils permettent d'améliorer la façon d'optimiser les performances des systèmes industriels et de gérer les ressources.
+Certains considèrent que le véritable bénéfice de l'internet des objets est ici : les infrastructures des villes et de l'industrie peuvent toutes profiter des modèles cybernétiques et converger vers la juste consommation de ressources et la performance environnementale optimale.
+Les capteurs environnementaux sur le terrain ajoutent une information « bottom-up » aux modèles. Ils contribuent à l'optimisation de ressources mais permettent aussi d'anticiper des événements inattendus. L'interopérabilité avec des sources de données créé aussi un moyen efficace de traquer les externalités. Chaque élément du système devient autonome, le modèle devient dynamique, il a la capacité de s'auto-organiser.
+L'arrosage intelligent des espaces verts constitue un exemple concret de la mise en œuvre d'une boucle cybernétique pour améliorer la performance et la gestion des ressources rares.
+
+Représentations par les médias, impacts sur le grand-public :
+
+Science-fiction :
+Très tôt popularisée par des journalistes scientifiques vulgarisateurs, nourrissant les imaginaires, la cybernétique est à l'origine de la dénomination du personnage du cyborg en science-fiction apparu au tournant des années 1960-1970. « Cyborg » est issu de la contraction du syntagme anglais « cybernetic organism » (organisme cybernétique). Les concepts énoncés par la cybernétique sont largement représentés dans les romans et les films de science-fiction et les exemples abondent. Ces fictions se nourrissent d'une partie importante des travaux d'Isaac Asimov (de ses réflexions sur les robots, la psychohistoire). L'une des premières représentations de robots autonomes à prise de décision intelligente apparaît dans le film Planète interdite (1955) qui comprend d'ailleurs l'une des premières bandes originales électroniques et un ensemble de réflexions sur le principe d'intelligence collective en réseau. On peut citer également comme exemples le film Blade Runner (1982) qui s'inspire d'un récit plus ancien de Philip K. Dick, le manga des années 1990 Gunnm de Yukito Kishiro, etc.
+Il en résulte, quand on évoque le mot cybernétique dans le langage courant, une empreinte liée au préfixe cyber que l'on retrouve par exemple dans le mot cyberespace, au signifiant parfois bien éloigné de sa définition originelle.
