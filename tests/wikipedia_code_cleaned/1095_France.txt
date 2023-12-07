@@ -11,8 +11,8 @@ La France tire son nom des Francs (peuple germanique) qui en ont institué les p
 Les premières occurrences du mot « France » en langue française se rencontrent au XIᵉ siècle, notamment dans la Chanson de Roland (vers 1080), mais le terme latin Francia était déjà employé dans les textes antérieurs, avec des acceptions variables.
 
 Géographie :
-
 Localisation, frontières et superficie :
+
 La partie européenne de la France, appelée France métropolitaine, est située à l'extrémité occidentale de l'Europe, et sa délimitation est restée inchangée depuis la fin de la Seconde Guerre mondiale et le traité de Paris en 1947. Elle est bordée par la mer du Nord au nord, la Manche au nord-nord-ouest, la mer Celtique à l'ouest-nord-ouest, le golfe de Gascogne à l'ouest et la mer Méditerranée au sud-est. Elle est frontalière de la Belgique au nord-nord-est, du Luxembourg au nord-est, de l'Allemagne à l'est-nord-est, de la Suisse à l'est, de l'Italie à l'est-sud-est, de Monaco au sud-est et de l'Espagne et Andorre au sud-sud-ouest.
 Les frontières à l'est, au sud-est et au sud-ouest du territoire métropolitain sont établies en s'appuyant sur des cours d'eau et des massifs montagneux, à savoir le Rhin, le Jura, le Léman, les Alpes et les Pyrénées, tandis qu'au nord-est la frontière ne se fonde pas sur des éléments naturels.
 La France est également composée de nombreux territoires situés en dehors du continent européen, couramment appelés France d'outre-mer, qui lui permettent d'être présente dans tous les océans du monde sauf l'océan Arctique.
@@ -154,8 +154,8 @@ Le pouvoir judiciaire, quant à lui, est séparé des deux autres, bien que le p
 La conformité des lois à la Constitution, la régularité des scrutins et, plus largement, le respect des institutions sont contrôlés par le Conseil constitutionnel.
 
 Gouvernement :
-
 Découpage territorial et décentralisation :
+
 On distingue d'une part, la France métropolitaine et les régions d'outre-mer, qui sont administrées dans le cadre des règles générales, et d'autre part, la Nouvelle-Calédonie, les collectivités d'outre-mer et les territoires d'outre-mer, qui disposent de statuts différents. La France métropolitaine et les régions d'outre-mer sont divisées en de multiples collectivités territoriales réparties sur trois niveaux : la commune, le département et la région. Il existe également des collectivités territoriales à statut particulier telles que les collectivités territoriales uniques qui englobent les compétences du département et de la région ou encore la collectivité européenne d'Alsace. Ces collectivités territoriales sont en même temps des circonscriptions administratives dans lesquelles l'État intervient au travers de ses services déconcentrés. Les communes, au nombre de 35 416 en métropole au 1/1/2020, correspondent généralement au territoire d'une ville ou d'un village ; elles sont dirigées par un conseil municipal, qui élit un maire, à la fois agent de la collectivité territoriale et représentant de l'État dans la commune. Depuis les années 1990, la coopération entre les communes a été renforcée par l'émergence d'établissements publics de coopération intercommunale, dont le rôle s'accroît. Les départements, créés pendant la Révolution française, sont aujourd'hui au nombre de 99 dont 5 en Outre-mer. Ils sont dirigés par un conseil départemental dont les membres sont élus au sein des cantons et l'État y est représenté par un préfet. Quant aux 18 régions françaises, dont l'existence est plus récente, elles sont dirigées par un conseil régional et l'État y est représenté par un préfet de région. À ces collectivités territoriales s'ajoutent d'autres divisions territoriales, telles que le canton, l'arrondissement ou plus récemment le pays mais elles ne possèdent pas de dirigeants élus.
 Comparée à ses voisins européens, la France a longtemps été marquée par une forte centralisation politique, les collectivités territoriales disposant de pouvoirs relativement faibles. Néanmoins, cette situation a beaucoup évolué depuis le début des années 1980, d'abord en 1982 et 1983 avec les lois Defferre (appelées a posteriori l'acte I de la décentralisation), puis entre 2002 et 2004 sous le gouvernement Raffarin (acte II). En 2010, les compétences des collectivités territoriales sont nombreuses, et concernent notamment les établissements scolaires, les transports, le développement économique et l'action sociale. Néanmoins, la superposition de multiples échelons et la limite souvent floue entre les compétences des différentes collectivités territoriales est la source de débats sur l'avenir de la décentralisation sur lequel le gouvernement Fillon s'est penché entre 2008 et 2010. Le gouvernement Valls poursuit ce processus, appelé l'acte III de la décentralisation en proposant un nouveau découpage en 18 régions, effectif à partir du 1/1/2016 et des élections régionales de décembre 2015.
 
@@ -205,8 +205,8 @@ En outre, plusieurs symboles officieux existent pour représenter la France. En 
 Depuis 1999, le Gouvernement français s'est doté d'un logotype rappelant le drapeau et la devise du pays, ainsi que la figure de Marianne. Ce logo figure en entête de tous les documents publiés par l'administration française. En 2020, la charte graphique gouvernementale est modernisée pour s'adapter aux nouveaux formats et aux nouveaux usages de la communication.
 
 Population et société :
-
 Démographie :
+
 D'après l'Institut national de la statistique et des études économiques (Insee), 68 042 591 habitants vivent en France au 1/1/2023 (hors COM et Nouvelle-Calédonie), dont 65 834 837 en métropole et 2 207 754 dans les départements d'outre-mer. En 2016, 628000 habitants peuplent les collectivités d'outre-mer (Polynésie française, Saint-Pierre-et-Miquelon, Wallis-et-Futuna, Saint-Martin et Saint-Barthélemy) et de Nouvelle-Calédonie ; la population de l'ensemble des territoires français atteint environ 67,7 millions d'habitants, soit environ 0,9 % de la population mondiale.
 Un recensement national général était organisé à intervalles réguliers depuis 1801, mais depuis janvier 2004, le recensement est réalisé tous les ans dans les communes de 10000 habitants ou plus, hors collectivités d'outre-mer, et tous les cinq ans ailleurs.
 Après avoir été relativement faible au XIXᵉ siècle et au début du XXᵉ siècle — la France a connu une transition démographique rapide et peu marquée —, la croissance démographique de la France est devenue l'une des plus fortes d'Europe, combinant un taux de natalité supérieur à la moyenne européenne (800000 naissances en 2015 contre 600000 décès) et un solde migratoire positif (environ 47000 individus en 2015) : la population de la France s'est accrue de 0,4 % en 2015.
@@ -255,8 +255,8 @@ L'origine sociale des élèves influe considérablement sur leurs résultats sco
 La première évaluation du ministère de l'Éducation nationale a révélé que la « continuité pédagogique » pendant le verrouillage au milieu de la pandémie de COVID-19 était positif. Selon l'enquête, sept enseignants sur dix et huit parents sur dix ont été jugés satisfaits.
 
 Santé et protection sociale :
-
 Protection sociale :
+
 Depuis sa création en 1945, la Sécurité sociale est au cœur du système de protection sociale français, bien que l'État, les collectivités territoriales et les mutuelles aient également un rôle important. Le maintien des régimes de protection sociale dont disposaient certaines professions avant 1945 explique la grande complexité du système, qui ne compte pas moins de 120 régimes de base et 1200 régimes complémentaires. Le régime général de la Sécurité sociale, qui compte de loin le plus grand nombre d'affiliés, est divisé en quatre branches correspondant aux quatre risques majeurs, la maladie, les accidents du travail et maladies professionnelles, les risques liés à la vieillesse et la famille. Si cette protection sociale ne concernait dans un premier temps que les personnes actives, elle s'est peu à peu étendue à toute la population active comme inactive dans beaucoup de domaines, par exemple, lors de la création de la couverture maladie universelle (CMU) en 1999. En outre, à la fin des années 1990, six millions de personnes dépendaient des minima sociaux.
 Les prestations sociales sont principalement financées par les cotisations sociales versées par les actifs (65,5 % du total en 2005), mais aussi — et de plus en plus — par l'État et les collectivités territoriales. En 2005, les dépenses de protection sociale — au sens le plus large du terme — représentaient près de 30 % du PIB et plus de 45 % du revenu disponible ajusté des ménages. Malgré les efforts menés par les gouvernements successifs pour maîtriser les dépenses sociales, celles-ci augmentent rapidement, du fait notamment de l'augmentation des dépenses de santé des ménages et du vieillissement de la population — le rapport actifs sur inactifs de plus de 60 ans, qui était de 3 en 1970, devrait atteindre 2,07 en 2010 et 1,36 en 2050 en métropole, selon l’Insee —.
 
@@ -287,8 +287,8 @@ La France s'intéresse également de plus en plus à l'e-sport. En 2016, le gouv
 Outre les couleurs du drapeau, pour les fédérations sportives françaises, le coq est aussi utilisé comme symbole, mais ce n’est pas un symbole officiel.
 
 Sécurité et criminalité :
-
 Engagement associatif, syndical et politique :
+
 Si les taux de participation aux élections diminuent, la participation protestataire, en revanche, se développe. En 2008, 42 % des Français ont participé à une manifestation, contre 25 % en 1981. En comparaison des autres pays développés, la France est souvent vue comme un pays où les manifestations et les grèves sont fréquentes.
 Mais cette participation ponctuelle à des événements contestataires ne se traduit pas, tant s'en faut, par un engagement important dans les partis politiques. Quant au taux de syndicalisation (8 %), il est le plus faible des pays riches, même s'il est plus important dans le secteur public. En revanche, les Français sont très impliqués dans le milieu associatif : 14 millions de bénévoles sont membres de plus d'un million d'associations, qui bénéficient du statut accordé par la loi du 1 juillet 1901.
 
@@ -438,8 +438,8 @@ Avec les apports de François Delsarte et Émile Jaques-Dalcroze, des grandes fi
 La pratique de la danse en France est régulée par la Fédération française de danse, divisés en des danses de spectacle (le ballet, le cancan, la danse contemporaine...), de société (traditionnelle, la quadrille...) et de compétition (sportives, acrobatiques).
 
 Musique :
-
 Musique savante :
+
 Partagée au Moyen Âge entre deux voies différentes, l'art polyphonique (ars antiqua, ars nova) ancré sur le chant grégorien et l'art du chant profane monodique des troubadours et des trouvères, la musique française connaît un rayonnement certain en Europe.
 La période baroque est également très importante dans la France des XVIIᵉ et XVIIIᵉ siècles, avec des compositeurs comme Lully, Charpentier, Rameau, Couperin. Romantisme et période moderne voient également de grands compositeurs comme Berlioz, Chopin, Gounod et Bizet au XIXᵉ siècle, ou Ravel, Fauré, Debussy au XXᵉ siècle. La période contemporaine peut être représentée entre autres par Olivier Messiaen, Pierre Henry, Henri Dutilleux et plus récemment par Pierre Boulez, Iannis Xenakis, Jean-Claude Risset, François Bayle, Philippe Hersant ou encore Betsy Jolas.
 

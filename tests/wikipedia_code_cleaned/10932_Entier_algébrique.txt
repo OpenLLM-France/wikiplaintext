@@ -16,8 +16,8 @@ Ainsi, l'anneau des entiers algébriques est la fermeture intégrale de ℤ dans
 *La clôture intégrale d'un anneau intègre est, par définition, sa fermeture intégrale dans son corps des fractions. L'anneau est dit intégralement clos si sa clôture intégrale est réduite à lui-même.
 
 Exemples :
-
 Entiers relatifs :
+
 Le corps des fractions de l'anneau ℤ est le corps ℚ, et l'anneau des entiers de ℚ est ℤ, autrement dit :
 Les seuls rationnels qui sont des entiers algébriques sont les entiers relatifs.
 Ou encore : l'anneau ℤ est intégralement clos. (Plus généralement, tout anneau factoriel est intégralement clos.)
@@ -65,5 +65,3 @@ Anneau de Dedekind :
 
 L'anneau des entiers algébriques d'un corps de nombres, en plus d'être intégralement clos et noethérien, vérifie que tous ses idéaux premiers non nuls sont maximaux, ce qui fait de lui un anneau de Dedekind.
 Cette propriété est démontrée (§ « Entier algébrique ») et généralisée (§ « Extension finie ») dans l'article détaillé.
-
-Groupe des unités :

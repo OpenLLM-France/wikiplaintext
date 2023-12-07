@@ -13,8 +13,8 @@ Composants :
 * Il existe aussi des versions circulaires (cercle à calcul) ou hélicoïdales (hélice à calcul).
 
 Principe :
-
 Détermination des différentes échelles :
+
 La composition des règles à calcul est variable. Il convient donc à l'utilisateur de repérer les échelles.
 * On trouve souvent quatre échelles étiquetées A, B, C et D.
 A et B sont les échelles des carrés (identifiables par une graduation logarithmique de 1 à 100), C et D étant les échelles des unités (graduation logarithmique de 1 à 10). L'échelle B est parfois absente (anciennes règles), dans ce cas, on peut juste trouver les carrés et racines carrées, mais pas calculer dans les carrés. Pour reconnaître avec certitude une échelle des carrés, celle-ci est graduée de 1 à 100 (il s'agit de deux échelles des unités mises bout-à-bout).
@@ -27,8 +27,8 @@ La graduation va de 1 à 0,1 ou de 10 à 1.
 * Sur les règles spécialisées (électricité, etc.), des échelles dédiées à des calculs spécifiques. On les identifiera grâce à la documentation, aux inscriptions situées dans les marges et à une bonne connaissance du domaine en question.
 
 Utilisation des échelles pour les calculs :
-
 Multiplication et division :
+
 Pour son utilisation la plus courante (la multiplication et la division), la règle à calcul utilise des échelles logarithmiques et le principe selon lequel la somme des logarithmes de deux nombres est égale au logarithme du produit des deux nombres :
 log (a) + log (b) = log (a × b)
 Cela se traduit par le fait que, pour multiplier deux valeurs, il suffit d’additionner leurs longueurs représentées sur la règle, et de les retrancher pour faire une division.
@@ -71,7 +71,7 @@ Logarithmes :
 Les règles à calcul comportent le plus souvent une échelle de logarithmes en base 10, sur la face avant ou arrière de la règle selon les cas.
 Après identification de l'échelle (une échelle de 0 à 1 sur laquelle les chiffres sont régulièrement espacés et étiquetée L), on repère la correspondance entre l'échelle de base (notée D en général) avec l'échelle des logs.
 Pour mémoire, le log (ou logarithme décimal) d'un nombre a est le nombre qu'il faut mettre en exposant à 10 pour obtenir a.
-Par exemple, 10⁰,³ vaut environ 2. Le 2 de l'échelle D doit donc correspondre au 0,3 (ou .3) de l'échelle des logs.
+Par exemple, 10⁰˒³ vaut environ 2. Le 2 de l'échelle D doit donc correspondre au 0,3 (ou .3) de l'échelle des logs.
 === Exponentielles ou échelle log-log===
 Certaines règles à calcul (Graphoplex par exemple) fournissent en outre des échelles permettant de connaître :
 * e^x : LL3 ;

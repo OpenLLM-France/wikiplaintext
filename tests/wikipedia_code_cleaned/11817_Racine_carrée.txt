@@ -1,4 +1,4 @@
-En mathématiques élémentaires, la racine carrée d'un nombre réel positif x est l'unique réel positif qui, lorsqu'il est multiplié par lui-même, donne x, c'est-à-dire le nombre positif dont le carré vaut x. On le note √x ou x¹/². Dans cette expression, x est appelé le radicande et le signe \sqrt{\quad} est appelé le radical. La fonction qui, à tout réel positif, associe sa racine carrée s'appelle la fonction racine carrée.
+En mathématiques élémentaires, la racine carrée d'un nombre réel positif x est l'unique réel positif qui, lorsqu'il est multiplié par lui-même, donne x, c'est-à-dire le nombre positif dont le carré vaut x. On le note √x ou x¹ᐟ². Dans cette expression, x est appelé le radicande et le signe \sqrt{\quad} est appelé le radical. La fonction qui, à tout réel positif, associe sa racine carrée s'appelle la fonction racine carrée.
 En algèbre et analyse, dans un anneau ou un corps A, on appelle racine carrée de a, tout élément de A dont le carré vaut a. Par exemple, dans le corps des complexes ℂ, on dira de i (ou de − i) qu'il est une racine carrée de − 1. Selon la nature de l'anneau, et la valeur de a, on peut trouver 0, 1, 2 ou plus de 2 racines carrées de a.
 La recherche de la racine carrée d'un nombre, ou extraction de la racine carrée, donne lieu à de nombreux algorithmes. La nature de la racine carrée d'un entier naturel qui n'est pas le carré d'un entier est à l'origine de la première prise de conscience de l'existence de nombres irrationnels. La recherche de racines carrées pour des nombres négatifs a conduit à l'invention des nombres complexes.
 
@@ -41,8 +41,8 @@ Extraction de racines carrées :
 Le calcul de la racine carré d'un nombre positif n'est pas toujours évident, notamment pour de grands nombres. Ainsi, plusieurs algorithmes ont été développés au cours de l'histoire afin d'obtenir ce nombre. Parmi les méthodes d'extraction de racine carrée, on peut citer notamment la méthode de Héron, qui est une méthode historique qui peut être vue d'un point de vue moderne comme un cas particulier de la méthode de Newton. D'autres méthodes sont basées sur des suites adjacentes, sur des fractions continues ou sur un principe de dichotomie.
 
 Racines carrées particulières :
-
 Nombre d'or :
+
 Si p est un nombre réel strictement positif,
 \sqrt{p+\sqrt{p+\sqrt{p+\sqrt{p+\cdots}}}} = \frac{1+\sqrt{4p+1}}2.
 Pour p = 1, on obtient le nombre d'or :
@@ -64,8 +64,8 @@ Ou encore :
 (formules qui se démontrent par calcul trigonométrique direct : le terme de droite de la première, par exemple, vaut 2^k\sin(\pi/2^k)).
 
 Notion algébrique générale :
-
 Définition algébrique d'une racine carrée :
+
 Soient x et a deux éléments d’un anneau A, tels que x^2 a. L'élément x est alors une racine carrée de a. La notation √a est néanmoins souvent déconseillée car il peut exister plusieurs tels éléments x.
 En général (si l'anneau n'est pas intègre ou s'il n'est pas commutatif), un élément peut avoir plus de deux racines carrées. Par exemple dans l'anneau ℤ/9ℤ, les racines carrées de 0 sont 0, 3 et -3, et dans le corps gauche des quaternions, tout réel strictement négatif possède une infinité de racines carrées.
 Dans le cas des nombres réels, un auteur parlant d'une racine carrée de 2, traite d'un des deux éléments √2 ou bien -√2. En revanche, l'expression la racine carrée de deux évoque toujours la solution positive. Comme l'expression √2 est toujours positive et le terme fonction racine définie sur les réels positifs désigne toujours la valeur positive, on évite cette confusion dans les enseignements un peu élémentaires des mathématiques en ne faisant usage que de l'expression : la racine carrée, alors toujours positive.
@@ -88,7 +88,7 @@ et son opposé.
 Pour des raisons de nature topologique, il est impossible de prolonger la fonction racine carrée, de ℝ₊ dans ℝ₊, en une fonction continue f:\Complex\rightarrow\Complex vérifiant f(z)^2 z.
 On appelle détermination de la racine carrée sur un ouvert U de ℂ toute fonction continue f:U\rightarrow\Complex vérifiant f(z)^2=z.
 La détermination principale de la racine carrée est la fonction de ℂ dans ℂ ainsi définie :
-si z s’écrit sous forme trigonométrique z r eⁱ φ avec –π < φ ≤ π, alors on pose f(z) √r eⁱ φ/². Cette détermination principale n’est continue en aucun point de la demi-droite des réels strictement négatifs, et est holomorphe sur son complémentaire.
+si z s’écrit sous forme trigonométrique z r eⁱ ᵠ avec –π < φ ≤ π, alors on pose f(z) √r eⁱ ᵠᐟ². Cette détermination principale n’est continue en aucun point de la demi-droite des réels strictement négatifs, et est holomorphe sur son complémentaire.
 Quand le nombre est dans sa forme algébrique z a + ib, cette définition se traduit par :
 f(a+ib)=\sqrt{\frac{\left|a+\mathrm ib\right|+a}2}\pm\mathrm i\sqrt{\frac{\left|a+\mathrm ib\right|-a}2}
 où le signe de la partie imaginaire de la racine est

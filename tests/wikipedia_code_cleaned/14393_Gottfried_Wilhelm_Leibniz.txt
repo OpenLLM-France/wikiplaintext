@@ -4,6 +4,8 @@ En philosophie, Leibniz est, avec René Descartes et Baruch Spinoza, l'un des pr
 En mathématiques, la contribution principale de Leibniz est l'invention du calcul infinitésimal (calcul différentiel et calcul intégral). Si la paternité de cette découverte a longtemps fait l'objet d'une controverse l'opposant à Isaac Newton, les historiens des mathématiques s'accordent aujourd'hui pour dire que les deux mathématiciens l'ont développé plus ou moins indépendamment ; Leibniz introduit à ce sujet un nouvel ensemble de notations, plus commodes que celles de Newton, et toujours en usage actuellement. Il travaille également sur le système binaire comme substitut au système décimal, s'inspirant notamment de vieux travaux chinois, et effectue aussi des recherches sur la topologie.
 Écrivant en permanence — principalement en latin, français et allemand —, il lègue un immense patrimoine littéraire — Nachlass en allemand —, répertorié dans le catalogue de l'édition de Berlin et conservé pour la plupart à la bibliothèque de Hanovre. Il est composé d'environ 50000 documents dont 15000 lettres avec plus de mille correspondants différents, et n'est toujours pas entièrement publié.
 
+Biographie :
+Jeunesse (1646-1667) :
 Premières années (1646-1661) :
 
 Gottfried Wilhelm Leibniz naît à Leipzig le 1 juillet 1646, deux ans avant la fin de la Guerre de Trente Ans qui a ravagé l'Europe centrale, dans une famille luthérienne, « sans doute d'ascendance slave lointaine ». Son père, Friedrich Leibnütz, est juriste et professeur de philosophie morale à l'université de la ville, sa mère, Catherina Schmuck, troisième épouse de Friedrich, est la fille du professeur de droit . Leibniz a un demi-frère, Johann Friedrich (mort en 1696), une demi-sœur, Anna Rosine, et une sœur, Anna Catherina (1648-1672) — dont le fils, Friedrich Simon Löffler, est l'héritier de Leibniz. Il est baptisé le 3 juillet 1646-.
@@ -21,8 +23,8 @@ Malgré sa scolarité reconnue et sa réputation croissante, le doctorat en droi
 Alors qu'il est encore peut-être étudiant à Altdorf, Leibniz obtient son premier emploi, plus solution provisoire que véritable ambition : secrétaire d'une société alchimique de Nuremberg (dont l'affiliation ou non à la Rose-Croix fait débat). Il occupera ce poste pendant deux ans. La nature exacte de son obédience est encore fort discutée par les historiens. Il parlera de son passage comme d'un « doux rêve » dès 1669, et sur le ton de la plaisanterie dans une lettre à Gottfried Thomasius de 1691. De son appartenance à cette société, il espérait probablement des renseignements sur sa combinatoire.
 
 Début de carrière (1667-1676) :
-
 Francfort et Mayence (1667-1672) :
+
 Quand il quitte Nuremberg, Leibniz ambitionne de voyager, au moins jusqu'en Hollande. Il rencontre peu après le baron Johann Christian von Boyneburg, ancien ministre en chef de l'électeur de Mayence Johann Philipp von Schönborn, qui l'emploie : en novembre 1667, Leibniz s'installe dans la ville de Boyneburg, Francfort-sur-le-Main, à proximité de Mayence. Rapidement, Boyneburg obtient pour Leibniz un poste d’assistant auprès du conseiller juridique de Schönborn, après que Leibniz ait dédié à Schönborn un essai sur la réforme du pouvoir judiciaire. Ainsi, en 1668, il déménage à Mayence. Cependant, continuant à travailler pour Boyneburg, il passe autant de temps à Francfort qu'à Mayence. Avec le conseiller juridique, il travaille sur le projet d'une grande recodification du droit civil. C'est dans cette optique qu'il compose son Nova methodus discendæ docendæque jurisprudentiæ dédié à l'électeur de Mayence, Jean-Philippe de Schönborn, dans l'espoir d'obtenir un poste à la cour. Il y présente le droit sous un angle philosophique. Deux règles fondamentales de jurisprudence y figurent : n'accepter aucun terme sans définition et n'accepter aucune proposition sans démonstration. En 1669, Leibniz est promu assesseur à la cour d'appel dont il fera partie jusqu'en 1672.
 Par ailleurs, Leibniz travaille sur plusieurs ouvrages concernant des thèmes politiques (Modèle de démonstrations politiques pour l’élection du roi de Pologne) ou scientifiques (Hypothesis physica nova (« Nouvelles Hypothèses physiques »), 1671).
 
@@ -33,8 +35,8 @@ Par deux fois, en 1673 et en 1676, Leibniz se rend à Londres où il rencontre l
 Leibniz, ayant entendu parler des compétences en optique de Baruch Spinoza, philosophe rationaliste comme lui, envoie à ce dernier un traité d'optique ; Spinoza lui envoya ensuite une copie de son Traité théologico-politique qui intéressa fortement Leibniz. Par ailleurs, par l'intermédiaire de son ami Ehrenfried Walther von Tschirnhaus, Leibniz est informé d'une grande partie des travaux de Spinoza sur l'Éthique (bien que Tschirnhaus ait interdiction d'en montrer une copie avancée).
 
 Hanovre (1676-1716) :
-
 Premières années à Hanovre (1676-1687) :
+
 Après la mort de ses deux employeurs, Boyneburg en 1672 puis Schönborn en 1673, Leibniz cherche à s'installer à Paris ou à Londres, mais, ne trouvant aucun employeur, il accepte finalement après deux ans d'hésitation la proposition du duc Jean-Frédéric de Brunswick-Calenberg, qui le nomme bibliothécaire du duché de Brunswick-Lunebourg (puis, à la suite des demandes de Leibniz dès février 1677, conseiller auprès de la maison de Hanovre en 1678), poste qu'il occupera pendant 40 ans, jusqu'à sa mort en 1716. Sur le chemin pour Hanovre, il fait étape à Londres, Amsterdam et La Haye, où il rencontre Spinoza, entre les 18 novembre- 1676- et 21 novembre 1676- qui vit alors les derniers mois de sa vie, atteint de tuberculose. Avec Spinoza, ils parlent de l'Éthique de ce dernier prête à la publication, de la physique cartésienne et de la version améliorée par Leibniz de l'argument ontologique sur l'existence de Dieu. Il y rencontre également les microscopistes Jan Swammerdam et Antoni van Leeuwenhoek, entrevues qui auront une grande influence sur la conception des animaux de Leibniz. Leibniz arrive finalement à Hanovre en décembre 1676 par la malle-poste. La ville est alors peuplée de 6500 habitants de la vieille ville et 2 000 dans la nouvelle ville, de part et d'autre de la Leine.
 En tant que bibliothécaire, Leibniz doit s'acquitter de tâches d'ordre pratique : administration générale de la bibliothèque, achat de nouveaux livres et de livres d'occasion, et inventaire des livres. En 1679, il doit gérer le transfert de la bibliothèque du palais de Herrenhausen à Hanovre même.
 Dans les années 1680 à 1686, il fait de nombreux voyages dans le Harz pour s'occuper de l'exploitation des mines. Leibniz a consacré l'équivalent de trois années au métier d'ingénieur des mines. Il s'occupa principalement de mettre au point des dispositifs d'extraction des eaux des mines grâce à des moulins à vent. Il entra en conflit avec les exploitants qui n'acceptaient pas ses nouvelles idées. Cela le conduisit à se poser des questions sur l'origine des fossiles, qu'il attribuait initialement à l'effet du hasard, mais dont il reconnut plus tard l'origine vivante. Son livre Protogæa ne sera publié qu'après sa mort, car les théories qu'il y développe sur l'histoire de la Terre pouvaient déplaire aux autorités religieuses.
@@ -81,8 +83,8 @@ On peut néanmoins noter deux éloges, se recoupant en partie car écrits d'apr�
 À la mort de Leibniz, Georges-Louis, craignant la révélation de secrets, confisque le patrimoine littéraire (Nachlass) de Leibniz, permettant ainsi sa préservation.
 
 Contexte de travail :
-
 Portrait :
+
 Leibniz a toute sa vie eu l'ambition impossible d'exceller dans tous les domaines intellectuels et politiques. Travailleur infatigable, il aimait la conversation, quoique lent à la répartie et peu éloquent, mais plus encore la lecture et la méditation solitaires, travailler la nuit ne le dérangeait pas. Il pouvait aussi bien rester à penser plusieurs jours sur la même chaise, que voyager à travers l'Europe par tous les temps.
 Leibniz dormait peu, souvent assis sur une chaise ; dès le réveil il reprenait ses travaux. Il mangeait beaucoup et buvait peu, prenait ses repas souvent seul, à heure irrégulière, en fonction de son travail.
 Son savoir était immense, si bien que Georg Ludwig disait de lui qu'il était son « dictionnaire vivant ». Il parlait le latin (la langue des savants, langue la plus commune au XVIIᵉ siècle) (40 %), le français (la langue de la cour en Allemagne) (30 %) et l'allemand (15 %), langues de la majeure partie de ses écrits, mais aussi l'anglais, l'italien, le néerlandais, l'hébreu et le grec ancien (il a traduit des ouvrages de Platon) et avait quelques notions de russe et de chinois.
@@ -143,8 +145,8 @@ Il est à noter que l'idée de classer les opuscules et ouvrages en fonction de 
 À l'inverse le classement de la correspondance par date est moins synthétique que celui de l'édition de C. I. Gerhardt, qui regroupe les lettres par correspondant et donne aussi leurs réponses (ce que ne fait pas l'édition complète).
 
 Principales œuvres :
-
 Philosophie :
+
 Souvent dépeint comme le dernier « génie universel », faisant partie des plus grands penseurs des XVIIᵉ et XVIIIᵉ siècles, Leibniz écrira sur des domaines extrêmement variés, et contribuera de manière importante à la métaphysique, à l'épistémologie, à la logique et à la philosophie de la religion, mais aussi hors du champ proprement philosophique, aux mathématiques, à la physique, à la géologie, à la jurisprudence et à l'histoire. Sa pensée n'est pas groupée au sein d'un magnum opus mais formée d'un ensemble considérable d'essais, de travaux non publiés et de lettres.
 Denis Diderot, qui pourtant s'oppose en de nombreux points aux conceptions de Leibniz, écrit à son sujet dans l'Encyclopédie : « peut-être jamais un homme n'a autant lu, étudié, médité et écrit que Leibniz ». Bernard Le Bouyer de Fontenelle dira lui que « pareil en quelque sorte aux Anciens qui avaient l'adresse de mener jusqu'à huit chevaux attelés de front, il mena de front toutes les sciences ».
 Leibniz est classé, avec René Descartes et Baruch Spinoza, comme l'un des principaux représentants du rationalisme, continental, du début de l'Époque moderne, par opposition aux trois principaux représentants de l'empirisme, britannique : John Locke, George Berkeley et David Hume.
@@ -258,8 +260,8 @@ Le principal ouvrage de Leibniz en la matière sont les Nouveaux Essais sur l'en
 Le philosophe anglais défend une position empiriste, selon laquelle toutes nos idées nous viennent de l’expérience. Leibniz, sous la forme d’un dialogue imaginaire entre Philalèthe, qui cite les passages du livre de Locke, et Théophile, qui lui oppose les arguments leibniziens, défend une position innéiste : certaines idées sont en notre esprit dès la naissance. Ce sont des idées qui sont constitutives de notre entendement même, comme celle de causalité. Les idées innées peuvent être activées par l'expérience, mais il a fallu pour cela qu’elles existent d’abord potentiellement dans notre entendement.
 
 Théologie philosophique :
-
 Existence et transcendance de Dieu :
+
 Leibniz s'est beaucoup intéressé à l'argument ontologique de l'existence de Dieu à partir des années 1670, et a échangé à ce sujet avec Baruch Spinoza. Il réfute l'argumentation de René Descartes dans la cinquième méditation des Méditations métaphysiques : Dieu a toutes les perfections, or l'existence est une perfection, donc Dieu existe. Pour Leibniz, il s'agit surtout de montrer que toutes les perfections sont compossibles, et que l'existence est une perfection. Leibniz montre la première prémisse dans son essai Quod ens perfectissimum existit (1676), et la seconde dans un autre court écrit de la même période.
 La démonstration de Leibniz, qui a des ressemblances avec la preuve ontologique de Gödel, établie par Kurt Gödel dans les années 1970 :
 # Dieu est un être ayant toutes les perfections (par définition) ;
@@ -331,8 +333,8 @@ Leibniz s’intéresse aux systèmes d’équations et pressent l’usage des d�
 Il tente aussi une incursion dans la théorie des graphes et la topologie (analysis situs).
 
 Autres travaux :
-
 Physique :
+
 Leibniz, comme de nombreux mathématiciens de son temps, était aussi physicien. Bien qu'il soit aujourd'hui connu pour sa métaphysique et sa théorie de l'optimisme, Leibniz s'est imposé comme une des principales figures de la révolution scientifique au même titre que Galilée, Descartes, Huygens, Hooke et Newton. Leibniz est devenu très tôt mécaniste, vers 1661, alors qu'il étudiait à Leipzig, comme il le relate dans une lettre à Nicolas Rémond. Cependant, une différence profonde le sépare d'Isaac Newton : si Newton considère que « la physique se garde de la métaphysique » et cherche à prévoir les phénomènes par sa physique, Leibniz cherche à découvrir l'essence cachée des choses et du monde, sans chercher à obtenir des calculs précis à propos de phénomènes quelconques. Il en est venu ainsi à reprocher à René Descartes et à Newton de ne pas savoir se passer d'un Deus ex machina (une raison divine cachée) dans leurs physiques, car celles-ci n'expliquaient pas tout ce qui est, ce qui est possible et ce qui n'est pas.
 Leibniz a inventé le concept d'énergie cinétique, sous le nom de « force vive ». Il s'oppose à l'idée de Descartes que la quantité mv (qu'on appelait à cette époque force motrice ou quantité de mouvement) se conservait dans les chocs, indépendamment des directions du mouvement.
 « Il se trouve par la raison et par l’expérience que c’est la force vive absolue [mv²] qui se conserve et nullement la quantité de mouvement. » — Gottfried Wilhelm Leibniz, Essai de dynamique (1691)
@@ -379,8 +381,8 @@ En 1672, Boyneburg l'envoya en mission diplomatique à Paris pour convaincre Lou
 Iréniste, Leibniz chercha la réunification des Églises chrétiennes catholiques et protestantes, ainsi que l'unification des branches du protestantisme que constituent le luthéranisme et Églises réformées. Il chercha autant de soutien que possible, en particulier parmi les puissants, conscient que s'il ne parvenait pas à impliquer le pape, l'empereur ou un prince régnant, ses chances de réussite resteraient maigres. Au cours de sa vie, il rédigea divers écrits défendant cette idée, notamment Systema theologicum, un ouvrage qui proposait la réunification du point de vue d'un catholique, qui ne fut publié qu'en 1845. Avec son ami l'évêque Cristóbal de Rojas y Spínola qui militait comme lui pour la réunification des confessions protestantes ils envisagèrent de favoriser une coalition diplomatique entre les électeurs de Brunswick-Lunebourg et de Saxe, face à l'empereur qui avait manifesté son opposition au projet de réunification religieuse.
 
 Droit :
-
 Technologie et ingénierie :
+
 Leibniz, en tant qu'ingénieur, a conçu de nombreuses inventions.
 Il conçoit une machine arithmétique capable de multiplier, et invente pour cela la mise en mémoire du multiplicande grâce à ses fameux cylindres cannelés, utilisés jusque dans les années 1960. Après avoir construit trois premiers modèles, il en construit un quatrième plus tard, en 1690, celui-ci ayant été retrouvé en 1894 à l'université de Göttingen et est maintenant conservé à la Bibliothèque Gottfried-Wilhelm-Leibniz à Hanovre.
 Par ailleurs, il fut un pionnier dans l'utilisation de l'énergie éolienne, tentant, sans succès, de remplacer les roues hydrauliques actionnées par pompe utilisées depuis longtemps en Allemagne, par des moulins à vent pour drainer les mines du Harz. Dans le domaine de l'industrie minière, il est également l'inventeur de la technique de la chaîne sans fin.
@@ -432,8 +434,8 @@ Aussi, Leibniz lui accorde un rôle subalterne, comparé aux autres disciplines.
 Dans ces conditions, selon Patriche Bailhache "les mathématiques, la philosophie, la religion sont des disciplines bien plus élevées en dignité que la musique, et même que la théorie de la musique (car cette théorie regarde un objet de valeur inférieure)".
 
 Postérité :
-
 Héritage, critiques et controverses :
+
 À sa mort, Leibniz ne jouit pas d'une bonne image. Il est en effet mêlé à une querelle de paternité concernant le calcul infinitésimal avec Isaac Newton : Newton et Leibniz avaient tous deux trouvé les techniques de calculs de dérivation et d'intégration. Leibniz publie le premier en 1684 alors que Newton ne publie qu'en 1711 des travaux qu'il aurait effectués près de 40 ans plus tôt, dans les années 1660-1670.
 Leibniz et son disciple Christian Wolff influenceront fortement Emmanuel Kant. Il n'est cependant pas clairement établi de quelle manière les idées leibniziennes influenceront les thèses kantiennes. Notamment, on ne sait pas vraiment si Kant, dans le commentaire qu'il fait des thèmes leibniziens, commente directement Leibniz ou ses héritiers.
 En 1765, la parution des Nouveaux Essais sur l'entendement humain offre pour la première fois un accès direct à la pensée leibnizienne, indépendamment de l'image transmise par Wolff. Cet événement a un effet décisif sur la philosophie de Kant et sur les Lumières allemandes (Aufklärung).

@@ -51,8 +51,8 @@ Sa vallée encaissée est un ruban de verdure et d'humidité à travers l'aride 
 Son régime hydrologique est dit pluvial océanique.
 
 Climat :
-
 La Somme à Abbeville :
+
 La Somme est un fleuve peu abondant mais généralement très régulier. Son débit a été observé durant une période de 46 ans (1962-2008), à Abbeville, ville située à peu de distance de son embouchure dans la Manche. La surface prise en compte est de 6550 km 2, soit la quasi-totalité du bassin versant du fleuve. Le module du fleuve à Abbeville est de 34,9 m^3/s.
 La Somme présente des fluctuations saisonnières de débit très peu marquées, comme c'est le cas de la plupart des cours d'eau voisins de Picardie (affluents de la rive droite de l'Oise par exemple). Les hautes eaux se déroulent en hiver et au début du printemps, et se caractérisent par des débits mensuels moyens oscillant entre 38,3 et 42.4 m^3/s, de janvier à mai inclus, avec un maximum fort léger en mars (42.7 m^3/s). Les basses eaux ont lieu en été, de fin juin à fin septembre, avec une baisse du débit moyen mensuel allant jusqu'à 26.9 m^3/s en septembre, ce qui reste très confortable. Dès le mois d'octobre, le débit remonte très doucement. Mais les fluctuations de débit sont plus prononcées selon les années.
 
@@ -74,8 +74,8 @@ Lame d'eau et débit spécifique :
 La Somme est cependant un fleuve côtier médiocrement abondant. La lame d'eau écoulée dans son bassin versant est de 199 millimètres annuellement, ce qui est largement inférieur à la moyenne d'ensemble de la France tous bassins confondus, ainsi qu'à la moyenne du bassin de l'Oise voisine par exemple (243 millimètres par an en fin de parcours). Le débit spécifique du fleuve (ou Qsp) atteint 6,3 litres par seconde et par kilomètre carré de bassin.
 
 Aménagements :
-
 Canal de la Somme :
+
 La construction du canal de la Somme débute en 1770 et s'achève en 1827, avant une mise au gabarit Freycinet en 1880. D'une longueur de 156 km ou 170 km selon le SANDRE et entrecoupé de 26 écluses, 4 ponts tournants et 3 pont-levis, le canal débute à Saint-Simon où il touche au canal de Saint-Quentin et débouche dans la baie de Somme. De Saint-Simon à l'écluse de Froissy (La Neuville-lès-Bray) le canal est latéral à la Somme ; entre Voyennes à Péronne, il se confond d'ailleurs avec un tronçon du Canal du Nord. De La Neuville-lès-Bray à Abbeville, le canal a été creusé dans le lit principal de la Somme au milieu d'un entrelac d'étangs, de marais et de dérivations qui l'alimentent ou lui servent de déversoirs. Quelques tronçons marginaux du fleuve subsistent toutefois lorsqu'un tracé plus direct du canal se justifie. Passé le canal de transit d'Abbeville, il s'élargit pour former le canal maritime d'Abbeville à Saint-Valery-sur Somme qui se jette dans la Manche au terme d'un parcours rectiligne.
 Aujourd'hui, le canal de la Somme n'est guère plus utilisé que pour la plaisance.
 
@@ -100,7 +100,7 @@ Plus récemment, d'autres méthodes de datation (dont l'ESR) ont été appliqué
 La Somme a une longue tradition d'utilisation en termes de ressource halieutique documentée au moins depuis le XIIᵉ siècle et elle a ensuite connu de nombreux soubresauts de l'histoire, dont de très violents combats durant la Première Guerre mondiale. Une grande partie de son cours a été inscrit en zone rouge (séquelles de guerre) après l'armistice et a demandé un travail de désobusage et de déminage qui n'est toujours pas terminé. En juin 1940, l'armée française tenta de constituer un front défensif (appelé "ligne Weygand" par la propagande allemande) débutant à l'embouchure de la Somme et suivant le cours de celle-ci, pour stopper l'attaque allemande prévisible après la fin des combats dans le Nord. L'attaque débuta le 5 juin ; la supériorité numérique allemande et le fait que les têtes de pont établies sur le fleuve par la Wehrmacht en mai n'avaient pas pu être réduites fit que, malgré une résistance de quelques jours, la ligne du fleuve fut franchie, prélude à la débâcle de l'armée française, désormais trop faible pour se rétablir plus au sud.
 
 Galerie :
-
 Bibliographie :
+
 * Francis Dallery (préface de Jacques Bourcart), Sur la Côte d'Opale : les rivages de la Somme - autrefois - aujourd'hui - demain , Mémoires de la Société d'émulation historique et littéraire d'Abbeville, tome IX, Éditions A. et J. Picard et Cie, Paris, 1955.
 * Pierre Antoine (thèse universitaire) : Les terrasses quaternaires du bassin de la somme. Étude géologique et géomorphologique. Contribution à la connaissance du paléoenvironnement des gisements paléolithiques. Thèse, Université des Sciences et Techniques de Lille Flandres-Artois, 1989 ; par Jean Sommé.

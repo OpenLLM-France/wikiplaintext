@@ -25,8 +25,8 @@ Le territoire irlandais se situe par 53° 20' 36" Nord, soit à peu près à la 
 Les frontières de l'État d'Irlande sont maritimes à l'exception de celle traversant l'île sur 500 km et séparant l'Irlande du Nord, membre du Royaume-Uni, de l'Irlande du Sud.
 
 Géologie :
-
 Topographie et hydrographie :
+
 La morphologie de l'île comprend une plaine centrale entourée de montagnes et de collines, particulièrement dans le Donegal et le Wicklow. Mais les sommets les plus hauts se trouvent au sud-ouest avec les Macgillycuddy's Reeks qui comprend le point culminant du pays, le Carrauntuohil avec ses 1038 mètres.
 Les paysages sont faits de tourbières, de lacs et de rivières. L'Irlande possède d'ailleurs dans la totalité de son cours, le plus long fleuve des îles Britanniques (appelées ici îles Anglo-Celtes) : le Shannon, qui parcourt 386 km du nord au sud-ouest avant de se jeter dans l'océan Atlantique. Deux autres cours d'eau sont également particulièrement importants : la Barrow et la Blackwater.
 Au sud-ouest, les falaises de Moher surplombent l'océan Atlantique. Non loin de là, les îles d'Aran font face à la baie de Galway. À l'est du pays, au nord de Dublin, le rivage est assez plat. Mais tout autour de l'île s'étendent de nombreuses plages de sable fin.
@@ -51,8 +51,8 @@ En décembre 2018, l'Irlande comptait 604 sites dont :
 La superficie totale est de 19 486 km2, ce qui représente 13,1 % de la surface terrestre et marine du territoire de l'Irlande.
 
 Géographie humaine :
-
 Transports :
+
 Cherbourg est devenu le premier port irlandais de France, tant en fret qu’en passagers, avec en moyenne et en tout, une douzaine de rotations chaque semaine et les statistiques montrent que plus d’Irlandais que de Français font la traversée, et surtout entre Pâques et la mi-octobre. Ainsi, Cherbourg concentre depuis 2023 environ 57 % du trafic maritime depuis la France. Les connexions se développent plus généralement sur les axes Cherbourg-Rosslare, Roscoff-Cork, Cherbourg-Dublin, Dunkerque-Rosslare.
 
 Histoire :
@@ -164,9 +164,11 @@ Ce « plan de sauvetage » sous la forme d'un emprunt de 85 milliards d'euros au
 La dette continue néanmoins d'augmenter, passant de 91,2 % du PIB en 2010 à 124,8 % (204,696 milliards d’euros) fin 2013, avec un dernier trimestre de cette même année en récession de 2,3 %. Elle diminue en 2014 et 2015, grâce à la forte croissance du PIB et à l'émission de reconnaissances de dette destinées à permettre aux banques en difficulté de se financer auprès de la Banque centrale irlandaise, le tout pour un montant de 31 milliards d’euros (soit environ 20 % du PIB). « Dans les faits, il s’agit d’une opération de monétisation de la dette. La Banque centrale a tout simplement créé 31 milliards d’euros sur un écran d’ordinateur », indique l’économiste Tom McDonnell. Une opération théoriquement illégale au sein de la zone euro.
 Malgré une forte reprise de l'activité économique en 2014 (avec un taux de croissance du PIB de 4,8 % en 2014), les mesures d'austérité continuent de fortement affecter la population. Un tiers de la population se trouve cette année-là en situation de « privation forcée », caractérisée par « l’insatisfaction de deux besoins de base, ou plus tels que la nourriture, le chauffage ou des vêtements adaptés pour l’hiver ».
 
+Énergie :
+Économie traditionnelle :
 Tourisme :
-
 Points touristiques principaux :
+
 Tous les comtés du pays développent leurs infrastructures afin d'attirer les touristes du monde entier. Les points touristiques principaux sont :
 * Connemara : ses lacs et ses collines ;
 * Îles d'Aran ;
@@ -193,8 +195,8 @@ La République d'Irlande dispose de quatre aéroports internationaux : Dublin, C
 Numérique :L'Irlande abrite les sièges européens d'un grand nombre de multinationales américaines du secteur du numérique (GAFAM), dans un quartier de Dublin appelé « Silicon Docks » en référence à la Silicon Valley et aux anciens docks de Dublin. Le régime fiscal de l'Irlande particulièrement avantageux pour les sociétés a ainsi attiré les géants du Web, ce qui a permis à l'Irlande, après la crise de 2008 particulièrement dure, de reprendre sa marche en avant. L'Irlande affiche ainsi un taux de croissance supérieur à 10 % sur la période 2014-2018 dont un incroyable +25 % en 2016.
 
 Population et société :
-
 Démographie :
+
 L'Irlande comptait 4757976 habitants d'après le recensement de 2016. La densité reste assez faible : avec 67,7 /km 2, elle est presque deux fois moindre que la moyenne de l'Union européenne, ensemble dont l'Irlande regroupe environ 1 % de la population.
 Le dynamisme démographique est relativement nouveau dans le pays. Il est dû à la relative jeunesse de la population, à un taux de natalité élevé pour l'Europe et surtout à une forte immigration. Il s'agit d'un phénomène assez nouveau : la croissance démographique n'a commencé que dans les années 1960. Auparavant, la région s'était fortement dépeuplée. Elle comptait 6,5 millions d'habitants en 1841, et passe à 5,1 millions en 1850 du fait d'une grande famine accompagnée d'une émigration massive. L'émigration s'est poursuivie pendant le XIXᵉ siècle et une bonne partie du XXᵉ siècle, et a fait plus que contrebalancer l'excédent naturel. La population a donc globalement continué à décroître jusque dans les années 1960 : 3,2 millions d'habitants en 1901 et 2,8 millions en 1961.
 À partir de cette date la population a crû de nouveau. Dans les années 1990, et plus encore les années 2000, la population immigrée a fortement augmenté. En 2011, 544357 non-nationaux vivaient en Irlande, soit une augmentation de 143 % par rapport au recensement de 2002. La plupart viennent d'Europe, du Royaume-Uni pour plus de la moitié, d'Europe de l'Est pour une part importante et en rapide augmentation.
@@ -238,8 +240,8 @@ Le budget de rénovation et de construction de logements sociaux est passé de 1
 Entre 2015 et 2018, le nombre de sans-abris a presque doublé chez les adultes (+ 95 %) et plus que triplé chez les enfants (+ 228 %).
 
 Culture :
-
 Fêtes et jours fériés :
+
 La saint Patrick est un événement que l'on fête le 17 mars.
 
 Littérature :
@@ -247,8 +249,8 @@ Littérature :
 Parmi les écrivains irlandais, on compte Jonathan Swift, Oscar Wilde, James Joyce, George Bernard Shaw, Samuel Beckett, William Butler Yeats, Eoin Colfer, John Millington Synge.
 
 Art :
-
 Musique :
+
 * Groupes de musique ou artistes : Gavin James, Hozier, Niall Horan, Rory Gallagher, U2, Thin Lizzy, Gary Moore,The Cranberries, The Pogues, Van Morrison, The Corrs, The Boomtown Rats, Sinéad O'Connor, Enya, Westlife, The Script, Flogging Molly, The Chieftains, The Dubliners, The Bothy Band, Planxty, Clannad, Boyzone, Jedward, Therapy?, Damien Rice, Primordial, Chris de Burgh,
 *Le pays participe au Concours Eurovision de la Chanson depuis 1965 et a remporté 7 fois le concours (1970, 1980, 1987, 1992, 1993, 1994 et 1996). L'Irlande est le pays ayant le plus de victoires au concours.
 
@@ -279,11 +281,9 @@ Cinéma :
 * Acteurs et actrices : Daniel Day-Lewis, Pierce Brosnan, Peter O'Toole, Jonathan Rhys-Meyers, Colin Farrell, Evanna Lynch, Fiona Shaw, Pauline McLynn, Devon Murray, Saoirse Ronan, Brendan Gleeson, Domhnall Gleeson, Maureen O'Hara, Richard Harris, Maureen O'Sullivan, Cillian Murphy, Aidan Turner, Stephen Rea, Gabriel Byrne, Colm Meaney, Michael Fassbender, Liam Cunningham, Stuart Townsend, Colin O'Donoghue, Allen Leech, Jamie Dornan, Jack Reynor, Aidan Gillen, Andrew Scott (acteur), Katie McGrath.
 
 Cuisine :
-
 Sport :
+
 Le football gaélique et le hurling sont les sports traditionnels de l'Irlande. Ce sont eux qui drainent le plus de pratiquants et de spectateurs. Ils sont administrés par la GAA sur une base transfrontalière sur toute l'île d'Irlande. Les autres sports gaéliques sont le handball gaélique et le rounders. De cette importance découle le suivi particulier du football australien et de l'International rules football né de la fusion des règles gaéliques et australiennes. La GAA est la propriétaire du plus grand stade d'Irlande, Croke Park, qui avec ses 82000 places est un des plus grands stades d'Europe.
 Le football, souvent appelé Soccer pour faire contraste avec le football (gaélique) est le troisième sport le plus populaire en Irlande. Même si le championnat d'Irlande de football est la compétition nationale, ce sont bel et bien les championnats anglais qui suscitent le plus grand engouement populaire dans le pays. La quasi-totalité des internationaux irlandais y jouent. Il est à noter que le championnat irlandais accueille dans ses rangs une équipe nord-irlandaise, le Derry City FC, exclu de son championnat national au moment des Troubles.
 Le rugby à XV vient ensuite en termes de notoriété. Il est organisé tant au niveau national qu'au niveau international sur une base trans-nationale : les clubs et l'équipe nationale ne connaissent pas la frontière entre l'État d'Irlande et l'Irlande du Nord. Bien qu'étant de notoriété bien moindre, le rugby à XIII est également pratiqué en Irlande, sa sélection nationale étant régulièrement qualifiée pour la coupe du monde.
 Du côté des personnalités sportives irlandaises en sports individuels, on peut retrouver le pratiquant d'art martiaux mixtes (MMA) Conor McGregor, et la catcheuse de la World Wrestling Entertainment (WWE) Becky Lynch.
-
-Codes :

@@ -7,42 +7,89 @@ __license__ = "GPLv3"
 import sys
 import os
 import re
+import shlex
 
 this_dir = os.path.dirname(os.path.realpath(__file__))
-
-input_dir = os.path.join(this_dir, "wikipedia_html")
-output_dir = os.path.join(this_dir, "wikipedia_html_cleaned")
 
 lib_dir = os.path.join(os.path.dirname(this_dir), "wikiplaintext")
 sys.path.append(lib_dir)
 
 from clean_html import clean_html
 
+def relative_filename(filename):
+    filename = os.path.sep.join(filename.split(os.path.sep)[-2:])
+    return shlex.quote(filename)
+
 if __name__ == "__main__":
 
     import argparse
 
     parser = argparse.ArgumentParser(description="Clean Wikipedia code")
-    parser.add_argument("--verbose", default=False, action="store_true")
+    parser.add_argument("IDs", default=None, nargs="*", help="Wikipedia page IDs to clean")
+    parser.add_argument("--from_dump", action="store_true", help="Only HTML from dump")
+    parser.add_argument("--from_api", action="store_true", help="Only HTML from Wikipedia API")
     args = parser.parse_args()
 
-    for file_in in sorted(os.listdir(input_dir)):
-        if not re.match("\d", file_in):
-            continue
+    for input_dir, output_dir in [
+        # ("tmp/wikipedia_dumphtml", "tmp/wikipedia_dumphtml_cleaned"),
+        ("wikipedia_dumphtml_redirect", "SHOULD_NOT_OCCUR"),
+        ("wikipedia_dumphtml", "wikipedia_dumphtml_cleaned"),
+        ("wikipedia_html", "wikipedia_html_cleaned"),
+    ]:
+        
+        input_dir = os.path.join(this_dir, input_dir)
+        output_dir = os.path.join(this_dir, output_dir)
 
-        # if not re.match("1004_", file_in):
-        #     continue
+        for file_in in sorted(os.listdir(input_dir)):
+            if not re.match("\d", file_in):
+                continue
 
-        file_in = os.path.join(input_dir, file_in)
-        file_out = os.path.join(output_dir, os.path.splitext(os.path.basename(file_in))[0] + ".txt")
+            is_redirection = "redirect" in input_dir
+            format_from_dump = "dump" in input_dir
 
-        print("Processing...", os.path.basename(file_in))
-        with open(file_in, "r") as f:
-            text = clean_html(f,
-                language="fr",
-                verbose=args.verbose,
+            if args.IDs and not max([bool(re.match(prefix, file_in)) for prefix in args.IDs]):
+                continue
+
+            if args.from_dump and not format_from_dump:
+                continue
+            if args.from_api and format_from_dump:
+                continue
+
+            # if not is_redirection:
+            #     continue
+            # if not re.match("1004_", file_in): # Esperanto
+            #     continue
+            # if not re.match("37047_", file_in) and not re.match("1157_", file_in): # Math & chemical -> good for challenging superscript/subscript
+            #     continue
+            # if not re.match("10049_", file_in): # Leonard de Vinci -> good for challenging citations
+            #     continue
+
+            _, pagename = file_in.split("_", 1)
+            pagename = os.path.splitext(pagename)[0].replace("_", " ")
+
+            file_in = os.path.join(input_dir, file_in)
+            file_out = os.path.join(output_dir, os.path.splitext(os.path.basename(file_in))[0] + ".txt")
+
+            print("Processing...",
+                relative_filename(file_in),
+                "\n------------>",
+                relative_filename(file_out),
             )
+            with open(file_in, "r") as f:
+                text = clean_html(f.read(),
+                    language="fr",
+                    # verbose=args.verbose,
+                    add_title=pagename,
+                )
 
-        if not os.path.isdir(output_dir):
-            os.makedirs(output_dir)
-        print(text, file = open(file_out, "w"))
+            if is_redirection:
+                assert text == "", f"Unexpected result parsed:\n{text}"
+            else:
+                assert text != "", f"Unexpected empty result"
+
+            if text:
+                if not os.path.isdir(output_dir):
+                    os.makedirs(output_dir)
+                print(text, file = open(file_out, "w"))
+            elif os.path.isfile(file_out):
+                os.remove(file_out)

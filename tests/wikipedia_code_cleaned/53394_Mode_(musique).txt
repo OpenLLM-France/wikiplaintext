@@ -78,8 +78,8 @@ La gamme mineure mélodique a été utilisée bien avant le grand retour des mod
 Ce mode peut être interprété aussi comme une altération du mode de la (mineur naturel) au niveau de ses 6ᵉ et 7ᵉ degrés. Cette forme modale se distingue du mineur mélodique traditionnel, en ce que ses 6ᵉ et 7ᵉ degrés sont fixes et ne sont pas tenus par la règle classique de mouvement obligé entre ces deux degrés. Et il peut être utilisé aussi bien de façon ascendante que descendante. Une catégorie de modes modernes altérés se construit à partir du modèle de sa forme ascendante.
 
 Structure :
-
 Utilisations :
+
 La gamme mineure mélodique était utilisée bien avant l'usage des modes. Mais l'usage moderne de la forme ascendante en tant que mode à part entière a été pratiqué au début du XXᵉ siècle notamment par Fauré. Le mode majeur-mixte (dit mixolydien 6) en classique a aussi été utilisé, notamment par Gabriel Fauré (exemple « Ce sera par un clair jour d'été » - La bonne chanson) et on en trouve même des exemples précoces dans l'histoire de la musique chez Schubert. Debussy utilise le mode acoustique (dit « lydien dominant ») notamment dans la Mer. Mais c'est certainement Béla Bartók qui en a fait l'usage le plus notoire. D'où le fait qu'on lui ait souvent donné le nom de mode de Bartók.
 Dans le jazz, cette forme de l'échelle et les modes déduits de celle-ci sont couramment utilisés à partir de la fin des années 1950. Hormis dans les styles dit progressifs, ces modes sont rarement utilisés dans le rock et le heavy metal.
 
@@ -135,6 +135,8 @@ Exemple sur do :
 Intervalles : 1/2 ton - 3/2 tons - 1/2 ton - 1 ton - 1/2 ton - 1 ton - 1 ton
 Proche du mode de mi, dans la musique traditionnelle, le mode andalou se caractérise par la mobilité de son 3ᵉ degré pour éviter la seconde augmentée, mais jouant sur l'expression de son renversement la septième diminuée particulièrement dans un mouvement mélodique descendant. Plus rarement le 7ᵉ degré peut passer de sous-tonique (à distance de seconde majeure de la tonique), à sensible (à un demi-ton). On retrouve par exemple le mode andalou dans le ballet L'Amour sorcier de Manuel de Falla ou dans le deuxième thème du Boléro de Maurice Ravel. Il est (enharmoniquement) équivalent au mode phrygien 3 (également appelé phrygien dominant ou phrygien majeur) décrit plus haut, constituant le 5ᵉ mode de la gamme mineure harmonique.
 
+Modes indiens :
+Melakarta :
 Vāchaspati :
 
 Le raga Vāchaspati en musique carnatique indienne utilise la même échelle qu'un mode mixolydien dont le quatrième degré serait augmenté.
@@ -182,8 +184,8 @@ Exemple : do mi fa fa la si do
 Intervalles : 3/2 tons - 1 ton - 1/2 ton - 3/2 ton - 1 ton - 1/2 ton
 
 Modes artificiels à transposition limitée :
-
 Gamme par ton :
+
 La gamme par ton est une gamme ou tous les intervalles sont de 1 ton.
 Exemple sur do :
 Indépendamment de toute enharmonie, il n'existe que deux transpositions de la gamme par tons.

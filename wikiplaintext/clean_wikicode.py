@@ -6,7 +6,8 @@ import os
 import regex as re
 import wikitextparser
 
-from clean_common import final_clean, _ignore_from_section
+from clean_common import final_clean, _ignore_from_section, END_HEADER
+from clean_common import to_superscript, to_subscript
 
 def clean_wikicode(
     text,
@@ -222,7 +223,7 @@ def clean_wikicode(
 
         text = remove_emoji(text)
 
-        return final_clean(text)
+        return final_clean(text, from_wikicode=True)
 
     except (Exception, KeyboardInterrupt) as err:
         raise RuntimeError(f"Failed to process {orig}") from err
@@ -267,8 +268,7 @@ def remove_line_breaks(text):
 
 def remove_wiki_headers(text, keep_headers):
     if keep_headers:
-        # Note : important to use unbreakable spaces
-        return re.sub(r"={2,}\s+([^=]*)\s+={2,}", r"\1\u00A0:", text)
+        return re.sub(r"={2,}\s+([^=]*)\s+={2,}", r"\1"+END_HEADER, text)
     return re.sub(r"={2,}\s+[^=]*\s+={2,}", "", text)
 
 
@@ -585,7 +585,7 @@ def process_template_fr(match, orig=None):
             output = (number + " " + " ".join(fields[2:])).strip()
 
         elif len(fields) == 1 and re.match("^[er]+ *$", first):  # {{e}}
-            output = to_exp(fields[0])
+            output = to_superscript(fields[0])
 
         elif first in ["n°"] or first.startswith("numéro"):
             output = "n° " + "-".join(fields[1:]).strip()
@@ -595,10 +595,10 @@ def process_template_fr(match, orig=None):
 
         # {{exp|XXX}} -> ^XXX / {{ind|K}} -> _XXX
         elif first in ["exp", "exposant"]:
-            output = " ".join([to_exp(x) for x in fields[1:]]).strip()
+            output = " ".join([to_superscript(x) for x in fields[1:]]).strip()
 
         elif first in ["ind"]:  # {{ind|K}} -> _XXX
-            output = " ".join([to_ind(x) for x in fields[1:]]).strip()
+            output = " ".join([to_subscript(x) for x in fields[1:]]).strip()
 
         elif len(fields) == 1 and re.match("\d+$", first):
             nfirst = "CARDINAL:"+str(len(fields))
@@ -614,7 +614,7 @@ def process_template_fr(match, orig=None):
                 output = "√"
             else:
                 if len(fields) == 3:
-                    prefix = to_exp(fields[2].replace("n=", ""))
+                    prefix = to_superscript(fields[2].replace("n=", ""))
                 elif len(fields) == 2:
                     prefix = ""
                 else:
@@ -634,7 +634,7 @@ def process_template_fr(match, orig=None):
             if len(fields) == 2:
                 fields = [fields[0], "1"] + fields[1:]
             if output is None:
-                output = to_exp(fields[1]) + "⁄" + to_ind(fields[2])
+                output = to_superscript(fields[1]) + "⁄" + to_subscript(fields[2])
 
         elif first in ["fchim", "formule chimique"]:
             nfirst = "fchim:"+str(len(fields) % 2)
@@ -1105,7 +1105,7 @@ def to_chemical_formula(formula):
             if (i+offset) % 2 == 0:
                 new_e += x
             else:
-                new_e += to_ind(x)
+                new_e += to_subscript(x)
             previous_offset = i
         formula += new_e
     return formula
@@ -1229,7 +1229,7 @@ def format_unit_fields(f):
 
 def format_unit_field(f):
     if f.startswith("e="):
-        return " × 10" + to_exp(f.split("=", 1)[1])
+        return " × 10" + to_superscript(f.split("=", 1)[1])
     # Transform floating numbers, and "à="
     return f.replace(".", ",").replace("=", " ")
 
@@ -1373,217 +1373,11 @@ def to_ieme(d):
     if len(d) > 1:
         return "".join([to_ieme(x) for x in d])
     if d in ["e", "r"]:
-        return to_exp(d)
+        return to_superscript(d)
     if d in ["è", "m"]:
         return ""
     if d in ["°", "o"]:
         return "ᵒ"
-    return d
-
-
-def to_exp(d):
-    if len(d) > 1:
-        return "".join([to_exp(x) for x in d])
-    if d == "1":
-        return "¹"
-    if d == "2":
-        return "²"
-    if d == "3":
-        return "³"
-    if d == "4":
-        return "⁴"
-    if d == "5":
-        return "⁵"
-    if d == "6":
-        return "⁶"
-    if d == "7":
-        return "⁷"
-    if d == "8":
-        return "⁸"
-    if d == "9":
-        return "⁹"
-    if d == "0":
-        return "⁰"
-    if d == "a":
-        return "ᵃ"
-    if d == "b":
-        return "ᵇ"
-    if d == "c":
-        return "ᶜ"
-    if d == "d":
-        return "ᵈ"
-    if d == "e":
-        return "ᵉ"
-    if d == "f":
-        return "ᶠ"
-    if d == "g":
-        return "ᵍ"
-    if d == "h":
-        return "ʰ"
-    if d == "i":
-        return "ⁱ"
-    if d == "j":
-        return "ʲ"
-    if d == "k":
-        return "ᵏ"
-    if d == "l":
-        return "ˡ"
-    if d == "m":
-        return "ᵐ"
-    if d == "n":
-        return "ⁿ"
-    if d == "o":
-        return "ᵒ"
-    if d == "p":
-        return "ᵖ"
-    # if d == "q": return "q"
-    if d == "r":
-        return "ʳ"
-    if d == "s":
-        return "ˢ"
-    if d == "t":
-        return "ᵗ"
-    if d == "u":
-        return "ᵘ"
-    if d == "v":
-        return "ᵛ"
-    if d == "w":
-        return "ʷ"
-    if d == "x":
-        return "ˣ"
-    if d == "y":
-        return "ʸ"
-    if d == "z":
-        return "ᶻ"
-    if d == "A":
-        return "ᴬ"
-    if d == "B":
-        return "ᴮ"
-    # if d == "C": return "ᶜ"
-    if d == "D":
-        return "ᴰ"
-    if d == "E":
-        return "ᴱ"
-    if d == "G":
-        return "ᴳ"
-    if d == "H":
-        return "ᴴ"
-    if d == "I":
-        return "ᴵ"
-    if d == "J":
-        return "ᴶ"
-    if d == "K":
-        return "ᴷ"
-    if d == "L":
-        return "ᴸ"
-    if d == "M":
-        return "ᴹ"
-    if d == "N":
-        return "ᴺ"
-    if d == "O":
-        return "ᴼ"
-    if d == "P":
-        return "ᴾ"
-    # if d == "Q": return "Q"
-    if d == "R":
-        return "ᴿ"
-    # if d == "S": return "ˢ"
-    if d == "T":
-        return "ᵀ"
-    if d == "U":
-        return "ᵁ"
-    if d == "V":
-        return "ⱽ"
-    if d == "W":
-        return "ᵂ"
-    # if d == "X": return "ᵡ"
-    # if d == "Y": return "ʸ"
-    if d == "Z":
-        return "ᙆ"
-    if d == "+":
-        return "⁺"
-    if d == "-":
-        return "⁻"
-    if d == "=":
-        return "⁼"
-    if d == "(":
-        return "⁽"
-    if d == ")":
-        return "⁾"
-    if d == ".":
-        return "˙"
-    return d
-
-
-def to_ind(d):
-    if len(d) > 1:
-        return "".join([to_ind(x) for x in d])
-    if d == "1":
-        return "₁"
-    if d == "2":
-        return "₂"
-    if d == "3":
-        return "₃"
-    if d == "4":
-        return "₄"
-    if d == "5":
-        return "₅"
-    if d == "6":
-        return "₆"
-    if d == "7":
-        return "₇"
-    if d == "8":
-        return "₈"
-    if d == "9":
-        return "₉"
-    if d == "0":
-        return "₀"
-    if d == "a":
-        return "ₐ"
-    if d == "e":
-        return "ₑ"
-    if d == "h":
-        return "ₕ"
-    if d == "i":
-        return "ᵢ"
-    if d == "j":
-        return "ⱼ"
-    if d == "k":
-        return "ₖ"
-    if d == "l":
-        return "ₗ"
-    if d == "m":
-        return "ₘ"
-    if d == "n":
-        return "ₙ"
-    if d == "o":
-        return "ₒ"
-    if d == "p":
-        return "ₚ"
-    if d == "r":
-        return "ᵣ"
-    if d == "s":
-        return "ₛ"
-    if d == "t":
-        return "ₜ"
-    if d == "u":
-        return "ᵤ"
-    if d == "v":
-        return "ᵥ"
-    if d == "y":
-        return "ᵧ"
-    if d == "x":
-        return "ₓ"
-    if d == "+":
-        return "₊"
-    if d == "-":
-        return "₋"
-    if d == "=":
-        return "₌"
-    if d == "(":
-        return "₍"
-    if d == ")":
-        return "₎"
     return d
 
 

@@ -1,6 +1,8 @@
 L’océan Indien, autrefois appelé océan Oriental ou mer des Indes, est un océan qui s’étend sur une surface de 70560000 km 2, soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au nord par la péninsule Arabique, l'Iran, le Pakistan, l’Inde, le Bangladesh, la Birmanie et la Thaïlande ; à l'est par l’Indonésie (îles de Sumatra, Java, Bali, Sumbawa, Sumba, Timor, la Nouvelle-Guinée occidentale), le détroit de Torrès et l’Australie ; le méridien 146° 55' de longitude est frontalier de l'océan Pacifique ; au sud par le continent Antarctique, à
 l’ouest par le méridien 20° de longitude est, qui le sépare de l'océan Atlantique, enfin par l'Afrique.
 
+Géographie :
+Géographie physique :
 Localisation et limites :
 
 L'océan Indien se situe entre l'Afrique, les îles Laquedives, les Maldives, le Sri-Lanka, les îles Andaman-et-Nicobar, les îles de la Sonde méridionales jusqu'aux îles de Rote et Boa et l'Australie. Bien que ses eaux baignent au sud l'Antarctique glacé, la plupart de ses eaux sont tropicales, dotées de récifs coralliens et d'atolls. C'est le plus chaud des océans. Sa chaleur génère de nombreuses tempêtes tropicales pendant les mois d'été. Son code d'enregistrement numérique auprès de l’Organisation hydrographique internationale est « B », et son identification dans Limite des océans et des mers est « 45 »; son nom français dans la nomenclature des espaces maritimes du Conseil national de l'information géolocalisée est « Océan Indien ».
@@ -37,8 +39,8 @@ Les espaces maritimes subordonnés à l'océan Indien se situent à sa périphé
 * Détroit de Bass
 
 Volume :
-
 Profondeur :
+
 La profondeur de l’océan Indien atteint les 7187 m dans la fosse de Java (son point le plus profond enregistré jusqu’à aujourd’hui).
 
 Géologie :
@@ -130,6 +132,8 @@ Géopolitique :
 
 L'atoll de Diego Garcia en plein cœur de l'océan Indien est une possession britannique louée aux États-Unis en tant que base militaire. En raison de sa position stratégique, elle permet à ces derniers d'avoir une surveillance active et une possibilité d'intervention rapide vers les zones à risque en Afrique (Somalie), au Moyen-Orient ou en Asie (Indonésie).
 
+Environnement :
+Faune et Flore :
 Problèmes environnementaux :
 
 Des débris plastiques de provenance mondiale polluent l'ensemble des océans ; concernant l'océan Indien, ils proviennent notamment d'Asie. Chaque année, 600000 tonnes de déchets plastiques sont déversés dans l'océan. Bien que relativement sporadique, un vortex de déchets est présent dans l'océan Indien.

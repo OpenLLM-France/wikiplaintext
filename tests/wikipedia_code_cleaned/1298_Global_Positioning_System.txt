@@ -124,8 +124,8 @@ Le deuxième facteur de perturbation est l'ionosphère. Cette couche ionisée pa
 En 2017, seize années de données de perturbation du systèmes GPS par le rayonnement solaire, enregistrées par une constellation de vingt-trois satellites, ont été ouvertes aux scientifiques de la météorologie par le Laboratoire national de Los Alamos (Nouveau-Mexique).
 
 Amélioration locale du calcul :
-
 DGPS :
+
 Le GPS différentiel (Differential global positioning system : DGPS) permet d'améliorer la précision du GPS en réduisant la marge d'erreur du système.
 
 SBAS :
@@ -134,8 +134,8 @@ Des systèmes complémentaires d'amélioration de la précision et de l'intégri
 D'autres pays préparent le déploiement d'un système SBAS : le SDCM pour la fédération de Russie, le BDSBAS pour la Chine et le K-SBAS pour la Corée du Sud.
 
 Conversion des informations obtenues :
-
 Positionnement :
+
 Les coordonnées terrestre du récepteur sont calculées dans un repère cartésien géocentrique à trois axes (X,Y,Z) qui a pour origine le centre de gravité des masses terrestres (système dit système géodésique). Pour que ces coordonnées soient facilement exploitables, il faut les convertir en coordonnées géographiques (latitude, longitude, altitude), système très largement utilisé en représentation cartographique.
 C'est le post-traitement du récepteur GPS qui effectue cette conversion en utilisant par défaut le système géodésique WGS 84 (World Geodetic System 84). Ce système, le plus utilisé dans le monde, constitue une référence répondant aux objectifs du système mondial de navigation. L'altitude n'est pas toujours directement exploitable, du fait de l'écart entre la hauteur ellipsoïdale calculé dans le système géodésique WGS 84 et l'altitude géodésique. Cette variation peut atteindre localement plusieurs dizaines de mètres. Les récepteurs les plus élaborés disposent de modèles de correction géodésique, et indiquent une altitude similaire à celle des cartes. Les coordonnées obtenues peuvent être exprimées dans d'autres systèmes géodésiques, propres par exemple à une région ou un pays, ou dans un autre système de projection cartographique. En France, le système de référence est encore souvent la NTF, bien que le système géodésique officiel soit désormais le RGF93, qui diffère très peu du WGS 84.
 
@@ -159,8 +159,8 @@ Historiquement, en 1977, lors de la première mise en orbite d'une horloge atomi
 Ce décalage est depuis pris en compte dans toutes les horloges atomiques des satellites GPS sous différentes formes. Pour les horloges au césium, la correction est réalisée au sol avant la mise en orbite. Le cas des horloges atomiques au rubidium est plus complexe, car elles peuvent subir des sauts de fréquence imprédictibles pendant le lancement. La fréquence est mesurée une fois en orbite, mais elle n'est plus corrigée directement : les corrections nécessaires sont incluses dans le message de navigation. D'autres effets relativistes existent dans le GPS. Certains sont négligeables au vu de la précision recherchée pour les applications de positionnement, d'autres doivent être pris en compte : par exemple, les récepteurs GPS corrigent l'effet Sagnac dû à la rotation de la Terre.
 
 Inconvénients du GPS :
-
 Dépendance stratégique :
+
 Le GPS est un système conçu par et pour l'armée des États-Unis et sous son contrôle. Le signal pourrait être dégradé, occasionnant ainsi une perte importante de sa précision, si le gouvernement des États-Unis le désirait. C'est un des arguments en faveur de la mise en place du système européen Galileo qui est, lui, civil et dont la précision théorique est supérieure. La qualité du signal du GPS a été dégradée volontairement par les États-Unis jusqu'au mois de mai 2000, la précision d'un GPS en mode autonome était alors d'environ 100 mètres. Depuis l'arrêt de ce brouillage volontaire, supprimé par le président Bill Clinton, la précision est de l'ordre de 5 à 15 mètres.
 Le système GPS est fréquemment utilisé pour la synchronisation de l'heure entre les différents composants des réseaux de téléphonie mobile GSM, UMTS et LTE ; les conséquences d'une dégradation du signal se répercuterait sur une infrastructure critique.
 
@@ -187,8 +187,8 @@ Réinitialisation de la Numérotation du calendrier GPS :
 WNRO ou GPS week number rollover (en français Réinitialisation de la Numérotation du calendrier GPS) provoque l'obsolescence des logiciels usant du système américain, à cause de la remise à zéro de la référence temps toutes les 1024 semaines (dû à la limitation du comptage interne de satellites) ; le dernier a eu lieu le 6 avril 2019 et invalide par conséquent les matériels devenus absents des mises à jour des constructeurs.
 
 Confiance exagérée dans ses performances :
-
 Autres systèmes de positionnement par satellites :
+
 Il existe d'autres systèmes de positionnement par satellite, sans atteindre cependant la couverture ou la précision du GPS :
 * GLONASS est le système russe, qui est de nouveau pleinement opérationnel depuis décembre 2011 ;
 * Beidou est le système de positionnement créé par la république populaire de Chine ; il est opérationnel uniquement sur le territoire chinois et les régions limitrophes (il utilise des satellites géostationnaires, au nombre de quatre actuellement) ; son successeur Compass sera global et atteindra une précision de 10 cm au sol ;

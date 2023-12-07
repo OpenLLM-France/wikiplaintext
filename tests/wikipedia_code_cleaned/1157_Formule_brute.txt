@@ -24,8 +24,8 @@ L'écriture des formules chimiques est désormais gérée par l'IUPAC dans sa pu
 Les différents types de formules sont utiles pour compléter la représentation des espèces chimiques au-delà de la seule composition globale. Le corps simple soufre par exemple, de formule empirique S, est constitué de molécules regroupant 8 atomes, ce que précise la formule moléculaire S₈. Les formules structurales, comme Ca₃(PO₄)₂ pour le phosphate de calcium, indiquent comment sont organisés les atomes au sein de l'espèce chimique, au contraire de la formule brute (Ca₃P₂O₈ dans cet exemple).
 
 Formules empiriques :
-
 Définition :
+
 La formule empirique d'un corps est formée de la juxtaposition des symboles atomiques avec les indices appropriés (entiers) qui permettent l'écriture la plus simple de la formule donnant la composition chimique. L'ordre d'apparition des symboles est l'ordre alphabétique, sauf dans le cas des composés contenant du carbone, pour lesquels C et H sont cités en premier et en second, respectivement.
 
 Exemples :
@@ -50,8 +50,8 @@ La formule moléculaire donne le nombre des atomes qui composent une molécule. 
 Les atomes constituant la molécule sont indiqués à l'aide de leurs symboles chimiques. Leur nombre est précisé en indice de chaque symbole. L'ordre recommandé est l'ordre alphabétique des symboles à une exception : le carbone et l'hydrogène des produits organiques sont toujours cités en premier et dans cet ordre, puis suivis des autres atomes par ordre alphabétique.
 
 Exemples :
-
 Composés organiques :
+
 Le propane comporte trois atomes de carbone (noté C) et huit atomes d'hydrogène (noté H), il possède la formule brute suivante : C₃H₈.
 * Le méthane : CH₄
 ** 1 atome de carbone C
@@ -117,21 +117,21 @@ Pour un composé binaire, l'ordre est celui de l'électronégativité au sens du
 * NaCl (et non ClNa)
 * H₂O, mais NH₃, à cause de la place de H dans le tableau ci-dessus
 * OF₂
-* P₂O₇⁴−
-* OCl− (et non ClO− comme c'est souvent rencontré)
+* P₂O₇⁴⁻
+* OCl⁻ (et non ClO⁻ comme c'est souvent rencontré)
 
 Composés de coordination :
 
 Les composés de coordination ou les composés à atome central s'écrivent en commençant par l'atome central suivi des ligands par ordre alphabétique du symbole ou de l'abréviation du ligand. Par exemple :
 * PBrCl₂
-* PtCl₂(NH₃)₍ₚᵧ)
+* PtCl₂(NH₃)₍ₚy)
 * [CoF₂NH₂CH₂CH₂NH₂(NH₃)₂]⁺ ou [Co(en)F₂(NH₃)₂]⁺
 À noter que dans ce dernier exemple, le changement de la formule du ligand éthylènediamine par son abréviation change l'ordre d'apparition des ligands dans la formule.
 
 Composés en chaînes :
 
 Les composés dont les atomes forment une chaine sont écrits dans l'ordre (chimique) de la chaîne. Par exemple :
-* l'ion thiocyanate s'écrit SCN− et non CNS− qui serait l'ordre d'électronégativité au sens ci-dessus ou l'ordre alphabétique car sa formule développée est S=C=N− ;
+* l'ion thiocyanate s'écrit SCN⁻ et non CNS⁻ qui serait l'ordre d'électronégativité au sens ci-dessus ou l'ordre alphabétique car sa formule développée est S=C=N⁻ ;
 * l'acide isocyanique s'écrit HNCO car sa formule développée est H-N=C=O.
 
 Sels et composés assimilés :
@@ -178,9 +178,9 @@ Certains marqueurs informent sur le nombre d'oxydation, sur la stéréochimie, e
 Nombre d'oxydation :
 
 Le nombre d'oxydation d'un élément dans une formule peut être indiqué par un exposant, à droite du symbole, en chiffre romain (sauf pour le nombre d'oxydation zéro indiqué par 0). Si le même élément possède plusieurs nombres d'oxydation dans la même formule, il est répété, chacun avec son nombre d'oxydation. Par exemple :
-* [Pⱽ₂Mo₁₈O₆₂]⁶−
+* [Pⱽ₂Mo₁₈O₆₂]⁶⁻
 * K[Osⱽᴵᴵᴵ(N)O₃]
-* [Moⱽ₂Moⱽᴵ₄O₁₈]²−
+* [Moⱽ₂Moⱽᴵ₄O₁₈]²⁻
 
 Radicaux libres :
 
@@ -193,7 +193,7 @@ Exemples :
 * HO•
 * NO₂•
 * O₂²•
-* NO⁽²•⁾–
+* NO⁽²•⁾⁻
 
 Composés optiquement actifs :
 

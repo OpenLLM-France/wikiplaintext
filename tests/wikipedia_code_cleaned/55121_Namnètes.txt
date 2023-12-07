@@ -10,8 +10,8 @@ Le plus grand alignement mégalithique d'Europe est l'alignement du Pilier (ou d
 Enfin, on a des références textuelles non littéraires, notamment sur la Table de Peutinger : « portunamnetu » ; probablement dans la Notitia dignitatum (début Vᵉ siècle) « praefectus militum superventorum Mannatias » ; dans la Notitia Galliarum (id). : « civitas Namnetum ».
 
 Le nom des Namnètes :
-
 Origines :
+
 Les Namnètes étaient une tribu secondaire, située au nord de la Loire et dépendante des puissants Vénètes, qui contrôlaient le débouché de la Loire et le commerce de l'étain avec les îles britanniques (port de Corbilo, encore mal situé, dans la zone de la Grande Brière, encore zone de mer à l'époque).
 Les Namnètes n'acquerront de territoire distinct qu'après la conquête de la Gaule par César. Leur territoire sera constitué de la moitié est de celui des Vénètes, sur la rive droite de la Loire, et sera inclus dans la province "Lyonnaise IIIème".
 
@@ -31,8 +31,8 @@ En ce qui concerne Ptolémée, la distorsion est plus importante : il situe les 
 Cette anomalie pourrait s'expliquer comme suit : Ptomélée, comme d'autres auteurs anciens dont Denys le Périégète, emprunte des informations au géographe Artémidore, dont la description correspond à la situation du IIᵉ siècle avant J.-C., époque où les migrations celtes n'étaient pas achevées et où les Namnètes n'étaient peut-être pas encore arrivés près de l'estuaire de la Loire.
 
 Histoire :
-
 L'arrivée des Namnètes :
+
 Les Namnètes apparaissent dans l'histoire lors de la guerre des Gaules ; ils occupent leur territoire au plus tôt au Vᵉ siècle avant J.-C., date de l'arrivée des Celtes en Gaule. Mais selon l'interprétation donnée ci-dessus au texte de Ptolémée, leur présence dans le Pays nantais pourrait ne remonter qu'à la fin du IIᵉ siècle avant J.-C. ou au début du Iᵉʳ siècle avant J.-C., quelques décennies seulement avant la conquête romaine.
 
 La période celtique :
@@ -49,8 +49,8 @@ Dans sa Guerre des Gaules, Jules César indique qu'au printemps -56, les Namnèt
 Après la victoire définitive de César, le peuple des Namnètes est considéré comme ennemi par les Romains et subit un certain nombre de rétorsions, au profit des Pictons, leurs alliés. Ceux-ci reçoivent le contrôle de la rive sud de la Loire où ils vont promouvoir le port et la ville de Ratiatum (Rezé), attestée comme ville dès le règne d'Auguste.
 
 La période gallo-romaine :
-
 Statut et vie politiques :
+
 Dans le cadre de la domination romaine de la Gaule, le peuple des Namnètes devient la cité des Namnètes (civitas Namnetum), qui relève d'abord de la province de la Gaule lyonnaise dont le chef-lieu est Lyon, ville qui est en même temps la métropole des trois Gaules (Belgique, Lyonnaise, Aquitaine), la Narbonnaise restant à part. Chaque année, un représentant de la cité des Namnètes se rendait à Lyon pour participer au Conseil des Gaules, assemblée d'abord religieuse, mais aussi politique, qui avait lieu le 1ᵉʳ août.
 Sur le plan du statut politique, la cité des Namnètes, comme la plupart des cités des Trois Gaules, est soumise au contrôle étroit du gouverneur de la province. Ses membres sont, à titre individuel, des pérégrine, c'est-à-dire des sujets libres, susceptibles de devenir des citoyens romains. Cette situation dure jusqu'à l'édit de Caracalla (212), qui donne la citoyenneté romaine à tous les hommes libres de l'Empire. Sur le plan fiscal, c'est une cité stipendiaire, soumise au tribut.
 La cité des Namnètes semble être restée soumise lors de la révolte de Sacrovir en 20-21, mouvement qui a pourtant touché les cités des Andécaves et des Turons.
@@ -66,17 +66,19 @@ Le Bas-Empire :
 À partir du IIIᵉ siècle, en conséquence des troubles qui agitent l'Empire romain, Nantes est dotée de remparts et prend plus d'importance que Rezé ; au IVᵉ siècle elle est le pôle de la christianisation et la création d'un évêché indique sa prééminence.
 
 Économie et monnayage namnète :
-
 Économie :
+
 La Loire marque une frontière géographique entre le territoire des Namnètes au Nord et celui des Pictons au Sud. Ces deux territoires, pourtant voisins et séparés par le fleuve, sont marqués par un usage différent de la monnaie. En territoire namnète, l'or ne circule pas et fait l'objet d'une thésaurisation, notamment dans les campagnes. C'est une valeur refuge et les monnaies divisionnaires sont rares. Les métaux dont les gisements sont situés en territoire namnète sont payés en or par les Romains mais cet or ne semble pas réutilisé par les Namnètes pour acquérir de biens de consommation romains.
 
+Monnayage :
+Découvertes archéologiques :
 La stèle de Worms :
 
 La stèle de Worms, découverte en 1666 à l'occasion de travaux de réfection des remparts, témoigne du plus ancien Namnète identifié nominativement. Il s'agit de Argiotalus, fils de Smertulitanus, cavalier des forces auxiliaires romaines, dans la première moitié du Iᵉʳ siècle, mort âgé de 30 ans après dix ans de service. L'Ala indiana, unité d'Argiotalus, faisait partie de la Legio XIV Gemina, basée à Mayence ; on sait que cette légion est intervenue contre les Andécaves lors de la révolte de Julius Sacrovir et il est envisageable qu'Argiotalus s'y soit engagé à ce moment, donc vers 20, soit à titre personnel, soit au titre de la cité des Namnètes. Par ailleurs, cette légion a été transférée en Bretagne en 43 ; donc Argiotalus, inhumé à Worms est mort au plus tard en 43, et au plus tôt en 30, puisqu'il a effectué dix ans de service, total d'ailleurs insuffisant pour obtenir la citoyenneté romaine, celle-ci n'étant accordée qu'au terme de 25 ans de service militaire.
 
 La stèle de Dampierre :
-
 Dans la culture populaire :
+
 * Jean Burnat, dans Le vengeur de Vercingétorix, met en scène un chef Namnète imaginaire, Dumnac.
 
 Bibliographie :

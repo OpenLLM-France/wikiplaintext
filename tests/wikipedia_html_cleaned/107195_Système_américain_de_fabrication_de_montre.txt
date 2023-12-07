@@ -1,20 +1,17 @@
-Le système américain de fabrication de montre est un ensemble de techniques et bonnes pratiques de fabrication de montre en horlogerie inspiré du système américain de fabrication (en) développé au XIXe siècle.
+# Système américain de fabrication de montre :
+
+Le système américain de fabrication de montre est un ensemble de techniques et bonnes pratiques de fabrication de montre en horlogerie inspiré du système américain de fabrication (en) développé au XIXᵉ siècle.
 Aaron Lufkin Dennison fut inspiré par les techniques de production de la manufacture d'armes de Springfield, Massachusetts, États-Unis. Les principes de fabrication étaient basés principalement sur un système strict d'organisation, l'utilisation intensive de machines-outils et un système élaboré de contrôles en cours de production basé sur des jauges.
 Ce système, qui avait pour but d'obtenir une haute précision dans la production des parties détachées, afin que celles-ci soient parfaitement interchangeables. C'était une révolution par rapport aux standards de l'époque existant dans le reste du monde, soit ne produire qu'une certaine pièce sous son propre toit, obtenir d'autres parties détachées, payées à la pièce par des ouvriers à domicile, acheter les autres pièces selon l'offre du marché.
 Le nouveau système nécessitait d'établir des lieux de production adéquat sous un même contrôle pour l'ensemble des parties à manufacturer et à assembler. Tout devait être produit non selon les plans, idées et contrôles disparates d'ouvriers travaillant séparément, mais sous la supervision directe de contremaîtres de l'entreprise, avec des contrôles précis effectués selon les jauges fournies par la compagnie, soumis aux prescriptions horaires, de propreté, de précision et de soins prescrits par la compagnie.
 Au monde, il n'existait probablement pas d'autre challenge industriel, pas d'autre système de production exigeant un niveau de compétence en affaires et en technique aussi élevé, une volonté dans la poursuite de la recherche l'excellence, dans l'attention au moindre détail le plus infime et dans la persévérance pour leur mise au point finale, que la manufacture de montre de haute précision.
 Waltham découvrit très vite qu'il était nécessaire d'inventer, de développer et de construire ses propres machines-outils, ses propres jauges spécialement adaptées et ajustées aux dimensions des pièces les plus minuscules constitutives d'un mouvement de montre. Il fallut également inventer de nouveaux alliages et de nouveaux matériaux.
-
 La chronologie de l'apprentissage des nouvelles méthodes de production à Waltham Watch Company peut être divisée en trois phases :
-
 * 1849-1857 : apprendre et expérimenter
 * 1858-1870 : affiner les méthodes et les jauges
 * 1871-1910 : automatisation et organisation de la production
 
-Source :
+# Système américain de fabrication de montre :
+## Source :
 
 * (en) Donald Robert Hoke et Bruce Chandler, The Time Museum historical catalogue of American pocket watches, Rockford, Illinois, Time Museum, 1991, 330 p. (ISBN 978-0-912947-04-4, OCLC 24952068).
-
-Articles connexes :
-
-* Établissage

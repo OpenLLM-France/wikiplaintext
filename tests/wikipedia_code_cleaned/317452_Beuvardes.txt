@@ -1,14 +1,14 @@
 Beuvardes est une commune française située dans le département de l'Aisne, en région Hauts-de-France.
 
 Géographie :
-
 Localisation :
+
 Beuvardes est un village périurbain du Tardenois dans l'Aisne, desservi par l'ancienne route nationale 367 (actuelle RD 967) qui le relie à Château-Thierry, situé à 12 km à vol d'oiseau au sud-ouest du village. Villers-Cotterêts est à 31 km au nord-ouest, Soissons à 29 km plus au nord, Reims à 41 kmau nord-est et Épernay à 36 km à l'est.
 Le sud du territoire communal est traversé par l'Autoroute A4 (France) et la LGV Est européenne
 
 Communes limitrophes :
-
 Hydrographie :
+
 Le Ru du Pont-Foirier draine le territoire communal. Il s'agit d'un affluent de l'Ordrimouille, et donc d'un sous-affluent de la Seine par la Marne.
 Sa source est située aux alentours de Beuvardes et elle est alimentée par la la nappe phréatique du toit des marnes du Bartonien supérieur.
 
@@ -20,8 +20,8 @@ Avec le changement climatique, ces variables ont évolué. Une étude réalisée
 Sur la station météorologique historique la plus proche, « Saint-Quentin », sur la commune de Fontaine-lès-Clercs, mise en service en 1933 et à 76 km, la température moyenne annuelle évolue de 10 °C pour la période 1971-2000 à 10.3 °C pour 1981-2010, puis à 10.8 °C pour 1991-2020.
 
 Urbanisme :
-
 Typologie :
+
 Beuvardes est une commune rurale. Elle fait en effet partie des communes peu ou très peu denses, au sens de la grille communale de densité de l'Insee.
 Par ailleurs la commune fait partie de l'aire d'attraction de Château-Thierry, dont elle est une commune de la couronne. Cette aire, qui regroupe 52 communes, est catégorisée dans les aires de moins de 50000 habitants.
 
@@ -41,8 +41,8 @@ Beuvardes, à son origine, n'était composé que de Beuves ou isolées, établie
 Beuvardelle, hameau de la commune, est à l'origine une petite Beuve (ferme).
 
 Histoire :
-
 Ancien Régime :
+
 Avant la Révolution française, Beuvardes possédait une fondation de 300 livres de rentes pour ses pauvres.
 Circonscriptions d'Ancien Régime :
 La paroisse relevait de l'intendance de Soissons, des bailliage et élection de Château-Thierry, ainsi que du diocèse de Soissons.
@@ -51,9 +51,11 @@ La paroisse relevait de l'intendance de Soissons, des bailliage et élection de 
 
 Durant la Première Guerre mondiale, le village subit des destructions et a été décoré de la Croix de guerre 1914-1918, le 22 octobre 1920.
 
+Politique et administration :
+Administration municipale :
 Rattachements administratifs et électoraux :
-
 Rattachements administratifs :
+
 La commune se trouve depuis 1942 dans l'arrondissement de Château-Thierry du département de l'Aisne.
 Elle faisait partie depuis 1801 du canton de Fère-en-Tardenois. Dans le cadre du redécoupage cantonal de 2014 en France, cette circonscription administrative territoriale a disparu, et le canton n'est plus qu'une circonscription électorale.
 
@@ -67,9 +69,11 @@ Intercommunalité :
 Beuvardes était membre de la communauté de communes du Tardenois, un établissement public de coopération intercommunale (EPCI) à fiscalité propre créé en 2001 et auquel la commune avait transféré un certain nombre de ses compétences, dans les conditions déterminées par le code général des collectivités territoriales.
 Dans le cadre des dispositions de la loi portant nouvelle organisation territoriale de la République du 7 août 2015, qui prévoit que les établissements publics de coopération intercommunale (EPCI) à fiscalité propre doivent avoir un minimum de 15000 habitants, cette intercommunalité a fusionné avec sa voisine pour former, le 1er janvier 2017, la communauté d'agglomération de la Région de Château-Thierry dont est désormais membre la commune.
 
+Liste des maires :
+Démographie :
 Culture locale et patrimoine :
-
 Lieux et monuments :
+
 * Église Saint-Martin
 * À la ferme d'Artois se trouve un des arbres remarquables, un chêne de 700 ans.
 * Fontaine avec la statue de saint Martin.
@@ -81,11 +85,7 @@ Personnalités liées à la commune :
 * Prudent Prudent-Dervillers (1849-1896), maître tailleur, communard, ancien député, fondateurs du Parti ouvrier y est né.
 
 Pour approfondir :
-
 Bibliographie :
+
 *, sur Gallica.
 *, sur Gallica.
-
-Articles connexes :
-
-* Liste des communes de l'Aisne

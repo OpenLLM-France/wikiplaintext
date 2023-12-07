@@ -6,8 +6,8 @@ Le canton est un homonyme de Glaris, son chef-lieu. Le premier nom connu du cant
 Le gentilé du canton de Glaris est Glaronnais, avec sa forme féminine Glaronnaise. En allemand, le gentilé est Glarner et sa forme féminine est Glarnerin.
 
 Histoire :
-
 Préhistoire et protohistoire :
+
 Les premières preuves de la présence d’humains dans le canton actuel de Glaris datent de l’âge du bronze (entre le XIIIᵉ siècle av. J.-C. et le IXᵉ siècle av. J.-C.). Des ossements humains et des noms de lieu toujours usités prouvent la présence de colonies celtiques (IIIᵉ siècle av. J.-C.). Le nom de la rivière Linth a pour origine le mot celtique Linta qui signifie le serpent ou le dragon.
 
 Période romaine :
@@ -42,8 +42,8 @@ La géographie du canton contribue à l'établissement d'ardoisières au XVIIᵉ
 En 2014, le secteur primaire employait environ 5 % des travailleurs glaronais (le total pour la Suisse est de 3,3 %). En 2008, sur ces 5 %, près des trois quarts d'entre eux travaillent dans la production laitière et l'élevage de bétail. En 2014, le secteur secondaire employait 8322 personnes, soit environ 38,2 % du total, ce qui est bien plus élevé que les 21,8 % pour l'ensemble du pays. Parmi ceux du secteur secondaire, plus d'un quart travaillait dans le secteur de la construction. Pour finir, le secteur tertiaire employait 12366 personnes, soit environ 56,8 % du total, ce qui est inférieur de près de 18 % aux 74,9 % du pays. Parmi les travailleurs du secteur tertiaire, 11,72 % travaillent dans des magasins de détail et 10,37 % dans le secteur de la santé.
 
 Géographie :
-
 Généralités :
+
 Le canton de Glaris est dominé par la vallée de la Linth et s'étend jusqu'au lac de Walenstadt, au nord-ouest jusque Bilten et au nord-est jusqu'au col de Kerenzerberg. La majeure partie de la région est montagneuse et d'importants dénivelés caractérisent le paysage.
 Le canton de Glaris culmine au Tödi, à 3614 mètres d'altitude, et son point le plus bas se trouve au bord du canal de la Linth, à 410 m d'altitude. La superficie du canton de km2 (qui fait de Glaris le dixième plus petit canton suisse)CH-BS correspond approximativement au bassin versant de la Linth. Les imposants travaux de correction de la Linth débutés en 1807 inscrivent dans le paysage la marque de l'intervention des hommes. Avant cette correction, la Linth s’écoulait nonchalamment vers le lac de Zurich formant des zones de plus en plus marécageuses.
 La vallée Sernftal nommée aussi Kleintal est la seule vallée latérale occupée par des villages. La vallée de Klöntal est la vallée latérale la plus étendue et est, comme Carl Spitteler le vantait, avec son lac « si belle comme aucun rêve ne le laisserait deviner ».
@@ -53,8 +53,8 @@ Climat :
 Les différences de relief déterminent le climat du canton. Au sud du lac de Walenstadt règne un climat tempéré avec une végétation spécifique du sud de l'Europe lorsqu'aux sommets du massif glaciaire sévissent les rudes conditions météorologiques des hautes Alpes. Les températures du canton sont de plus sous l'influence du foehn qui, soufflant au travers de la vallée, fait parfois monter les températures à des niveaux records. Les montagnes enclavent le canton et la vallée ne s'ouvre que vers le nord.
 
 Politique et administration :
-
 Organisation politique :
+
 Glaris est l'un des deux cantons suisses (avec Appenzell Rhodes-Intérieures) à maintenir la Landsgemeinde, réunion annuelle des membres de l'assemblée primaire des citoyens afin de voter les modifications de lois proposées par le Conseil d'État et les différentes commissions.
 Depuis la Landsgemeinde du 6 mai 2007, Glaris est le premier canton suisse à introduire le vote dès 16 ans au niveau cantonal.
 Il est le seul canton suisse (état en 2022) à limiter à l'âge de 65 ans, par une disposition constitutionnelle dont la première version est adoptée en 1988 par la Landsgemeinde, l'exercice des fonctions de conseiller d'État, de président de tribunal et de député au Conseil des États.
@@ -67,8 +67,8 @@ Le canton de Glaris n'est pas divisé en districts. À la suite d'une votation p
 * Glaris Sud ( habitants).
 
 Population et société :
-
 Démographie :
+
 Au CH-GL, le canton de Glaris compte {{population suisse CH-GL Canton de Glaris}}habitants, soit {{Pourcent population suisse par canton|CH-GL|ofs=CH-GL}} % de la population totale de la Suisse. Seuls trois cantons sont moins peuplés (Obwald, Uri et Appenzell Rhodes-Intérieures). Sa densité de population atteint hab/km2, nettement inférieure à la moyenne suisseCH-GL.
 
 Langues :
@@ -81,8 +81,8 @@ Un peu moins de la moitié de la population du canton revendique l'appartenance 
 Note : les intitulés des religions sont ceux donnés par l'Office fédéral de la statistique ; les protestants comprennent les communautés néo-apostoliques et les témoins de Jéhovah ; la catégorie « Autres » inclut les personnes ne se prononçant pas.
 
 Culture :
-
 Emblèmes :
+
 Le canton de Glaris a pour emblèmes un drapeau et un blason. Les armoiries de Glaris se blasonnent : De gueules au missionnaire Fridolin au naturel vêtu de sable, la tête de face nimbée d’or, tenant de la dextre un bourdon et de la senestre un livre, eux aussi d’or.
 Le blason du canton de Glaris est le seul de Suisse représentant un personnage : Saint Fridolin avec la bible sous le bras et son bâton de prédicateur.
 La légende veut que Saint Fridolin ait été un moine évangélisateur irlandais du début du VIᵉ siècle qui convertit Glaris au christianisme. Dans les représentations ecclésiastiques, il est accompagné d’un squelette. La légende dit que Saint Fridolin reçut en cadeau une grande partie du pays de Glaris au décès du riche Ursus, mais que son frère Landolf refusa de voir l'héritage paternel ainsi cédé. Lors du procès, Ursus apparut à son frère Landolf qui fut si épouvanté et honteux qu’il offrit sa part de Glaris à Saint Fridolin. De cette façon, Glaris devint propriété du monastère de Säckingen en Allemagne du Sud et Saint Fridolin, le saint patron protecteur des captations d'héritage.

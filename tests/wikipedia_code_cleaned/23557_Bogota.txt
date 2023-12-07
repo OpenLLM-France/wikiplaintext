@@ -22,8 +22,8 @@ Après avoir obtenu son indépendance en 1819, Santa Fe reçut derechef le nom i
 La constitution de 1991 a indirectement changé le nom de la capitale qui devint Santa Fe de Bogota. La polémique engendrée par ce changement a conduit à la réforme constitutionnelle du 18 août 2000 afin de supprimer les mots « Santa Fe de », lui redonnant finalement le nom de Bogota.
 
 Histoire :
-
 Époque précolombienne :
+
 À partir de 10500 avant J.-C., des chasseurs-cueilleurs habitèrent la zone. Dès 3500 avant J.-C., on remarque l'existence d'activités horticoles, de poterie et de la domestication du cochon d'Inde, pratiquées par des groupes qui, à l'origine, dépendaient de la chasse et de la cueillette. En 500 avant J.-C., la culture du maïs et celle de la pomme de terre étaient déjà largement répandues. Jusqu'en l'an 800 de notre ère, les Muiscas (la peuplade indigène la plus importante de la famille chibcha) vivaient dans la zone, résultat d'une migration d'origine chibcha, provenant d'autres territoires (probablement d'Amérique centrale), qui s'était mélangée avec la population déjà présente.
 Il manquait à la culture chibcha l'écriture. C'est pourquoi les chroniqueurs ont reconstitué l'histoire aborigène en recueillant des récits oraux qui remontent à 1470, date à laquelle le zipa Saguanmachica gouvernait Bogota. Tout en haut de l'échelle sociale se trouvait le monarque absolu (le zipa), suivi par l'ordre religieux des sages et des moines. Ensuite venaient les guerriers (ou güechas), puis les artisans, les commerçants, les paysans, etc.
 On pense que les Chibchas ont peut-être eu coutume de sacrifier des jeunes filles capturées lors des guerres ou achetées à d'autres tribus. Il n'en existe toutefois aucune preuve solide ou vérifiable. Ils ont élaboré un calendrier d'une grande précision et une structure juridique complexe, connue sous le nom de « Code de Nemequene ». En outre, les monuments chibchas furent érigés avec des matériaux périssables, ce qui ne les empêcha pas de rester debout après l'arrivée des conquistadors européens.
@@ -57,8 +57,8 @@ Divers évènements se sont déroulés dans le cadre du conflit armé en Colombi
 À partir du premier mandat du mathématicien et philosophe Antanas Mockus en tant que maire en 1995, la ville a subi d'importants changements. Au développement du système de transports en commun TransMilenio s'ajoutent la récupération d'espaces piétonniers, la construction de bibliothèques publiques et d'un réseau de pistes cyclables. On peut y ajouter l'implémentation de projets comme le Pico y placa, un programme de restrictions véhiculaires, la Hora zanahoria, une réglementation des heures de fermeture des débits de boissons, et d'autres programmes sociaux comprenant la création de restaurants communautaires et l'augmentation de la couverture éducative pour les familles ayant de bas revenus.
 
 Géographie :
-
 Géographie physique :
+
 Bogota se trouve à une altitude de 2640 m, dans la cordillère Orientale des montagnes du nord des Andes. Elle est située sur un plateau, au pied d'une chaîne de montagnes.
 Les cerros (français : collines) de Guadalupe et de Monserrate bordent à l'est la savane de Bogota. Sur le cerro de Guadalupe sont érigées une petite chapelle dédiée à Notre-Dame de Guadalupe et une statue de 15 m de haut. Sur le cerro de Monserrate est construite une basilique, la basílica del Señor de Monserrate.
 Plusieurs petits cours d'eau, dont le río San Francisco, traversent la ville jusqu'à l'extrémité sud-ouest du plateau et rejoignent le río Bogotá, également appelé río Funza, qui plonge au bord du plateau, à Tequendama, dans l'une des plus importantes attractions touristiques de Bogota : une magnifique chute d'eau de 132 m, le Salto del Tequendama cité plus haut.
@@ -103,8 +103,8 @@ La ville est divisée en vingt districts : Usaquén, Chapinero, Santa Fe, San Cr
 Chacun de ces vingt districts est régi par un conseil d'administration - élu par vote populaire - composé d'au moins sept membres. Le maire de Bogota désigne les maires des localités parmi les candidats proposés par le conseil d'administration.
 
 Politique et administration du District :
-
 Création du District :
+
 Le District fédéral de Bogota (espagnol : Distrito Federal de Bogotá), créé en 1861 par le général Tomás Cipriano de Mosquera lors de son deuxième mandat de président de la Colombie, fut la première entité administrative de la capitale et le siège du gouvernement fédéral des États-Unis de Colombie. Le district comprenait les zones comprises entre les ríos Arzobispo au nord, Fucha au sud, Bogotá à l'ouest et les cerros Orientales à l'est. Cependant, il fut supprimé le 23 juillet 1863 et son territoire incorporé à l'État souverain de Cundinamarca.
 En 1905 fut créé le district capital de Bogota par le partage du département de Cundinamarca en trois : le Distrito Capital et les départements de Cundinamarca (capitale : Facatativá) et de Quesada (capitale : Zipaquirá). Les trois entités furent supprimées par la loi 65 du 14 décembre 1909, qui prit effet le 1 mai 1910 et le département de Cundinamarca retrouva alors le territoire qui était le sien avant 1905.
 Par décret législatif du 17 décembre 1954, le général Gustavo Rojas Pinilla, président de la Colombie de 1953 à 1957, créa le District spécial de Bogota (espagnol : Distrito Especial de Bogotá) et les municipalités de Bosa, Engativá, Fontibón, Suba, Usme et Usaquén furent annexées. Le territoire de Sumapaz, annexé en 1955, donna au district son extension finale.
@@ -124,8 +124,8 @@ Le maire de Bogota (Alcalde Mayor) est le chef de gouvernement et représentant 
 La maire de Bogota est Claudia López depuis le 1 janvier 2020.
 
 Démographie :
-
 Population :
+
 En 2023, la population est de 11 508 000 habitants.
 La ville a le plus faible taux d'analphabétisme du pays avec seulement 3,4 % parmi la population âgée de plus de 5 ans.
 Historiquement, la population de Bogota n'a pas connu une croissance importante avant le XXᵉ siècle, lorsqu'elle avait environ 100000 habitants. Mais les années 1940, 1960 et 1970 ont vu les hausses les plus importantes de la population. Ces hausses étaient disproportionnées par rapport aux ressources disponibles de la ville, principalement celles ayant trait aux transports, aux services publics et aux possibilités d'emploi.
@@ -177,8 +177,8 @@ Bogota est divisée en six strates socio-économiques :
 * Strate 6 (la plus élevée)
 
 Infrastructures :
-
 Transports :
+
 La croissance de Bogota a mis à rude épreuve les routes et les autoroutes de l'agglomération, mais, durant les années 2000, des efforts importants ont été entrepris pour améliorer l'infrastructure. Même si le nombre de véhicules par habitant demeure faible, les voitures constituent une part importante de la congestion du trafic, s'ajoutant à celle engendrée par les taxis, les autobus et les véhicules utilitaires.
 Les bus restent le principal moyen de transport en commun. Il existe deux systèmes de bus : le système traditionnel et le TransMilenio. Le système traditionnel, exploité par plusieurs compagnies, offre une grande variété de types de bus : Bus (grands bus), Buseta (autobus de taille moyenne) et Colectivo (camionnettes ou fourgonnettes).
 Bogota est un hub pour les bus effectuant des trajets à l'intérieur du pays et ceux destinés aux trajets internationaux. Le terminal de bus de Bogota, le plus grand du pays, dessert la plupart des villes colombiennes. En dehors des trajets intérieurs, le terminal permet également d'effectuer des trajets vers le Venezuela, l'Équateur ou le Pérou.
@@ -218,8 +218,8 @@ Existent aussi diverses banques du sang, de tissus et de cellules souches.
 Concernant le tourisme, la vaccination contre la fièvre jaune est recommandée aux personnes voyageant dans la région des Llanos. L'eau courante est considérée comme potable à Bogota et dans les plus grandes villes de la Colombie mais les contaminations virales ou parasitaires sont assez fréquentes. Le mal des montagnes est parfois éprouvé par des personnes sujettes aux maladies cardiaques ou respiratoires.
 
 Éducation :
-
 Les collèges et universités :
+
 Bogota possède un vaste réseau d'enseignement : écoles primaires et secondaires, collèges. En raison de la constante migration dans la capitale du pays, les quotas relatifs à l'accès à l'éducation gratuite, offerte par l'État, sont souvent insuffisants. La ville possède également un système diversifié d'écoles et de collèges privés.
 Il existe un certain nombre d'universités, tant publiques que privées. En 2002, il y avait un total de 106 établissements d'enseignement supérieur. Parmi les universités de Bogota, certaines sont partiellement ou totalement accréditées par le Conseil national d'accréditation (CCN) : l'université nationale de Colombie qui est la plus vaste et la plus importante du pays, l'université des Andes (université privée), l'université pontificale Javeriana fondée par les Jésuites et dont les grades universitaires furent reconnus en 1623, l'université du Rosaire, l'université Externado de Colombie, l'université militaire Nueva Granada, l'université d'Amérique, l'université Sergio Arboleda, l'université Jorge Tadeo Lozano, l'université catholique de Colombie, l'université Saint Thomas d'Aquin et l'université La Salle.
 L'université nationale de Colombie abrite une cité universitaire, un campus situé dans le Teusaquillo, secteur traditionnel. C'est le plus vaste campus de Colombie et l'un des plus importants de l'Amérique latine. Le district de La Candelaria est le foyer de la plus grande concentration d'universités privées en Amérique latine.

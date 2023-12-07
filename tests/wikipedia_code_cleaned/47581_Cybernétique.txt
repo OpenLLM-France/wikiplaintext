@@ -7,8 +7,8 @@ Histoire du mouvement :
 Le terme cybernétique fut popularisé en 1948 par le mathématicien Norbert Wiener dans son ouvrage fondateur de la discipline Cybernetics, or Control and Communication in the Animal and the Machine ; ce domaine sera désigné ultérieurement comme « la science des analogies maîtrisées entre organismes et machines ».
 
 Bases :
-
 Étymologie :
+
 Platon utilisait le terme « κυβερνητική » (grec kubernêtikê, de kubernân, gouverner) pour désigner le pilotage d'un navire. Les termes « gouverne », « gouvernail », « gouvernement » ou encore « gouverneur » partagent cette étymologie commune avec le terme « cybernétique ».
 Le terme cybernétique apparaît en 1834 dans la classification des sciences proposée par André-Marie Ampère (physicien et fondateur de l'électrodynamique, 1775-1836) et désigne « la science du gouvernement des hommes ».
 Il s'agit ici d'une utilisation politique de la même base étymologique, dont Norbert Wiener déclarera ne pas avoir eu connaissance lorsqu'il a utilisé le terme cybernétique pour la première fois en 1947. Wiener déclare avoir fait dériver le mot cybernétique « du mot grec kubernetes, ou pilote, le même mot grec dont nous faisons en fin de compte notre mot gouverneur ».
@@ -31,8 +31,8 @@ La cybernétique est aussi une suite de la phénoménologie, en tant qu'elle aus
 Dès 1938, la thèse de Louis Couffignal L'analyse mécanique, application aux machines à calculer et à la mécanique céleste, et plus tard son étude des systèmes nerveux avec Louis Lapicque, dénotent un développement en parallèle des principes de la future cybernétique.
 
 Premier mouvement cybernétique :
-
 Rencontres scientifiques :
+
 La première cybernétique s'établit dans le cadre des conférences Macy qui réunissent entre 1942 et 1953 un groupe interdisciplinaire de mathématiciens, logiciens, anthropologues, psychologues et économistes qui s'étaient donné pour objectif d'édifier une science générale du fonctionnement de l'esprit. Parmi les participants les plus illustres, on trouve le neurophysiologiste Arturo Rosenblueth, les mathématiciens John von Neumann et Norbert Wiener, l'ingénieur Julian Bigelow, le neurophysiologiste Warren McCulloch, le logicien Walter Pitts, le psychanalyste Lawrence Kubie et les anthropologues Gregory Bateson et Margaret Mead. Ce qui rapproche les différents participants est leur intérêt commun pour les mécanismes de causalité circulaire (notamment le concept de feedback) qu'ils étudient dans leurs disciplines respectives.
 À la suite de la première conférence de 1942 sont publiés en 1943 les deux articles fondateurs de la cybernétique : « Behavior, Purpose and Teleology », dans lequel Arturo Rosenblueth, Norbert Wiener et Julian Bigelow étudient les modèles d'organisation sous-jacents aux comportements finalisés, et « A Logical Calculus of Ideas Immanent in Nervous Activity », dans lequel Warren McCulloch et Walter Pitts étudient les modèles d'organisation sous-jacents à la perception.
 En 1947, Wiener est invité à un congrès d'analyse harmonique à Nancy, organisé par Szolem Mandelbrojt, l'oncle du célèbre mathématicien Benoît Mandelbrot. Lors de ce congrès, auquel participe notamment Louis Couffignal, on lui propose d'écrire une caractérisation unifiée du mouvement brownien (processus stochastique, aussi appelé « processus de Wiener »). Il décide à son retour d'introduire le néologisme cybernétique dans sa théorisation scientifique. En 1948, Wiener définit la cybernétique comme une science qui étudie exclusivement les communications et leurs régulations dans les systèmes naturels et artificiels.
@@ -68,8 +68,8 @@ Dans la cybernétique de deuxième ordre, qui prend forme avec Heinz von Foerste
 Pour W. Ross Ashby, « la cybernétique se situe comme une approche indépendante de la nature des éléments qu'elle étudie ».
 
 Développements ultérieurs et champs d'influence :
-
 Cybernétique et systémique :
+
 L'implication de la cybernétique dans la systémique est historiquement plus liée au « deuxième mouvement cybernétique ». En effet, si selon Norbert Wiener la cybernétique étudie exclusivement les échanges d'information (car c'est « ce qui dirige » les logiques des éléments communicants, d'où le mot cybernétique), dans son évolution, qui engendrera la systémique, on réintègre les caractéristiques des composantes du système, et on reconsidère les échanges d'énergie et de matière indépendamment des échanges d'information.
 Pourtant, au-delà des querelles d'écoles entre la cybernétique et la systémique issue des travaux de Ludwig von Bertalanffy, on peut, à la suite de Gregory Bateson, considérer ces deux mouvements de pensée comme faisant partie d'un ensemble d'idées relativement unifié.
 Ainsi, avec l'assimilation des théories cybernétiques par la systémique, on a été amené à comprendre les mécanismes d'autorégulation des systèmes comme des processus de feedback négatif visant à empêcher une déviation. Les systèmes cybernétiques visent à maintenir un état stable viable d'interaction au sein d'environnements changeants via un processus stochastique d'essais et erreurs.

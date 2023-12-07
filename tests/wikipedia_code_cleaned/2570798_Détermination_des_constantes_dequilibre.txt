@@ -1,5 +1,5 @@
 Les constantes d'équilibre sont évaluées pour quantifier les équilibres chimiques à partir de mesures de concentrations, directes ou indirectes, et mettant en œuvre des techniques numériques.
-Cet article se limite aux équilibres en solutions entre solutés pour lesquels l'activité chimique est mesurée par la concentration molaire en mol L−¹. Destiné aux praticiens spécialisés ainsi qu'aux apprentis ayant une appréciation de base des équilibres chimiques, cet article traite du sujet en profondeur jusqu'à permettre la programmation des techniques de détermination en se souciant de la rigueur statistique, et s'attarde à l'interprétation objective des résultats.
+Cet article se limite aux équilibres en solutions entre solutés pour lesquels l'activité chimique est mesurée par la concentration molaire en mol L⁻¹. Destiné aux praticiens spécialisés ainsi qu'aux apprentis ayant une appréciation de base des équilibres chimiques, cet article traite du sujet en profondeur jusqu'à permettre la programmation des techniques de détermination en se souciant de la rigueur statistique, et s'attarde à l'interprétation objective des résultats.
 
 Introduction :
 
@@ -34,7 +34,7 @@ Spectrométrie électronique :
 
 L'absorbance à une longueur d'onde dans la région visible ou de l'ultraviolet doit obéir la loi de Beer-Lambert, où il existe un rapport linéaire entre la mesure et la concentration de l'espèce mesurée, soit
 A^{\lambda}=\ell \sum_i {\epsilon^{\lambda}_i c_i}
-où \ell est la longueur du chemin optique, \epsilon^{\lambda}_i est l'absorptivité molaire (le coefficient d'extinction molaire) à chemin optique unitaire à la longueur d'onde \lambda de l' i èᵐᵉ espèce chromophore à concentration c_i. Cette formulation reconnaît que, sauf les cas simples, plusieurs espèces peuvent absorber la lumière à une même longueur d'onde, ce qui nécessite la détermination simultanée de la concentration et de \epsilon^{\lambda} pour chaque espèce.
+où \ell est la longueur du chemin optique, \epsilon^{\lambda}_i est l'absorptivité molaire (le coefficient d'extinction molaire) à chemin optique unitaire à la longueur d'onde \lambda de l' i ᵉᵐᵉ espèce chromophore à concentration c_i. Cette formulation reconnaît que, sauf les cas simples, plusieurs espèces peuvent absorber la lumière à une même longueur d'onde, ce qui nécessite la détermination simultanée de la concentration et de \epsilon^{\lambda} pour chaque espèce.
 Puisqu'avec une seule mesure, il n'est pas possible de déterminer plus qu'un paramètre, il faut avoir soit pour un même échantillon des mesures d'absorbance à plusieurs longueurs d'onde qui dépendront d'une même valeur de la constante d'équilibre pour ainsi cerner le ou les \epsilon inconnus, soit plusieurs échantillons à différentes concentrations relatives en réactifs dont les mesures d'absorbance dépendront des mêmes valeurs d'\epsilon à la même longueur d'onde pour ainsi cerner la constante d'équilibre inconnue, soit plusieurs échantillons examinés à plusieurs longueurs d'onde. On aura N_C N_{\lambda} mesures d'absorbance provenant de N_C solutions (à concentrations relatives différentes) mesurées à N_{\lambda} longueurs d'onde, pour évaluer au pire N_E (N_{\lambda}+1) inconnus provenant de N_E espèces chromophores associées à N_E N_{\lambda} valeurs d'\epsilon et N_E constantes d'équilibre. Il serait donc souhaitable d'obtenir indépendamment les valeurs d'\epsilon des réactifs isolés (et/ou des produits isolés) et/ou d'évaluer indépendamment, si possible, certaines des constantes d'équilibre, pour ainsi réduire le nombre total d'inconnus par détermination. De toute façon, il faut s'organiser pour avoir autant (ou plus) de données que d'inconnus (au pire N_C N_{\lambda} ≥ N_E (N_{\lambda}+1)). On se limite en général à un petit nombre de longueurs d'onde choisies pour bien répondre aux changements des concentrations des espèces chromophores, surtout aux \lambda_{max} des réactifs purs ou produits isolés.
 
 Limitations :
@@ -206,8 +206,8 @@ où la matrice \mathbf{d} contient les éléments \delta_i. Les auteurs de HypNM
 \mathbf{d} = [(\mathbf{a [E]})^T (\mathbf{a [E]})]^{-1} (\mathbf{a [E]})^T \mathbf{[R]}^{connue} \mathbf{\bar{\delta}}
 
 Analyse des résultats :
-
 Fiabilité de la détermination et affinement du modèle :
+
 Une détermination numérique constitue un test d'un modèle, et non pas une preuve de sa pertinence. On peut examiner la fiabilité du modèle à l'aide de l'accord-type, des incertitudes et des corrélations et songer à modifier le modèle pour une détermination plus fiable. Cependant, la détermination cesse alors d'être une mesure de constantes d'équilibres connus et risque de devenir une découverte d'équilibres. Cela doit se faire sagement, en se guidant avec des comparaisons impartiales entre modèles.
 L'incertitude dans la valeur du j ième paramètre P est fournie par le j, j ième élément (le j ième sur la diagonale) de la matrice \mathbf{H}:
 \sigma^2_j = \sigma^2_0 \mathbf{H}_{j,j}

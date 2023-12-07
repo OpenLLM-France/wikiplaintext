@@ -27,8 +27,8 @@ L'introduction de l'ETCS doit non seulement simplifier la conduite des trains et
 ** améliorer la vitesse moyenne des transports.
 
 Trois niveaux différents :
-
 Niveau 1 :
+
 Le niveau 1 peut être installé en parallèle du système national. Chaque engin utilise le système dont il est pourvu, ce qui évite des coûts de mise à niveau. Sur réseau conventionnel, la signalisation latérale reste prépondérante si le train n'est pas entièrement pris en charge par l'ETCS, ce qui sera le cas de nombre d'entre eux parmi les plus anciens. Pour les nouveaux matériels roulants, l'ETCS devient en revanche prépondérant.
 
 Transmissions sol-machine :

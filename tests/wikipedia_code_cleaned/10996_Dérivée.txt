@@ -80,7 +80,7 @@ Dans le cas d'une courbe expérimentale, on ne possède pas de fonction explicit
 f'(x_i) \simeq \frac{y_{i+1} - y_{i-1}}{x_{i+1} - x_{i-1}}
 Graphiquement, cela revient à remplacer la tangente par la corde. Ceci peut se justifier par le théorème des accroissements finis : on sait qu'il existe un point de l'intervalle \left[ x_{i-1},x_{i+1} \right] pour lequel la dérivée est la pente de la corde, et si l'intervalle est petit, alors ce point est proche du milieu x_i . Cette méthode est automatisable sur les calculatrices programmables et les ordinateurs.
 Il faut cependant se poser la question de la précision des résultats. Une mise en informatique « naïve » de la méthode de calcul peut mener à des résultats de précision médiocre dans certains cas.
-Dans un ordinateur, la précision des nombres est limitée par le mode de représentation. Si l'on utilise la double précision selon la norme IEEE 754, les nombres ont environ 16 chiffres significatifs. On a donc une précision relative de l'ordre de e−16 (2−⁵² exactement). Notons r cette valeur. Les calculatrices de poche admettent typiquement 10 chiffres significatifs, soit r e−10.
+Dans un ordinateur, la précision des nombres est limitée par le mode de représentation. Si l'on utilise la double précision selon la norme IEEE 754, les nombres ont environ 16 chiffres significatifs. On a donc une précision relative de l'ordre de e−16 (2⁻⁵² exactement). Notons r cette valeur. Les calculatrices de poche admettent typiquement 10 chiffres significatifs, soit r e−10.
 Supposons que la différence y_{i+1}-y_{i-1} soit inférieure à r, alors le calculateur fera une erreur grossière sur le calcul et le résultat sera médiocre ; voire, si la différence est très faible, il ne « verra pas » de différence entre les deux valeurs, et le résultat sera 0. Si par exemple on veut avoir la dérivée autour de 2 de la fonction f(x) = x^2, en prenant un écart de e−13 entre les points :
 x_1 1.999,999,999,999,9
 x_2 2
@@ -140,8 +140,8 @@ En particulier pour n=2,
 On notera l'analogie avec la formule du binôme de Newton. Cela provient de la bilinéarité de l'opérateur de dérivation d'un produit.
 
 Propriétés des fonctions dérivables :
-
 Théorème de Rolle :
+
 Soient a et b deux réels tels que a < b. Si f est continue sur [a, b], dérivable sur ]a, b[, et si f(a) = f(b), alors il existe (au moins) un réel c dans ]a,b[ tel que :
 f'(c)=0.
 

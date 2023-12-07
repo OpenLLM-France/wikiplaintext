@@ -1,8 +1,8 @@
 Un véhicule électrique est un moyen de déplacement dont la propulsion est assurée exclusivement par un ou plusieurs moteurs électriques. Il peut tirer son énergie de ressources embarquées comme une batterie électrique, ou être connecté à une source extérieure, par exemple via une caténaire. Le moteur peut être lui aussi embarqué, comme dans la plupart des véhicules terrestres, ou extérieur dans le cas du transport par câble.
 
 Principe et technique :
-
 Alimentation :
+
 Les véhicules qui n'embarquent pas d'énergie la reçoivent soit à partir d'un réseau électrique, au moyen de caténaires et de pantographes, soit par un câble de traction mécanique. Ceux qui embarquent l'énergie électrique sont rechargés soit par câble, soit encore par induction pour recharger des batteries d'accumulateurs.
 
 Alimentation électrique par batterie :
@@ -30,8 +30,8 @@ Stations de recharge :
 Des stations de recharge peuvent recharger des véhicules légers en 500 volts et des véhicules lourds en 1000 volts.
 
 Histoire :
-
 XIXᵉ siècle :
+
 Les véhicules routiers électriques voient le jour à la fin du XIXᵉ siècle. En 1880, Gustave Trouvé améliore l'efficacité d'un petit moteur électrique développé par Siemens et le monte sur un tricycle anglais de marque Coventry, inventant ainsi le premier véhicule électrique au monde. Ce dernier est testé avec succès en avril 1881 sur la rue de Valois dans le centre de Paris, mais Trouvé n'arrive pas à le faire breveter.
 Charles Jeantaud conçoit la Tilbury en 1881, puis La Jamais contente devient la première voiture à franchir le cap des 100 km/h, en 1899. Jules Laffargue conclut un article en 1895 dans la revue La Nature par : « En résumé, la voiture électrique ne permet pas d'entreprendre de longues courses et de longs voyages. Mais elle se distingue par une bonne construction, par une grande solidité et des dispositions très simples et réellement pratiques qui permettent de l'opposer sans crainte aux voitures à pétrole. »
 
@@ -266,8 +266,8 @@ Certains modèles peuvent être utilisés en tout terrain mais sont plus délica
 L'autonomie, donnée parfois pour 10 à 20 km, peut ne pas dépasser dans les faits 5 à 10 km en tout-terrain (avec des pentes à plus de 20 %).
 
 Engins agricoles et de chantier :
-
 Tracteurs :
+
 Le premier tracteur électrique de série au monde, l'e100 Vario du constructeur allemand Fendt, a été présenté au salon Agritechnica à Hanovre en décembre 2017. Sa puissance d’entraînement atteint 50 kW (75 ch) et il autorise jusqu’à cinq heures de fonctionnement en conditions d’exploitation grâce à ses batteries de 100 kWh.
 
 Tractopelle :
@@ -358,8 +358,8 @@ Quelques exemples de navires à propulsion électrique :
 * Le suisse Leclanché livrera la propulsion électrique du Yara Birkeland, un porte-conteneurs norvégien qui transportera des produits chimiques et engrais.
 
 Types de navires :
-
 Bateaux de plaisance :
+
 L'offre de bateaux électriques ou hybrides se développe : en 2013, la société Fortil a vendu en un an 900 bateaux électriques de plaisance équipés de panneaux solaires capables de recharger la batterie en deux heures ; le projet DEESSE a développé une navette hybride fonctionnant au Diesel et à l'électricité grâce à des batteries au lithium et des panneaux solaires photovoltaïques, puis une navette tout électrique à destination de la Guadeloupe, avec des batteries rechargeables apportant une autonomie de quinze heures.
 
 Bateaux de croisière :
@@ -375,8 +375,8 @@ Sous-marins :
 Dès 1860, la propulsion électrique des navires, avec des batteries, était utilisée pour les sous-marins de guerre. La très grande discrétion acoustique de ce moyen de propulsion était leur force. Avant l'apparition de la propulsion nucléaire navale appliquée au sous-marin, leurs déplacements en autonomie à faibles vitesses s'accompagnaient de désavantages techniques : une énergie consommée liée au cube de la vitesse, la recharge au schnorchel facilement détectable par l'ennemi, des batteries au plomb permettant une quantité d'énergie stockée très limitée, proportionnellement aux besoins. Cela ne leur permettait que difficilement plus de 20 h de plongée consécutives et leur imposait des vitesses très réduites en opération. Jusqu'en 1970, un moteur Diesel aspirant l'air par un schnorchel permettait les recharges (durant un tiers de la journée environ). Les nouveaux sous-marins ont maintenant plus souvent une énergie provenant d'une petite centrale nucléaire à bord (pour leur fonctionnement anaérobie, l'avantage acoustique qu'elles procurent et leur autonomie). Mais dans ce cas, la propulsion a une source d'énergie mécanique initiale provenant d'une turbine à vapeur. Elle parvient alors parfois à la propulsion par une chaîne d'énergie électrique.
 
 Évolutions prévisibles :
-
 Évolution liée à l'amélioration des batteries :
+
 Dans le courant de l'année 2005, l'idée de la voiture électrique a refait son apparition. Des projets portés par des industriels étrangers au monde de l'automobile ont misé sur des technologies de batteries nettement plus performantes que les antiques batteries au plomb. Quelques prototypes ont été produits, dont certains ont été conçus comme des véhicules à part entière et non pas comme des véhicules conventionnels électrifiés.
 L'évolution du marché du pétrole, des autres technologies de véhicules décarbonés et de la sensibilité de l'opinion publique sur les questions de pollution et de gaz à effet de serre ont relancé ces véhicules.
 Les batteries futures devraient être composées de matériaux recyclables et non polluants (c'est-à-dire sans métaux lourds), pour correspondre à cet idéal écologique. La traction électrique pourrait également se développer parallèlement aux véhicules munis de batteries.
@@ -413,8 +413,8 @@ Le rétrofit électrique, ou conversion électrique, consiste à supprimer des �
 Le gouvernement égyptien lance le 5 juin 2023 un programme de rétrofit à grande échelle : la start-up Shift EV prévoit de convertir 100000 véhicules à combustion interne, dont 80000 camionnettes et 20000 monospaces, et BluEV se lance dans la conversion des véhicules à deux et trois roues. L’Égypte compte déployer une stratégie pour structurer la production nationale de véhicules électriques : le gouvernement égyptien a conclu des accords avec Foton et Geely pour produire des bus et des voitures électriques en Égypte, et El Nasr, l’entreprise de construction automobile historique du pays, a signé un accord avec la société chinoise Dongfeng Motor Corporation pour fabriquer des voitures électriques en Égypte.
 
 Impact environnemental :
-
 Ozone troposphérique :
+
 Certains moteurs électriques émettent un peu d'ozone (comme polluant primaire et non comme polluant secondaire produit via la photochimie comme dans le cas des véhicules thermiques à essence ou gazole) et des NOx. Un moteur défectueux peut produire une quantité notable d'ozone (un ozoniseur industriel peut avec 3,8 kW consommés produire 215 g d'ozone par mètre cube, 90 mg/m3 étant le maximum qu'il est recommandé de ne pas dépasser pour la santé). Toutefois les moteurs récents à rotor à aimants permanents dits « moteurs sans balais » n’ont plus cet inconvénient car ils sont dénués de charbons et de balais dont le frottement avec le rotor était à l’origine des étincelles (entre les charbons et le rotor) qui donnaient l'odeur caractéristique du moteur électrique et produisaient l’ozone. Les voitures électriques et hybrides produites depuis 2010 sont toutes dotées de ce type de moteurs à aimants permanents.
 L'ozone est le polluant qui diminue le moins depuis 20 ans principalement à cause des moteurs à combustion interne des véhicules automobiles, qui émettent également de l'ozone troposphérique ; le développement des véhicules électriques à moteurs à aimants permanents devrait donc contribuer à diminuer cette pollution.
 

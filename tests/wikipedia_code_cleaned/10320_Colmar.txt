@@ -3,14 +3,14 @@ Colmar est mentionnée pour la première fois au IXᵉ siècle. Ville libre du S
 La ville possède un riche patrimoine architectural, notamment une ancienne collégiale, plusieurs couvents, un théâtre remarquable, des canaux (petite Venise) et des maisons du Moyen Âge. Sa situation, au centre du vignoble alsacien et proche du piémont vosgien, et son climat particulier propice à la culture de la vigne, lui valent le surnom de « capitale des vins d'Alsace ». C'est également une ville de culture, siège du musée Unterlinden abritant le retable d'Issenheim. Colmar est par ailleurs la ville natale du créateur de la statue de la Liberté à New York, Auguste Bartholdi et de Jean-Jacques Waltz, plus connu sous le nom de Hansi.
 
 Géographie :
-
 Localisation :
+
 La commune appartient à l'Europe rhénane, qui compte près de cent millions de personnes et s'étend des Pays-Bas à la Suisse en passant par la Belgique, le Luxembourg, la Lorraine, l'Alsace et l'ouest de l'Allemagne.
 Colmar se situe à mi-distance entre Strasbourg, au nord (64 km) et Bâle, au sud (60 km). Fribourg-en-Brisgau à 38 km à l'est ainsi que Mulhouse à 37 km (au sud) sont les villes les plus proches. Plus loin, à vol d'oiseau, on trouve Zurich à 119 km, Luxembourg à 193 km, Genève à 229 km, Munich à 314 km, Innsbruck à 317 km, Lyon à 322 km, Milan à 323 km, Bruxelles à 378 km et Paris à 380 km.
 
 Communes limitrophes :
-
 Géologie et relief :
+
 Le territoire de la commune se situe au sein de la plaine d'Alsace. Ce fossé rhénan d'effondrement, séparant le massif des Vosges à l'ouest de celui de la Forêt-Noire à l'est, est né il y a 65 Ma à l'occasion de la surrection des Alpes. Des fissures orientées nord-sud se formèrent alors ; la partie médiane s'effondra et fut envahie par la mer à l'Éocène supérieur (vers -35 Ma) et à l'Oligocène inférieur (Rupélien, vers -30 Ma). D'abord comblée par des dépôts marins qui recouvrirent le socle hercynien, la plaine accueillit le cours du Rhin qui y déposa ses alluvions fluviatiles, il y a un million d'années seulement. Dans la bordure ouest du fossé, où se trouve aujourd'hui Colmar, l'épaisseur des dépôts sédimentaires augmente avec des dépôts éocènes et oligocènes issus de l'érosion des Vosges.
 Colmar est située au nord du bassin potassique et du bassin houiller sous-vosgien mais également au sud du bassin houiller de la vallée de Villé.
 La superficie de la commune est de 6657 hectares ; son altitude varie entre 175 et 214 mètres.
@@ -44,8 +44,8 @@ Colmar connaît rarement un enneigement important à cause du climat plus sec. N
 La station météorologique de Météo-France installée sur la commune et mise en service en 1972 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
 
 Voies de communication et transports :
-
 Réseau routier :
+
 Deux contournements permettent de désengorger la ville, notamment sur l’axe Mulhouse -Strasbourg qui traversait la ville par l’avenue d’Alsace.
 Celui de l'autoroute A35, qui relie Strasbourg (40 minutes) au nord, Mulhouse (30 minutes) et Bâle (40 minutes) au sud, appelé également « rocade est » fut inauguré en 1995 . Il dispose, à hauteur de la ville, de quatre échangeurs (n° 26 à n° 23) dans le sens sud-nord (Colmar Centre, Colmar Semm, Ladhof et Rozenkranz) et de deux échangeurs (n° 23 et n° 25) dans le sens nord-sud (Rosenkranz et Colmar sud).
 Celui de la RD 83, qui relie, en Alsace, l’ouest mulhousien (et plus généralement le trafic en provenance de Belfort) à Strasbourg, permet quant à lui de contourner Colmar par l'ouest et le nord, évitant ainsi tout le transit des poids-lourds. C’est un boulevard urbain à 2 × 2 voies entre le village d’Ingersheim à l’ouest et le quartier colmarien du Ladhof au nord.
@@ -76,8 +76,8 @@ L'aéroport de Colmar-Houssen a vu le jour en 1953, il est utilisé essentiellem
 Deux aéroports internationaux sont situés à moins de 45 minutes, l'aéroport de Strasbourg-Entzheim et l'aéroport de Bâle-Mulhouse-Fribourg, tous deux en accès direct par l'autoroute A35.
 
 Transports en commun :
-
 Réseau urbain :
+
 Le premier réseau de transports publics est inauguré en février 1879, quand la ville lance une première ligne d'omnibus entre l'ancienne gare et la place du Saumon. Une seconde ligne est ouverte en avril 1893. Le réseau est exploité successivement par trois sociétés privées.
 En 1902, Colmar met en service sa première ligne de tramway. En 1935, elle en comptait trois dont une ligne périurbaine Colmar-Wintzenheim. Dans les années 1960, à la suite de la hausse du prix du pétrole et de l'usage de plus en plus courant de l'automobile, l'exploitation du tramway est arrêtée, comme ce fut le cas également à Mulhouse et Strasbourg.
 Le réseau de bus de la TRACE (TRAnsports de Colmar et Environs), créé en 1990, desservait à l'origine trois communes : Colmar, Horbourg-Wihr et Wintzenheim. Actuellement, le réseau en compte vingt-deux pour environ 111655 habitants.
@@ -96,8 +96,8 @@ La ligne 1076 permet un accès à l'Allemagne et la desserte des villes de Breis
 Depuis décembre 2009, cette liaison a été renforcée par l'augmentation des fréquences et le prolongement jusqu'à Breisach de la ligne départementale 301 (Colmar - Neuf-Brisach - Balgau) qui permet une meilleure interconnexion avec la gare de Breisach et le réseau ferroviaire allemand de la Deutsche Bahn.
 
 Urbanisme :
-
 Typologie :
+
 Colmar est une commune urbaine, car elle fait partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'Insee. Elle appartient à l'unité urbaine de Colmar, une agglomération intra-départementale regroupant 7 communes et 95102 habitants en 2017, dont elle est ville-centre.
 Par ailleurs la commune fait partie de l'aire d'attraction de Colmar, dont elle est la commune-centre. Cette aire, qui regroupe 95 communes, est catégorisée dans les aires de 50 000 à moins de 200000 habitants.
 
@@ -139,8 +139,8 @@ Toponymie :
 La ville est attestée sous la forme Columbarium Fiscum dans un texte du moine Notker Balbulus de Saint-Gall daté de 823. Il est possible de rapprocher ce toponyme de la présence sur ce territoire, à l'époque carolingienne, d'un grand colombier. Cette étymologie est commune à de nombreuses localités telles que Colombes ou Coulommiers.
 
 Histoire :
-
 Préhistoire et Antiquité :
+
 À la Préhistoire, entre 5000 et 4000 avant notre ère, des groupes humains venant du bassin du Danube ont peuplé les bords du Rhin, comme en témoignent les silex exposés au musée Unterlinden. Ces peuplements s'identifient à la culture rubanée et sont attestés dans les environs de Colmar. La présence de l'Ill et de ses confluents (la Lauch, la Thur et la Fecht) a fortement contribué à l'implantation humaine sur le site.
 Une présence celte est attestée entre 1200 et 800 avant J.-C. grâce à la découverte de plusieurs urnes funéraires. Dans les derniers siècles avant notre ère et toujours aux environs de la ville, près du Hohlandsbourg, une agglomération remontant au bronze final et se rattachant à la civilisation des champs d'urnes a été découverte et fouillée en 1968.
 Les Raurarques ou Rauraques, dont la capitale est Argentovaria (le futur Horbourg), défendent la Villa Columbaria au moment de l'invasion alamane.
@@ -148,8 +148,8 @@ En 378, l'empereur romain Gratien soumet ces envahisseurs germaniques, dont des 
 C'est aux Vᵉ et VIᵉ siècles, lors de la conquête de la Gaule que les souverains francs occupent de grands territoires sur le futur domaine de la ville. Il s'agit là d'un peuple nomade qui construit de grands bâtiments de bois et de pisé (terre argileuse) : granges, écuries, pressoir, cuisine, basse-cour, colombier... et crée au centre une construction soignée pour son souverain.
 
 Moyen Âge :
-
 Haut Moyen Âge :
+
 L'aristocratie alémanique va finalement être défaite et massacrée par les Francs, mettant un terme au conflit multiséculaire qui oppose ces deux fédérations de peuples germaniques. La région de Colmar va alors être dominée par les clans mérovingiens et christianisée.
 L'acte de donation de Louis le Pieux, rédigé à Francfort le 12 juin 823, mentionne pour la première fois la ville sous le terme « Notre fisc nommé colombier ». L'empereur carolingien cède à l'abbaye de Munster une partie de forêt du fisc de Columbarium, alors habité par quelques domaines fermiers.
 À deux reprises, en 883 et 884, Charles III le Gros tient une assemblée où sont présents tous les dignitaires de l'Empire, entre la Meuse et l'Elbe, et au-delà des Alpes et de l'Italie du nord.
@@ -179,8 +179,8 @@ En 1469, l'archiduc Sigismond, qui représente l'empereur du Saint-Empire en Als
 Le Koïfhus est achevé en 1480. Il sert à la fois de magasin pour les marchandises, de bureau de douane et de lieu de réunion des députés de la Décapole. Colmar devient un foyer artistique important grâce au talent des peintres qu'elle accueille, notamment Gaspar Isenmann, Martin Schöngauer, auteur de La Vierge au buisson de roses, et Matthias Grünewald qui a réalisé le Retable d'Issenheim.
 
 Époque moderne :
-
 Le XVIᵉ siècle et la réforme protestante :
+
 En 1512, la communauté juive est exclue de la ville. Elle y était présente depuis le XIIIᵉ siècle et ne trouvera plus droit de cité jusqu'à la Révolution.
 Le statut communal est modifié en 1521, le nombre de corporations est rapporté à vingt.
 La ville devient un foyer de propagande luthérienne entre 1522 et 1525 grâce aux ouvrages de l'imprimeur Farckall. À la suite de la guerre des paysans, les premiers groupes de sympathisants de la Réforme se rassemblent (affaire du prédicateur Hans, tentative de sédition de l'aubergiste Bader). La ville échappe de peu aux violences de la guerre des paysans en 1525.
@@ -217,8 +217,8 @@ Dans un climat d'anti-judaïsme partagé par une partie de la population et des 
 Théophile Conrad Pfeffel fonde l'Académie militaire en 1773. Il s'agit en fait d'un lieu ne s'adressant qu'à des enfants protestants, nobles le plus souvent, et qui leur permettaient de se destiner à une carrière militaire. Il en dira : « Notre établissement n'est pas une école d'élite pour des soldats ou des commerçants, mais une pépinière pour tous ceux qui veulent émerger du vulgaire. » L'école a accueilli 288 élèves en vingt ans.
 
 Époque contemporaine :
-
 La Révolution et le XIXᵉ siècle :
+
 La ville, promue chef-lieu du Haut-Rhin en 1790, compte alors plus de 13000 habitants. Étienne Ignace Salomon en devient le premier maire. En 1791, la ville devient siège de l'évêché constitutionnel du département et la collégiale Saint-Martin est érigée en cathédrale, et ce jusqu'au concordat de 1802. Hérault de Séchelles convertit le tribunal criminel du Haut-Rhin en tribunal révolutionnaire en 1793. Treize exécutions seront prononcées en quelques mois. En 1800, la ville accueille son premier préfet, Jean-Baptiste Harmand. Son siège se trouve initialement dans l'abbaye cistercienne de Pairis (actuel hôtel de ville), avant de déménager en 1866. La ville redevient capitale judiciaire et reçoit un tribunal d'appel qui deviendra une cour d'appel en 1804. À la suite du plébiscite pour l'Empire, elle devient une cour impériale et la ville retrouve un maire, François Antoine Richter.
 Colmar accueille le roi Charles X en 1828, ainsi que le duc d'Orléans et de Nemours en 1831.
 Au XIXᵉ siècle, Colmar est marquée par de nombreuses émeutes. La première se tient en 1833. Surnommée « émeute de la piquette ». Elle fait suite à la volonté de l'administration fiscale de taxer un petit vin local, le Bubberi, comme les vins des grandes tables. La révolte gronda fin octobre : les ouvriers rejoignent les maraîchers et les vignerons. Des barricades sont dressées. La garde nationale fut requise mais le texte fut retiré sous la menace du déversement de la piquette dans le ruisseau de la Sinn. Le vicomte de Croismare fut destitué.
@@ -234,8 +234,8 @@ Le conflit prend fin le 29 janvier 1871 et la France, défaite, signe le traité
 Le français est banni des textes officiel en 1883.
 
 Le XXᵉ siècle :
-
 Début du siècle :
+
 En 1902, une ligne de tramway est ouverte entre la gare et le canal. Une seconde ligne verra le jour en 1914 entre les routes de Bâle et de Strasbourg.
 L'année 1908 est marquée par une visite officielle de l'empereur allemand Guillaume II.
 En 1910, la ville compte 43800 habitants, dont 4000 militaires.
@@ -278,8 +278,8 @@ Colmar est la préfecture du Haut-Rhin et accueille les assemblées de la collec
 La ville héberge de multiples organismes départementaux et régionaux, avec notamment l'Institut national de l'origine et de la qualité, Météo-France, le SDIS, les Comités régional et départemental du tourisme, le groupement départemental de gendarmerie, le centre interdépartemental de déminage, le CIVA et l'Inspection académique du Haut-Rhin. Colmar abrite aussi un centre de recherche de l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement sur le site du Biopôle Adrien Zeller.
 
 Intercommunalité :
-
 Colmar Agglomération :
+
 Colmar Agglomération, créée en 2004, est composée de 14 communes. Elle est administrée par 46 conseillers communautaires élus par les conseils municipaux des communes membres et selon leur démographie.
 Cette communauté est présidée par Éric Straumann, maire de Colmar, assisté de 10 vice-présidents.
 
@@ -366,6 +366,8 @@ Antérieurement, la ville disposait de trois prisons :
 Le commissariat central de la Police nationale est situé au 2, rue Cavalerie, la Gendarmerie nationale est installée dans la même rue au n° 56. Il existe aussi un commissariat de secteur à l'ouest de la ville.
 Colmar dispose également d'une Police municipale.
 
+Population et société :
+Démographie :
 Évolution démographique :
 
 La commune a une superficie de 66,57 km 2 (541ᵉ rang national). Au dernier recensement de 2020, elle comptait {{Population de France/dernière_pop}} habitants, ce qui faisait de Colmar la 68ᵉ commune la plus peuplée de France.
@@ -392,8 +394,8 @@ En outre, la ville dispose également de quatre centres de formation d'apprentis
 En 2015, le Biopôle abrite un centre de l'Institut national de la recherche agronomique (INRA) présent sur le site depuis 1965 (devenu en 2020 Institut national de la recherche agronomique, INRAE), des locaux de l'Université de Haute-Alsace, l'office national des forêts, le laboratoire vétérinaire départemental (LVD), le centre technique interprofessionnel de la vigne et du vin (IFV France), l'organisation professionnelle de l'agriculture biologique en alsace (OPABA), l'institut du végétal Arvalis, l'institut transfrontalier d'application et de développement agronomique (ITADA), le centre de recherche innovation et transfert de technologie pour les matières fertilisantes organiques (RITTMO).
 
 Santé :
-
 Hôpitaux civils :
+
 Les Hôpitaux civils de Colmar ont une capacité totale de plus de 1400 lits et places, l'établissement compte en 2018 environ 3700 personnels soignants, médico-techniques, techniques et administratifs au service de la population. L'établissement emploie 234 médecins, 69 praticiens attachés et 97 internes.
 Ils sont composés de trois sites géographiques.
 L'hôpital Louis Pasteur est une structure semi pavillonnaire de près de 800 lits qui est consacrée essentiellement à la prise en charge de court séjour des adultes. Il a été inauguré le 21 novembre 1937 par le ministre de la Santé publique Marc Rucart, entouré du maire de Colmar Édouard Richard et du Dr Joseph Duhamel, respectivement président et vice-président de la commission administrative du nouvel hôpital. Il est l'œuvre de l'architecte William Vetter (1902-1986). L'hôpital Pasteur met à disposition des patients la majorité des disciplines médicales et chirurgicales et est équipé d'un plateau technique ultra-moderne composé d'une IRM, trois scanners dont un pour la simulation virtuelle, deux accélérateurs de particules, deux gamma-caméra ; trois salles d'angiographie numérisées dont une salle de cardiologie interventionnelle. Le SAU (Service d'Accueil des Urgences) prend en charge les urgences médicales de jour comme de nuit. Un héliport permet l'atterrissage des hélicoptères de secours.
@@ -457,8 +459,8 @@ Autres unités ayant tenu garnison à Colmar :
 * 59ᵉ régiment d’artillerie – réserve (en 1989).
 
 Médias :
-
 Télévision :
+
 La ville dispose d'une chaîne de télévision locale, TV7 qui diffuse en boucle tout au long de la journée des informations pratiques (météo, agenda des sorties, horaires des services publics...), ainsi que des émissions et reportages. Elle est disponible sur le réseau câblé de l'opérateur local Vialis.
 La chaîne publique France 3 Alsace ainsi que la chaîne privée BFM Alsace sont recevables depuis le site du Belvédère à Mulhouse.
 
@@ -490,8 +492,8 @@ Les sept fournisseurs français à Internet sont présents et desservent l'ensem
 Depuis la fin 2007, la télévision numérique terrestre (TNT) est disponible pour tous les foyers. Le signal analogique a disparu le 2 février 2010 au profit du tout numérique.
 
 Cultes :
-
 Concordataires :
+
 Les Colmariens disposent de lieux de culte catholique, israélite, protestant et musulman. Les dispositions juridiques de la loi du concordat de 1801 demeurent en application dans la région Alsace et le département de la Moselle, du fait de l'accord signé entre Napoléon Bonaparte et le pape Pie VII.
 
 Culte catholique :
@@ -578,8 +580,8 @@ Culte bouddhique :
 Le culte bouddhique est célébré au centre Reiki.
 
 Économie :
-
 Revenus de la population et fiscalité :
+
 En 2009, 48,1 % des foyers fiscaux n'étaient pas imposables.
 En 2011, le revenu fiscal médian par ménage était de 24448 €, ce qui plaçait Colmar au 25 714ᵉ rang parmi les 31886 communes de plus de 49 ménages en métropole.
 Chiffres clés Revenus et pauvreté des ménages en 2020 : médiane en 2020 du revenu disponible, par unité de consommation : 20510 €.
@@ -640,8 +642,8 @@ Quatre centrales solaires citoyennes d'une puissance de 100 kWc chacune ont ét�
 L'incinérateur de Colmar alimente le chauffage urbain à hauteur de 60 pour cent.
 
 Culture locale et patrimoine :
-
 Patrimoine architectural :
+
 La commune compte 58 monuments répertoriés à l'inventaire des monuments historiques et aucun lieu ni monument répertorié à l'inventaire général du patrimoine culturel. Par ailleurs, elle compte 51 objets répertoriés à l'inventaire des monuments historiques et 87 objets répertoriés à l'inventaire général du patrimoine culturel.
 La ville possède un grand nombre de bâtiments en pan de bois (châtaignier pour la plupart) typiques de l'architecture alsacienne. Leurs couleurs variées, caractéristique tout à fait singulière, sont dues à l'interdiction par les Bâtiments de France d'utiliser la couleur blanche, qui serait trop dominante. Sur bon nombre de façades, on remarque la présence de linteaux ou d'enseignes qui fournissent des informations sur le propriétaire du bâtiment.
 On peut citer la maison Pfister avec ses colombages, oriel et peintures murales, le Koïfhus ou ancienne douane qui est un des plus vieux bâtiments publics de la ville (1480), le corps de garde qui servait de maison de police et était construit à l'emplacement d'une ancienne chapelle ou la maison Adolph, l'une des plus anciennes de la ville (citée dès 1371).
@@ -655,8 +657,8 @@ La statue de la Liberté :
 En venant de Strasbourg, sur un rond-point situé à l'entrée de la ville. La statue de la Liberté « colmarienne », d’une hauteur de 12 mètres au flambeau, a été réalisée en 2004 en matériau composite teinté dans la masse pour lui donner l’aspect du cuivre patiné. Elle fut réalisée pour marquer l'année du centenaire de la mort d'Auguste Bartholdi né à Colmar. Avec ses trois tonnes pour douze mètres de haut, elle dépasse de cinquante centimètres son aînée parisienne du pont de Grenelle, jusque-là la plus grande des copies en France.
 
 Vie culturelle :
-
 Théâtres Opéra Danse et salles de spectacle :
+
 Le théâtre municipal, situé au centre-ville, date de 1849, il accueille des représentations de l'Opéra national du Rhin ainsi que du Ballet de l'Opéra national du Rhin. L'Opéra national du Rhin est une institution lyrique et chorégraphique de réputation internationale, issue de la fusion en 1972, des ensembles de Strasbourg, Mulhouse et Colmar. Il a depuis 1997 le statut d'Opéra national en région. Strasbourg accueille les chœurs mais également les ateliers décors, costumes et les services administratifs, Mulhouse la Danse avec le Ballet de l'Opéra national du Rhin, Centre Chorégraphique National depuis 1985 et Colmar l'Opéra Studio, une structure de formation de jeunes chanteurs.
 La ville dispose également du centre dramatique national d'Alsace (comédie de l'Est) et du théâtre de l'École Buissonnière.
 La ville dispose de salles de spectacles comme Le Grillen ou le centre culturel (Europe). Un « théâtre de plein air » au parc des expositions lors de la foire aux vins d'Alsace.

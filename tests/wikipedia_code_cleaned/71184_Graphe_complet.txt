@@ -18,8 +18,8 @@ Le polynôme caractéristique du graphe complet K_n est : (x-n+1) (x+1)^{n-1}. C
 Le graphe K_5 est le plus petit graphe non planaire. Il sert dans les caractérisations des graphes planaires de Kazimierz Kuratowski et de Klaus Wagner.
 
 Conjectures :
-
 Nombre de croisements :
+
 On note \mathrm{cr}(G) le nombre de croisements du graphe G, le nombre minimal de croisements parmi les tracés possibles de G. A. Hill et J. Ernest ont conjecturé une valeur pour le nombre de croisements du graphe complet K_n, que Richard K. Guy a publiée en 1960. On sait qu'il existe toujours un tracé avec
 \textrm{cr}(K_n) \le \frac{1}{4} \left\lfloor\frac{n}{2}\right\rfloor\left\lfloor\frac{n-1}{2}\right\rfloor\left\lfloor\frac{n-2}{2}\right\rfloor\left\lfloor\frac{n-3}{2}\right\rfloor
 croisements. Il est conjecturé que l'inégalité est en fait une égalité. Une formulation indépendante de la même conjecture a été faite par Thomas L. Saaty en 1964.

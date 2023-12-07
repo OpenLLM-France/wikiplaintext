@@ -1,14 +1,15 @@
+# Système européen de contrôle des trains :
+
 Le système européen de contrôle des trains (en abrégé ETCS, sigle de European Train Control System) est un système innovant de signalisation ferroviaire associé au contrôle de vitesse. C'est une composante du système européen de gestion du trafic ferroviaire (en abrégé ERTMS, sigle de European Rail Traffic Management System) qui est prévu pour remplacer à terme le grand nombre de signalisations au sol, de systèmes de répétition des signaux et de signalisation en cabine actuellement utilisés sur les différents réseaux de chemins de fer européens.
 Ce système doit permettre un passage optimisé des frontières tout en garantissant la sécurité des circulations. Sa transposition est prévue sur les lignes à grande vitesse et sur l'ensemble du réseau classique. Depuis 1999, il est expérimenté sur des lignes ferroviaires en France, en Italie, en Espagne, en Suisse, en Allemagne, et en Autriche notamment.
 
-Histoire :
+# Système européen de contrôle des trains :
+## Histoire :
 
 Pour garantir une circulation des trains sûre et sans entrave, des systèmes de commande et de sécurité sont nécessaires. En Europe, 23 systèmes, mutuellement incompatibles, ont été installés au fil du temps, en général sur une base nationale.
 Pour pouvoir franchir les frontières, les véhicules moteurs doivent donc être équipés d'un, voire plusieurs systèmes de protection des trains compatibles avec la réglementation des pays traversés.
 Cela se traduit par un surcoût d'équipement des locomotives, et si ce n'est pas le cas, par la nécessité de changer de locomotive à la gare frontière, solution coûteuse et pénalisante pour les délais d'acheminement.
-
 Ainsi les rames Thalys PBKA, en plus d'un système de traction quadritension, sont équipées pour tous les systèmes de signalisation rencontrés sur les lignes parcourues :
-
 * KVB et RPS (Répétition Ponctuelle des Signaux) par crocodile (France) ;
 * TVM 430 et TVM 300 (lignes à grande vitesse de France et de Belgique) ;
 * TBL (et crocodile) (Belgique) ;
@@ -19,72 +20,85 @@ Le système ETCS a été mis au point depuis 1996 sur la base de la directive 96
 L'Union internationale des chemins de fer (UIC) avait fait élaborer les premières spécifications en vue de la mise au point de l'ETCS par l'Institut européen de recherche ferroviaire (ERRI). Les spécifications techniques ont été étudiées parallèlement, puis approuvées, par les utilisateurs (entreprises ferroviaires regroupées au sein du groupe des utilisateurs de l'ERTMS) et par les constructeurs de systèmes de signalisation regroupés au sein d'Unisig ; par exemple le français Alstom, qui construit une grande part des trains circulant en France et des équipements de signalisation ferroviaire installés en France.
 Depuis 1999, l'ETCS est expérimenté par plusieurs entreprises ferroviaires en Allemagne, en Suisse, en Italie, mais aussi en France, au Benelux et en Angleterre (Eurostar).
 
-Objectifs de l'ETCS :
+# Système européen de contrôle des trains :
+## Objectifs de l'ETCS :
 
 L'introduction de l'ETCS doit non seulement simplifier la conduite des trains et rendre plus intelligente et plus sûre la signalisation, mais aussi :
 * réduire les charges d'investissements et d'entretien des installations fixes (par exemple, les signaux),
-
 * remplacer les différents systèmes nationaux de protection automatique des trains dans le transport à grande vitesse, et ainsi :
+** permettre l'interopérabilité des lignes à grande vitesse européennes ;
+** augmenter la capacité des lignes ;
+** améliorer la vitesse moyenne des transports.
 
-permettre l'interopérabilité des lignes à grande vitesse européennes ;
-augmenter la capacité des lignes ;
-améliorer la vitesse moyenne des transports.
-* permettre l'interopérabilité des lignes à grande vitesse européennes ;
-* augmenter la capacité des lignes ;
-* améliorer la vitesse moyenne des transports.
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 1 :
 
-Trois niveaux différents :
-
-Niveau 1 :
 Le niveau 1 peut être installé en parallèle du système national. Chaque engin utilise le système dont il est pourvu, ce qui évite des coûts de mise à niveau. Sur réseau conventionnel, la signalisation latérale reste prépondérante si le train n'est pas entièrement pris en charge par l'ETCS, ce qui sera le cas de nombre d'entre eux parmi les plus anciens. Pour les nouveaux matériels roulants, l'ETCS devient en revanche prépondérant.
 
-Transmissions sol-machine :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 1 :
+#### Transmissions sol-machine :
 
 Ce niveau utilise une transmission ponctuelle à l'aide de balises placées au pied des signaux et en amont. Ces balises (eurobalises) communiquent
 les données de signalisation au train. Sur certaines LGV, le niveau 1 existe aussi et peut-être utilisé en cas de panne du niveau 2 : on parle alors de mode "fall back".
 
-Détection des trains :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 1 :
+#### Détection des trains :
 
 Le niveau 1 nécessite l'utilisation d'un système de détection des trains au sol (tel que des circuits de voie, compteurs d'essieux et autres).
 Toutes ces informations ne peuvent donc être transmises que ponctuellement au train, cette ponctualité pouvant être augmentée en jouant sur le nombre de balises, ou en installant une boucle (euroloop), équivalent d'une balise mais longeant la ligne sur une certaine distance.
 
-Niveau 2 :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 2 :
 
 Comme le niveau 1, le niveau 2 peut être utilisé en superposition avec le système existant, que ce soit sur ligne classique ou sur ligne à grande vitesse.
 
-Transmission sol-machine :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 2 :
+#### Transmission sol-machine :
 
 Les données de signalisation ne sont plus transmises par les eurobalises (ou des boucles euroloops), mais de manière permanente, via le réseau GSM-R ou via une communication GPRS, ce qui rend l'installation de celui-ci obligatoire. Via ce réseau, le train communique constamment sa position (qu'il détermine avec un odomètre) au centre de contrôle qui lui communique en retour les actions à effectuer (vitesse, arrêt, ...). Des eurobalises sont toujours présentes sur la voie, mais servent ici principalement à recaler l'odométrie embarquée. Elles peuvent aussi être nécessaires en cas de panne du "niveau 2" : on peut alors toujours circuler en niveau "1" si la configuration de la ligne le permet.
 Sur le TGV POS, l'odotachymétrie a ainsi été sécurisée (trois mesures de vitesses utilisant des principes physiques différents, une en bout d'essieu et deux autres par radars DOPPLER).
 
-Détection des trains :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 2 :
+#### Détection des trains :
 
 Il nécessite toujours l'utilisation d'un système de détection des trains au sol et s’appuie sur l’existence des circuits de voie pour localiser un train aval sur un canton. Cette information est transmise au radio block center (RBC) qui gère ensuite l’espacement entre deux circulations. Le train suiveur reçoit à n’importe quel moment une nouvelle autorisation de circulation par l’intermédiaire de la liaison radio GSM-R. Dès que le train aval libère un canton, le poste central de commande reçoit l’information correspondante du sol (circuit de voie + Eurobalise + RBC + GSM-R) qui est transmise par liaison radio au train suiveur. L'ETCS niveau 2 rend disponible quasi immédiatement une information « libératoire » pour le train suiveur et contribue ainsi à augmenter la fluidité. Cette immédiateté est la différence par rapport à la signalisation conventionnelle, où l'information libératoire n'est donnée au conducteur que lorsqu'il rencontre le signal d'entrée du canton. De plus, les systèmes de contrôle de vitesse existants interdisent parfois la reprise de vitesse avant d'avoir franchi le signal, même s'il est ouvert, car l'information libératoire est transmise au train par une balise au pied du signal.
 * Radio Block Centre
 
-Niveau 3 :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 3 :
 
 Le niveau 3 est toujours en phase de développement. Il nécessite d'optimiser la prise en considération de l'intégrité du train (vérification de l'absence de "rupture d'attelage").
 
-Transmission sol-machine :
+# Système européen de contrôle des trains :
+## Trois niveaux différents :
+### Niveau 3 :
+#### Transmission sol-machine :
 
 La détection des trains ne s'appuie plus sur l'existence des circuits de voie, mais uniquement sur la position transmise par le train lui-même. On doit donc développer un moyen fiable de contrôle de l'intégrité des convois. Les premiers tests ne semblent pas avoir été concluants puisque ce "GPS ferroviaire" n'a pas apporté la haute fiabilité demandée lors de la circulation de deux trains qui se suivent : il subsiste des trous de quelques millisecondes dans l'information permanente que requiert ce niveau.
 Comme pour le niveau 2, des eurobalises sont présentes sur la voie de manière à recaler l'odométrie embarquée.
 
-Mise en œuvre de l'ETCS :
+# Système européen de contrôle des trains :
+## Mise en œuvre de l'ETCS :
 
 Les premiers essais de l'ETCS selon les spécifications de l'UIC ont été réalisés avec succès à partir de novembre 1999 sur la ligne internationale Vienne - Budapest.
-
 Par la suite, le système a été mis en place, entre autres, sur les lignes suivantes :
-
 * 2000 : FS, Florence-Campo di Marte - Arezzo (ETCS niveau 1) ;
 * 2001 : ÖBB, Vienne - Nickelsdorf (ETCS niveau 1) ;
 * 2002 : CFF, Zofingen - Sempach (ETCS niveau 2; première application commerciale), tronçon d'essais, la ligne a depuis lors été repourvue de signalisation extérieure conventionnelle ;
 * 2004 : CFF, Mattstetten - Rothrist (NBS) et Solothurn-Wanzwil (ABS) (le démarrage prévu pour décembre 2005 d'ETCS niveau 2 a été effectué en 2006) : depuis août 2007, les trains roulent en ETCS niveau 2 à 200 km/h sur ce tronçon ;
 * 2005 : DB, Halle (Saale) / Leipzig - Jüterbog - Berlin (ETCS niveau 2) ;
-
 * 2006, mai :
-
 * 2006, 1ers essais de la SNCF avec un ETG modifié à 2 caisses sur le réseau français ;
 * 2007, février : Renfe, Madrid - Lleida (ETCS niveau 1 ; 300 km/h) ;
 * 2007 : BLS, ligne de base du Lötschberg (ETCS niveau 2) ;
@@ -99,7 +113,7 @@ Par la suite, le système a été mis en place, entre autres, sur les lignes sui
 * 2015 : CFF, Brunnen (hors gare) - Altdorf - Rynächt et Pollegio Nord–Castione Nord (ETCS niveau 2) ;
 * 2016 : SNCF, LGV Est européenne phase 2 (ETCS niveau 2 ; 320 km/h - cohabitation avec la TVM 430 ; autorisé en service commercial depuis juillet 2016) ;
 * Juin 2016 CFF, ligne de base du Saint-Gothard pourvue de l'ETCS niveau 2 qui permet à certains d'aller à une vitesse de 200 km/h puis 250 km/h ;
-* Octobre 2016 : SNCF, Uckange - Zoufftgen (ETCS niveau 1, autorisation de mise en exploitation commerciale obtenue le 1er août 2016) ;
+* Octobre 2016 : SNCF, Uckange - Zoufftgen (ETCS niveau 1, autorisation de mise en exploitation commerciale obtenue le 1ᵉʳ août 2016) ;
 * 23 avril 2017 : CFF, Pully - Villeneuve (ETCS niveau 2) ;
 * Juillet 2017 : SNCF - LGV SEA (Sud Europe Atlantique), ETCS niveau 2, 320 km/h - cohabitation avec la TVM 300 ;
 * Juillet 2017 : SNCF - LGV BPL (Bretagne Pays de la Loire), ETCS niveau 2, 320 km/h - cohabitation avec la TVM 300 ;
@@ -112,5 +126,3 @@ Par la suite, le système a été mis en place, entre autres, sur les lignes sui
 D'autres expérimentations sont en préparation également en France, en Italie, en Espagne, aux Pays-Bas, en Grande-Bretagne, en Belgique, au Luxembourg et en Hongrie.
 Selon des estimations de la Deutsche Bahn, le déploiement de l'ETCS à l'échelle européenne demandera de 15 à 20 ans.
 Le coût prévisionnel est de 8 milliards d'euros environ, dont 500 millions pour la seule Allemagne.
-
-Laboratoires indépendants d'essais ETCS :

@@ -57,8 +57,8 @@ Organisme gestionnaire :
 L'organisme gestionnaire est l'EPTB Oise-Aisne ou Entente Oise-Aisne. Cet établissement public a construit de 2007 à 2009 un ouvrage de protection contre les fortes crues à Proisy comprenant une digue de retenue des eaux d'une longueur d'un kilomètre, d'un clapet mobile et d'un évacuateur de sécurité.
 
 Principaux affluents :
-
 Rive gauche :
+
 * Le Gland et son affluent la Wartoise
 * Le Thon
 * la Serre et son affluent la Souche
@@ -92,8 +92,8 @@ Rive droite :
 * La Viosne
 
 Rang de Strahler :
-
 Hydrologie :
+
 L'Oise est une rivière assez régulière et bien alimentée toute l'année.
 
 L'Oise à Pont-Sainte-Maxence :

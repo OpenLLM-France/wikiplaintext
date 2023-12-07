@@ -1,0 +1,248 @@
+#!/usr/bin/env python3
+
+__author__ = "Jérôme Louradour"
+__credits__ = ["Jérôme Louradour"]
+__license__ = "GPLv3"
+
+""" Extract plain text from Wikipedia latest html dumps """
+
+import os, shutil
+from tqdm import tqdm
+import regex as re
+
+import tarfile, gzip
+import json
+import requests
+from slugify import slugify
+
+
+from clean_html import clean_html
+from scrape_utils import get_latest_versions, get_links, download_file, simple_slugify
+
+
+def dump_wiki_html_plaintext(
+    json_folder,
+    output_dir,
+    language="fr",
+    prefix="",
+    clean_text=True,
+    per_json=10000,
+    dump_html=False,
+    dump_html_redirection=False,
+    keep_tables=False,
+    max_pages=None,
+    ignore_if_exists=True,
+    verbose=True,
+):
+    if keep_tables:
+        raise NotImplementedError("keep_tables not implemented")
+    
+    for i_group, json_file in enumerate(tqdm(sorted(os.listdir(json_folder)), desc="Extract Wikipedia", unit="json file", disable=not verbose)):
+
+        if not json_file.endswith(".ndjson"):
+            continue
+        subfolder = "." if not per_json else os.path.splitext(json_file)[0]
+        json_file = os.path.join(json_folder, json_file)
+        if verbose:
+            print(f"Processing {json_file}")
+
+        assert os.path.isfile(json_file)
+
+        # Get the number of lines in the file
+        num_lines = num_lines_in_big_file(json_file)
+
+        with open(json_file, "r") as f:
+            for i_page, line in enumerate(tqdm(f, desc="Extract pages", unit="page", total=num_lines, disable=not verbose)):
+                if max_pages and i_page >= max_pages:
+                    break
+
+                data = json.loads(line)
+
+                # Possible keys:
+                # ['name', 'identifier', 'abstract', 'date_created', 'date_modified', 'date_previously_modified',
+                #  'version', 'previous_version', 'url', 'namespace', 'in_language',
+                #  'main_entity', 'additional_entities', 'categories', 'templates',
+                #  'is_part_of', 'article_body',
+                #  'license', 'event', 'image']
+
+                page_title = data["name"]
+                page_id = int(data["identifier"])
+                page_body = data["article_body"]
+                page_body = page_body["html"]
+                filename = f"{page_id}_{simple_slugify(page_title)}"
+
+                if subfolder is None:
+                    subfolder = f"{page_id:09d}"
+
+                is_redirect = data.get("categories") is None
+
+                anomaly_redirection = None
+                if is_redirect:
+                    if not ("#REDIRECTION" in page_body or "mw:PageProp/redirect" in page_body or "Redirect" in page_body):
+                        anomaly_redirection = f"{page_title} has no category but don't seem to be a redirection --> check in ./{prefix}html/redirects/{filename}.html"
+                # The special words can be in comment...
+                # else:
+                #     if not ("#REDIRECTION" not in page_body and "mw:PageProp/redirect" not in page_body):
+                #         anomaly_redirection = f"Unexpected redirection in {page_title} --> check in ./html/redirects/{filename}.html"
+
+                html_filename, cleaned_filename = [os.path.join(
+                    output_dir,
+                    prefix + format,
+                    subfolder if (data.get("categories") and not anomaly_redirection) else "redirects",
+                    f"{filename}.{format}"
+                ) for format in ("html", "txt")]
+
+                if (anomaly_redirection or 
+                    (dump_html and (not os.path.isfile(html_filename) or ignore_if_exists) and (not is_redirect or dump_html_redirection))
+                    ):
+                    os.makedirs(os.path.dirname(html_filename), exist_ok=True)
+                    try:
+                        with open(html_filename, "w") as f:
+                            f.write(page_body)
+                    except (Exception, KeyboardInterrupt) as err:
+                        if os.path.exists(html_filename):
+                            os.remove(html_filename)
+                        raise err
+
+                if anomaly_redirection:
+                    raise RuntimeError(anomaly_redirection)
+
+                if is_redirect:
+                    continue
+
+                if clean_text and (not os.path.isfile(cleaned_filename) or ignore_if_exists):
+                    try:
+                        text = clean_html(
+                            page_body,
+                            language=language,
+                            add_title=page_title,
+                        )
+                    except Exception as err:
+                        os.makedirs(os.path.dirname(html_filename), exist_ok=True)
+                        with open(html_filename, "w") as f:
+                            f.write(page_body)
+                        raise RuntimeError(f"Failed to clean {html_filename}") from err
+                    if not text:
+                        print(f"WARNING: no text in {page_title}")
+                        continue
+                    if not re.search("\n", text):
+                        print(f"WARNING: empty body in {page_title}")
+                        continue
+                    os.makedirs(os.path.dirname(cleaned_filename), exist_ok=True)
+                    try:
+                        with open(cleaned_filename, "w") as f:
+                            f.write(text)
+                    except (Exception, KeyboardInterrupt) as err:
+                        if os.path.exists(cleaned_filename):
+                            os.remove(cleaned_filename)
+                        raise err
+
+
+def download_html_dump(url, version, language, what, output_dir, verbose=True, do_clean=False):
+    url_folder = f"{url}/{version}"
+
+    regex=rf"{language}{what}\-NS0\-.*HTML.json.tar.gz$"
+    json_targz_file = get_links(url_folder, regex=regex)
+
+    assert len(json_targz_file) == 1, f"Found find {len(json_targz_file)} files corresponding to {regex} in {url_folder} ({json_targz_file})"
+    json_targz_file = json_targz_file[0]
+    assert json_targz_file.endswith("-HTML.json.tar.gz"), f"Unexpected file {json_targz_file}"
+
+    # Download the file with md5 sum
+    url_stats_json = os.path.join(url_folder, json_targz_file[:-len("-HTML.json.tar.gz")] + "-STATS.json")
+    response = requests.get(url_stats_json)
+    if response.status_code != 200:
+        raise RuntimeError(f"Failed to download {url_stats_json}. Status code {response.status_code}")
+    expected_md5 = response.json()["md5sum"]
+
+    output_targz_file = os.path.join(output_dir, json_targz_file)
+    output_folder = os.path.join(output_dir, f"{language}{what}_ndjson")
+
+    if not os.path.isdir(output_folder):
+
+        download_file(
+            os.path.join(url_folder, json_targz_file),
+            output_targz_file,
+            expected_md5=expected_md5,
+            verbose=verbose,
+        )
+
+        if verbose:
+            print(f"Extracting {output_targz_file} -> {output_folder}/")
+        try:
+            with tarfile.open(output_targz_file, 'r:gz') as tar:
+                # Extract the contents of the archive
+                tar.extractall(output_folder)
+        except (Exception, KeyboardInterrupt) as err:
+            if os.path.exists(output_folder):
+                shutil.rmtree(output_folder)
+            raise err
+
+        if do_clean: os.remove(output_targz_file)
+
+    return output_folder
+
+
+def num_lines_in_big_file(filename):
+    def blocks(files, size=65536):
+        while True:
+            b = files.read(size)
+            if not b: break
+            yield b
+
+    with open(filename, "r") as f:
+        return sum(bl.count("\n") for bl in blocks(f))
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description='Extract plain text from Wikipedia latest dumps',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+    )
+    parser.add_argument("--output_dir", default="Wikipedia", help="Output directory")
+    parser.add_argument("--language", default="fr", help="language code")
+    parser.add_argument("--what", default="wiki", help="what to import (wiki, wiktionary, wikibooks, wikinews, wikisource, wikiversity, wikivoyage)")
+    parser.add_argument("--version", default="latest",
+                        help="Version to download. Example: 20231120")
+    parser.add_argument("--no_clean", action="store_true", default=False,
+                        help="Do not perform text cleaning. Only download dump")
+    parser.add_argument("--keep_tables", default=False, action="store_true", help="Keep tables")
+    parser.add_argument("--no_verbose", action="store_true", default=False)
+    args = parser.parse_args()
+
+    BASE_URL = f"https://dumps.wikimedia.org/other/enterprise_html/runs"
+    MIRROR_URL = BASE_URL
+    VERBOSE = not args.no_verbose
+
+    versions = get_latest_versions(BASE_URL) if args.version in [None, "latest"] else [args.version]
+
+    for version in versions:
+        output_dir = os.path.join(args.output_dir, version)
+
+        if VERBOSE:
+            print(f"Downloading version {version}")
+        try:
+            json_folder = download_html_dump(
+                BASE_URL, version,
+                language=args.language,
+                what=args.what,
+                output_dir=output_dir,
+                verbose=VERBOSE,
+            )
+        except ProcessLookupError as err:
+            print(f"WARNING: {err} for {version}")
+            continue
+
+        dump_wiki_html_plaintext(
+            json_folder,
+            output_dir=output_dir,
+            language=args.language,
+            prefix=f"{args.language}{args.what}_",
+            verbose=VERBOSE,
+            max_pages=None,
+            clean_text=not args.no_clean,
+            keep_tables=args.keep_tables,
+        )
+
+        break

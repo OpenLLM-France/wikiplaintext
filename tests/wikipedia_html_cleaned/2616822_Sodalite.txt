@@ -1,61 +1,114 @@
-La sodalite est une espèce minérale du groupe des silicates, sous-groupe des tectosilicates, formée de silicate chloré de sodium et d'aluminium, de formule chimique Na8Al6Si6O24Cl2 avec des traces de fer, manganèse, potassium, calcium, eau et soufre. C'est l'un des constituants du lapis-lazuli.
+# Sodalite :
 
-Historique de la description et appellations :
+La sodalite est une espèce minérale du groupe des silicates, sous-groupe des tectosilicates, formée de silicate chloré de sodium et d'aluminium, de formule chimique Na₈Al₆Si₆O₂₄Cl₂ avec des traces de fer, manganèse, potassium, calcium, eau et soufre. C'est l'un des constituants du lapis-lazuli.
 
-Inventeur et étymologie :
+# Sodalite :
+## Historique de la description et appellations :
+### Inventeur et étymologie :
+
 Décrite par T. Thomson en 1811. De soda (« sodium ») et du grec lithos (« pierre »), en allusion à sa composition chimique.
 
-Topotype :
+# Sodalite :
+## Historique de la description et appellations :
+### Topotype :
 
 Ilimaussaq, Narsaq, Province de Kitaa, Groenland.
 
-Synonymie :
+# Sodalite :
+## Historique de la description et appellations :
+### Synonymie :
 
-* Alomite : nom désuet pour une sodalite de Bancroft, Ontario, Canada, nom donné à partir du patronyme de Charles Allom, propriétaire de carrière au début du XXe siècle à Bancroft.
+* Alomite : nom désuet pour une sodalite de Bancroft, Ontario, Canada, nom donné à partir du patronyme de Charles Allom, propriétaire de carrière au début du XXᵉ siècle à Bancroft.
 * Ditroite (Brogger) : nommée à partir du topotype Ditrău (Ditró), Roumanie. Ce terme sert surtout à désigner une roche riche en sodalite.
 * Glaucolite (Weibye, P.C. 1848) : espèce initialement décrite par P. C. Weibye à partir de spécimens trouvés par Morten Thrane Esmark à Låven (Lamöskjier), Langesundsfjorden, Norvège et déclassée depuis comme synonyme de sodalite.
 
-Caractéristiques physico-chimiques :
+# Sodalite :
+## Caractéristiques physico-chimiques :
+### Critères de détermination :
 
-Critères de détermination :
 * Couleur bleue caractéristique
 * Dureté
 * Souvent associée avec les minéraux tels que : néphéline et cancrinite (altération de la néphéline)
 * Jamais en association avec le quartz
 
-Variétés :
+# Sodalite :
+## Caractéristiques physico-chimiques :
+### Variétés :
 
 * Hackmanite (L.H. Borgström 1903) : variété de sodalite présentant la propriété d'être photochrome et luminescente, dédiée à Victor Axel Hackman (1866 - 1941), professeur de géologie à l'Université d'Helsinki. Lorsque l'hackmanite provenant du Mont Saint-Hilaire (Québec) est fraîchement extraite, elle est généralement pâle à violet profond, mais la couleur vire rapidement au grisâtre ou au blanc verdâtre. À l'inverse, l'hackmanite originaire d'Afghanistan, d'un blanc crémeux au départ, se teinte de couleurs allant du violet au rose lorsqu'elle est exposée au soleil. Laissée dans l'obscurité pendant quelque temps, le violet s'efface à nouveau.
+> La luminescence est accrue par l'utilisation de lumière ultraviolette (UV) de grande longueur d'onde ou, inversement, de lumière ultraviolette de courte longueur d'onde.
 * Molybdosodalite (F. Zambonini 1910) : variété de sodalite contenant de l'oxyde de molybdène décrite à Monte Somma, Italie.
 
-Cristallochimie :
+# Sodalite :
+## Cristallochimie :
 
 La sodalite sert de chef de file à un groupe de tectosilicates. Le groupe sodalite est composé de minéraux ayant une structure isométrique similaire et chimiquement proches ; tous issus des feldspathoïdes, minéraux des roches ignées, pauvres en silice. Comme les zéolithes, les feldspathoïdes et le groupe de la sodalite ont des structures cristallines largement ouvertes, ce que traduit parfaitement leur faible densité.
 
-Groupe de la sodalite :
+# Sodalite :
+## Cristallochimie :
+### Groupe de la sodalite :
 
-* Haüyne : (Na,Ca)4-8[Al6Si6(O,S)24](SO4,Cl)1-2
-* Lazurite : (Na,Ca)8[(S,SO4,Cl2)|Al6Si6O24]
-* Noséane : Na8[SO4|Al6Si6O24]
-* Sodalite : Na8[Cl2|Al6Si6O24]
-* Tsarégorodtsévite : N(CH3)4[AlSi5O12]
-* Tugtupite : Na4[Cl|BeAlSi4O12]
+* Haüyne : (Na,Ca)₄₋₈[Al₆Si₆(O,S)₂₄](SO₄,Cl)₁₋₂
+* Lazurite : (Na,Ca)₈[(S,SO₄,Cl₂)|Al₆Si₆O₂₄]
+* Noséane : Na₈[SO₄|Al₆Si₆O₂₄]
+* Sodalite : Na₈[Cl₂|Al₆Si₆O₂₄]
+* Tsarégorodtsévite : N(CH₃)₄[AlSi₅O₁₂]
+* Tugtupite : Na₄[Cl|BeAlSi₄O₁₂]
 
-Cristallographie :
+# Sodalite :
+## Cristallochimie :
+### Cristallographie :
 
-* Paramètres de la maille conventionnelle :
-a
-{\displaystyle a}
-= 8,85 Å ; Z = 1 ; V = 693,15 Å3
-* Densité calculée = 2,32 g/cm3
+* Paramètres de la maille conventionnelle : a = 8,85 Å ; Z = 1 ; V = 693,15 Å³
+* Densité calculée = 2,32 g/cm³
 
-Gîtologie et minéraux associés :
+# Sodalite :
+## Cristallochimie :
+### Propriétés physiques :
+#### Habitus :
 
-Gisements producteurs de spécimens remarquables :
+> Rares cristaux pseudo-hexagonaux allongés sur [111] pouvant atteindre 10 cm.
+
+# Sodalite :
+## Cristallochimie :
+### Propriétés physiques :
+#### Optique :
+
+> Luminescent, fluorescent et phosphorescent.
+
+# Sodalite :
+## Gîtes et gisements :
+### Gîtologie et minéraux associés :
+#### Gîtologie :
+
+> Formée dans les syénites à néphéline, phonolites, et autres types de roches connexes.
+> Dans le métamorphisme des roches calcaires et dans les cavités de blocs volcaniques éjectés.
+> Présente dans les météorites.
+
+# Sodalite :
+## Gîtes et gisements :
+### Gîtologie et minéraux associés :
+#### Minéraux associés :
+
+> néphéline, cancrinite, mélanite, aegirine, microcline, sanidine, albite, calcite, fluorine, ankérite, barytine.
+
+# Sodalite :
+## Gîtes et gisements :
+### Gisements producteurs de spécimens remarquables :
+
 * Afghanistan
+> Ladjuar Medam, Sar-e Sang, vallée de Koksha, Province du Badakhshan
 * Canada
+> Poudrette, Mont Saint-Hilaire, Comté de Rouville, Québec
 * France
+> Vensac, Brocq-en-Menet, Menet, Cantal Mts, Cantal, Auvergne
 * Groenland
+> Ilimaussaq, Narsaq, Province de Kitaa, Topotype
 * Italie
+> Monte Somma, Complexe volcanique Somma-Vésuve, Naples, Campanie, Italie.
 
-Exploitation des gisements :
+# Sodalite :
+## Exploitation des gisements :
+### Utilisations :
+
+> La qualité gemme peut être taillée à facette ; la qualité colorée massive est utilisée comme pierre d'ornement.

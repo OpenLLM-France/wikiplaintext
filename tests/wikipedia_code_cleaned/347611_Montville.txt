@@ -1,8 +1,8 @@
 Montville est une commune française située dans le département de la Seine-Maritime en région Normandie.
 
 Géographie :
-
 Description :
+
 Montville est située en France dans la région de Normandie, dans le pays de Rouen ou Rouënnais.
 Montville est accessible par la route départementale 155 depuis Clères ou Malaunay, par la route départementale 44 depuis Fontaine-le-Bourg ou Eslettes, et par la route départementale 47 depuis Bosc-Guérard-Saint-Adrien.
 Elle est située à 5 minutes de l’autoroute A151 qui relie Rouen et Dieppe. Prendre la sortie n° 1 « Eslettes, Montville, Malaunay ».
@@ -10,21 +10,21 @@ Le territoire communal est traversé par la ligne de Malaunay - Le Houlme à Die
 La ligne interurbaine 29 qui relie Rouen à Bosc-le-Hard s’arrête à Montville.
 
 Communes limitrophes :
-
 Hydrographie :
+
 La commune se trouve à la confluence de deux rivières : la Clérette et Cailly, respectivement sous-affluent et affluent de la Seine.
 
 Occupation des sols :
-
 Climat :
+
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique altéré », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du même type de climat dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs.
 Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les précipitations, dont les valeurs correspondent à la normale 1971-2000. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-après.
 Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Rouen - Jardin », sur la commune de Rouen, mise en service en 1979 et qui se trouve à 12 km à vol d'oiseau, où la température moyenne annuelle est de 12.2 °C et la hauteur de précipitations de 805,2 mm pour la période 1981-2010.
 Sur la station météorologique historique la plus proche, « Rouen-Boos », sur la commune de Boos, mise en service en 1968 et à 20 km, la température moyenne annuelle évolue de 10.1 °C pour la période 1971-2000 à 10.5 °C pour 1981-2010, puis à 11 °C pour 1991-2020.
 
 Urbanisme :
-
 Typologie :
+
 Montville est une commune urbaine, car elle fait partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'Insee.
 Elle appartient à l'unité urbaine de Rouen, une agglomération inter-départementale regroupant 50 communes et 467575 habitants en 2017, dont elle est une commune de la banlieue.
 Par ailleurs, la commune fait partie de l'aire d'attraction de Rouen dont elle est une commune de la couronne. Cette aire, qui regroupe 317 communes, est catégorisée dans les aires de 200 000 à moins de 700000 habitants.
@@ -51,9 +51,11 @@ Sous la IIIᵉ République, de nombreux édifices sont construits : groupe scola
 L'orthographe du nom de la commune est modifiée en 1964 et le « t » réapparaît définitivement.
 De nombreuses infrastructures sont créées depuis les années 1980 jusqu’à aujourd’hui : plan d’eau, musée des Sapeurs-Pompiers de France, résidence pour personnes âgées et maison de retraite, parc industriel de Cardonville, salle de spectacles « Espace Jean-Loup-Chrétien », etc.
 
+Politique et administration :
+Tendances politiques et résultats :
 Liste des maires :
-
 Distinctions et labels :
+
 En 2016, la commune détient le label « Ville Internet @@@@ ».
 Les fleurs et la botanique sont une tradition bien ancrée à Montville. Vers 1850 y était installée une des plus grandes collections de cactées et plantes succulentes appartenant au baron Hippolyte Boissel de Monville (maire de 1831 à 1846). Cette collection donna son nom à de nombreuses plantes portant toujours le nom latin Monvillea.
 Cette tradition se poursuit aujourd’hui.
@@ -70,8 +72,8 @@ Population et société :
 Les habitants de la commune sont appelés les Montvillais.
 
 Démographie :
-
 Sports et loisirs :
+
 * 2 stades de football
 * 2 courts de tennis
 * 2 gymnases
@@ -93,8 +95,8 @@ Pour le culte catholique, la communauté locale de Montville est le siège de la
 Le journal de la paroisse Saint-Jean-Bosco de Clères – Montville fait éditer son journal par Bayard Service à 5600 exemplaires.
 
 Culture locale et patrimoine :
-
 Lieux et monuments :
+
 * La mairie :
 Édifiée en 1888, la mairie renferme le drapeau de la Garde nationale de la Révolution fixé sur le mur de la salle du Conseil municipal de la mairie. Trois thèmes majeurs y sont représentés : la Royauté, la Révolution et la République. Son état de conservation exceptionnel en fait une pièce historique et rarissime. Le vitrail de 1888 surplombe le hall du rez-de-chaussée de la mairie. Le motif central représente la Justice y figurent des bonnets phrygiens, des cocardes aux couleurs inversées et la devise républicaine.
 * L'église Notre-Dame-de-l'Assomption possède un clocher datant du XIᵉ siècle. Son chœur plus récent est des XVᵉ et XVIᵉ siècles.
@@ -153,5 +155,3 @@ Personnalités liées à la commune :
 * Louis Amand Demarest (1817-1883), député, mort à Montville.
 * L'abbé Joseph Kerebel (1912-1945), vicaire de Montville, mort pour la France en déportation.
 * Amaury Vassili : né à Rouen en juin 1989, ce jeune ténor et chanteur lyrique a passé sa jeunesse à Montville entre neuf et seize ans.
-
-Héraldique :

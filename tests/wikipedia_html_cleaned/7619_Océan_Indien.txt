@@ -1,33 +1,31 @@
-L’océan Indien, autrefois appelé océan Oriental ou mer des Indes, est un océan qui s’étend sur une surface de 70 560 000 km2, soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au nord par la péninsule Arabique, l'Iran, le Pakistan, l’Inde, le Bangladesh, la Birmanie et la Thaïlande ; à l'est par l’Indonésie (îles de Sumatra, Java, Bali, Sumbawa, Sumba, Timor, la Nouvelle-Guinée occidentale), l'entrée ouest du détroit de Torrès, l’Australie continentale, la sortie est du détroit de Bass et la côte orientale de la Tasmanie ; le méridien 146° 55' de longitude est frontalier de l'océan Pacifique ; au sud par le continent Antarctique, à
+# Océan Indien :
+
+L’océan Indien, autrefois appelé océan Oriental ou mer des Indes, est un océan qui s’étend sur une surface de 70 560 000 km², soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au nord par la péninsule Arabique, l'Iran, le Pakistan, l’Inde, le Bangladesh, la Birmanie et la Thaïlande ; à l'est par l’Indonésie (îles de Sumatra, Java, Bali, Sumbawa, Sumba, Timor, la Nouvelle-Guinée occidentale), l'entrée ouest du détroit de Torrès, l’Australie continentale, la sortie est du détroit de Bass et la côte orientale de la Tasmanie ; le méridien 146° 55' de longitude est frontalier de l'océan Pacifique ; au sud par le continent Antarctique, à
 l’ouest par le méridien 20° de longitude est, qui le sépare de l'océan Atlantique, enfin par l'Afrique.
 
-Géographie physique :
+# Océan Indien :
+## Géographie physique :
+### Localisation et limites :
 
-Localisation et limites :
 L'océan Indien se situe entre le méridien 20° 00' E, l'Afrique continentale jusqu'au raas Xaafun (Somalie), la limite sud de la mer d'Arabie, l'Addu Atholhu (Maldives), la limite sud de la mer des Laquedives, le Sri-Lanka, la limite sud du golfe du Bengale, l'île de Breueh, les Grandes et Petites îles de la Sonde méridionales jusqu'au tanjung Boa, sur l'île de Rote, l'Australie continentale du cap Londonderry au West Cape Howe (cap Howe occidental), la limite sud de la Grande Baie australienne, le méridien 146°55' E depuis le cap Sud-Est en Tasmanie, et l'Antarctique.
 Les eaux les plus méridionales de l'océan Indien sont rendues très froides, voire glacées, par la présence du Continent Blanc, cependant la plupart de ses eaux sont tropicales, dotées de récifs coralliens et d'atolls. C'est le plus chaud des océans. Sa chaleur génère de nombreuses tempêtes tropicales pendant les mois d'été. Son code d'enregistrement numérique auprès de l’Organisation hydrographique internationale est « B », et son identification dans Limite des océans et des mers est « 45 »; son nom français dans la nomenclature des espaces maritimes du Conseil national de l'information géolocalisée est « Océan Indien ».
-
 L'Organisation hydrographique internationale définit les limites de l'océan Indien comme suit :
-
 Au nord :
 * Les limites sud de la mer d'Arabie et de la mer des Laquedives ;
 * la limite sud du golfe du Bengale ;
 * les limites sud de l'archipel indonésien ;
 * et la limite sud de la Grande Baie australienne.
-
 À l'ouest :
-
 * Du cap des Aiguilles par 20° de longitude Est en suivant ce méridien jusqu'au continent Antarctique.
-
 À l'est :
-
 * Depuis le South East Cape, point méridional de la Tasmanie, en direction du sud le long du méridien 146° 55' E jusqu'au continent Antarctique.
-
 Au sud :
-
 * Le continent Antarctique.
 
-Mers bordières :
+# Océan Indien :
+## Géographie physique :
+### Localisation et limites :
+#### Mers bordières :
 
 Les espaces maritimes subordonnés à l'océan Indien se situent à sa périphérie et sont au nombre de quinze :
 * Golfe de Suez
@@ -46,122 +44,90 @@ Les espaces maritimes subordonnés à l'océan Indien se situent à sa périphé
 * Grande Baie australienne
 * Détroit de Bass
 
-Volume :
+# Océan Indien :
+## Géographie physique :
+### Localisation et limites :
+#### Profondeur :
 
-Profondeur :
 La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (son point le plus profond enregistré jusqu’à aujourd’hui).
 
-Niveau :
+# Océan Indien :
+## Géologie :
 
-Géologie :
 À l’époque de l’apparition des premiers dinosaures, il y a 200 millions d’années (Trias), l’Afrique, l’Inde, l’Antarctique et l’Australie se touchaient pour ne former qu’un seul continent, la Pangée. Il y a 170 millions d’années, l’Afrique s’en sépare puis, il y a 70 millions d’années, l’Inde s’en détache à son tour pour venir buter sur le continent asiatique il y a 45 millions d’années. C’est cet espace laissé vide que nous nommons océan Indien.
 
-Les îles :
+# Océan Indien :
+## Les îles :
 
 * les îles Quirimbas (Mozambique)
-* l'île de Madagascar
-îles de Madagascar
-* îles de Madagascar
+* l'île de
+** îles de Madagascar
 * l'île de La Réunion (région et département français)
-* l'île de Mayotte (région et département français)
-îles de Mayotte
-* îles de Mayotte
+* l'île de
+** îles de Mayotte
 * les cinq îles Éparses françaises de l'océan Indien : l'atoll Bassas da India, l'île Europa, l'île Juan de Nova, l'île Tromelin et les îles Glorieuses (île Grande Glorieuse et du Lys)
-
 * les dépendances lointaines de l'île Maurice :
-
-l'île Rodrigues (dépendance de Maurice)
-l'archipel d'Agaléga (dépendance de Maurice)
-* l'île Rodrigues (dépendance de Maurice)
-* l'archipel d'Agaléga (dépendance de Maurice)
+** l'île Rodrigues (dépendance de Maurice)
+** l'archipel d'Agaléga (dépendance de Maurice)
 * Union des Comores
-Anjouan
-Grande Comore
-Mohéli
-* Anjouan
-* Grande Comore
-* Mohéli
-
-* les Seychelles :
-
-les îles Intérieures granitiques et coralliennes
-les îles Extérieures coralliennes (en créole seychellois : Zil Elwannyen Sesel)
-* les îles Intérieures granitiques et coralliennes
-* les îles Extérieures coralliennes (en créole seychellois : Zil Elwannyen Sesel)
-
-* les îles tanzaniennes :
-
-les îles de Zanzibar et de Pemba ;
-l'île de Mafia.
-* les îles de Zanzibar et de Pemba ;
-* l'île de Mafia.
-
-* les îles yémenites :
-
-Abd al Kuri
-Socotra
-* Abd al Kuri
-* Socotra
+** Anjouan
+** Grande Comore
+** Mohéli
+* les
+** les îles Intérieures granitiques et coralliennes
+** les îles Extérieures coralliennes (en créole seychellois : Zil Elwannyen Sesel)
+* les îles
+** les îles de Zanzibar et de Pemba ;
+** l'île de Mafia.
+* les îles
+** Abd al Kuri
+** Socotra
 * les îles omanaises de Kira Mourah
 * les Îles Laquedives (territoire de l’Inde)
 * les îles Maldives
 * l'île de Sri Lanka
 * l’archipel des Chagos (dont Diego Garcia (Territoire britannique de l'océan Indien)
 * les îles Andaman et les îles Nicobar (qui forment un territoire de l’Inde)
-* Les îles indonésiennes
-au large de Sumatra : îles Banyak, Simeulue, Nias, îles Mentawaï, Enggano,
-au large de Java : île de Deli, Tinjil, Nusa Kambangan, Sempu
-* au large de Sumatra : îles Banyak, Simeulue, Nias, îles Mentawaï, Enggano,
-* au large de Java : île de Deli, Tinjil, Nusa Kambangan, Sempu
-
-* Les îles australiennes :
-
-les îles Cocos (territoire de l'Australie) ;
-l’île Christmas (territoire de l’Australie) ;
-la Tasmanie et l'archipel Furneaux ;
-Les îles Heard-et-MacDonald.
-* les îles Cocos (territoire de l'Australie) ;
-* l’île Christmas (territoire de l’Australie) ;
-* la Tasmanie et l'archipel Furneaux ;
-* Les îles Heard-et-MacDonald.
-
-* les autres îles australes des Terres australes et antarctiques françaises :
-
-les îles Amsterdam et Saint-Paul ;
-l’archipel Crozet ;
-les îles Kerguelen (ou « îles de la Désolation ») ;
-* les îles Amsterdam et Saint-Paul ;
-* l’archipel Crozet ;
-* les îles Kerguelen (ou « îles de la Désolation ») ;
-
-* Les îles du Prince-Édouard (ou « îles Froides »), une dépendance sud-africaine :
-
-l'île du Prince-Édouard
-l'île Marion
-* l'île du Prince-Édouard
-* l'île Marion
+* Les îles
+** au large de Sumatra : îles Banyak, Simeulue, Nias, îles Mentawaï, Enggano,
+** au large de Java : île de Deli, Tinjil, Nusa Kambangan, Sempu
+* Les îles
+** les îles Cocos (territoire de l'Australie) ;
+** l’île Christmas (territoire de l’Australie) ;
+** la Tasmanie et l'archipel Furneaux ;
+** Les îles Heard-et-MacDonald.
+* les autres îles australes des
+** les îles Amsterdam et Saint-Paul ;
+** l’archipel Crozet ;
+** les îles Kerguelen (ou « îles de la Désolation ») ;
+* Les
+** l'île du Prince-Édouard
+** l'île Marion
 * Liste des îles de la mer Rouge
 * Liste des îles du golfe Persique (en)
 
-Histoire :
+# Océan Indien :
+## Les îles :
+### Les États riverains :
 
-* IIe siècle av. J.-C. : le Grec Eudoxe de Cyzique voyage en Inde par la voie maritime. Le géographe Ptolémée, à la même époque, le désigne sous le nom d’Indikon Pelagos (« mer Indienne »), puis plus tard Pline l'Ancien le nomme lui-même : Oceanus Indicus (océan Indien).
-* Ier-IVe siècle : arrivée en provenance d’Indonésie des premiers Austronésiens dans la région, notamment à Madagascar. Contacts avec l’Afrique orientale où des plantes cultigènes asiatiques (banane, taro, igname, etc.) sont introduites.
-* VIIe siècle : épanouissement du bouddhisme à Sumatra et Java. Voyages de plusieurs moines bouddhistes chinois, dont Yi Jing, en Inde en passant par la voie maritime.
+États de l'océan Indien au sens strict, mer Rouge et golfe Persique non inclus :
+
+# Océan Indien :
+## Histoire :
+
+* IIᵉ siècle av. J.-C. : le Grec Eudoxe de Cyzique voyage en Inde par la voie maritime. Le géographe Ptolémée, à la même époque, le désigne sous le nom d’Indikon Pelagos (« mer Indienne »), puis plus tard Pline l'Ancien le nomme lui-même : Oceanus Indicus (océan Indien).
+* Iᵉʳ-IVᵉ siècle : arrivée en provenance d’Indonésie des premiers Austronésiens dans la région, notamment à Madagascar. Contacts avec l’Afrique orientale où des plantes cultigènes asiatiques (banane, taro, igname, etc.) sont introduites.
+* VIIᵉ siècle : épanouissement du bouddhisme à Sumatra et Java. Voyages de plusieurs moines bouddhistes chinois, dont Yi Jing, en Inde en passant par la voie maritime.
 * 860 : une inscription de Java mentionne, dans une liste de domestiques, le nom de Jenggi, c’est-à-dire « Zengi », nom arabe des habitants de la côte est de l’Afrique.
 * 945-946 : le livre arabe Les Merveilles de l’Inde rapporte l’arrivée sur la côte du Mozambique d’« un millier d’embarcations » montées par des Waq-Waq qui viennent d’îles « situées en face de la Chine » (c’est-à-dire l’actuelle Indonésie) chercher des produits et des esclaves.
-* XIe siècle : la dynastie Chola dans l’Inde du Sud conquiert Ceylan et lance des expéditions contre le royaume de Sriwijaya dans l’île indonésienne de Sumatra.
-* XIIIe siècle : arrivée de Persans chiraziens aux Comores.
+* XIᵉ siècle : la dynastie Chola dans l’Inde du Sud conquiert Ceylan et lance des expéditions contre le royaume de Sriwijaya dans l’île indonésienne de Sumatra.
+* XIIIᵉ siècle : arrivée de Persans chiraziens aux Comores.
 * 1295 : Marco Polo rentre de Chine par la voie maritime.
-
-* XIVe siècle :
-
-le Marocain Ibn Battuta, ambassadeur du sultanat de Delhi en Chine, visite Sumatra ;
-le Chinois Wang Dayuan effectue plusieurs voyages entre 1328 et 1339 qui le mèneront en Arabie (puis en Égypte et au Maroc) et en Afrique orientale (jusqu'à l'actuelle Tanzanie).
-* le Marocain Ibn Battuta, ambassadeur du sultanat de Delhi en Chine, visite Sumatra ;
-* le Chinois Wang Dayuan effectue plusieurs voyages entre 1328 et 1339 qui le mèneront en Arabie (puis en Égypte et au Maroc) et en Afrique orientale (jusqu'à l'actuelle Tanzanie).
+* XIV
+** le Marocain Ibn Battuta, ambassadeur du sultanat de Delhi en Chine, visite Sumatra ;
+** le Chinois Wang Dayuan effectue plusieurs voyages entre 1328 et 1339 qui le mèneront en Arabie (puis en Égypte et au Maroc) et en Afrique orientale (jusqu'à l'actuelle Tanzanie).
 * 1400 : fondation de Malacca dans la péninsule Malaise par un prince de Sumatra.
-* 1421-1422 : 6e voyage du chinois Zheng He atteignant l'Afrique orientale.
+* 1421-1422 : 6ᵉ voyage du chinois Zheng He atteignant l'Afrique orientale.
 * 1488 : Bartolomeu Dias dépasse le cap de Bonne-Espérance.
 * 1497 : Vasco de Gama va jusqu’en Inde. En chemin, il découvre l'archipel des Seychelles.
 * 1500 : première arrivée d’Européens à Madagascar (Diogo Dias).
@@ -172,25 +138,26 @@ le Chinois Wang Dayuan effectue plusieurs voyages entre 1328 et 1339 qui le mèn
 * 1772 : découverte des îles Kerguelen par Yves Joseph de Kerguelen de Trémarec.
 * 1820 : découverte du continent antarctique.
 * 1869 : ouverture du canal de Suez.
-
-* 1883 :
-
-explosion du Krakatoa et tsunami du 27 août 1883.
-tsunami du 26 décembre 2004
-* explosion du Krakatoa et tsunami du 27 août 1883.
-* tsunami du 26 décembre 2004
+* 1883
+** explosion du Krakatoa et tsunami du 27 août 1883.
+** tsunami du 26 décembre 2004
 * 2014 : recherche d'un Boeing 777 de la Malaysia Airlines sur le vol MH370 disparu depuis le 8 mars, potentiellement situé près de l'Australie.
 * 2015 : recherche des débris du Boeing 777 de la Malaysia Airlines sur le vol MH370 au niveau de l'île de la Réunion suite découverte d'une pièce de l'avion.
 
-Géopolitique :
+# Océan Indien :
+## Géopolitique :
 
 L'atoll de Diego Garcia en plein cœur de l'océan Indien est une possession britannique louée aux États-Unis en tant que base militaire. En raison de sa position stratégique, elle permet à ces derniers d'avoir une surveillance active et une possibilité d'intervention rapide vers les zones à risque en Afrique (Somalie), au Moyen-Orient ou en Asie (Indonésie).
 
-Problèmes environnementaux :
+# Océan Indien :
+## Environnement :
+### Problèmes environnementaux :
 
 Des débris plastiques de provenance mondiale polluent l'ensemble des océans ; concernant l'océan Indien, ils proviennent notamment d'Asie. Chaque année, 600 000 tonnes de déchets plastiques sont déversés dans l'océan. Bien que relativement sporadique, un vortex de déchets est présent dans l'océan Indien.
 Le réchauffement climatique, par l'élévation progressive du niveau des océans qu'il induit, menace directement les petits états insulaires « au ras de l'eau » comme les Maldives, membre de Alliance of Small Island States.
 
-Protection de l'environnement :
+# Océan Indien :
+## Environnement :
+### Protection de l'environnement :
 
 Il existe des réglementations nationale et internationale, ainsi que différents classements de certaines zones telles que des aires marines protégées, des réserves de biosphère, des parcs naturels marins...

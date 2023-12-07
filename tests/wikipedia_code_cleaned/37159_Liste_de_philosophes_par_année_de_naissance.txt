@@ -4,6 +4,8 @@ Antiquité :
 
 * une liste détaillée est en cours de réalisation : Liste alphabétique des philosophes antiques
 
+Époque Antique :
+Tableau chronologique :
 Aux origines :
 
 Homère (VIIIᵉ siècle av. J.-C.) a été considéré dans l'Antiquité comme un précurseur de certaines écoles philosophiques (scepticisme), malgré les protestations de Platon.
@@ -80,6 +82,8 @@ VIᵉ siècle avant J.-C. :
 ** Le Bouddha (Siddhârtha Gautama) (v. -563 ~ -483)
 ** Mahāvīra (fondateur du jaïnisme) (v. -599 ~ -527)
 
+Grèce classique :
+Tableau chronologique :
 Vᵉ siècle avant J.-C. :
 
 * Les Présocratiques (fin)
@@ -125,6 +129,8 @@ IVᵉ siècle avant J.-C. :
 ** Lie Zi ( 列子 Liè Zǐ ou Lieh Tzu) (v. -350 ~ v. -250)
 ** Zou Yan ( 鄒衍 / 邹衍 Zōu Yǎn ) (-305 ~ -240)
 
+Période hellénistique :
+Tableau chronologique :
 IIIᵉ siècle avant J.-C. :
 
 * Arcésilas de Pitane (v. -315 ~ v. -241)
@@ -148,8 +154,8 @@ Iᵉʳ siècle avant J.-C. :
 * Philon d'Alexandrie (v. -13 - v. 54)
 
 Après l'an 1 :
-
 Les stoïciens :
+
 *Cicéron
 * Sénèque (-4 - 65)
 * Épictète (v. 50 - v. 130)
@@ -194,8 +200,8 @@ Divers autres philosophes
 * Lesbonax (Iᵉʳ siècle)
 
 Moyen Âge :
-
 VIᵉ siècle :
+
 * Boèce (480 - 524 ou 525)
 * Cassiodore
 * Isidore de Séville

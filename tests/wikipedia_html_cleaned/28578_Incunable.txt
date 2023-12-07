@@ -1,41 +1,51 @@
-Dans l'histoire de l'imprimerie, un incunable est un livre imprimé au cours du XVe siècle en Europe. Les incunables ont été produits avant que l'imprimerie ne se répande sur le continent et ne remplace les documents manuscrits des copistes. L'appellation est parfois étendue aux post-incunables, imprimés dans la première moitié du XVIe siècle.
+# Incunable :
+
+Dans l'histoire de l'imprimerie, un incunable est un livre imprimé au cours du XVᵉ siècle en Europe. Les incunables ont été produits avant que l'imprimerie ne se répande sur le continent et ne remplace les documents manuscrits des copistes. L'appellation est parfois étendue aux post-incunables, imprimés dans la première moitié du XVIᵉ siècle.
 Environ 30 000 incunables sont répertoriés, dont les deux tiers en latin. Le plus ancien est la Bible à quarante-deux lignes (dite « B42 »), imprimée par Johannes Gutenberg, Peter Schoffer et Johann Fust en 1454.
 
-Origine du terme :
+# Incunable :
+## Origine du terme :
 
 Le mot « incunable » provient du mot latin incunabula, qui signifie « langes » ou « berceau ».
-L'utilisation du terme pour désigner les premiers livres imprimés est généralement attribuée à Bernhard von Mallinckrodt (de) dans son livre De Ortu ac Progressu Artis Typographicae, Dissertatio Historica publié en 1640,. Toutefois, le terme incunabula est explicitement employé dans ce contexte dès 1569 par Hadrianus Junius dans la Batavia.
+L'utilisation du terme pour désigner les premiers livres imprimés est généralement attribuée à Bernhard von Mallinckrodt (de) dans son livre De Ortu ac Progressu Artis Typographicae, Dissertatio Historica publié en 1640. Toutefois, le terme incunabula est explicitement employé dans ce contexte dès 1569 par Hadrianus Junius dans la Batavia.
 
-Définition :
+# Incunable :
+## Définition :
 
-Un incunable est, par convention, un livre imprimé en Europe avant le 1er janvier 1501. Cette définition précisée apparaît pour la première fois dans un catalogue de vente publié en 1688, mais certains supposent qu'elle pourrait remonter à l'époque de Mallinckrodt. On distingue les incunables xylographiques de ceux issus de presses à imprimer à caractères mobiles.
+Un incunable est, par convention, un livre imprimé en Europe avant le 1ᵉʳ janvier 1501. Cette définition précisée apparaît pour la première fois dans un catalogue de vente publié en 1688, mais certains supposent qu'elle pourrait remonter à l'époque de Mallinckrodt. On distingue les incunables xylographiques de ceux issus de presses à imprimer à caractères mobiles.
 Les incunables sont répertoriés dans des bases de données internationales (Incunabula Short Title Catalogue, Gesamtkatalog der Wiegendrucke, etc.), qui recensent plus de 30 000 exemplaires d'incunables. La bibliothèque d'incunables de la British Library possède plus de 10 000 éditions répartis en 12 500 copies, représentant 37 % des éditions connues.
 L'appellation est parfois improprement étendue aux « post-incunables », livres d'aspect comparable mais imprimés ultérieurement, jusqu'en 1525-1530 voire 1550 pour les pays nordiques.
 Certaines autorités englobent les livres de bloc de la même époque dans les incunables, tandis que d'autres limitent le terme aux ouvrages imprimés à l'aide de caractères mobiles.
 
-Histoire et diffusion des incunables :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Du manuscrit à l'incunable :
 
-Du manuscrit à l'incunable :
-Les incunables, ces livres nés au berceau de l’imprimerie, sont d’abord et avant tout des succédanés des manuscrits. L’écriture sur deux colonnes se maintient d’ailleurs à l’époque de l’imprimerie. Car Johannes Gutenberg et les premiers promoteurs de l'imprimerie ont cherché, non pas à fabriquer des objets nouveaux, mais bien à reproduire les manuscrits par un procédé mécanique, dans l’espoir de répondre à une demande de plus en plus grande de textes, que les différentes méthodes de reproduction élaborées dans les siècles antérieurs n’ont pas réussi à satisfaire complètement. Les changements qui vont mettre en place les conditions propices à l’invention de l’imprimerie sont visibles dès le XIIIe siècle par une production plus importante et une diffusion élargie de textes et par un déplacement des curiosités intellectuelles. Ces mutations se combinent à une phase d’essor économique et démographique net qui vont permettent à l’Europe occidentale de retrouver une certaine expansion démographique.
-La transmission du savoir dans le monde médiéval était essentiellement fondée sur les copies manuscrites et confinée aux monastères. Mais le besoin de textes va suivre la renaissance de la civilisation urbaine et l’avènement des premières universités aux XIe et XIIe siècles. Avec les universités apparaissent aussi les premières grandes bibliothèques organisées hors du monde religieux. Un problème de diffusion des manuscrits se pose alors, puisque ces derniers cessent d’être confinés au monde des clercs. Or, les étudiants ont un besoin grandissant de livres. Les universités sont les premières à chercher une façon de répondre à cette demande croissante de textes. C'est dans ce contexte que des ateliers de copistes se mettront en place, sur lesquels les universités vont exercer un contrôle avec l’apparition de la pecia, un système efficace de vérification et d’authentification du texte d’enseignement qui sera copié. D’objet de consultation ou de prêt, le manuscrit devient alors une marchandise, et une économie du livre va pouvoir se développer. Puis, le XIIIe siècle verra la multiplication des ateliers d’écriture civils (qui n’arrivent pas à satisfaire la demande toujours croissante) qui produisent « romans », récits historiques et livres d’heures pour le prince, son entourage, mais aussi pour les membres de la petite noblesse et de la bourgeoisie qui sont apparus avec l’essor des villes. Les villes combinant des fonctions de commandement dans les domaines de la politique, de la religion, de la culture et du négoce seront celles où ces changements vont le mieux s’implanter et aussi celles où le rôle de mécène va le mieux se développer.
-L’apparition du papier en Occident joue aussi un rôle important dans la multiplication des manuscrits, mais aussi dans leur vulgarisation. Issu de Chine, il est transmis par le biais des civilisations d’Asie centrale, de l’Inde et du monde arabe. Il apparaît à la fin du XVe siècle à la chancellerie normande de Sicile et sa fabrication se répand en Europe au cours du XIVe siècle. Comparé au parchemin, il présentait l’avantage d’un prix inférieur et de plus larges possibilités de fabrication. Tandis que le parchemin s’orientait vers les manuscrits de luxe, le papier servait aux manuscrits plus ordinaires et d’usage courant, tels ceux destinés aux étudiants et à un public plus large, mais qui reste toutefois minoritaire et privilégié.
-Cette littérature ne s'adressait pas à des ecclésiastiques, quoiqu'elle fût souvent produite par eux. En effet, le processus de laïcisation de l’écrit, conjointement avec l’élargissement de sa production, va déboucher sur une montée de la langue vernaculaire dans les textes. Les premiers textes conservés en vernaculaire datent du XIe siècle, mais il s’agit de textes brefs. Le XIe siècle va aussi voir la minuscule caroline évoluer vers l’écriture gothique, sous l’influence de la laïcisation, de la banalisation de l’écrit, mais aussi du développement de la pratique notariale et des administrations et enfin d’une tendance de plus en plus forte à la cursivité dans l'écrit. La généralisation de l’écriture gothique à travers l’Europe aux XIIe – XIIIe siècles explique qu’une typologie adaptée selon les régions et les usages puissent exister. D’ailleurs, c’est la textura, surtout employée pour les livres d’Église, qui sera prise comme modèle par Johannes Gutenberg pour les caractères de sa Bible à quarante-deux lignes.
-C’est dans ces conditions que dans les premières décennies du XVe siècle, de petits groupes d’inventeurs et d’entrepreneurs travaillent à la recherche d’une nouvelle méthode pour multiplier les textes. Il aura fallu la conjonction d’un besoin économique, du capitalisme et de l’assemblage de plusieurs techniques pour permettent de passer de la multiplication manuscrite d'un texte à une reproduction mécanique, qui va permettre la reproduction d'un même texte à quelques dizaines d’exemplaires.
+Les incunables, ces livres nés au berceau de l’imprimerie, sont d’abord et avant tout des succédanés des manuscrits. L’écriture sur deux colonnes se maintient d’ailleurs à l’époque de l’imprimerie. Car Johannes Gutenberg et les premiers promoteurs de l'imprimerie ont cherché, non pas à fabriquer des objets nouveaux, mais bien à reproduire les manuscrits par un procédé mécanique, dans l’espoir de répondre à une demande de plus en plus grande de textes, que les différentes méthodes de reproduction élaborées dans les siècles antérieurs n’ont pas réussi à satisfaire complètement. Les changements qui vont mettre en place les conditions propices à l’invention de l’imprimerie sont visibles dès le XIIIᵉ siècle par une production plus importante et une diffusion élargie de textes et par un déplacement des curiosités intellectuelles. Ces mutations se combinent à une phase d’essor économique et démographique net qui vont permettent à l’Europe occidentale de retrouver une certaine expansion démographique.
+La transmission du savoir dans le monde médiéval était essentiellement fondée sur les copies manuscrites et confinée aux monastères. Mais le besoin de textes va suivre la renaissance de la civilisation urbaine et l’avènement des premières universités aux XIᵉ et XIIᵉ siècles. Avec les universités apparaissent aussi les premières grandes bibliothèques organisées hors du monde religieux. Un problème de diffusion des manuscrits se pose alors, puisque ces derniers cessent d’être confinés au monde des clercs. Or, les étudiants ont un besoin grandissant de livres. Les universités sont les premières à chercher une façon de répondre à cette demande croissante de textes. C'est dans ce contexte que des ateliers de copistes se mettront en place, sur lesquels les universités vont exercer un contrôle avec l’apparition de la pecia, un système efficace de vérification et d’authentification du texte d’enseignement qui sera copié. D’objet de consultation ou de prêt, le manuscrit devient alors une marchandise, et une économie du livre va pouvoir se développer. Puis, le XIIIᵉ siècle verra la multiplication des ateliers d’écriture civils (qui n’arrivent pas à satisfaire la demande toujours croissante) qui produisent « romans », récits historiques et livres d’heures pour le prince, son entourage, mais aussi pour les membres de la petite noblesse et de la bourgeoisie qui sont apparus avec l’essor des villes. Les villes combinant des fonctions de commandement dans les domaines de la politique, de la religion, de la culture et du négoce seront celles où ces changements vont le mieux s’implanter et aussi celles où le rôle de mécène va le mieux se développer.
+L’apparition du papier en Occident joue aussi un rôle important dans la multiplication des manuscrits, mais aussi dans leur vulgarisation. Issu de Chine, il est transmis par le biais des civilisations d’Asie centrale, de l’Inde et du monde arabe. Il apparaît à la fin du XVᵉ siècle à la chancellerie normande de Sicile et sa fabrication se répand en Europe au cours du XIVᵉ siècle. Comparé au parchemin, il présentait l’avantage d’un prix inférieur et de plus larges possibilités de fabrication. Tandis que le parchemin s’orientait vers les manuscrits de luxe, le papier servait aux manuscrits plus ordinaires et d’usage courant, tels ceux destinés aux étudiants et à un public plus large, mais qui reste toutefois minoritaire et privilégié.
+Cette littérature ne s'adressait pas à des ecclésiastiques, quoiqu'elle fût souvent produite par eux. En effet, le processus de laïcisation de l’écrit, conjointement avec l’élargissement de sa production, va déboucher sur une montée de la langue vernaculaire dans les textes. Les premiers textes conservés en vernaculaire datent du XIᵉ siècle, mais il s’agit de textes brefs. Le XIᵉ siècle va aussi voir la minuscule caroline évoluer vers l’écriture gothique, sous l’influence de la laïcisation, de la banalisation de l’écrit, mais aussi du développement de la pratique notariale et des administrations et enfin d’une tendance de plus en plus forte à la cursivité dans l'écrit. La généralisation de l’écriture gothique à travers l’Europe aux XIIᵉ – XIIIᵉ siècles explique qu’une typologie adaptée selon les régions et les usages puissent exister. D’ailleurs, c’est la textura, surtout employée pour les livres d’Église, qui sera prise comme modèle par Johannes Gutenberg pour les caractères de sa Bible à quarante-deux lignes.
+C’est dans ces conditions que dans les premières décennies du XVᵉ siècle, de petits groupes d’inventeurs et d’entrepreneurs travaillent à la recherche d’une nouvelle méthode pour multiplier les textes. Il aura fallu la conjonction d’un besoin économique, du capitalisme et de l’assemblage de plusieurs techniques pour permettent de passer de la multiplication manuscrite d'un texte à une reproduction mécanique, qui va permettre la reproduction d'un même texte à quelques dizaines d’exemplaires.
 
-Premiers incunables typographiques :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Premiers incunables typographiques :
 
 Les incunables créés dans les premières années de l'imprimerie sont essentiellement de nouvelles éditions de manuscrits religieux et académiques du Moyen Âge. Quelques éditions de textes latins de Cicéron et Virgile sont aussi répertoriées, de même que des éditions en langue vernaculaire de Dante et Pétrarque.
 
-Bible dite « B42 » :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Bible dite « B42 » :
 
-Le premier incunable typographique répertorié est la Bible à quarante-deux lignes, dite « B42 », imprimée sur les presses de Mayence par Johannes Gutenberg, Peter Schöffer et Johann Fust à la fin de l'année 1454. Elle se compose de 1 282 pages réparties en deux volumes. La plupart des pages comprennent deux colonnes de quarante-deux lignes, d'où son nom. La Bible à quarante-deux lignes est élaborée graduellement grâce à un processus d'essais et d'erreurs. Les onze premières pages comprennent 40 ou 41 lignes, puis les 42 lignes deviennent standards par la suite. Cela représentait une économie d'environ cinq cents sur le papier et le vélin. Le texte en lettres gothiques est noir et a nécessité la gravure de 290 signes typographiques et l'emploi de 100 000 caractères. Les ornementations du rubricateur sont de couleur rouge, nécessitant un deuxième passage en machine. Il était coutume de payer 20 florins pour une copie papier de la Bible « B42 » et 50 florins pour une copie en vélin. En comparaison, une maison de l'époque coûtait entre 80 et 100 florins. Sur un tirage estimé de cent quatre-vingts exemplaires, seuls quarante-huit nous sont parvenus. Le premier chercheur à avoir décrit cet ouvrage est Guillaume-François Debure, au XVIIIe siècle.
+Le premier incunable typographique répertorié est la Bible à quarante-deux lignes, dite « B42 », imprimée sur les presses de Mayence par Johannes Gutenberg, Peter Schöffer et Johann Fust à la fin de l'année 1454. Elle se compose de 1 282 pages réparties en deux volumes. La plupart des pages comprennent deux colonnes de quarante-deux lignes, d'où son nom. La Bible à quarante-deux lignes est élaborée graduellement grâce à un processus d'essais et d'erreurs. Les onze premières pages comprennent 40 ou 41 lignes, puis les 42 lignes deviennent standards par la suite. Cela représentait une économie d'environ cinq cents sur le papier et le vélin. Le texte en lettres gothiques est noir et a nécessité la gravure de 290 signes typographiques et l'emploi de 100 000 caractères. Les ornementations du rubricateur sont de couleur rouge, nécessitant un deuxième passage en machine. Il était coutume de payer 20 florins pour une copie papier de la Bible « B42 » et 50 florins pour une copie en vélin. En comparaison, une maison de l'époque coûtait entre 80 et 100 florins. Sur un tirage estimé de cent quatre-vingts exemplaires, seuls quarante-huit nous sont parvenus. Le premier chercheur à avoir décrit cet ouvrage est Guillaume-François Debure, au XVIIIᵉ siècle.
 
-Psalmorum Codex :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Bible dite « B42 » :
+#### Psalmorum Codex :
 
 Il faut attendre 1457 pour que Peter Schöffer et Johann Fust impriment le premier livre en couleurs : le Psalmorum Codex, connu en France sous le nom de psautier de Mayence. Il contient calendrier, litanies, cantiques et prières en latin.
-
 Cet ouvrage est considéré, avec les quatre livres imprimés par Gutenberg, comme l’un des livres les plus précieux de tous les temps pour plusieurs raisons :
-
 * l'impression à partir d'encres de couleurs noire, rouge et bleue ;
 * sa qualité d’impression, malgré l’utilisation d’un caractère dit « de forme » ;
 * la régularité de la fonte des caractères ;
@@ -45,42 +55,59 @@ Cet ouvrage est considéré, avec les quatre livres imprimés par Gutenberg, com
 Peter Schöffer a de grandes difficultés pour imprimer son livre, et aurait dépensé plus de 4 000 florins pour l’impression de 12 feuillets.
 Le psautier était, à cette époque, le livre le plus recherché pour la dévotion privée : le « Psautier de Mayence » fut réimprimé par Fust et Schöffer en 1459.
 
-La Chronique de Nuremberg :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Bible dite « B42 » :
+#### La Chronique de Nuremberg :
 
 La Chronique de Nuremberg de Hartmann Schedel, livre profane imprimé par Anton Koberger en 1493, est un autre incunable célèbre qui comporte de nombreuses illustrations rehaussées à la main.
 
-Premières impressions en France :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Premières impressions en France :
+#### L'atelier de la Sorbonne :
 
-L'atelier de la Sorbonne :
 En 1470, trois compagnons typographes allemands issus de l’imprimerie typographique de Mayence, Ulrich Gering, Martin Grantz et Michel Friburger, installent la première imprimerie typographique française à caractères mobiles dans des locaux appartenant à la Sorbonne, à Paris. Durant l'automne ou l'hiver de cette année-là, ils réalisent les Espitolae de Gasparino Barziza, considérées comme le premier livre imprimé sur le territoire du royaume de France. Cet ouvrage est conservé à la Réserve des livres rares et précieux de la Bibliothèque nationale de France.
 
-Lyon :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Premières impressions en France :
+#### Lyon :
 
 En 1476, sort à Lyon — « l'une des capitales négociantes et artistiques de la Renaissance à partir de 1460 » selon l'expression de l'historien Frédéric Barbier — l'un des premiers livres imprimés en français : La Légende dorée de Jacques de Voragine. En 1503 Guillaume Balsarin y imprime « Le romant de la rose — moralisé cler et net, translaté de rime en prose par vostre humble Molinet ».
 
-Autres imprimeurs :
+# Incunable :
+## Histoire et diffusion des incunables :
+### Autres imprimeurs :
 
 Les imprimeurs d'incunables qui nous sont connus : Albrecht Pfister (Bamberg) ; Niccolò di Lorenzo (Florence) ; Erhard Ratdolt, Alde Manuce, Wendelin de Spire, Nicolas Jenson, Zacharie Kalliergis (Venise) ; Arnold Pannartz et Konrad Sweynheim (Subiaco puis Rome) ; Jean Neumeister (Albi), Guy Marchant (Paris), Johannes Mentelin (Strasbourg), Günther Zainer (de) (Augsbourg), Colard Mansion (Bruges), William Caxton (Bruges et Londres), Michael Furter (Bâle), Henri Mayer (Toulouse)…
 
-Présentation des incunables :
+# Incunable :
+## Présentation des incunables :
 
 L'incunable est vendu la plupart du temps en cahiers, non relié, comme le livre de l'époque moderne. Certains imprimeurs-libraires peuvent faire faire des reliures à la demande de clients plus fortunés.
 
-La mise en page :
+# Incunable :
+## Présentation des incunables :
+### La mise en page :
 
 La mise en page d’un incunable reprend celle des livres manuscrits de type codex.
 La feuille de papier est repliée sur elle-même pour former des cahiers, ce qui détermine le format. Le format le plus utilisé est le in-folio — feuille pliée en deux —, mais il existe également des incunables aux formats in-quarto — feuille pliée en quatre — ce format plus pratique à manipuler sera utilisé par les imprimeurs de manuels, de livres de droit, ou de romans.
-Les pages sont imprimées recto-verso (opisthographie) sur du papier ou sur vélin. Le papier utilisé depuis le XIIIe siècle un peu partout en Europe favorisera considérablement le développement de l’imprimerie.
+Les pages sont imprimées recto-verso (opisthographie) sur du papier ou sur vélin. Le papier utilisé depuis le XIIIᵉ siècle un peu partout en Europe favorisera considérablement le développement de l’imprimerie.
 La page de titre n’existe pas encore, l’impression du livre débute au recto du premier feuillet d’où une usure prématurée de cette première page.
 Le texte s’étale sur deux ou trois colonnes de 30 à 70 lignes par colonne.
 Les lettres sont imprimées en caractères gothiques imitation des manuscrits codex. Plus tard, apparaît le caractère romain issu des inscriptions lapidaires des monuments antiques.
 Au début, les caractères étaient fondus dans l’atelier de l’imprimeur. C’est vers 1540 que Claude Garamont créa la première fonderie de caractères.
 
-Les illustrations :
+# Incunable :
+## Présentation des incunables :
+### Les illustrations :
 
 Comme le manuscrit, l'incunable peut être décoré par un rubricateur et un miniaturiste : la place leur est laissée pour ajouter des capitales enluminées dans les livres. Peu à peu, cet espace vide est remplacé par une gravure sur bois. Certains livres sont accompagnés d'illustrations, constituées de gravures sur bois insérées dans la forme avec les caractères.
 
-Le contenu :
+# Incunable :
+## Présentation des incunables :
+### Le contenu :
 
 À la différence du codex — chaque manuscrit est unique — le livre imprimé est produit en série.
 Le texte débute par l’incipit — ce sont les premiers mots du texte — et se termine par un colophon, un terme qui désigne l’auteur, le titre de l’ouvrage, le lieu, la date de l’édition et le nom de l’imprimeur inséré en fin de document. La réclame et la signature sont utilisées.
@@ -88,7 +115,9 @@ La production des incunables — en Italie et en Allemagne principalement — es
 La production s’oriente également vers la reproduction d’herbiers, les textes médiévaux, calendriers, la littérature grecque (Homère), l’œuvre du poète écrivain Horace, les traités de médecine, imprimés dans des langues autres que latine — langues vernaculaires romanes, germaniques, anglo-saxonnes, etc.
 Pour la même édition, le contenu d’un livre peut varier. Si en cours d’impression le correcteur modifie le contenu du livre, par souci d'économie, le premier tirage ne sera pas détruit. Finalement, le livre sera relié avec les pages modifiées et les pages non modifiées. Pour les imprimeurs les plus courageux les modifications du texte seront rapportées à la main.
 
-Typographie :
+# Incunable :
+## Présentation des incunables :
+### Typographie :
 
 Les caractères sont créés grâce à la machine à fondre (Handgießereigerät) inventée par Johannes Gutenberg ce qui facilitait le travail de l'imprimeur en créant des caractères typographiques, appelés types, normalisés en série. C'est grâce à la matrice, qui était préalablement gravée des différents types, à l'envers et en creux, qu'un alliage de métal pouvait être fondu dans ce moule pour créer les caractères. Un petit nombre de fontes permettait de nombreuses possibilités en termes de caractères. Or, ces caractères étaient plus nombreux que les lettres de l'alphabet en raison des majuscules, des minuscules et des différents accents présents dans les différentes langues. Néanmoins, ce procédé rendait la tâche d'impression nettement plus efficace, puisque les caractères pouvaient être produits en grande quantité et être rapidement alignés, de manière uniforme, pour l'impression.
 Dans le nord de l'Europe, les premiers incunables, qui reproduisent la Bible, sont en écriture gothique, une police appelée Textura, qui est moins anguleuse que celle des livres d’images. Ces caractères furent appelées « lettres de somme », par opposition aux « lettres de forme », et aussi « flamandes » ou « allemandes ».
@@ -99,32 +128,38 @@ Les alinéas sont souvent alignés, c’est-à-dire au niveau des autres lignes 
 Les livres sont tardivement foliotés, et plus rarement encore paginés. La pagination à l'aide de chiffres arabes sur les deux côtés de la page apparaîtra pour la première fois en 1513 dans une édition de Cornucopiae de Nicolo Perotti.
 La page de titre apparaît elle-même tardivement, vers 1475-1480 à Venise, mais ce n'est qu'au siècle suivant qu'elle ressemblera à la page de titre actuelle.
 
-Imprimeurs, libraires, éditeurs, financiers :
+# Incunable :
+## Imprimeurs, libraires, éditeurs, financiers :
 
-Les libraires sont les marchands de livres, depuis le XIIe siècle. À partir de l'invention de l'impression en caractères mobiles, il existe des imprimeurs-libraires mais ce n'est pas le modèle économique le plus répandu. Très souvent, l'artisan imprimeur travaille avec une ou plusieurs personnes qui le financent. C'est le cas pour Johannes Gutenberg. Le premier privilège de libraire connu est délivré par le Sénat de Venise en 1469 : il s'agit d'un privilège attribué pour 10 ans pour une nouvelle invention qui arrivait à peine à Venise, l'imprimerie.
+Les libraires sont les marchands de livres, depuis le XIIᵉ siècle. À partir de l'invention de l'impression en caractères mobiles, il existe des imprimeurs-libraires mais ce n'est pas le modèle économique le plus répandu. Très souvent, l'artisan imprimeur travaille avec une ou plusieurs personnes qui le financent. C'est le cas pour Johannes Gutenberg. Le premier privilège de libraire connu est délivré par le Sénat de Venise en 1469 : il s'agit d'un privilège attribué pour 10 ans pour une nouvelle invention qui arrivait à peine à Venise, l'imprimerie.
 
-Méthodes de datation :
+# Incunable :
+## Méthodes de datation :
 
 Les ouvrages imprimés au cours de l'année 1500 ne diffèrent pas de ceux imprimés en 1501. D'une manière générale, la mise en page des livres évolue de façon continue entre 1480 et 1520. Pour qualifier les livres publiés à partir de 1501, on emploie parfois l'expression post-incunable.
 Environ un tiers des ouvrages imprimés avant 1501 le sont sans date (noté « [s.d.] ») et à cette époque de nombreux ouvrages produits sont manuscrits : le métier de copiste n'a pas disparu du jour au lendemain en Europe, loin de là. Conséquemment, les livres entièrement manuscrits fabriqués durant cette période ne sont pas considérés comme des incunables.
 Pour évaluer la date d'impression d'un incunable, les experts se servent du nom de l'imprimeur, du style des gravures et des fontes de caractères utilisées (la marque typographique), de la qualité du papier et de son fabricant, du matériel décoratif, du type d'ornementation.
-L'usage de la datation mentionnée d'abord de façon manuscrite dans la rubrication évolue et devient imprimée en page de titre à côté du privilège, système qui se généralise vers 1480. Par ailleurs, deux styles de datation vont cohabiter, du moins en France, celui de Pâques et celui de janvier. En 1564, tous les ouvrages commencent l'année au 1er janvier mais ce style s'est en réalité généralisé bien avant.
+L'usage de la datation mentionnée d'abord de façon manuscrite dans la rubrication évolue et devient imprimée en page de titre à côté du privilège, système qui se généralise vers 1480. Par ailleurs, deux styles de datation vont cohabiter, du moins en France, celui de Pâques et celui de janvier. En 1564, tous les ouvrages commencent l'année au 1ᵉʳ janvier mais ce style s'est en réalité généralisé bien avant.
 Un incunable peut donc comporter des annotations manuscrites (marginalia) et des enluminures, sans pour autant être exclu de cette catégorie. Il peut comporter également des pages imprimées à partir de blocs xylographiques dans lesquels on taille directement le texte mais surtout l'image : un ouvrage composé principalement à partir de tels blocs est appelé incunable xylographique. Trois techniques peuvent donc coexister au sein d'un même ouvrage.
 
-Catalogues :
+# Incunable :
+## Catalogues :
+### Dans le monde :
 
-Dans le monde :
 * L'Incunabula Short Title Catalogue (ISTC) est un « short title catalogue » géré par la British Library.
 * Le Gesamtkatalog der Wiegendrucke (GW), beaucoup plus précis mais encore en cours de rédaction, est géré par la Bibliothèque d'État de Berlin.
 
-En France :
+# Incunable :
+## Catalogues :
+### En France :
 
 C’est en France qu’est entrepris pour la première fois un catalogue national collectif des incunables. L’initiative est due à Marie Pellechet en 1895, poursuivie par Marie-Louis Polain. L’entreprise s’arrête cependant à l’article Gregorius Magnus et est abandonnée.
 L’inspecteur général Louis Desgraves relance l’idée dans les années 1970 en créant les Catalogues régionaux des incunables (CRI), financés par la nouvelle Direction du livre et de la lecture au ministère de la Culture. Le premier volume (Champagne-Ardennes) paraît en 1979 ; 16 ont paru en 2012, ce qui représente environ la moitié des volumes prévus. D’abord publiés par la Société des bibliophiles de Guyenne (1979-1989), ils sont ensuite confiés aux Amateurs de livres (1989-2005) puis à Klincksieck (1995-2005) puis enfin à Droz (depuis 2005). La coordination scientifique est assurée par Pierre Aquilon depuis 1992. Le volume correspondant à la région Nord-Pas-de-Calais est annoncé pour 2014.
 En 2009, le service du livre et de la lecture engage l’informatisation des catalogues déjà publiés. À terme, cela permettra de proposer en ligne un catalogue général des incunables de France avec des notices chapeau pour les éditions mais également toutes les données d’exemplaires (reliure, mentions manuscrites, etc.). Cette solution a été préférée à un simple ajout des exemplaires dans les catalogues collectifs existants (dont elle n’est toutefois pas exclusive) afin de gagner en précision sur ces données d’exemplaires.
 La BnF commence, elle, un catalogage scientifique de ses incunables à partir des années 1970. Il paraît sous forme de fascicules formant quatre volumes : le deuxième, comprenant les lettres H à Z et les hebraica, est publié de 1981 à 1985 ; le premier (lettres A-G et les livrets xylographiques) est presque achevé en 2012 ; le troisième comprend les tables et le quatrième consacré à la bibliothèque de l'Arsenal est prévu pour parution en 2016.
 
-Répartition géographique et linguistique :
+# Incunable :
+## Répartition géographique et linguistique :
 
 * Incunables par région
 * Incunables par langue : 70 % des textes sont imprimés en latin.

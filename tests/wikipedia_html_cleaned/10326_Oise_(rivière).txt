@@ -1,32 +1,28 @@
+# Oise (rivière) :
+
 L'Oise (prononcé [waz]) est une rivière du Bassin parisien dans le Nord de la France et en Belgique, principal affluent de la Seine, après la Marne.
 Elle prend sa source en Belgique, à 309 mètres d'altitude dans le massif forestier dit Bois de Bourlers, dans l’ancienne commune de Forges au sud-est de la ville hennuyère de Chimay. Cette rivière au cours de 341 kilomètres, presque entièrement navigable et bordée de canaux sur 104 kilomètres, baigne Hirson, Guise, Ribemont, La Fère où elle reçoit la Serre, la ville de Compiègne en amont de laquelle elle reçoit un gros contributeur, l'Aisne, l'agglomération de Creil près de laquelle elle reçoit sur sa rive droite, en amont la Brêche et en aval le Thérain, puis longe la forêt de Chantilly avant d'atteindre Pontoise.
 L'Oise se jette dans la Seine à 20 mètres d'altitude, au Pointil en rive droite et en aval du centre de Conflans-Sainte-Honorine dans le département des Yvelines. L'Oise a donné son nom aux départements de l'Oise et de l'ancienne Seine-et-Oise créés en 1790 ainsi qu'au département du Val-d'Oise créé en 1968.
 
-Hydronymie :
+# Oise (rivière) :
+## Hydronymie :
 
 Oise est issu d'un type toponymique Isara répandu dans toute l'Europe. César et Lucain la citent sous le nom d'Isara. Le nom, évolué du vieux-celtique, signifie « l'impétueuse, la rapide ». Il est apparenté à l'indo-européen *isərós « impétueux, vif, vigoureux », proche du sanskrit isiráh, de même sens.
-
 On le retrouve dans :
-
 * Isara, Vénétie
 * Éisra, Lituanie
-
-* et surtout par fossilisation de *isarā comme nom de rivière dans d'anciens pays de langue celtique :
-
-Aire, Yorkshire,
-Isère
-Isar
-Yser, etc.
-* Aire, Yorkshire,
-* Isère
-* Isar
-* Yser, etc.
+* et surtout par fossilisation de
+** Aire, Yorkshire,
+** Isère
+** Isar
+** Yser, etc.
 Le nom Isara est devenu Oise, à la suite d'une série de mutations phonétiques dans un temps difficilement définissable.
 * Sigmatisme de R en S : ISARA > ISASA
 * Amuïssement des voyelles et assimilation de SS en S : iSaSa > iSSa > OISE.
-Toutefois le premier A d'ISARA étant bref, l'accent tonique se plaçait en latin sur le I. Ce I bref s'est transformé en E long en bas latin entre le Ier et le IVe siècle. En effet, le nom de la rivière est attesté sous la forme ESERA en 742 et en 898. Le E initial s'est diphtongué en EI alors que le second E s'amuissait. Du XIIe au XVIe siècle, la diphtongue devient OE, et enfin OI. La prononciation actuelle date du XVIIe siècle.
+Toutefois le premier A d'ISARA étant bref, l'accent tonique se plaçait en latin sur le I. Ce I bref s'est transformé en E long en bas latin entre le Iᵉʳ et le IVᵉ siècle. En effet, le nom de la rivière est attesté sous la forme ESERA en 742 et en 898. Le E initial s'est diphtongué en EI alors que le second E s'amuissait. Du XIIᵉ au XVIᵉ siècle, la diphtongue devient OE, et enfin OI. La prononciation actuelle date du XVIIᵉ siècle.
 
-Situation dans le réseau navigable :
+# Oise (rivière) :
+## Situation dans le réseau navigable :
 
 L'Oise qui baigne Guise, La Fère, Chauny, Noyon, Compiègne, Verberie, Pont-Sainte-Maxence, Creil, Beaumont, Pontoise n'était navigable qu'à partir de Chauny en 1860 d'après les dictionnaires contemporains. Outre des parties de département de l'Aisne, de l'Oise et de Seine-et-Oise à proximité desquelles elle coule paisiblement, elle fait communiquer le bassin de la Seine avec le réseau de canaux du Nord et de l'Est.
 Les canaux suivants en amont de Compiègne intègrent ce réseau. La plupart sont au gabarit Freycinet sauf le canal du Nord et le canal latéral à l'Oise à gabarit plus large.
@@ -40,91 +36,115 @@ Les canaux suivants en amont de Compiègne intègrent ce réseau. La plupart son
 * canal des Ardennes (vers la Meuse)
 * canal du Nord de gabarit intermédiaire entre le gabarit Freycinet et le grand gabarit européen.
 
-Projet d'aménagement :
+# Oise (rivière) :
+## Situation dans le réseau navigable :
+### Projet d'aménagement :
 
 L'Oise, troisième axe fluvial français avec 7 millions de tonnes de fret annuel au début des années 1990, possède une navigation encore active sur une partie au gabarit européen de Conflans-Sainte-Honorine à Compiègne sur plus de 100 km. Au-delà, le gabarit inférieur du canal du Nord constitue une lacune dans le réseau fluvial nord européen.
 La réalisation du canal Seine-Nord Europe à grand gabarit européen qui permettra le passage des péniches de 4 400 tonnes de Compiègne au canal Dunkerque-Escaut destiné à relier le bassin de la Seine au réseau navigable à grand gabarit du nord de l'Europe en remplacement du canal du Nord a été décidée par accord entre l'État et la région Hauts-de-France en octobre 2017 après une période au cours de laquelle ce projet a été différé.
-Le rapport du Conseil d’orientation des infrastructures « rapport Duron » remis le 1er février 2018 au ministre des Transports recommande la réalisation pour la période 2023-2027 du projet Mageo de mise au gabarit de 4 400 tonnes (180 mètres de long sur 11,40 mètres de large) de l'Oise entre Creil et Compiègne (42 km) en reprenant les berges pour porter le mouillage de 3 à 4 m dans la continuité de la future liaison Seine-Nord Europe.
+Le rapport du Conseil d’orientation des infrastructures « rapport Duron » remis le 1ᵉʳ février 2018 au ministre des Transports recommande la réalisation pour la période 2023-2027 du projet Mageo de mise au gabarit de 4 400 tonnes (180 mètres de long sur 11,40 mètres de large) de l'Oise entre Creil et Compiègne (42 km) en reprenant les berges pour porter le mouillage de 3 à 4 m dans la continuité de la future liaison Seine-Nord Europe.
 
-Introduction géophysique et hydraulique :
+# Oise (rivière) :
+## Introduction géophysique et hydraulique :
 
 L'Oise traverse les terrains crétacés de la Thiérache, puis s'enfonce entre les interminables plateaux tertiaires du bassin parisien interne. Elle suit une ondulation tectonique, en réalité une multitude de failles alignées, principalement du nord-est au sud-ouest.
-Le bassin de l'Oise estimé entre 17 000 et 20 000 km2 est la plus grande surface réceptrice parmi les tributaires du fleuve Seine. Il est supérieur de 30 % au bassin de la Marne, le second en superficie. Mais il faut noter que le régime pluvial océanique présent sur l'étendue du bassin de l'Oise avec seulement 6,5 l/s/km2 d'apport moyen annuel ou 205 mm de hauteur d'eau, assure un même ordre de grandeur à l'apport final des deux affluents, soit environ 110 m3/s de débit modulaire. Depuis un siècle d'observation, les apports orientaux du bassin parisien sont nettement plus importants et constants. L'Oise n'assure un étiage supérieur à 50 m3/s qu'à partir du confluent avec l'Aisne. Le bassin de l'Aisne qui s'étend sur 7 940 km2 assure un débit modulaire approchant 65 m3/s, soit un apport respectivement 60 % plus élevé par rapport à l'ensemble du bassin de l'Oise. L'Aisne l'emporte par son débit sur l'Oise.
-La modestie des reliefs et de l'altitude caractérise le bassin de l'Oise. La platitude du lit se révèle dangereuse car toute grande crue provoque de graves inondations. Si le creux reste prononcé en août ou en période de canicule, les précipitations hivernales assurent des hautes eaux en janvier/février. En saison froide, le débit moyen peut atteindre 700 m3/s et beaucoup plus si un redoux survient après de fortes chutes de neige, si des pluies océaniques se déversent avec force sur les terres argileuses et imperméables de l'amont, en Thiérache et aux confins de l'Argonne.
+Le bassin de l'Oise estimé entre 17 000 et 20 000 km² est la plus grande surface réceptrice parmi les tributaires du fleuve Seine. Il est supérieur de 30 % au bassin de la Marne, le second en superficie. Mais il faut noter que le régime pluvial océanique présent sur l'étendue du bassin de l'Oise avec seulement 6,5 l/s/km² d'apport moyen annuel ou 205 mm de hauteur d'eau, assure un même ordre de grandeur à l'apport final des deux affluents, soit environ 110 m³/s de débit modulaire. Depuis un siècle d'observation, les apports orientaux du bassin parisien sont nettement plus importants et constants. L'Oise n'assure un étiage supérieur à 50 m³/s qu'à partir du confluent avec l'Aisne. Le bassin de l'Aisne qui s'étend sur 7 940 km² assure un débit modulaire approchant 65 m³/s, soit un apport respectivement 60 % plus élevé par rapport à l'ensemble du bassin de l'Oise. L'Aisne l'emporte par son débit sur l'Oise.
+La modestie des reliefs et de l'altitude caractérise le bassin de l'Oise. La platitude du lit se révèle dangereuse car toute grande crue provoque de graves inondations. Si le creux reste prononcé en août ou en période de canicule, les précipitations hivernales assurent des hautes eaux en janvier/février. En saison froide, le débit moyen peut atteindre 700 m³/s et beaucoup plus si un redoux survient après de fortes chutes de neige, si des pluies océaniques se déversent avec force sur les terres argileuses et imperméables de l'amont, en Thiérache et aux confins de l'Argonne.
 Les crues destructrices de 1993 ou encore du 7 au 12 janvier 2011 s'expliquent, ainsi que les difficultés des aménagements hydrauliques en cas de cumul d'intempéries graves.
 
-Bassin versant :
+# Oise (rivière) :
+## Introduction géophysique et hydraulique :
+### Bassin versant :
 
 Le bassin versant de l'Oise s’étend sur six départements français : l'Aisne, l'Oise, les Ardennes, la Marne, la Meuse et le Val d'Oise. Il représente 17 000 km2 et se décompose en trois grands sous-bassins :
 * L'Oise amont et médiane (5 000 km2),
 * L'Aisne et l'Aire (8 000 Km2),
 * L'Oise aval (4 000 Km2), à l’aval de leur confluence.
 
-Organisme gestionnaire :
+# Oise (rivière) :
+## Introduction géophysique et hydraulique :
+### Organisme gestionnaire :
 
 L'organisme gestionnaire est l'EPTB Oise-Aisne ou Entente Oise-Aisne. Cet établissement public a construit de 2007 à 2009 un ouvrage de protection contre les fortes crues à Proisy comprenant une digue de retenue des eaux d'une longueur d'un kilomètre, d'un clapet mobile et d'un évacuateur de sécurité.
 * Clapet de retenue des eaux en cas de crue à Proisy
 * Panneau explicatif
 
-Principaux affluents :
+# Oise (rivière) :
+## Principaux affluents :
 
 * L'Aisne
 * La Brêche
 
-Rang de Strahler :
+# Oise (rivière) :
+## Hydrologie :
 
-Hydrologie :
 L'Oise est une rivière assez régulière et bien alimentée toute l'année.
 
-L'Oise à Pont-Sainte-Maxence :
+# Oise (rivière) :
+## Hydrologie :
+### L'Oise à Pont-Sainte-Maxence :
 
-Son débit a été observé sur une période de 49 ans (1960-2008), à Pont-Sainte-Maxence, localité du département de l'Oise située assez loin de son débouché dans la Seine. À cet endroit, le bassin versant de la rivière est de 14 200 km2 sur 16 667, c'est-à-dire de 85,2 % de sa totalité.
-Toujours à Pont-Sainte-Maxence, le débit moyen interannuel, ou module, de la rivière est de 109 m3/s.
-L'Oise présente des fluctuations saisonnières de débit pas trop prononcées, avec des hautes eaux d'hiver-printemps portant le débit mensuel moyen au niveau de 142 à 187 m3/s de décembre à avril inclus (avec un maximum en janvier-février), et des basses eaux d'été de juillet à octobre, avec une baisse du débit moyen mensuel jusqu'à 47,4 m3 au mois de septembre, ce qui est encore confortable. Les débits de l'Oise observés et calculés correspondent à s'y méprendre à ceux de la Marne sa voisine, régularisée il est vrai par un énorme lac de retenue, le lac du Der-Chantecoq. Mais ces moyennes mensuelles occultent des variations intermédiaires plus importantes.
+Son débit a été observé sur une période de 49 ans (1960-2008), à Pont-Sainte-Maxence, localité du département de l'Oise située assez loin de son débouché dans la Seine. À cet endroit, le bassin versant de la rivière est de 14 200 km² sur 16 667, c'est-à-dire de 85,2 % de sa totalité.
+Toujours à Pont-Sainte-Maxence, le débit moyen interannuel, ou module, de la rivière est de 109 m³/s.
+L'Oise présente des fluctuations saisonnières de débit pas trop prononcées, avec des hautes eaux d'hiver-printemps portant le débit mensuel moyen au niveau de 142 à 187 m³/s de décembre à avril inclus (avec un maximum en janvier-février), et des basses eaux d'été de juillet à octobre, avec une baisse du débit moyen mensuel jusqu'à 47,4 m³ au mois de septembre, ce qui est encore confortable. Les débits de l'Oise observés et calculés correspondent à s'y méprendre à ceux de la Marne sa voisine, régularisée il est vrai par un énorme lac de retenue, le lac du Der-Chantecoq. Mais ces moyennes mensuelles occultent des variations intermédiaires plus importantes.
 
-Étiage ou basses eaux :
+# Oise (rivière) :
+## Hydrologie :
+### Étiage ou basses eaux :
 
-À l'étiage, le VCN3 de l'Oise peut chuter jusque 21,0 m3/s en cas de période quinquennale sèche, débit qui reste élevé comparé aux baisses bien plus profondes qui se produisent dans les bassins des grandes rivières comparables dans d'autres régions de France, spécialement plus au sud et à l'est.
+À l'étiage, le VCN3 de l'Oise peut chuter jusque 21,0 m³/s en cas de période quinquennale sèche, débit qui reste élevé comparé aux baisses bien plus profondes qui se produisent dans les bassins des grandes rivières comparables dans d'autres régions de France, spécialement plus au sud et à l'est.
 
-Crues :
+# Oise (rivière) :
+## Hydrologie :
+### Crues :
 
-Les crues sont rarement très importantes. Ainsi, le débit instantané maximal enregistré a été de 543 m3/s le 8 janvier 2003, tandis que la valeur journalière maximale était de 665 m3/s le 5 février 1995. Les QIX 2 et QIX 5 valent respectivement 340 et 470 m3. Le QIX 10 est de 560 m3/s, le QIX 20 de 640 m3 et le QIX 50 de 750 m3/s. Il ressort de ces chiffres que les crues de février 1995 étaient d'ordre vicennal (20 ans).
-
+Les crues sont rarement très importantes. Ainsi, le débit instantané maximal enregistré a été de 543 m³/s le 8 janvier 2003, tandis que la valeur journalière maximale était de 665 m³/s le 5 février 1995. Les QIX 2 et QIX 5 valent respectivement 340 et 470 m³. Le QIX 10 est de 560 m³/s, le QIX 20 de 640 m³ et le QIX 50 de 750 m³/s. Il ressort de ces chiffres que les crues de février 1995 étaient d'ordre vicennal (20 ans).
 À titre de comparaison :
+* Le VCN3 et le QIX 10 de la Marne à Paris valent 23 et 510 m³/s (débit moyen 110)
+* Ceux de l'Oise à Pont-Sainte-Maxence valent 21 et 560 m³ (débit moyen 109)
+* Ceux de l'Yonne à son confluent valent 14 et 710 m³ (débit moyen 93)
+* Ceux du Loing à son confluent valent 3,2 et 190 m³ (débit moyen 19)
+* Ceux de la Moselle peu avant la frontière valent 13 et 1 500 m³ (débit moyen 132)
+* Ceux de la Seine à Alfortville, avant le confluent de la Marne valent 43 et 1 200 m³ (débit moyen 218)
+* Enfin ceux de la Vienne à Nouâtre valent 25 et 2 200 m³ (débit moyen 201)
 
-* Le VCN3 et le QIX 10 de la Marne à Paris valent 23 et 510 m3/s (débit moyen 110)
-* Ceux de l'Oise à Pont-Sainte-Maxence valent 21 et 560 m3 (débit moyen 109)
-* Ceux de l'Yonne à son confluent valent 14 et 710 m3 (débit moyen 93)
-* Ceux du Loing à son confluent valent 3,2 et 190 m3 (débit moyen 19)
-* Ceux de la Moselle peu avant la frontière valent 13 et 1 500 m3 (débit moyen 132)
-* Ceux de la Seine à Alfortville, avant le confluent de la Marne valent 43 et 1 200 m3 (débit moyen 218)
-* Enfin ceux de la Vienne à Nouâtre valent 25 et 2 200 m3 (débit moyen 201)
-
-Lame d'eau et débit spécifique :
+# Oise (rivière) :
+## Hydrologie :
+### Lame d'eau et débit spécifique :
 
 L'Oise est donc une rivière abondante et assez régulière, alimentée par des précipitations généralement modérées. La lame d'eau écoulée dans son bassin versant est de 243 millimètres annuellement, ce qui est modéré, nettement inférieur à la moyenne d'ensemble de la France (320 millimètres par an tous bassins confondus), mais plus ou moins égal à la moyenne de la totalité du bassin versant de la Seine (240 millimètres par an). Le débit spécifique (ou Qsp) vaut de ce fait 7,7 litres par seconde et par kilomètre carré de bassin.
 
-Cours de l'Oise en Belgique :
+# Oise (rivière) :
+## Cours de l'Oise en Belgique :
 
 L'Oise prend sa source dans le bois de la Thiérache, au sud-est de la ville de Chimay, dans la province de Hainaut en Belgique. Un petit monument, avec bassin d'eau, érigé à la sortie du bois en marque l'endroit. La petite rivière apparue au sud du village Bourlers (à quelques centaines de mètres au nord de l'abbaye de Scourmont) parcourt seulement quinze kilomètres en Belgique, largement à travers prés et bois. Le seul village belge traversé est Macquenoise à la frontière franco-belge. Un peu plus loin, en France, l'Oise reçoit les eaux du Gland et de la Wartoise, un petit affluent (rive gauche) qui sur plusieurs kilomètres marque la frontière entre les deux pays.
 
-Départements et communes traversés ou bordés par l'Oise en France :
+# Oise (rivière) :
+## Départements et communes traversés ou bordés par l'Oise en France :
 
 D'amont en aval ; en gras figurent les communes de plus de 10 000 habitants (en 1999) et chefs-lieux administratifs (de canton, d'arrondissement et de département)
 
-Dans le Nord :
+# Oise (rivière) :
+## Départements et communes traversés ou bordés par l'Oise en France :
+### Dans le Nord :
 
 Une commune est traversée par l'Oise, il s'agit de la commune d'Anor.
 
-Dans l'Aisne :
+# Oise (rivière) :
+## Départements et communes traversés ou bordés par l'Oise en France :
+### Dans l'Aisne :
 
 Soixante-et-une communes de l'Aisne sont bordées ou traversées par l'Oise.
 
-Dans l'Oise :
+# Oise (rivière) :
+## Départements et communes traversés ou bordés par l'Oise en France :
+### Dans l'Oise :
 
 Cinquante-trois communes de l'Oise sont bordées ou traversées par la rivière.
 
-Dans le Val-d'Oise :
+# Oise (rivière) :
+## Départements et communes traversés ou bordés par l'Oise en France :
+### Dans le Val-d'Oise :
 
 Vingt-deux communes du Val-d'Oise sont bordées ou traversées par l'Oise.
 * Asnières-sur-Oise (rive gauche),
@@ -150,31 +170,33 @@ Vingt-deux communes du Val-d'Oise sont bordées ou traversées par l'Oise.
 * Jouy-le-Moutier (rive droite),
 * Neuville-sur-Oise (rive gauche)
 
-Dans les Yvelines :
+# Oise (rivière) :
+## Départements et communes traversés ou bordés par l'Oise en France :
+### Dans les Yvelines :
 
 Trois communes des Yvelines sont bordées par l'Oise :
 * Maurecourt (rive droite) ;
 * Andrésy (rive droite) ;
 * Conflans-Sainte-Honorine (rive gauche et confluent avec la Seine).
 
-Histoire :
+# Oise (rivière) :
+## Histoire :
 
-La rivière Isara est citée par l'auteur latin Lucain. Le géographe Vibius Sequester nous informe qu'à son époque, l'appellation est simplement Esia. L'évolution se poursuit avec une diphtongaison de la voyelle initiale qui donne Oysia, forme attestée en 886. La forme médiévale apparue probablement au XIIe siècle mais déjà très répandue au XIIIe siècle est Oise ou Oyse.
-Il reste pour les clercs la forme latine savante et ses variantes Ysera, Isera, Isara... Nombreux sont les lettrés qui aiment discourir sur la rivière navigable et flottable. Ils prennent en référence l'abbé Folcuin de Lobbes qui écrit en latin au Xe siècle : « Hysa nunc fluvii nomen est qui antiquitus Hysara dicebatur ». La forme latine hysa est donc employé avant l'an mil dans le monde savant. De l'écriture avec un h antéposé, nous pouvons déduire que le latin médiéval proche de la prononciation germanique, mais aussi peut-être gauloise encore relictuelle au IXe siècle, insiste sur l'aspiration de la première voyelle.
-L'Oise, rivière navigable, fait la jonction avec le nord du bassin parisien jusqu'au contrefort des Ardennes. Une antique et intense activité de transport est renforcée dès l'époque classique par l'aménagement de canaux et de routes parallèles. L'essor de la navigation sur l'Oise est un modèle européen de développement au XIXe siècle. Les apports pondéreux des pays miniers du Nord valorisent sa vallée et entrainent le prodigieux essor de la ville de Creil, à l'instar de la basse vallée. La rivière Oise est indissociable d'une riche histoire de la batellerie. Le musée de Conflans-Saint-Honorine en témoigne.
+La rivière Isara est citée par l'auteur latin Lucain. Le géographe Vibius Sequester nous informe qu'à son époque, l'appellation est simplement Esia. L'évolution se poursuit avec une diphtongaison de la voyelle initiale qui donne Oysia, forme attestée en 886. La forme médiévale apparue probablement au XIIᵉ siècle mais déjà très répandue au XIIIᵉ siècle est Oise ou Oyse.
+Il reste pour les clercs la forme latine savante et ses variantes Ysera, Isera, Isara... Nombreux sont les lettrés qui aiment discourir sur la rivière navigable et flottable. Ils prennent en référence l'abbé Folcuin de Lobbes qui écrit en latin au Xᵉ siècle : « Hysa nunc fluvii nomen est qui antiquitus Hysara dicebatur ». La forme latine hysa est donc employé avant l'an mil dans le monde savant. De l'écriture avec un h antéposé, nous pouvons déduire que le latin médiéval proche de la prononciation germanique, mais aussi peut-être gauloise encore relictuelle au IXᵉ siècle, insiste sur l'aspiration de la première voyelle.
+L'Oise, rivière navigable, fait la jonction avec le nord du bassin parisien jusqu'au contrefort des Ardennes. Une antique et intense activité de transport est renforcée dès l'époque classique par l'aménagement de canaux et de routes parallèles. L'essor de la navigation sur l'Oise est un modèle européen de développement au XIXᵉ siècle. Les apports pondéreux des pays miniers du Nord valorisent sa vallée et entrainent le prodigieux essor de la ville de Creil, à l'instar de la basse vallée. La rivière Oise est indissociable d'une riche histoire de la batellerie. Le musée de Conflans-Saint-Honorine en témoigne.
 La trouée de l'Oise est le terme militaire qui stigmatise la faiblesse de la frontière française face à la Meuse. De tous temps, dans le prolongement de la Hellweg des marchands, l'Oise est une voie de passage facile, voire d'invasion conquérante vers le sud-ouest. Cette perte de profondeur par disparition d'obstacles naturels à moins de 200 km de Paris revient de manière inaperçue après les défaites napoléoniennes. Le premier traité de 1814 prive la France des places-fortes cruciales de Philippeville et Mariembourg. L'affaiblissement des protections n'échappe pas à l'état-major allemand qui utilise la trouée pour passer en force en 1914 et en 1940. L'intelligence du vieux général Gallieni, profitant d'une mince erreur d'alignement des divisions conquérantes, a sauvé la mise à la France en 1914. Mais le désastre de 1940 témoigne a contrario de l'exploit oublié du vieil officier colonial, adepte de la vitesse, et surtout de la discipline quasi-prussienne de l'armée française engagée dans une guerre longue de résistance.
-
 Les bords de l'Oise sont le théâtre de combats âpres pendant la Grande Guerre. Outre les durs combats d'août à septembre 1914, notons la densité des engagements de mars à octobre 1918 sur la ligne de front qui est placée :
-
 * de Creil à Beaumont en septembre 1914, les divisions allemandes abordant par le nord et l'ouest.
 * en amont de Ribécourt, sur la rive droite entre Noyon et Compiègne, en novembre 1914 après le sursaut français.
 * à La Fère le 22 avril 1917.
 * à nouveau proche de Ribécourt, mais légèrement en aval le 15 juillet 1918.
 * de manière éphémère à Guise pendant l'assaut victorieux des régiments français du général Debeney du 4 au 5 novembre 1918.
 La déroute allemande permet la remontée à la source avant le 11 novembre 1918.
-Notons enfin les durs combats autour de L'Isle-Adam entre les 10 et 15 juin 1940 pour empêcher le franchissement de la rivière par les troupes du IIIe Reich.
+Notons enfin les durs combats autour de L'Isle-Adam entre les 10 et 15 juin 1940 pour empêcher le franchissement de la rivière par les troupes du IIIᵉ Reich.
 
-Les îles de l'Oise :
+# Oise (rivière) :
+## Les îles de l'Oise :
 
 Dans l'Oise :
 * Île du grand peuple (Armancourt)
@@ -182,9 +204,7 @@ Dans l'Oise :
 * Ile de Sarron (pont-Sainte-Maxence)
 * Île de Venette
 * Ile de Janville
-
 Dans le Val-d'Oise :
-
 * Île des Aubins (Bruyères-sur-Oise)
 * Île de Champagne (Champagne-sur-Oise)
 * Île de la Dérivation (L'Isle-Adam)
@@ -194,18 +214,21 @@ Dans le Val-d'Oise :
 * Île du Pothuis (Pontoise)
 * Île de la Dérivation (Saint-Ouen-l'Aumône et Éragny)
 
-L'Oise des peintres, des écrivains et des poètes :
+# Oise (rivière) :
+## L'Oise des peintres, des écrivains et des poètes :
 
-C'est à partir du milieu du XIXe siècle que l'Oise et ses environs inspirent régulièrement les artistes.
+C'est à partir du milieu du XIXᵉ siècle que l'Oise et ses environs inspirent régulièrement les artistes.
 Peintre pionnier ouvrant cette époque, Charles-François Daubigny (1857-1878) achète Le Botin, une péniche atelier à Auvers-sur-Oise. L'auteur du Soleil couchant sur l'Oise, célèbre pour sa recherche en peinture de rivière, a sans doute attiré dans son sillage les impressionnistes à la recherche des reflets de lumière sur l'eau. L'auberge Ravoux, lieu de réunion éphémère à Auvers, en témoigne.
 Camille Pissarro s'installe en 1866 avec sa famille à Pontoise. Après avoir trouvé refuge en Angleterre pendant la guerre franco-allemande, il s'y réinstalle en 1872 et héberge quelque temps la petite famille de Cézanne, son élève. L'année suivante, Cézanne trouve une demeure plus spacieuse à Auvers mais continue à travailler avec Pissarro.
 La maison-clinique du docteur Gachet, à Auvers, accueille Vincent van Gogh. Diminué physiquement, en proie à des hallucinations, le peintre hollandais brossera 70 toiles avant de se retirer de l'existence. Sa tombe est dans un cimetière du village.
 Robert-Louis Stevenson et son ami Walter Simpson descendent l'Oise après avoir emprunté le dédale des canaux du Nord à bord de deux canoës, L'Aréthuse et la Cigarette. Il laisse ses observations dans le récit Voyage en canoë sur les rivières du nord de la France et de la Belgique (An Inland Voyage).
 
-Valorisation touristique :
+# Oise (rivière) :
+## Valorisation touristique :
 
 L'Oise est longée par la véloroute européenne EuroVélo 3 de Verberie à Hirson. Cette véloroute comprend plusieurs aménagements cyclables, la plupart récemment réalisés, notamment une piste cyclable ancienne de 8 km de Lacroix-Saint-Ouen à Compiègne, un tronçon de 28 km en voies partagées (routes secondaires à faible circulation fléchées comme itinéraire cyclable), le chemin de halage du canal de Sambre à l'Oise aménagé en voie verte sur 36 km d'Abbécourt à Ribemontet la voie verte axe vert de Thiérache réalisée sur une ancienne voie ferrée dans la haute vallée de l'Oise de Guise à Hirson. La véloroute croise encore le cours de l'Oise 4 km en amont d'Hirson à côté de l'étang Bayard dans la forêt d'Hirson. Quelques tronçons sont encore en projet ou en cours de réalisation.
 
-Cinéma :
+# Oise (rivière) :
+## Cinéma :
 
 * L'Ami de mon amie d'Éric Rohmer qui se déroule dans la ville nouvelle de Cergy-Pontoise dans une boucle de l'Oise.

@@ -1,127 +1,100 @@
+# Culture de la Slovénie :
+
 La culture de la Slovénie, pays de l'Europe centrale, désigne d'abord les pratiques culturelles observables de ses habitants (2 100 000, estimation 2018) (1 million vers 1850, 2 vers 2005).
 La culture slovène prend une place importante dans le pays, notamment parce que les Slovènes ont compensé du côté de la culture le manque d'institutions politiques durant leur soumission à la monarchie des Habsbourg, ce qui a renforcé chez eux le sentiment de nation.
 L'indépendance du pays, en 1991, a également favorisé l'accroissement de la fierté des Slovènes à l'égard de leur culture. De plus, celle-ci n'est pas uniquement transmise dans les grandes villes slovènes, mais à chaque coin du pays.
 
-Langues, peuples, cultures :
+# Culture de la Slovénie :
+## Langues, peuples, cultures :
+### Langues :
 
-Langues :
 * Langues en Slovénie, Langues de Slovénie
-* Slovène, Langue slovène (rubriques)
-Prekmure (80 000)
-* Prekmure (80 000)
+* Slovène
+** Prekmure (80 000)
 * Langues minoritaires
-Vénitien, Italian language in Slovenia (en)
-Hongrois (région de Prekmurje)
-Serbe (40 000), Croate, Serbo-croate (BCMS), herzégovinien oriental
-Macédonien
-Albanais
-Romani vlax (0;2 %) (Romani)
-Allemand (0,1 % en 2010), Gottscheerish, proche de l'allemand bavarois (Kočevje)
-Tchèque, Slovaque
-* Vénitien, Italian language in Slovenia (en)
-* Hongrois (région de Prekmurje)
-* Serbe (40 000), Croate, Serbo-croate (BCMS), herzégovinien oriental
-* Macédonien
-* Albanais
-* Romani vlax (0;2 %) (Romani)
-* Allemand (0,1 % en 2010), Gottscheerish, proche de l'allemand bavarois (Kočevje)
-* Tchèque, Slovaque
+** Vénitien, Italian language in Slovenia (en)
+** Hongrois (région de Prekmurje)
+** Serbe (40 000), Croate, Serbo-croate (BCMS), herzégovinien oriental
+** Macédonien
+** Albanais
+** Romani vlax (0;2 %) (Romani)
+** Allemand (0,1 % en 2010), Gottscheerish, proche de l'allemand bavarois (Kočevje)
+** Tchèque, Slovaque
 * Langues étrangères étudiées : anglais, allemand, français, italien, espagnol, russe
 * Langue des signes yougoslave
 * Langues slaves, Slavistique
-La langue officielle de la Slovénie est le slovène. Le premier document écrit en slovène remonte au XIe siècle mais le premier livre fut imprimé en 1550, soit 110 ans après l'invention de l'imprimerie par Gutenberg : Il s'agissait d'un catéchisme, un manuel qui permet d'enseigner la religion catholique.
+La langue officielle de la Slovénie est le slovène. Le premier document écrit en slovène remonte au XIᵉ siècle mais le premier livre fut imprimé en 1550, soit 110 ans après l'invention de l'imprimerie par Gutenberg : Il s'agissait d'un catéchisme, un manuel qui permet d'enseigner la religion catholique.
 Le slovène est très proche de la langue de ses pays voisins qui sont le serbe et le croate. Sa grammaire est particulièrement compliquée avec beaucoup de cas grammaticaux, de genres et de temps différents. De plus, elle a une particularité, comme les autres langues européennes modernes, et que n'a pas le français par exemple, en plus du singulier et du pluriel, le slovène utilise un troisième nombre grammatical, le duel. Pour désigner deux personnes, deux objets, deux animaux ou autres duos, le slovène utilise le duel, et le pluriel à partir de trois éléments. Le duel est présent dans d'autres langues vivantes comme l'arabe ou dans des langues mortes comme le grec ancien.
 
-Peuples :
+# Culture de la Slovénie :
+## Langues, peuples, cultures :
+### Peuples :
 
 * Démographie de la Slovénie
-* Groupes ethniques en Slovénie (en 2002)
-Slovènes (1 631 000)
-Croats of Slovenia (en) (35 600)
-Serbes, Diaspora serbe en Slovénie (38 964)
-Bosniaks of Slovenia (en) (32 009)
-Hongrois de Slovénie (6 243)
-Albanais de Slovénie (6 186)
-Macédoniens de Slovénie (3 972)
-Roms (3 246), dont Kerinov Grm (en) (134)
-Montenegrins of Slovenia (en) (2 667)
-Italiens (2 258)
-Autres (201 486)
-Bulgares (<3000)
-Russes (<2000)
-Ukrainiens (<2000)
-Juifs de Slovénie (130), Histoire des Juifs en Slovénie
-* Slovènes (1 631 000)
-* Croats of Slovenia (en) (35 600)
-* Serbes, Diaspora serbe en Slovénie (38 964)
-* Bosniaks of Slovenia (en) (32 009)
-* Hongrois de Slovénie (6 243)
-* Albanais de Slovénie (6 186)
-* Macédoniens de Slovénie (3 972)
-* Roms (3 246), dont Kerinov Grm (en) (134)
-* Montenegrins of Slovenia (en) (2 667)
-* Italiens (2 258)
-* Autres (201 486)
-Bulgares (<3000)
-Russes (<2000)
-Ukrainiens (<2000)
-Juifs de Slovénie (130), Histoire des Juifs en Slovénie
-* Bulgares (<3000)
-* Russes (<2000)
-* Ukrainiens (<2000)
-* Juifs de Slovénie (130), Histoire des Juifs en Slovénie
+* Groupes ethniques en Slovénie
+** Slovènes (1 631 000)
+** Croats of Slovenia (en) (35 600)
+** Serbes, Diaspora serbe en Slovénie (38 964)
+** Bosniaks of Slovenia (en) (32 009)
+** Hongrois de Slovénie (6 243)
+** Albanais de Slovénie (6 186)
+** Macédoniens de Slovénie (3 972)
+** Roms (3 246), dont Kerinov Grm (en) (134)
+** Montenegrins of Slovenia (en) (2 667)
+** Italiens (2 258)
+** Autres (201 486)
+*** Bulgares (<3000)
+*** Russes (<2000)
+*** Ukrainiens (<2000)
+*** Juifs de Slovénie (130), Histoire des Juifs en Slovénie
 * Yougoslaves (1918-1992)
 * Effacés de Slovénie
 * Diaspora slovène (en)
 
-Traditions :
+# Culture de la Slovénie :
+## Traditions :
+### Religion(s) :
 
-Religion(s) :
-* Religion en Slovénie, Religion en Slovénie (rubriques)
-Christianisme en Slovénie, Du christianisme en Slovénie
-Catholicisme, Église catholique en Slovénie (1 195 000, 57,8 %)
-Christianisme orthodoxe (2,3 %), Église orthodoxe
-Protestantisme (1 %) : luthéranisme, évangélisme…
-Islam en Slovénie (48 266, 2,4 % en 2014)
-Judaïsme : Histoire des Juifs en Slovénie
-Congrès européen des religions ethniques
-Bouddhisme en Slovénie (> 1000)
-Hindouisme en Slovénie (en) (500)
-* Christianisme en Slovénie, Du christianisme en Slovénie
-Catholicisme, Église catholique en Slovénie (1 195 000, 57,8 %)
-Christianisme orthodoxe (2,3 %), Église orthodoxe
-Protestantisme (1 %) : luthéranisme, évangélisme…
-* Catholicisme, Église catholique en Slovénie (1 195 000, 57,8 %)
-* Christianisme orthodoxe (2,3 %), Église orthodoxe
-* Protestantisme (1 %) : luthéranisme, évangélisme…
-* Islam en Slovénie (48 266, 2,4 % en 2014)
-* Judaïsme : Histoire des Juifs en Slovénie
-* Congrès européen des religions ethniques
-* Bouddhisme en Slovénie (> 1000)
-* Hindouisme en Slovénie (en) (500)
+* Religion en Slovénie
+** Christianisme en Slovénie
+*** Catholicisme, Église catholique en Slovénie (1 195 000, 57,8 %)
+*** Christianisme orthodoxe (2,3 %), Église orthodoxe
+*** Protestantisme (1 %) : luthéranisme, évangélisme…
+** Islam en Slovénie (48 266, 2,4 % en 2014)
+** Judaïsme : Histoire des Juifs en Slovénie
+** Congrès européen des religions ethniques
+** Bouddhisme en Slovénie (> 1000)
+** Hindouisme en Slovénie (en) (500)
 * Croyants sans appartenance confessionnelle (3,5 %)
 * Irréligion (10 %), agnosticisme, athéisme
 * Sans réponse (22,8 %)
 * Liberté de religion en Slovénie (en)
 
-Symboles :
+# Culture de la Slovénie :
+## Traditions :
+### Symboles :
 
 * Armoiries de la Slovénie, Drapeau de la Slovénie
 * Zdravljica, hymne national de la Slovénie
 
-Folklore et Mythologie :
+# Culture de la Slovénie :
+## Traditions :
+### Folklore et Mythologie :
 
 * De la mythologie slave
 * Personnages de la mythologie slave
-Zlatorog
-* Zlatorog
+** Zlatorog
 
-Pratiques :
+# Culture de la Slovénie :
+## Traditions :
+### Pratiques :
 
 * Klopotec
 * Kozolec
 
-Fêtes :
+# Culture de la Slovénie :
+## Traditions :
+### Fêtes :
 
 * Fêtes et jours fériés en Slovénie (en)
 * Festivals of Slovenia (en)
@@ -133,7 +106,8 @@ Fêtes :
 * Manifesta
 * Biennial of Graphic Arts (Ljubljana) (en)
 
-Société :
+# Culture de la Slovénie :
+## Société :
 
 * Slovènes
 * Listes de Slovènes par profession
@@ -141,12 +115,16 @@ Société :
 * Société slovène
 * International rankings of Slovenia (en)
 
-Étiquette :
+# Culture de la Slovénie :
+## Société :
+### Étiquette :
 
 * Costumes nationaux de Slovénie (en)
 * Histoire culturelle de la Slovénie (en)
 
-Famille :
+# Culture de la Slovénie :
+## Société :
+### Famille :
 
 * Naissance en Slovénie
 * Jeunesse en Slovénie
@@ -159,14 +137,18 @@ Famille :
 * Funérailles en Slovénie
 * Violence familiale en Slovénie
 
-Noms :
+# Culture de la Slovénie :
+## Société :
+### Noms :
 
 * Nom personnel, Nom de famille, Prénom, Postnom, Changement de nom
 * Patronymes slovènes
 * Prénoms slovènes sur Wictionary
 * Prénoms slovènes
 
-Éducation :
+# Culture de la Slovénie :
+## Société :
+### Éducation :
 
 * Éducation en Slovénie, De l'éducation en Slovénie
 * Maturité (certificat) (Matura), Academic grading in Slovenia (en)
@@ -175,22 +157,27 @@ Noms :
 * Liste des pays par taux d'alphabétisation
 * Liste des pays par IDH
 
-Droit :
+# Culture de la Slovénie :
+## Société :
+### Droit :
 
 * Criminalité en Slovénie (en)
 * Droits de l'homme en Slovénie
 * Rapport Slovénie 2016-2017 d'Amnesty International
 
-État :
+# Culture de la Slovénie :
+## Société :
+### État :
 
 * Histoire de la Slovénie, Politique en Slovénie
 * List of massacres in Slovenia (en), List of massacres in Yugoslavia (en)
 * Liste des guerres de la Slovénie
 * Slovenian nationalism (en)
 
-Arts de la table :
+# Culture de la Slovénie :
+## Arts de la table :
+### Cuisine(s) :
 
-Cuisine(s) :
 * Cuisine slovène, Cuisine slovène (rubriques)
 * Cuisine slovène
 * Desserts slovènes
@@ -203,14 +190,17 @@ Enfin, elle tient du dernier pays voisin, la Hongrie, le goulasch et le paprikas
 La Slovénie, étant un pays des Balkans, a une autre spécialité : le börek, une pâtisserie salée fourrée au fromage, aux épinards, à la viande hachée et parfois aux pommes de terre.
 Le Belokranjska povitica est une autre spécialité du pays.
 
-Boisson(s) :
+# Culture de la Slovénie :
+## Arts de la table :
+### Boisson(s) :
 
 * Viticulture en Slovénie : Portugais bleu, Blaufränkisch, Bouvier (cépage)
 * Boissons en Slovénie
 * Cockta, boisson ressemblant au cola, à base de plants dont l'églantine
 * Boissons distillées : Brinjevec (en), Gorki list (en), Pelinkovac (en), Rakia, Slivovitz, Tropinovec (en)
 
-Santé :
+# Culture de la Slovénie :
+## Santé :
 
 * Santé, Santé publique, Protection sociale
 * Santé en Slovénie (rubriques),
@@ -219,7 +209,9 @@ Santé :
 * Liste des pays par taux de natalité
 * Liste des pays par taux de suicide
 
-Sports :
+# Culture de la Slovénie :
+## Santé :
+### Sports :
 
 * Sport en Slovénie
 * Sports en Slovénie
@@ -231,54 +223,66 @@ Du fait de ses montagnes, le ski est l'un des principaux sports pratiqués en Sl
 Malgré l'absence de grand stade, le football reste un sport important pour le pays. L'équipe nationale s'est en effet qualifiée durant la Coupe du monde de football de 2002 et à l'Euro 2000.
 La Slovénie comporte également quelques athlètes qui ont participé à des événements sportifs internationaux comme les Jeux olympiques, notamment l'édition de 1996 où une athlète féminine, Brigita Bukovec, a remporté une médaille en argent aux 100 m haies.
 
-Arts martiaux :
+# Culture de la Slovénie :
+## Santé :
+### Arts martiaux :
 
 * Arts martiaux en Slovénie
 
-Autres :
+# Culture de la Slovénie :
+## Santé :
+### Autres :
 
 * Jeux d'argent
-Interblock (en)
-* Interblock (en)
+** Interblock (en)
 * Concours de beauté
-Miss Slovénie, Miss Earth Slovenia (en), Miss Universe Slovenia (en)
-* Miss Slovénie, Miss Earth Slovenia (en), Miss Universe Slovenia (en)
+** Miss Slovénie, Miss Earth Slovenia (en), Miss Universe Slovenia (en)
 
-Média :
+# Culture de la Slovénie :
+## Média :
 
 * Média en Slovénie (en)
 * Journalistes slovènes
 * Télécommunications en Slovénie (en)
 * Liberté de parole et d'opinion en Slovénie
 
-Presse écrite :
+# Culture de la Slovénie :
+## Média :
+### Presse écrite :
 
 * De la presse écrite en Slovénie
 * Liste de journaux en Slovénie
 * Liste de magazines en Slovénie (en)
 Depuis l'indépendance, les journaux se sont multipliés, désormais plus de 700, dont le principal quotidien est Delo.
-En 2007, la Slovénie était classée 21e, à égalité avec le Costa Rica et devant la France (31e) selon le classement mondial de la liberté de la presse établi par Reporters sans frontières.
+En 2007, la Slovénie était classée 21ᵉ, à égalité avec le Costa Rica et devant la France (31e) selon le classement mondial de la liberté de la presse établi par Reporters sans frontières.
 
-Radio :
+# Culture de la Slovénie :
+## Média :
+### Radio :
 
 * De la radio en Slovénie
 * Liste de stations de radio en Slovénie (en)
 * Association of Radio Amateurs of Slovenia (en)
 La Slovénie héberge 81 chaînes de radio, dont 8 publiques, qui appartiennent au groupe RTV Slovenija, financé par l'État, et 73 privées.
 
-Télévision :
+# Culture de la Slovénie :
+## Média :
+### Télévision :
 
 * De la télévision en Slovénie
 * Television in Slovenia (en)
 
-Internet (.si) :
+# Culture de la Slovénie :
+## Média :
+### Internet (.si) :
 
 * Internet en Slovénie (en)
 * Sites web par pays
 * Blogueurs par pays
 * Press Reader (Bulac/Inalco)
 
-Littérature :
+# Culture de la Slovénie :
+## Littérature :
 
 * Littérature slovène
 * De la littérature slovène
@@ -287,31 +291,37 @@ Littérature :
 * List of Prekmurje Slovene literature (en)
 * List of Slovene novels (en)
 * Écrivains yougoslaves (voir la version anglophone)
-Le développement de la littérature slovène a commencé au XVIe siècle sous l'influence des écrivains de la réforme protestante qui fut importante au sein du pays, la Slovénie étant un pays majoritairement catholique. En 1584, la Bible fut traduite en slovène par Jurij Dalmatin.
+Le développement de la littérature slovène a commencé au XVIᵉ siècle sous l'influence des écrivains de la réforme protestante qui fut importante au sein du pays, la Slovénie étant un pays majoritairement catholique. En 1584, la Bible fut traduite en slovène par Jurij Dalmatin.
 L'un des auteurs le plus connu est le poète France Prešeren qui a écrit le poème Zdravljica, tellement apprécié par les Slovènes qu'ils en choisirent la septième strophe (« paragraphe » d'un poème) en guise d'hymne national.
-Parmi les autres auteurs slovènes importants, on peut aussi citer Ivan Cankar au XIXe siècle, également homme politique partisan de l'émancipation nationale des Slovènes.
+Parmi les autres auteurs slovènes importants, on peut aussi citer Ivan Cankar au XIXᵉ siècle, également homme politique partisan de l'émancipation nationale des Slovènes.
 
-Littérature contemporaine :
+# Culture de la Slovénie :
+## Littérature :
+### Littérature contemporaine :
 
 * Boris Pahor (1913-)
 * Florjan Lipuš (1937-)
 * Drago Jančar (1948-)
 * Brina Svit (1954-)
 
-Artisanat :
+# Culture de la Slovénie :
+## Artisanat :
 
 * Artisanat d'art,
 * Catégorie:Artisanat par pays,
 * Arts appliqués, Arts décoratifs, Arts mineurs
 
-Textiles, cuir, papier :
+# Culture de la Slovénie :
+## Artisanat :
+### Textiles, cuir, papier :
 
 * Textiles
 * Costumes traditionnels
 * Vêtements slovènes
 * Designers slovènes de la mode
 
-Arts visuels :
+# Culture de la Slovénie :
+## Arts visuels :
 
 * Arts visuels, Arts plastiques
 * Art slovène (en)
@@ -325,57 +335,72 @@ Arts visuels :
 * Centres artistiques en Slovénie
 * Neue Slowenische Kunst (NSK), (1984)
 
-Dessin :
+# Culture de la Slovénie :
+## Arts visuels :
+### Dessin :
 
 * De la gravure par pays
 * Bande dessinée en Slovénie
 * Design slovène
 
-Peinture :
+# Culture de la Slovénie :
+## Arts visuels :
+### Peinture :
 
 * De la peinture en Slovénie
 * Peintres slovènes
 * IRVIN (1984)
 
-Sculpture :
+# Culture de la Slovénie :
+## Arts visuels :
+### Sculpture :
 
 * De la sculpture en Slovénie
 * Sculpteurs slovènes
 * Sculptures en Slovénie
 * Sculptures slovènes
 
-Architecture :
+# Culture de la Slovénie :
+## Arts visuels :
+### Architecture :
 
 * Architecture en Slovénie
 * De l'architecture en Slovénie
 * Architectes slovènes
 * Liste du patrimoine mondial en Slovénie
 La Slovénie possède un patrimoine assez riche, composé d'églises, de monastères et de châteaux d'architecture romane.
-Les premières traces de ce patrimoine remontent au XIVe siècle av. J.-C. et s'étendent jusqu'à la fin du XIIIe siècle av. J.-C., révélant une évolution pendant l'âge du bronze (du bronze moyen au bronze final). En effet, pendant la période du bronze moyen, on enterrait les morts sous une sorte de butte de terre et de pierres que l'on appelle tumulus ; alors que pendant le bronze final, la pratique a changé et a laissé place à la « civilisation des champs d'urnes », caractérisée par le fait que l'on enterrait les urnes contenant les cendres des morts (après incinération), ainsi que des offrandes dans des sortes de cimetières que l'on appelle nécropoles.
-Des fouilles archéologiques ont révélé l'existence de maisons en bois en partie détruites, datant du VIIe siècle au IXe siècle. Cependant, ce qui caractérise surtout la Slovénie, ce sont ses églises marginales (solitaires) au sommet des collines.
-La fin du Xe siècle voit l'apparition de l'architecture romane avec ses murs épais, ses arcs en plein cintre (en demi-cercle), ses jetées résistantes, ses larges tours et ses arcades de décoration.
-Mais depuis le XIIIe siècle, l'architecture romane a fait place à l'architecture gothique avec ses arcs-boutants et ses croisées d'ogives, deux éléments typiques de ce type d'architecture. La région de la Basse-Styrie, au nord-est de la Slovénie, est la plus représentative de l'art gothique en Europe centrale.
-Du XVe siècle au début du XVIIe siècle, l'Europe est influencée par l'architecture Renaissance qui cherche à revenir et renouveler l'architecture romaine et l'architecture de la Grèce antique. Cependant, en Slovénie, le développement de ce type d'architecture est assez ralenti à cause des problèmes que rencontre le pays à ce moment (conflits religieux, soulèvement des paysans, invasion des Ottomans sur le territoire et épidémies). De ce fait, les changements se limiteront aux voûtes des églises, à l'éclairage et à la construction de cours arcadées.
-La région côtière de la Slovénie, qui se situe au sud-ouest du pays, est principalement influencée par l'architecture italienne, notamment dans la construction de châteaux. D'ailleurs, vers la fin du XVIe siècle et le début du XVIIe siècle, le gouvernement autrichien qui contrôlait le pays à cette époque, appela les ingénieurs italiens pour construire des forteresses dans plusieurs villes slovènes (dont Brežice, Krumperk et Hrastovec).
-L'influence italienne continua d'exister tout au XVIIe siècle, avec l'architecture baroque romaine et vénitienne ; mais aussi au XVIIIe siècle avec la construction de monuments importants, comme la cathédrale de Ljubljana, conçue par l'architecte italien Andrea Pozzo en 1701 ; la cathédrale de Koper ou encore l'église franciscaine de Ptuj.
-Depuis le tremblement de terre qu'elle a connu en 1895, Ljubljana, la capitale est très inspirée par l'Art nouveau qui a conquis la fin du XIXe siècle et le début du XXe siècle surtout à travers l'Europe mais qui a eu quelques répercussions aux États-Unis. Durant la reconstruction de la ville, les artistes se sont inspirés de Vienne, également touchée par ce mouvement, pour construire de nombreux monuments (comme le Pont aux dragons) et bâtiments. Ce mouvement ne s'est développé qu'à Ljubljana bien que certaines villes de la petite côte du pays ont été influencées par la ville proche italienne, Trieste.
-L'aspect actuel de la capitale est aussi dû au travail de l'architecte Jože Plečnik, qui est à l'origine de nombreuses rénovations (au niveau des nombreux ponts de la ville par exemple) et d'aménagements, notamment des obélisques, des colonnes, des pyramides. Il a aussi construit la Bibliothèque nationale et universitaire. Il a vécu principalement au XIXe siècle ; son travail a été oublié dans les années 1960 et les années 1970 avant de revenir dans les années 80 et années 90.
+Les premières traces de ce patrimoine remontent au XIVᵉ siècle av. J.-C. et s'étendent jusqu'à la fin du XIIIᵉ siècle av. J.-C., révélant une évolution pendant l'âge du bronze (du bronze moyen au bronze final). En effet, pendant la période du bronze moyen, on enterrait les morts sous une sorte de butte de terre et de pierres que l'on appelle tumulus ; alors que pendant le bronze final, la pratique a changé et a laissé place à la « civilisation des champs d'urnes », caractérisée par le fait que l'on enterrait les urnes contenant les cendres des morts (après incinération), ainsi que des offrandes dans des sortes de cimetières que l'on appelle nécropoles.
+Des fouilles archéologiques ont révélé l'existence de maisons en bois en partie détruites, datant du VIIᵉ siècle au IXᵉ siècle. Cependant, ce qui caractérise surtout la Slovénie, ce sont ses églises marginales (solitaires) au sommet des collines.
+La fin du Xᵉ siècle voit l'apparition de l'architecture romane avec ses murs épais, ses arcs en plein cintre (en demi-cercle), ses jetées résistantes, ses larges tours et ses arcades de décoration.
+Mais depuis le XIIIᵉ siècle, l'architecture romane a fait place à l'architecture gothique avec ses arcs-boutants et ses croisées d'ogives, deux éléments typiques de ce type d'architecture. La région de la Basse-Styrie, au nord-est de la Slovénie, est la plus représentative de l'art gothique en Europe centrale.
+Du XVᵉ siècle au début du XVIIᵉ siècle, l'Europe est influencée par l'architecture Renaissance qui cherche à revenir et renouveler l'architecture romaine et l'architecture de la Grèce antique. Cependant, en Slovénie, le développement de ce type d'architecture est assez ralenti à cause des problèmes que rencontre le pays à ce moment (conflits religieux, soulèvement des paysans, invasion des Ottomans sur le territoire et épidémies). De ce fait, les changements se limiteront aux voûtes des églises, à l'éclairage et à la construction de cours arcadées.
+La région côtière de la Slovénie, qui se situe au sud-ouest du pays, est principalement influencée par l'architecture italienne, notamment dans la construction de châteaux. D'ailleurs, vers la fin du XVIᵉ siècle et le début du XVIIᵉ siècle, le gouvernement autrichien qui contrôlait le pays à cette époque, appela les ingénieurs italiens pour construire des forteresses dans plusieurs villes slovènes (dont Brežice, Krumperk et Hrastovec).
+L'influence italienne continua d'exister tout au XVIIᵉ siècle, avec l'architecture baroque romaine et vénitienne ; mais aussi au XVIIIᵉ siècle avec la construction de monuments importants, comme la cathédrale de Ljubljana, conçue par l'architecte italien Andrea Pozzo en 1701 ; la cathédrale de Koper ou encore l'église franciscaine de Ptuj.
+Depuis le tremblement de terre qu'elle a connu en 1895, Ljubljana, la capitale est très inspirée par l'Art nouveau qui a conquis la fin du XIXᵉ siècle et le début du XXᵉ siècle surtout à travers l'Europe mais qui a eu quelques répercussions aux États-Unis. Durant la reconstruction de la ville, les artistes se sont inspirés de Vienne, également touchée par ce mouvement, pour construire de nombreux monuments (comme le Pont aux dragons) et bâtiments. Ce mouvement ne s'est développé qu'à Ljubljana bien que certaines villes de la petite côte du pays ont été influencées par la ville proche italienne, Trieste.
+L'aspect actuel de la capitale est aussi dû au travail de l'architecte Jože Plečnik, qui est à l'origine de nombreuses rénovations (au niveau des nombreux ponts de la ville par exemple) et d'aménagements, notamment des obélisques, des colonnes, des pyramides. Il a aussi construit la Bibliothèque nationale et universitaire. Il a vécu principalement au XIXᵉ siècle ; son travail a été oublié dans les années 1960 et les années 1970 avant de revenir dans les années 80 et années 90.
 
-Photographie :
+# Culture de la Slovénie :
+## Arts visuels :
+### Photographie :
 
 * Photographes slovènes
 
-Graphisme :
+# Culture de la Slovénie :
+## Arts visuels :
+### Graphisme :
 
 * Graphistes slovènes
 
-Arts du spectacle :
+# Culture de la Slovénie :
+## Arts du spectacle :
 
 * Spectacle vivant, Performance, Art sonore
 * Arts de la performance en Slovénie (en)
 * Vilenica Cave (en)
 
-Musique(s) :
+# Culture de la Slovénie :
+## Arts du spectacle :
+### Musique(s) :
 
 * Musique slovène
 * De la musique slovène
@@ -393,11 +418,13 @@ Musique(s) :
 * Nouvelle vague musicale yougoslave
 * Musique électronique : Laibach (groupe), 300.000 V.K.
 * Groupes de musique slovène
-La musique classique a permis à certains compositeurs comme Jacobus Gallus de s'illustrer et au XIXe siècle, elle a permis d'exprimer le sentiment national slovène, le pays étant encore sous la domination de l'empire autrichien à cette époque.
+La musique classique a permis à certains compositeurs comme Jacobus Gallus de s'illustrer et au XIXᵉ siècle, elle a permis d'exprimer le sentiment national slovène, le pays étant encore sous la domination de l'empire autrichien à cette époque.
 Durant le concours de le Concours Eurovision de la chanson de 2002, la sélection du groupe Sestre (Les sœurs), composé de drag queens, c'est-à-dire d'hommes s'habillant en femmes, le plus souvent de façon exagérée pour amuser, a provoqué une certaine homophobie. Cependant, le groupe s'est remarquée par de bonnes performances, ce qui a permis de lancer des débats sur l'intolérance et les discriminations en Slovénie et donc, de briser un tabou.
 Bien que le rock industriel ait été popularisé à travers tout le monde, il a surtout connu une popularité en Slovénie dans les années 1980 grâce au groupe Laibach, le nom allemand de la capitale Ljubljana.
 
-Danse(s) :
+# Culture de la Slovénie :
+## Arts du spectacle :
+### Danse(s) :
 
 * Danse en Slovénie
 * De la danse en Slovénie
@@ -413,7 +440,9 @@ Danse(s) :
 * Patinage artistique en Slovénie
 * Hip-hop slovène
 
-Théâtre :
+# Culture de la Slovénie :
+## Arts du spectacle :
+### Théâtre :
 
 * Théâtre en Slovénie, Théâtre slovène (rubriques)
 * Du théâtre slovène
@@ -428,40 +457,40 @@ Théâtre :
 * The Naked Stage (en)
 * Narobov (en)
 
-Autres scènes : marionnettes, mime, pantomime, prestidigitation :
+# Culture de la Slovénie :
+## Arts du spectacle :
+### Autres scènes : marionnettes, mime, pantomime, prestidigitation :
 
 Les arts mineurs de scène, arts de la rue, arts forains, cirque, théâtre de rue, spectacles de rue, arts pluridisciplinaires, performances manquent encore de documentation pour le pays …
 Pour le domaine de la marionnette, la référence est : Arts de la marionnette en Slovénie, sur le site de l'Union internationale de la marionnette UNIMA).
 * Marionnettistes slovènes (en)
 * Musée de la marionnette, Ljubljana, 2015
 
-Cinéma :
+# Culture de la Slovénie :
+## Arts du spectacle :
+### Cinéma :
 
 * Cinéma slovène, Cinéma slovène (rubriques)
 * Académie de théâtre, radio, cinéma et télévision (Ljubljana)
 * Réalisateurs slovènes
-Jan Cvitkovič
-Olmo Omerzu
-* Jan Cvitkovič
-* Olmo Omerzu
+** Jan Cvitkovič
+** Olmo Omerzu
 * Scénaristes slovènes
 * Catégorie:Acteur slovène, Actrices slovènes
 * Films slovènes, Liste de films slovènes (en), Liste slovène de films slovènes (sl)
 * Cinéma d'animation : Andrea Bresciani (en), Zvonko Čoh (en), Miki Muster (en)
 * Cinéma yougoslave (1945-1992), Liste de films yougoslaves (en)
 * Festivals de cinéma
-ENIMATION Little Elephant - International Children and Youth Film Festival (en)
-Filofest (en)
-Grossmann film and wine festival (en)
-Ljubljana International Film Festival (en)
-* ENIMATION Little Elephant - International Children and Youth Film Festival (en)
-* Filofest (en)
-* Grossmann film and wine festival (en)
-* Ljubljana International Film Festival (en)
+** ENIMATION Little Elephant - International Children and Youth Film Festival (en)
+** Filofest (en)
+** Grossmann film and wine festival (en)
+** Ljubljana International Film Festival (en)
 Depuis son indépendance de la Yougoslavie, le cinéma slovène est particulièrement actif. On peut par exemple citer le film No Man's Land en 2001, tourné en Slovénie coproduit avec plusieurs pays européens, qui traite des guerres qui ont ravagé le pays dans les années 1990 dont la guerre de Bosnie-Herzégovine (1992-1995). Ce film a été récompensé par le prix du meilleur scénario durant le Festival de Cannes de 2001 mais aussi par l'Oscar du meilleur film étranger en 2002 et le César de la meilleure première œuvre de fiction la même année.
 Les films étrangers diffusés dans les cinémas et à la télévision slovènes ne sont pas doublés mais sous-titrés en slovène.
 
-Autres :
+# Culture de la Slovénie :
+## Arts du spectacle :
+### Autres :
 
 * Vidéo, Jeux vidéo, Art numérique, Art interactif
 * Culture alternative, Culture underground
@@ -469,35 +498,37 @@ Autres :
 * Kibla
 * SCCA-Ljubljana (en)
 
-Tourisme :
+# Culture de la Slovénie :
+## Tourisme :
 
 * Tourisme en Slovénie (en), Tourisme en Estonie (rubriques)
 * Sur WikiVoyage
-
 * Conseils aux voyageurs pour la Slovénie :
+** France Diplomatie.gouv.fr
+** Canada international.gc.ca
+** CG Suisse eda.admin.ch
+** USA US travel.state.gov
 
-France Diplomatie.gouv.fr
-Canada international.gc.ca
-CG Suisse eda.admin.ch
-USA US travel.state.gov
-* France Diplomatie.gouv.fr
-* Canada international.gc.ca
-* CG Suisse eda.admin.ch
-* USA US travel.state.gov
-
-Patrimoine :
+# Culture de la Slovénie :
+## Patrimoine :
 
 * Liste des châteaux en Slovénie
 
-Musées :
+# Culture de la Slovénie :
+## Patrimoine :
+### Musées :
 
 * Liste de musées en Slovénie
 
-Liste du Patrimoine mondial :
+# Culture de la Slovénie :
+## Patrimoine :
+### Liste du Patrimoine mondial :
 
 Le programme Patrimoine mondial (UNESCO, 1971) a inscrit dans sa liste du Patrimoine mondial (au 12/01/2016) : Liste du patrimoine mondial en Slovénie.
 
-Liste représentative du patrimoine culturel immatériel de l’humanité :
+# Culture de la Slovénie :
+## Patrimoine :
+### Liste représentative du patrimoine culturel immatériel de l’humanité :
 
 Le programme Patrimoine culturel immatériel (UNESCO, 2003) a inscrit dans sa liste représentative du patrimoine culturel immatériel de l’humanité
 * 2018 : la dentellerie aux fuseaux en Slovénie,
@@ -505,7 +536,9 @@ Le programme Patrimoine culturel immatériel (UNESCO, 2003) a inscrit dans sa li
 * 2017 : la tournée de maison en maison des Kurenti,
 * 2016 : la représentation de la Passion à Škofja Loka...
 
-Registre international Mémoire du monde :
+# Culture de la Slovénie :
+## Patrimoine :
+### Registre international Mémoire du monde :
 
 Le programme Mémoire du monde (UNESCO, 1992) a inscrit dans son registre international Mémoire du monde (au 10/01/2016) :
 * 2007 : Codex Suprasliensis – Mineia četia, Mart (Le Codex de Suprasl - Ménologe Mars), manuscrits en vieux-slave, Bibliothèque nationale et universitaire de Ljubljana (conjointement avec la Russie et la Pologne)

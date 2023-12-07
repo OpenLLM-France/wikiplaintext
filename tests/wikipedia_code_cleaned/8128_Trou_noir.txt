@@ -61,8 +61,8 @@ Une sphère de photons ou sphère photonique est, en astrophysique, une surface 
 C'est un cas extrême de déviation gravitationnelle, prédit par la relativité générale.
 
 Singularité :
-
 Présence d'une singularité selon la relativité générale :
+
 Au centre d’un trou noir se situe une région dans laquelle le champ gravitationnel et certaines distorsions de l’espace-temps (on parle plutôt de courbure de l’espace-temps) divergent à l'infini, quel que soit le changement de coordonnées. Cette région s’appelle une singularité gravitationnelle. La description de cette région est délicate dans le cadre de la relativité générale puisque celle-ci ne peut décrire que des régions où la courbure est finie.
 De plus, la relativité générale est une théorie qui ne peut pas incorporer en général des effets gravitationnels d’origine quantique. Le fait que la courbure tende vers l’infini est un signe que la relativité générale ne peut décrire totalement la réalité à cet endroit et qu'il est probablement nécessaire d'introduire des effets quantiques. Par conséquent, seule une théorie de la gravitation incorporant tous les effets quantiques (on parle alors de gravitation quantique) est en mesure de décrire correctement les singularités gravitationnelles.
 La description d’une singularité gravitationnelle est donc pour l’heure problématique. Néanmoins, tant que celle-ci est située à l’intérieur de l'horizon du trou noir, elle ne peut influencer ce qui est à l’extérieur de cet horizon, de la même façon que de la matière située à l’intérieur de l'horizon d’un trou noir ne peut en ressortir. Ainsi, aussi mystérieuses que soient les singularités gravitationnelles, notre incapacité à les décrire, signe de l’existence de limitations de la relativité générale à décrire tous les phénomènes gravitationnels, n’empêche pas la description des trous noirs pour la partie située de notre côté de l’horizon des évènements.
@@ -143,8 +143,8 @@ En juin 2004, des astronomes ont trouvé un trou noir supermassif, appelé Q0906
 En 2012, le plus gros trou noir jamais observé est découvert dans la galaxie NGC 1277, située à 220 millions d’années-lumière dans la constellation de Persée. Il aurait une masse de 17 milliards de masses solaires et représente 14 % de la masse de sa propre galaxie (contre 0,1 % pour les autres, en moyenne). En 2017, ce trou noir aurait été détrôné par TON 618, un quasar situé à 10,4 milliards d'années-lumière et « pesant » 66 milliards de masses solaires.
 
 Trous noirs et physique fondamentale :
-
 Théorèmes sur les singularités :
+
 Une question cruciale à propos des trous noirs est de savoir sous quelles conditions ils peuvent se former. Si les conditions nécessaires à leur formation sont extrêmement spécifiques, les chances que les trous noirs soient nombreux peuvent être faibles. Un ensemble de théorèmes mathématiques dus à Stephen Hawking et Roger Penrose a montré qu’il n’en était rien : la formation des trous noirs peut se produire dans une variété de conditions extrêmement génériques. Pour des raisons évidentes, ces travaux ont été nommés théorèmes sur les singularités. Ces théorèmes datent du début des années 1970, époque où il n’y avait guère de confirmation observationnelle de l’existence des trous noirs. Les observations ultérieures ont effectivement confirmé que les trous noirs étaient des objets très fréquents dans l’univers.
 
 Singularités nues et censure cosmique :
@@ -197,8 +197,8 @@ Médias :
 Quand on parle de « culture populaire » à propos de trou noir, on pense souvent à la science-fiction. On y trouve, au cinéma ou dans le domaine littéraire, beaucoup d’inspiration.
 
 Dans les séries :
-
 Films :
+
 * Le Trou noir (1979), de Gary Nelson, est un film des studios Disney.
 * Event Horizon (1997), de Paul W.S. Anderson, est un film des studios Paramount Pictures, Golar Productions & Impact Pictures.
 * Contact (1997), de Robert Zemeckis, est un film des studios Warner Bros.
@@ -224,6 +224,8 @@ Bande dessinée :
 * Dans la série Universal War One, un trou de ver est au cœur de l’intrigue.
 * Dans les tomes 8 et 9 de la série Aquablue, un astre improbable analogue à un trou noir, appelé voïvode, est un des principaux éléments de l’intrigue.
 
+Médiagraphie :
+Bibliographie :
 Ouvrages de vulgarisation :
 
 * Matteo Smerlak, Les trous noirs, Presses Universitaires de France, coll. Que Sais-je ? n° 4003, 2ème édition mise à jour 2021, 128 p. (ISBN 978-2-7154-0738-1)
