@@ -1,6 +1,6 @@
 En mathématiques, une équation fonctionnelle est une équation dont les inconnues sont des fonctions. De nombreuses propriétés de fonctions peuvent être déterminées en étudiant les équations auxquelles elles satisfont. D'habitude, le terme « équation fonctionnelle » est réservé aux équations qu'on ne peut pas ramener à des équations plus simples, par exemple à des équations différentielles.
 
-Vocabulaire :
+Vocabulaire
 
 Le cas le plus fréquent est celui où les valeurs d'une fonction et éventuellement de ses dérivées, calculées en plusieurs points, doivent satisfaire une relation, dite relation fonctionnelle, pour toutes les valeurs de la variable (du moins sur un certain domaine). Deux approches distinctes sont possibles :
 * lorsqu'on étudie une fonction en particulier, il peut être utile de mettre en évidence une relation fonctionnelle qu'elle satisfait, comme la relation x\Gamma(x)=\Gamma(x+1) \, satisfaite par la fonction gamma d'Euler, ou celle satisfaite par la fonction zêta de Riemann : \zeta(s) = 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s). On en déduit ensuite d'autres propriétés de la fonction : par exemple que la fonction zêta de Riemann s'annule aux nombres entiers strictement négatifs pairs, et ne possède pas d'autres zéros en dehors de la bande 0 < Re(s) < 1 ;
@@ -8,7 +8,7 @@ Le cas le plus fréquent est celui où les valeurs d'une fonction et éventuelle
 Il arrive que certaines conditions analytiques soient exigées. Le théorème de Bohr-Mollerup en est un exemple. En l'absence de ces conditions, une équation fonctionnelle très simple comme l'équation fonctionnelle de Cauchy peut avoir des solutions très irrégulières.
 Lorsque l'équation relie les valeurs d'une fonction et de ses dérivées en un même point, elle est appelée équation différentielle. D'autres équations utilisent des propriétés globales des fonctions inconnues ; on parle par exemple d'équations intégrales, ou de problèmes d'optimisation (lesquels sont l'objet du calcul des variations), comme le problème de Plateau.
 
-Exemples :
+Exemples
 
 * f(x + y) f(x)f(y), satisfaite par les fonctions exponentielles ;
 * f(xy) f(x) + f(y), satisfaite par les fonctions logarithmes ;
@@ -30,11 +30,11 @@ Mais si l'on écrit f(a, b) au lieu de a ∗ b, alors l'associativité de la loi
 f(f(a,b), c) = f(a, f(b,c)).
 Un point commun à tous ces exemples est que dans chacun des cas, deux ou plusieurs fonctions (tantôt la multiplication par une constante, tantôt l'addition de deux variables, tantôt la fonction identité) sont substituées à l'inconnue.
 
-Formule de réflexion :
+Formule de réflexion
 
 On parle de formule de réflexion est une équation fonctionnelle caractérisant une fonction f entre sa valeur en tout point x d'un domaine défini et sa valeur en -x, ou plus généralement, sa forme décalée f(a-x).
 
-Exemples :
+Exemples
 
 Les formules de réflexion simples comme f(x) = f(-x) ou f(x) = -f(-x) impliquent l'étude de la parité des fonctions solutions (la première caractérise les fonctions paires, la seconde pour les fonctions impaires).
 Un des exemples les plus connus est la formule des compléments de la fonction gamma, démontré par Leonhard Euler
@@ -55,11 +55,11 @@ L(x)+L(1-x)=1.
 La série L de Dirichlet associée à la fonction tau de Ramanujan f(s) vérifie la formule de réflexion
 \frac{f(s)\Gamma(s)}{(2\pi)^s}=\frac{f(12-s)\Gamma(12-s)}{(2\pi)^{12-s}}.
 
-Relation de duplication :
+Relation de duplication
 
 On parle de formule de duplication quand l'équation fonctionnelle fait intervenir les valeurs en f(2x) ou f(x^2)
 
-Exemples :
+Exemples
 
 De ses liens avec la fonction bêta, on peut montrer que la fonction gamma vérifie la « formule de duplication de Legendre » :
 \frac{\Gamma(z)^2}{\Gamma(2z)}=2^{1-2z}\frac{\Gamma(\frac12)\Gamma(z)}{\Gamma(z+\frac12)}.
@@ -68,7 +68,7 @@ Le dilogarithme satisfait à
 La fonction L de Rogers vérifie la formule de duplication :
 \frac12 L(x^2)=L(x)-L \left(\frac{x}{1+x}\right).
 
-Applications :
+Applications
 
 Etude de fonctions
 Les équations fonctionnelles peuvent faire apparaitre des propriétés remarquables des solutions (symétrie, domaine de définition, ...) et simplifient l'expression de certaines valeurs.

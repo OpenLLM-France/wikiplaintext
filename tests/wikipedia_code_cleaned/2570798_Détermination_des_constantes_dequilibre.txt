@@ -1,7 +1,7 @@
 Les constantes d'équilibre sont évaluées pour quantifier les équilibres chimiques à partir de mesures de concentrations, directes ou indirectes, et mettant en œuvre des techniques numériques.
 Cet article se limite aux équilibres en solutions entre solutés pour lesquels l'activité chimique est mesurée par la concentration molaire en mol L⁻¹. Destiné aux praticiens spécialisés ainsi qu'aux apprentis ayant une appréciation de base des équilibres chimiques, cet article traite du sujet en profondeur jusqu'à permettre la programmation des techniques de détermination en se souciant de la rigueur statistique, et s'attarde à l'interprétation objective des résultats.
 
-Introduction :
+Introduction
 
 Un équilibre chimique peut s'écrire en général
 aA+bB+...\rightleftharpoons pP+qQ+...
@@ -11,11 +11,11 @@ Ce rapport sera alors constant à une température donnée, pourvu que le quotie
 Plusieurs types de mesures sont possibles. Cet article touche les trois types principalement utilisés et leurs limitations. Plusieurs autres, plus rares, sont décrits dans l'œuvre classique de Rossotti et Rossotti.
 Sauf s'il s'agit d'un système expérimental très simple, les rapports entre les constantes d'équilibre et les concentrations mesurées seront non linéaires. Avec un ordinateur rapide et un logiciel équipé, et ayant une quantité suffisante de mesures de concentration, la détermination d'un nombre indéfini de K, impliquant un nombre indéfini d'espèces en solution, se fait facilement et de manière statistiquement rigoureuse par solution numérique des rapports non linéaires qui décrivent un système d'équilibres enchevêtrés. Cette détermination suit alors le parcours d'une modélisation, avec trois étapes : l'articulation d'un modèle, sa numérisation et son affinement. Cet article détaille ces trois étapes et finit par proposer certains logiciels utiles.
 
-Mesures expérimentales :
+Mesures expérimentales
 
 La détermination de constantes d'équilibre se fait depuis plusieurs décennies et les techniques utilisées ont beaucoup évolué et sont devenues de véritables spécialités. Ce résumé ne peut pas donner tous les détails nécessaires à l'acquisition de mesures valables, et le lecteur se reportera aux textes spécialisés pour ce faire.
 
-Potentiométrie et pH-métrie :
+Potentiométrie et pH-métrie
 
 La concentration de certaines espèces peut être mesurée à l'aide d'électrodes spécialisées, telles que l'électrode de verre indicatrice du pH (pour mesurer [H⁺]) ou les électrodes sélectives (de verre ou à membrane) pour certains autres ions. Ces électrodes devront être calibrées avec des solutions de référence à concentration fixe.
 Pour les mesures de pH, des solutions-tampons seront utilisées et les lectures du pH-mètre obéiront
@@ -26,22 +26,22 @@ E=a+b \log_{10} [A]
 où A représente l'espèce détectée par l'électrode. Au minimum deux mesures, depuis au moins deux concentrations de référence, suffisent pour établir les paramètres empiriques a et b permettant ainsi de convertir les potentiels en concentrations.
 Le nombre de données doit égaler ou excéder le nombre de constantes d'équilibre à déterminer, ce qui est facile avec une titration.
 
-Limitations :
+Limitations
 
 Des valeurs de constantes d'équilibre entre environ 10² et 10¹¹ peuvent être mesurées directement par potentiométrie à l'aide d'électrodes de verre, grâce à la réponse logarithmique de ces électrodes. La méthode par compétition peut étendre cette plage, mais l'équation de Nernst tient mal à très bas ou très haut pH.
 
-Spectrométrie électronique :
+Spectrométrie électronique
 
 L'absorbance à une longueur d'onde dans la région visible ou de l'ultraviolet doit obéir la loi de Beer-Lambert, où il existe un rapport linéaire entre la mesure et la concentration de l'espèce mesurée, soit
 A^{\lambda}=\ell \sum_i {\epsilon^{\lambda}_i c_i}
 où \ell est la longueur du chemin optique, \epsilon^{\lambda}_i est l'absorptivité molaire (le coefficient d'extinction molaire) à chemin optique unitaire à la longueur d'onde \lambda de l' i ᵉᵐᵉ espèce chromophore à concentration c_i. Cette formulation reconnaît que, sauf les cas simples, plusieurs espèces peuvent absorber la lumière à une même longueur d'onde, ce qui nécessite la détermination simultanée de la concentration et de \epsilon^{\lambda} pour chaque espèce.
 Puisqu'avec une seule mesure, il n'est pas possible de déterminer plus qu'un paramètre, il faut avoir soit pour un même échantillon des mesures d'absorbance à plusieurs longueurs d'onde qui dépendront d'une même valeur de la constante d'équilibre pour ainsi cerner le ou les \epsilon inconnus, soit plusieurs échantillons à différentes concentrations relatives en réactifs dont les mesures d'absorbance dépendront des mêmes valeurs d'\epsilon à la même longueur d'onde pour ainsi cerner la constante d'équilibre inconnue, soit plusieurs échantillons examinés à plusieurs longueurs d'onde. On aura N_C N_{\lambda} mesures d'absorbance provenant de N_C solutions (à concentrations relatives différentes) mesurées à N_{\lambda} longueurs d'onde, pour évaluer au pire N_E (N_{\lambda}+1) inconnus provenant de N_E espèces chromophores associées à N_E N_{\lambda} valeurs d'\epsilon et N_E constantes d'équilibre. Il serait donc souhaitable d'obtenir indépendamment les valeurs d'\epsilon des réactifs isolés (et/ou des produits isolés) et/ou d'évaluer indépendamment, si possible, certaines des constantes d'équilibre, pour ainsi réduire le nombre total d'inconnus par détermination. De toute façon, il faut s'organiser pour avoir autant (ou plus) de données que d'inconnus (au pire N_C N_{\lambda} ≥ N_E (N_{\lambda}+1)). On se limite en général à un petit nombre de longueurs d'onde choisies pour bien répondre aux changements des concentrations des espèces chromophores, surtout aux \lambda_{max} des réactifs purs ou produits isolés.
 
-Limitations :
+Limitations
 
 C'est une technique utilisée surtout en chimie de coordination avec les métaux de transition. Une limite supérieure sur K de 10⁴ est habituelle, correspondant à la précision des mesures, mais cette limite dépend aussi de l'intensité de l'absorption. Idéalement, les spectres du réactif et du produit sont bien distincts ; un chevauchement important nécessite une attention particulière. Soit qu'on obtiendra aussi les spectres individuels du réactif et/ou du produit pour limiter la plage de calcul, et donc les valeurs \epsilon seront connues pour les espèces limitantes, soit le calcul effectuera par là-même une déconvolution du spectre, calcul dangereux à cause de la quantité des \epsilon à déterminer pour obtenir une seule constante d'équilibre.
 
-Spectrométrie par RMN :
+Spectrométrie par RMN
 
 Cette technique se limite à de cas d'échanges entre espèces relativement simples (par exemple, échanges entre isomères ou entre ligand et complexes), où les noyaux observés changent d'environnement chimique à la suite de l'échange. À l'idéal, il faut des signaux (préférablement des singulets) bien résolus (sans chevauchement).
 S'il s'agit d'un équilibre lent, sur l'échelle de temps du phénomène rmn entre deux espèces détectables simultanément, le rapport de la mesure d'intégration des signaux de chaque espèce suffit à établir le rapport de concentration entre les deux, pourvu que l'on prenne les soins nécessaires à la mesure précise de l'intégration, d'où des mesures à différentes concentrations pourront quantifier la constante d'équilibre entre les deux.
@@ -50,15 +50,15 @@ Sinon et habituellement dans les situations de complexation, quand l'équilibre 
 Plusieurs signaux distincts, provenant de noyaux différents dans un même échantillon, peuvent ainsi être soumis au même traitement numérique pour déterminer avec plus de confiance les mêmes constantes d'équilibre. Autrement, plusieurs rapports stœchiométriques seront mesurés.
 On aura donc, dans un système d'échange rapide, N_C N_S mesures de déplacement chimique provenant de N_S signaux avec N_C échantillons aux concentrations relatives différentes pour évaluer au pire N_E (N_S +1) inconnus, soit les déplacements \delta_i des N_S signaux des N_E espèces en équilibre et N_E constantes d'équilibre K. Les valeurs de \delta des noyaux dans les espèces limitantes (réactif pur et/ou produits purs) peuvent souvent être déterminées séparément pour limiter la détermination aux valeurs \delta et K autrement inconnaissables et donc réduire le nombre de valeurs inconnues, mais de toute façon il faut s'organiser pour avoir autant ou plus de données que d'inconnues (au pire N_C N_S ≥ N_E (N_S +1)).
 
-Limitations :
+Limitations
 
 Cette méthode est limitée aux molécules diamagnétiques comprenant un noyau sensible et, ce, soit bien en dessous ou bien au-dessus de la température de coalescence du phénomène d'échange observé. Les déplacements chimiques de référence (par exemple, du réactif isolé, dans une situation de complexation) doivent être obtenus à la même température et dans le même solvant que le mélange contenant un complexe. La précision des mesures de déplacements chimiques convient aux valeurs de K à déterminer allant jusqu'à environ 10⁴, bien que la méthode de compétition peut étendre cette plage.
 
-Méthodes de calcul :
+Méthodes de calcul
 
 Les données de base incluront pour chaque échantillon les concentrations analytiques des réactifs mis ensemble pour constituer les espèces complexes en équilibre entre eux et avec les réactifs libres, ainsi qu'une mesure de la concentration d'une espèce ou de plusieurs espèces. Le nombre de mesures sera préférablement supérieur (et au minimum égal) au nombre de valeurs inconnues (constantes d'équilibre en cause, ainsi que les valeurs d'\epsilon ou de \delta à déterminer). Moins on aura d'inconnues à déterminer à la fois, plus chaque détermination sera fiable.
 
-Linéarisations dangereuses :
+Linéarisations dangereuses
 
 Une détermination graphique est parfois possible avec un système expérimental simple impliquant un ou deux équilibres. Cela nécessite une linéarisation avec ou sans approximations des rapports non linéaires entre constantes d'équilibre et les concentrations mesurées, d'où l'on soutirera la valeur du ou des K avec la pente ou l'intercepte ou avec une combinaison des deux. Il va sans dire que toute approximation amoindrira la généralité de la détermination. Même si l'on peut obtenir les valeurs exactes de la pente et de l'intercepte par calcul (méthode des moindres carrés) plutôt que par estimation visuelle, ce genre de détermination peut violer un principe de base en statistique des modèles linéaires, soit que la distribution des erreurs de mesure (erreurs affligeant les y dans un rapport linéaire y=mx+b) sera aléatoire et à distribution normale des amplitudes. Bien que l'on puisse s'attendre à ce que les erreurs de mesure obéiront une distribution normale, ce ne sera pas le cas des fonctions de ces mesures qui résulteront d'une linéarisation des équations régissant les équilibres en cours.
 En guise d'exemple, l'équation de Henderson-Hasselbalch est une linéarisation courante pour quantifier un équilibre simple. Elle peut être utilisée de manière statistiquement rigoureuse ou dangereuse. Dans le cas d'une titration d'acide faible HA avec une solution d'hydroxyde, on propose le modèle
@@ -78,7 +78,7 @@ y=\log_{10} \lbrace A_i^{\lambda}-\epsilon_{HI^+}^{\lambda}\ell[I]_0 \rbrace-\lo
 Bien que l'on peut espérer une distribution aléatoire des erreurs de mesure A^{\lambda} et que l'amplitude de ces erreurs obéira une distribution normale, ce ne sera certainement pas le cas chez la quantité complexe y même si les \epsilon et le [I]_0 sont sans erreur possible, ce qui n'est pas le cas. Au contraire, cette détermination imposera une distribution aléatoire des résidus y-(x+pK_a^{HI}) et les amplitudes de ces résidus obéiront une distribution normale, mais il n'y a aucune signification physique ni dans la quantité y, ni dans les y-(x+pK_a^{HI}).
 Un autre problème survient avec ces deux exemples : un expérimentaliste mal avisé verra dans la relation y=x+pK_a un modèle linéaire de forme générale y=mx+b et aura le réflexe de calculer une pente et un intercepte par la méthode des moindres carrés, souvent à l'aide d'une fonction préconstruite d'un logiciel (par exemple Excel de Microsoft). alors qu'il n'y a pas de pente à déterminer. Non seulement la valeur du pK_a ainsi calculé ne sera pas justifiable, les statistiques de confiance dans le résultat, basées sur une détermination de deux inconnues, seront alors faussées. Le pK_a n'est pas en fait un intercepte à déterminer en extrapolant vers x = 0, mais la simple moyenne des différences y-x, et la confiance en la valeur du pK_a ainsi obtenue sera donnée par la déviation standard autour de cette moyenne. La tentation de déterminer une pente chimérique est d'autant plus grande que la déviation standard du pK_a calculé avec une pente sera plus petite, puisque la modélisation d'une relation à l'aide de deux paramètres (pente et intercepte) sera toujours plus satisfaisante qu'à l'aide d'un seul paramètre (l'intercepte, dans le cas présent).
 
-Modélisation non linéaire :
+Modélisation non linéaire
 
 Quand un système met en œuvre plusieurs équilibres ou quand les équilibres mettent en cause plusieurs espèces chimiques à la fois, une linéarisation devient impossible sans y imposer des restrictions (approximations). Même si l'on se conforme aux exigences d'un modèle linéaire, toute restriction rend la détermination approximative et moins générale. C'est alors qu'un traitement numérique s'impose.
 Dans l'exemple ci-haut, où la linéarisation ne donnait pas un modèle linéaire valide, on aurait dû s'en tenir à une relation f non linéaire
@@ -91,26 +91,26 @@ où les calcul(s) sont obtenus avec f(variable(s),\ constante(s),\ inconnue(s)).
 Le problème de la minimisation des résidus n'est qu'un problème technique et il existe plusieurs algorithmes qui se vantent certains avantages. Tous doivent arriver à la même conclusion sur un même modèle décrivant un même système. Cet article cherche moins à comparer les diverses méthodes numériques qu'à assurer une approche statistiquement valide, approche qui pourra alimenter une programmation des calculs.
 La méthode décrite ici suit le cheminement de Alcock et al. (1978) pour un régime général d'équilibres multiples.
 
-Le modèle chimique :
+Le modèle chimique
 
 Le modèle chimique doit inclure toutes les espèces en équilibre de façon à permettre un calcul de chacune de leurs concentrations, impliquant autant d'équilibres qu'il y a d'espèces en solution. Il y a deux genres de constantes d'équilibre utilisés pour ce faire : les constantes générales et les constantes de formation cumulative.
 Une constante dite générale gouverne un équilibre entre n'importe quelles espèces, par exemple un équilibre d'échange de ligands entre deux complexes de coordination, par exemple
-MX_2^{2+} + Y \rightleftharpoons MXY^{2+} + X     où    K = [MXY^{2+}][X]/[MX_2^{2+}][Y]
+MX_2^{2+} + Y \rightleftharpoons MXY^{2+} + X     où    K = [MXY^{2+}][X]/[MX_2^{2+}][Y]
 Une constante de formation cumulative se limite à un équilibre entre une espèce et les réactifs irréductibles qui la forment par cumul. Comme tout ensemble en équilibre survient après avoir mélangé des réactifs, on définit donc toute espèce comme le résultat A_pB_q... d'une combinaison stoichiométrique et unique des réactifs irréductibles A, B, ...
 pA+qB...\rightleftharpoons A_pB_q...
 spécifiée par les coefficients de stœchiométrie p, q, ...,
 et la constante d'équilibre qui régit cette formation est habituellement symbolisé par un \beta, ainsi
 \beta_{pq...}=\frac{[A_pB_q...]} {[A]^p[B]^q...}
 Ce faisant, nous garantissons autant de constantes que d'espèces et aucun équilibre ne sera redondant. Même les réactifs irréductibles peuvent être représentés de la même manière, avec des \beta symboliques,
-[A]^{ _ = \beta_{10...}[A]^1[B]^0...    où     \beta_{10...^ ={[A_1B_0...]}/{[A]^1[B]^0...}=1
-[B]^{ _ = \beta_{01...}[A]^0[B]^1...    où     \beta_{01...^ ={[A_0B_1...]}/{[A]^0[B]^1...}=1
+[A]^{ _ = \beta_{10...}[A]^1[B]^0...    où     \beta_{10...^ ={[A_1B_0...]}/{[A]^1[B]^0...}=1
+[B]^{ _ = \beta_{01...}[A]^0[B]^1...    où     \beta_{01...^ ={[A_0B_1...]}/{[A]^0[B]^1...}=1
 \mathbf
 pour que toutes les espèces soient traitées de façon homogène. De façon générale, la concentration de la i ième espèce E_i, formée d'une combinaison de N_R réactifs R, est
 [E_i] = \beta_i \prod_k^{N_R} [R_k]^{a_{i,k}}
 où le coefficient de stœchiométrie a_{i,k} est le nombre d'équivalents du k ième réactif entrant dans la formation de la i ième espèce, et où \beta_i est la constante d'équilibre qui régit cet assemblage. Cette représentation harmonisée facilitera la notation à venir et la programmation des logiciels.
 Il s'avère que cette deuxième sorte d'équilibre est d'utilité tout aussi générale que la première. En effet, tout ensemble d'espèces en équilibres multiples pourra être modelé à l'aide d'équilibres de formation (bien qu'ils ne seront pas toujours le meilleur choix) et, une fois le système d'équations résolu et les \beta déterminés, tout autre équilibre ne sera qu'une combinaison de ces mêmes équilibres de formation, et toute autre constante ne sera qu'une combinaison de ces mêmes \beta et pourra donc être quantifié par la suite (voir constantes dérivées). Pour reprendre l'exemple d'échange de ligands entre complexes de coordination cité ci-haut, nous pouvons écrire
 K = [MXY^{2+}][X]/[MX_2^{2+}][Y] = \beta_{111} \beta_{010}/\beta_{120} \beta_{001}
-où \beta_{111} = \frac{[MXY^{2+}]}{[M^{2+}][X][Y]},   \beta_{120} = \frac{[MX_2^{2+}]}{[M^{2+}][X]^2[Y]^0},   \beta_{010} = \frac{[X]}{[M^{2+}]^0[X][Y]^0}(=1)   et    \beta_{001} = \frac{[Y]}{[M^{2+}]^0[X]^0[Y]} (=1)
+où \beta_{111} = \frac{[MXY^{2+}]}{[M^{2+}][X][Y]},   \beta_{120} = \frac{[MX_2^{2+}]}{[M^{2+}][X]^2[Y]^0},   \beta_{010} = \frac{[X]}{[M^{2+}]^0[X][Y]^0}(=1)   et    \beta_{001} = \frac{[Y]}{[M^{2+}]^0[X]^0[Y]} (=1)
 Le grand avantage d'une telle formulation à l'aide d'équilibres de formation est que le calcul des concentrations (section suivante) est grandement simplifié.
 Dans tous les cas, si l'expérience est conduite en milieu aqueux, il faudra inclure la dissociation de l'eau (son autoprotolyse)
 K_W=[H^+_[OH^-]
@@ -119,10 +119,10 @@ et imposer la valeur du produit ionique K_W appropriée à la situation en tant 
 Si jamais la valeur du K_W n'était pas connu pour la situation expérimentale voulue, par exemple dans un mélange de solvants particulier et (ou) à une température particulière, on pourrait la considérer comme quantité inconnue à déterminer en même temps que les autres constantes inconnues, mais il serait plus sage de la déterminer auparavant, indépendamment, par exemple par la méthode de Gran, pour limiter le nombre d'inconnus à traiter par expérience et la corrélation entre les résultats.
 Il va sans dire que le modèle doit être complet, dans le sens que doivent y paraître tous les équilibres enchevêtrés qui risquent d'agir sur la mesure. Toutefois, il est usuel d'omettre du modèle les espèces que l'on anticipe n'exister qu'en concentrations négligeables, par exemple les équilibres mettant en cause l'électrolyte que l'on ajoutera pour maintenir une force ionique constante ou les espèces-tampons qui maintiendront un pH constant. Après avoir numérisé les équilibres et jugé du succès de la modélisation, on aura l'occasion de revoir la pertinence des espèces incluses et la nécessité d'y inclure des espèces non anticipées.
 
-Numérisation :
+Numérisation
 
 À un ensemble de \beta correspondra un ensemble unique de concentrations, parce qu'elles sont bornées par les quantités des matériaux utilisées.
-La quantité de chaque réactif mis en réaction, maintenant dispersée parmi toutes les espèces complexes qu'il forme ainsi qu'en forme libre, restera constante dans un échantillon donné, et sera donc connue dans chaque échantillon (ou à chaque étape d'une titration) selon les volumes et les concentrations des stocks mélangés pour préparer l'échantillon. Pour chaque réactif R, on aura donc une concentration analytique connue [R]^{connue} dans chaque échantillon. On cherchera alors les concentrations de toutes les espèces formées par ce réactif, ainsi que le reste inutilisé du réactif (réactif libre), de sorte que le total de leurs parts en R, [R]^{calc}, soit égal à [R]^{connue}. La somme des parts du j ième de N_R réactifs formant les N_E espèces E, s'écrit
+La quantité de chaque réactif mis en réaction, maintenant dispersée parmi toutes les espèces complexes qu'il forme ainsi qu'en forme libre, restera constante dans un échantillon donné, et sera donc connue dans chaque échantillon (ou à chaque étape d'une titration) selon les volumes et les concentrations des stocks mélangés pour préparer l'échantillon. Pour chaque réactif R, on aura donc une concentration analytique connue [R]^{connue} dans chaque échantillon. On cherchera alors les concentrations de toutes les espèces formées par ce réactif, ainsi que le reste inutilisé du réactif (réactif libre), de sorte que le total de leurs parts en R, [R]^{calc}, soit égal à [R]^{connue}. La somme des parts du j ième de N_R réactifs formant les N_E espèces E, s'écrit
 [R_j]^{calc}= \sum_i^{N_E} a_{i,j} [E_i] = \sum_i^{N_E} a_{i,j} \beta_{i} \prod_k^{N_R} [R_k]^{a_{i,k}}
 où le coefficient stœchiométrique a_{i,j} indique le nombre d'équivalents du j ième réactif contenu dans l'i ième espèce. Ainsi, l'unicité des valeurs des concentrations pour chaque ensemble de \beta est assuré par les N_R [R]^{connue} correspondant aux N_R 'inconnus' [R_k].
 La détermination trouvera donc l'unique ensemble des \beta qui fixeront les concentrations des espèces qui reproduiront le mieux les mesures expérimentales et il suffira d'avoir au moins autant de mesures que de \beta inconnus.
@@ -135,20 +135,20 @@ La stratégie à suivre consiste donc à
 * ré-ajuster les \beta inconnus
 * et ainsi de suite de manière itérative, jusqu'à ce que l'accord des mesures réelles et estimées ne puisse plus être amélioré, nous permettant de conclure que les \beta auront donc été déterminés.
 
-Calcul des concentrations :
+Calcul des concentrations
 
 À chaque itération de la détermination, les concentrations doivent être calculées, mais il n'est pas possible de résoudre directement les N_R équations parallèles
 [R_j]^{connue} = [R_j]^{calc}
-parce qu'elles ne sont pas linéaires. Plutôt, la méthode Gauss-Newton est adoptée, où l'on se rapprochera petit à petit de la solution à partir d'un début approximatif où auront été estimées les concentrations [R]. À la \mu ième itération, on calculera des corrections \Delta [R_k]_{\mu} à apporter aux valeurs en cours [R_k]_{\mu} pour générer de meilleures estimations des [R_j]^{calc} et qui serviront à la (\mu+1) ième itération. Ces corrections proviendront de la solution des séries de Taylor (tronquées pour ne retenir que les termes de premier ordre)
+parce qu'elles ne sont pas linéaires. Plutôt, la méthode Gauss-Newton est adoptée, où l'on se rapprochera petit à petit de la solution à partir d'un début approximatif où auront été estimées les concentrations [R]. À la \mu ième itération, on calculera des corrections \Delta [R_k]_{\mu} à apporter aux valeurs en cours [R_k]_{\mu} pour générer de meilleures estimations des [R_j]^{calc} et qui serviront à la (\mu+1) ième itération. Ces corrections proviendront de la solution des séries de Taylor (tronquées pour ne retenir que les termes de premier ordre)
 [R_j]^{connue} = [R_j]_{\mu}^{calc} + \sum_k^{N_R} \frac {\partial [R_j]_{\mu}^{calc}}{\partial [R_k]} \Delta [R_k]_{\mu}
 que l'on peut rassembler en notation matricielle-vectorielle ainsi
 \mathbf{[R]}^{connue} = \mathbf{[R]}_{\mu}^{calc} + \mathbf{D}_{\mu}\, \mathbf{\Delta}_{\mu}
-où le (j,k) ième élément de la matrice \mathbf{D}_{\mu} sera le dérivé {\partial [R_j]_{\mu}^{calc}}/{\partial [R_k]} tandis que le vecteur \mathbf{\Delta}_{\mu} contiendra les corrections \Delta [R_k]_{\mu}. La solution à la \mu ième itération sera
+où le (j,k) ième élément de la matrice \mathbf{D}_{\mu} sera le dérivé {\partial [R_j]_{\mu}^{calc}}/{\partial [R_k]} tandis que le vecteur \mathbf{\Delta}_{\mu} contiendra les corrections \Delta [R_k]_{\mu}. La solution à la \mu ième itération sera
 \mathbf{\Delta}_{\mu} = \mathbf{D}_{\mu}^{-1}\ (\mathbf{[R]}^{connue} - \mathbf{[R]}_{\mu}^{calc})
 puisque la matrice \mathbf{D}_{\mu} sera carrée et inversible.
 Chaque itération nécessitera alors un nouveau calcul de ces dérivés, ainsi que de nouvelles estimations des concentrations, jusqu'à ce que les corrections \Delta [R_k] deviennent insignifiantes, et on aura ainsi trouvé les concentrations finales. Le nombre d'itérations requises dépendra du point de départ, c'est-à-dire de la qualité des valeurs estimées des concentrations [R] à la première itération. Dans le cadre d'une titration, où chaque échantillon (à la suite de chaque ajout du titrant) suit l'autre en ordre, on n'aura besoin d'estimer ces concentrations qu'au début et le nombre d'itérations à chaque échantillon suivant sera réduit.
 
-Affinement des constantes d'équilibre :
+Affinement des constantes d'équilibre
 
 L'affinement des valeurs des constantes d'équilibre inconnues se fait d'habitude en minimisant, par la méthode des moindres carrés non linéaire, une quantité U (aussi dénoté par \chi^2) appelée fonction objectif :
 U=\sum_i\sum_j W_{i,j}\left(y_i-y_i^{calc}\right)\left(y_j-y_j^{calc}\right)
@@ -168,21 +168,21 @@ Les corrections \Delta P sont calculées avec
 \mathbf{\Delta} = (\mathbf{J}^T \mathbf{W J})^{-1} \mathbf{J}^T \mathbf{W} (\mathbf{y}- \mathbf{y}^{calc} )
 où l'exposant T indique la matrice transposée. La matrice (\mathbf{J}^T \mathbf{W J})^{-1} est parfois appelée la matrice hessienne (bien que le nom matrice hessienne désigne aussi la matrice des dérivées secondes). Pour fins ultérieures, nous la représenterons par \mathbf{H}. Les corrections ainsi calculées seront ajoutées aux valeurs des P actuelles pour générer de meilleures estimations pour la prochaine itération. Les concentrations des espèces, les y^{calc}, les pondérations W et les dérivées dans \mathbf{J} seront tous recalculées pour générer à la prochaine itération une nouvelle série de corrections, et ce de manière répétée jusqu'à ce que les corrections deviennent insignifiantes et que le U soit plus ou moins stabilisé. Alors, on aura déterminé les valeurs finales des P.
 
-Modification de Levenberg-Marquardt :
+Modification de Levenberg-Marquardt
 
 Aussi appelée méthode ou algorithme de Marquardt-Levenberg.
 Dépendant du point de départ, les corrections de Gauss-Newton peuvent être largement excédentaires, dépassant le minimum, ou menant à une augmentation du U (ce qui causerait normalement un affinement avorté) ou même causer des oscillations autour du minimum. Dans d'autres situations, l'approche du minimum peut être lente. Pour amortir les corrections trop grandes ou accélérer l'atteinte du U minimal, on peut faire appel à l'algorithme de Marquardt-Levenberg, couramment utilisée, et appliquer des corrections modifiées
 \mathbf{\Delta= (J}^T \mathbf{W J} +\lambda \mathbf{I)}^{-1} \mathbf{J}^T \mathbf{W} ( \mathbf{y}- \mathbf{y}^{calc} )
 où \lambda est un paramètre ajustable, et \mathbf{I} est la matrice identité. Un \lambda non nul oriente la recherche du U minimum vers la direction de la descente de gradient, \mathbf{J}^T \mathbf{W} ( \mathbf{y}- \mathbf{y}^{calc}), qui résulte de la minimisation directe de U en mettant à zéro tous ses dérivés par rapport aux paramètres P. Cette technique, qui est d'utilité générale pour résoudre les systèmes d'équations non linéaires, exige dans le cas des déterminations de constantes d'équilibre un certain nombre de re-calculs itératifs des concentrations pour tester si la valeur actuelle de \lambda reste utile.
 
-Modification de Potvin :
+Modification de Potvin
 
 Puisque chaque itération sur les \beta entraîne un nouveau calcul des concentrations, lui-même itératif, les re-calculs nécessités par la technique de Marquardt-Levenberg lors d'une même itération sont coûteux, surtout s'il y a un grand nombre de données à traiter. Le même problème survient avec d'autres méthodes d'optimisation numérique à paramètre ajustable, telles que les méthodes de Broyden-Fletcher-Goldfarb-Shanno (recherche linéaire du paramètre optimal) ou de Hartley-Wentworth (recherche parabolique).
 Ayant noté que ce sont les corrections positives aux valeurs sous-estimées des \log_{10} \beta (ou négatives aux valeurs sur-estimées des \beta) qui produisent un dépassement du U minimum, tandis que les corrections négatives ne le font pas, et que la taille de ces corrections excessives grandit de façon exponentielle plus on est éloigné du minimum, Potvin (1992a) a proposé une simple modification logarithmique des corrections positives, soit pour la correction \Delta_q du q ième \log_{10}\beta
 \Delta^{mod}_q = \log_{10} \,(ln\,\Delta_q + 1)
 Cette formulation découle d'une solution approximative des séries de Taylor à ordre infini. Les corrections ainsi modifiées sont de taille beaucoup plus raisonnable, surtout si on est loin du minimum. Bien que ces corrections modifiées puissent quand même dans certains cas mener à un léger dépassement du minimum ou même à une augmentation du U, ce ne sera que temporaire puisque l'itération suivante reviendra dans la bonne direction sans dépassement. L'algorithme limite aussi toute correction négative si la descente du gradient propose au contraire une correction positive. Le grand avantage de cette modification est son coût minime.
 
-Particularités pour données spectrophotométriques :
+Particularités pour données spectrophotométriques
 
 Selon le modèle chimique général exposé plus haut, la loi de Beer-Lambert peut être ré-écrite en termes des concentrations des espèces E
 A^{\lambda}=\ell \sum_i {\epsilon^{\lambda}_i [E_i]}
@@ -195,7 +195,7 @@ ce qui permettra un affinement simultané des constantes d'équilibre et des \ep
 \mathbf{e} = \{(\mathbf{[E]}^T \mathbf{[E]})^{-1} \mathbf{[E]}^T \mathbf{A}\} / \ell
 et les nouvelles concentrations [E] qui en résultent. Ensuite, on utilise ces nouvelles estimations des \epsilon pour lancer un nouvel affinement des constantes d'équilibre, ce qui mène à une nouvelle série d'estimations des \epsilon, et ainsi de suite. Ce ping-pong continue jusqu'à ce que les deux familles de paramètres ne changent plus. Les auteurs de Specfit montrent comment trouver les dérivés de la matrice pseudo-inverse (\mathbf{[E]}^T \mathbf{[E]})^{-1} \mathbf{[E]}^T.
 
-Particularités pour données par RMN :
+Particularités pour données par RMN
 
 La formulation usuelle, présentée au départ, qui relie la mesure \bar{\delta} aux fractions molaires des noyaux participants, c_i/\Sigma c_i, ne convient pas ici et peut même induire en erreur. Puisque tous les noyaux contribuant à un signal donné proviennent du même réactif, dont la concentration totale est connue et constante, et puisqu'une même espèce porteuse peut porter plus qu'un de ce réactif, une représentation plus générale qui reprend la notation utilisée ailleurs dans cet article relie un signal provenant du k ième réactif aux concentrations d'espèces avec
 \bar{\delta} = \frac {1}{[R_k]^{connue}} \sum_i^{N_E} \delta_i a_{i,k} [E_i]
@@ -205,8 +205,8 @@ En notation matricielle, on a
 où la matrice \mathbf{d} contient les éléments \delta_i. Les auteurs de HypNMR procèdent comme pour les données spectrophotométriques, c'est-à-dire que la jacobienne inclut les dérivés par rapport aux \beta et aux \delta, mais que seuls les \beta sont corrigés alors que les \delta sont mis à jour à partir des nouvelles concentrations résultantes, avec
 \mathbf{d} = [(\mathbf{a [E]})^T (\mathbf{a [E]})]^{-1} (\mathbf{a [E]})^T \mathbf{[R]}^{connue} \mathbf{\bar{\delta}}
 
-Analyse des résultats :
-Fiabilité de la détermination et affinement du modèle :
+Analyse des résultats
+Fiabilité de la détermination et affinement du modèle
 
 Une détermination numérique constitue un test d'un modèle, et non pas une preuve de sa pertinence. On peut examiner la fiabilité du modèle à l'aide de l'accord-type, des incertitudes et des corrélations et songer à modifier le modèle pour une détermination plus fiable. Cependant, la détermination cesse alors d'être une mesure de constantes d'équilibres connus et risque de devenir une découverte d'équilibres. Cela doit se faire sagement, en se guidant avec des comparaisons impartiales entre modèles.
 L'incertitude dans la valeur du j ième paramètre P est fournie par le j, j ième élément (le j ième sur la diagonale) de la matrice \mathbf{H}:
@@ -228,7 +228,7 @@ Dans le cas d'un accord insatisfaisant, l'inclusion d'autres espèces (et d'autr
 Finalement, les mesures elles-mêmes ainsi que les paramètres Q influenceront la qualité de l'accord. Par exemple, certaines données extrêmes ou aberrantes peuvent être « problématiques » en ce que leur mise à l'écart améliore de façon « importante » la qualité de l'accord, et ainsi réduit les incertitudes dans les P, contrairement à la règle générale que l'accord et les incertitudes seront améliorés par un plus grand nombre de données. Par ailleurs, les résidus y^{obs}-y^{calc} peuvent être co-reliés, c'est-à-dire que les y^{obs} ne sont pas distribués de façon aléatoire de part et d'autre des y^{calc}, ce que la méthode des moindres carrés supposera. Pour remédier à de tels problèmes, on peut omettre certaines données, ou déplacer la pondération en changeant les \sigma(Q), ou changer les Q eux-mêmes, ou même les affiner aux côtés des paramètres P comme s'ils devaient être déterminés (ce que certains logiciels permettent). Ce genre de bricolage pour la simple amélioration de l'accord biaise le modèle au risque d'une perte de sens. Le bon sens chimique, plutôt qu'un penchant pour un résultat, devrait guider tout changement au modèle, aux paramètres fixes, aux données ou à leur pondération, et le mal que l'on se donnerait pour améliorer un accord ou un modèle pourraient être orientés à améliorer la qualité des données (i.e. la confiance en elles).
 Toutefois, il peut être utile parfois de rigoureusement comparer les résultats découlant d'altérations judicieuses au modèle. L'omission ou la désaccentuation de données et l'altération de paramètres fixes donnent lieu à des modèles compétiteurs où les matrices \mathbf{W} diffèrent, et un test de Hamilton modifié peut décider lesquels sont différents de façon statistiquement significative. Ce test modifié est aussi utile pour la comparaison de résultats provenant d'expériences séparées, avec différentes données et différentes matrices \mathbf{W}.
 
-Erreurs expérimentales :
+Erreurs expérimentales
 
 Comme indiqué plus tôt, les incertitudes calculées avec la matrice \mathbf{H} reflètent la qualité du modèle et connotent sa « déterminabilité ». Les valeurs des paramètres et leurs incertitudes seront bien reproduites si l'expérience était répétée sous des conditions identiques, mais la « reproductibilité » d'une détermination dénote l'attente de résultats statistiquement indiscernables à partir de mesures complètement indépendantes, à l'idéal par différents praticiens à l'aide d'instruments différents et différentes concentrations des mêmes matériaux de différentes provenances. Le plus souvent, une telle diversité de sources de données n'est pas possible. La répétition d'une même expérience demeure toutefois utile pour amoindrir les effets d'erreurs aléatoires dans certaines sources d'erreurs systématiques Q.
 L'estimation de « l'erreur expérimentale » dans une constante d'équilibre peut donc se faire à l'aide d'une seule valeur de \sigma provenant d'une seule détermination, ou de plusieurs déterminations répétées pour amoindrir les effets d'erreurs aléatoires dans certaines sources d'erreurs systématiques Q, jusqu'à la combinaison d'expériences complètement indépendantes où les effets de toutes les sources d'erreurs systématiques seront amoindris. Donc, toute estimation « d'erreur expérimentale » devrait aussi communiquer la diversité des données utilisées pour l'estimation. Toutefois, la simple prise d'une moyenne des valeurs séparément déterminées ne tiendra pas compte de la fiabilité inégale des déterminations, telle que rapportée par les incertitudes calculées dans chaque détermination. Plutôt, la moyenne \bar{P} des valeurs individuelles pondérées par leurs incertitudes s'appuiera davantage sur les valeurs les moins incertaines avec
@@ -236,7 +236,7 @@ L'estimation de « l'erreur expérimentale » dans une constante d'équilibre pe
 où \sigma_n(P_n) rapporte l'incertitude de la n ième de N déterminations d'un même paramètre P. Pourvu que les tailles relatives des pondérations soient justes, cette moyenne sera insensible aux valeurs absolues de ces pondérations. De même, on peut quantifier « l'erreur expérimentale » du \bar{P} avec l'écart-type \bar{\sigma} autour de la moyenne, où les écarts (\bar{P} - P_n) sont pondérés par ces mêmes incertitudes, selon Potvin (1994) :
 (N-1) \bar{\sigma}^2(P) = N \frac {\sum_{n=1}^N (\bar{P} - P_n)^2/\sigma_n^2(P_n)}{\sum_{n=1}^N 1/\sigma_n^2(P_n)}
 
-Constantes dérivées et modèles équivalents :
+Constantes dérivées et modèles équivalents
 
 Si l'on calcule une constante d'équilibre qui est fonction de constantes de formation que l'on a déterminées, telle qu'un K_a, l'incertitude d'une telle constante dérivée n'est pas une simple fonction des incertitudes dans les constantes déterminées, comme le voudraient les règles normales de la propagation d'erreurs, puisque cela requiert que les sources d'erreur soient indépendantes alors que les constantes déterminées par les mêmes données sont co-reliées. En guise d'exemple, pour la protonation d'une substance dibasique L,
 K_{a1} = \frac {[LH^+]}{[H^+][L]} = \beta_{LH^ , ou pK_{a1} = -log \beta_{LH^ et
@@ -248,7 +248,7 @@ Les constantes dérivées constituent une représentation équivalente d'un mod�
 Parfois même, un modèle construit d'équilibres de formation (avec constantes \beta) n'est pas le mieux adapté au système expérimental. Tout équilibre de formation présume que les concentrations des réactifs libres ne seront pas négligeables alors que, dans bien des cas, les constantes de formation sont tellement grandes qu'il ne reste presque plus de l'un ou d'un autre réactif en forme libre. Cela peut donner des difficultés pendant les calculs des concentrations, des valeurs de \beta très incertaines et un calcul de constantes dérivées qui met en œuvre des constantes \beta très incertaines.
 Potvin (1990b) a présenté une manière de construire des modèles équivalents, d'en déduire les rapports d'erreur et d'éviter de devoir composer avec des concentrations négligeables en réactifs libres.
 
-Logiciels :
+Logiciels
 
 Un grand nombre de logiciels visant le calcul de constantes d'équilibre est paru dans la littérature scientifique, pas tous aussi utiles ou rigoureux.
 Les logiciels les plus utilisés sont :
@@ -257,7 +257,7 @@ Les logiciels les plus utilisés sont :
 * données de RMN : HypNMR
 On peut en principe faire les calculs nécessaires de manière dynamique à l'aide de logiciels à feuilles de calcul. Pour certains systèmes simples, il existe des feuilles de calcul pré-conçues pour ce faire mais leurs calculs ne suivent pas le cheminement exposé ici et utilisent le module boîte-noire SOLVER pour réaliser les minimisations par la méthode des moindres carrés.
 
-Particularités :
+Particularités
 
 Certains logiciels ont été écrits pour des ordinateurs depuis longtemps obsolètes. Parfois, ils auront été modernisés dans des mises en œuvre locales.
 La plupart des logiciels suivent la méthode Gauss-Newton décrite ici. En fait, l'approche numérique importe peu, pourvu que le minimum de la fonction objectif soit bel et bien atteint, puisque le même minimum devrait être atteint par toutes les approches à partir des mêmes données. Cependant, le minimum à atteindre et, donc, les résultats ultimes dépendent de la pondération utilisée, et les logiciels sont inégaux sur cet aspect. Aussi, le calcul correct des incertitudes sur les paramètres requiert la jacobienne (complète si on traite plus d'une sorte de données), mais dépend aussi de la pondération utilisée. Sur ces aspects, certaines particularités de ces logiciels sont à noter :

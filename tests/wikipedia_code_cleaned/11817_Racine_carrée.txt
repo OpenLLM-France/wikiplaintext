@@ -2,11 +2,11 @@ En mathématiques élémentaires, la racine carrée d'un nombre réel positif x 
 En algèbre et analyse, dans un anneau ou un corps A, on appelle racine carrée de a, tout élément de A dont le carré vaut a. Par exemple, dans le corps des complexes ℂ, on dira de i (ou de − i) qu'il est une racine carrée de − 1. Selon la nature de l'anneau, et la valeur de a, on peut trouver 0, 1, 2 ou plus de 2 racines carrées de a.
 La recherche de la racine carrée d'un nombre, ou extraction de la racine carrée, donne lieu à de nombreux algorithmes. La nature de la racine carrée d'un entier naturel qui n'est pas le carré d'un entier est à l'origine de la première prise de conscience de l'existence de nombres irrationnels. La recherche de racines carrées pour des nombres négatifs a conduit à l'invention des nombres complexes.
 
-Histoire :
+Histoire
 
 La plus ancienne racine carrée connue apparaît vers 1700 avant J.-C. sur la tablette YBC 7289. Il s'agit de la représentation d'un carré avec, sur un côté, le nombre 30 et, le long de la diagonale, une valeur approchée de √2.
 
-Construction géométrique de la racine carrée :
+Construction géométrique de la racine carrée
 
 La construction géométrique suivante se réalise à la règle et au compas et permet, étant donné un segment OB de longueur a, et un segment de longueur 1, de construire un segment de longueur √a :
 * Construire le segment [AB] de longueur 1 + a et contenant le point O avec AO = 1
@@ -17,7 +17,7 @@ Le segment [OH] est de longueur √a.
 La preuve consiste à remarquer que les triangles OAH et OHB sont semblables, d'où l'on déduit que OH^2 AO × OB a, et donc OH √a.
 Cette construction montre que la racine carrée d'un nombre constructible (par exemple un nombre rationnel positif) est encore un nombre constructible.
 
-Fonction réelle :
+Fonction réelle
 
 L’application x\mapsto x^2 est une bijection de ℝ₊ sur ℝ₊ dont la réciproque est notée x\mapsto\sqrt x. Cette fonction s’appelle la fonction racine carrée. Géométriquement, on peut affirmer que la racine carrée de l’aire d’un carré du plan euclidien est la longueur de l'un de ses côtés.
 La fonction racine carrée vérifie les propriétés élémentaires suivantes valables pour tous nombres réels positifs x et y :
@@ -36,26 +36,26 @@ avec convergence normale sur [–1, 1] (voir le § « Développement en série e
 a_n=\frac{C_{n-1}}{2^{2n-1}}.
 Les premières valeurs sonta_1=\frac12, a_2=\frac18, a_3=\frac1{16}, a_4=\frac5{128}.
 
-Extraction de racines carrées :
+Extraction de racines carrées
 
 Le calcul de la racine carré d'un nombre positif n'est pas toujours évident, notamment pour de grands nombres. Ainsi, plusieurs algorithmes ont été développés au cours de l'histoire afin d'obtenir ce nombre. Parmi les méthodes d'extraction de racine carrée, on peut citer notamment la méthode de Héron, qui est une méthode historique qui peut être vue d'un point de vue moderne comme un cas particulier de la méthode de Newton. D'autres méthodes sont basées sur des suites adjacentes, sur des fractions continues ou sur un principe de dichotomie.
 
-Racines carrées particulières :
-Nombre d'or :
+Racines carrées particulières
+Nombre d'or
 
 Si p est un nombre réel strictement positif,
 \sqrt{p+\sqrt{p+\sqrt{p+\sqrt{p+\cdots}}}} = \frac{1+\sqrt{4p+1}}2.
 Pour p = 1, on obtient le nombre d'or :
 \varphi = \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{1+\cdots}}}}.
 
-Nombres entiers supérieurs à 1 sous forme de racines carrées :
+Nombres entiers supérieurs à 1 sous forme de racines carrées
 
 Ramanujan a découvert les formules suivantes :
 \sqrt{1+2\sqrt{1+3\sqrt{1+\dots}}}=3 et \sqrt{6+2\sqrt{7+3\sqrt{8+\dots}}}=4.
 Ces formules se généralisent, ce qui donne en particulier, pour tout réel n\ge0 :
 n+2=\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{1+(n+3)\sqrt\dots}}} et n+3=\sqrt{n+5+(n+1)\sqrt{n+6+(n+2)\sqrt{n+7+\dots}}}.
 
-Pi :
+Pi
 
 Le nombre π s’exprime sous la forme d’une itération infinie de racines carrées :
 \pi = \lim_{k \to \infty} \left ( 2^{k} \cdot \sqrt{2 - \sqrt{2 + \sqrt{2 + \sqrt{2 + \cdots \sqrt{2 + \sqrt2}}}}} \right ) , où k est le nombre de racines carrées emboitées
@@ -63,14 +63,14 @@ Ou encore :
 \pi = \lim_{k \to \infty} \left ( 3\cdot2^{k-1} \cdot \sqrt{2 - \sqrt{2 + \sqrt{2 + \sqrt{2 + \cdots \sqrt{2 + \sqrt{2 + \sqrt3}}}}}} \right )
 (formules qui se démontrent par calcul trigonométrique direct : le terme de droite de la première, par exemple, vaut 2^k\sin(\pi/2^k)).
 
-Notion algébrique générale :
-Définition algébrique d'une racine carrée :
+Notion algébrique générale
+Définition algébrique d'une racine carrée
 
 Soient x et a deux éléments d’un anneau A, tels que x^2 a. L'élément x est alors une racine carrée de a. La notation √a est néanmoins souvent déconseillée car il peut exister plusieurs tels éléments x.
 En général (si l'anneau n'est pas intègre ou s'il n'est pas commutatif), un élément peut avoir plus de deux racines carrées. Par exemple dans l'anneau ℤ/9ℤ, les racines carrées de 0 sont 0, 3 et -3, et dans le corps gauche des quaternions, tout réel strictement négatif possède une infinité de racines carrées.
 Dans le cas des nombres réels, un auteur parlant d'une racine carrée de 2, traite d'un des deux éléments √2 ou bien -√2. En revanche, l'expression la racine carrée de deux évoque toujours la solution positive. Comme l'expression √2 est toujours positive et le terme fonction racine définie sur les réels positifs désigne toujours la valeur positive, on évite cette confusion dans les enseignements un peu élémentaires des mathématiques en ne faisant usage que de l'expression : la racine carrée, alors toujours positive.
 
-Racines carrées de nombres complexes :
+Racines carrées de nombres complexes
 
 La racine carrée sur ℝ est définie seulement pour les nombres positifs. Dans la résolution effective des équations polynomiales, l’introduction d’une racine carrée formelle d’un nombre négatif dans les calculs intermédiaires donne des résultats exacts. C’est ainsi que le corps des nombres complexes a été introduit
 2=Pour tout nombre complexe non nul z = a + ib (avec a et b réels), il existe exactement deux nombres complexes w tels que w^2 = z. Ils sont opposés l'un de l'autre.
@@ -97,7 +97,7 @@ où le signe de la partie imaginaire de la racine est
 * si b 0 et a ≥ 0 : pas de signe (le nombre est nul).
 Notons qu’à cause de la nature discontinue de la détermination principale de la racine carrée dans le plan complexe, la relation \sqrt{zz'} = \sqrt{z}\sqrt{z'} devient fausse en général.
 
-Racines carrées de matrices et d’opérateurs :
+Racines carrées de matrices et d’opérateurs
 
 Si A est une matrice autoadjointe positive ou un opérateur autoadjoint positif en dimension finie, alors il existe exactement une matrice autoadjointe positive ou un opérateur autoadjoint positif B tel que B^2 = A. On pose alors : √A = B.
 Plus généralement, pour toute matrice normale ou tout opérateur normal en dimension finie A, il existe des opérateurs normaux B tels que B^2 = A. Cette propriété se généralise à tout opérateur borné normal sur un espace de Hilbert.

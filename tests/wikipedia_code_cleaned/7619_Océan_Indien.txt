@@ -1,11 +1,11 @@
 L’océan Indien, autrefois appelé océan Oriental ou mer des Indes, est un océan qui s’étend sur une surface de 70560000 km 2, soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au nord par la péninsule Arabique, l'Iran, le Pakistan, l’Inde, le Bangladesh, la Birmanie et la Thaïlande ; à l'est par l’Indonésie (îles de Sumatra, Java, Bali, Sumbawa, Sumba, Timor, la Nouvelle-Guinée occidentale), le détroit de Torrès et l’Australie ; le méridien 146° 55' de longitude est frontalier de l'océan Pacifique ; au sud par le continent Antarctique, à
 l’ouest par le méridien 20° de longitude est, qui le sépare de l'océan Atlantique, enfin par l'Afrique.
 
-Géographie :
-Géographie physique :
-Localisation et limites :
+Géographie
+Géographie physique
+Localisation et limites
 
-L'océan Indien se situe entre l'Afrique, les îles Laquedives, les Maldives, le Sri-Lanka, les îles Andaman-et-Nicobar, les îles de la Sonde méridionales jusqu'aux îles de Rote et Boa et l'Australie. Bien que ses eaux baignent au sud l'Antarctique glacé, la plupart de ses eaux sont tropicales, dotées de récifs coralliens et d'atolls. C'est le plus chaud des océans. Sa chaleur génère de nombreuses tempêtes tropicales pendant les mois d'été. Son code d'enregistrement numérique auprès de l’Organisation hydrographique internationale est « B », et son identification dans Limite des océans et des mers est « 45 »; son nom français dans la nomenclature des espaces maritimes du Conseil national de l'information géolocalisée est « Océan Indien ».
+L'océan Indien se situe entre l'Afrique, les îles Laquedives, les Maldives, le Sri-Lanka, les îles Andaman-et-Nicobar, les îles de la Sonde méridionales jusqu'aux îles de Rote et Boa et l'Australie. Bien que ses eaux baignent au sud l'Antarctique glacé, la plupart de ses eaux sont tropicales, dotées de récifs coralliens et d'atolls. C'est le plus chaud des océans. Sa chaleur génère de nombreuses tempêtes tropicales pendant les mois d'été. Son code d'enregistrement numérique auprès de l’Organisation hydrographique internationale est « B », et son identification dans Limite des océans et des mers est « 45 »; son nom français dans la nomenclature des espaces maritimes du Conseil national de l'information géolocalisée est « Océan Indien ».
 L'Organisation hydrographique internationale définit les limites de l'océan Indien comme suit :
 Au nord :
 * Les limites sud de la mer d'Arabie et de la mer des Laquedives ;
@@ -19,7 +19,7 @@ Au nord :
 Au sud :
 * Le continent Antarctique.
 
-Mers bordières :
+Mers bordières
 
 Les espaces maritimes subordonnés à l'océan Indien se situent à sa périphérie et sont au nombre de quinze :
 * Golfe de Suez
@@ -38,16 +38,16 @@ Les espaces maritimes subordonnés à l'océan Indien se situent à sa périphé
 * Grande Baie australienne
 * Détroit de Bass
 
-Volume :
-Profondeur :
+Volume
+Profondeur
 
 La profondeur de l’océan Indien atteint les 7187 m dans la fosse de Java (son point le plus profond enregistré jusqu’à aujourd’hui).
 
-Géologie :
+Géologie
 
 À l’époque de l’apparition des premiers dinosaures, il y a 200 millions d’années (Trias), l’Afrique, l’Inde, l’Antarctique et l’Australie se touchaient pour ne former qu’un seul continent, la Pangée. Il y a 170 millions d’années, l’Afrique s’en sépare puis, il y a 70 millions d’années, l’Inde s’en détache à son tour pour venir buter sur le continent asiatique il y a 45 millions d’années. C’est cet espace laissé vide que nous nommons océan Indien.
 
-Les îles :
+Les îles
 
 * l'île de Madagascar
 ** îles de Madagascar
@@ -93,11 +93,11 @@ Les îles :
 * Liste des îles de la mer Rouge
 * Liste des îles du golfe Persique
 
-Les États riverains :
+Les États riverains
 
 États de l'océan Indien au sens strict, mer Rouge et golfe Persique non inclus :
 
-Histoire :
+Histoire
 
 * IIᵉ siècle avant J.-C. : le Grec Eudoxe de Cyzique voyage en Inde par la voie maritime. Le géographe Ptolémée, à la même époque, le désigne sous le nom d’Indikon Pelagos (« mer Indienne »), puis plus tard Pline l'Ancien le nomme lui-même : Oceanus Indicus (océan Indien).
 * Iᵉʳ s-IVᵉ siècle : arrivée en provenance d’Indonésie des premiers Austronésiens dans la région, notamment à Madagascar. Contacts avec l’Afrique orientale où des plantes cultigènes asiatiques (banane, taro, igname, etc.) sont introduites.
@@ -128,17 +128,17 @@ Histoire :
 * 2014 : recherche d'un Boeing 777 de la Malaysia Airlines sur le vol MH370 disparu depuis le 8 mars, potentiellement situé près de l'Australie.
 * 2015 : recherche des débris du Boeing 777 de la Malaysia Airlines sur le vol MH370 au niveau de l'île de la Réunion suite découverte d'une pièce de l'avion.
 
-Géopolitique :
+Géopolitique
 
 L'atoll de Diego Garcia en plein cœur de l'océan Indien est une possession britannique louée aux États-Unis en tant que base militaire. En raison de sa position stratégique, elle permet à ces derniers d'avoir une surveillance active et une possibilité d'intervention rapide vers les zones à risque en Afrique (Somalie), au Moyen-Orient ou en Asie (Indonésie).
 
-Environnement :
-Faune et Flore :
-Problèmes environnementaux :
+Environnement
+Faune et Flore
+Problèmes environnementaux
 
 Des débris plastiques de provenance mondiale polluent l'ensemble des océans ; concernant l'océan Indien, ils proviennent notamment d'Asie. Chaque année, 600000 tonnes de déchets plastiques sont déversés dans l'océan. Bien que relativement sporadique, un vortex de déchets est présent dans l'océan Indien.
 Le réchauffement climatique, par l'élévation progressive du niveau des océans qu'il induit, menace directement les petits états insulaires « au ras de l'eau » comme les Maldives, membre de Alliance of Small Island States.
 
-Protection de l'environnement :
+Protection de l'environnement
 
 Il existe des réglementations nationale et internationale, ainsi que différents classements de certaines zones telles que des aires marines protégées, des réserves de biosphère, des parcs naturels marins...

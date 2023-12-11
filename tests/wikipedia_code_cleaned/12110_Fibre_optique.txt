@@ -1,24 +1,24 @@
 Une fibre optique est un fil dont l’âme, très fine et faite de verre ou de plastique, a la propriété de conduire la lumière et sert pour la fibroscopie, l'éclairage ou la transmission de données numériques. Elle offre un débit d'information nettement supérieur à celui des câbles coaxiaux et peut servir de support à un réseau « large bande » par lequel transitent aussi bien la télévision, le téléphone, la visioconférence ou les données informatiques. Le principe de la fibre optique date du début du XXᵉ siècle mais ce n'est qu'en 1970 qu'est développée une fibre utilisable pour les télécommunications, dans les laboratoires de l'entreprise américaine Corning Glass Works (actuelle Corning Incorporated).
 Entourée d'une gaine protectrice, la fibre optique peut être utilisée pour conduire de la lumière entre deux lieux distants de plusieurs centaines, voire milliers, de kilomètres. Le signal lumineux codé par une variation d'intensité est capable de transmettre une grande quantité d'information. En permettant les communications à très longue distance et à des débits jusqu'alors impossibles, les fibres optiques ont constitué l'un des éléments clés de la révolution des télécommunications. Ses propriétés sont également exploitées dans le domaine des capteurs (température, pression, etc.), dans l'imagerie et dans l'éclairage.
 
-Histoire :
-Précurseurs :
+Histoire
+Précurseurs
 
 À l'époque des Grecs anciens, le phénomène du transport de la lumière dans des cylindres de verre était déjà connu. Il était, semble-t-il, mis à profit par les artisans du verre pour créer des pièces décoratives. Plus tard, les techniques de fabrication utilisées par les artisans vénitiens de la Renaissance pour fabriquer les millefiori ressembleraient beaucoup aux techniques actuelles de fabrication de la fibre optique. L'utilisation du verre en conjonction avec la lumière n'est donc pas récente.
 La première démonstration scientifique du principe de la réflexion totale interne fut faite par les physiciens suisse et français Jean-Daniel Colladon à Genève et Jacques Babinet à Paris au début des années 1840. L'irlandais John Tyndall répéta l'expérience devant la Société Royale Britannique en 1854. À l'époque, l'idée de courber la trajectoire de la lumière, de quelque façon que ce soit, était révolutionnaire puisque les scientifiques considéraient que la lumière voyageait uniquement en ligne droite. Leur démonstration consistait à guider la lumière dans un jet d'eau déversé d'un trou à la base d'un réservoir. En injectant de la lumière dans ce jet, celle-ci suivait bien la courbure du jet d'eau, démontrant ainsi qu'elle pouvait être déviée de sa trajectoire rectiligne. Ils établirent ainsi le principe de base de la transmission par fibre optique. Par la suite, de nombreuses inventions utilisant le principe de la réflexion totale interne virent le jour ; comme les fontaines lumineuses ou la fibroscopie utilisant des dispositifs transportant la lumière dans des cavités du corps humain.
 On doit la première tentative de communication optique à Alexander Graham Bell, l'un des inventeurs du téléphone. En effet, il mit au point, au cours des années 1880, le photophone. Cet appareil permettait de transmettre la lumière sur une distance de deux cents mètres. La voix, amplifiée par un microphone, faisait vibrer un miroir qui réfléchissait la lumière du soleil. Quelque deux cents mètres plus loin, un second miroir captait cette lumière pour activer un cristal de sélénium et reproduire le son voulu. Le récepteur de cet appareil était presque identique à celui du premier téléphone. Bien qu'opérationnelle en terrain découvert, cette méthode s'avéra peu utilisée. La pluie, la neige et les obstacles qui empêchaient la transmission du signal condamnèrent cette invention, bien qu'il considérât lui-même que le photophone était sa plus grande invention, puisqu'elle permettait une communication sans fil.
 
-Premières réalisations :
+Premières réalisations
 
 La possibilité de transporter de la lumière le long de fines fibres de verre fut exploitée au cours de la première moitié du XXᵉ siècle. En 1927, Baird et Hansell tentèrent de mettre au point un dispositif d'images de télévision à l'aide de fibres. Hansell put faire breveter son invention, mais elle ne fut jamais vraiment utilisée. Quelques années plus tard, en 1930, Heinrich Lamm réussit à transmettre l'image d'un filament de lampe électrique grâce à un assemblage rudimentaire de fibres de quartz. Cependant, il était encore difficile à cette époque de concevoir que ces fibres de verre puissent trouver une application.
 La première application fructueuse de la fibre optique eut lieu au début des années 1950, lorsque le fibroscope flexible fut inventé par Abraham van Heel et Harold Hopkins. Cet appareil permettait la transmission d'une image le long de fibres en verre. Il fut particulièrement utilisé en endoscopie, pour observer l'intérieur du corps humain, et pour inspecter des soudures dans des réacteurs d'avion. Malheureusement, la transmission ne pouvait pas être faite sur une grande distance étant donné la piètre qualité des fibres utilisées. En 1957, le fibroscope (endoscope flexible médical) est inventé par Basil Hirschowitz aux États-Unis.
 Les télécommunications par fibre optique restèrent impossibles jusqu'à l'invention du laser en 1960. Le laser offrit en effet la possibilité de transmettre un signal sur une grande distance avec une perte et une dispersion spectrale très faibles. Dans sa publication de 1964, Charles Kao, des Standard Telecommunications Laboratories, décrivit un système de communication à longue distance et à faible perte en mettant à profit l'utilisation conjointe du laser et de la fibre optique. Peu après, soit en 1966, il démontra expérimentalement, avec la collaboration de Georges Hockman, qu'il était possible de transporter de l'information sur une grande distance sous forme de lumière grâce à la fibre optique. Cette expérience est souvent considérée comme la première transmission de données par fibre optique. Cependant, les pertes dans cette fibre optique étaient telles que le signal disparaissait au bout de quelques centimètres, non par perte de lumière, mais parce que les différents chemins de réflexion du signal contre les parois finissaient par en faire perdre la phase. Cela la rendait encore peu avantageuse par rapport au fil de cuivre traditionnel. Les pertes de phase entraînées par l'usage d'une fibre de verre homogène constituaient le principal obstacle à l'utilisation courante de la fibre optique.
 En France, la première thèse de doctorat sur le sujet fut soutenue en janvier 1969 par Luigi d'Auria à l'université de Toulouse.
-En 1970, trois scientifiques de la compagnie Corning Glass Works de New York, Robert Maurer, Peter Schultz et Donald Keck, produisirent la première fibre optique avec des pertes de phase suffisamment faibles pour être utilisée dans les réseaux de télécommunications (20 décibels par kilomètre). Leur fibre optique était en mesure de transporter 65 000 fois plus d'information qu'un simple câble de cuivre, ce qui correspondait au rapport des longueurs d'onde utilisées.
+En 1970, trois scientifiques de la compagnie Corning Glass Works de New York, Robert Maurer, Peter Schultz et Donald Keck, produisirent la première fibre optique avec des pertes de phase suffisamment faibles pour être utilisée dans les réseaux de télécommunications (20 décibels par kilomètre). Leur fibre optique était en mesure de transporter 65 000 fois plus d'information qu'un simple câble de cuivre, ce qui correspondait au rapport des longueurs d'onde utilisées.
 Le premier système de communication téléphonique optique fut installé au centre-ville de Chicago en 1977. En France, la DGT a installé en 1980 la première liaison optique à Paris entre les centraux téléphoniques des Tuileries et Philippe-Auguste. On estime que depuis 2005 plus de 80 % des communications à longue distance sont transportées le long de plus de 25 millions de kilomètres de câbles à fibres optiques partout dans le monde. La fibre optique s'est, dans une première phase (1984 à 2000), limitée à l'interconnexion des centraux téléphoniques, eux seuls nécessitant de forts débits. Cependant, avec la baisse des coûts entraînée par sa fabrication en masse et les besoins croissants des particuliers en très haut débit, on envisage depuis 1994 et 2005 son arrivée chez les particuliers : DFA pour desserte par fibre de l’abonné, FTTH ((En) Fiber To The Home), FTTB ((en) Fiber To The Building), FTTC ((en) Fiber To The Curb), etc.
 
-Fonctionnement :
-Principe :
+Fonctionnement
+Principe
 
 La fibre optique est un guide d'ondes qui exploite les propriétés réfractrices de la lumière. Elle est habituellement constituée d'un cœur entouré d'une gaine. Le cœur de la fibre a un indice de réfraction légèrement plus élevé (différence de quelques millièmes) que la gaine et peut donc confiner la lumière qui se trouve entièrement réfléchie de multiples fois à l'interface entre les deux matériaux (en raison du phénomène de réflexion totale interne). L’ensemble est généralement recouvert d’une gaine plastique de protection.
 Lorsqu'un rayon lumineux entre dans une fibre optique à l'une de ses extrémités avec un angle adéquat, il subit de multiples réflexions totales internes. Ce rayon se propage alors jusqu'à l'autre extrémité de la fibre optique sans perte, en empruntant un parcours en zigzag. La propagation de la lumière dans la fibre peut se faire avec très peu de pertes même lorsque la fibre est courbée.
@@ -26,24 +26,24 @@ Une fibre optique est souvent décrite selon deux paramètres :
 * la différence d'indice normalisé, qui donne une mesure du saut d'indice entre le cœur et la gaine : \Delta=\frac{n_c-n_g}{n_c}, où n_c est l'indice de réfraction du cœur, et n_g celui de la gaine ;
 * l'ouverture numérique de la fibre ((en) numerical aperture), qui est concrètement le sinus de l'angle d'entrée maximal de la lumière dans la fibre pour que la lumière puisse être guidée sans perte, mesuré par rapport à l'axe de la fibre. L'ouverture numérique est égale à \sin \theta_{\text{max}} = \sqrt{n_c^2-n_g^2}.
 
-Saut ou gradient d'indice :
+Saut ou gradient d'indice
 
 Il existe essentiellement deux types de fibres optiques qui exploitent le principe de la réflexion totale interne: la fibre à saut d'indice et la fibre à gradient d'indice. Dans la fibre à saut d'indice, l'indice de réfraction chute brutalement d'une valeur dans le cœur à une valeur moindre dans la gaine. Dans la fibre à gradient d'indice, ce changement d'indice est beaucoup plus progressif. Un troisième type de fibre optique utilise le principe de la bande interdite des cristaux photoniques pour assurer le guidage de la lumière, plutôt que la réflexion totale interne. De telles fibres sont appelées des fibres à cristaux photoniques, ou fibres microstructurées. Ces fibres présentent habituellement un contraste d'indice beaucoup plus élevé entre les différents matériaux (en général la silice et l'air). Dans ces conditions, les propriétés physiques du guidage diffèrent sensiblement des fibres à saut d'indice et à gradient d'indice.
 Dans le domaine des télécommunications optiques, le matériau privilégié est la silice très pure car elle présente des pertes optiques très faibles. Quand l'atténuation n'est pas le principal critère de sélection, on peut également mettre en œuvre des fibres en matière plastique. Un câble de fibres optiques contient en général plusieurs fibres, chaque fibre conduisant un signal soit dans un seul sens (mode simplex), soit dans les deux sens (mode duplex) ; dans ce dernier cas, deux longueurs d'onde (ou plus) sont utilisées (au moins une par sens). Lorsqu'une fibre optique n'est pas encore alimentée, on parle de fibre optique noire.
 
-Fibres monomodes et multimodes :
+Fibres monomodes et multimodes
 
 Les fibres optiques peuvent être classées en deux catégories selon le diamètre de leur cœur et la longueur d'onde utilisée : les fibres monomodes et multimodes.
 
-Fibres multimodes :
+Fibres multimodes
 
 Les fibres multimodes (dites MMF, pour Multi Mode Fiber), ont été les premières sur le marché. Elles ont pour caractéristique de transporter plusieurs modes (trajets lumineux). Du fait de la dispersion intermodale, on constate un étalement temporel du signal proportionnel à la longueur de la fibre. En conséquence, elles sont utilisées uniquement pour des bas débits ou de courtes distances. La dispersion modale peut cependant être minimisée (à une longueur d'onde donnée) en réalisant un gradient d'indice dans le cœur de la fibre. Elles sont caractérisées par un diamètre de cœur de plusieurs dizaines à plusieurs centaines de micromètres (les cœurs en multimodes sont de 50 ou 62,5 µm pour le bas débit). Cependant les fibres les plus récentes, de type OM3, permettent d'atteindre le Gbit/s sur des distances de l'ordre du km. Les longues distances ne peuvent être couvertes que par des fibres optiques monomodes.
 
-Fibres monomodes :
+Fibres monomodes
 
 Pour de plus longues distances et/ou de plus hauts débits, on préfère utiliser des fibres monomodes (dites SMF, pour Single Mode Fiber), qui sont technologiquement plus avancées car plus fines. Leur cœur très fin n'admet ainsi qu'un mode de propagation, le plus direct possible c'est-à-dire dans l'axe de la fibre. Les pertes sont donc minimes (moins de réflexion sur l'interface cœur/gaine) que cela soit pour de très haut débits et de très longues distances. Les fibres monomodes sont de ce fait adaptées pour les lignes intercontinentales (câbles sous-marins). Une fibre monomode n'a pas de dispersion intermodale. En revanche, il existe un autre type de dispersion : la dispersion intramodale. Son origine est la largeur finie du train d'onde d'émission qui implique que l'onde n'est pas strictement monochromatique : toutes les longueurs d'onde ne se propagent pas à la même vitesse dans le guide ce qui induit un élargissement de l'impulsion dans la fibre optique. On l'appelle aussi dispersion chromatique (cf. plus haut « Dispersion chromatique »). Ces fibres monomodes sont caractérisées par un diamètre de cœur de seulement quelques micromètres (le cœur monomode est de 9 µm pour le haut débit).
 
-Longueur d'onde de coupure et fréquence normalisée :
+Longueur d'onde de coupure et fréquence normalisée
 
 La longueur d'onde de coupure est la longueur d'onde \lambda_c en dessous de laquelle la fibre n'est plus monomode. Ce paramètre est relié à la fréquence normalisée, notée V, qui dépend de la longueur d'onde dans le vide \lambda _0, du rayon de cœur a de la fibre et des indices du cœur n_c et de la gaine n_g (voir image Principe d'une fibre optique à saut d'indice' pour les notations). La fréquence normalisée est exprimée par :
 V = (2 \pi a \sqrt{n_c^2 - n_g^2}) / \lambda_0
@@ -51,8 +51,8 @@ Une fibre est monomode pour une fréquence normalisée V inférieure ou égale �
 La fréquence normalisée donne une indication directe sur le nombre de modes qu'une fibre peut contenir.
 À mesure que V augmente, le nombre de modes supportés par la fibre va augmenter. On peut montrer à partir des valeurs asymptotiques des fonctions de Bessel pour un grand argument que le nombre total de modes supportés par une fibre à saut d’indice, M, sera donné approximativement (pour V >>> 1) par : M=4 V^2 / \pi^2.
 
-Fabrication :
-Fibre optique de silice :
+Fabrication
+Fibre optique de silice
 
 La première étape est la réalisation d'une « préforme » : barreau de silice très pure, d'un diamètre de plusieurs centimètres. Il existe un grand nombre de processus pour concevoir une préforme, des internes comme la méthode PCVD (plasma chemical vapor deposition), ou externes comme la méthode VAD (vapor axial deposition).
 La méthode MCVD (Modified Chemical Vapor Deposition, ou dépôt chimique en phase vapeur modifié) est la plus utilisée : un tube substrat est placé en rotation horizontale dans un tour verrier. Des gaz sont injectés à l'intérieur et vont se déposer à l'intérieur sous l'effet de la chaleur produite par un chalumeau. Ces gaz vont modifier les propriétés du verre (par exemple l'aluminium permet d'augmenter l'indice de réfraction. Les couches déposées sont ensuite vitrifiées au passage du chalumeau. Ensuite le tube est chauffé à haute température, et va se refermer sur lui-même pour former la préforme.
@@ -63,11 +63,11 @@ En France, seules deux usines sont capables de produire des fibres optiques :
 * l'usine d'Acome, à Mortain dans la Manche ;
 * l'usine de Prysmian à Douvrin, dans le Pas-de-Calais.
 
-Caractéristiques :
+Caractéristiques
 
 Les principaux paramètres qui caractérisent les fibres optiques utilisées pour les transmissions sont les suivants :
 
-Atténuation :
+Atténuation
 
 L’atténuation caractérise l’affaiblissement du signal au cours de la propagation. Soient P_0 et P_L les puissances à l’entrée et à la sortie d’une fibre de longueur L. L’atténuation linéaire se traduit alors par une décroissance exponentielle de la puissance en fonction de la longueur de fibre (Loi de Beer-Lambert) :
 P_L = P_0 e^{-\alpha L}
@@ -77,44 +77,44 @@ Le principal atout des fibres optiques est une atténuation extrêmement faible.
 Les fibres en silice connaissent un minimum d'atténuation vers 1550 nm. Cette longueur d’onde du proche infrarouge sera donc privilégiée pour les communications optiques. De nos jours, la maîtrise des procédés de fabrication permet d’atteindre couramment une atténuation aussi faible que 0,2 dB/km à 1550 nm : après 100 km de propagation, il restera donc encore 1 % de la puissance initialement injectée dans la fibre, ce qui peut être suffisant pour une détection. Si l’on désire transmettre l’information sur des milliers de kilomètres, il faudra avoir recours à une réamplification périodique du signal, le plus généralement par l’intermédiaire d’amplificateurs optiques qui allient simplicité et fiabilité.
 Le signal subira des pertes supplémentaires à chaque connexion entre fibres, que ce soit par des traverses ou bien par soudure, cette dernière technique, la plus performante, réduit très fortement ces pertes.
 
-Dispersion chromatique :
+Dispersion chromatique
 
 La dispersion chromatique est exprimée en ps nm-1 km-1 et caractérise l'étalement du signal lié à sa largeur spectrale (deux longueurs d'onde différentes ne se propagent pas exactement à la même vitesse). Cette dispersion dépend de la longueur d'onde considérée et résulte de la somme de deux effets : la dispersion propre au matériau, et la dispersion du guide, liée à la forme du profil d'indice. Il est donc possible de la minimiser en adaptant le profil. Pour une fibre en silice, le minimum de dispersion se situe vers 1300-1310 nm.
 
-Débit de transmission :
+Débit de transmission
 
 Le record actuel de débit de transmission a été établi par KDDI en laboratoire en 2017. Il est de 10,16 pétabit par seconde sur une distance de 11,3 km. Le précédent record est détenu par NEC et Corning en laboratoire en septembre 2012. Il est de 1 pétabit par seconde (1000 térabits par seconde, soit un million de gigabits par seconde ou, plus communément, 125000 gigaoctets par seconde) sur une distance de 52,4 km.
 
-Vitesse de transmission :
+Vitesse de transmission
 
 La notion de vitesse du signal dans une fibre est distincte de celle de débit (vitesse de transmission des données), confusion largement répandue dans la presse. La vitesse du signal dans la fibre est globalement la même pour la fibre optique et le câble en cuivre; elle se situe à environ 70 à 75 % de la vitesse de la lumière dans le vide. Certaines fibres expérimentales creuses, atteignent des vitesses proches de 99 % de la vitesse de la lumière. Sur les transmissions à grande distance, la vitesse de transmission est ralentie par la présence de nombreux répéteurs nécessaires pour remettre en forme le signal, même si les nouvelles technologies entièrement optiques limitent ce ralentissement. Pour démonstration, la latence théorique d'une liaison informatique Nouméa-Paris est de 90 ms. On la mesure en pratique à 280 ms (en utilisant par exemple un mesureur de latence) après un trajet sur plus de 20000 km de fibre optique sous-marine, où le signal est régulièrement ré-amplifié et remis en forme. L'éloignement des serveurs joue donc de façon défavorable sur la latence.
 
-Non-linéarité :
+Non-linéarité
 
 Un canal de transmission est dit non linéaire lorsque sa fonction de transfert dépend du signal d’entrée. L'effet Kerr, la diffusion Raman et l'effet Brillouin sont les principales sources de non linéarité dans les fibres optiques. Parmi les conséquences de ces effets non linéaires, on peut citer l'automodulation de phase, des mélanges à quatre ondes intra- et inter-canaux.
 
-Dispersion modale de polarisation (PMD) :
+Dispersion modale de polarisation (PMD)
 
 La dispersion modale de polarisation (PMD) est exprimée en ps/km½ et caractérise l'étalement du signal. Ce phénomène est dû à des défauts dans la géométrie des fibres optiques qui entraînent une différence de vitesse de groupe entre les modes se propageant sur différents axes de polarisation de la fibre optique.
 
-Fibres spéciales :
+Fibres spéciales
 
 Il est possible de rajouter certaines caractéristiques aux fibres :
 * les fibres dopées contiennent des ions de terres rares ;
 * les fibres à maintien de polarisation ;
 * les fibres photosensibles.
 
-Connecteur fibre optique :
+Connecteur fibre optique
 
 Les fibres sont généralement reliées aux équipements terminaux à travers des connecteurs fibre optique.
 
-Transmission numérique par fibre :
-Principe :
+Transmission numérique par fibre
+Principe
 
 Tout système de transmission d’information possède un émetteur et un ou plusieurs récepteurs. Dans une liaison optique, deux fibres sont souvent nécessaires; l’une gère l’émission, l’autre la réception. Il est aussi possible de concentrer émission et réception sur le même brin, cette technologie est utilisée par exemple dans les réseaux d'accès aux abonnés (FTTH) ; l’équipement de transmission est alors un peu plus onéreux.
 L’information est portée par un support physique (la fibre) appelé « canal de transmission ». Aux extrémités, deux transpondeurs partenaires échangent les signaux, l'émetteur traduit les signaux électriques en impulsions optiques et le récepteur effectue la fonction inverse : il lit les signaux optiques et les traduit en signal électrique. Au cours de son parcours, le signal est atténué et déformé : sur les liaisons de grande longueur (plusieurs dizaines ou centaines de km), des répéteurs et des amplificateurs placés à intervalles réguliers permettent de conserver l’intégrité du message.
 
-Émetteur :
+Émetteur
 
 L'émetteur optique (transpondeur) a pour fonction de convertir des impulsions électriques en signaux optiques véhiculés au cœur de la fibre. En général, la modulation binaire du signal optique est une modulation d’intensité lumineuse obtenue par la modulation du signal électrique dans la diode ou le laser.
 Les émetteurs utilisés sont de trois types :
@@ -122,11 +122,11 @@ Les émetteurs utilisés sont de trois types :
 * les lasers, utilisés pour la fibre monomode, dont la longueur d’onde est 1310 ou 1550 nm ;
 * les diodes à infrarouge qui émettent dans l’infrarouge à 1300 nm.
 
-Récepteur :
+Récepteur
 
 Les récepteurs encore appelés détecteurs optiques utilisent le principe de l’effet photoélectrique. Deux types de composant peuvent être utilisés : les phototransistors et les photodiodes. Les photodiodes PIN et les photodiodes à avalanche sont les plus utilisées car elles sont peu coûteuses, simples d'utilisation et possèdent les performances adéquates.
 
-Répéteur :
+Répéteur
 
 L’atténuation et la déformation du signal sont des conséquences directes de la longueur du canal de transmission. Afin de conserver le signal optique de la source, les systèmes de transmission optique peuvent utiliser trois types d’amplificateurs (répéteurs) :
 * regeneration (amplification seule) ;
@@ -134,23 +134,23 @@ L’atténuation et la déformation du signal sont des conséquences directes de
 * regeneration-reshaping-retiming (amplification, remise en forme et synchronisation).
 Il existe des répéteurs à amplification optique (utilisant des verres dopés aux terres rares) ou des répéteurs-régénérateurs électroniques. Les liaisons actuelles utilisent principalement des amplificateurs optiques à fibres dopées erbium et sont entièrement optiques sur des distances pouvant aller jusqu’à 10000 km.
 
-Multiplexeur :
+Multiplexeur
 
 Comme dans tous les systèmes de transmission, on cherche à transmettre dans la même fibre optique un maximum de communications d’origines différentes. Afin de ne pas brouiller les messages, on les achemine sur des longueurs d’onde différentes : c’est le multiplexage en longueur d'onde ou WDM (wavelength-division multiplexing). Il existe plusieurs techniques de multiplexage chacune adaptée au type de transmission sur fibre optique (transmission longue distance ou boucle locale par exemple) : Dense WDM (beaucoup de signaux à des fréquences très rapprochées), Ultra WDM (encore plus), Coarse WDM (moins de canaux mais moins coûteux)…
 
-Prospective :
+Prospective
 
 Désormais, on sait réaliser des réseaux tout-optique, c'est-à-dire qui ne sont pas des assemblages de fibres optiques reliées les unes aux autres par des nœuds électriques. Les commutateurs, les multiplexeurs, les amplificateurs existent en version tout-optique. C’est actuellement un enjeu primordial car la rapidité des transmissions sur fibre optique est telle que les goulots d’étranglement se trouvent désormais dans l’électronique des nœuds des réseaux.
 
-Applications :
-Dans les télécommunications :
+Applications
+Dans les télécommunications
 
 La fibre optique, grâce aux performances qu'elle offre, est de plus en plus utilisée dans les réseaux de télécommunications. Avec l'essor d'Internet et des échanges numériques, son utilisation se généralise petit à petit jusqu'à venir chez le particulier. Les opérateurs et les entreprises ont été les premiers utilisateurs de fibres optiques. Elle est particulièrement appréciée par l'armée pour son insensibilité aux IEM (interférences électromagnétiques) mais aussi pour sa légèreté.
 Il faut distinguer les fibres multimodes et monomodes. Les fibres multimodes sont réservées aux réseaux informatiques à courtes distances (datacenter, entreprises et autres) alors que les fibres monomodes sont installées pour des réseaux à très longues distances. Elles sont notamment utilisées dans les câbles sous-marins intercontinentaux.
 En arrivant dans les habitations via les réseaux FTTH, la fibre optique apporte une nette amélioration dans les télécommunications en termes de débits et de services.
 Si la France se consacre pleinement au déploiement de la fibre optique notamment à travers le plan France Très Haut Débit, l'hexagone ne figure pas parmi les dix pays les plus performants en termes de débit moyen, se contentant de la douzième place. Plusieurs pays à travers le monde bénéficient en effet d'une meilleure qualité générale de connexion en fibre optique. En 2018, les pays du Nord de l'Europe, à l'image de la Norvège, de la Suède et du Danemark trustent ainsi trois des meilleurs places du classement de la Worldwide Broadband Speed League qui recense les tests de connexion de nombreux usagers à travers le monde. Le leader de ce classement est par ailleurs Singapour avec un débit moyen de 60,39 Mb/s.
 
-Dans les réseaux informatiques :
+Dans les réseaux informatiques
 
 Historiquement, les réseaux informatiques locaux ou LAN, qui permettent de relier des postes informatiques qui jusque-là ne pouvaient pas communiquer entre eux, furent construits avec des câbles réseaux à base de fils de cuivre. Un gros inconvénient de ces câbles est qu'ils sont très sensibles aux perturbations électromagnétiques en tous genres (ascenseurs, courants forts, émetteurs). Dans des milieux à forte concentration d'ondes radio, il devient donc difficile d'utiliser ce type de câbles même en les blindant pour les protéger ou en torsadant les paires pour atténuer les perturbations. Un inconvénient majeur des câbles électriques est l'atténuation très rapide du signal qu'ils transportent avec la distance. Lorsqu'on relie deux équipements éloignés ne serait-ce que de quelques centaines de mètres (pour relier deux bâtiments entre eux par exemple), le signal est fortement atténué à l'autre extrémité du câble.
 Sauf cas particuliers liés notamment à des contraintes électromagnétiques spécifiques, les réseaux locaux (quelques dizaines de mètres) sont généralement réalisés avec du cuivre. Lorsque la distance entre deux machines augmente, utiliser une fibre optique devient intéressant : on peut relier par fibre optique deux bâtiments, ou constituer en l'utilisant un maillon du réseau informatique local, régional, continental, ou intercontinental.
@@ -160,17 +160,17 @@ Types : Dans les réseaux informatiques (comme avec la paire de cuivre) les fibr
 * avec des tailles de cœur et de gaine variables. La plus commune : la ⁵⁰⁄₁₂₅, fibre multimode, a un cœur de 50 µm de diamètre pour une gaine de 125 µm ;
 * avec des types de connecteurs différents : ST (section ronde à visser), SC (section carrée clipsable), LC (petite section carrée clipsable), ou MTRJ (petite section carrée clipsable).
 
-En médecine :
+En médecine
 
 Un type d'endoscope, appelé fibroscope, utilise de la fibre optique pour véhiculer l'image de la zone à explorer jusqu'à l'œil du médecin réalisant l'examen exploratoire.
 C'est une des premières applications des fibres optiques.
 Les décors lumineux à bases de fibres optiques plastiques sont utilisés dans les salles de thérapie Snoezelen, à la fois dans les plafonds ou pour stimuler le toucher par les brins des fibres.
 
-Amplification optique :
+Amplification optique
 
 Les fibres dopées sont utilisées pour amplifier un signal. On les trouve également dans les lasers à fibres. Les fibres à double gaine sont de plus en plus utilisées pour le pompage optique de haute puissance.
 
-Capteurs :
+Capteurs
 
 À la suite de travaux de recherche dans les années 1980, les fibres optiques peuvent être utilisées dans le domaine des capteurs :
 * la corde optique est un capteur conçu pour la mesure en temps réel des déformations d'une structure ou d'un ouvrage. Le capteur, constitué de fibres optiques tressées, fonctionne par mesure de l’atténuation analogique du flux lumineux. Il mesure et détecte les modifications des propriétés de transmission dues à la transformation des rapports d’absorption et de réfraction de la lumière à travers les fibres ;
@@ -179,14 +179,14 @@ Capteurs :
 * les tapers sont des fibres effilées qui peuvent également servir de capteurs ;
 * le microphone à fibre optique développé par l'entreprise Phonoptics en France.
 
-Éclairage et décors :
+Éclairage et décors
 
 Dès les années 1970, la fibre optique fut utilisée dans des luminaires décoratifs à variation de couleur.
 À partir des années 1990, la fibre optique est utilisée pour véhiculer la lumière sur un trajet de quelques dizaines de centimètres depuis une source vers l'objet à mettre en valeur, permettant d'obtenir des éclairages ponctuels et discrets, pouvant être élégamment intégrés à une vitrine de présentation, et offrant l'avantage de rayonner très peu d'infrarouge, limitant ainsi le risque d'élévation de température à l'intérieur de la vitrine, néfaste aux œuvres d'art.
 La fibre optique plastique est utilisé en motifs décoratifs dans l'habitat : ciels étoilés dans les plafonds ou murs, joints des carrelages, etc.
 En 2012, une entreprise française utilise ce mode de transport pour éclairer les espaces sombres des bâtiments par la lumière du Soleil captée sur les toits.
 
-Textiles lumineux :
+Textiles lumineux
 
 Tissées avec d'autres fils textiles (de toutes natures, qu'ils soient naturels comme le coton ou la soie, chimiques comme la viscose ou synthétiques comme le polyester), des fibres optiques peuvent permettre de créer un tissu textile lumineux. Le processus de création d'un tel tissu lumineux est le suivant : les fibres optiques sont tissées (généralement dans le sens chaîne) avec d'autres fils textiles (dans le sens trame) ; elles sont ensuite connectées à une source lumineuse de type LED à l'une de leurs extrémités ; après quoi, un traitement physique (sablage), chimique (solvant) ou optique (laser) est appliqué à la surface du tissu pour dégrader la surface des fibres. Ceci permet au rayon lumineux se propageant dans la fibre optique de pouvoir être diffusé à sa surface. Afin de fournir un éclairage homogène tout au long de la surface du tissu lumineux, la surface de la fibre doit être moins dégradée dans les zones proches de la source lumineuse, pour fournir moins de points de sortie à la lumière, et plus dégradée dans les zones éloignées de la source lumineuse.
 En connectant le tissu lumineux à des LED de différentes couleurs, un éclairage de couleur différente peut être obtenu. La couleur des fils textiles tissés avec les fibres optiques est également un paramètre permettant de faire varier la couleur du tissu.
@@ -194,13 +194,13 @@ En délimitant des pixels indépendamment connectés à des sources lumineuses L
 Ces tissus ont trouvé un débouché artistique avec notamment une robe de mariée lumineuse ou encore des tableaux lumineux de l'artiste Daniel Buren.
 Les textiles lumineux fibrés trouvent aussi leurs applications dans la médecine, notamment au sein du traitement contre les cancers de la peau. Des méthodes telles que la photochimiothérapie utilisent ces textiles alimentés par laser. Ils permettent d'activer des photosensibilisateurs (porphyrine, chlorophylle, etc.) dans l'organisme des patients pour détruire les cellules cancéreuses. Cependant, la technologie de diffusion de la lumière est bien différente ici : lors du tressage avec un autre textile, on vient enrouler la fibre autour de ce dernier de manière que la fibre soit tordue. Il n'a donc plus de réflexion totale interne, la lumière peut s'échapper de la fibre optique.
 
-Communication par fibres en France et enjeux associés :
-Règlementation :
+Communication par fibres en France et enjeux associés
+Règlementation
 
 Le précâblage en fibre optique est en France obligatoire pour les nouvelles constructions dont le permis de construire est délivré depuis le 1 janvier 2010 pour les bâtiments de plus de vingt-cinq logements et depuis le 1 janvier 2011 pour les bâtiments jusqu'à 25 logements (loi du 4.8.08 / CCH : L.111-5-1). Tout bâtiment regroupant plusieurs logements doit contenir un réseau de communications électroniques à très haut débit en fibre optique desservant avec au moins une fibre par logement et avec un point de raccordement accessible depuis la voie publique et permettant le passage des câbles de plusieurs opérateurs. La desserte de chacune des pièces principales doit être possible. De même pour les locaux à usage professionnel dans les bâtiments à usage mixte. La règlementation précise le cas des bâtiments qui feront l'objet d'une demande de permis de construire après le 1 avril 2012 ; dans les communes situées en « zone à forte densité », jusqu'à quatre fibres par logement devront permettre à chaque opérateur de disposer d'une fibre pour connecter les logements. Les copropriétés installeront les fibres de lignes à très haut débit dans les parties communes et sur des supports propres (avec éventuellement ceux des câbles téléphoniques).
 Le groupe « Objectif Fibre », qui rassemble les différents acteurs industriels impliqués dans le déploiement de la fibre optique en France (opérateurs de communications électroniques, installateurs, centres de formation, équipementiers) a publié un guide pratique pour la réalisation du câblage intérieur qui sera relié au réseau fibre optique dans les logements neufs.
 
-Déploiement :
+Déploiement
 
 On distingue deux phases dans le déploiement de la technologie sur le territoire. La première est une phase d’interconnexion des différents centres téléphoniques qui utilisent du très haut débit, par France Telecom d’abord puis par les autres opérateurs à la suite de l’ouverture du marché. La deuxième phase, que l’on peut situer au tout début des années 2000, consiste à mettre la technologie à disposition des entreprises puis des particuliers.
 Pourtant à la fin de l’année 2011, on ne comptait en France que 665000 abonnés à la fibre optique sur 5,9 millions d’abonnés « éligibles ». Parmi quelques-unes des explications avancées : la bonne qualité du réseau ADSL sur le territoire (haut débit) ainsi que le manque d’intérêt des particuliers pour l’accès au très haut débit, même si le ressenti en termes de débit et de qualité de navigation est flagrant. Au 31 mars 2011, 93 % des offres internet disponibles pour la France métropolitaine concernaient le haut débit.
@@ -212,7 +212,7 @@ D’ailleurs, la carte de la DATAR sur les intentions d’investissement en rés
 En juillet 2017, les fournisseurs d'accès internet ont été réunis pour discuter du déploiement de la fibre. L'objectif est de trouver un accord pour accélérer ce déploiement. Toutefois, le risque est que les FAI ne soient freinés par leurs tensions.
 Fin 2020, la France passe la barre des dix millions d'abonnés en fibre optique FTTH.
 
-Enjeux et perspectives :
+Enjeux et perspectives
 
 La fibre optique est amenée à devenir le moyen d’accès principal au très haut débit et au numérique en France. La volonté de l’État est forte et les avantages de cette technologie pour le haut débit sont indéniables. Mais le raccordement aux particuliers tel qu’il est envisagé a un coût non négligeable qui sera partagé entre l’État, les collectivités territoriales, les opérateurs privés et les particuliers.
 Dans le paysage numérique français à l’horizon 2020, La fibre optique est clairement privilégiée par rapport aux autres technologies telles que le réseau satellitaire ou les réseaux mobiles (3G ou 4G), qui ne sont pas écartés mais plutôt envisagés comme solution de transition pour les zones grises. Avec le développement des offres numériques multi-services (téléphone, télévision, internet) et la capacité de la fibre optique à gérer simultanément ces services sans perte de qualité, le choix de cette technologie s’impose, comme c’est déjà le cas au Japon ou en Corée du Sud dont les territoires sont presque totalement couverts par la fibre. Mi-2008, il y avait déjà au Japon plus d’abonnés à la fibre optique (treize millions) qu’au haut débit, tandis que le territoire était déjà couvert à 90 %. Néanmoins, les conditions au Japon sont différentes de la France : le tissu urbain y est bien plus dense, ce qui entraîne des coûts de raccordement « DFA » bien moindres. De plus le pays a lancé cette politique d’investissement quelques années avant la France ou la Belgique.

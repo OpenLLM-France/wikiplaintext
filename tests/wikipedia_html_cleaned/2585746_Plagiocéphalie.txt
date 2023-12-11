@@ -1,44 +1,44 @@
-# Plagiocéphalie :
+# Plagiocéphalie
 
-La plagiocéphalie (du grec plagios = oblique et kephalê = tête) est un signe clinique rhumatologique se traduisant par un aplatissement unilatéral de la voûte crânienne. Il en existe deux formes, aux natures totalement différentes :
-* la plagiocéphalie positionnelle (ou plagiocéphalie posturale) : de loin la plus fréquente, il s'agit d'une déformation du crâne du nouveau-né.
-* la plagiocéphalie sur craniosténose : soudure prématurée des sutures crâniennes du nouveau-né.
+La plagiocéphalie (du grec plagios = oblique et kephalê = tête) est un signe clinique rhumatologique se traduisant par un aplatissement unilatéral de la voûte crânienne. Il en existe deux formes, aux natures totalement différentes :
+* la plagiocéphalie positionnelle (ou plagiocéphalie posturale) : de loin la plus fréquente, il s'agit d'une déformation du crâne du nouveau-né.
+* la plagiocéphalie sur craniosténose : soudure prématurée des sutures crâniennes du nouveau-né.
 
-# Plagiocéphalie :
-## Définition :
+# Plagiocéphalie
+## Définition
 
-La plagiocéphalie est une « malformation ou déformation du crâne caractérisé par un aspect asymétrique donnant à la tête une forme oblique. »
+La plagiocéphalie est une « malformation ou déformation du crâne caractérisé par un aspect asymétrique donnant à la tête une forme oblique. »
 
-# Plagiocéphalie :
-## Épidémiologie :
+# Plagiocéphalie
+## Épidémiologie
 
-Avec ou sans synostose, pédiatres et épidémiologistes notent depuis le début des années 1990 une augmentation de l'incidence de la plagiocéphalie ; ce pourrait être lié notamment à la diffusion et la mise en œuvre de recommandations pour la prévention de la mort subite du nourrisson, qui proposent de coucher les bébés sur le dos.
+Avec ou sans synostose, pédiatres et épidémiologistes notent depuis le début des années 1990 une augmentation de l'incidence de la plagiocéphalie ; ce pourrait être lié notamment à la diffusion et la mise en œuvre de recommandations pour la prévention de la mort subite du nourrisson, qui proposent de coucher les bébés sur le dos.
 
-# Plagiocéphalie :
-## Causes :
+# Plagiocéphalie
+## Causes
 
-Deux causes de plagiocéphalie doivent principalement être distinguées :
-* la plagiocéphalie sur craniosténose : soudure prématurée des sutures crâniennes du nouveau-né ;
-* la plagiocéphalie positionnelle (ou plagiocéphalie posturale) : de loin la plus fréquente, il s'agit d'une déformation du crâne du nouveau-né.
+Deux causes de plagiocéphalie doivent principalement être distinguées :
+* la plagiocéphalie sur craniosténose : soudure prématurée des sutures crâniennes du nouveau-né ;
+* la plagiocéphalie positionnelle (ou plagiocéphalie posturale) : de loin la plus fréquente, il s'agit d'une déformation du crâne du nouveau-né.
 
-# Plagiocéphalie :
-## Évaluation de la plagiocéphalie : mesures des asymétries :
+# Plagiocéphalie
+## Évaluation de la plagiocéphalie : mesures des asymétries
 
-Il existe différentes façons d’objectiver la sévérité d’une asymétrie et de suivre l’évolution mois après mois :
+Il existe différentes façons d’objectiver la sévérité d’une asymétrie et de suivre l’évolution mois après mois :
 * Pour les parents, prendre des photos régulièrement (minimum une fois par mois) dans le but de comparer la forme.
 * La plagiocéphalométrie (PCM) est un procédé par bande thermoplastique permettant de mouler la circonférence de la tête du nourrisson en quelques minutes.
-* Les mesures anthropométriques : consiste à mesurer la différence entre les 2 diagonales : normal < 3 mm  -  3 mm < légère à modérée < 12 mm  -  modérée à sévère > 12 mm
-* L’index céphalique :  Largeur/Profondeur × 100 : brachycéphalie > 93 % et dolichocéphalie < 75 %
+* Les mesures anthropométriques : consiste à mesurer la différence entre les 2 diagonales : normal < 3 mm  -  3 mm < légère à modérée < 12 mm  -  modérée à sévère > 12 mm
+* L’index céphalique :  Largeur/Profondeur × 100 : brachycéphalie > 93 % et dolichocéphalie < 75 %
 
-# Plagiocéphalie :
-## Traitement :
+# Plagiocéphalie
+## Traitement
 
 Si la craniosynostose nécessite une prise en charge multidisciplinaire et spécialisée, la plagiocéphalie de la déformation positionnelle répond bien aux changements systématiques de position de couchage, à la rééducation et la massokinésithérapie
 
-# Plagiocéphalie :
-## Prévention :
+# Plagiocéphalie
+## Prévention
 
-Des conseils de prévention peuvent être donnés afin de minimiser le risque de plagiocéphalie positionnelle. En février 2020, la Haute Autorité de Santé publient les recommandations suivantes :
+Des conseils de prévention peuvent être donnés afin de minimiser le risque de plagiocéphalie positionnelle. En février 2020, la Haute Autorité de Santé publient les recommandations suivantes :
 * En anténatal
 ** Aménagement d’un environnement sans risque pour le nourrisson et favorisant le respect de son activité motrice spontanée pendant le sommeil et l’éveil
 ** Les futurs parents doivent connaître l’effet délétère de tous les dispositifs de contention (cf. facteurs de risque) qui favorisent la survenue d’une déformation crânienne positionnelle (DCP) en limitant la motricité spontanée des nourrissons, et augmentent le risque de mort inattendue (MIN) du nourrisson par enfouissement.
@@ -50,7 +50,7 @@ Des conseils de prévention peuvent être donnés afin de minimiser le risque de
 ** Il est recommandé de favoriser les temps d’interactions de qualité entre les adultes et le nourrisson.
 ** Il est recommandé de varier les postures et d’encourager les rotations spontanées de la tête du nourrisson par des sollicitations sensorielles (tactiles, visuelles, auditives) à adapter en fonction de l’âge.
 ** Les postures ventrale et latérale peuvent être explorées lors d’échanges privilégiés avec l’adulte. Du fait du risque d’enfouissement, le nourrisson doit être surveillé en permanence lors des phases d’éveil sur le ventre.
-** Le développement optimal du nourrisson nécessite qu’il soit positionné sur le dos sans oreiller ni couette ni couverture, dans un environnement facilitant une activité motrice spontanée (tapis ferme au sol avec des jouets positionnés autour de lui, en évitant les arches de jeu et les « mobiles » qui fixent son attention).
+** Le développement optimal du nourrisson nécessite qu’il soit positionné sur le dos sans oreiller ni couette ni couverture, dans un environnement facilitant une activité motrice spontanée (tapis ferme au sol avec des jouets positionnés autour de lui, en évitant les arches de jeu et les « mobiles » qui fixent son attention).
 ** Il est recommandé de favoriser le portage du nourrisson dans les bras ou en écharpe, en respectant le dégagement permanent des voies aériennes, l’enroulement du bassin et la variation de posture.
 ** Dans la gestuelle du quotidien, il est recommandé de favoriser l’enroulement des ceintures (bassin, épaules).
 * Quand le nourrisson dort

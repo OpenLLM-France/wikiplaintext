@@ -1,77 +1,77 @@
-# Entier algébrique :
+# Entier algébrique
 
-En mathématiques, un entier algébrique est un élément d'un corps de nombres qui y joue un rôle analogue à celui d'un entier relatif dans le corps des nombres rationnels. L'étude des entiers algébriques est à la base de l'arithmétique des corps de nombres, et de la généralisation dans ces corps de notions comme celles de nombre premier ou de division euclidienne. Par définition, un entier algébrique est une racine d'un polynôme unitaire à coefficients dans ℤ. Par exemple, le nombre 1 + √3 est un entier algébrique, car il est une racine du polynôme unitaire à coefficients entiers X² – 2X – 2. Les nombres de la forme a + bi où a et b sont des entiers relatifs et où i désigne une racine du polynôme X² + 1 sont aussi des entiers algébriques particuliers ; ils sont appelés entiers de Gauss.
-Cette définition a émergé au cours du XIXᵉ siècle, en particulier dans les travaux de Richard Dedekind, car elle donne une notion adéquate pour développer l'arithmétique dans des corps de nombres.
+En mathématiques, un entier algébrique est un élément d'un corps de nombres qui y joue un rôle analogue à celui d'un entier relatif dans le corps des nombres rationnels. L'étude des entiers algébriques est à la base de l'arithmétique des corps de nombres, et de la généralisation dans ces corps de notions comme celles de nombre premier ou de division euclidienne. Par définition, un entier algébrique est une racine d'un polynôme unitaire à coefficients dans ℤ. Par exemple, le nombre 1 + √3 est un entier algébrique, car il est une racine du polynôme unitaire à coefficients entiers X² – 2X – 2. Les nombres de la forme a + bi où a et b sont des entiers relatifs et où i désigne une racine du polynôme X² + 1 sont aussi des entiers algébriques particuliers ; ils sont appelés entiers de Gauss.
+Cette définition a émergé au cours du XIXᵉ siècle, en particulier dans les travaux de Richard Dedekind, car elle donne une notion adéquate pour développer l'arithmétique dans des corps de nombres.
 Un autre usage de ces nombres est la résolution d'équations diophantiennes, c'est-à-dire d'équations polynomiales à coefficients dans les entiers relatifs, et dont on recherche les solutions entières. Des exemples sont le théorème des deux carrés de Fermat, le dernier théorème de Fermat ou encore l'équation de Pell-Fermat. Par ailleurs, la compréhension de la structure d'un anneau d'entiers permet de mieux comprendre le corps d'origine. Les techniques développées pour décrire les propriétés de tels anneaux sont utilisées pour démontrer des théorèmes fondamentaux sur les corps de nombres comme celui de Kronecker-Weber.
 
-# Entier algébrique :
-## Définitions :
+# Entier algébrique
+## Définitions
 
 Un entier algébrique est une racine d'un polynôme unitaire à coefficients dans ℤ.
-Les entiers algébriques forment un anneau : la somme, la différence ou le produit de deux entiers algébrique est encore un entier algébrique.
+Les entiers algébriques forment un anneau : la somme, la différence ou le produit de deux entiers algébrique est encore un entier algébrique.
 L'intersection de cet anneau (commutatif, unifère) intègre avec un sous-corps K de ℂ s'appelle l'anneau des entiers de K, souvent noté OK.
-Un entier algébrique est en particulier un nombre algébrique. À ce titre, il engendre un corps de nombres, c'est-à-dire une extension finie du corps ℚ des rationnels. Mais tous les nombres algébriques ne sont pas des entiers algébriques (par exemple 1/2 est algébrique mais pas entier). Pour tout nombre algébrique α, de polynôme minimal P :
-* α est un entier algébrique si et seulement si P est à coefficients dans ℤ ;
+Un entier algébrique est en particulier un nombre algébrique. À ce titre, il engendre un corps de nombres, c'est-à-dire une extension finie du corps ℚ des rationnels. Mais tous les nombres algébriques ne sont pas des entiers algébriques (par exemple 1/2 est algébrique mais pas entier). Pour tout nombre algébrique α, de polynôme minimal P :
+* α est un entier algébrique si et seulement si P est à coefficients dans ℤ ;
 * il existe un entier n > 0 tel que nα soit un entier algébrique (il suffit de prendre pour n le produit des dénominateurs des coefficients de P).
-La notion d'entiers algébriques est un cas particulier d'éléments entiers dans une extension d'anneaux :
+La notion d'entiers algébriques est un cas particulier d'éléments entiers dans une extension d'anneaux :
 * Soient A un anneau commutatif (unifère) et B une A-algèbre. Un élément de B est dit entier sur A s'il est annulé par un polynôme unitaire à coefficients dans A. Le sous-anneau de B constitué des éléments entiers sur A s'appelle la fermeture intégrale de A dans B.
 Ainsi, l'anneau des entiers algébriques est la fermeture intégrale de ℤ dans ℂ et l'anneau des entiers d'un sous-corps K de ℂ est la fermeture intégrale de ℤ dans K.
 * La clôture intégrale d'un anneau intègre est, par définition, sa fermeture intégrale dans son corps des fractions. L'anneau est dit intégralement clos si sa clôture intégrale est réduite à lui-même.
 
-# Entier algébrique :
-## Exemples :
-### Entiers relatifs :
+# Entier algébrique
+## Exemples
+### Entiers relatifs
 
-Le corps des fractions de l'anneau ℤ est le corps ℚ, et l'anneau des entiers de ℚ est ℤ, autrement dit :
+Le corps des fractions de l'anneau ℤ est le corps ℚ, et l'anneau des entiers de ℚ est ℤ, autrement dit :
 Les seuls rationnels qui sont des entiers algébriques sont les entiers relatifs.
-Ou encore : l'anneau ℤ est intégralement clos. (Plus généralement, tout anneau factoriel est intégralement clos.)
+Ou encore : l'anneau ℤ est intégralement clos. (Plus généralement, tout anneau factoriel est intégralement clos.)
 
-# Entier algébrique :
-## Exemples :
-### Entier de Gauss :
+# Entier algébrique
+## Exemples
+### Entier de Gauss
 
 L'anneau ℤ[i] des entiers de Gauss est le sous-anneau de ℂ constitué des nombres de la forme a + bi avec a et b entiers relatifs. Son corps des fractions est le corps ℚ(i) des rationnels de Gauss, constitué des complexes de la forme α + βi où α et β sont des nombres rationnels.
 L'anneau des entiers de ℚ(i) est ℤ[i].
 À nouveau, cet anneau est intégralement clos. Il est en fait, comme ℤ, factoriel car principal et même euclidien.
 Les entiers de Gauss sont utilisés pour la résolution de certaines équations diophantiennes comme celle du théorème des deux carrés de Fermat.
 
-# Entier algébrique :
-## Exemples :
-### Entier quadratique :
+# Entier algébrique
+## Exemples
+### Entier quadratique
 
-L'anneau des entiers de Gauss est le prototype d'anneau des entiers d'un corps quadratique, c'est-à-dire d'un corps de la forme ℚ(√d) pour un certain entier relatif d sans facteur carré. Dans le cas où d est négatif, la notation √d, spécifique à ce contexte et commentée dans les deux articles détaillés, désigne l'imaginaire pur i√|d| ; ainsi, les entiers de Gauss correspondent au cas d = –1. Mais pour d'autres valeurs de d, comme d = 5, l'anneau des entiers de ℚ(√d) n'est pas réduit à ℤ[√d]. Plus précisément :
-L'anneau Oℚ(√d) des entiers du corps quadratique ℚ(√d) est ℤ[ω], où le nombre complexe ω est défini par :ω=1+d2 si d≡1 mod 4etω=d sinon.
-Le corps des fractions de cet anneau, ainsi que de tout sous-anneau A contenant strictement ℤ, est égal à ℚ(√d), et la fermeture intégrale de A dans ℚ(√d) est Oℚ(√d) (cf. § « Anneau intégralement clos » ci-dessous). Par conséquent Oℚ(√d) est, comme ℤ, intégralement clos, mais aucun anneau intermédiaire ne l'est. Ces anneaux intermédiaires sont a fortiori non factoriels (donc non principaux) : dans tous ces anneaux (puisqu'ils sont noethériens, comme ℤ[ω]), tout élément non nul possède une décomposition en produit d'éléments irréductibles mais pas toujours unique, ou, ce qui revient au même, pas toujours en produit d'éléments premiers.
-Par exemple, puisque –3 est congru à 1 modulo 4, l'anneau des entiers de ℚ(i√3) est l'anneau ℤ[(1 + i√3)/2] des entiers d'Eisenstein (euclidien, et égal à ℤ[j] si j désigne une racine cubique primitive de l'unité). Le sous-anneau ℤ[i√3] n'est pas factoriel : dans ce sous-anneau, l'entier 4 admet deux décompositions en facteurs irréductibles :
+L'anneau des entiers de Gauss est le prototype d'anneau des entiers d'un corps quadratique, c'est-à-dire d'un corps de la forme ℚ(√d) pour un certain entier relatif d sans facteur carré. Dans le cas où d est négatif, la notation √d, spécifique à ce contexte et commentée dans les deux articles détaillés, désigne l'imaginaire pur i√|d| ; ainsi, les entiers de Gauss correspondent au cas d = –1. Mais pour d'autres valeurs de d, comme d = 5, l'anneau des entiers de ℚ(√d) n'est pas réduit à ℤ[√d]. Plus précisément :
+L'anneau Oℚ(√d) des entiers du corps quadratique ℚ(√d) est ℤ[ω], où le nombre complexe ω est défini par :ω=1+d2 si d≡1 mod 4etω=d sinon.
+Le corps des fractions de cet anneau, ainsi que de tout sous-anneau A contenant strictement ℤ, est égal à ℚ(√d), et la fermeture intégrale de A dans ℚ(√d) est Oℚ(√d) (cf. § « Anneau intégralement clos » ci-dessous). Par conséquent Oℚ(√d) est, comme ℤ, intégralement clos, mais aucun anneau intermédiaire ne l'est. Ces anneaux intermédiaires sont a fortiori non factoriels (donc non principaux) : dans tous ces anneaux (puisqu'ils sont noethériens, comme ℤ[ω]), tout élément non nul possède une décomposition en produit d'éléments irréductibles mais pas toujours unique, ou, ce qui revient au même, pas toujours en produit d'éléments premiers.
+Par exemple, puisque –3 est congru à 1 modulo 4, l'anneau des entiers de ℚ(i√3) est l'anneau ℤ[(1 + i√3)/2] des entiers d'Eisenstein (euclidien, et égal à ℤ[j] si j désigne une racine cubique primitive de l'unité). Le sous-anneau ℤ[i√3] n'est pas factoriel : dans ce sous-anneau, l'entier 4 admet deux décompositions en facteurs irréductibles :
 Même l'anneau des entiers de ℚ(√d), bien qu'intégralement clos, n'est pas toujours factoriel, comme en témoignent l'exemple d = –5 et le théorème de Stark-Heegner.
 
-# Entier algébrique :
-## Structure :
+# Entier algébrique
+## Structure
 
-L'intérêt de l'anneau des entiers algébriques d'un corps quadratique ou cyclotomique, ou plus généralement d'un corps de nombres, réside dans ses propriétés supplémentaires. Elles sont à l'origine de certaines des démonstrations de la loi de réciprocité quadratique ou d'autres lois de réciprocité (en) et de nombreux autres théorèmes. Elles permettent de résoudre des équations comme celle de Pell-Fermat ou de certains cas du dernier théorème de Fermat.
+L'intérêt de l'anneau des entiers algébriques d'un corps quadratique ou cyclotomique, ou plus généralement d'un corps de nombres, réside dans ses propriétés supplémentaires. Elles sont à l'origine de certaines des démonstrations de la loi de réciprocité quadratique ou d'autres lois de réciprocité (en) et de nombreux autres théorèmes. Elles permettent de résoudre des équations comme celle de Pell-Fermat ou de certains cas du dernier théorème de Fermat.
 
-# Entier algébrique :
-## Structure :
-### Anneau intégralement clos :
+# Entier algébrique
+## Structure
+### Anneau intégralement clos
 
 Tout corps de nombres K est le corps des fractions de l'anneau OK de ses entiers, et OK est intégralement clos.
-La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel (cf. § « Définitions » ci-dessus), si bien que K = ℚOK. La seconde en résulte parce que tout élément entier sur un anneau d'entiers algébriques est lui-même un entier algébrique (cf. corollaire 2 de l'article « Élément entier »).
+La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel (cf. § « Définitions » ci-dessus), si bien que K = ℚOK. La seconde en résulte parce que tout élément entier sur un anneau d'entiers algébriques est lui-même un entier algébrique (cf. corollaire 2 de l'article « Élément entier »).
 
-# Entier algébrique :
-## Structure :
-### Propriétés noethériennes :
+# Entier algébrique
+## Structure
+### Propriétés noethériennes
 
-L'anneau des entiers d'un corps de nombres est un ℤ-module de type fini, par application à A = ℤ de la propriété générale suivante, démontrée dans l'article détaillé dans le cas particulier, suffisant ici, où A est noethérien et intégralement clos :
+L'anneau des entiers d'un corps de nombres est un ℤ-module de type fini, par application à A = ℤ de la propriété générale suivante, démontrée dans l'article détaillé dans le cas particulier, suffisant ici, où A est noethérien et intégralement clos :
 Soient A un anneau intègre, K son corps des fractions, L une extension finie séparable de K et B la fermeture intégrale de A dans L. Alors B est un A-module de type fini.
-On en déduit deux propriétés essentielles :
+On en déduit deux propriétés essentielles :
 L'anneau des entiers d'un corps de nombres de degré d est un ℤ-module libre de rang d.
-En effet, ce ℤ-module de type fini est sans torsion donc libre, et (comme remarqué dans la section précédente) son produit par ℚ est égal au corps de nombres.(D'autres arguments sont utilisables :– dans l'article détaillé, pour démontrer que le A-module est de type fini, on montre en fait qu'il contient un sous-module isomorphe à Aᵈ et qu'il est lui-même isomorphe à un sous-module de Aᵈ ;– un lemme sur les éléments conjugués permet d'affirmer que l'anneau des entiers d'un corps de nombres de degré d est additivement isomorphe à un réseau dans ℂᵈ.)
+En effet, ce ℤ-module de type fini est sans torsion donc libre, et (comme remarqué dans la section précédente) son produit par ℚ est égal au corps de nombres.(D'autres arguments sont utilisables :– dans l'article détaillé, pour démontrer que le A-module est de type fini, on montre en fait qu'il contient un sous-module isomorphe à Aᵈ et qu'il est lui-même isomorphe à un sous-module de Aᵈ ;– un lemme sur les éléments conjugués permet d'affirmer que l'anneau des entiers d'un corps de nombres de degré d est additivement isomorphe à un réseau dans ℂᵈ.)
 Tout anneau d'entiers d'un corps de nombres est noethérien.
 En effet, tout sous-module d'un ℤ-module de type fini est de type fini, or il résulte du théorème de la base de Hilbert que toute algèbre de type fini sur un anneau noethérien est elle-même un anneau noethérien.
 
-# Entier algébrique :
-## Structure :
-### Anneau de Dedekind :
+# Entier algébrique
+## Structure
+### Anneau de Dedekind
 
 L'anneau des entiers algébriques d'un corps de nombres, en plus d'être intégralement clos et noethérien, vérifie que tous ses idéaux premiers non nuls sont maximaux, ce qui fait de lui un anneau de Dedekind.
-Cette propriété est démontrée (§ « Entier algébrique ») et généralisée (§ « Extension finie ») dans l'article détaillé.
+Cette propriété est démontrée (§ « Entier algébrique ») et généralisée (§ « Extension finie ») dans l'article détaillé.

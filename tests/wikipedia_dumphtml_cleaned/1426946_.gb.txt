@@ -1,3 +1,3 @@
-# .gb :
+# .gb
 
 .gb est le domaine national de premier niveau réservé à la Grande-Bretagne. Ce domaine de premier niveau s'est trouvé en concurrence avec le code .uk (pour United Kingdom). L'usage du .gb ayant décliné, il est à présent abandonné. Le dernier domaine en .gb (qui existait jusqu'en 2006) est dra.hmg.gb, qui appartenait à l'agence de recherche de la défense du gouvernement britannique.

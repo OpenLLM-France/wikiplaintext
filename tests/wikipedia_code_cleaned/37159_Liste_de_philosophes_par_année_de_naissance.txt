@@ -1,23 +1,23 @@
 On trouvera aussi dans cette liste des auteurs qui ne sont pas à proprement parler des philosophes, mais dont les œuvres ont eu une influence majeure dans l'histoire des idées. Pour les périodes récentes, une frise temporelle a été ajoutée afin de faciliter la lecture.
 
-Antiquité :
+Antiquité
 
 * une liste détaillée est en cours de réalisation : Liste alphabétique des philosophes antiques
 
-Époque Antique :
-Tableau chronologique :
-Aux origines :
+Époque Antique
+Tableau chronologique
+Aux origines
 
 Homère (VIIIᵉ siècle av. J.-C.) a été considéré dans l'Antiquité comme un précurseur de certaines écoles philosophiques (scepticisme), malgré les protestations de Platon.
 
-VIIᵉ siècle avant J.-C. :
+VIIᵉ siècle avant J.-C.
 
 * Les Présocratiques
 ** Les sept sages
 ** Thalès de Milet (-625 ~ -547)
 ** Anaximandre (-610 ~ -546)
 
-VIᵉ siècle avant J.-C. :
+VIᵉ siècle avant J.-C.
 
 * Les Présocratiques (suite)
 ** Anaximène (v. -586 ~ -526)
@@ -82,9 +82,9 @@ VIᵉ siècle avant J.-C. :
 ** Le Bouddha (Siddhârtha Gautama) (v. -563 ~ -483)
 ** Mahāvīra (fondateur du jaïnisme) (v. -599 ~ -527)
 
-Grèce classique :
-Tableau chronologique :
-Vᵉ siècle avant J.-C. :
+Grèce classique
+Tableau chronologique
+Vᵉ siècle avant J.-C.
 
 * Les Présocratiques (fin)
 ** Anaxagore (v. -500 ~ v. -428)
@@ -110,7 +110,7 @@ Vᵉ siècle avant J.-C. :
 ** Hippocrate (v. -460 ~ -377)
 ** Euclide d'Alexandrie (-325 ~ -265)
 
-IVᵉ siècle avant J.-C. :
+IVᵉ siècle avant J.-C.
 
 * Philosophie grecque
 ** Diogène de Sinope (v. -400 - v. -325)
@@ -129,9 +129,9 @@ IVᵉ siècle avant J.-C. :
 ** Lie Zi ( 列子 Liè Zǐ ou Lieh Tzu) (v. -350 ~ v. -250)
 ** Zou Yan ( 鄒衍 / 邹衍 Zōu Yǎn ) (-305 ~ -240)
 
-Période hellénistique :
-Tableau chronologique :
-IIIᵉ siècle avant J.-C. :
+Période hellénistique
+Tableau chronologique
+IIIᵉ siècle avant J.-C.
 
 * Arcésilas de Pitane (v. -315 ~ v. -241)
 * Ératosthène (-284 ~ -192)
@@ -139,7 +139,7 @@ IIIᵉ siècle avant J.-C. :
 * Carnéade (v. -215 ~ v. -129)
 * Ptolémaïs de Cyrène
 
-IIᵉ siècle avant J.-C. :
+IIᵉ siècle avant J.-C.
 
 * Panétios de Rhodes (v. -180 - v. -110)
 * Huainan Zi (Huai-nan Tzu) (v. -179 ~ -122)
@@ -147,14 +147,14 @@ IIᵉ siècle avant J.-C. :
 * Philodème de Gadara (v.-110 - v.-40 )
 * Cicéron (-106 ~ -43)
 
-Iᵉʳ siècle avant J.-C. :
+Iᵉʳ siècle avant J.-C.
 
 * Lucrèce (v. -98 - v. -54)
 * Yang Xiong ( 揚雄 / 扬雄 Yáng Xióng ) (v. -53 - v. 18)
 * Philon d'Alexandrie (v. -13 - v. 54)
 
-Après l'an 1 :
-Les stoïciens :
+Après l'an 1
+Les stoïciens
 
 *Cicéron
 * Sénèque (-4 - 65)
@@ -199,31 +199,31 @@ Divers autres philosophes
 * Sextus Empiricus (v. IIᵉ siècle-IIIᵉ siècle après J.-C.)
 * Lesbonax (Iᵉʳ siècle)
 
-Moyen Âge :
-VIᵉ siècle :
+Moyen Âge
+VIᵉ siècle
 
 * Boèce (480 - 524 ou 525)
 * Cassiodore
 * Isidore de Séville
 
-VIIIᵉ siècle :
+VIIIᵉ siècle
 
 * Bède le Vénérable (672-735), mathématicien, philosophe, historien, a développé les arts libéraux, a créé le comput.
 * Alcuin (730-804), conseiller de Charlemagne, fondateur des écoles dans l'empire carolingien,
 * Théodulf d'Orléans (750-821), théologien.
 
-IXᵉ siècle :
+IXᵉ siècle
 
 * Al-Kindi (Abû Yûsuf Ya'qûb ibn Ishâq al-Kindî) (vers 801 - 873)
 * Jean Scot Erigène (810 - 870)
 * Rhazes (Abû Bakr ibn Zakariyyâ al-Râzî) (865 - 923)
 
-Xᵉ siècle :
+Xᵉ siècle
 
 * Al-Farabi (Abû Nasr Muhammad ibn Muhammad ibn Tarhân ibn Azwalag al-Fârâbî) (870 - 950)
 * Gerbert d'Aurillac / Sylvestre II
 
-XIᵉ siècle :
+XIᵉ siècle
 
 * Avicenne (Abû 'Ali al-Husayn ibn 'Abdallah ibn Sînâ) (980 - 1037)
 * Saint Anselme (1033 - 1109)
@@ -233,7 +233,7 @@ XIᵉ siècle :
 * Al-Biruni (973-1048)
 * Omar Khayyam (1048-1131)
 
-XIIᵉ siècle :
+XIIᵉ siècle
 
 * Guillaume de Champeaux (1070 - 1121)
 * Pierre Abélard (1079 - 1142)
@@ -242,7 +242,7 @@ XIIᵉ siècle :
 * Zhu Xi ( 朱熹 Zhū Xī ) (1130 - 1200)
 * Moïse Maïmonide (Mosheh ben Maymûn) (1135 - 1204)
 
-XIIIᵉ siècle :
+XIIIᵉ siècle
 
 * Saint Albert le Grand (1193 ou 1206 - 1280)
 * Moshe ben Nahman dit Nahmanides (vers 1194 - 1270)
@@ -258,7 +258,7 @@ XIIIᵉ siècle :
 * Michele da Cesena (v. 1270 - 1342)
 * Marsile de Padoue (v. 1275 - v. 1342)
 
-XIVᵉ siècle :
+XIVᵉ siècle
 
 * Guillaume d'Occam (v. 1285 - 1349 ou 1350).
 * Jean Buridan (v. 1300 - 1358).
@@ -278,7 +278,7 @@ XIVᵉ siècle :
 * Poggio Bracciolini, dit Le Pogge (1380 - 1459).
 * Gaëtan de Tiène (1387 - 1465).
 
-XVᵉ siècle :
+XVᵉ siècle
 
 * Nicolas de Cues (1401 - 1464)
 * Leon Battista Alberti (1404 - 1472)
@@ -318,10 +318,10 @@ XVᵉ siècle :
 * Mario Nizzoli (1498 - 1566)
 * Francisco Marroquín (1499 - 1563)
 
-Renaissance et époque moderne :
+Renaissance et époque moderne
 
 === Frise : XVIᵉ et XVIIᵉ siècles
- : XVIᵉ siècle * Pierre Favre (1506-1546)
+ XVIᵉ siècle * Pierre Favre (1506-1546)
 * Étienne de La Boétie (1530 - 1563)
 * Jean Bodin (1530 - 1596)
 * Michel Eyquem de Montaigne (1533 - 1592)
@@ -339,7 +339,7 @@ Renaissance et époque moderne :
 * Pierre Gassendi (1592 - 1655)
 * René Descartes (1596 - 1650)
 * Henricus Regius (1598-1679)
- : XVIIᵉ siècle * Pierre de Fermat (1601 - 1665)
+ XVIIᵉ siècle * Pierre de Fermat (1601 - 1665)
 * Antoine Arnauld (1612 - 1694)
 *Saint-Évremond (1614 - 1703), de son nom complet Charles Le Marquetel de Saint-Denis
 * Julien Davion (1615 - 1661)
@@ -357,8 +357,8 @@ Renaissance et époque moderne :
 * Montesquieu (1689 - 1755), de son nom complet Charles Louis de Secondat, baron de La Brède et de Montesquieu
 * Hutcheson (1694 - 1746)
 * Voltaire (1694 - 1778)
- : XVIIIᵉ siècle  : Frise
- : Liste * Joseph-Adrien Lelarge de Lignac (1697-1762)
+ XVIIIᵉ siècle  Frise
+ Liste * Joseph-Adrien Lelarge de Lignac (1697-1762)
 * Jean Banières (vers 1700-?)
 * Samuel Colliber (actif de 1718 à 1737)
 * Benjamin Franklin (1706 - 1790)
@@ -417,8 +417,8 @@ Renaissance et époque moderne :
 * Victor Cousin (1792 - 1867)
 * Auguste Comte (1798 - 1857)
 * Giacomo Leopardi (1798 - 1837)
- : XIXᵉ siècle  : Frise
- : Liste * Frédéric Bastiat (1801 - 1850)
+ XIXᵉ siècle  Frise
+ Liste * Frédéric Bastiat (1801 - 1850)
 * Antoine Cournot (1801 - 1877)
 * Gustav Fechner (1801 - 1887)
 * Ralph Waldo Emerson (1803 - 1882)
@@ -518,8 +518,8 @@ Renaissance et époque moderne :
 * Alfred Schütz (1899 - 1959)
 * Leo Strauss (1899-1973)
 * Friedrich Hayek (1899 - 1992)
- : Époque contemporaine
- : XXᵉ siècle ===
+ Époque contemporaine
+ XXᵉ siècle ===
 * Gilbert Ryle (1900 - 1976)
 * Stéphane Lupasco (1900 - 1988)
 * Hans-Georg Gadamer (1900 - 2002)

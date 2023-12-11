@@ -1,621 +1,621 @@
-# Véhicule électrique :
+# Véhicule électrique
 
 Un véhicule électrique est un moyen de déplacement dont la propulsion est assurée exclusivement par un ou plusieurs moteurs électriques. Il peut tirer son énergie de ressources embarquées comme une batterie électrique, ou être connecté à une source extérieure, par exemple via une caténaire. Le moteur peut être lui aussi embarqué, comme dans la plupart des véhicules terrestres, ou extérieur dans le cas du transport par câble.
 
-# Véhicule électrique :
-## Principe et technique :
-### Alimentation :
+# Véhicule électrique
+## Principe et technique
+### Alimentation
 
 Les véhicules qui n'embarquent pas d'énergie la reçoivent soit à partir d'un réseau électrique, au moyen de caténaires et de pantographes, soit par un câble de traction mécanique. Ceux qui embarquent l'énergie électrique sont rechargés soit par câble, soit encore par induction pour recharger des batteries d'accumulateurs.
 
-# Véhicule électrique :
-## Principe et technique :
-### Alimentation :
-#### Alimentation électrique par batterie :
+# Véhicule électrique
+## Principe et technique
+### Alimentation
+#### Alimentation électrique par batterie
 
 Les véhicules à énergie embarquée stockent celle-ci, dans la plupart des cas, dans une batterie d’accumulateurs électriques.
 Parmi les véhicules électriques, on distingue ceux qui n'ont pas la possibilité de récupérer l'énergie cinétique (freinages et ralentissement du véhicule en descente ou non) de ceux capables d'utiliser la réversibilité d'un moteur électrique pour ralentir le véhicule en produisant de l'énergie électrique pour recharger des batteries, par exemple.
 
-# Véhicule électrique :
-## Principe et technique :
-### Alimentation :
-#### Alimentation électrique ferroviaire :
+# Véhicule électrique
+## Principe et technique
+### Alimentation
+#### Alimentation électrique ferroviaire
 
-Différents types d'alimentation électriques sont, ou ont été, utilisés :
-* alimentation par caténaire, comme pour la plupart des lignes de trains longue distance, mais aussi la plupart des tramways ;
-* alimentation par troisième rail, essentiellement dans les métros ;
-* alimentation par le sol, essentiellement pour les tramways ;
+Différents types d'alimentation électriques sont, ou ont été, utilisés :
+* alimentation par caténaire, comme pour la plupart des lignes de trains longue distance, mais aussi la plupart des tramways ;
+* alimentation par troisième rail, essentiellement dans les métros ;
+* alimentation par le sol, essentiellement pour les tramways ;
 * recharge des batteries par induction, essentiellement pour certains tramways, lors des arrêts.
 Les tramways avec alimentation par induction aux arrêts n'ont pas besoin de câble ni de caténaire, ce qui simplifie l'installation et améliore l’esthétique.
 
-# Véhicule électrique :
-## Principe et technique :
-### Alimentation :
-#### Alimentation hybride électrique :
+# Véhicule électrique
+## Principe et technique
+### Alimentation
+#### Alimentation hybride électrique
 
-Enfin, dans les véhicules à énergie embarquée, les locomotives Diesel-électrique convertissent l’énergie mécanique d'un moteur Diesel en électricité pour alimenter les moteurs de traction, ce qui permet de faire fonctionner le moteur Diesel à son régime de rendement maximum quasiment en permanence et de supprimer tous les éléments mécaniques de transmission de la puissance (embrayage, boite de vitesses, etc.). Le couple et la vitesse sont gérés électroniquement, entre autres par l'excitation de la génératrice et des moteurs de traction.
+Enfin, dans les véhicules à énergie embarquée, les locomotives Diesel-électrique convertissent l’énergie mécanique d'un moteur Diesel en électricité pour alimenter les moteurs de traction, ce qui permet de faire fonctionner le moteur Diesel à son régime de rendement maximum quasiment en permanence et de supprimer tous les éléments mécaniques de transmission de la puissance (embrayage, boite de vitesses, etc.). Le couple et la vitesse sont gérés électroniquement, entre autres par l'excitation de la génératrice et des moteurs de traction.
 Les véhicules hybrides électriques sont équipés à la fois de moteur électrique et d'un moteur thermique.
-Le moteur thermique prend le relais lorsque la batterie est épuisée ou qui accroît la puissance disponible lorsque la demande est trop importante pour la propulsion « batterie/moteur électrique » seule. Ceci permet d'augmenter l'autonomie.
+Le moteur thermique prend le relais lorsque la batterie est épuisée ou qui accroît la puissance disponible lorsque la demande est trop importante pour la propulsion « batterie/moteur électrique » seule. Ceci permet d'augmenter l'autonomie.
 
-# Véhicule électrique :
-## Principe et technique :
-### Alimentation :
-#### Stations de recharge :
+# Véhicule électrique
+## Principe et technique
+### Alimentation
+#### Stations de recharge
 
-Des stations de recharge peuvent recharger des véhicules légers en 500 volts et des véhicules lourds en 1 000 volts.
+Des stations de recharge peuvent recharger des véhicules légers en 500 volts et des véhicules lourds en 1 000 volts.
 
-# Véhicule électrique :
-## Histoire :
-### XIXe siècle :
+# Véhicule électrique
+## Histoire
+### XIXe siècle
 
-* Charles Jeantaud « à la manœuvre » sur Tilbury (1881).
-* La Jamais contente franchit les 100 km/h, en 1899.
+* Charles Jeantaud « à la manœuvre » sur Tilbury (1881).
+* La Jamais contente franchit les 100 km/h, en 1899.
 * Schéma de la seconde voiture de Jeantaud.
-Les véhicules routiers électriques voient le jour à la fin du XIXᵉ siècle. En 1880, Gustave Trouvé améliore l'efficacité d'un petit moteur électrique développé par Siemens et le monte sur un tricycle anglais de marque Coventry, inventant ainsi le premier véhicule électrique au monde. Ce dernier est testé avec succès en avril 1881 sur la rue de Valois dans le centre de Paris, mais Trouvé n'arrive pas à le faire breveter.
-Charles Jeantaud conçoit la Tilbury en 1881, puis La Jamais contente devient la première voiture à franchir le cap des 100 km/h, en 1899. Jules Laffargue conclut un article en 1895 dans la revue La Nature par : « En résumé, la voiture électrique ne permet pas d'entreprendre de longues courses et de longs voyages. Mais elle se distingue par une bonne construction, par une grande solidité et des dispositions très simples et réellement pratiques qui permettent de l'opposer sans crainte aux voitures à pétrole. »
+Les véhicules routiers électriques voient le jour à la fin du XIXᵉ siècle. En 1880, Gustave Trouvé améliore l'efficacité d'un petit moteur électrique développé par Siemens et le monte sur un tricycle anglais de marque Coventry, inventant ainsi le premier véhicule électrique au monde. Ce dernier est testé avec succès en avril 1881 sur la rue de Valois dans le centre de Paris, mais Trouvé n'arrive pas à le faire breveter.
+Charles Jeantaud conçoit la Tilbury en 1881, puis La Jamais contente devient la première voiture à franchir le cap des 100 km/h, en 1899. Jules Laffargue conclut un article en 1895 dans la revue La Nature par : « En résumé, la voiture électrique ne permet pas d'entreprendre de longues courses et de longs voyages. Mais elle se distingue par une bonne construction, par une grande solidité et des dispositions très simples et réellement pratiques qui permettent de l'opposer sans crainte aux voitures à pétrole. »
 
-# Véhicule électrique :
-## Histoire :
-### XXe siècle :
+# Véhicule électrique
+## Histoire
+### XXe siècle
 
-En avril 1900, en France, lors de l'exposition universelle, le premier train électrique circule entre Paris et Issy-les-Moulineaux distantes d'environ 10 km.
-En 1920, Couaillet crée l'électricar, un petit tricycle individuel. « Silencieux et preste le véhicule électrique constituera-t-il l’engin de déplacement urbain ! ».
-De nombreux petits véhicules de livraison électriques sont également utilisés et appréciés pour leur silence, entre autres la nuit, mais aussi à la suite des restrictions des approvisionnements en pétrole durant la Seconde Guerre mondiale. En France, ils sont commercialisés par l'entreprise SOVEL (« Société de véhicule électrique »). Cependant, les progrès du moteur à combustion interne sont plus rapides que ceux touchant les accumulateurs, et le véhicule routier électrique tombe en désuétude, si l'on excepte les camions à ordures qui sont appréciés pour leur silence la nuit. Au XXIᵉ siècle, elles retrouvent de l’intérêt avec l'augmentation du prix des carburants liquides.
+En avril 1900, en France, lors de l'exposition universelle, le premier train électrique circule entre Paris et Issy-les-Moulineaux distantes d'environ 10 km.
+En 1920, Couaillet crée l'électricar, un petit tricycle individuel. « Silencieux et preste le véhicule électrique constituera-t-il l’engin de déplacement urbain ! ».
+De nombreux petits véhicules de livraison électriques sont également utilisés et appréciés pour leur silence, entre autres la nuit, mais aussi à la suite des restrictions des approvisionnements en pétrole durant la Seconde Guerre mondiale. En France, ils sont commercialisés par l'entreprise SOVEL (« Société de véhicule électrique »). Cependant, les progrès du moteur à combustion interne sont plus rapides que ceux touchant les accumulateurs, et le véhicule routier électrique tombe en désuétude, si l'on excepte les camions à ordures qui sont appréciés pour leur silence la nuit. Au XXIᵉ siècle, elles retrouvent de l’intérêt avec l'augmentation du prix des carburants liquides.
 * Différents véhicules électriques
-* « Le Triomphe », char automobile électrique de la Reine des Reines de Paris, en 1903.
+* « Le Triomphe », char automobile électrique de la Reine des Reines de Paris, en 1903.
 * Chariot transporteur électrique Elwell Parker electric truck, utilisé durant la Première Guerre mondiale.
 * L'électricar conduit par une dame (1920).
 * Tracteur électrique tirant des chariots dans une gare (1920).
 * Camion électrique Sovel en 1938 (France).
 
-# Véhicule électrique :
-## Histoire :
-### XXe siècle :
-#### Bus électriques :
+# Véhicule électrique
+## Histoire
+### XXe siècle
+#### Bus électriques
 
-Jusqu'au début des années 2000, le segment des transports en commun était occupé majoritairement par ceux raccordés à un réseau électrique (tramways, trolleybus, etc.). Quelques lignes de bus, voire de tramway, avec accumulateurs, existaient mais étaient en général cantonnées à des circuits à faible vitesse et à distances courtes, en centre-ville. Parallèlement, la solution des gyrobus est originale, car elle stocke l'énergie sous forme d'un volant d'inertie, mais la technologie ne sera utilisée que sept ans (1953-1960) en Suisse et en Belgique.
-Les autobus électriques étaient généralement de petits véhicules équipés de dispositifs de remplacement rapide des accumulateurs d'énergie. L'avantage était la limitation de l'indisponibilité du véhicule pendant les recharges classiques. Ces « racks » interchangeables de batteries, généralement au plomb, étaient souvent dimensionnés pour de petites autonomies afin de faciliter leur remplacement. Ils étaient employés à Rome et à Arcachon pour transporter les passagers dans les petites rues du centre-ville fermées à la circulation. L'autonomie limitée les rendait ainsi captifs d'une infrastructure importante, qui comprenait changements très réguliers des batteries et hangar sur la zone d'exploitation.
+Jusqu'au début des années 2000, le segment des transports en commun était occupé majoritairement par ceux raccordés à un réseau électrique (tramways, trolleybus, etc.). Quelques lignes de bus, voire de tramway, avec accumulateurs, existaient mais étaient en général cantonnées à des circuits à faible vitesse et à distances courtes, en centre-ville. Parallèlement, la solution des gyrobus est originale, car elle stocke l'énergie sous forme d'un volant d'inertie, mais la technologie ne sera utilisée que sept ans (1953-1960) en Suisse et en Belgique.
+Les autobus électriques étaient généralement de petits véhicules équipés de dispositifs de remplacement rapide des accumulateurs d'énergie. L'avantage était la limitation de l'indisponibilité du véhicule pendant les recharges classiques. Ces « racks » interchangeables de batteries, généralement au plomb, étaient souvent dimensionnés pour de petites autonomies afin de faciliter leur remplacement. Ils étaient employés à Rome et à Arcachon pour transporter les passagers dans les petites rues du centre-ville fermées à la circulation. L'autonomie limitée les rendait ainsi captifs d'une infrastructure importante, qui comprenait changements très réguliers des batteries et hangar sur la zone d'exploitation.
 
-# Véhicule électrique :
-## Histoire :
-### XXIe siècle :
+# Véhicule électrique
+## Histoire
+### XXIe siècle
 
 Ce n'est qu'avec l'avènement des questions de pollutions atmosphérique (particules) et sonore ainsi que de réchauffement climatique (gaz à effet de serre) que le transport automobile commence à se préoccuper de rechercher dans la voiture électrique un moyen de transport plus respectueux de son environnement immédiat.
-L'augmentation du prix des carburants aidant, l'électricité redevient une énergie économiquement viable. EDF, qui possède encore 1 500 véhicules électriques, annonce le 5 septembre 2007 un partenariat technologique avec Toyota portant sur l'évaluation et le développement des véhicules hybrides rechargeables et des bornes de recharges, dans les parkings et sur le réseau routier.
+L'augmentation du prix des carburants aidant, l'électricité redevient une énergie économiquement viable. EDF, qui possède encore 1 500 véhicules électriques, annonce le 5 septembre 2007 un partenariat technologique avec Toyota portant sur l'évaluation et le développement des véhicules hybrides rechargeables et des bornes de recharges, dans les parkings et sur le réseau routier.
 En 2015, le scandale des émissions des moteurs Diesel porte le discrédit sur cette motorisation, ce qui incite les constructeurs à davantage investir dans des voitures propres.
-En 2017, la vente de véhicules électriques progresse dans le monde : la Chine représente à peu près la moitié du marché mondial (1 200 000 véhicules électriques et hybrides rechargeables). En Europe, environ 150 000 nouvelles immatriculations sont émises, portant à plus de 500 000 le nombre de véhicules électriques y roulant ; il a augmenté de 13 % en France, avec 1,2 % du marché national, la plaçant en deuxième position derrière la Norvège. La Zoe de Renault est en tête des ventes, avec 23,8 % du marché européen.
-En 2018, les véhicules électriques modernes ont une autonomie maximale de 540 km. Mais, rapidement, la recherche d'une augmentation de l'autonomie grève la charge utile pour frôler la surcharge pondérale. Un poids à vide élevé est le lot des véhicules électriques. Par comparaison, l'énergie spécifique (exprimée en kJ/kg ou en kWh/kg) d'une batterie moderne est 80 fois moins élevée que celle d'un carburant carboné traditionnel.
-En 2019, la Norvège compte plus d'immatriculation de véhicules électriques que de véhicules thermiques : les 60 000 électriques y représentent 42,4 % du marché, les thermiques 31 % et les hybrides 26 %.
-Au second trimestre 2021, 7,5 % des véhicules vendus en Europe sont 100 % électriques (3,5 % l'année précédente) et 19,3 % sont hybrides.
+En 2017, la vente de véhicules électriques progresse dans le monde : la Chine représente à peu près la moitié du marché mondial (1 200 000 véhicules électriques et hybrides rechargeables). En Europe, environ 150 000 nouvelles immatriculations sont émises, portant à plus de 500 000 le nombre de véhicules électriques y roulant ; il a augmenté de 13 % en France, avec 1,2 % du marché national, la plaçant en deuxième position derrière la Norvège. La Zoe de Renault est en tête des ventes, avec 23,8 % du marché européen.
+En 2018, les véhicules électriques modernes ont une autonomie maximale de 540 km. Mais, rapidement, la recherche d'une augmentation de l'autonomie grève la charge utile pour frôler la surcharge pondérale. Un poids à vide élevé est le lot des véhicules électriques. Par comparaison, l'énergie spécifique (exprimée en kJ/kg ou en kWh/kg) d'une batterie moderne est 80 fois moins élevée que celle d'un carburant carboné traditionnel.
+En 2019, la Norvège compte plus d'immatriculation de véhicules électriques que de véhicules thermiques : les 60 000 électriques y représentent 42,4 % du marché, les thermiques 31 % et les hybrides 26 %.
+Au second trimestre 2021, 7,5 % des véhicules vendus en Europe sont 100 % électriques (3,5 % l'année précédente) et 19,3 % sont hybrides.
 
-# Véhicule électrique :
-## Parts de marché :
+# Véhicule électrique
+## Parts de marché
 
 L'énergie électrique est très répandue pour les trains, tramways et trolleybus et se développe pour les scooters, vélos, bus et voitures. Depuis la Seconde Guerre mondiale, la traction électrique est en particulier déployée sur les grandes lignes ferroviaires, surtout en Europe.
 Les ventes de scooters électriques atteignent en Chine environ vingt millions d'unité chaque année, tandis qu'en France, elles ont été de six mille en 2017.
-La part de marché de la voiture électrique atteint 2,6 % au niveau mondial en 2019 ; les parts de marché les plus élevées se rencontrent en Norvège (42,4 %), aux Pays-Bas (13,9 %), en Suède (4,4 %) et en Chine (3,9 %).
-En 2020, les ventes de voitures électriques en Europe de l'Ouest ont atteint 727 927 ventes contre 352 167 ventes en 2019, en progression de 107 %, soit 6,8 % du marché automobile.
+La part de marché de la voiture électrique atteint 2,6 % au niveau mondial en 2019 ; les parts de marché les plus élevées se rencontrent en Norvège (42,4 %), aux Pays-Bas (13,9 %), en Suède (4,4 %) et en Chine (3,9 %).
+En 2020, les ventes de voitures électriques en Europe de l'Ouest ont atteint 727 927 ventes contre 352 167 ventes en 2019, en progression de 107 %, soit 6,8 % du marché automobile.
 
-# Véhicule électrique :
-## Ferroviaires :
+# Véhicule électrique
+## Ferroviaires
 
 Les transports ferroviaires font surtout appel à la traction électrique et sont rarement équipés de dispositifs de stockage d'énergie. La locomotive Diesel-électrique est un type de véhicule hybride dont le moteur thermique ne sert qu'à produire de l'électricité.
 
-# Véhicule électrique :
-## Ferroviaires :
-### Localisation des moteurs :
+# Véhicule électrique
+## Ferroviaires
+### Localisation des moteurs
 
-Dans les premiers trains, le ou les moteur se situait exclusivement dans la ou les motrice ; par la suite, des moteurs ont été intégrés aux voitures pour améliorer l’adhérence et augmenter la puissance transmise :
-* un essieu moteur dans chaque rame ;
+Dans les premiers trains, le ou les moteur se situait exclusivement dans la ou les motrice ; par la suite, des moteurs ont été intégrés aux voitures pour améliorer l’adhérence et augmenter la puissance transmise :
+* un essieu moteur dans chaque rame ;
 * un moteur par essieu.
 
-# Véhicule électrique :
-## Ferroviaires :
-### Types de locomotives :
+# Véhicule électrique
+## Ferroviaires
+### Types de locomotives
 
-Les types des locomotives dépendent souvent de leur type d'utilisation :
-* locomotive de manœuvre, utilisée surtout pour déplacer de lourdes charges à faible vitesse ;
-* locomotive de ligne, dont la plupart sont équipées d'une motrice électrique ;
+Les types des locomotives dépendent souvent de leur type d'utilisation :
+* locomotive de manœuvre, utilisée surtout pour déplacer de lourdes charges à faible vitesse ;
+* locomotive de ligne, dont la plupart sont équipées d'une motrice électrique ;
 * locomotive rapide de type TGV ou AGV.
 
-# Véhicule électrique :
-## Transport par câble :
+# Véhicule électrique
+## Transport par câble
 
-Pour la plupart des transports par câble, la motricité est assurée par un moteur électrique installé dans l'une des stations. La technique pour obtenir des portées de grande longueur a simplifié son installation, surtout en montagne, le record mondial étant de plus de 3 km entre pylônes. Cette caractéristique permet de franchir des obstacles qu'aucun autre véhicule n'est capable de surmonter facilement (notamment, des vallées profondes ou des pentes très élevées, où l’adhérence des roues, sur des rails métalliques, serait insuffisante).
+Pour la plupart des transports par câble, la motricité est assurée par un moteur électrique installé dans l'une des stations. La technique pour obtenir des portées de grande longueur a simplifié son installation, surtout en montagne, le record mondial étant de plus de 3 km entre pylônes. Cette caractéristique permet de franchir des obstacles qu'aucun autre véhicule n'est capable de surmonter facilement (notamment, des vallées profondes ou des pentes très élevées, où l’adhérence des roues, sur des rails métalliques, serait insuffisante).
 Pour les transports urbains, sa simplicité de mise en œuvre est un atout majeur, essentiellement dans les villes où le trafic automobile est surchargé et où la place au sol est limitée.
 
-# Véhicule électrique :
-## Routiers :
+# Véhicule électrique
+## Routiers
 
-Les véhicules routiers mus par des moteurs électriques se classent en plusieurs familles :
+Les véhicules routiers mus par des moteurs électriques se classent en plusieurs familles :
 * les véhicules électriques purs ("PEV" pour Pure Electric Vehicule en anglais) fonctionnent exclusivement grâce à l’électricité. Les plus courants embarquent une batterie rechargeable ("BEV" pour Battery Electric Vehicule), mais il en existe également qui utilisent l'électricité générée dans une pile à combustible à partir d'hydrogène ("FCEV" pour Fuel Cell Electric Vehicule).
 * les véhicules électriques hybrides rechargeables sur le réseau électrique ("PHEV" pour Plug-in Hybrid Electric Vehicule en anglais).
-Dans l'Union européenne et aux États-Unis, la réglementation en vigueur rend obligatoire l'émission d'un son d'au moins 56 dB, en deçà de 20 km/h et à partir du 1ᵉʳ juillet 2021 en UE, en deçà de 30 km/h outre-Atlantique.
+Dans l'Union européenne et aux États-Unis, la réglementation en vigueur rend obligatoire l'émission d'un son d'au moins 56 dB, en deçà de 20 km/h et à partir du 1ᵉʳ juillet 2021 en UE, en deçà de 30 km/h outre-Atlantique.
 
-# Véhicule électrique :
-## Routiers :
-### Caractéristiques des véhicules routiers à batteries :
+# Véhicule électrique
+## Routiers
+### Caractéristiques des véhicules routiers à batteries
 
-Les véhicules électriques routiers se caractérisent par l'usage d'électricité issue d'une batterie qui se recharge sur le réseau électrique. Les batteries permettent d'électrifier les véhicules motorisés, comme des motos, et des engins non motorisés, comme des vélos. Ces véhicules diffèrent de leurs versions thermiques notamment sur les points suivant : coûts (coût du carburant et prix d'achat), autonomie, bruit, lieu et temps de recharge.
+Les véhicules électriques routiers se caractérisent par l'usage d'électricité issue d'une batterie qui se recharge sur le réseau électrique. Les batteries permettent d'électrifier les véhicules motorisés, comme des motos, et des engins non motorisés, comme des vélos. Ces véhicules diffèrent de leurs versions thermiques notamment sur les points suivant : coûts (coût du carburant et prix d'achat), autonomie, bruit, lieu et temps de recharge.
 
-# Véhicule électrique :
-## Routiers :
-### Caractéristiques des véhicules routiers à batteries :
-#### Avantages :
+# Véhicule électrique
+## Routiers
+### Caractéristiques des véhicules routiers à batteries
+#### Avantages
 
 Les propulsions électriques ont un bien meilleur rendement moteur que celles à combustion (Diesel, essence, hydrogène), bien que, dans une vision globale du véhicule, les batteries très lourdes grèvent l'efficacité et le rendement pour une charge utile donnée.
-La charge d'une batterie peut atteindre un rendement de 60 à 95 % selon la technologie (60 à 85 % pour les batteries au plomb, 95 % pour les batteries au lithium utilisées par les véhicules électriques) et l'utilisation (température, rythme de charge…). Le rendement de décharge atteint 100 % tous types de batteries confondus, mais décroît si la puissance demandée est trop forte (suivant la loi de Peukert), dans le cas des batteries au plomb.
-Le rendement d'un véhicule électrique atteint 50 % sur électricité consommée (50 % de la centrale aux roues, en tenant compte du rendement du moteur, de celui du stockage, du chauffage, de la climatisation et des pertes du réseau électrique). Le rendement de la voiture elle-même est de 69 à 73 %, plus 17 % récupérés par le freinage régénératif, soit au total un rendement de 86 à 90 %. En comparaison, le rendement d'un véhicule à essence est de 16 à 25 %.
-Une batterie moderne permet d'effectuer plus de 1 000 cycles (soit plus de 200 000 km dans le cas d'une batterie offrant une autonomie de 200 km) pour un coût moyen de 2 centimes d'euro par kilomètre et de 0,25 centime d'euro par kilomètre pour l'électricité.
-Les véhicules électriques présentent également des avantages économiques :
-* un « carburant » moins cher que l'essence (calculé sur la base du prix du litre d'essence à 1,50 euro) permettant, pour une utilisation suffisamment intense, d'amortir le surcoût initial de la batterie ;
+La charge d'une batterie peut atteindre un rendement de 60 à 95 % selon la technologie (60 à 85 % pour les batteries au plomb, 95 % pour les batteries au lithium utilisées par les véhicules électriques) et l'utilisation (température, rythme de charge…). Le rendement de décharge atteint 100 % tous types de batteries confondus, mais décroît si la puissance demandée est trop forte (suivant la loi de Peukert), dans le cas des batteries au plomb.
+Le rendement d'un véhicule électrique atteint 50 % sur électricité consommée (50 % de la centrale aux roues, en tenant compte du rendement du moteur, de celui du stockage, du chauffage, de la climatisation et des pertes du réseau électrique). Le rendement de la voiture elle-même est de 69 à 73 %, plus 17 % récupérés par le freinage régénératif, soit au total un rendement de 86 à 90 %. En comparaison, le rendement d'un véhicule à essence est de 16 à 25 %.
+Une batterie moderne permet d'effectuer plus de 1 000 cycles (soit plus de 200 000 km dans le cas d'une batterie offrant une autonomie de 200 km) pour un coût moyen de 2 centimes d'euro par kilomètre et de 0,25 centime d'euro par kilomètre pour l'électricité.
+Les véhicules électriques présentent également des avantages économiques :
+* un « carburant » moins cher que l'essence (calculé sur la base du prix du litre d'essence à 1,50 euro) permettant, pour une utilisation suffisamment intense, d'amortir le surcoût initial de la batterie ;
 * un entretien simple et peu onéreux, le moteur pouvant fonctionner jusqu'à un million de kilomètres.
 * contrairement aux moteurs à essence, les moteurs électriques sont conçus de manière à récupérer l'énergie en cas de freinage, en faisant fonctionner le moteur comme une dynamo pour recharger les batteries du véhicule.
 
-# Véhicule électrique :
-## Routiers :
-### Caractéristiques des véhicules routiers à batteries :
-#### Inconvénients :
+# Véhicule électrique
+## Routiers
+### Caractéristiques des véhicules routiers à batteries
+#### Inconvénients
 
-Les véhicules électriques ont une autonomie limitée (de 200 à 500 km en 2019 à une vitesse de 110 km/h).
+Les véhicules électriques ont une autonomie limitée (de 200 à 500 km en 2019 à une vitesse de 110 km/h).
 Le prix d'achat des voitures électriques est élevé malgré les aides étatiques, notamment à cause du coût des batteries, lesquelles sont parfois proposées en location par les constructeurs.
-Le recours exclusif aux batteries au lithium engendre un impact écologique important : en particulier, l'extraction intensive du lithium, du cuivre et du cobalt pour la fabrication des batteries s'avère être une source de pollution élevée. Par ailleurs, dans une quête d'allègement des véhicules électriques, dont les batteries sont responsables de leur poids supérieur à celui des véhicules thermiques, les constructeurs s'emploient à utiliser davantage de matériaux légers comme l'aluminium dont l'utilisation massive rend le véhicule plus polluant à produire que son homologue thermique.
+Le recours exclusif aux batteries au lithium engendre un impact écologique important : en particulier, l'extraction intensive du lithium, du cuivre et du cobalt pour la fabrication des batteries s'avère être une source de pollution élevée. Par ailleurs, dans une quête d'allègement des véhicules électriques, dont les batteries sont responsables de leur poids supérieur à celui des véhicules thermiques, les constructeurs s'emploient à utiliser davantage de matériaux légers comme l'aluminium dont l'utilisation massive rend le véhicule plus polluant à produire que son homologue thermique.
 
-# Véhicule électrique :
-## Routiers :
-### Économie :
+# Véhicule électrique
+## Routiers
+### Économie
 
 L'apparition de nouveaux genres de véhicules électriques en nombre a pu déstabiliser des industries établies, en changeant le modèle économique du transport. Elle peut donc affecter les sociétés et les salariés qui travaillent dans ce secteur.
 
-# Véhicule électrique :
-## Routiers :
-### Économie :
-#### Emploi :
+# Véhicule électrique
+## Routiers
+### Économie
+#### Emploi
 
-Le développement du véhicule électrique pourrait conduire à supprimer 75 000 emplois en Allemagne, selon une étude commandée par les syndicats et l’industrie automobile allemands à l'institut Fraunhofer de génie industriel, notamment dans le secteur des moteurs et des boîtes de vitesses, sur la base d'une hypothèse de 25 % de voitures électriques d'ici 2030 et de 15 % de modèles hybrides pour seulement 60 % de véhicules à essence ou Diesel.
+Le développement du véhicule électrique pourrait conduire à supprimer 75 000 emplois en Allemagne, selon une étude commandée par les syndicats et l’industrie automobile allemands à l'institut Fraunhofer de génie industriel, notamment dans le secteur des moteurs et des boîtes de vitesses, sur la base d'une hypothèse de 25 % de voitures électriques d'ici 2030 et de 15 % de modèles hybrides pour seulement 60 % de véhicules à essence ou Diesel.
 
-# Véhicule électrique :
-## Routiers :
-### Voitures :
+# Véhicule électrique
+## Routiers
+### Voitures
 
 La voiture électrique est mue par un ou plusieurs moteurs électriques, généralement alimentés par une batterie d'accumulateurs voire une pile à hydrogène.
 Parmi les modèles de chacune de ces filières, on peut citer la Renault Zoe et la Tesla Model 3 équipées de batteries, la Toyota Mirai dotée d'une pile à combustible, ou la Chevrolet Volt munie d'un prolongateur d'autonomie qui en fait un véhicule hybride électrique rechargeable.
-La part de marché de la voiture électrique atteint 2,6 % au niveau mondial en 2019 ; les parts de marché les plus élevées se rencontrent en Norvège (55,9 %), aux Pays-Bas (15,1 %) et en Suède (11,4 %) ; elles se situent à 4,9 % en Chine, 3 % en Allemagne, 2,8 % en France et au Royaume-Uni, 2,1 % aux États-Unis.
-En Europe, les véhicules électriques devraient représenter 12 % des 18,6 millions de ventes de voitures du continent en 2022, contre seulement 3 % des 21,2 millions de véhicules vendus en 2019.
+La part de marché de la voiture électrique atteint 2,6 % au niveau mondial en 2019 ; les parts de marché les plus élevées se rencontrent en Norvège (55,9 %), aux Pays-Bas (15,1 %) et en Suède (11,4 %) ; elles se situent à 4,9 % en Chine, 3 % en Allemagne, 2,8 % en France et au Royaume-Uni, 2,1 % aux États-Unis.
+En Europe, les véhicules électriques devraient représenter 12 % des 18,6 millions de ventes de voitures du continent en 2022, contre seulement 3 % des 21,2 millions de véhicules vendus en 2019.
 
-# Véhicule électrique :
-## Routiers :
-### Voitures :
-#### Utilitaires :
+# Véhicule électrique
+## Routiers
+### Voitures
+#### Utilitaires
 
 En France, sept nouveaux modèles de véhicules utilitaires électriques sont annoncés pour 2020 par Peugeot, Citroën, Renault, Opel, Toyota, Mercedes et Fiat.
-Amazon annonce le déploiement de 10 000 rickshaws électriques en Inde d’ici 2025. Ils débuteront dès cette année leurs tournées de livraisons dans une vingtaine de villes. Au niveau mondial, Amazon prévoit le déploiement d’un total de 100 000 véhicules électriques de livraison à l'horizon 2030.
-En juin 2020, Peugeot annonce sa nouvelle gamme d’utilitaires électriques, avec pour objectif d'atteindre 15 % des ventes en électrique en 2025. La gamme comprend la DS 3 Crossback e-Tense, la Peugeot e-208 et l’Opel Corsa-e, et pour le transport de personnes : Peugeot e-Traveller, Citroën e-Spacetourer et Opel Zafira-e.
+Amazon annonce le déploiement de 10 000 rickshaws électriques en Inde d’ici 2025. Ils débuteront dès cette année leurs tournées de livraisons dans une vingtaine de villes. Au niveau mondial, Amazon prévoit le déploiement d’un total de 100 000 véhicules électriques de livraison à l'horizon 2030.
+En juin 2020, Peugeot annonce sa nouvelle gamme d’utilitaires électriques, avec pour objectif d'atteindre 15 % des ventes en électrique en 2025. La gamme comprend la DS 3 Crossback e-Tense, la Peugeot e-208 et l’Opel Corsa-e, et pour le transport de personnes : Peugeot e-Traveller, Citroën e-Spacetourer et Opel Zafira-e.
 
-# Véhicule électrique :
-## Routiers :
-### Voitures :
-#### Camping-cars :
+# Véhicule électrique
+## Routiers
+### Voitures
+#### Camping-cars
 
-En juin 2018, Nissan a présenté au salon de l’auto de Madrid une nouvelle déclinaison de son e-NV200 : un camping-car dénommé Nissan Camper, doté d'une batterie de 40 kWh qui lui confère, en principe, une autonomie de plus de 200 km en usage réel.
+En juin 2018, Nissan a présenté au salon de l’auto de Madrid une nouvelle déclinaison de son e-NV200 : un camping-car dénommé Nissan Camper, doté d'une batterie de 40 kWh qui lui confère, en principe, une autonomie de plus de 200 km en usage réel.
 
-# Véhicule électrique :
-## Routiers :
-### Voitures :
-#### Tricycles motorisés :
+# Véhicule électrique
+## Routiers
+### Voitures
+#### Tricycles motorisés
 
 En 2023, le Sri Lanka lance, avec l'aide du Programme des Nations unies pour le développement (PNUD), un programme de rétrofit électrique à grande échelle sur un demi-million de tuk-tuks.
 
-# Véhicule électrique :
-## Routiers :
-### Bus :
+# Véhicule électrique
+## Routiers
+### Bus
 
-En 2017, la Chine compte 370 000 bus et minibus électriques ; les ventes de l'année se sont élevées à plus de 100 000 bus (dont 15 % hybrides rechargeables). Dans le reste du monde, 2 100 bus électriques sont en circulation en 2017 (Europe, Japon et États-Unis), ainsi que 250 bus à pile à combustible.
+En 2017, la Chine compte 370 000 bus et minibus électriques ; les ventes de l'année se sont élevées à plus de 100 000 bus (dont 15 % hybrides rechargeables). Dans le reste du monde, 2 100 bus électriques sont en circulation en 2017 (Europe, Japon et États-Unis), ainsi que 250 bus à pile à combustible.
 
-# Véhicule électrique :
-## Routiers :
-### Bus :
-#### Technologie :
+# Véhicule électrique
+## Routiers
+### Bus
+#### Technologie
 
-En 2003, plus de cinq cents bus électriques étaient en service en Europe, dont plus de soixante-dix en France. Cependant, une nouvelle génération de batterie lithium a permis de fortement améliorer l'autonomie de ces véhicules (de 100 à 200 km d'autonomie avec une charge). Bien que cette technologie soit encore peu répandue, des villes comme Coulommiers ou encore Provins exploitent déjà des bus 100 % électriques avec des batteries lithium construits par la société PVI (ou Power Vehicle Innovation).
-On trouve aussi des véhicules hybrides semi-captifs d'un réseau extérieur. C'est la voie choisie pour le nouveau tramway de Strasbourg. Le mode « autobus électrique » en centre ville permet alors de s'affranchir du réseau souvent aérien. Ce second mode permet, à la fois, l'alimentation du système de propulsion et la recharge des batteries. Cette approche permet de s'affranchir du problème de changement de batterie, pour recharge évoqué précédemment. La voie technique choisie à Bordeaux a conduit à inventer un dispositif d'alimentation électrique par le sol (tout nouveau brevet).
-Un bus 100 % électrique, Ellisup (pour autobus « électrique à batteries au lithium et supercapacités »), né d’un partenariat entre diverses entreprises, dont Iveco (le constructeur), EDF (l’électricien) et la RATP (l’exploitant), est en phase de test en 2013 ; ce véhicule à trois portes et huit roues, dont la moitié sont motrices et alimentées par des batteries grâce à des moteurs-roues développés par Michelin (moteur déplacé dans les quatre roues), ce qui permet de dégager de l’espace et d’accueillir entre 10 et 20 % de passagers en plus. Les batteries lithium-ion sont implantées sur le toit et un pantographe — dispositif articulé permettant à un engin électrique de capter le courant par frottement sur la caténaire — situé à l’avant du bus lui permet de recharger ses batteries en 4 min seulement aux terminus de ligne ; le véhicule est ensuite autonome durant 8 à 10 km. L'homologation est attendue fin 2014 et la mise en ligne à l’horizon 2015.
-En Chine, des autobus 100 % électriques à supercondensateur circulent depuis 2009. Ils se rechargent à chaque arrêt de bus à l'aide d'un pantographe (comme pour un tramway). 30 secondes suffisent pour recharger le bus à 50 % et il faut 80 secondes pour le recharger à 100 %. En février 2013, le département des transports publics de Shanghai a décidé de s'équiper de 200 bus électriques dotés à la fois d'une batterie et de supercondensateurs.
-En mars 2013, la RATP commande 15 autobus hybrides (Diesel/supercondensateur) permettant d'économiser jusqu'à 30 % de carburant.
+En 2003, plus de cinq cents bus électriques étaient en service en Europe, dont plus de soixante-dix en France. Cependant, une nouvelle génération de batterie lithium a permis de fortement améliorer l'autonomie de ces véhicules (de 100 à 200 km d'autonomie avec une charge). Bien que cette technologie soit encore peu répandue, des villes comme Coulommiers ou encore Provins exploitent déjà des bus 100 % électriques avec des batteries lithium construits par la société PVI (ou Power Vehicle Innovation).
+On trouve aussi des véhicules hybrides semi-captifs d'un réseau extérieur. C'est la voie choisie pour le nouveau tramway de Strasbourg. Le mode « autobus électrique » en centre ville permet alors de s'affranchir du réseau souvent aérien. Ce second mode permet, à la fois, l'alimentation du système de propulsion et la recharge des batteries. Cette approche permet de s'affranchir du problème de changement de batterie, pour recharge évoqué précédemment. La voie technique choisie à Bordeaux a conduit à inventer un dispositif d'alimentation électrique par le sol (tout nouveau brevet).
+Un bus 100 % électrique, Ellisup (pour autobus « électrique à batteries au lithium et supercapacités »), né d’un partenariat entre diverses entreprises, dont Iveco (le constructeur), EDF (l’électricien) et la RATP (l’exploitant), est en phase de test en 2013 ; ce véhicule à trois portes et huit roues, dont la moitié sont motrices et alimentées par des batteries grâce à des moteurs-roues développés par Michelin (moteur déplacé dans les quatre roues), ce qui permet de dégager de l’espace et d’accueillir entre 10 et 20 % de passagers en plus. Les batteries lithium-ion sont implantées sur le toit et un pantographe — dispositif articulé permettant à un engin électrique de capter le courant par frottement sur la caténaire — situé à l’avant du bus lui permet de recharger ses batteries en 4 min seulement aux terminus de ligne ; le véhicule est ensuite autonome durant 8 à 10 km. L'homologation est attendue fin 2014 et la mise en ligne à l’horizon 2015.
+En Chine, des autobus 100 % électriques à supercondensateur circulent depuis 2009. Ils se rechargent à chaque arrêt de bus à l'aide d'un pantographe (comme pour un tramway). 30 secondes suffisent pour recharger le bus à 50 % et il faut 80 secondes pour le recharger à 100 %. En février 2013, le département des transports publics de Shanghai a décidé de s'équiper de 200 bus électriques dotés à la fois d'une batterie et de supercondensateurs.
+En mars 2013, la RATP commande 15 autobus hybrides (Diesel/supercondensateur) permettant d'économiser jusqu'à 30 % de carburant.
 
-# Véhicule électrique :
-## Routiers :
-### Bus :
-#### Électrification des flottes :
+# Véhicule électrique
+## Routiers
+### Bus
+#### Électrification des flottes
 
-La RATP annonce en mars 2014 sa volonté de passer à un parc sans aucun véhicule Diesel d’ici 2025. La solution reste à construire, mais sera probablement électrique. À la suite d'un appel d'offres lancé en octobre 2013, la RATP retient la proposition de la société Blue Solutions, filiale du groupe Bolloré, pour un contrat de 10 M€ sur quatre ans d'achat de minibus électriques Bluebus utilisant des batteries lithium-métal-polymère implantées sur le toit et assurant une autonomie de 12 km. Deux modèles de bus seront mis en service, avec des capacités de 22 et 80 voyageurs. Fabriqué à Laval, le Bluebus est aujourd’hui utilisé dans de nombreuses collectivités comme Tours, Rambouillet, Bayonne, Tarbes et Bordeaux. Les 4 500 bus de la RATP en Île-de-France, dont 97 % ont aujourd'hui une motorisation Diesel, devront être remplacés d'ici 2025 par un parc comptant 80 % de bus électriques et 20 % de bus circulant au biogaz. Une première commande de 20 bus électriques, ayant la même capacité de voyageurs que les bus classiques (90 passagers environ), est passée fin 2014 à Bluebus pour faire tourner dès 2016 une première ligne 100 % électrique : la ligne 341, qui relie Charles-de-Gaulle-Étoile à la porte de Clignancourt, dans le nord de Paris.
-Une dizaine de fabricants sont en compétition en 2017 pour le marché des bus franciliens, estimé à plus de deux milliards d'euros sur dix ans. Les principaux sont Blue Solutions, avec son usine d'Ergué-Gabéric (Finistère), d'une capacité de 200 bus par an, le chinois BYD qui est en train d’aménager un ancien site Michelin près de Beauvais (Oise) pour en faire une usine d’une capacité de 800 véhicules par an, et le chinois Yutong, numéro un mondial du bus, qui a vendu 37 000 autobus électriques en Chine en 2016 et est représenté en France par la société alsacienne Dietrich Carebus, qui se dit prête à transformer son site près de Strasbourg en usine si les commandes affluent. Le prix d'un bus électrique est d'environ 500 000 €, le double d'un bus Diesel ; la RATP espère obtenir une baisse de ce prix au-dessous du seuil de 400 000 €.
-Marseille a été la première ville française à lancer une ligne de bus 100 % électrique en 2016. Sa Régie des transports métropolitains (RTM) annonce en janvier 2020 la conversion à l’électrique de sa flotte de 630 bus urbains à l’horizon 2035.
-La STIB, qui exploite entre autres les autobus de Bruxelles, passe elle aussi progressivement à l'électrique : les derniers bus diesel ont été livrés en 2015, les derniers hybrides en 2019, des autobus tout-électriques de marques Bolloré et Solaris sont, dès 2021, les seuls en service sur deux lignes (33 et 64) et il est prévu de ne plus utiliser que des véhicules électriques d'ici 2030. La topographie accidentée de la moitié est de l'agglomération bruxelloise permet à ces autobus de tirer un profit maximum de leur freinage à récupération d'énergie.
-La ville chinoise de Shenzhen (plus de douze millions d’habitants) annonce le 27 décembre 2017 l’achèvement de l’électrification complète de ses 16 359 bus ; la municipalité vise l’électrification totale de tous ses taxis, dont 12 518, soit 62,5 % du total, sont déjà électriques.
-La Chine concentre à elle seule 99 % des 385 000 autobus électriques en circulation dans le monde en 2017 ; 17 % des bus urbains du pays sont déjà électrifiés, économisant 233 000 barils/jour de carburants.
+La RATP annonce en mars 2014 sa volonté de passer à un parc sans aucun véhicule Diesel d’ici 2025. La solution reste à construire, mais sera probablement électrique. À la suite d'un appel d'offres lancé en octobre 2013, la RATP retient la proposition de la société Blue Solutions, filiale du groupe Bolloré, pour un contrat de 10 M€ sur quatre ans d'achat de minibus électriques Bluebus utilisant des batteries lithium-métal-polymère implantées sur le toit et assurant une autonomie de 12 km. Deux modèles de bus seront mis en service, avec des capacités de 22 et 80 voyageurs. Fabriqué à Laval, le Bluebus est aujourd’hui utilisé dans de nombreuses collectivités comme Tours, Rambouillet, Bayonne, Tarbes et Bordeaux. Les 4 500 bus de la RATP en Île-de-France, dont 97 % ont aujourd'hui une motorisation Diesel, devront être remplacés d'ici 2025 par un parc comptant 80 % de bus électriques et 20 % de bus circulant au biogaz. Une première commande de 20 bus électriques, ayant la même capacité de voyageurs que les bus classiques (90 passagers environ), est passée fin 2014 à Bluebus pour faire tourner dès 2016 une première ligne 100 % électrique : la ligne 341, qui relie Charles-de-Gaulle-Étoile à la porte de Clignancourt, dans le nord de Paris.
+Une dizaine de fabricants sont en compétition en 2017 pour le marché des bus franciliens, estimé à plus de deux milliards d'euros sur dix ans. Les principaux sont Blue Solutions, avec son usine d'Ergué-Gabéric (Finistère), d'une capacité de 200 bus par an, le chinois BYD qui est en train d’aménager un ancien site Michelin près de Beauvais (Oise) pour en faire une usine d’une capacité de 800 véhicules par an, et le chinois Yutong, numéro un mondial du bus, qui a vendu 37 000 autobus électriques en Chine en 2016 et est représenté en France par la société alsacienne Dietrich Carebus, qui se dit prête à transformer son site près de Strasbourg en usine si les commandes affluent. Le prix d'un bus électrique est d'environ 500 000 €, le double d'un bus Diesel ; la RATP espère obtenir une baisse de ce prix au-dessous du seuil de 400 000 €.
+Marseille a été la première ville française à lancer une ligne de bus 100 % électrique en 2016. Sa Régie des transports métropolitains (RTM) annonce en janvier 2020 la conversion à l’électrique de sa flotte de 630 bus urbains à l’horizon 2035.
+La STIB, qui exploite entre autres les autobus de Bruxelles, passe elle aussi progressivement à l'électrique : les derniers bus diesel ont été livrés en 2015, les derniers hybrides en 2019, des autobus tout-électriques de marques Bolloré et Solaris sont, dès 2021, les seuls en service sur deux lignes (33 et 64) et il est prévu de ne plus utiliser que des véhicules électriques d'ici 2030. La topographie accidentée de la moitié est de l'agglomération bruxelloise permet à ces autobus de tirer un profit maximum de leur freinage à récupération d'énergie.
+La ville chinoise de Shenzhen (plus de douze millions d’habitants) annonce le 27 décembre 2017 l’achèvement de l’électrification complète de ses 16 359 bus ; la municipalité vise l’électrification totale de tous ses taxis, dont 12 518, soit 62,5 % du total, sont déjà électriques.
+La Chine concentre à elle seule 99 % des 385 000 autobus électriques en circulation dans le monde en 2017 ; 17 % des bus urbains du pays sont déjà électrifiés, économisant 233 000 barils/jour de carburants.
 
-# Véhicule électrique :
-## Routiers :
-### Bus :
-#### Données en France :
+# Véhicule électrique
+## Routiers
+### Bus
+#### Données en France
 
 Le diagramme ci-dessous donne la composition du parc de véhicules électriques en France.
 
-# Véhicule électrique :
-## Routiers :
-### Camions :
+# Véhicule électrique
+## Routiers
+### Camions
 
 La technologie du camion électrique ets similaire à celle des transports en commun.
-Smith Electric Vehicles (en), fabricant américain, s'est spécialisé dans ces applications. Les véhicules de voirie, notamment les bennes à ordures, connaissent aussi des versions électriques. Ces véhicules peuvent bénéficier d'une propulsion hybride, électrique en ville et thermique vers l'usine de retraitement, ou 100 % électrique.
+Smith Electric Vehicles (en), fabricant américain, s'est spécialisé dans ces applications. Les véhicules de voirie, notamment les bennes à ordures, connaissent aussi des versions électriques. Ces véhicules peuvent bénéficier d'une propulsion hybride, électrique en ville et thermique vers l'usine de retraitement, ou 100 % électrique.
 
-# Véhicule électrique :
-## Routiers :
-### Camions :
-#### Histoire des poids-lourds électriques :
+# Véhicule électrique
+## Routiers
+### Camions
+#### Histoire des poids-lourds électriques
 
-Le salon des poids lourds et utilitaires 2016 à Hanovre (IAA) a présenté plusieurs véhicules électriques, dont :
-* un véhicule de livraison à propulsion électrique Daimler, commercialisé en 2018 ;
-* un Crafter électrique de Volkswagen, qui peut charger 11 m³ de marchandise et rouler à 80 km/h, lancé en 2017 ;
-* l'Urban eTruck, concept présenté par Daimler, qui peut transporter jusqu'à 25 t de charge, produit à grande échelle dès 2020 ;
-* un camion d'une capacité de 16 t présenté par Renault Trucks, filiale de Volvo, lancé en 2020.
+Le salon des poids lourds et utilitaires 2016 à Hanovre (IAA) a présenté plusieurs véhicules électriques, dont :
+* un véhicule de livraison à propulsion électrique Daimler, commercialisé en 2018 ;
+* un Crafter électrique de Volkswagen, qui peut charger 11 m³ de marchandise et rouler à 80 km/h, lancé en 2017 ;
+* l'Urban eTruck, concept présenté par Daimler, qui peut transporter jusqu'à 25 t de charge, produit à grande échelle dès 2020 ;
+* un camion d'une capacité de 16 t présenté par Renault Trucks, filiale de Volvo, lancé en 2020.
 
-# Véhicule électrique :
-## Routiers :
-### Camions :
-#### Histoire des poids-lourds électriques :
-##### Expérimentations de véhicules utilitaires :
+# Véhicule électrique
+## Routiers
+### Camions
+#### Histoire des poids-lourds électriques
+##### Expérimentations de véhicules utilitaires
 
-L'offre de camions électriques était jusque-là peu étoffée : l'entreprise de transport Deret, qui a développé dès 2009 une offre de transport par camions électriques, a acquis pour ce faire 50 camions électriques de 3,5 t du britannique Modec ; mais, les Modec n'étant plus commercialisés, il ne restait que les Renault Trucks de faible emport : 1,2 t ; des hybrides rechargeables de 12 t seraient en projet.
-Le groupe allemand Siemens expérimente depuis l'été 2011 un démonstrateur d'autoroute électrique (eHighway), équipé de caténaires sur 1,8 km, où circulent deux camions équipés de pantographes afin de tester l'utilisation de ce concept. L'association Sauvons le climat cherche à mobiliser des industriels français autour de ce concept ; elle a calculé que l'autoroute électrique permettrait des réductions considérables d'émissions de CO₂ : un poids lourd roulant à l'électricité émettrait environ 140 gCO₂/km contre 900 g(CO₂)/km avec le Diesel ; en Allemagne où l'électricité est plus carbonée, un poids lourd électrique émettrait 750 g(CO₂)/km (émissions qui diminueront progressivement avec la transition énergétique) ; le coût du carburant passerait de 45 €/100 km avec le Diesel à 15 €/100 km à l'électricité, ce qui permettrait de payer l'investissement dans les caténaires et les pantographes ; l'installation d’une caténaire sur autoroute pourrait coûter environ 1 M€/km, alors que, par exemple, la construction d’une ligne de chemin de fer coûte environ 10 M€/km ; l’entretien d’une autoroute revient à environ 20 000 € an⁻¹ km⁻¹, alors que l’entretien d’une ligne de chemin de fer revient à au moins 100 000 € an⁻¹ km⁻¹ ; les caténaires permettraient également d'alimenter des bornes de recharges dans toutes les stations-services des autoroutes pour les voitures ; si la moitié du trafic poids lourd passe en alimentation par caténaire, le besoin d’électricité serait de seulement 10 TWh/an, soit 2 % de la production actuelle de la France.
+L'offre de camions électriques était jusque-là peu étoffée : l'entreprise de transport Deret, qui a développé dès 2009 une offre de transport par camions électriques, a acquis pour ce faire 50 camions électriques de 3,5 t du britannique Modec ; mais, les Modec n'étant plus commercialisés, il ne restait que les Renault Trucks de faible emport : 1,2 t ; des hybrides rechargeables de 12 t seraient en projet.
+Le groupe allemand Siemens expérimente depuis l'été 2011 un démonstrateur d'autoroute électrique (eHighway), équipé de caténaires sur 1,8 km, où circulent deux camions équipés de pantographes afin de tester l'utilisation de ce concept. L'association Sauvons le climat cherche à mobiliser des industriels français autour de ce concept ; elle a calculé que l'autoroute électrique permettrait des réductions considérables d'émissions de CO₂ : un poids lourd roulant à l'électricité émettrait environ 140 gCO₂/km contre 900 g(CO₂)/km avec le Diesel ; en Allemagne où l'électricité est plus carbonée, un poids lourd électrique émettrait 750 g(CO₂)/km (émissions qui diminueront progressivement avec la transition énergétique) ; le coût du carburant passerait de 45 €/100 km avec le Diesel à 15 €/100 km à l'électricité, ce qui permettrait de payer l'investissement dans les caténaires et les pantographes ; l'installation d’une caténaire sur autoroute pourrait coûter environ 1 M€/km, alors que, par exemple, la construction d’une ligne de chemin de fer coûte environ 10 M€/km ; l’entretien d’une autoroute revient à environ 20 000 € an⁻¹ km⁻¹, alors que l’entretien d’une ligne de chemin de fer revient à au moins 100 000 € an⁻¹ km⁻¹ ; les caténaires permettraient également d'alimenter des bornes de recharges dans toutes les stations-services des autoroutes pour les voitures ; si la moitié du trafic poids lourd passe en alimentation par caténaire, le besoin d’électricité serait de seulement 10 TWh/an, soit 2 % de la production actuelle de la France.
 
-# Véhicule électrique :
-## Routiers :
-### Camions :
-#### Poids lourds et fourgons électriques commercialisés :
+# Véhicule électrique
+## Routiers
+### Camions
+#### Poids lourds et fourgons électriques commercialisés
 
-Depuis 2018, dans la gamme Renault Trucks, le Master Z.E. est un fourgon pour la distribution urbaine et la livraison du dernier kilomètre. Le véhicule a une autonomie dite réelle de 120 kilomètres grâce à une batterie lithium-ion de 33 kWh.
-Dans la gamme Renault Trucks, le D Z.E. 16 tonnes permet une autonomie de 300 kilomètres urbains grâce à une batterie de 300 kWh. Une version D Wide Z.E., de 26 tonnes, emporte davantage d'énergie encore, pour une application de collecte des déchets.
+Depuis 2018, dans la gamme Renault Trucks, le Master Z.E. est un fourgon pour la distribution urbaine et la livraison du dernier kilomètre. Le véhicule a une autonomie dite réelle de 120 kilomètres grâce à une batterie lithium-ion de 33 kWh.
+Dans la gamme Renault Trucks, le D Z.E. 16 tonnes permet une autonomie de 300 kilomètres urbains grâce à une batterie de 300 kWh. Une version D Wide Z.E., de 26 tonnes, emporte davantage d'énergie encore, pour une application de collecte des déchets.
 Les diagrammes suivants donnent la composition du parc français.
 
-# Véhicule électrique :
-## Routiers :
-### Camions :
-#### Projets de poids lourds :
+# Véhicule électrique
+## Routiers
+### Camions
+#### Projets de poids lourds
 
 Tesla
-Tesla présente le 16 novembre 2017 son semi-remorque électrique autonome Tesla Semi, dont l'autonomie atteindrait 800 km et dont le coût complet serait inférieur de 20 % à celui d'un camion Diesel. La production devrait commencer fin 2019. L'entreprise a reçu environ 200 commandes en quinze jours.
-En 2018, après la présentation en novembre 2017 du poids lourd électrique de Tesla, les principaux constructeurs de véhicules industriels multiplient les annonces : Volvo Trucks et sa filiale Renault Trucks annoncent en janvier 2018 deux projets : une gamme de véhicules électriques de 16 à 19 t pour la distribution urbaine, lancée fin 2019 par Volvo, et une autre chez Renault, qui teste depuis 2012 des camions frigorifiques de 12 à 19 t d'une autonomie de 120 km. Mercedes-Benz Trucks lancera sa gamme de camions électriques en 2020 et teste son nouveau Urban e-Truck 100 % électrique en versions 18 t et 25 t, d'une autonomie de 200 km.
+Tesla présente le 16 novembre 2017 son semi-remorque électrique autonome Tesla Semi, dont l'autonomie atteindrait 800 km et dont le coût complet serait inférieur de 20 % à celui d'un camion Diesel. La production devrait commencer fin 2019. L'entreprise a reçu environ 200 commandes en quinze jours.
+En 2018, après la présentation en novembre 2017 du poids lourd électrique de Tesla, les principaux constructeurs de véhicules industriels multiplient les annonces : Volvo Trucks et sa filiale Renault Trucks annoncent en janvier 2018 deux projets : une gamme de véhicules électriques de 16 à 19 t pour la distribution urbaine, lancée fin 2019 par Volvo, et une autre chez Renault, qui teste depuis 2012 des camions frigorifiques de 12 à 19 t d'une autonomie de 120 km. Mercedes-Benz Trucks lancera sa gamme de camions électriques en 2020 et teste son nouveau Urban e-Truck 100 % électrique en versions 18 t et 25 t, d'une autonomie de 200 km.
 Daimler
-Daimler annonce le 6 juin 2018 la commercialisation en 2021 d'un camion électrique de 36 t d'une autonomie allant jusqu'à 400 km, le Freightliner eCascadia, ainsi que d'un camion de moyen tonnage, le Freightliner eM2 106, d'une autonomie maximale de 370 km, conçu pour la distribution locale, la livraison d'aliments et de boissons, et les services de logistique du « dernier kilomètre ».
-Le constructeur chinois BYD, déjà connu pour ses bus et taxis électriques, lance en Europe trois véhicules utilitaires électriques :
-* un petit camion électrique baptisé T6, doté de 7,5 t de PTAC avec une motorisation de 335 ch et une batterie de 221 kWh ;
-* un petit tracteur aéroportuaire baptisé Q1M emportant une batterie de 217 kWh, autorisant jusqu’à 46 t de PTAC ;
-* un petit fourgon électrique, le T3, avec un moteur électrique de 70 kW couplé à une batterie d’environ 50 kWh.
+Daimler annonce le 6 juin 2018 la commercialisation en 2021 d'un camion électrique de 36 t d'une autonomie allant jusqu'à 400 km, le Freightliner eCascadia, ainsi que d'un camion de moyen tonnage, le Freightliner eM2 106, d'une autonomie maximale de 370 km, conçu pour la distribution locale, la livraison d'aliments et de boissons, et les services de logistique du « dernier kilomètre ».
+Le constructeur chinois BYD, déjà connu pour ses bus et taxis électriques, lance en Europe trois véhicules utilitaires électriques :
+* un petit camion électrique baptisé T6, doté de 7,5 t de PTAC avec une motorisation de 335 ch et une batterie de 221 kWh ;
+* un petit tracteur aéroportuaire baptisé Q1M emportant une batterie de 217 kWh, autorisant jusqu’à 46 t de PTAC ;
+* un petit fourgon électrique, le T3, avec un moteur électrique de 70 kW couplé à une batterie d’environ 50 kWh.
 Volvo trucks
-En 2020, la start-up suédoise Volta Trucks annonce le modèle « Volta Zéro », un camion 100 % électrique de 16 t conçu pour la distribution de colis et de fret dans les centres-villes, en expérimentation au premier semestre 2021, dans quelques villes européennes dont Paris. L'autonomie électrique serait de 150 à 200 km et la vitesse est limitée à 90 km/h. La production en série est prévue au premier semestre 2022 et les prévisions de ventes sont de 500 unités à partir de 2022 et de 5 000 dès 2025.
+En 2020, la start-up suédoise Volta Trucks annonce le modèle « Volta Zéro », un camion 100 % électrique de 16 t conçu pour la distribution de colis et de fret dans les centres-villes, en expérimentation au premier semestre 2021, dans quelques villes européennes dont Paris. L'autonomie électrique serait de 150 à 200 km et la vitesse est limitée à 90 km/h. La production en série est prévue au premier semestre 2022 et les prévisions de ventes sont de 500 unités à partir de 2022 et de 5 000 dès 2025.
 Renault trucks
 Après avoir développé des fourgons électriques et des poids-lourds urbains, Renault trucks cherche à développer un tracteur routier pour 2023.
 
-# Véhicule électrique :
-## Routiers :
-### Mobilité individuelle :
+# Véhicule électrique
+## Routiers
+### Mobilité individuelle
 
 En Europe, la catégorie L comprend les véhicules à deux ou trois roues et les quadricycles, c'est-à-dire l'ensemble des mes motos et cyclomoteurs, ainsi que les véhicules tout terrain (quads) et autres petits véhicules à moteur de trois ou quatre roues.
-En 2017, le nombre de deux-roues électriques sur les routes de Chine est estimé, par l'Agence internationale de l'énergie, à environ 250 millions, et les ventes annuelles en Chine à 30 millions. La Chine compte aussi 50 millions de trois-roues électriques. Les deux-roues représentent 80 % des véhicules privés de passagers dans la région Chine-Inde-ASEAN (900 millions de deux-roues, dont la majorité utilisent des moteurs à essence).
-En France en 2017, 1 676 motos et scooters électriques ont été vendus (+28 %), ainsi que 7 645 cyclomoteurs (+34 %), soit 1 % et 7 % des deux marchés respectifs.
-En Thaïlande, 87 % des foyers possèdent un deux-roues motorisé ; au Vietnam, ce ratio atteint 86 %, et 85 % en Indonésie. Selon les projections de McKinsey, 36 % des mobylettes, scooters et autres motos circulant en Asie du Sud-Est et en Inde seront électrifiés à l'horizon 2030, contre 1 % en 2021. En Chine, plus de 77 % des motos et scooters vendus chaque année sont électriques. En Inde, leur part n'atteint que 3,6 % des ventes totales de deux-roues au premier semestre de 2022, mais les experts anticipent, dans la décennie en cours, une envolée comparable à celle vécue en Chine, ainsi qu'au Vietnam et en Indonésie.
+En 2017, le nombre de deux-roues électriques sur les routes de Chine est estimé, par l'Agence internationale de l'énergie, à environ 250 millions, et les ventes annuelles en Chine à 30 millions. La Chine compte aussi 50 millions de trois-roues électriques. Les deux-roues représentent 80 % des véhicules privés de passagers dans la région Chine-Inde-ASEAN (900 millions de deux-roues, dont la majorité utilisent des moteurs à essence).
+En France en 2017, 1 676 motos et scooters électriques ont été vendus (+28 %), ainsi que 7 645 cyclomoteurs (+34 %), soit 1 % et 7 % des deux marchés respectifs.
+En Thaïlande, 87 % des foyers possèdent un deux-roues motorisé ; au Vietnam, ce ratio atteint 86 %, et 85 % en Indonésie. Selon les projections de McKinsey, 36 % des mobylettes, scooters et autres motos circulant en Asie du Sud-Est et en Inde seront électrifiés à l'horizon 2030, contre 1 % en 2021. En Chine, plus de 77 % des motos et scooters vendus chaque année sont électriques. En Inde, leur part n'atteint que 3,6 % des ventes totales de deux-roues au premier semestre de 2022, mais les experts anticipent, dans la décennie en cours, une envolée comparable à celle vécue en Chine, ainsi qu'au Vietnam et en Indonésie.
 
-# Véhicule électrique :
-## Routiers :
-### Mobilité individuelle :
-#### Moto électrique :
+# Véhicule électrique
+## Routiers
+### Mobilité individuelle
+#### Moto électrique
 
-Le gouvernement taïwanais a annoncé début 2018 son intention d’interdire, à terme, la vente de véhicules non-électriques ; pour les deux-roues, cette interdiction est fixée pour 2035. Taïwan compte 14 millions de motos et scooters pour 23 millions d’habitants. Sur le million de motos vendues à Taïwan en 2017, seules 40 000 étaient électriques. L’île compte, fin 2017, 1 800 bornes de recharge pour les motos électriques, mais la décision a déjà été prise d’en installer 3 310 supplémentaires dans les cinq prochaines années.
-La catégorisation des motos électriques :
-* Jusqu’à 4 000 watts de puissance nominale, les motos sont assimilées à la catégorie des cyclomoteurs de moins de 50 cm³.
-* De 4 000 watts à 8 kw, elles correspondent à leurs homologues thermiques de 125 cm³. Un permis A1 ou B (+ formation 7h) est nécessaire à leur conduite.
-* Au-delà de 8 kw, le permis A ou A2 est obligatoire.
+Le gouvernement taïwanais a annoncé début 2018 son intention d’interdire, à terme, la vente de véhicules non-électriques ; pour les deux-roues, cette interdiction est fixée pour 2035. Taïwan compte 14 millions de motos et scooters pour 23 millions d’habitants. Sur le million de motos vendues à Taïwan en 2017, seules 40 000 étaient électriques. L’île compte, fin 2017, 1 800 bornes de recharge pour les motos électriques, mais la décision a déjà été prise d’en installer 3 310 supplémentaires dans les cinq prochaines années.
+La catégorisation des motos électriques :
+* Jusqu’à 4 000 watts de puissance nominale, les motos sont assimilées à la catégorie des cyclomoteurs de moins de 50 cm³.
+* De 4 000 watts à 8 kw, elles correspondent à leurs homologues thermiques de 125 cm³. Un permis A1 ou B (+ formation 7h) est nécessaire à leur conduite.
+* Au-delà de 8 kw, le permis A ou A2 est obligatoire.
 
-# Véhicule électrique :
-## Routiers :
-### Mobilité individuelle :
-#### Scooters :
+# Véhicule électrique
+## Routiers
+### Mobilité individuelle
+#### Scooters
 
-Le scooter électrique de la catégorie des cyclomoteurs, par sa vitesse limitée légalement à 45 km/h en France (restriction imposée aux deux roues de moins de 50 cm³), permet des performances similaires à celles d'un scooter à moteur thermique. Les scooters électriques se rechargent en quelques heures sur une simple prise de courant 220 V et 16 A.
-Les scooters n'ont pas de batterie amovible comme les vélos à assistance électrique (VAE). Rien ne semble s'opposer au fractionnement du poids, car les éléments qui sont en série (ne pas dépasser 15 kg par élément, 150 Wh/kg en Li-ion, 50 Wh/kg en Ni-MH). Plusieurs jeux de batteries permettraient d'augmenter l'autonomie journalière (par exemple pour une flotte de scooters de livreurs de pizza).
-On peut attendre d'un scooter électrique une vitesse de 45 km/h pour une autonomie de 40 à 70 km. Les prochaines générations de scooters électriques devraient avoir des performances comparables aux scooters de 125 cm³ : vitesse jusqu'à 110 km/h et autonomie de 100 km (l'autonomie d'un scooter Piaggio X9 de 125 cm³ est comprise entre 280 et 300 km pour une vitesse atteignant 120 km/h).
+Le scooter électrique de la catégorie des cyclomoteurs, par sa vitesse limitée légalement à 45 km/h en France (restriction imposée aux deux roues de moins de 50 cm³), permet des performances similaires à celles d'un scooter à moteur thermique. Les scooters électriques se rechargent en quelques heures sur une simple prise de courant 220 V et 16 A.
+Les scooters n'ont pas de batterie amovible comme les vélos à assistance électrique (VAE). Rien ne semble s'opposer au fractionnement du poids, car les éléments qui sont en série (ne pas dépasser 15 kg par élément, 150 Wh/kg en Li-ion, 50 Wh/kg en Ni-MH). Plusieurs jeux de batteries permettraient d'augmenter l'autonomie journalière (par exemple pour une flotte de scooters de livreurs de pizza).
+On peut attendre d'un scooter électrique une vitesse de 45 km/h pour une autonomie de 40 à 70 km. Les prochaines générations de scooters électriques devraient avoir des performances comparables aux scooters de 125 cm³ : vitesse jusqu'à 110 km/h et autonomie de 100 km (l'autonomie d'un scooter Piaggio X9 de 125 cm³ est comprise entre 280 et 300 km pour une vitesse atteignant 120 km/h).
 
-# Véhicule électrique :
-## Routiers :
-### Mobilité individuelle :
-#### Quads :
+# Véhicule électrique
+## Routiers
+### Mobilité individuelle
+#### Quads
 
-Des quads électriques sont testés en 2009 par La Poste française pour la distribution du courrier car l'engin est à mi-chemin entre le deux-roues motorisé, pour sa manœuvrabilité et sa discrétion, et la voiture, pour sa capacité de transport. Ses caractéristiques répondent à son rôle de livraison du courrier : 50 km d’autonomie pour une vitesse de pointe de 50 km/h, la vitesse maximale autorisée en ville. Si l'expérience est concluante, La Poste compte se doter de 3 000 de ces modèles d'ici à 2012, soit 15 % de son parc motorisé. Le modèle choisi, Mobypost, équipe plusieurs bureaux de poste, notamment dans le Doubs et le Jura. Il associe deux technologies énergétiques : le capteur solaire photovoltaïque et la pile à combustible à hydrogène. L'électricité et l’hydrogène sont produits par des ombrières solaires, des panneaux placés sur les centres postaux. L’hydrogène ainsi produit est injecté dans les réservoirs durant la nuit. Il sert à prolonger l’autonomie de la petite voiture tout en stockant l’énergie solaire, contournant ainsi le problème d’irrégularité de la production solaire.
+Des quads électriques sont testés en 2009 par La Poste française pour la distribution du courrier car l'engin est à mi-chemin entre le deux-roues motorisé, pour sa manœuvrabilité et sa discrétion, et la voiture, pour sa capacité de transport. Ses caractéristiques répondent à son rôle de livraison du courrier : 50 km d’autonomie pour une vitesse de pointe de 50 km/h, la vitesse maximale autorisée en ville. Si l'expérience est concluante, La Poste compte se doter de 3 000 de ces modèles d'ici à 2012, soit 15 % de son parc motorisé. Le modèle choisi, Mobypost, équipe plusieurs bureaux de poste, notamment dans le Doubs et le Jura. Il associe deux technologies énergétiques : le capteur solaire photovoltaïque et la pile à combustible à hydrogène. L'électricité et l’hydrogène sont produits par des ombrières solaires, des panneaux placés sur les centres postaux. L’hydrogène ainsi produit est injecté dans les réservoirs durant la nuit. Il sert à prolonger l’autonomie de la petite voiture tout en stockant l’énergie solaire, contournant ainsi le problème d’irrégularité de la production solaire.
 
-# Véhicule électrique :
-## Routiers :
-### Mobilité individuelle :
-#### Vélos assistés :
+# Véhicule électrique
+## Routiers
+### Mobilité individuelle
+#### Vélos assistés
 
-Pour l'ensemble véhicule plus passager, le vélo à assistance électrique (VAE) est :
-* le plus léger (moins de 120 kg contre 1 200 kg en moyenne pour une voiture) ;
-* le plus lent (assisté jusqu'à 25 km/h, contre plus de 100 km/h sur route pour une voiture électrique) ;
+Pour l'ensemble véhicule plus passager, le vélo à assistance électrique (VAE) est :
+* le plus léger (moins de 120 kg contre 1 200 kg en moyenne pour une voiture) ;
+* le plus lent (assisté jusqu'à 25 km/h, contre plus de 100 km/h sur route pour une voiture électrique) ;
 * économe (la moitié de l'énergie nécessaire au roulement est fournie par le passager).
-Nota : 25 km/h est la vitesse maximale légale, dans l'Union européenne, au-delà de laquelle l’assistance électrique se coupe. Ainsi, un cycliste roulant en VAE à plus de 25 km/h ne consomme plus d'électricité.
-Le VAE est le véhicule électrique qui requiert le moins d'apport d'énergie externe pour son déplacement, et donc le plus faible stockage d'énergie, réduisant ainsi l'importance des problèmes posés par les batteries. Ceci s’explique par un poids et une vitesse plus faibles qui contribuent à réduire fortement l’énergie embarquée. Sont ainsi réduites : l'énergie cinétique (proportionnelle au carré de la vitesse), l’énergie requise pour vaincre la résistance au roulement (proportionnelle au poids) et l’énergie requise pour vaincre la résistance de l'air (proportionnelle à la surface frontale et au carré de la vitesse).
-Par ailleurs, une batterie fournissant une autonomie de 60 km est généralement suffisante pour un VAE destiné à un usage urbain ou péri-urbain. À l'opposé, on attend une autonomie bien supérieure pour une voiture (quelques centaines de kilomètres). Ainsi, beaucoup de voitures à propulsion thermique ont une autonomie atteignant 1 000 km par plein, tandis qu'une voiture électrique a une autonomie courante de 120 à 500 km selon les modèles.
+Nota : 25 km/h est la vitesse maximale légale, dans l'Union européenne, au-delà de laquelle l’assistance électrique se coupe. Ainsi, un cycliste roulant en VAE à plus de 25 km/h ne consomme plus d'électricité.
+Le VAE est le véhicule électrique qui requiert le moins d'apport d'énergie externe pour son déplacement, et donc le plus faible stockage d'énergie, réduisant ainsi l'importance des problèmes posés par les batteries. Ceci s’explique par un poids et une vitesse plus faibles qui contribuent à réduire fortement l’énergie embarquée. Sont ainsi réduites : l'énergie cinétique (proportionnelle au carré de la vitesse), l’énergie requise pour vaincre la résistance au roulement (proportionnelle au poids) et l’énergie requise pour vaincre la résistance de l'air (proportionnelle à la surface frontale et au carré de la vitesse).
+Par ailleurs, une batterie fournissant une autonomie de 60 km est généralement suffisante pour un VAE destiné à un usage urbain ou péri-urbain. À l'opposé, on attend une autonomie bien supérieure pour une voiture (quelques centaines de kilomètres). Ainsi, beaucoup de voitures à propulsion thermique ont une autonomie atteignant 1 000 km par plein, tandis qu'une voiture électrique a une autonomie courante de 120 à 500 km selon les modèles.
 Le diagramme ci-contre donne la puissance musculaire nécessaire pour mouvoir un vélo.
-À 25 km/h, vitesse maximale d'assistance des VAE dans l'Union européenne, les frottements au sol semblent intervenir pour ¹⁄₃ et les frottements de l'air pour ²⁄₃. Une autre façon, plus simple, d'estimer la charge énergétique à embarquer dans un VAE et dans une voiture est de comparer l’énergie réellement embarquée dans les batteries des modèles commercialisés. Ainsi, on trouve fréquemment, dans les VAE, une capacité de batteries de 0,24 à 0,26 kWh et, pour les voitures citadines, des capacités de 12 à 24 kWh, soit un ratio énergétique entre 50 et 100 fois moindre pour un VAE par rapport à une voiture électrique.
+À 25 km/h, vitesse maximale d'assistance des VAE dans l'Union européenne, les frottements au sol semblent intervenir pour ¹⁄₃ et les frottements de l'air pour ²⁄₃. Une autre façon, plus simple, d'estimer la charge énergétique à embarquer dans un VAE et dans une voiture est de comparer l’énergie réellement embarquée dans les batteries des modèles commercialisés. Ainsi, on trouve fréquemment, dans les VAE, une capacité de batteries de 0,24 à 0,26 kWh et, pour les voitures citadines, des capacités de 12 à 24 kWh, soit un ratio énergétique entre 50 et 100 fois moindre pour un VAE par rapport à une voiture électrique.
 
-# Véhicule électrique :
-## Routiers :
-### Engins de déplacement personnel :
+# Véhicule électrique
+## Routiers
+### Engins de déplacement personnel
 
 Les engins de déplacement personnel bénéficient facilement de l'électrification, du fait de leur poids et de leur besoin d'autonomie limités.
 
-# Véhicule électrique :
-## Routiers :
-### Engins de déplacement personnel :
-#### Déplacement des personnes à mobilité réduite :
+# Véhicule électrique
+## Routiers
+### Engins de déplacement personnel
+#### Déplacement des personnes à mobilité réduite
 
-Différents modèles de scooters dotés de trois ou quatre roues permettent aux personnes à mobilité réduite (personnes âgées ou handicapées) de retrouver une certaine autonomie. Ces véhicules, le plus souvent non homologués pour la route, peuvent emprunter les trottoirs et, d'une manière générale, circuler à l'égal des piétons, à la vitesse du pas soit au maximum à 6 km/h. Plus rarement homologués route, ils se révèlent beaucoup plus dynamiques, pouvant atteindre des vitesses de l'ordre de 25 km/h et requérant le port d'un casque.
+Différents modèles de scooters dotés de trois ou quatre roues permettent aux personnes à mobilité réduite (personnes âgées ou handicapées) de retrouver une certaine autonomie. Ces véhicules, le plus souvent non homologués pour la route, peuvent emprunter les trottoirs et, d'une manière générale, circuler à l'égal des piétons, à la vitesse du pas soit au maximum à 6 km/h. Plus rarement homologués route, ils se révèlent beaucoup plus dynamiques, pouvant atteindre des vitesses de l'ordre de 25 km/h et requérant le port d'un casque.
 
-# Véhicule électrique :
-## Routiers :
-### Engins de déplacement personnel :
-#### Trottinette-patinette électrique :
+# Véhicule électrique
+## Routiers
+### Engins de déplacement personnel
+#### Trottinette-patinette électrique
 
-Deux familles se distinguent : celle où l'énergie électrique ne sert que d'assistance et celle entièrement mue par la batterie. Les petits modèles légers pèsent environ 10 kg pour une autonomie de 10 km en batterie Ni-MH et 20 km en batterie Li-ion. Il en existe de nombreuses versions assorties de nombreuses options, allant jusqu'à ressembler à des mini-vélos-assistés ou des mini-mobylettes.
-En 2017, il s'est vendu en France 1 735 000 engins de déplacement personnel (trottinettes, gyropodes, skate-boards, etc.). Le chiffre d'affaires a bondi de 57 % en un an. Les trottinettes mécaniques arrivent largement en tête (1,3 million, soit près de 77 % du marché), devant les hoverboards (292 000, destinés aux loisirs davantage qu'aux déplacements urbains) et les trottinettes électriques (102 000), dont les ventes ont progressé de 131 % et représentent 61 % du chiffre d'affaires.
-Depuis le 1ᵉʳ juillet 2020, la loi d'orientation des mobilités donne un cadre légal pour l’utilisation de ces véhicules. Notamment avec des règles spécifiques pour l'utilisation des trottinettes électriques, comme la vitesse maximale de 25 km/h.
+Deux familles se distinguent : celle où l'énergie électrique ne sert que d'assistance et celle entièrement mue par la batterie. Les petits modèles légers pèsent environ 10 kg pour une autonomie de 10 km en batterie Ni-MH et 20 km en batterie Li-ion. Il en existe de nombreuses versions assorties de nombreuses options, allant jusqu'à ressembler à des mini-vélos-assistés ou des mini-mobylettes.
+En 2017, il s'est vendu en France 1 735 000 engins de déplacement personnel (trottinettes, gyropodes, skate-boards, etc.). Le chiffre d'affaires a bondi de 57 % en un an. Les trottinettes mécaniques arrivent largement en tête (1,3 million, soit près de 77 % du marché), devant les hoverboards (292 000, destinés aux loisirs davantage qu'aux déplacements urbains) et les trottinettes électriques (102 000), dont les ventes ont progressé de 131 % et représentent 61 % du chiffre d'affaires.
+Depuis le 1ᵉʳ juillet 2020, la loi d'orientation des mobilités donne un cadre légal pour l’utilisation de ces véhicules. Notamment avec des règles spécifiques pour l'utilisation des trottinettes électriques, comme la vitesse maximale de 25 km/h.
 
-# Véhicule électrique :
-## Routiers :
-### Engins de déplacement personnel :
-#### Gyropode :
+# Véhicule électrique
+## Routiers
+### Engins de déplacement personnel
+#### Gyropode
 
 Le gyropode est un véhicule dont la stabilité et la vitesse dépendent entièrement de la position du corps du conducteur sur la plateforme, via des capteurs et des moyens modernes de stabilisation dynamique. Les roues sont côte à côte, au lieu d’être l'une derrière l'autre. Ils sont utilisés dans les lieux très étendus comme les très grands halls d'exposition, les esplanades et les très grands parcs et jardins. Après une période d’apprentissage, souvent jugée délicate, ils donnent une sensation de sécurité étonnante.
-Après la sortie des premiers gyropodes en 2001 aux États-Unis et en 2004 en France, d'autres véhicules électriques sont apparus sur le marché. Le prix de vente des gyropodes est resté une contrainte majeure pour leur développement. Parmi les autres véhicules électriques utilisant ou non un contrôle gyroscopique figurent :
-Certains modèles peuvent être utilisés en tout terrain mais sont plus délicats à piloter et peuvent nécessiter une période d'apprentissage accrue, surtout si leur vitesse maximum dépasse 15 km/h.
-L'autonomie, donnée parfois pour 10 à 20 km, peut ne pas dépasser dans les faits 5 à 10 km en tout-terrain (avec des pentes à plus de 20 %).
+Après la sortie des premiers gyropodes en 2001 aux États-Unis et en 2004 en France, d'autres véhicules électriques sont apparus sur le marché. Le prix de vente des gyropodes est resté une contrainte majeure pour leur développement. Parmi les autres véhicules électriques utilisant ou non un contrôle gyroscopique figurent :
+Certains modèles peuvent être utilisés en tout terrain mais sont plus délicats à piloter et peuvent nécessiter une période d'apprentissage accrue, surtout si leur vitesse maximum dépasse 15 km/h.
+L'autonomie, donnée parfois pour 10 à 20 km, peut ne pas dépasser dans les faits 5 à 10 km en tout-terrain (avec des pentes à plus de 20 %).
 
-# Véhicule électrique :
-## Engins agricoles et de chantier :
-### Tracteurs :
+# Véhicule électrique
+## Engins agricoles et de chantier
+### Tracteurs
 
-Le premier tracteur électrique de série au monde, l'e100 Vario du constructeur allemand Fendt, a été présenté au salon Agritechnica à Hanovre en décembre 2017. Sa puissance d’entraînement atteint 50 kW (75 ch) et il autorise jusqu’à cinq heures de fonctionnement en conditions d’exploitation grâce à ses batteries de 100 kWh.
+Le premier tracteur électrique de série au monde, l'e100 Vario du constructeur allemand Fendt, a été présenté au salon Agritechnica à Hanovre en décembre 2017. Sa puissance d’entraînement atteint 50 kW (75 ch) et il autorise jusqu’à cinq heures de fonctionnement en conditions d’exploitation grâce à ses batteries de 100 kWh.
 
-# Véhicule électrique :
-## Engins agricoles et de chantier :
-### Tractopelle :
+# Véhicule électrique
+## Engins agricoles et de chantier
+### Tractopelle
 
-La première tractopelle électrique de 26 t a été livrée par Caterpillar à une société de construction norvégienne en janvier 2019. Sa batterie de 300 kWh pèse 3,4 t et procure une autonomie de 5 à 7 h en opération, ce qui correspond aux usages d’une majorité de clients.
+La première tractopelle électrique de 26 t a été livrée par Caterpillar à une société de construction norvégienne en janvier 2019. Sa batterie de 300 kWh pèse 3,4 t et procure une autonomie de 5 à 7 h en opération, ce qui correspond aux usages d’une majorité de clients.
 
-# Véhicule électrique :
-## Engins agricoles et de chantier :
-### Chargeuse à chenille :
+# Véhicule électrique
+## Engins agricoles et de chantier
+### Chargeuse à chenille
 
-Bobcat présente en janvier 2022 la « T7X », première chargeuse à chenille électrique. Sa batterie de 62 kWh promet une autonomie de 4 h maximum.
+Bobcat présente en janvier 2022 la « T7X », première chargeuse à chenille électrique. Sa batterie de 62 kWh promet une autonomie de 4 h maximum.
 
-# Véhicule électrique :
-## Engins agricoles et de chantier :
-### Dameuse de piste de ski :
+# Véhicule électrique
+## Engins agricoles et de chantier
+### Dameuse de piste de ski
 
-En 2019, le fabricant allemand Kässbohrer présente sa première dameuse électrique, la Pisten Bully 100E. En janvier 2021, le constructeur italien Prinoth lance son projet Clear Motion d'électrification de sa gamme avec l’engin de damage Husky eMotion, 100 % électrique, destiné surtout aux pistes de ski de fond, et vers 2025 la dameuse à hydrogène Leitwolf H2Motion.
-En 2023, la Compagnie des Alpes commande huit dameuses électriques de présérie à la société iséroise CM Dupon, deux pour l'hiver 2023-2024 et six pour le suivant. La première dameuse électrique vendue en France a été achetée en 2022 à Prinoth par la station de Val-Cenis, en Savoie. Les dameuses sont responsables de 94 % du bilan carbone des stations de ski, selon Domaines skiables de France.
+En 2019, le fabricant allemand Kässbohrer présente sa première dameuse électrique, la Pisten Bully 100E. En janvier 2021, le constructeur italien Prinoth lance son projet Clear Motion d'électrification de sa gamme avec l’engin de damage Husky eMotion, 100 % électrique, destiné surtout aux pistes de ski de fond, et vers 2025 la dameuse à hydrogène Leitwolf H2Motion.
+En 2023, la Compagnie des Alpes commande huit dameuses électriques de présérie à la société iséroise CM Dupon, deux pour l'hiver 2023-2024 et six pour le suivant. La première dameuse électrique vendue en France a été achetée en 2022 à Prinoth par la station de Val-Cenis, en Savoie. Les dameuses sont responsables de 94 % du bilan carbone des stations de ski, selon Domaines skiables de France.
 
-# Véhicule électrique :
-## Secteur aérien :
+# Véhicule électrique
+## Secteur aérien
 
 Le transport aérien a longtemps été réputé incompatible avec cette motorisation, l'énergie massique du stockage électrique étant trop faible. Toutefois, dans certains domaines, la charge utile peut être très abaissée, tels le loisir et le vol sans pilote.
 Des hybrides captant de l'énergie solaire, cinétique et pondérale potentielle ont été expérimentés. De nombreux projets à long terme ont vu le jour.
 
-# Véhicule électrique :
-## Secteur aérien :
-### Applications avec pilote :
+# Véhicule électrique
+## Secteur aérien
+### Applications avec pilote
 
-La masse des nouvelles batteries permet des développements tels que :
-* les motoplaneurs ultra-légers. Le vol se poursuit en mode planeur après le décollage, après rétraction de l'hélice dans le fuselage. Plusieurs modèles sont disponibles sur le marché : « Apis E », « Silent E », « Alatus ME » « Lange Antares 20E » ;
-* des ULM pendulaires à moteur électrique, comme l'Electro-Trike d'Electravia ;
+La masse des nouvelles batteries permet des développements tels que :
+* les motoplaneurs ultra-légers. Le vol se poursuit en mode planeur après le décollage, après rétraction de l'hélice dans le fuselage. Plusieurs modèles sont disponibles sur le marché : « Apis E », « Silent E », « Alatus ME » « Lange Antares 20E » ;
+* des ULM pendulaires à moteur électrique, comme l'Electro-Trike d'Electravia ;
 * le premier hélicoptère à propulsion électrique au monde, développé par le Français Pascal Chrétien et Solution F. Ce démonstrateur technologique a effectué ses premiers vols du 4 au 12 août 2011.
 
-# Véhicule électrique :
-## Secteur aérien :
-### Projets novateurs des années 2007-2017 :
+# Véhicule électrique
+## Secteur aérien
+### Projets novateurs des années 2007-2017
 
-Des développements se poursuivent pour améliorer les performances de l'ensemble propulsif et font l'objet de multiples projets, tant dans les universités que chez les industriels. Bien évidemment, l’idéal est de recharger les batteries en vol, au moins en partie, ce qui est envisageable par des panneaux solaires ou par l'utilisation du moteur en générateur électrique à l'occasion d'une descente prolongée, hélice en moulinet. Cette conception permet de réaliser un vol diurne au gré du soleil. L'évolution des performances des panneaux solaires photovoltaïques, en performance et coûts, est telle que cette idée n'est plus une utopie (cf prototype Icare 2). Un appareil électrique modèle réduit, appelé SoLong UAV, (avec batteries et panneaux solaires), a volé plus de 24 h, puis plus de 48 h en Californie en 2005.
-Le 23 décembre 2007 a eu lieu le premier vol de l'avion BL1E Electra, équipé d'un moteur électrique de 26 ch (19 kW) et de batteries lithium-polymère. Le pilote–ingénieur d'essais Christian Vandamme, membre de l'équipe Electravia et de l'association APAME (Association pour la promotion des aéronefs à motorisation électrique), a réalisé ce vol historique de 48 min à partir de l'aérodrome d'Aspres sur Buëch (Alpes du Sud). Le BL1E Electra est le premier avion électrique au monde.
+Des développements se poursuivent pour améliorer les performances de l'ensemble propulsif et font l'objet de multiples projets, tant dans les universités que chez les industriels. Bien évidemment, l’idéal est de recharger les batteries en vol, au moins en partie, ce qui est envisageable par des panneaux solaires ou par l'utilisation du moteur en générateur électrique à l'occasion d'une descente prolongée, hélice en moulinet. Cette conception permet de réaliser un vol diurne au gré du soleil. L'évolution des performances des panneaux solaires photovoltaïques, en performance et coûts, est telle que cette idée n'est plus une utopie (cf prototype Icare 2). Un appareil électrique modèle réduit, appelé SoLong UAV, (avec batteries et panneaux solaires), a volé plus de 24 h, puis plus de 48 h en Californie en 2005.
+Le 23 décembre 2007 a eu lieu le premier vol de l'avion BL1E Electra, équipé d'un moteur électrique de 26 ch (19 kW) et de batteries lithium-polymère. Le pilote–ingénieur d'essais Christian Vandamme, membre de l'équipe Electravia et de l'association APAME (Association pour la promotion des aéronefs à motorisation électrique), a réalisé ce vol historique de 48 min à partir de l'aérodrome d'Aspres sur Buëch (Alpes du Sud). Le BL1E Electra est le premier avion électrique au monde.
 Des projets associant propulsion électrique, panneaux photovoltaïques et pile à combustible font aussi l'objet d'études en vue de pouvoir réaliser des vols de longue durée à haute altitude.
-Le projet de tour du monde en avion solaire Solar Impulse est en développement dès 2003 en Suisse à l'initiative des Suisses Bertrand Piccard et André Borschberg, qui ont déjà réalisé, du 7 juillet 2010 au 8 juillet 2010, un vol de 26 h et 9 min sans interruption comprenant une nuit entière. Le premier tour du monde en avion, avec escales, propulsé uniquement par l'énergie solaire est réalisé en 2016 avec Bertrand Piccard à ses commandes.
-Le 5 septembre 2010, le bimoteur de construction amateur MC15E Cri-Cri a établi un record absolu de vitesse en avion 100 % électrique à 262 km/h lors du meeting de Pontoise, en présence des commissaires de l'Aéro-Club de France.
-Le 13 avril 2011 le démonstrateur MC30E de la société luxembourgeoise LSA piloté par Jean-Luc Soullier, a établi lors du salon Aero Friedrischafen le premier record FAI impliquant un aéronef à propulsion électrique, en volant à 135 km/h sur un aller retour de deux fois 15 km, mais il n'a pas pu obtenir son homologation. Les trois tentatives suivantes en altitude, vitesse sur circuit et distance sur circuit (numéro FAI 16495, 16496 et 16497 du 27 février 2012) ont par contre bien été homologuées par la FAI, devenant les premières du genre hors aéronef à propulsion solaire et paramoteurs. Avec une efficacité énergétique équivalente à 3,4 g de carburant fossile dépensé par kilomètre parcouru en ligne droite et à altitude constante (soit 5 kWh à la vitesse de finesse maximale de 125 km/h), cet aéronef est l'objet volant piloté le plus économique jamais mis en opérations. Un dernier record de vitesse sur aller/retour de 15 km a été établi en RAL1E à 189,97 km/h le 29 septembre 2012 (numéro FAI 16638), puis homologué, le MC30E devenant de ce fait le véhicule aérien électrique piloté, le plus rapide, bénéficiant d'une homologation FAI.
-Le premier hélicoptère à propulsion électrique au monde est français ; développé par Pascal Chrétien et Solution F, ce démonstrateur technologique vole du 4 au 12 août 2011.
-Le 25 avril 2014, l'avion électrique E-Fan, qui a été présenté par Airbus Group au Salon de Bourget en 2013, a réalisé son premier vol officiel ; long de 6,7 mètres et large de 9,5 mètres, il a une autonomie de batteries (lithium-ion-polymère) d'une heure maximum. D'ici fin 2017, il sera produit en série, dans une future usine d'assemblage à Mérignac, créant 350 emplois indirects locaux. Il sera commercialisé comme avion-école ; le marché des avions-école est évalué à 21 000 avions sur 20 ans ; la production en série portera sur deux modèles, différents de celui qui a été présenté, (l'E-Fan 1, avec deux sièges en tandem) : l'E-Fan 2, avec deux sièges côte à côte, et l'E-Fan 4, à quatre sièges, avec une autonomie programmée de plus de trois heures. Une étude de marché d'Airbus Group vise un scénario de fabrication de 40 à 80 avions électriques par an ; pour Airbus, c'est une première étape dans la production de générations successives d'avions électriques de tailles croissantes, jusqu'à la construction d'avions gros porteurs tout électriques dans les vingt prochaines années.
+Le projet de tour du monde en avion solaire Solar Impulse est en développement dès 2003 en Suisse à l'initiative des Suisses Bertrand Piccard et André Borschberg, qui ont déjà réalisé, du 7 juillet 2010 au 8 juillet 2010, un vol de 26 h et 9 min sans interruption comprenant une nuit entière. Le premier tour du monde en avion, avec escales, propulsé uniquement par l'énergie solaire est réalisé en 2016 avec Bertrand Piccard à ses commandes.
+Le 5 septembre 2010, le bimoteur de construction amateur MC15E Cri-Cri a établi un record absolu de vitesse en avion 100 % électrique à 262 km/h lors du meeting de Pontoise, en présence des commissaires de l'Aéro-Club de France.
+Le 13 avril 2011 le démonstrateur MC30E de la société luxembourgeoise LSA piloté par Jean-Luc Soullier, a établi lors du salon Aero Friedrischafen le premier record FAI impliquant un aéronef à propulsion électrique, en volant à 135 km/h sur un aller retour de deux fois 15 km, mais il n'a pas pu obtenir son homologation. Les trois tentatives suivantes en altitude, vitesse sur circuit et distance sur circuit (numéro FAI 16495, 16496 et 16497 du 27 février 2012) ont par contre bien été homologuées par la FAI, devenant les premières du genre hors aéronef à propulsion solaire et paramoteurs. Avec une efficacité énergétique équivalente à 3,4 g de carburant fossile dépensé par kilomètre parcouru en ligne droite et à altitude constante (soit 5 kWh à la vitesse de finesse maximale de 125 km/h), cet aéronef est l'objet volant piloté le plus économique jamais mis en opérations. Un dernier record de vitesse sur aller/retour de 15 km a été établi en RAL1E à 189,97 km/h le 29 septembre 2012 (numéro FAI 16638), puis homologué, le MC30E devenant de ce fait le véhicule aérien électrique piloté, le plus rapide, bénéficiant d'une homologation FAI.
+Le premier hélicoptère à propulsion électrique au monde est français ; développé par Pascal Chrétien et Solution F, ce démonstrateur technologique vole du 4 au 12 août 2011.
+Le 25 avril 2014, l'avion électrique E-Fan, qui a été présenté par Airbus Group au Salon de Bourget en 2013, a réalisé son premier vol officiel ; long de 6,7 mètres et large de 9,5 mètres, il a une autonomie de batteries (lithium-ion-polymère) d'une heure maximum. D'ici fin 2017, il sera produit en série, dans une future usine d'assemblage à Mérignac, créant 350 emplois indirects locaux. Il sera commercialisé comme avion-école ; le marché des avions-école est évalué à 21 000 avions sur 20 ans ; la production en série portera sur deux modèles, différents de celui qui a été présenté, (l'E-Fan 1, avec deux sièges en tandem) : l'E-Fan 2, avec deux sièges côte à côte, et l'E-Fan 4, à quatre sièges, avec une autonomie programmée de plus de trois heures. Une étude de marché d'Airbus Group vise un scénario de fabrication de 40 à 80 avions électriques par an ; pour Airbus, c'est une première étape dans la production de générations successives d'avions électriques de tailles croissantes, jusqu'à la construction d'avions gros porteurs tout électriques dans les vingt prochaines années.
 En 2016, un prototype d'hélicoptère à propulsion électrique, le Volta construit par une PME toulousaine, débute ses premiers vols en France.
-Mis au point par Airbus, Siemens et Rolls Royce, l’avion hybride e-Fan X réalisera son premier vol en 2020 après une campagne d’essai au sol ; Airbus se chargera de l’intégration globale du système de propulsion hybride et des batteries ; Rolls Royce fournira le turbomoteur, générateur de deux mégawatts et l’ensemble de l’électronique de puissance ; Siemens s’occupera des moteurs électriques, du convertisseur et du système de distribution de puissance. Les phases de décollage et de montée en altitude seront soutenues par des batteries lithium-ion, chacune d’elles disposant d’une puissance de 700 kilowatts. La technologie hybride doit permettre de réduire les émissions de CO₂ de 60 % et celles d’oxydes d'azote de 90 %, et de réduire le bruit de 75 %.
+Mis au point par Airbus, Siemens et Rolls Royce, l’avion hybride e-Fan X réalisera son premier vol en 2020 après une campagne d’essai au sol ; Airbus se chargera de l’intégration globale du système de propulsion hybride et des batteries ; Rolls Royce fournira le turbomoteur, générateur de deux mégawatts et l’ensemble de l’électronique de puissance ; Siemens s’occupera des moteurs électriques, du convertisseur et du système de distribution de puissance. Les phases de décollage et de montée en altitude seront soutenues par des batteries lithium-ion, chacune d’elles disposant d’une puissance de 700 kilowatts. La technologie hybride doit permettre de réduire les émissions de CO₂ de 60 % et celles d’oxydes d'azote de 90 %, et de réduire le bruit de 75 %.
 
-# Véhicule électrique :
-## Secteur aérien :
-### Projets à court terme :
+# Véhicule électrique
+## Secteur aérien
+### Projets à court terme
 
 Les phases de roulages et de décollages des avions sont très consommatrices d'énergie, alors que toutes les deux peuvent-être assistés par des moyens externes à l'avion, (les porte-avions ont d'ailleurs nécessité des développements techniques, déjà anciens, dans ce sens). Au moins pour le roulage des projets de robot de roulage sont à l'étude.
 Avinor, organisme norvégien chargé du transport aérien, estime que tous les vols d’une durée de jusqu’à 1,5 heure pourront être assurés par des avions totalement électriques d'ici 2040, et va prochainement lancer un appel d’offres pour tester la technologie avec un petit appareil de 19 places dont les premiers essais pourraient commencer dès 2025.
 
-# Véhicule électrique :
-## Secteur aérien :
-### Projets à long terme :
+# Véhicule électrique
+## Secteur aérien
+### Projets à long terme
 
-L'Union européenne, Airbus Group et de nombreux industriels et laboratoires se sont associés dans des projets « VoltAir ».
+L'Union européenne, Airbus Group et de nombreux industriels et laboratoires se sont associés dans des projets « VoltAir ».
 
-# Véhicule électrique :
-## Secteur aérien :
-### Modélisme :
+# Véhicule électrique
+## Secteur aérien
+### Modélisme
 
 Depuis quelques années et la démocratisation de l'utilisation des accumulateurs lithium-polymère (LiPo), le monde du modélisme radio-commandé s'est considérablement transformé.
-Le poids de ces accumulateurs est nettement moins important que les générations précédentes (NiMh ou NiCd), à pouvoir de décharge équivalent, et associé à des moteurs à haut rendement (« brushless »), permet une utilisation dans bon nombre d'applications.
-Ainsi le vol en salle (« indoor »), initialement réservé à des appareils ultra légers (catégorie « cacahuète ») à propulsion par moteur à caoutchouc, est désormais quasi acquis à la cause électrique, de la maquette à l'avion de voltige et les hélicoptères de quasi de toutes tailles (selon la taille de la salle).
-On retrouve l'utilisation de l'électrique dans tous les domaines du radio-modélisme : naval, sur roues, aérien (avion, planeur, jet, hélicoptère).
-À titre d'indication, le record du monde de durée d'un vol sans couper le moteur a été établi en France le 30 juillet 2008 à la Selles-Saint-Denis par l'équipe Vincent Labrouve et Daniel Lentin avec un appareil « Volenbulle XXL », avec un temps de 12 h 36 min 46 s.
+Le poids de ces accumulateurs est nettement moins important que les générations précédentes (NiMh ou NiCd), à pouvoir de décharge équivalent, et associé à des moteurs à haut rendement (« brushless »), permet une utilisation dans bon nombre d'applications.
+Ainsi le vol en salle (« indoor »), initialement réservé à des appareils ultra légers (catégorie « cacahuète ») à propulsion par moteur à caoutchouc, est désormais quasi acquis à la cause électrique, de la maquette à l'avion de voltige et les hélicoptères de quasi de toutes tailles (selon la taille de la salle).
+On retrouve l'utilisation de l'électrique dans tous les domaines du radio-modélisme : naval, sur roues, aérien (avion, planeur, jet, hélicoptère).
+À titre d'indication, le record du monde de durée d'un vol sans couper le moteur a été établi en France le 30 juillet 2008 à la Selles-Saint-Denis par l'équipe Vincent Labrouve et Daniel Lentin avec un appareil « Volenbulle XXL », avec un temps de 12 h 36 min 46 s.
 La technologie LiPo est la plus répandue, mais des nouvelles générations d'accumulateurs sont désormais disponibles proposant un pouvoir de décharge encore supérieur (légèrement plus lourds, ils sont utiles uniquement dans certains domaines d'applications), comme les LiFePo₄ (batteries nanophosphate).
 
-# Véhicule électrique :
-## Navires :
+# Véhicule électrique
+## Navires
 
-L'électricité comme mode de propulsion d'un navire est apparue très tôt : l'allemand Siemens a déposé ses premiers brevets sur le sujet dès 1886. Si l'énergie initiale reste au xxᵉ siècle très majoritairement thermique, même pour les navires commerciaux et militaires, la force motrice électrique progresse assez rapidement, par comparaison. Elle permet notamment de limiter la pollution générée et de réduire la taille de la salle des machines.
+L'électricité comme mode de propulsion d'un navire est apparue très tôt : l'allemand Siemens a déposé ses premiers brevets sur le sujet dès 1886. Si l'énergie initiale reste au xxᵉ siècle très majoritairement thermique, même pour les navires commerciaux et militaires, la force motrice électrique progresse assez rapidement, par comparaison. Elle permet notamment de limiter la pollution générée et de réduire la taille de la salle des machines.
 Aujourd'hui, grâce à des capacités de stockage bien supérieures, les ingénieurs travaillent sur des bateaux de nouvelle génération.
 
-# Véhicule électrique :
-## Navires :
-### Types de propulsion :
+# Véhicule électrique
+## Navires
+### Types de propulsion
 
 Le schéma traditionnel de propulsion est l'arbre d'hélices traversant la coque, mu par des turbines à vapeur ou plus souvent par des moteurs thermiques. Des solutions motrices électriques sont aujourd'hui employées, même pour de très grandes puissances. Des pods remplacent parfois l'arbre des hélices principales, y compris sur les plus grands navires tels le Harmony of the Seas. Les hélices secondaires de sortie de port, ou propulseurs d'étrave, sont le plus souvent également électriques, du fait de leur puissance et de leur rapide variation de vitesse et sens.
 La propulsion électrique des navires peut se faire selon des techniques parfois complémentaires, à l'image des automobiles électriques et hybrides.
 
-# Véhicule électrique :
-## Navires :
-### Types de propulsion :
-#### 100 % électrique :
+# Véhicule électrique
+## Navires
+### Types de propulsion
+#### 100 % électrique
 
-Les avantages de la propulsion électrique sont :
-* la simplification de la chaîne cinématique, séparant physiquement production de l'énergie mécanique initiale et propulsion. Cela facilite les répartitions des volumes, des encombrements et des masses ;
-* une grande diminution des résonances harmoniques ;
+Les avantages de la propulsion électrique sont :
+* la simplification de la chaîne cinématique, séparant physiquement production de l'énergie mécanique initiale et propulsion. Cela facilite les répartitions des volumes, des encombrements et des masses ;
+* une grande diminution des résonances harmoniques ;
 * une plus grande vélocité et vivacité des rotations du bâtiment.
 Elle convient surtout pour des eaux calmes ou fermées, et sur de courtes distances du fait de l'autonomie limitée des batteries.
-Quelques exemples de navires entièrement électriques :
-* PlanetSolar, projet suisse initié par l'explorateur Raphaël Domjan, réalise entre 2010 et 2012 le premier tour du monde en bateau solaire. Il parcourt plus de 60 000 km uniquement propulsé à l'énergie solaire ;
+Quelques exemples de navires entièrement électriques :
+* PlanetSolar, projet suisse initié par l'explorateur Raphaël Domjan, réalise entre 2010 et 2012 le premier tour du monde en bateau solaire. Il parcourt plus de 60 000 km uniquement propulsé à l'énergie solaire ;
 * le navire Z2R, développé par Zin Boats, une start-up sise à Seattle, est de type hors-bord et utilise une batterie BMW couplée à un moteur Torqeedo. Grandement inspiré par les technologies du secteur automobile, le navire dispose également de logiciels d'aide à la conduite. Le Z2R peut ainsi réguler sa vitesse automatiquement en fonction de la voie navigable sur laquelle il évolue, ajuster sa course de manière autonome.
 
-# Véhicule électrique :
-## Navires :
-### Types de propulsion :
-#### Diesel-électrique :
+# Véhicule électrique
+## Navires
+### Types de propulsion
+#### Diesel-électrique
 
 La propulsion Diesel-électrique fait fonctionner des moteurs Diesel couplés à des générateurs pour alimenter des moteurs électriques qui entraînent à leur tour les hélices. Elle permet de moduler le nombre de moteurs Diesel installés en fonction de la puissance nécessaire et de faire fonctionner ceux-ci à leur régime de consommation minimum.
 
-# Véhicule électrique :
-## Navires :
-### Types de propulsion :
-#### Hybride électrique :
+# Véhicule électrique
+## Navires
+### Types de propulsion
+#### Hybride électrique
 
 Les véhicules hybrides électriques semblent plus adaptée à de grandes vitesses, de longues distances et de forts courants marins.
-Quelques exemples de navires à propulsion électrique :
-* l'armateur français Ponant a commandé le premier brise-glace de croisière à propulsion hybride électrique, qui sera propulsé au GNL ;
-* le navire océanographique Sir David Attenborough, lancé par le gouvernement britannique, est un Diesel-électrique doté d'une autonomie de 35 000 km ;
-* l'armateur italien Grimaldi Lines recevra, de 2019 à 2021, neuf nouveaux ferrys équipés de batteries de 5,1 MWh ;
+Quelques exemples de navires à propulsion électrique :
+* l'armateur français Ponant a commandé le premier brise-glace de croisière à propulsion hybride électrique, qui sera propulsé au GNL ;
+* le navire océanographique Sir David Attenborough, lancé par le gouvernement britannique, est un Diesel-électrique doté d'une autonomie de 35 000 km ;
+* l'armateur italien Grimaldi Lines recevra, de 2019 à 2021, neuf nouveaux ferrys équipés de batteries de 5,1 MWh ;
 * Le suisse Leclanché livrera la propulsion électrique du Yara Birkeland, un porte-conteneurs norvégien qui transportera des produits chimiques et engrais.
 
-# Véhicule électrique :
-## Navires :
-### Types de navires :
-#### Bateaux de plaisance :
+# Véhicule électrique
+## Navires
+### Types de navires
+#### Bateaux de plaisance
 
-L'offre de bateaux électriques ou hybrides se développe : en 2013, la société Fortil a vendu en un an 900 bateaux électriques de plaisance équipés de panneaux solaires capables de recharger la batterie en deux heures ; le projet DEESSE a développé une navette hybride fonctionnant au Diesel et à l'électricité grâce à des batteries au lithium et des panneaux solaires photovoltaïques, puis une navette tout électrique à destination de la Guadeloupe, avec des batteries rechargeables apportant une autonomie de quinze heures.
+L'offre de bateaux électriques ou hybrides se développe : en 2013, la société Fortil a vendu en un an 900 bateaux électriques de plaisance équipés de panneaux solaires capables de recharger la batterie en deux heures ; le projet DEESSE a développé une navette hybride fonctionnant au Diesel et à l'électricité grâce à des batteries au lithium et des panneaux solaires photovoltaïques, puis une navette tout électrique à destination de la Guadeloupe, avec des batteries rechargeables apportant une autonomie de quinze heures.
 
-# Véhicule électrique :
-## Navires :
-### Types de navires :
-#### Bateaux de croisière :
+# Véhicule électrique
+## Navires
+### Types de navires
+#### Bateaux de croisière
 
-Sodexo engage un plan de transition énergétique pour sa flotte de 26 bateaux sur la Seine en remettant à l'eau en janvier 2023 son premier bateau de croisière 100 % électrique, Le Cachemire, long de 22 mètres, après quatre ans de travaux de transformation. Les bateaux de transport et de promenade (Batobus et Bateaux parisiens) recevront des systèmes hybrides.
+Sodexo engage un plan de transition énergétique pour sa flotte de 26 bateaux sur la Seine en remettant à l'eau en janvier 2023 son premier bateau de croisière 100 % électrique, Le Cachemire, long de 22 mètres, après quatre ans de travaux de transformation. Les bateaux de transport et de promenade (Batobus et Bateaux parisiens) recevront des systèmes hybrides.
 
-# Véhicule électrique :
-## Navires :
-### Types de navires :
-#### Ferrys :
+# Véhicule électrique
+## Navires
+### Types de navires
+#### Ferrys
 
-Des ferrys électriques de plus en plus puissants sont mis en service en Scandinavie : après le Elektra du finlandais FinnFerries (1 040 kWh) et l'Amper du norvégien Norled (1 000 kWh), l'Ellen (4 300 kWh) a été lancé en août 2019 au Danemark, à l'aide de subventions européennes, entre Ærø, une petite île du sud du pays, et le continent. Long de 60 mètres, l'Ellen peut transporter 200 passagers et 31 voitures. Au total, l'Union européenne compte lancer une dizaine d'e-ferrys dans les deux ans et plus d'une centaine d'ici à 2030.
+Des ferrys électriques de plus en plus puissants sont mis en service en Scandinavie : après le Elektra du finlandais FinnFerries (1 040 kWh) et l'Amper du norvégien Norled (1 000 kWh), l'Ellen (4 300 kWh) a été lancé en août 2019 au Danemark, à l'aide de subventions européennes, entre Ærø, une petite île du sud du pays, et le continent. Long de 60 mètres, l'Ellen peut transporter 200 passagers et 31 voitures. Au total, l'Union européenne compte lancer une dizaine d'e-ferrys dans les deux ans et plus d'une centaine d'ici à 2030.
 
-# Véhicule électrique :
-## Navires :
-### Types de navires :
-#### Sous-marins :
+# Véhicule électrique
+## Navires
+### Types de navires
+#### Sous-marins
 
-Dès 1860, la propulsion électrique des navires, avec des batteries, était utilisée pour les sous-marins de guerre. La très grande discrétion acoustique de ce moyen de propulsion était leur force. Avant l'apparition de la propulsion nucléaire navale appliquée au sous-marin, leurs déplacements en autonomie à faibles vitesses s'accompagnaient de désavantages techniques : une énergie consommée liée au cube de la vitesse, la recharge au schnorchel facilement détectable par l'ennemi, des batteries au plomb permettant une quantité d'énergie stockée très limitée, proportionnellement aux besoins. Cela ne leur permettait que difficilement plus de 20 h de plongée consécutives et leur imposait des vitesses très réduites en opération. Jusqu'en 1970, un moteur Diesel aspirant l'air par un schnorchel permettait les recharges (durant un tiers de la journée environ). Les nouveaux sous-marins ont maintenant plus souvent une énergie provenant d'une petite centrale nucléaire à bord (pour leur fonctionnement anaérobie, l'avantage acoustique qu'elles procurent et leur autonomie). Mais dans ce cas, la propulsion a une source d'énergie mécanique initiale provenant d'une turbine à vapeur. Elle parvient alors parfois à la propulsion par une chaîne d'énergie électrique.
+Dès 1860, la propulsion électrique des navires, avec des batteries, était utilisée pour les sous-marins de guerre. La très grande discrétion acoustique de ce moyen de propulsion était leur force. Avant l'apparition de la propulsion nucléaire navale appliquée au sous-marin, leurs déplacements en autonomie à faibles vitesses s'accompagnaient de désavantages techniques : une énergie consommée liée au cube de la vitesse, la recharge au schnorchel facilement détectable par l'ennemi, des batteries au plomb permettant une quantité d'énergie stockée très limitée, proportionnellement aux besoins. Cela ne leur permettait que difficilement plus de 20 h de plongée consécutives et leur imposait des vitesses très réduites en opération. Jusqu'en 1970, un moteur Diesel aspirant l'air par un schnorchel permettait les recharges (durant un tiers de la journée environ). Les nouveaux sous-marins ont maintenant plus souvent une énergie provenant d'une petite centrale nucléaire à bord (pour leur fonctionnement anaérobie, l'avantage acoustique qu'elles procurent et leur autonomie). Mais dans ce cas, la propulsion a une source d'énergie mécanique initiale provenant d'une turbine à vapeur. Elle parvient alors parfois à la propulsion par une chaîne d'énergie électrique.
 
-# Véhicule électrique :
-## Évolutions prévisibles :
-### Évolution liée à l'amélioration des batteries :
+# Véhicule électrique
+## Évolutions prévisibles
+### Évolution liée à l'amélioration des batteries
 
 Dans le courant de l'année 2005, l'idée de la voiture électrique a refait son apparition. Des projets portés par des industriels étrangers au monde de l'automobile ont misé sur des technologies de batteries nettement plus performantes que les antiques batteries au plomb. Quelques prototypes ont été produits, dont certains ont été conçus comme des véhicules à part entière et non pas comme des véhicules conventionnels électrifiés.
 L'évolution du marché du pétrole, des autres technologies de véhicules décarbonés et de la sensibilité de l'opinion publique sur les questions de pollution et de gaz à effet de serre ont relancé ces véhicules.
 Les batteries futures devraient être composées de matériaux recyclables et non polluants (c'est-à-dire sans métaux lourds), pour correspondre à cet idéal écologique. La traction électrique pourrait également se développer parallèlement aux véhicules munis de batteries.
 
-# Véhicule électrique :
-## Évolutions prévisibles :
-### Évolution liée à la modernisation des réseaux électriques :
+# Véhicule électrique
+## Évolutions prévisibles
+### Évolution liée à la modernisation des réseaux électriques
 
 La concentration des recharges de véhicules électriques, aux heures de rentrée des bureaux, fait craindre en hiver des pointes de consommation. L'anticipation de cette évolution technique par les fournisseurs d'énergie électrique leur fait préparer de nouveaux moyens de délestages spécifiques pour répartir ces charges.
-Un programme de gestion de l'énergie de type « véhicule-réseau » a obtenu l'agrément officiel pour son lancement par Nissan et le gestionnaire de réseau de transport d’électricité Amprion dans la ville de Hagen en Rhénanie-du-Nord-Westphalie, dans l'est de la Ruhr : les batteries de voitures électriques (Nissan Leaf), rechargées lorsque l’offre en électricité dépasse significativement la demande, seront utilisées en contrepartie comme sources d'énergie par le réseau lorsque l'offre sera insuffisante (manque de vent ou de soleil).
+Un programme de gestion de l'énergie de type « véhicule-réseau » a obtenu l'agrément officiel pour son lancement par Nissan et le gestionnaire de réseau de transport d’électricité Amprion dans la ville de Hagen en Rhénanie-du-Nord-Westphalie, dans l'est de la Ruhr : les batteries de voitures électriques (Nissan Leaf), rechargées lorsque l’offre en électricité dépasse significativement la demande, seront utilisées en contrepartie comme sources d'énergie par le réseau lorsque l'offre sera insuffisante (manque de vent ou de soleil).
 De même, certains constructeurs ont prévu une fonctionnalité permettant d'alimenter une maison (de plusieurs heures à plusieurs jours) en cas de coupure du réseau.
 
-# Véhicule électrique :
-## Évolutions prévisibles :
-### Évolution de la modalité d'usage :
+# Véhicule électrique
+## Évolutions prévisibles
+### Évolution de la modalité d'usage
 
 L’auto-partage de véhicules électriques se justifie facilement car il s'agit de technologies récentes, chères, dont l'entretien, la maintenance, la structure d'exploitation sont très spécialisées. C'est la voie choisie par exemple par Autolib' en Île-de-France. En tout, neuf projets se développent en France actuellement si on y rajoute le véhicule hybride de Strasbourg.
-Des recherches sur les automatismes et les réseaux intelligents pourraient aboutir avant 2020 à la production de véhicules de type « taxis collectifs », automatiques, ne nécessitant pas de rails, et pouvant aussi être rassemblés en « chenilles » (ex. : Taxicol). Les prospectivistes les imaginent éventuellement (type Taxicol) comme pouvant aussi être enterrés (au moins localement au profit de la trame verte et bleue urbaine, en supprimant des routes macadamisées et écologiquement fragmentantes).
-Ce type de véhicule pourrait bénéficier d'une source d'énergie plus écologique que le nucléaire ou les énergies carbonées. Il pourrait localement remplacer les voitures actuelles et intégrer une stratégie optimisant le « véhicule partagé » et la consommation d'énergie. La recharge par induction est encore source de gaspillage énergétique, mais le véhicule peut jouer le rôle de « batterie » dans une perspective de troisième révolution industrielle telle que développée par Jeremy Rifkin, de manière à mieux gérer les apports solaires ou éoliens ou l'impact des pointes de mobilité électrique sur la stabilité du réseau électrique qui au-delà d'un certain seuil devient critique (il faut une planification des recharges réparties sur la nuit et hors des pointes de la journée, pour éviter des problèmes possibles en hiver). Jeremy Rifkin propose notamment d'utiliser les véhicules comme des batteries mobiles qui peuvent déplacer de l'énergie électrique stockée dans l'espace-temps.
+Des recherches sur les automatismes et les réseaux intelligents pourraient aboutir avant 2020 à la production de véhicules de type « taxis collectifs », automatiques, ne nécessitant pas de rails, et pouvant aussi être rassemblés en « chenilles » (ex. : Taxicol). Les prospectivistes les imaginent éventuellement (type Taxicol) comme pouvant aussi être enterrés (au moins localement au profit de la trame verte et bleue urbaine, en supprimant des routes macadamisées et écologiquement fragmentantes).
+Ce type de véhicule pourrait bénéficier d'une source d'énergie plus écologique que le nucléaire ou les énergies carbonées. Il pourrait localement remplacer les voitures actuelles et intégrer une stratégie optimisant le « véhicule partagé » et la consommation d'énergie. La recharge par induction est encore source de gaspillage énergétique, mais le véhicule peut jouer le rôle de « batterie » dans une perspective de troisième révolution industrielle telle que développée par Jeremy Rifkin, de manière à mieux gérer les apports solaires ou éoliens ou l'impact des pointes de mobilité électrique sur la stabilité du réseau électrique qui au-delà d'un certain seuil devient critique (il faut une planification des recharges réparties sur la nuit et hors des pointes de la journée, pour éviter des problèmes possibles en hiver). Jeremy Rifkin propose notamment d'utiliser les véhicules comme des batteries mobiles qui peuvent déplacer de l'énergie électrique stockée dans l'espace-temps.
 
-# Véhicule électrique :
-## Évolutions prévisibles :
-### Scénarios prospectifs :
+# Véhicule électrique
+## Évolutions prévisibles
+### Scénarios prospectifs
 
-La Fondation européenne pour le climat (European Climate Foundation), présidée par Laurence Tubiana, a publié en février 2018 une étude sur les bénéfices économiques et environnementaux que pourrait apporter le développement de la mobilité électrique en Europe. Elle prévoit une part de marché de 23 % pour les véhicules électriques en 2030 et de 100 % en 2050 ; dans cette hypothèse, le recours à l’électromobilité permettrait à l’Europe de réduire d‘ici 2030 ses importations de pétrole de 49 milliards d'euros, de créer plus de 200 000 emplois nets supplémentaires et d’accroître le PIB annuel de 0,2 %. Lors de la présentation des résultats de l’étude, le vice-président de la Commission européenne Maroš Šefčovič a souligné l’importance de développer en Europe une industrie des batteries pour véhicules électriques, projet qu’il présente comme « l’Airbus des batteries ». L'étude explique la nécessité de développer les solutions de charge intelligente (smart charging) qui permettent d’éviter les pics de consommation et les techniques de charge bidirectionnelle (V2G) qui rendent possible la stabilisation du réseau ainsi le stockage des énergies intermittentes. Les bénéfices environnementaux seraient considérables : d’ici à 2050, les émissions des gaz à effet de serre des automobiles pourraient être réduites de 88 %, soit 70 Mt/an au lieu de 605 Mt/an actuellement ; pour les oxydes d'azote, les émissions chuteraient de 1,3 Mt à 70 kt chaque année ; les émissions annuelles de particules fines passeraient de 28 kt à seulement 750 t.
+La Fondation européenne pour le climat (European Climate Foundation), présidée par Laurence Tubiana, a publié en février 2018 une étude sur les bénéfices économiques et environnementaux que pourrait apporter le développement de la mobilité électrique en Europe. Elle prévoit une part de marché de 23 % pour les véhicules électriques en 2030 et de 100 % en 2050 ; dans cette hypothèse, le recours à l’électromobilité permettrait à l’Europe de réduire d‘ici 2030 ses importations de pétrole de 49 milliards d'euros, de créer plus de 200 000 emplois nets supplémentaires et d’accroître le PIB annuel de 0,2 %. Lors de la présentation des résultats de l’étude, le vice-président de la Commission européenne Maroš Šefčovič a souligné l’importance de développer en Europe une industrie des batteries pour véhicules électriques, projet qu’il présente comme « l’Airbus des batteries ». L'étude explique la nécessité de développer les solutions de charge intelligente (smart charging) qui permettent d’éviter les pics de consommation et les techniques de charge bidirectionnelle (V2G) qui rendent possible la stabilisation du réseau ainsi le stockage des énergies intermittentes. Les bénéfices environnementaux seraient considérables : d’ici à 2050, les émissions des gaz à effet de serre des automobiles pourraient être réduites de 88 %, soit 70 Mt/an au lieu de 605 Mt/an actuellement ; pour les oxydes d'azote, les émissions chuteraient de 1,3 Mt à 70 kt chaque année ; les émissions annuelles de particules fines passeraient de 28 kt à seulement 750 t.
 
-# Véhicule électrique :
-## Politiques publiques :
+# Véhicule électrique
+## Politiques publiques
 
-Dans certaines grandes villes françaises, des « zones à faibles émissions » (ZFE) sont définies. Sont ainsi concernées de Paris, Grenoble, Lyon et une dizaine d'autres prévues en 2021.
+Dans certaines grandes villes françaises, des « zones à faibles émissions » (ZFE) sont définies. Sont ainsi concernées de Paris, Grenoble, Lyon et une dizaine d'autres prévues en 2021.
 L'objectif est de réduire la pollution automobile des villes en limitant leur accès aux véhicules munis des certificats Crit'air correspondants aux véhicules les moins polluants.
-En novembre 2023, Khalid Al-Falih, ministre de l’Investissement de l'Arabie saoudite, annonce un plan pour le développement des véhicules électriques : il compte investir dans la production de batteries pour voitures électriques, dans la fabrication de véhicules à hydrogène et produire 500 000 véhicules électriques par an en 2030.
+En novembre 2023, Khalid Al-Falih, ministre de l’Investissement de l'Arabie saoudite, annonce un plan pour le développement des véhicules électriques : il compte investir dans la production de batteries pour voitures électriques, dans la fabrication de véhicules à hydrogène et produire 500 000 véhicules électriques par an en 2030.
 
-# Véhicule électrique :
-## Politiques publiques :
-### Incitation en Europe :
+# Véhicule électrique
+## Politiques publiques
+### Incitation en Europe
 
-Pour stimuler le développement des transports « zéro émission », des municipalités accordent une série de privilèges aux véhicules électriques : ainsi, la ville de Rotterdam favorise en 2018 les véhicules utilitaires et taxis électriques en leur permettant d'utiliser les voies réservées aux transports en commun et d'effectuer des livraisons sur un créneau qui leur est réservé en soirée.
+Pour stimuler le développement des transports « zéro émission », des municipalités accordent une série de privilèges aux véhicules électriques : ainsi, la ville de Rotterdam favorise en 2018 les véhicules utilitaires et taxis électriques en leur permettant d'utiliser les voies réservées aux transports en commun et d'effectuer des livraisons sur un créneau qui leur est réservé en soirée.
 
-# Véhicule électrique :
-## Politiques publiques :
-### Rétrofit électrique :
+# Véhicule électrique
+## Politiques publiques
+### Rétrofit électrique
 
 Le rétrofit électrique, ou conversion électrique, consiste à supprimer des éléments spécifiques au moteur thermique (essence ou Diesel) pour le remplacer par un bloc moteur électrique et des batteries. L'homologation du rétrofit a été accordée en France en mars 2020. Le rétrofit bénéficie d'aides publiques.
-Le gouvernement égyptien lance le 5 juin 2023 un programme de rétrofit à grande échelle : la start-up Shift EV prévoit de convertir 100 000 véhicules à combustion interne, dont 80 000 camionnettes et 20 000 monospaces, et BluEV se lance dans la conversion des véhicules à deux et trois roues. L’Égypte compte déployer une stratégie pour structurer la production nationale de véhicules électriques : le gouvernement égyptien a conclu des accords avec Foton et Geely pour produire des bus et des voitures électriques en Égypte, et El Nasr, l’entreprise de construction automobile historique du pays, a signé un accord avec la société chinoise Dongfeng Motor Corporation pour fabriquer des voitures électriques en Égypte.
+Le gouvernement égyptien lance le 5 juin 2023 un programme de rétrofit à grande échelle : la start-up Shift EV prévoit de convertir 100 000 véhicules à combustion interne, dont 80 000 camionnettes et 20 000 monospaces, et BluEV se lance dans la conversion des véhicules à deux et trois roues. L’Égypte compte déployer une stratégie pour structurer la production nationale de véhicules électriques : le gouvernement égyptien a conclu des accords avec Foton et Geely pour produire des bus et des voitures électriques en Égypte, et El Nasr, l’entreprise de construction automobile historique du pays, a signé un accord avec la société chinoise Dongfeng Motor Corporation pour fabriquer des voitures électriques en Égypte.
 
-# Véhicule électrique :
-## Impact environnemental :
-### Ozone troposphérique :
+# Véhicule électrique
+## Impact environnemental
+### Ozone troposphérique
 
-Certains moteurs électriques émettent un peu d'ozone (comme polluant primaire et non comme polluant secondaire produit via la photochimie comme dans le cas des véhicules thermiques à essence ou gazole) et des NOx. Un moteur défectueux peut produire une quantité notable d'ozone (un ozoniseur industriel peut avec 3,8 kW consommés produire 215 g d'ozone par mètre cube, 90 mg/m³ étant le maximum qu'il est recommandé de ne pas dépasser pour la santé). Toutefois les moteurs récents à rotor à aimants permanents dits « moteurs sans balais » n’ont plus cet inconvénient car ils sont dénués de charbons et de balais dont le frottement avec le rotor était à l’origine des étincelles (entre les charbons et le rotor) qui donnaient l'odeur caractéristique du moteur électrique et produisaient l’ozone. Les voitures électriques et hybrides produites depuis 2010 sont toutes dotées de ce type de moteurs à aimants permanents.
-L'ozone est le polluant qui diminue le moins depuis 20 ans principalement à cause des moteurs à combustion interne des véhicules automobiles, qui émettent également de l'ozone troposphérique ; le développement des véhicules électriques à moteurs à aimants permanents devrait donc contribuer à diminuer cette pollution.
+Certains moteurs électriques émettent un peu d'ozone (comme polluant primaire et non comme polluant secondaire produit via la photochimie comme dans le cas des véhicules thermiques à essence ou gazole) et des NOx. Un moteur défectueux peut produire une quantité notable d'ozone (un ozoniseur industriel peut avec 3,8 kW consommés produire 215 g d'ozone par mètre cube, 90 mg/m³ étant le maximum qu'il est recommandé de ne pas dépasser pour la santé). Toutefois les moteurs récents à rotor à aimants permanents dits « moteurs sans balais » n’ont plus cet inconvénient car ils sont dénués de charbons et de balais dont le frottement avec le rotor était à l’origine des étincelles (entre les charbons et le rotor) qui donnaient l'odeur caractéristique du moteur électrique et produisaient l’ozone. Les voitures électriques et hybrides produites depuis 2010 sont toutes dotées de ce type de moteurs à aimants permanents.
+L'ozone est le polluant qui diminue le moins depuis 20 ans principalement à cause des moteurs à combustion interne des véhicules automobiles, qui émettent également de l'ozone troposphérique ; le développement des véhicules électriques à moteurs à aimants permanents devrait donc contribuer à diminuer cette pollution.
 
-# Véhicule électrique :
-## Sûreté et sécurité :
+# Véhicule électrique
+## Sûreté et sécurité
 
-Les problèmes de sécurité des véhicules électriques sont traités par le standard international ISO 6469, document divisé en trois parties :
-* stockage de l'énergie à bord ;
-* moyens fonctionnels de sécurité et protection contre les échecs ;
+Les problèmes de sécurité des véhicules électriques sont traités par le standard international ISO 6469, document divisé en trois parties :
+* stockage de l'énergie à bord ;
+* moyens fonctionnels de sécurité et protection contre les échecs ;
 * protection des personnes contre les risques électriques.
 
-# Véhicule électrique :
-## Compétition et Records :
+# Véhicule électrique
+## Compétition et Records
 
-Depuis le record de vitesse remarquable pour l'époque de la Jamais contente en 1899 avec une vitesse de plus de 100 km/h, plusieurs véhicules électriques ponctuent l'Histoire de nouvelles performances représentatives de progrès technologiques constants, bien que ralentis par la domination industrielle des véhicules à moteur thermique au XXᵉ siècle.
+Depuis le record de vitesse remarquable pour l'époque de la Jamais contente en 1899 avec une vitesse de plus de 100 km/h, plusieurs véhicules électriques ponctuent l'Histoire de nouvelles performances représentatives de progrès technologiques constants, bien que ralentis par la domination industrielle des véhicules à moteur thermique au XXᵉ siècle.
 
-# Véhicule électrique :
-## Compétition et Records :
-### Catégorie moto :
+# Véhicule électrique
+## Compétition et Records
+### Catégorie moto
 
-En 2009, Le record du monde de vitesse a été établi par la Mission One de la société californienne Mission Motors (en), conçue par le Suisse Yves Béhar, qui a atteint une vitesse moyenne de 241,497 km/h sur la piste du Grand Lac Salé.
-En octobre 2020, le record vitesse réalisé par une moto électrique a été officialisé par la Wattman de Voxan avec une moyenne de 366,94 km/h et une pointe enregistrée à 408 km/h. Ce record pourrait être disputé par la White Motorcycle Concepts WMC250EV.
-Le 22 novembre 2021 aux États-Unis, Voxan a battu ses propres chiffres de vitesse à la fois en version carénée aérodynamique et non carénée avec un total de 21 nouveaux records. Max Biaggi, pilote italien, a atteint une vitesse de pointe de 470 km/h et une vitesse moyenne officialisée de 455,737 km/h avec la version carénée.
-Les premières compétitions de moto trial-électrique en France, nommées par les journalistes « e-trial », sont organisées depuis 2016 par la fédération nationale. Le trialiste bretillien Martin Pochez est le premier à rouler en électrique au niveau national et à accéder au podium en catégorie France Expert.
+En 2009, Le record du monde de vitesse a été établi par la Mission One de la société californienne Mission Motors (en), conçue par le Suisse Yves Béhar, qui a atteint une vitesse moyenne de 241,497 km/h sur la piste du Grand Lac Salé.
+En octobre 2020, le record vitesse réalisé par une moto électrique a été officialisé par la Wattman de Voxan avec une moyenne de 366,94 km/h et une pointe enregistrée à 408 km/h. Ce record pourrait être disputé par la White Motorcycle Concepts WMC250EV.
+Le 22 novembre 2021 aux États-Unis, Voxan a battu ses propres chiffres de vitesse à la fois en version carénée aérodynamique et non carénée avec un total de 21 nouveaux records. Max Biaggi, pilote italien, a atteint une vitesse de pointe de 470 km/h et une vitesse moyenne officialisée de 455,737 km/h avec la version carénée.
+Les premières compétitions de moto trial-électrique en France, nommées par les journalistes « e-trial », sont organisées depuis 2016 par la fédération nationale. Le trialiste bretillien Martin Pochez est le premier à rouler en électrique au niveau national et à accéder au podium en catégorie France Expert.
 
-# Véhicule électrique :
-## Compétition et Records :
-### Catégorie auto :
+# Véhicule électrique
+## Compétition et Records
+### Catégorie auto
 
-La Venturi VBB-3 détient le record absolu de vitesse depuis 2016, enregistrant une moyenne de 549,43 km/h ainsi qu'une vitesse maximale de 576 km/h. Surnommée la Jamais contente en hommage au premier véhicule automobile à avoir franchi le cap des 100 km/h, elle est une déclinaison des Venturi Buckeye Bullet VBB 2 et VBB 2.5 la précédant.
-À Pikes Peak International Hill Climb, au volant d'une Volkswagen ID.R Pikes Peak, le pilote français Romain Dumas bat le record précédent établi en 2013 en 8 min 13 s 878 par Sébastien Loeb sur une voiture thermique. Il passe la ligne d'arrivée après 7 min 57 s 148 de course.
-La Tesla Model S Plaid a battu le record du tour du circuit du Nürburgring en véhicule électrique de série non modifié en septembre 2021, établissant un chrono de 7 min 30 s 909, soit 12 secondes de mieux que la Porsche Taycan Turbo détentrice de l'ancien record en 2019.
+La Venturi VBB-3 détient le record absolu de vitesse depuis 2016, enregistrant une moyenne de 549,43 km/h ainsi qu'une vitesse maximale de 576 km/h. Surnommée la Jamais contente en hommage au premier véhicule automobile à avoir franchi le cap des 100 km/h, elle est une déclinaison des Venturi Buckeye Bullet VBB 2 et VBB 2.5 la précédant.
+À Pikes Peak International Hill Climb, au volant d'une Volkswagen ID.R Pikes Peak, le pilote français Romain Dumas bat le record précédent établi en 2013 en 8 min 13 s 878 par Sébastien Loeb sur une voiture thermique. Il passe la ligne d'arrivée après 7 min 57 s 148 de course.
+La Tesla Model S Plaid a battu le record du tour du circuit du Nürburgring en véhicule électrique de série non modifié en septembre 2021, établissant un chrono de 7 min 30 s 909, soit 12 secondes de mieux que la Porsche Taycan Turbo détentrice de l'ancien record en 2019.

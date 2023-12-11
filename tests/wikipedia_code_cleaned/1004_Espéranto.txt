@@ -3,39 +3,39 @@ Fondée sur une grammaire régulière sans exception, l'espéranto est une langu
 C’est en 1887 que Louis-Lazare Zamenhof, sous le pseudonyme Doktoro Esperanto (Docteur « Espérant ») qui donnera par la suite son nom à la langue, publie le projet Langue Internationale. La langue a connu un rapide développement dès les premières années, donnant lieu à des publications et des rencontres internationales. L'apparition des premières méthodes d'apprentissage en ligne au début des années 2000, puis de cours d'espéranto sur des sites d'apprentissage de masse comme sur Duolingo en 2015 suscitent un regain d’intérêt pour l'espéranto.
 L’Association universelle d’espéranto, fondée en 1908, est en relation officielle avec l’Organisation des Nations unies et l’UNESCO, qui a publié des recommandations en faveur de l’espéranto en 1954 et 1985. L’espéranto a été l’une des langues officielles de l’Académie internationale des sciences de Saint-Marin, aujourd'hui disparue. L’université Loránd Eötvös en Hongrie sanctionne son cursus universitaire d’enseignement de l’espéranto par un diplôme reconnu par le cadre européen commun de référence pour les langues. Plusieurs universités proposent des cycles d’études espérantophones au Brésil, en Bulgarie, Pologne, Roumanie et Slovaquie.
 
-Définition :
+Définition
 
-Nom :Le pseudonyme « Doktoro Esperanto » (Docteur « Espérant »), utilisé par Zamenhof pour présenter son projet, donne son nom à la langue qu’il a créée.
+NomLe pseudonyme « Doktoro Esperanto » (Docteur « Espérant »), utilisé par Zamenhof pour présenter son projet, donne son nom à la langue qu’il a créée.
 
-Utilisation du mot espéranto en tant que métaphore :
+Utilisation du mot espéranto en tant que métaphore
 
 Le nom espéranto fonctionne comme un nom propre quand il désigne la langue même, mais est parfois utilisé comme nom commun (dans une sorte d'antonomase) pour représenter une langue commune ou un moyen commun dans un domaine donné où cette mise en commun ne va pas de soi. Cette utilisation du mot espéranto peut aussi bien être prise dans un sens positif que dans un sens négatif ou péjoratif.
 Dans le domaine de l'informatique, Java fut qualifié d'« espéranto des langages de programmation », en particulier à cause de sa simplicité et de son universalité (indépendance par rapport au système d'exploitation), métaphore reprise pour XML, qualifié à son tour d'espéranto du système d'information.
 En Allemagne et en Autriche, les opposants à l'euro le décrivirent comme Esperantogeld ou Esperantowährung (Geld = « argent » ; Währung = « Monnaie »), voulant dire par là qu'un tel projet international était, selon ces personnes, intrinsèquement voué à l'échec.
 
-Classification :
+Classification
 
 En tant que langue construite, l'espéranto n'est généalogiquement rattaché à aucune famille de langues vivantes. Cependant, une part de sa grammaire et l'essentiel de son vocabulaire portent à le rattacher aux langues indo-européennes (bien souvent aux langues romanes). Ce groupe linguistique a constitué le répertoire de base à partir duquel Louis-Lazare Zamenhof a puisé les racines de la langue internationale.
 Toutefois, la typologie morphologique de l'espéranto l'écarte significativement des langues indo-européennes, qui sont largement à dominante flexionnelle. En effet, il consiste en monèmes invariables qui se combinent sans restriction, ce qui l'apparente aux langues isolantes comme le chinois. En espéranto, on dérive « mon » (mia), de « je » (mi) et « premier » (unua) de « un » (unu). Sa tendance à accumuler, sans en brouiller les limites, des morphèmes porteurs d'un trait grammatical distinct le rapproche aussi des langues agglutinantes.
 
-Géographie :
-Histoire :
+Géographie
+Histoire
 
-L'idée d'une langue équitable pour la communication internationale germa à Białystok au cours des années 1870, dans la tête d'un enfant juif polonais nommé Louis-Lazare Zamenhof. Quelques années plus tard, à l'âge de 19 ans, il ébaucha son premier projet qu'il présenta à ses camarades de lycée. Ce n'est qu'après ses études en ophtalmologie qu'il publia en langue russe, à Varsovie, le 26 juillet 1887, l'ouvrage Langue Internationale, premier manuel d'apprentissage. Il fut suivi au cours des deux années suivantes de versions dans plusieurs autres langues. Dans ce manuel, Zamenhof avait défini ainsi le but de la Langue Internationale : « « Qu’on puisse l’apprendre, comme qui dirait, en passant [et] aussitôt en profiter pour se faire comprendre des personnes de différentes nations, soit qu’elle trouve l’approbation universelle, soit qu’elle ne la trouve pas [et que l’on trouve] les moyens de surmonter l’indifférence de la plupart des hommes, et de forcer les masses à faire usage de la langue présentée, comme d’une langue vivante, mais non pas uniquement à l’aide du dictionnaire. ». » Très vite, l'espéranto rencontra un vif succès, dépassant même les espérances de son initiateur. Le nombre de personnes qui apprirent la langue augmenta rapidement, au départ principalement dans la Russie impériale et en Europe de l'Est, ensuite en Europe occidentale et aux Amériques. L'espéranto pénétra au Japon à la suite de la guerre russo-japonaise de 1904-1905. En Chine, les premiers cours furent donnés à Shanghai dès 1906 et à Canton dès 1908. Durant ces premières années, l'espéranto fut essentiellement une langue écrite, les échanges se faisant essentiellement par correspondance et par l'intermédiaire de périodiques spécialisés.
+L'idée d'une langue équitable pour la communication internationale germa à Białystok au cours des années 1870, dans la tête d'un enfant juif polonais nommé Louis-Lazare Zamenhof. Quelques années plus tard, à l'âge de 19 ans, il ébaucha son premier projet qu'il présenta à ses camarades de lycée. Ce n'est qu'après ses études en ophtalmologie qu'il publia en langue russe, à Varsovie, le 26 juillet 1887, l'ouvrage Langue Internationale, premier manuel d'apprentissage. Il fut suivi au cours des deux années suivantes de versions dans plusieurs autres langues. Dans ce manuel, Zamenhof avait défini ainsi le but de la Langue Internationale : « « Qu’on puisse l’apprendre, comme qui dirait, en passant [et] aussitôt en profiter pour se faire comprendre des personnes de différentes nations, soit qu’elle trouve l’approbation universelle, soit qu’elle ne la trouve pas [et que l’on trouve] les moyens de surmonter l’indifférence de la plupart des hommes, et de forcer les masses à faire usage de la langue présentée, comme d’une langue vivante, mais non pas uniquement à l’aide du dictionnaire. ». » Très vite, l'espéranto rencontra un vif succès, dépassant même les espérances de son initiateur. Le nombre de personnes qui apprirent la langue augmenta rapidement, au départ principalement dans la Russie impériale et en Europe de l'Est, ensuite en Europe occidentale et aux Amériques. L'espéranto pénétra au Japon à la suite de la guerre russo-japonaise de 1904-1905. En Chine, les premiers cours furent donnés à Shanghai dès 1906 et à Canton dès 1908. Durant ces premières années, l'espéranto fut essentiellement une langue écrite, les échanges se faisant essentiellement par correspondance et par l'intermédiaire de périodiques spécialisés.
 Le premier congrès mondial d’espéranto se déroula en 1905 à Boulogne-sur-Mer. Ce premier congrès marqua un tournant important pour l'espéranto. La langue qui était jusqu'alors essentiellement écrite fut dès lors de plus en plus utilisée pour des échanges directs, notamment lors de rencontres internationales et des congrès qui se déroulent depuis chaque année, mis à part les interruptions dues aux deux guerres mondiales. C'est au cours du premier congrès de 1905 que fut publié le Fundamento de Esperanto fixant les bases de la langue.
 La Première Guerre mondiale mit un frein au développement de l'espéranto, qui reprit cependant au cours des années 1920 dans l’enthousiasme généré par les espoirs de paix issus de la création de la Société des Nations. L’espéranto y est proposé comme langue de travail : la proposition, soutenue par des pays tels que le Japon et la Perse, échoue notamment à cause du véto de la France, qui estime que la langue internationale est et doit être le français. Mais les années 1930 avec la montée en puissance des régimes totalitaires, puis la Seconde Guerre mondiale marquèrent un nouveau coup d'arrêt au développement de l'espéranto.
 Malgré des conditions difficiles liées aux bouleversements politiques de l'après-guerre, l'apprentissage de l'espéranto a redémarré à partir des années 1950 essentiellement grâce à l'apparition de nombreuses associations et clubs d'espéranto. Au cours de cette deuxième moitié du XXᵉ siècle, les publications en espéranto connaissent un certain succès et les rencontres espérantophones se multiplient.
 C'est surtout avec la généralisation d'Internet et à l'initiative de jeunes espérantophones que les années 2000 sont le début d'un renouveau de l'espéranto. Des méthodes d'apprentissage en ligne souvent gratuites sont apparues et de nouveaux usages se sont développés au travers des réseaux sociaux et des échanges directs.
 
-Évolutions et dérivés de l'espéranto :
+Évolutions et dérivés de l'espéranto
 
 Dès l'origine de l'espéranto, des propositions de réformes de la langue sont proposées, y compris par Zamenhof lui-même. Cependant, la communauté espérantophone fut toujours très réticente à de telles réformes et tous les projets échouèrent.
 De fait, le projet de réforme le plus connu est celui qui fut présenté par Louis de Beaufront et Louis Couturat en 1908. À l'époque, il provoqua une crise au sein du mouvement espérantophone. Les partisans de ce projet quittèrent le mouvement pour créer une nouvelle langue construite : l'ido. Au XXIᵉ siècle, l’ido ne compte que quelques centaines de locuteurs, même si on trouve quelques sites en ido, dont Wikipédia.
 D'autres propositions de réforme d'ampleur plus limitée virent le jour ultérieurement notamment le riisme, mais n'obtinrent que des soutiens limités.
 De fait, l'espéranto parlé aujourd'hui est très proche de ce qu'il était à l'origine.
 
-Sociolinguistique :
-Statut :
+Sociolinguistique
+Statut
 
 Espéranto-France a lancé une préparation à une future épreuve écrite d'espéranto comme langue facultative au baccalauréat français et propose aux lycéens intéressés de passer un bac blanc d'espéranto. Le premier examen blanc de ce type a eu lieu le samedi 4 juin 2016 ; cependant la date d’introduction de l'espéranto dans la liste des langues facultatives au baccalauréat dépend d’une décision du ministère de l’Éducation nationale. Le 12 avril 2017, la directrice générale de l’enseignement scolaire Florence Robine précise par une lettre qu’« il est tout à fait possible d’entreprendre, dans les établissements où l’enseignement de l’espéranto pourrait se développer, une démarche expérimentale à l’échelle locale ».
 L’espéranto a été l'une des langues officielles de l'Académie internationale des sciences de Saint-Marin (AIS) dont le but etait de favoriser l'utilisation de l'espéranto dans toutes les sciences. Parmi les universités disposant de cycles d'études espérantophones, les plus réputées sont :
@@ -50,11 +50,11 @@ En Chine, l'enseignement de l'espéranto en vue de la préparation du baccalaur�
 L'UNESCO a adopté plusieurs recommandations en faveur de l'espéranto. La première a eu lieu le 10 décembre 1954 lors de la 8ᵉ conférence générale à Montevideo (Uruguay). De plus, la revue Le Courrier de l'Unesco est disponible en espéranto depuis 2017. En 1980, l’organisation mondiale du tourisme a souligné à Manille « l’importance de connaitre des langues, notamment celles à vocation internationale comme l’espéranto ».
 L'espéranto n'est la langue officielle d'aucun pays, mais il est la langue de travail de plusieurs associations à but non lucratif, principalement des associations d'espéranto. La plus grande organisation d'espéranto est l'association universelle d’espéranto, qui est en relation officielle avec les Nations unies et l'UNESCO dans un rôle consultatif depuis 1998, ainsi que l'organisation mondiale des jeunes espérantophones depuis 2021.
 
-Nombre de locuteurs :
+Nombre de locuteurs
 
-Selon les estimations du linguiste et espérantiste finlandais Jouko Lindstedt, le nombre d'espérantophones capable de réellement parler la langue serait de 100 000 (avec une marge d'erreur d'un demi-ordre de grandeur, soit entre 30 000 et 300 000 personnes).
+Selon les estimations du linguiste et espérantiste finlandais Jouko Lindstedt, le nombre d'espérantophones capable de réellement parler la langue serait de 100 000 (avec une marge d'erreur d'un demi-ordre de grandeur, soit entre 30 000 et 300 000 personnes).
 Toutefois, on peut affirmer en 2015 qu'il y a 120 pays dans lesquels se trouvent des espérantophones.
-Étant une langue construite, l'espéranto est généralement appris comme langue seconde, et très souvent en autodidacte par une méthode ou un cours en ligne. Il existe cependant un certain nombre d'espérantophones natifs. Le linguiste finlandais Jouko Lindstedt estime leur nombre à 1 000.
+Étant une langue construite, l'espéranto est généralement appris comme langue seconde, et très souvent en autodidacte par une méthode ou un cours en ligne. Il existe cependant un certain nombre d'espérantophones natifs. Le linguiste finlandais Jouko Lindstedt estime leur nombre à 1 000.
 Jouko Lindstedt évalue par l'échelle suivante la capacité à parler l'espéranto dans la communauté espérantophone :
 * 1000 personnes ont l'espéranto comme langue maternelle ;
 * 10000 personnes parlent l'espéranto avec un niveau proche d'une langue maternelle ;
@@ -64,12 +64,12 @@ Jouko Lindstedt évalue par l'échelle suivante la capacité à parler l'espéra
 Sidney S. Culbert, ancien professeur de psychologie de l'université de Washington, espérantophone lui-même, est arrivé, en comptabilisant pendant vingt ans dans de nombreux pays les espérantophones à l'aide d'une méthode par échantillonnage, à une estimation de 1.6 million de personnes parlant l'espéranto avec un niveau professionnel. Ses travaux ne concernaient pas que l'espéranto et faisaient partie de sa liste d'estimation des langues parlées par plus d'un million de personnes, liste publiée annuellement dans le World Almanac. Comme dans l'Almanach, toutes ses estimations étaient arrondies au million le plus proche, c'est le nombre de deux millions d'espérantophones qui a été retenu et fréquemment repris depuis. Culbert n'a jamais publié de résultats intermédiaires détaillés pour une région ou un pays particulier, ce qui rend difficile l'analyse de la pertinence de ses résultats.
 En juin 2023, environ 333000 personnes sont inscrites au cours d'espéranto sur l'application Duolingo à partir de l'anglais.
 
-Apprentissage :
+Apprentissage
 
 L'apprentissage de l'espéranto repose en grande partie sur l'utilisation de méthodes autodidactes ou de cours traditionnels via des associations ou des clubs locaux. Toutefois, quelques établissements d'enseignement ont introduit des cours d'espéranto à leur programme.
 Au début des années 2000, l'apparition de méthodes d'apprentissage en ligne de l'espéranto, souvent gratuites, les plus connues étant lernu! et Kurso de Esperanto, a permis de toucher un public nouveau, en particulier parmi les jeunes. Le 28 mai 2015, le site d’apprentissage de langues en ligne, Duolingo, met en ligne la version bêta d'apprentissage de l'espéranto pour les anglophones et les hispanophones. En 2017, la méthode compte plus d’un million d’apprenants. Une version pour francophones est disponible en version bêta depuis 2020. Le site de langues Memrise comporte plusieurs cours d’espéranto, dont l'un publié par l'association Esperanto-France. Viendront aussi des applications d’apprentissage pour téléphone portable, comme L’espéranto en 12 jours, une adaptation de la Zagreba metodo. Enfin l’espéranto est présent parmi les langues mises en place sur la plateforme de recueil d'échantillons de voix Common Voice, de Mozilla : la fonction Enregistrer permet de s’entraîner à prononcer des phrases, puis de se ré-écouter, alors que la fonction Valider permet d'entendre d'autres locuteurs en espéranto.
 
-Tests de niveaux et CECR :
+Tests de niveaux et CECR
 
 Les tests de niveaux en espéranto sont organisés suivant deux filières :
 * la filière officielle conforme au cadre européen commun de référence pour les langues (CECR) ;
@@ -77,17 +77,17 @@ Les tests de niveaux en espéranto sont organisés suivant deux filières :
 Actuellement seul l'institut des langues de l'université Eötvös Loránd (Budapest, Hongrie) délivre des diplômes officiels de connaissance de l'espéranto. Depuis 2009, ces diplômes sont fondés sur le cadre européen commun de référence pour les langues (CECR) et disponibles dans les niveaux B1, B2 et C1. Près de 2000 personnes possèdent un tel diplôme à travers le monde : en 2017, environ 570 au niveau B1, 590 au B2 et 820 au C1.
 La Ligue internationale des enseignants d'espéranto (ILEI) propose quant à elle des examens qui testent non seulement la maîtrise de la langue, mais également la connaissance de la culture véhiculée par l’espéranto : associations, principaux acteurs, Espérantie, etc.
 
-Intérêt pédagogique de l'espéranto :
+Intérêt pédagogique de l'espéranto
 
 Ces études furent reprises et confirmées par d'autres études dans le rapport remis au ministère italien de l'enseignement public (ministère de l'instruction), ainsi que dans le rapport Grin.
-Cette facilité de l'espéranto fut constatée par Inazō Nitobe, membre de l’Académie Impériale du Japon, homme de science, Secrétaire général adjoint de la Société des Nations, qui avait participé au congrès mondial d’espéranto de Prague en 1921 pour se rendre compte par lui-même de l’efficacité de cette langue. Dans un rapport intitulé Esperanto as an International Auxiliary Language (L’espéranto comme langue auxiliaire internationale), publié en 1922, il avait écrit : « On peut affirmer avec une certitude absolue que l’espéranto est de huit à dix fois plus facile que n’importe quelle langue étrangère et qu’il est possible d’acquérir une parfaite élocution sans quitter son propre pays. Ceci est en soi un résultat très appréciable. ».
+Cette facilité de l'espéranto fut constatée par Inazō Nitobe, membre de l’Académie Impériale du Japon, homme de science, Secrétaire général adjoint de la Société des Nations, qui avait participé au congrès mondial d’espéranto de Prague en 1921 pour se rendre compte par lui-même de l’efficacité de cette langue. Dans un rapport intitulé Esperanto as an International Auxiliary Language (L’espéranto comme langue auxiliaire internationale), publié en 1922, il avait écrit : « On peut affirmer avec une certitude absolue que l’espéranto est de huit à dix fois plus facile que n’importe quelle langue étrangère et qu’il est possible d’acquérir une parfaite élocution sans quitter son propre pays. Ceci est en soi un résultat très appréciable. ».
 Lorsque l'on a déjà appris une langue étrangère, l'apprentissage d'une nouvelle langue étrangère est plus facile, d'où l'intérêt de commencer par une langue étrangère facile. Des études menées sur des échantillons comparatifs d'élèves ont montré que les élèves qui avaient d'abord étudié l'espéranto avant de passer à l'étude d'une langue étrangère atteignaient un meilleur niveau, dans cette langue, que le groupe témoin qui pendant la même durée n'avait étudié que cette langue étrangère.
 Du point de vue de la graphie, l’espéranto fait partie des langues dites « transparentes » : comme pour le croate, le serbe, l'espagnol, l'italien, le slovène ou le tchèque, la correspondance entre graphèmes et phonèmes est simple, stable et régulière. Une langue complètement transparente suit deux principes : à un phonème correspond une seule graphie ; à une seule graphie correspond un seul phonème. À l’opposé, les langues dites « opaques » comme l'anglais ou « semi-opaques » comme le français ont des règles de correspondance grapho-phonémique complexes et irrégulières.
 Un dyslexique utilisant une langue « opaque » devient souvent dysorthographique. Il est préférable de choisir l'apprentissage d’une langue transparente pour faciliter l'apprentissage des langues chez les enfants dyslexiques. L'espéranto permettrait d'aider les dyslexiques en milieu scolaire.
 D'autre part, l'espéranto peut aider grâce à sa construction signalant pour chaque mot un trait grammatical précis, à faire comprendre les liens entre la « fonction dans la phrase » et l'« orthographe grammaticale » de chaque mot.
-Claude Piron qui fut pendant cinq ans traducteur-interprète au siège de l’ONU à New York pour l’anglais, le chinois, l’espagnol et le russe : « Un cours d'espéranto organisé dans une optique propédeutique améliore considérablement le succès des élèves dans l'étude des langues étrangères. Il m'a déconditionné des habitudes arbitraires de ma langue maternelle sans que je doive me reconditionner d'emblée selon les habitudes arbitraires d'un peuple étranger, bref, il m'a donné une avance sur mes camarades que je n'ai jamais perdue ».
+Claude Piron qui fut pendant cinq ans traducteur-interprète au siège de l’ONU à New York pour l’anglais, le chinois, l’espagnol et le russe : « Un cours d'espéranto organisé dans une optique propédeutique améliore considérablement le succès des élèves dans l'étude des langues étrangères. Il m'a déconditionné des habitudes arbitraires de ma langue maternelle sans que je doive me reconditionner d'emblée selon les habitudes arbitraires d'un peuple étranger, bref, il m'a donné une avance sur mes camarades que je n'ai jamais perdue ».
 
-Militantisme :
+Militantisme
 
 L'espéranto est soutenu par un réseau de militants regroupés dans de nombreuses associations. Au niveau international, ce réseau d'associations nationales et d'associations thématiques est fédéré par l'association universelle d’espéranto.
 L'ensemble des militants favorables à l'espéranto est souvent désigné comme Le mouvement espérantophone ou même tout simplement Le mouvement espérantiste. Toutefois, cette appellation est trompeuse dans la mesure où les espérantophones ne constituent pas un ensemble homogène. Dans les faits, les motivations, les aspirations et les idées des espérantophones reflètent la diversité des opinions présentes dans le monde. Il est également à noter que seule une minorité d’espérantophones sont membres d'associations d'espéranto.
@@ -99,20 +99,20 @@ Un exemple de cet objectif militant est l'apparition récente du mouvement Europ
 En septembre 2017, le ministère français de l’Éducation nationale accepte que l’espéranto puisse être enseigné à titre expérimental. Cette décision fait suite à une demande de militants encouragés par le résultat considéré par ces mêmes militants comme un succès d'une pétition lancée par des associations pro-espéranto pour son ajout comme langue optionnelle au bac, qui avait recueilli 33300 signatures, mais qui n'est de la part du ministère, que l'application de dispositions générales concernant n'importe quelle langue.
 En décembre 2020, une nouvelle pétition est lancée, cette fois-ci sur la plateforme officielle des pétitions citoyennes de l’Assemblée nationale avec pour titre Encourager l’enseignement de la langue internationale espéranto.
 
-Usage professionnel :
+Usage professionnel
 
 Bien qu'il soit couramment utilisé dans un contexte associatif, l'usage de l'espéranto dans un contexte professionnel est jusqu'à présent resté relativement limité. On peut citer l'exemple de l'association Réinsertion et Espéranto qui de 1997 à 2008 forma et embaucha en CDI à Montpellier des jeunes chômeurs avec l'espéranto dans le cadre du dispositif Emplois-jeunes.
 Afin d'encourager l'usage de l'espéranto, dans un contexte professionnel, quelques chefs d'entreprises se sont regroupés au sein d'une association, Entreprise-Esperanto dont l'objectif est d'accompagner les entreprises ayant des besoins de communication internationale et qui souhaitent utiliser l'espéranto.
 
-Vie culturelle :
-Évolution des usages de la langue :
+Vie culturelle
+Évolution des usages de la langue
 
 L’espéranto a longtemps été une langue plus écrite que parlée. Dès le début, toutefois, son usage oral a été assuré par les clubs d'espéranto, disséminés un peu partout en Europe, en Asie orientale et dans quelques pays d'Amérique. Les personnes intéressées s'y retrouvaient une fois par semaine ou par mois pour pratiquer la langue et accueillir des voyageurs étrangers qui l'avaient apprise. Au début du XXᵉ siècle sont apparus de nombreux écrivains, hommes et femmes, poètes…, qui, ayant adopté l'espéranto comme langue de leurs écrits, lui ont donné sa littérature. Dans la résistance à l'occupation japonaise, des artistes coréens, notamment des réalisateurs qui seront à l'origine du cinéma nord-coréen, choisissent ainsi de se regrouper en 1925 dans une association ayant choisi un nom en espéranto : la Korea Artista Proletaria Federacio (KAPF), ou Association coréenne des artistes prolétariens.
 En fait, l'usage oral de la langue, de la simple conversation à la musique, s'est surtout développé lorsque les voyages sont devenus plus accessibles et que les rencontres internationales espérantophones se sont multipliées. La mise en place de services d'hébergement chez l'habitant, comme le Pasporta Servo, et l'apparition de l'enregistrement sonore sur cassette, de même que les programmes de conversation téléphonique par ordinateur (voix sur IP), ont contribué à faire progresser l'utilisation orale de la langue. Avec l'Internet, l'espéranto a trouvé un nouveau vecteur de communication, tant pour la langue écrite que pour la langue parlée. Il est à noter que la version de Wikipédia en espéranto a dépassé le cap de 275000 articles le 26 février 2020. Amikumu, une application mobile gratuite destinée à faciliter les contacts entre espérantophones est lancée le 22 avril 2017.
 Il faut également noter qu'avec l'accroissement du nombre de locuteurs, l'espéranto est devenu la langue maternelle d'enfants issus de couples espérantophones.
 En défendant son idée à travers l’Europe, le Docteur Zamenhof s'est attiré la sympathie de nombreuses personnalités politiques, telles que Gandhi ainsi que la communauté internationale du Bahaïsme.
 
-Littérature :
+Littérature
 
 La littérature en espéranto se compose à la fois d'œuvres originales et d'œuvres traduites. Quelques ouvrages originaux :
 * 1907 : Kastelo De Prelongo, Henri Vallienne : considéré comme le premier roman en espéranto ;
@@ -124,7 +124,7 @@ La littérature en espéranto se compose à la fois d'œuvres originales et d'œ
 Parmi les œuvres traduites, on trouve des ouvrages aussi divers que Le Petit Prince, la Bible, le Coran, le Manifeste du parti communiste, une biographie du peintre Camille Pissarro par son fils Ludovic-Rodo.
 La majorité des ventes d'ouvrages en espéranto est réalisée par les associations espérantophones. L'une des plus importantes librairies d'ouvrages en espéranto est le libro-servo de l’association universelle d’espéranto, qui compte plus de 6000 références.
 
-Presse :
+Presse
 
 Il existe de nombreuses publications originales en espéranto. Parmi les plus connues, on trouve :
 * Esperanto, mensuel officiel de l'Association universelle d'espéranto,
@@ -139,19 +139,19 @@ Il existe de nombreuses publications originales en espéranto. Parmi les plus co
 * Libera Folio, site d'information indépendant édité directement en espéranto.
 Deux revues paraissent en France et en français : Le Monde de l'Espéranto et Espéranto info.
 
-Musique :
+Musique
 
 La musique espérantophone est presque aussi ancienne que l'espéranto. La Espero, qui deviendra l'hymne du mouvement espérantophone, a été écrit par Zamenhof, peu après la publication du premier manuel, Langue Internationale, paru en 1887.
 La musique espérantophone a suivi les évolutions technologiques, avec l’apparition des premiers vinyles dans les années 1960, puis l'apparition des musiques rock dans les années 1980, puis des disques compacts dans les années 1990 et enfin des formats électroniques téléchargeables via Internet depuis les années 2000.
 Actuellement les musiciens espérantistes les plus connus sont JoMo (Jean-Marc Leclercq) de France, Martin Wiese de Suède, Jonny M d’Allemagne, Kim J. Henriksen du Danemark, Ĵomart et Nataŝa du Kazakhstan et de Russie, Georgo Handzlik de Pologne, les groupes Kajto dont les membres principaux sont néerlandais, Dolchamar de Finlande, La Pafklik de France, La Perdita Generacio de Suède.
 La musique espérantophone est naturellement mise en scène lors des différentes rencontres internationales.
 
-Radio :
+Radio
 
 Les premières émissions de radio en Espéranto datent de 1922 et furent émises à Newark (États-Unis) et Londres (Royaume-Uni). En 2012, les émissions sont principalement des podcasts, mais certaines radios diffusent une émission hebdomadaire comme Radio Havana Cuba, ou Radio libertaire à Paris.
 La première radio diffusant entièrement en espéranto, Muzaiko, est apparue le 1er juillet 2011. Elle émet sur Internet grâce à la technologie de lecture en continu. Son programme se compose de musique espérantophone, d'interviews, et d'informations généralistes.
 
-Radioamateurs :
+Radioamateurs
 
 Sur les bandes radioamateurs l'espéranto est utilisé aux fréquences :
 * 3,566 MHz à 20 h locale, en code Morse pour l'Europe, le mercredi. (hiver : 19 h UTC et été : 18 h UTC).
@@ -159,7 +159,7 @@ Sur les bandes radioamateurs l'espéranto est utilisé aux fréquences :
 * 14,266 MHz à 12 h 30 et 20 h 30 UTC les samedi et dimanche, à 12 h 30 UTC le lundi.
 * 21,266 MHz 13 h UTC et 22 h UTC pour le Japon, tous les jours.
 
-Cinéma :
+Cinéma
 
 L'essentiel des films tournés originellement en espéranto sont des courts métrages.
 Seuls trois longs métrages ont été tournés directement en espéranto :
@@ -172,7 +172,7 @@ Il est aussi possible d'entendre de l'espéranto dans la version originale du fi
 La musique du générique de fin du film d'animation japonais Patéma et le monde inversé est en espéranto et est chantée par Estelle Micheau.
 Dans le feuilleton français Ovni(s), l'un des personnages principaux, Véra Clouseau, connaît l'espéranto. Dans l'épisode 10 de la saison 2, une partie des dialogues de l'épisode sont en espéranto.
 
-Phonologie et écriture :
+Phonologie et écriture
 
 L'espéranto possède vingt-huit phonèmes : cinq voyelles et vingt-trois consonnes. Ils sont transcrits au moyen d'un alphabet de vingt-huit lettres : vingt-deux lettres de l'alphabet latin (q, w, x et y ne sont pas utilisés, sauf dans les expressions mathématiques), et six lettres utilisant deux diacritiques (accent circonflexe et brève), propres à l'espéranto : ĉ, ĝ, ĥ, ĵ, ŝ, ŭ. L'orthographe est parfaitement transparente : chaque lettre représente invariablement et exclusivement un seul phonème.
 En plus de leur rôle premier de transcription, les lettres diacritées rappellent en espéranto l’orthographe ou la prononciation d’autres langues. Par exemple, poŝto « poste », rappelle graphiquement et phonétiquement le mot pošta du tchèque, du slovaque, du slovène, du serbo-croate, mais aussi par la graphie les mots français, anglais, néerlandais, allemand poste, post, post, Post, et par le son le bulgare поща (prononcé ['pɔʃtɐ]). L'espéranto aboutit souvent ainsi à un juste milieu rappelant plusieurs langues sources : ainsi ĝardeno [d͡ʒarˈdeno] rappelle le français jardin, l'allemand Garten, le néerlandais gaarden, l'italien giardino et l'anglais garden.
@@ -180,16 +180,16 @@ La langue comporte un accent tonique toujours situé sur l'avant-dernière sylla
 Le cadre sonore ci-après, permet d'écouter un court extrait du discours de Zamenhof prononcé lors du premier congrès mondial d'espéranto en 1905 à Boulogne-sur-Mer. Cet extrait lu par Claude Piron a été enregistré lors de la rencontre commémorative de 2005 à Boulogne-sur-Mer. Ces extraits sont reproduits et traduits dans la .
 Les lettres diacritées peuvent poser quelques problèmes typographiques à l'imprimerie ou l'informatique (plus particulièrement avec les systèmes informatiques anciens). Pour les francophones, le clavier BÉPO et la variante Xorg du clavier AZERTY permettent d’accéder de façon native aux caractères accentués de l'espéranto. Des logiciels peuvent également être installés pour faciliter la frappe des six lettres diacritées.
 
-Substitutions de l'alphabet en espéranto :
+Substitutions de l'alphabet en espéranto
 
 Il existe quelques orthographes alternatives couramment utilisées. L'une d'entre elles remplace les lettres avec des circonflexes par des digraphes h. Il existe également des solutions graphiques telles que l'approximation des circonflexes avec des accents circonflexes.
 
-Système H :
+Système H
 
-La méthode originale pour contourner les diacritiques a été développée par le créateur de l'espéranto lui-même, L. L. Zamenhof. Il recommandait d'utiliser u à la place de ŭ, et des digraphes avec h pour les autres lettres avec circonflexe. Par exemple, ŝ est remplacé par sh, comme dans shanco pour ŝanco (chance). Lorsque l'orthographe correcte contient sh, les lettres doivent être séparées par une apostrophe ou un trait d'union, comme dans ses-hora (six-heures) ou flug'haveno (aéroport).
+La méthode originale pour contourner les diacritiques a été développée par le créateur de l'espéranto lui-même, L. L. Zamenhof. Il recommandait d'utiliser u à la place de ŭ, et des digraphes avec h pour les autres lettres avec circonflexe. Par exemple, ŝ est remplacé par sh, comme dans shanco pour ŝanco (chance). Lorsque l'orthographe correcte contient sh, les lettres doivent être séparées par une apostrophe ou un trait d'union, comme dans ses-hora (six-heures) ou flug'haveno (aéroport).
 Malheureusement, les règles simplistes basées sur l'ASCII pour trier les mots échouent lors du tri des digraphes h, car lexicographiquement, les mots en ĉ doivent suivre tous les mots en c et précéder les mots en d. Le mot ĉu doit être placé après ci, mais dans le système H, chu apparaîtrait avant ci.
 
-Système X :
+Système X
 
 Un système plus récent pour taper en espéranto est le "système x", qui utilise x à la place de h pour les digraphes, y compris ux pour ŭ. Par exemple, ŝ est représenté par sx, comme dans sxi pour ŝi et sxanco pour ŝanco.
 Les digraphes x résolvent les problèmes du système H :
@@ -198,17 +198,17 @@ Les digraphes x résolvent les problèmes du système H :
 Le système x est devenu aussi populaire que le système H, mais il est depuis longtemps perçu comme étant contraire au Fundamento de Esperanto. Cependant, dans sa décision de 2007, l'Akademio de Esperanto a émis une autorisation générale pour l'utilisation de systèmes de substitution pour la représentation des lettres diacritiques de l'espéranto, à condition que cela soit fait uniquement "lorsque les circonstances ne permettent pas l'utilisation des diacritiques appropriés, et lorsque, en raison d'un besoin particulier, le système h fixé dans le Fundamento n'est pas pratique." Cette disposition couvre des situations telles que l'utilisation du système x en tant que solution technique (pour stocker des données en ASCII pur) tout en affichant correctement les caractères Unicode appropriés à l'utilisateur final.
 Un problème pratique de substitution des digraphes que le système x ne résout pas complètement est la complication des textes bilingues. Ux pour ŭ pose particulièrement problème lorsqu'il est utilisé aux côtés de texte en français, car de nombreux mots français se terminent en aux ou eux. Par exemple, Aux est un mot dans les deux langues (aŭ en espéranto). Toute conversion automatique du texte modifiera les mots français ainsi que l'espéranto. Quelques mots anglais comme "auxiliary" et "Euxine" peuvent également souffrir de telles routines de recherche et remplacement. Une solution courante, telle que celle utilisée dans le logiciel MediaWiki de Wikipedia depuis l'intervention de Brion Vibber en janvier 2002, est d'utiliser xx pour échapper à la conversion de ux en ŭ, par exemple "auxx" produit "aux". Quelques personnes ont également proposé d'utiliser "vx" au lieu de "ux" pour ŭ afin de résoudre ce problème, mais cette variante du système est rarement utilisée.
 
-Grammaire :
+Grammaire
 
 La grammaire de l'espéranto se fonde sur seize principes énoncés dans le Fundamento de Esperanto, adopté comme référence intangible au premier congrès mondial d’espéranto de Boulogne-sur-Mer en 1905. Ils ne constituent cependant qu'un cadre dans lequel ont été progressivement dégagées des règles plus détaillées.
 Chaque radical peut recevoir des morphèmes invariables signalant chacun un trait grammatical précis : —o pour les substantifs, —a pour les adjectifs, —e pour les adverbes dérivés, —j pour le pluriel et —n pour le cas accusatif.
 La régularité de la langue permet d’en expliquer la grammaire de façon aisée sans avoir recours à la terminologie technique habituelle, parfois difficile pour certains néophytes. L’ouvrage Plena Manlibro de Esperanta Gramatiko propose ainsi un panorama complet de la grammaire espérantophone sans vocabulaire complexe.
 
-Conjugaison :
+Conjugaison
 
 Les verbes se caractérisent par une série de seulement six désinences ou finales détachables invariables qui forment une conjugaison, avec, mêlant des valeurs temporelles pour l'indicatif et modales : —i pour l'infinitif, —is pour le passé, —as pour le présent, —os pour le futur, —us pour le conditionnel, —u pour le volitif. Ces terminaisons sont les mêmes pour toutes les personnes et tous les verbes.
 
-Corrélatifs :
+Corrélatifs
 
 L'espéranto utilise également comme déterminants un ensemble de pronoms-adjectifs assemblés systématiquement à partir d'une initiale et d'une finale caractéristiques :
 * initiales : i- (indéfinis), ki- (interrogatifs-relatifs), ti- (démonstratifs), ĉi- (collectifs-distributifs), neni- (négatifs) ;
@@ -222,11 +222,11 @@ Par exemple :
 * ĉiam signifie « toujours » ;
 * neniam signifie « jamais ».
 
-Particules invariables :
+Particules invariables
 
 L'espéranto recourt également à diverses particules invariables dans l'organisation de la phrase : il s'agit de conjonctions de coordination (kaj « et », aŭ « ou », do « donc », sed « mais »…) ou de subordination (ke « que », ĉar « parce que », dum « pendant que », se « si »…) qui précisent les rapports entre propositions, et des adverbes simples à valeur spatiale, temporelle, logique ou modale. Par exemple, ne marque la négation, et ĉu marque l'interrogation globale.
 
-Syntaxe de phrase :
+Syntaxe de phrase
 
 L'ordre des mots est relativement libre en espéranto : grâce à la marque -n du complément d'objet (accusatif), toutes les constructions (SOV, VSO, OSV, etc.) sont acceptées ; l’ordre le plus fréquent est toutefois sujet-verbe-objet suivi du complément circonstanciel. L'usage d'autres dispositions est courant notamment en cas de mise en relief afin de placer l'élément le plus important en début de phrase. Il existe cependant certaines règles et tendances bien établies :
 * l'article défini se place au début du groupe nominal ;
@@ -246,8 +246,8 @@ Du fait de l'absence de restriction sur la combinaison des monèmes, une même p
 * ni estas de la sama opinio. ~ Ni havas la saman opinion ~ Ni samopinias. « Nous sommes du même avis. ».
 L'espéranto peut ainsi alternativement se montrer synthétique ou analytique.
 
-Lexique :
-Sources lexicales :
+Lexique
+Sources lexicales
 
 Au même titre que la majorité des langues européennes dont le français qui tirent leurs racines en partie du latin et du grec et qui empruntent à l’anglais ou à d’autres langues, l’espéranto est une langue construite a posteriori : elle tire ses bases lexicales de langues existantes. Les principales sources sont, par importance décroissante :
 * le latin et les langues romanes, principalement le français et l'italien ;
@@ -257,9 +257,9 @@ Au même titre que la majorité des langues européennes dont le français qui t
 Les mots provenant d'autres langues désignent surtout des réalités culturelles spécifiques : boaco « renne » (du same), jogo « yoga » (du sanskrit), haŝioj « baguettes (pour manger) » (du japonais), etc.
 Les morphèmes grammaticaux doivent beaucoup au latin et dans une moindre mesure au grec ancien. Une très petite partie selon certains est construite a priori sans référence évidente à des langues existantes. Pour d'autres, il s'agit d'éléments profondément remaniés rappelant ceux de langues préexistantes, comme la série des corrélatifs.
 Zamenhof a suivi diverses méthodes pour adapter ses sources lexicales à l'espéranto : adaptation phonétique orthographique, à partir de la prononciation (ex. : trotuaro du français trottoir) ou à partir de la forme écrite (ex. : birdo de l’anglais bird « oiseau »). Lorsque plusieurs de ses sources comportaient des mots proches par la forme et le sens, Zamenhof a souvent créé un moyen terme (ex. : ĉefo « chef »).
-Le vocabulaire de l'espéranto était construit à partir d'environ 1800 radicaux dans le Fundamento de Esperanto de 1905. En 2002, après un siècle d'usage, le plus grand dictionnaire monolingue en espéranto (Plena Ilustrita Vortaro de Esperanto), en comprend 16 780 correspondant au moins à 46890 éléments lexicaux. Ce nombre continue à augmenter notamment avec le vocabulaire technique spécialisé davantage pris en compte.
+Le vocabulaire de l'espéranto était construit à partir d'environ 1800 radicaux dans le Fundamento de Esperanto de 1905. En 2002, après un siècle d'usage, le plus grand dictionnaire monolingue en espéranto (Plena Ilustrita Vortaro de Esperanto), en comprend 16 780 correspondant au moins à 46890 éléments lexicaux. Ce nombre continue à augmenter notamment avec le vocabulaire technique spécialisé davantage pris en compte.
 
-Formation des mots :
+Formation des mots
 
 La formation des mots espéranto est traditionnellement décrite en termes de dérivation lexicale par affixes et de composition. Cette distinction est cependant relative, dans la mesure où les « affixes » sont susceptibles de s’employer aussi comme radicaux indépendants : ainsi le diminutif -et- forme l’adjectif eta « petit (avec idée de faiblesse) », le collectif -ar- forme le nom aro « groupe », le causatif -ig- forme le verbe igi « faire, rendre », etc.
 Les deux principes essentiels de formation des mots sont :
@@ -272,12 +272,12 @@ En théorie, il n’existe pas d’autre limite que sémantique à la combinatoi
 Ce schématisme a pour effet de diminuer le nombre de radicaux nécessaires à l’expression au profit de dérivés, réduisant ainsi la composante immotivée du lexique. Le procédé pouvant parfois paraître lourd, la langue littéraire a cependant introduit quelques radicaux alternatifs à titre de variantes stylistiques : par exemple olda « vieux » peut doubler maljuna (formé sur juna « jeune ») ou malnova (formé sur nova « neuf, nouveau »). L’usage courant tend cependant à préférer les dérivés.
 Le système de dérivation s’adapte aisément aux besoins en mots nouveaux. Ainsi, du mot reto (« réseau, filet »), on a extrait le radical ret- pour former tout un ensemble de mots liés à Internet : retadreso (« adresse de courriel »), retpirato (« pirate informatique »), etc.
 
-Exemples :
-Phrases simples :
+Exemples
+Phrases simples
 
 Le tableau ci-dessous présente quelques mots et phrases ainsi que leurs transcriptions en alphabet phonétique international :
 
-Texte analysé en constituants :
+Texte analysé en constituants
 
 La akcento estas sur la antaŭlasta silabo. La kernon de la silabo formas vokalo. Vokaloj ludas grandan rolon en la ritmo de la parolo. Substantivoj finas per -o, adjektivoj per -a. La signo de la pluralo estas -j. La pluralo de « lasta vorto » estas « lastaj vortoj ».
 « -o » = substantifs

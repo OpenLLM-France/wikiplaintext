@@ -52,7 +52,7 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
         )
     text = re.sub(rf"(\n[^\n]+{END_HEADER})+$", "", text.strip())
 
-    text = text.replace(END_HEADER, "\u00A0:")
+    text = text.replace(END_HEADER, "")
 
     # # Never more than 2 consecutive newlines
     # text = re.sub(r"\n{3,}", "\n\n", text)
@@ -72,7 +72,7 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
         # text = re.sub(r" : *\n+", " :\n", text)
 
     # Normalize spaces
-    text = re.sub(r"\u00A0", " ", text)
+    # text = re.sub(r"\u00A0", " ", text)
 
     # At last, remove leading and trailing newlines
     return text.strip()

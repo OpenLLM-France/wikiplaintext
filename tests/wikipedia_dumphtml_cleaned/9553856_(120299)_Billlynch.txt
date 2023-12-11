@@ -1,8 +1,8 @@
-# (120299) Billlynch :
+# (120299) Billlynch
 
 (120299) Billlynch est un astéroïde de la ceinture principale.
 
-# (120299) Billlynch :
-## Description :
+# (120299) Billlynch
+## Description
 
 (120299) Billlynch est un astéroïde de la ceinture principale. Il fut découvert le 9 mai 2004 à Sandlot par Gary Hug. Il présente une orbite caractérisée par un demi-grand axe de 2,32 UA, une excentricité de 0,13 et une inclinaison de 6,7° par rapport à l'écliptique.

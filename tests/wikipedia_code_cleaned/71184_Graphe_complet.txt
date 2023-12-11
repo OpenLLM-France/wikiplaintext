@@ -1,13 +1,13 @@
 En théorie des graphes, un graphe complet est un graphe simple dont tous les sommets sont adjacents deux à deux, c'est-à-dire que tout couple de sommets disjoints est relié par une arête. Si le graphe est orienté, on dit qu'il est complet si chaque paire de sommets est reliée par exactement deux arcs (un dans chaque sens).
 
-Définitions :
+Définitions
 
 Un graphe complet est un graphe dont tous les sommets sont adjacents.
 À isomorphisme près, il n'existe qu'un seul graphe complet non orienté d'ordre n, que l'on note K_n.
 Dans un graphe G quelconque, on appelle clique un sous-ensemble de sommets induisant un sous-graphe complet de G. Rechercher une clique de taille maximum dans un graphe est un problème classique en théorie des graphes. Il est NP-complet.
 La notion de graphe biparti complet existe également. Mais un graphe biparti complet n'est pas un graphe complet.
 
-Propriétés :
+Propriétés
 
 Le nombre d'arêtes de K_n est :
 \sum_{i=1}^{n} \left(n-i\right) = \sum_{i=1}^{n-1} i = \frac{n(n-1)}{2}.
@@ -17,14 +17,14 @@ Le graphe complet K_n est symétrique : il est sommet-transitif, arête-transiti
 Le polynôme caractéristique du graphe complet K_n est : (x-n+1) (x+1)^{n-1}. Ce polynôme caractéristique n'admet que des racines entières. Le graphe complet est donc un graphe intégral, un graphe dont le spectre est constitué d'entiers.
 Le graphe K_5 est le plus petit graphe non planaire. Il sert dans les caractérisations des graphes planaires de Kazimierz Kuratowski et de Klaus Wagner.
 
-Conjectures :
-Nombre de croisements :
+Conjectures
+Nombre de croisements
 
 On note \mathrm{cr}(G) le nombre de croisements du graphe G, le nombre minimal de croisements parmi les tracés possibles de G. A. Hill et J. Ernest ont conjecturé une valeur pour le nombre de croisements du graphe complet K_n, que Richard K. Guy a publiée en 1960. On sait qu'il existe toujours un tracé avec
 \textrm{cr}(K_n) \le \frac{1}{4} \left\lfloor\frac{n}{2}\right\rfloor\left\lfloor\frac{n-1}{2}\right\rfloor\left\lfloor\frac{n-2}{2}\right\rfloor\left\lfloor\frac{n-3}{2}\right\rfloor
 croisements. Il est conjecturé que l'inégalité est en fait une égalité. Une formulation indépendante de la même conjecture a été faite par Thomas L. Saaty en 1964.
 Saaty a en outre vérifié que cette formule donne le nombre optimal de croisements pour n ≤ 10 et Pan et Richter ont montré qu'elle était également optimale pour p 11, 12.
 
-Galerie :
+Galerie
 
 Pour chacun des graphes complets de 1 à 12 sommets, est indiqué le nombre de ses arêtes.
