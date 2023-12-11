@@ -340,11 +340,37 @@ Le système de dérivation s’adapte aisément aux besoins en mots nouveaux. Ai
 ### Phrases simples
 
 Le tableau ci-dessous présente quelques mots et phrases ainsi que leurs transcriptions en alphabet phonétique international :
+| Français | Espéranto | IPA |
+| Salut, bonjour | Saluton | [sa.ˈlu.ton] |
+| Oui | Jes | [ˈjes] |
+| Non | Ne | [ˈne] |
+| Bonsoir | Bonan vesperon | [ˈbo.nan ves.ˈpe.ron] |
+| Bonne nuit | Bonan nokton | [ˈbo.nan ˈnok.ton] |
+| Au revoir | Ĝis (la) revido | [ˈdʒis (la) re.ˈvi.do] |
+| Comment vous appelez-vous ? | Kio estas via nomo? | [ˈki.o ˌes.tas ˌvi.a ˈno.mo] |
+| Je m’appelle Marc. | Mia nomo estas Marko | [ˌmi.a ˈno.mo ˌes.tas ˈmar.ko] |
+| Comment allez-vous ? | Kiel vi fartas? | [ˈki.el vi ˈfar.tas] |
+| Je vais bien. | Mi fartas bone | [mi ˈfar.tas ˈbo.ne] |
+| Parlez-vous espéranto ? | Ĉu vi parolas Esperante? | [ˈtʃu vi pa.ˈro.las ˌes.pe.ˈran.te] |
+| Je ne vous comprends pas. | Mi ne komprenas vin | [mi ˌne kom.ˈpre.nas ˌvin] |
+| Bien | Bone | [ˈbo.ne] |
+| Merci | Dankon | [ˈdan.kon] |
+| De rien | Ne dankinde | [ˌne.dan.ˈkin.de] |
+| S’il vous plaît | Bonvolu | [bon.ˈvo.lu] |
+| Pardon, excusez-moi | Pardonu min | [par.ˈdo.nu ˈmin] |
+| À vos souhaits ! | Sanon! | [ˈsa.non] |
+| Félicitations | Gratulon | [ɡra.ˈtu.lon] |
+| Je t’aime. | Mi amas vin | [mi ˈa.mas ˌvin] |
+| Une bière, s’il vous plaît. | Unu bieron, mi petas | [ˈu.nu bi.ˈe.ron, mi ˈpe.tas] |
+| Où sont les toilettes ? | Kie estas la necesejo? | [ˈki.e ˈes.tas ˈla ˌne.tse.ˈse.jo] |
+| Qu’est-ce que c’est ? | Kio estas tio? | [ˈki.o ˌes.tas ˈti.o] |
+| C’est un chien. | Tio estas hundo | [ˈti.o ˌes.tas ˈhun.do] |
+| Je suis débutant en espéranto. | Mi estas komencanto de Esperanto | [mi ˈes.tas ˌko.men.ˈtsan.to de ˌes.pe.ˈran.to] |
 
 # Espéranto
 ## Exemples
 ### Texte analysé en constituants
 
 La akcento estas sur la antaŭlasta silabo. La kernon de la silabo formas vokalo. Vokaloj ludas grandan rolon en la ritmo de la parolo. Substantivoj finas per -o, adjektivoj per -a. La signo de la pluralo estas -j. La pluralo de « lasta vorto » estas « lastaj vortoj ».
-« -o » = substantifs« -a » = adjectifs« -j » = pluriel« -n » = accusatif
+« -o » = substantifs « -a » = adjectifs « -j » = pluriel « -n » = accusatif
 Traduction : L'accent tonique est sur l'avant-dernière syllabe. Le cœur de la syllabe est formé par une voyelle. Les voyelles jouent un grand rôle dans le rythme de la parole. Les substantifs finissent par -o, les adjectifs par -a. La marque du pluriel est -j. Le pluriel de « lasta vorto » (« dernier mot ») est « lastaj vortoj ».

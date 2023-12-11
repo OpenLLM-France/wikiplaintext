@@ -142,6 +142,25 @@ Deux principes gèrent l'ordre d'apparition des éléments dans une formule brut
 (En cas de même première lettre, l'ordre est comme dans l'exemple B, Ba, Be.)
 * l'ordre d'électronégativité.
 Pour ce dernier, il s'agit d'une électronégativité au sens du tableau ci-dessous, et non au sens de Mulliken, Pauling, etc.
+Ordre de préséance des éléments chimiques dans une formule en ligne suivant le critère d'électronégativité. :
+| Éléments à citer en premier | Rn | Xe | Kr | Ar | Ne | He |
+| Élément à citer ensuite | Fr | Cs | Rb | K | Na | Li |
+| etc. | Ra | Ba | Sr | Ca | Mg | Be |
+| | Lr → Ac | Lu → La | Y | Sc |
+| | Rf | Hf | Zr | Ti |
+| | Db | Ta | Nb | V |
+| | Sg | W | Mo | Cr |
+| | Bh | Re | Tc | Mn |
+| | Hs | Os | Ru | Fe |
+| | Mt | Ir | Rh | Co |
+| | Ds | Pt | Pd | Ni |
+| | Rg | Au | Ag | Cu |
+| | Hg | Cd | Zn |
+| | Tl | In | Ga | Al | B |
+| | Pb | Sn | Ge | Si | C |
+| Noter la position de H | Bi | Sb | As | P | N | H |
+| | Po | Te | Se | S | O |
+| | At | I | Br | Cl | F |
 
 # Formule brute
 ## Ordre d'apparition des éléments chimiques

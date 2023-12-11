@@ -29,16 +29,20 @@ def dump_wiki_html_plaintext(
     per_json=10000,
     dump_html=False,
     dump_html_redirection=False,
-    keep_tables=False,
+    keep_tables=True,
     max_pages=None,
+    subset=None,
     ignore_if_exists=True,
     verbose=True,
 ):
-    if keep_tables:
-        raise NotImplementedError("keep_tables not implemented")
-    
-    for i_group, json_file in enumerate(tqdm(sorted(os.listdir(json_folder)), desc="Extract Wikipedia", unit="json file", disable=not verbose)):
+    all_files = sorted(os.listdir(json_folder), key=lambda x: (len(x), x))
 
+    if subset:
+        s, n = subset
+        all_files = all_files[s::n]
+
+    for i_group, json_file in enumerate(tqdm(all_files, desc="Extract Wikipedia", unit="json file", disable=not verbose)):
+        
         if not json_file.endswith(".ndjson"):
             continue
         subfolder = "." if not per_json else os.path.splitext(json_file)[0]
@@ -80,10 +84,6 @@ def dump_wiki_html_plaintext(
                 if is_redirect:
                     if not ("#REDIRECTION" in page_body or "mw:PageProp/redirect" in page_body or "Redirect" in page_body):
                         anomaly_redirection = f"{page_title} has no category but don't seem to be a redirection --> check in ./{prefix}html/redirects/{filename}.html"
-                # The special words can be in comment...
-                # else:
-                #     if not ("#REDIRECTION" not in page_body and "mw:PageProp/redirect" not in page_body):
-                #         anomaly_redirection = f"Unexpected redirection in {page_title} --> check in ./html/redirects/{filename}.html"
 
                 html_filename, cleaned_filename = [os.path.join(
                     output_dir,
@@ -92,17 +92,20 @@ def dump_wiki_html_plaintext(
                     f"{filename}.{format}"
                 ) for format in ("html", "txt")]
 
-                if (anomaly_redirection or 
-                    (dump_html and (not os.path.isfile(html_filename) or ignore_if_exists) and (not is_redirect or dump_html_redirection))
-                    ):
-                    os.makedirs(os.path.dirname(html_filename), exist_ok=True)
+                def dump_html():
                     try:
+                        os.makedirs(os.path.dirname(html_filename), exist_ok=True)
                         with open(html_filename, "w") as f:
                             f.write(page_body)
                     except (Exception, KeyboardInterrupt) as err:
                         if os.path.exists(html_filename):
                             os.remove(html_filename)
                         raise err
+
+                if (anomaly_redirection or 
+                    (dump_html and (not os.path.isfile(html_filename) or ignore_if_exists) and (not is_redirect or dump_html_redirection))
+                    ):
+                    dump_html()
 
                 if anomaly_redirection:
                     raise RuntimeError(anomaly_redirection)
@@ -116,17 +119,14 @@ def dump_wiki_html_plaintext(
                             page_body,
                             language=language,
                             add_title=page_title,
+                            keep_tables=["wikitable"] if keep_tables is True else keep_tables,
                         )
                     except Exception as err:
-                        os.makedirs(os.path.dirname(html_filename), exist_ok=True)
-                        with open(html_filename, "w") as f:
-                            f.write(page_body)
+                        dump_html()
                         raise RuntimeError(f"Failed to clean {html_filename}") from err
-                    if not text:
+                    if not text or not re.search("\n", text):
                         print(f"WARNING: no text in {page_title}")
-                        continue
-                    if not re.search("\n", text):
-                        print(f"WARNING: empty body in {page_title}")
+                        dump_html()
                         continue
                     os.makedirs(os.path.dirname(cleaned_filename), exist_ok=True)
                     try:
@@ -207,9 +207,22 @@ if __name__ == "__main__":
                         help="Version to download. Example: 20231120")
     parser.add_argument("--no_clean", action="store_true", default=False,
                         help="Do not perform text cleaning. Only download dump")
-    parser.add_argument("--keep_tables", default=False, action="store_true", help="Keep tables")
+    parser.add_argument("--no_tables", default=False, action="store_true", help="Don't keep tables")
+    parser.add_argument("--subset", default=None, help="If you want to run several processes in parallel, launch with 1/4, 2/4, ...")
     parser.add_argument("--no_verbose", action="store_true", default=False)
     args = parser.parse_args()
+
+    subset = args.subset
+    if subset is not None:
+        try:
+            s, n = subset.split("/")
+            s, n = int(s), int(n)
+            s = s - 1
+            assert s >= 0
+            assert n > s
+            subset = (s, n)
+        except Exception as err:
+            raise ValueError(f"Invalid subprocess {subset} (should be a fraction, like 1/4, 2/4, ...)") from err
 
     BASE_URL = f"https://dumps.wikimedia.org/other/enterprise_html/runs"
     MIRROR_URL = BASE_URL
@@ -242,7 +255,8 @@ if __name__ == "__main__":
             verbose=VERBOSE,
             max_pages=None,
             clean_text=not args.no_clean,
-            keep_tables=args.keep_tables,
+            keep_tables=not args.no_tables,
+            subset=subset,
         )
 
         break

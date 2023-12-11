@@ -105,6 +105,27 @@ La superficie totale est de 200 364 km², ce qui représente 12,9 % de la sur
 
 La France métropolitaine est marquée par des déséquilibres spatiaux multiples. D'une part, elle possède l'originalité d'avoir une capitale six fois plus peuplée que la deuxième aire d'attraction du pays, regroupant un quart des étudiants et la quasi-totalité des sièges de grandes entreprises du pays. D'autre part, la ligne Le Havre–Marseille est souvent considérée comme la limite entre un ouest longtemps resté agricole et qui bénéficie actuellement d'un important essor démographique et économique, et un est à l'industrie et à l'urbanisation anciennes, aujourd'hui en déclin. Enfin, des Ardennes au nord-est aux Landes au sud-ouest se dessine une « diagonale des faibles densités », caractérisée par un peuplement faible comparé au reste du pays et une économie souvent en difficulté.
 Après un long exode rural au XIXᵉ siècle et jusque dans la deuxième moitié du XXᵉ siècle, le solde migratoire des campagnes françaises est redevenu positif dans les années 1990. L'essentiel de la croissance urbaine se fait dans les zones périurbaines, de plus en plus éloignées de l'agglomération-centre. Le tableau ci-dessous présente, classées en fonction de leur population en 2020, la liste des vingt principales aires d'attraction des villes, celle des vingt principales unités urbaines et enfin celle des vingt principales communes.
+| Aire d'attraction | Population | Unité urbaine | Population | Commune | Population |
+| Paris | 13 125 142 | Paris | 10 856 407 | Paris | 2 145 906 |
+| Lyon | 2 293 180 | Lyon | 1 693 159 | Marseille | 870 321 |
+| Marseille - Aix-en-Provence | 1 879 601 | Marseille - Aix-en-Provence | 1 618 479 | Lyon | 522 228 |
+| Lille (partie française) | 1 515 061 | Lille (partie française) | 1 053 636 | Toulouse | 498 003 |
+| Toulouse | 1 470 899 | Toulouse | 1 047 829 | Nice | 343 477 |
+| Bordeaux | 1 376 375 | Bordeaux | 994 920 | Nantes | 320 732 |
+| Nantes | 1 022 775 | Nice | 955 154 | Montpellier | 299 096 |
+| Strasbourg (partie française) | 860 744 | Nantes | 671 693 | Strasbourg | 290 576 |
+| Montpellier | 813 272 | Toulon | 590 479 | Bordeaux | 259 809 |
+| Rennes | 763 749 | Douai - Lens | 505 589 | Lille | 236 234 |
+| Grenoble | 720 081 | Strasbourg (partie française) | 484 217 | Rennes | 222 485 |
+| Rouen | 708 289 | Rouen | 474 444 | Reims | 180 318 |
+| Nice | 618 489 | Montpellier | 465 950 | Toulon | 179 659 |
+| Toulon | 576 648 | Avignon | 459 933 | Saint-Étienne | 174 082 |
+| Tours | 522 317 | Grenoble | 454 759 | Le Havre | 165 830 |
+| Nancy | 508 947 | Saint-Étienne | 375 389 | Dijon | 159 106 |
+| Clermont-Ferrand | 507 954 | Rennes | 367 622 | Grenoble | 158 240 |
+| Saint-Étienne | 500 851 | Tours | 364 325 | Angers | 155 876 |
+| Caen | 475 144 | Béthune | 356 354 | Villeurbanne | 154 781 |
+| Orléans | 454 208 | Valenciennes (partie française) | 333 453 | Saint-Denis | 153 001 |
 
 # France
 ## Géographie
@@ -207,6 +228,54 @@ La conformité des lois à la Constitution, la régularité des scrutins et, plu
 
 # France
 ## Politique et administration
+### Gouvernement
+
+Liste des membres du gouvernement Élisabeth Borne depuis le 20 juillet 2023 :
+| Fonction | Titulaire |
+| Première ministre, chargée de la Planification écologique et énergétique | Élisabeth Borne |
+| Ministre de l’Économie, des Finances et de la Souveraineté industrielle et numérique | Bruno Le Maire |
+| Ministre de l'Intérieur et des Outre-mer | Gérald Darmanin |
+| Ministre de l’Europe et des Affaires étrangères | Catherine Colonna |
+| Garde des Sceaux, ministre de la Justice | Éric Dupond-Moretti |
+| Ministre des Armées | Sébastien Lecornu |
+| Ministre du Travail, du Plein emploi et de l'Insertion | Olivier Dussopt |
+| Ministre de l’Éducation nationale et de la Jeunesse | Gabriel Attal |
+| Ministre de l'Enseignement supérieur et de la Recherche | Sylvie Retailleau |
+| Ministre de l'Agriculture et de la Souveraineté alimentaire | Marc Fesneau |
+| Ministre de la Transition écologique et de la Cohésion des territoires | Christophe Béchu |
+| Ministre de la Transition énergétique | Agnès Pannier-Runacher |
+| Ministre de la Culture | Rima Abdul Malak |
+| Ministre de la Santé et de la Prévention | Aurélien Rousseau |
+| Ministre des Solidarités et des Familles | Aurore Bergé |
+| Ministre de la Transformation et de la Fonction publiques | Stanislas Guerini |
+| Ministre des Sports et des Jeux olympiques et paralympiques | Amélie Oudéa-Castéra |
+| Ministre chargé du Renouveau démocratique Porte-parole du gouvernement | Olivier Véran |
+| Ministre délégué chargé des Relations avec le Parlement | Franck Riester |
+| Ministre déléguée chargée de l'Égalité entre les femmes et les hommes et de la Lutte contre les discriminations | Bérangère Couillard |
+| Ministre délégué chargé de l'Industrie | Roland Lescure |
+| Ministre délégué chargé du Numérique | Jean-Noël Barrot |
+| Ministre délégué chargé des Comptes publics | Thomas Cazenave |
+| Ministre déléguée chargée des Petites et moyennes entreprises, du Commerce, de l'Artisanat et du Tourisme | Olivia Grégoire |
+| Ministre déléguée chargée des Collectivités territoriales et de la Ruralité | Dominique Faure |
+| Ministre délégué chargé des Outre-Mer | Philippe Vigier |
+| Ministre délégué chargé du Commerce extérieur, de l'Attractivité et des Français de l'étranger | Olivier Becht |
+| Ministre déléguée chargée de l'Enseignement et de la Formation professionnelle | Carole Grandjean |
+| Ministre délégué chargé des Transports | Clément Beaune |
+| Ministre délégué chargé du Logement | Patrice Vergriete |
+| Ministre déléguée chargée de l'Organisation territoriale et des Professions de santé | Agnès Firmin-Le Bodo |
+| Ministre déléguée chargée des Personnes handicapées | Fadila Khattabi |
+| Secrétaire d'État chargée de l'Enfance | Charlotte Caubel |
+| Secrétaire d'État chargé de la Mer | Hervé Berville |
+| Secrétaire d'État chargée de la Citoyenneté | Sonia Backès |
+| Secrétaire d'État chargée de l'Europe | Laurence Boone |
+| Secrétaire d'État chargée du Développement, de la Francophonie et des Partenariats internationaux | Chrysoula Zacharopoulou |
+| Secrétaire d'État chargée de la Jeunesse et du Service national universel | Prisca Thévenot |
+| Secrétaire d'État chargée des Anciens combattants et de la Mémoire | Patricia Mirallès |
+| Secrétaire d'État chargée de la Ville | Sabrina Agresti-Roubache |
+| Secrétaire d'État chargée de la Biodiversité | Sarah El Haïry |
+
+# France
+## Politique et administration
 ### Découpage territorial et décentralisation
 
 On distingue d'une part, la France métropolitaine et les régions d'outre-mer, qui sont administrées dans le cadre des règles générales, et d'autre part, la Nouvelle-Calédonie, les collectivités d'outre-mer et les territoires d'outre-mer, qui disposent de statuts différents. La France métropolitaine et les régions d'outre-mer sont divisées en de multiples collectivités territoriales réparties sur trois niveaux : la commune, le département et la région. Il existe également des collectivités territoriales à statut particulier telles que les collectivités territoriales uniques qui englobent les compétences du département et de la région ou encore la collectivité européenne d'Alsace. Ces collectivités territoriales sont en même temps des circonscriptions administratives dans lesquelles l'État intervient au travers de ses services déconcentrés. Les communes, au nombre de 35 416 en métropole au 1ᵉʳ janvier 2020, correspondent généralement au territoire d'une ville ou d'un village ; elles sont dirigées par un conseil municipal, qui élit un maire, à la fois agent de la collectivité territoriale et représentant de l'État dans la commune. Depuis les années 1990, la coopération entre les communes a été renforcée par l'émergence d'établissements publics de coopération intercommunale, dont le rôle s'accroît. Les départements, créés pendant la Révolution française, sont aujourd'hui au nombre de 99 dont 5 en Outre-mer. Ils sont dirigés par un conseil départemental dont les membres sont élus au sein des cantons et l'État y est représenté par un préfet. Quant aux 18 régions françaises, dont l'existence est plus récente, elles sont dirigées par un conseil régional et l'État y est représenté par un préfet de région. À ces collectivités territoriales s'ajoutent d'autres divisions territoriales, telles que le canton, l'arrondissement ou plus récemment le pays mais elles ne possèdent pas de dirigeants élus.
@@ -255,6 +324,9 @@ Jusqu'en 2012, les trois principales agences de notation financière attribuaien
 ## Politique et administration
 ### Défense
 
+Principaux organismes :
+* Forces
+* Sites officiels
 La France a le cinquième budget de la Défense au monde, selon les données du SIPRI. Elle est la septième puissance militaire mondiale, l'un des cinq membres permanents du Conseil de sécurité des Nations unies et, à ce titre, juridiquement reconnue comme un des cinq « États dotés d'armes nucléaires » (EDAN) par le traité sur la non-prolifération des armes nucléaires. Elle est l'un des membres de l'OTAN où elle dispose du commandement allié Transformation (ACT), qui est un des deux postes de commandement militaires. L'Armée française est l'une des cinq plus dotées financièrement dans le monde et assure avec l'Armée britannique l'essentiel des opérations militaires européennes. La France lui consacre 40,9 milliards (Mds) d’euros (49,6 Md€ pensions incluses) en 2022. Sur les 40,9 milliards, 36 milliards sont consacrés à des commandes d'armement qui contribuent à soutenir l'industrie.
 Les forces militaires sont divisées en quatre armées principales : l'Armée de terre, la Marine nationale, l'Armée de l'air et de l'espace et la Gendarmerie nationale.
 Depuis 1996, l'Armée est devenue professionnelle et le service militaire obligatoire a été remplacé par une Journée défense et citoyenneté mixte. D'une capacité d'environ 350 000 hommes, elle est déployée à travers le monde, dans le cadre d'opérations extérieures au Sahel (Mali et Tchad notamment), en République centrafricaine, au Liban et en Irak, mais aussi dans le cadre de forces pré-positionnées en vertu de traités internationaux à Djibouti, au Sénégal, en Côte d'Ivoire, au Gabon et aux Émirats arabes unis, sans oublier les troupes positionnées dans la France d'outre-mer. Elle mobilise en outre plus de 1 000 hommes dans le cadre du plan Vigipirate.

@@ -80,6 +80,27 @@ Bogota est reliée par route aux côtes Pacifique et Atlantique de la Colombie, 
 ### Découpage politico-administratif
 
 Les districts (distritos) se subdivisent à leur tour en unités de planification zonale (unidades de planeamiento zonal) appelées « UPZ », localités (localidades) ou simplement « zones » (zonas). Ces zones regroupent plusieurs quartiers (barrios) et parfois des veredas qui sont des divisions administratives de la Colombie. .
+| District | Superficie (km²) | Population (2005) | Densité (hab./km²) |
+| Usaquén | 65,31 | 449 621 | 6 884 |
+| Chapinero | 38,99 | 122 991 | 3 154 |
+| Santa Fe | 44,87 | 107 044 | 2 386 |
+| San Cristóbal | 48,16 | 460 414 | 9 560 |
+| Usme | 215,56 | 267 423 | 1 241 |
+| Tunjuelito | 10,28 | 204 367 | 19 880 |
+| Bosa | 23,92 | 475 694 | 19 887 |
+| Ciudad Kennedy | 38,57 | 973 332 | 25 235 |
+| Fontibón | 33,26 | 312 629 | 9 400 |
+| Engativá | 35,56 | 781 138 | 21 967 |
+| Suba | 100,54 | 780 267 | 7 761 |
+| Barrios Unidos | 11,90 | 176 552 | 14 836 |
+| Teusaquillo | 14,21 | 126 125 | 8 876 |
+| Los Mártires | 6,55 | 95 541 | 14 586 |
+| Antonio Nariño | 4,93 | 98 355 | 19 950 |
+| Puente Aranda | 17,24 | 282 491 | 16 386 |
+| La Candelaria | 1,84 | 23 985 | 13 035 |
+| Rafael Uribe Uribe | 13,44 | 376 711 | 28 029 |
+| Ciudad Bolívar | 129,98 | 658 477 | 5 066 |
+| Sumapaz | 780,96 | 2 478 | 3,17 |
 * Vue sur La Candelaria
 * Une rue typique de La Candelaria
 * Vue du quartier "El Uval" à Usme
@@ -95,6 +116,13 @@ Les pluies sont très fréquentes entre mars et mai, ainsi qu'en octobre et nove
 À l'inverse, les saisons les plus sèches de l'année se situent en janvier et février ainsi qu'en juillet et août. Durant une bonne partie de l'année, la ville de Bogota est dans la brume (220 jours par an).
 Les chutes de grêle sont un phénomène peu courant mais qui se produit cependant quelquefois par an - entre 1939 et 2008, on recense 231 chutes de grêle. Ce phénomène a lieu durant la saison des pluies avec la formation rapide de cumulonimbus en fin d'après-midi. On observe alors des chutes brusques de température pouvant aller jusqu'à 20 °C en moins d'une heure.
 Les extrêmes de températures enregistrés dans le district de la capitale vont de −7 °C à 24,5 °C. Ces relevés proviennent de la station météo de l'aéroport de Guaymaral
+Relevé météorologique de Bogota - altitude : 2547 m - coordonnées de la station : latitude 04°43'N, longitude 74°09'W :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température minimale moyenne (°C) | 5,4 | 6,1 | 7,4 | 8,2 | 8,4 | 8 | 7,5 | 7 | 6,9 | 7,6 | 7,7 | 6,1 | 7,19 |
+| Température moyenne (°C) | 12,9 | 13,2 | 13,6 | 13,8 | 13,8 | 13,5 | 13,1 | 13,1 | 13,1 | 13,2 | 13,4 | 12,9 |
+| Température maximale moyenne (°C) | 19,6 | 19,7 | 19,7 | 19,3 | 19 | 18,3 | 18,1 | 18,3 | 18,7 | 18,8 | 19,1 | 19,2 | 18,98 |
+| Précipitations (mm) | 33 | 43 | 66 | 111 | 94 | 57 | 41 | 49 | 73 | 115 | 88 | 54 | 824,04 |
+| Nombre de jours avec précipitations | 8 | 11 | 14 | 18 | 20 | 19 | 17 | 16 | 17 | 20 | 18 | 12 | 190 |
 
 # Bogota
 ## Environnement

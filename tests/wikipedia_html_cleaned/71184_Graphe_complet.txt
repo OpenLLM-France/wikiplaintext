@@ -34,11 +34,11 @@ Saaty a en outre vérifié que cette formule donne le nombre optimal de croiseme
 ## Galerie
 
 Pour chacun des graphes complets de 1 à 12 sommets, est indiqué le nombre de ses arêtes.
-* K1 : 0 arêtegraphe singleton
+* K1 : 0 arête graphe singleton
 * K2 : 1 arête
-* K3 : 3 arêtesgraphe triangle
-* K4 : 6 arêtesgraphe tétraédrique
-* K5 : 10 arêtespentacle
+* K3 : 3 arêtes graphe triangle
+* K4 : 6 arêtes graphe tétraédrique
+* K5 : 10 arêtes pentacle
 * K6 : 15 arêtes
 * K7 : 21 arêtes
 * K8 : 28 arêtes

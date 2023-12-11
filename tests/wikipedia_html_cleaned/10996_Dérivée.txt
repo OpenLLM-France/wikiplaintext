@@ -81,7 +81,20 @@ Ces notations permettent également d'écrire des dérivées itérées, cela se 
 ## Dérivées usuelles et règles de dérivation
 
 f′ peut souvent se calculer directement à partir d'une expression de f, lorsqu'il s'agit d'une fonction « simple », en utilisant la table des dérivées usuelles. Pour des fonctions qui s'expriment comme combinaison linéaire de fonctions simples, comme produit, quotient ou composée, on utilise un petit nombre de règles algébriques déduites de la définition donnée plus haut. Les règles les plus couramment utilisées sont les suivantes :
+| Nom | Règle | Conditions |
+| Linéarité | (af+g)′=af′+g′ | Quels que soient le réel a et les fonctions dérivables f et g. |
+| Produit | (fg)′=f′g+fg′ | Quelles que soient les fonctions dérivables f et g . |
+| Inverse | (1g)′=−g′g2 | Quelle que soit la fonction dérivable g qui ne s'annule pas(cas particulier f:x↦1 de la ligne suivante) |
+| Quotient | (fg)′=f′g−fg′g2 | Quelles que soient la fonction dérivable f et la fonction dérivable g qui ne s'annule pas |
+| Composée | (g∘f)′=(g′∘f)⋅f′ | Quelles que soient les fonctions dérivables (et composables) f et g |
+| Réciproque | (f−1)′=1f′∘f−1 | Quelle que soit la fonction f bijective de réciproque f−1, dérivable de dérivée ne s'annulant en aucun point |
 En particulier, voici les règles courantes se déduisant de la dérivée de composées :
+| Nom | Règle | Conditions |
+| Puissance | (fα)′=αfα−1f′ | Quel que soit α∈Z, et même quel que soit α∈R si f>0 |
+| Racine | (f)′=f′2f | Quelle que soit la fonction dérivable f strictement positive(cas particulier α=1/2 de la ligne précédente) |
+| Exponentielle | (ef)′=ef⋅f′ | Quelle que soit f dérivable |
+| Logarithme | (logb⁡f)′=f′f⋅ln⁡b | Quelle que soit la fonction dérivable f strictement positive |
+| Logarithme népérien | (ln⁡f)′=f′f | Quelle que soit la fonction dérivable f strictement positive (cas b=e de la ligne précédente) |
 
 # Dérivée
 ## Dérivation numérique

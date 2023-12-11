@@ -69,6 +69,17 @@ La vallée Sernftal nommée aussi Kleintal est la seule vallée latérale occup�
 ### Climat
 
 Les différences de relief déterminent le climat du canton. Au sud du lac de Walenstadt règne un climat tempéré avec une végétation spécifique du sud de l'Europe lorsqu'aux sommets du massif glaciaire sévissent les rudes conditions météorologiques des hautes Alpes. Les températures du canton sont de plus sous l'influence du foehn qui, soufflant au travers de la vallée, fait parfois monter les températures à des niveaux records. Les montagnes enclavent le canton et la vallée ne s'ouvre que vers le nord.
+Relevé météorologique du canton de Glaris pour la période 1981-2010. :
+| Données | Station | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Températures moyennes max. (°C) | Elm | 1,2 | 2,7 | 6,6 | 11 | 16,2 | 18,8 | 20,9 | 19,9 | 16,2 | 12,6 | 5,9 | 2,1 | 11,2 |
+| Glaris | 2,6 | 4,1 | 9 | 13,9 | 18,8 | 21,3 | 23,4 | 22,5 | 18,4 | 14 | 7,6 | 3,7 | 13,3 |
+| Températures moyennes min. (°C) | Elm | −6,3 | −6,1 | −2,6 | 1,3 | 5,5 | 8,6 | 10,7 | 10,3 | 7,1 | 3,7 | −1,6 | −5,1 | 2,1 |
+| Glaris | −3,6 | −2,9 | 0,5 | 3,8 | 8,1 | 11,1 | 13,2 | 13 | 9,8 | 6 | 1 | −2,2 | 4,8 |
+| Précipitations (mm) | Elm | 104 | 101 | 123 | 110 | 140 | 165 | 189 | 193 | 149 | 104 | 128 | 114 | 1 619 |
+| Glaris | 86 | 85 | 105 | 97 | 130 | 168 | 198 | 190 | 138 | 96 | 108 | 104 | 1 506 |
+| Ensoleillement (heures) | Elm | − | − | − | − | − | − | − | − | − | − | − | − | − |
+| Glaris | 61 | 68 | 88 | 124 | 152 | 153 | 171 | 155 | 106 | 86 | 59 | 51 | 1 274 |
+| Source : MétéoSuisse. |||||||||||||||
 
 # Canton de Glaris
 ## Politique et administration
@@ -98,12 +109,36 @@ Au 31 décembre 2022, le canton de Glaris compte 41 471 habitants, soit 0,5 %
 ### Langues
 
 La langue officielle du canton est l'allemand.
+langue principale des habitants du canton en 2000 :
+| Langue | Locuteurs | % |
+| Suisse allemand | +32 765, | +085,8 |
+| Italien | +01 689, | +004,4 |
+| Albanais | +00940, | +002,5 |
+| Langues slaves de l'ex-Yougoslavie | +00803, | +002,1 |
+| Turc | +00534, | +001,4 |
+| Espagnol | +00333, | +000,9 |
+| Portugais | +00304, | +000,8 |
+| Français | +00123, | +000,3 |
+| Romanche | +00055, | +000,1 |
+| Autres langues | +00637, | +001,7 |
+| Total | +38 183, | +100, |
 
 # Canton de Glaris
 ## Population et société
 ### Religions
 
 Un peu moins de la moitié de la population du canton revendique l'appartenance au protestantisme, un peu plus du tiers au catholicisme romain.
+Population du canton suivant la religion, en 2000 :
+| Religion | Population | % |
+| Protestants | +16 786, | +044, |
+| Catholiques romains | +14 246, | +037,3 |
+| Communautés islamiques | +02 480, | +006,5 |
+| Chrétiens-orthodoxes | +00873, | +002,3 |
+| Catholiques chrétiens | +00011, | +000, |
+| Communauté de confession juive | +0 0007, | +000, |
+| Aucune appartenance | +02 479, | +006,5 |
+| Autres | +01 301, | +003,4 |
+| Total | +38 183, | +100, |
 Note : les intitulés des religions sont ceux donnés par l'Office fédéral de la statistique ; les protestants comprennent les communautés néo-apostoliques et les témoins de Jéhovah ; la catégorie « Autres » inclut les personnes ne se prononçant pas.
 
 # Canton de Glaris

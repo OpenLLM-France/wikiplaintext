@@ -6,14 +6,23 @@ import bs4
 import regex as re
 import warnings
 
-from clean_common import final_clean, _ignore_from_section, END_HEADER
-from clean_common import to_superscript, to_subscript, _superscript_coma, collapse_whitespace
+from clean_common import (
+    final_clean,
+    _ignore_from_section,
+    END_HEADER,
+    to_superscript,
+    to_subscript,
+    format_table,
+    _superscript_coma,
+    collapse_whitespace,
+)
 
 
 def clean_html(
     html_string,
     language="fr",
     add_title=None,
+    keep_tables=["wikitable"],
     hashtag_header=True,
     repeat_headers=True,
     use_superscript=True,
@@ -24,17 +33,22 @@ def clean_html(
     :param html_string: HTML string or stream
     :param language: Language of the text
     :param add_title: Add a title to the text (if the name of the page is usually not included in the HTML)
-    :param hashtag_header: Add hashtags before the headers (# for level 1, ## for level 2, etc.)
+    :param hashtag_header: Add hashtags before the headers (# for level 1, ## for level 2, etc.) as in markdown format
     :param repeat_headers: Repeat all headers from previous level at the beginning of each section
     :param use_superscript: Use subscript and superscript characters for numbers when relevant
     """
 
     if language not in _ignore_from_section:
-        warnings.warn(f"Language {language} not supported (not in {sorted(list(_ignore_from_section.keys()))})")
+        warnings.warn(f"Not supported for language {language} : filtering out irrelevant sections (only supported for {sorted(list(_ignore_from_section.keys()))})")
+    if language not in _filter_part_function:
+        warnings.warn(f"Not supported for language {language} : filtering out irrelevant parts (only supported for {sorted(list(_filter_part_function.keys()))})")
 
     ignore_from_section = _ignore_from_section.get(language, [])
+    filter_part_function = _filter_part_function.get(language, lambda x: False)
 
     soup = bs4.BeautifulSoup(html_string, "html.parser")
+
+    all_possible_names = ["p", "blockquote", "h1", "h2", "h3", "h4", "h5", "h6", "ul", "ol", "dl", "table"]
 
     from_dump = False
     if soup.find("section"):
@@ -42,8 +56,11 @@ def clean_html(
         from_dump = True
         def root_generator():
             for section in soup.find_all("section"):
-                for node in section.find_all(["p", "blockquote", "h1", "h2", "h3", "h4", "h5", "h6", "ul", "ol", "dl"], recursive=False):
+                if filter_part_function(section): continue
+                subnodes = section.find_all(all_possible_names, recursive=False)
+                for node in subnodes:
                     yield node
+                
         root = root_generator()
     else:
         # From the API
@@ -58,9 +75,12 @@ def clean_html(
         full_text += header
         current_headers = [header]
 
+    in_content = False
+
     for node in root:
         name = node.name
         if not name: continue
+        if filter_part_function(node): continue
 
         # First paragraph is sometimes weird...
         if name == "p" and node.get("id") == "mwAg" and node.find("span"):
@@ -90,7 +110,7 @@ def clean_html(
                 if not text:
                     continue
             
-            if level in [2, 3] and text in ignore_from_section:
+            if level in [2, 3] and collapse_whitespace(text) in ignore_from_section:
                 break
             header = ("#"*level+" " if hashtag_header else "") + text + END_HEADER + "\n"
             if level > len(current_headers):
@@ -99,15 +119,24 @@ def clean_html(
             if repeat_headers:
                 header = "".join(current_headers)
             text = "\n" + header
+            in_content = True
 
         # List
         elif (name in ["ul", "ol", "dl"]):
-            text = extract_text_in_list(
+            text = list_to_text(
                 node,
+                use_superscript=use_superscript,
                 hashtag_header=hashtag_header,
                 repeat_headers=repeat_headers,
-                use_superscript=use_superscript,
                 current_headers=current_headers,
+                ignore_one_bullet=(not in_content),
+            )
+
+        elif name == "table" and keep_tables and max([k in node.get("class", []) for k in keep_tables]):
+            text = text_to_table(
+                node,
+                use_superscript=use_superscript,
+                ignore_one_cell=True,
             )
 
         else:
@@ -130,6 +159,7 @@ def extract_text(
     use_superscript=True,
     remove_display_style=True,
     recursive=True,
+    treat_line_breaks_as=" ",
     **karwgs,
     ):
 
@@ -164,6 +194,9 @@ def extract_text(
                 has_modified = True
         if has_modified:
             node = bs4.BeautifulSoup(new_html, features="lxml").descendants.__next__()
+
+    for line_break in node.findAll('br'):
+        line_break.replaceWith(treat_line_breaks_as)
 
     text = node.get_text(**karwgs) if recursive else node.get_text(depth=1, **karwgs)
 
@@ -217,61 +250,67 @@ def extract_text_special(node, **kwargs):
     return text
 
 
-def extract_text_in_list(
+def list_to_text(
     node,
     hashtag_header=True,
     repeat_headers=True,
     use_superscript=True,
     current_headers=[],
     prefix="",
+    ignore_one_bullet=True,
     ):
     text = ""
     if node.name in ["ul", "ol"]:
-        for subnode in node.find_all("li", recursive=False):
+        bullets = node.find_all("li", recursive=False)
+        if ignore_one_bullet and len(bullets) == 1:
+            return ""
+        for bullet in bullets:
             # Recursive call
             subtext = ""
-            for subsubnode in subnode.find_all(["ul", "ol", "dl"], recursive=False):
-                subtext += extract_text_in_list(
+            for subsubnode in bullet.find_all(["ul", "ol", "dl"], recursive=False):
+                subtext += list_to_text(
                     subsubnode,
                     hashtag_header=hashtag_header,
                     repeat_headers=repeat_headers,
                     use_superscript=use_superscript,
                     current_headers=current_headers,
                     prefix=prefix+"*",
+                    ignore_one_bullet=False,
                 )
             if subtext:
-                t = extract_text_in_list_header_text(subnode, use_superscript=use_superscript)
+                t = extract_text_in_list_header_text(bullet, use_superscript=use_superscript)
             else:
-                t = extract_text(subnode, use_superscript=use_superscript)
+                t = extract_text(bullet, use_superscript=use_superscript)
             if t:
                 text += prefix + "*" + " " + t + "\n"
             text += subtext
 
     # Descriptive list
     elif node.name == "dl":
-        for subnode in node.find_all(["dt", "dd"], recursive=False):
+        for bullet in node.find_all(["dt", "dd"], recursive=False):
             # Recursive call
             subtext = ""
-            for subsubnode in subnode.find_all(["ul", "ol", "dl"], recursive=False):
-                subtext += extract_text_in_list(
+            for subsubnode in bullet.find_all(["ul", "ol", "dl"], recursive=False):
+                subtext += list_to_text(
                     subsubnode,
                     hashtag_header=hashtag_header,
                     repeat_headers=repeat_headers,
                     use_superscript=use_superscript,
                     current_headers=current_headers,
                     prefix=prefix+">",
+                    ignore_one_bullet=False,
                 )
             if subtext:
-                t = extract_text_in_list_header_text(subnode, use_superscript=use_superscript)
+                t = extract_text_in_list_header_text(bullet, use_superscript=use_superscript)
             else:
-                t = extract_text(subnode, use_superscript=use_superscript)
-            if t and subnode.name == "dt":
+                t = extract_text(bullet, use_superscript=use_superscript)
+            if t and bullet.name == "dt":
                 level = len(current_headers)+1
                 header = (prefix + "#"*level +" " if hashtag_header else "") + t.rstrip("\u00A0 :") + END_HEADER + "\n"
                 if repeat_headers:
                     header = "".join(current_headers) + header
                 text += "\n" + header
-            elif t and subnode.name == "dd":
+            elif t and bullet.name == "dd":
                 t = collapse_whitespace(t)
                 text += prefix + ">" + " " + "\n> ".join(t.split("\n")) + "\n"
             text += subtext
@@ -283,6 +322,71 @@ def extract_text_in_list(
 def extract_text_in_list_header_text(*args, **kwargs):
     # return extract_text(*args, recursive=False, **kwargs)
     return extract_text(*args, separator="␣", strip=True, **kwargs).split("␣")[0    ]
+
+
+class HtmlTable:
+    def __init__(self, node, use_superscript=True):
+        self.node = node
+        self.caption = node.find("caption")
+        if self.caption:
+            self.caption = extract_text(self.caption, use_superscript=use_superscript)
+        self.body = node.find("tbody")
+        if not self.body:
+            self.caption = None
+            self.rows = []
+            return
+        assert self.body, "Missing table body"
+        self.rows = []
+        header_colspans = []
+        for irow, row in enumerate(self.body.find_all("tr", recursive=False)):
+            self.rows.append([])
+            colspans = []
+            for cell in row.find_all(["th", "td"], recursive=False):
+                colspan = cell.get("colspan", 1)
+                if isinstance(colspan, str):
+                    try:
+                        colspan = int(colspan)
+                    except ValueError:
+                        colspan = 1
+                colspans.append(colspan)
+                text = extract_text(cell, use_superscript=use_superscript).strip()
+                if not text:
+                    text = cell.get_text().strip()
+                    if looks_like_annotation(text):
+                        text = ""
+                if colspan > 1:
+                    if irow==0 or cell.name != "th":
+                        self.rows[-1] += [text] * (colspan - 1)
+                    else:
+                        self.rows[-1] += [""] * (colspan - 1)
+                self.rows[-1].append(text)
+            if irow == 0:
+                header_colspans = colspans
+            if len(colspans) == 1:
+                self.rows[-1] = [self.rows[-1][-1] + " " + "|"*(colspans[0]-1)]
+        # Sometimes there is a big first row, acting as a caption
+        if len(header_colspans) == 1 and header_colspans[0] > 1 and not self.caption:
+            self.caption = self.rows[0][-1].rstrip("|").rstrip()
+            self.rows = self.rows[1:]
+
+    def data(self):
+        return self.rows
+
+
+def text_to_table(node, use_superscript=True, ignore_one_cell=True):
+    return format_table(
+        HtmlTable(node, use_superscript=use_superscript),
+        ignore_one_cell=ignore_one_cell,
+    )
+
+
+_filter_part_function = {
+    "fr": lambda x: any_starts_with(x.get("class"), ["bandeau-", "infobox"])
+}
+
+def any_starts_with(list_of_strings, list_of_starts):
+    return any(s.startswith(start) for s in list_of_strings for start in list_of_starts) if list_of_strings else False
+
 
 if __name__ == "__main__":
 

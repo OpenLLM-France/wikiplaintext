@@ -26,6 +26,13 @@ En 1919, le club fusionne avec le Sportklub Sofia, mais la fusion ne dure qu'un 
 ### Bilan européen
 
 Le meilleur rang du club au classement des coefficients UEFA est une 33ᵉ position acquise en 1980.
+Bilan européen du Levski Sofia au 31 août 2023 :
+| Compétition | P | M | V | N | D | BP | BC | Diff. |
+| Ligue des champions (C1) | 15 | 58 | 15 | 14 | 29 | 74 | 82 | -8 |
+| Coupe des coupes (C2) | 11 | 36 | 14 | 5 | 17 | 70 | 55 | +15 |
+| Ligue Europa (C3) | 26 | 112 | 41 | 25 | 46 | 144 | 150 | -6 |
+| Ligue Europa Conférence (C4) | 2 | 10 | 5 | 3 | 2 | 11 | 7 | +4 |
+| Total | 54 | 216 | 75 | 48 | 94 | 299 | 294 | +5 |
 
 # PFK Levski Sofia
 ## Stade
@@ -43,6 +50,32 @@ Le tableau suivant présente la liste des entraîneurs du club depuis 1921.
 ### Effectif actuel du club
 
 Effectif à jour au 10 janvier 2022.
+| N° | Poste | Nom du joueur |
+| 2 | D | Noah Sonko Sundberg |
+| 3 | D | Gjoko Zajkov |
+| 4 | D | Ivan Goranov |
+| 6 | D | Wenderson Tsunami |
+| 7 | M | Georgi Milanov |
+| 10 | M | Borislav Tsonev |
+| 11 | M | Zdravko Dimitrov |
+| 13 | G | Nikolay Mihaylov |
+| 14 | D | Denis Dinev |
+| 17 | A | Welton |
+| 19 | A | Bilal Bari |
+| 20 | M | Dimitar Kostadinov |
+| No. | Position | Nom du joueur |
+| 21 | M | Radoslav Tsonev |
+| 22 | D | Patrick-Gabriel Galchev |
+| 27 | M | Asen Mitkov |
+| 29 | M | Antoan Stoyanov |
+| 33 | D | José Córdoba (prêt du Etar Veliko Tarnovo) |
+| 66 | G | Plamen Andreev |
+| 77 | M | Nikolay Arahangelov |
+| 79 | A | Martin Petkov |
+| 88 | M | Marin Petkov |
+| 89 | M | Andrian Kraev |
+| 91 | D | Dragan Mihajlović |
+| 99 | G | Yoan Zagorov |
 
 # PFK Levski Sofia
 ## Identité du club

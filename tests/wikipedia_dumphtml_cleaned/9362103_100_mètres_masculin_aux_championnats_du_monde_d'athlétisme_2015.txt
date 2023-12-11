@@ -7,12 +7,30 @@ L'épreuve du 100 mètres masculin des championnats du monde de 2015 s'est déro
 ### Records
 
 Les records du 100 m hommes (mondial, des championnats et par continent) étaient avant les championnats 2015 les suivants.
+| Record du monde | Usain Bolt | Jamaïque | 9 s 58 | Berlin | 16 août 2009 |
+| Record des championnats | Usain Bolt | Jamaïque | 9 s 58 | Berlin | 16 août 2009 |
+| Record d'Afrique | Olusoji Fasuba | Nigeria | 9 s 85 | Doha | 12 mai 2006 |
+| Record d'Asie | Femi Ogunode | Qatar | 9 s 91 | Wuhan | 4 juin 2015 |
+| Record d'Amérique du Nord | Usain Bolt | Jamaïque | 9 s 58 | Berlin | 16 août 2009 |
+| Record d'Amérique du Sud | Robson da Silva | Brésil | 10 s 00 | Mexico | 22 juillet 1988 |
+| Record d'Europe | Francis Obikwelu Jimmy Vicaut | Portugal France | 9 s 86 | Athènes Saint-Denis | 22 août 2004 4 juillet 2015 |
+| Record d'Océanie | Patrick Johnson | Australie | 9 s 93 | Mito | 5 mai 2003 |
 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Records et performances
 ### Meilleures performances de l'année 2015
 
 Les dix coureurs les plus rapides de l'année sont, avant les championnats, les suivants. Parmi ces 10 figurent quatre Américains, trois Jamaïcains, un Trinidadien, un français et un Qatari.
+| 1 | Justin Gatlin | États-Unis | 9 s 74 | Doha | 15 mai 2015 |
+| 2 | Asafa Powell | Jamaïque | 9 s 81 | Saint-Denis | 4 juillet 2015 |
+| 3 | Trayvon Bromell | États-Unis | 9 s 84 | Eugene | 25 juin 2015 |
+| 4 | Keston Bledman | Trinité-et-Tobago | 9 s 86 | Port of Spain | 27 juin 2015 |
+| 4 | Jimmy Vicaut | France | 9 s 86 | Saint-Denis | 4 juillet 2015 |
+| 6 | Tyson Gay | États-Unis | 9 s 87 | Eugene | 26 juin 2015 |
+| 6 | Usain Bolt | Jamaïque | 9 s 87 | Londres | 24 juillet 2015 |
+| 8 | Mike Rodgers | États-Unis | 9 s 88 | Madrid | 11 juillet 2015 |
+| 9 | Femi Ogunode | Qatar | 9 s 91 | Wuhan | 4 juin 2015 |
+| 9 | Nickel Ashmeade | Jamaïque | 9 s 91 | Kingston | 26 juin 2015 |
 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Critères de qualification
@@ -24,6 +42,28 @@ Pour se qualifier pour les championnats, il fallait avoir réalisé 10 s 16 ou m
 ## Faits marquants
 
 Pour la première fois dans l'histoire des championnats du monde, 9 athlètes sont qualifiés pour la finale.
+
+# 100 mètres masculin aux championnats du monde d'athlétisme 2015
+## Médaillés
+
+| Or | Argent | Bronze |
+| Usain Bolt | Justin Gatlin | Trayvon Bromell Andre De Grasse |
+
+# 100 mètres masculin aux championnats du monde d'athlétisme 2015
+## Résultats
+### Finale
+
+23 août 2015 :
+| Rang | Athlète | Temps | Réaction | Note |
+| | Usain Bolt | 9 s 79 | 0 s 159 | SB |
+| | Justin Gatlin | 9 s 80 | 0 s 165 | |
+| | Trayvon Bromell | 9 s 92 | 0 s 135 | |
+| | Andre De Grasse | 9 s 92 | 0 s 136 | PB |
+| 5 | Mike Rodgers | 9 s 94 | 0 s 139 | |
+| 6 | Tyson Gay | 10 s 00 | 0 s 128 | |
+| 7 | Asafa Powell | 10 s 00 | 0 s 144 | |
+| 8 | Jimmy Vicaut | 10 s 00 | 0 s 170 | |
+| 9 | Su Bingtian | 10 s 06 | 0 s 175 | |
 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Résultats
@@ -42,6 +82,17 @@ Les trois premiers de chaque séries (Q) plus les 3 meilleurs temps (q) se quali
 ### Tour préliminaire
 
 Les 3 premiers de chaque course (Q) plus les 3 meilleurs temps (q) se qualifient pour les séries du tour final.
+Série 3 22 août 2015 :
+| Rang | Athlète | Temps | Notes |
+| 1 | Jeffrey Vanan | 10 s 55 (Q) | |
+| 2 | Holder da Silva | 10 s 58 (Q) | SB |
+| 3 | Yendountien Tiebekabe | 10 s 76 (Q) | |
+| 4 | Yaspi Boby | 10 s 85 (q) | |
+| 5 | Mahamat Goubaye Youssouf | 10 s 92 (q) | PB |
+| 6 | Rossene Mpingo | 11 s 10 | PB |
+| 7 | Masbah Ahmmed | 11 s 13 | SB |
+| 8 | Jidou El Moctar | 11 s 30 | PB |
+| 9 | Claytus Taqimana | 11 s 58 | PB |
 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Légende

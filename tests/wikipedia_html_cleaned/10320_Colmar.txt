@@ -56,6 +56,23 @@ Colmar est sujette à un climat semi-continental d'abri (Köppen : Cfb). Elle e
 Le mois de mai présente les pluies les plus abondantes.
 Colmar connaît rarement un enneigement important à cause du climat plus sec. Néanmoins de fortes chutes de neige occasionnelles ne sont pas à exclure comme le 4 mars 2006 où plus de 40 cm de neige sont tombés en l'espace d'une journée, ce qui n'était pas arrivé depuis près de vingt ans.
 La station météorologique de Météo-France installée sur la commune et mise en service en 1972 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
+Statistiques 1981-2010 et records COLMAR-INRA (68) - alt : 202 m 48° 03′ 48″ N, 7° 19′ 48″ E Records établis sur la période du 01-04-1972 au 04-01-2022 :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température minimale moyenne (°C) | −1,4 | −1 | 2 | 4,9 | 9,4 | 12,3 | 13,9 | 13,3 | 9,8 | 6,2 | 2 | −0,2 | 6 |
+| Température moyenne (°C) | 1,7 | 2,9 | 6,8 | 10,3 | 14,8 | 17,9 | 19,9 | 19,4 | 15,6 | 11,1 | 5,6 | 2,7 | 10,8 |
+| Température maximale moyenne (°C) | 4,8 | 6,7 | 11,6 | 15,7 | 20,3 | 23,5 | 25,9 | 25,6 | 21,3 | 15,9 | 9,2 | 5,6 | 15,6 |
+| Record de froid (°C) date du record | −21,5 09.01.1985 | −22,5 22.02.1986 | −13,4 06.03.06 | −5,1 22.04.1991 | −2,4 05.05.1979 | 3,6 08.06.1989 | 5 30.07.15 | 4,2 31.08.1995 | −0,3 27.09.10 | −6,3 31.10.1997 | −11,2 23.11.1993 | −19,6 20.12.09 | −22,5 1986 |
+| Record de chaleur (°C) date du record | 19,2 10.01.1991 | 22 25.02.1990 | 26,5 31.03.21 | 30,1 22.04.18 | 34,5 25.05.09 | 37,9 30.06.19 | 38,3 25.07.19 | 39,6 13.08.03 | 33,9 01.09.09 | 30 03.10.1985 | 23,7 07.11.15 | 19,3 30.12.21 | 39,6 2003 |
+| Précipitations (mm) | 33,5 | 30,8 | 35,2 | 38 | 69,2 | 57,6 | 64,2 | 52,8 | 51,4 | 54,5 | 39,3 | 46,9 | 573,4 |
+Comparaison des données météorologiques de Colmar avec les données nationales :
+| Ville | Ensoleillement (h/an) | Pluie (mm/an) | Neige (j/an) | Orage (j/an) | Brouillard (j/an) |
+| Médiane nationale | 1 852 | 835 | 16 | 25 | 50 |
+| Colmar | 1 799 | 607 | 26 | 24 | 59 |
+| Paris | 1 662 | 637 | 12 | 17 | 8 |
+| Nice | 2 724 | 733 | 1 | 27 | 1 |
+| Strasbourg | 1 693 | 665 | 26 | 28 | 51 |
+| Brest | 1 530 | 1 210 | 7 | 12 | 76 |
+| Bordeaux | 2 035 | 944 | 3 | 31 | 69 |
 
 # Colmar
 ## Géographie
@@ -354,7 +371,7 @@ La France entre en guerre le 3 septembre 1939 et les Allemands entrent à Colmar
 En 1942, les Allemands démantèlent le réseau de résistance colmarien, actif depuis 1940, et emprisonnent ses responsables. Le 25 août, une ordonnance rend obligatoire le service militaire, et 123 000 jeunes sont contraints d'endosser l'uniforme de la Wehrmacht ou de la Waffen-SS, 40 000 n'en reviendront pas.
 Le 18 septembre 1944, un train de munitions explose à la gare de marchandises, provoquant des dégâts dans un rayon d'un kilomètre.
 Fin janvier 1945, Colmar est l'objectif de l'attaque en tenaille montée par le général de Lattre de Tassigny pour liquider la poche dangereuse que les troupes allemandes conservent en Alsace.
-Le 1ᵉʳ février 1945, les lignes allemandes sont percées au Nord de Colmar par l'infanterie américaine du 21ᵉ corps qui arrive aux abords de la ville.Un beau geste met alors en valeur la fraternité d'armes franco-américaine : Étant la dernière ville alsacienne à être libérée de l'occupation nazie le colonel du 109ᵉ régiment d'infanterie US, sur ordre du général Milburn, cède le pas pour l'entrée dans Colmar au général Schlesser qui commande une fraction des chars de la 5ᵉ DB de la 1ʳᵉ armée Française. Négligeant toute préparation d'artillerie, les Français se jettent dans la ville, qu'ils cueillent intacte le 2 février dans l'après-midi. À cette occasion, l'insigne Rhin et Danube prendra les armes de la ville de Colmar. Le général de Gaulle se rendra dans la ville libérée le 10 février et y reviendra en tant que président de la République le 20 novembre 1959.
+Le 1ᵉʳ février 1945, les lignes allemandes sont percées au Nord de Colmar par l'infanterie américaine du 21ᵉ corps qui arrive aux abords de la ville. Un beau geste met alors en valeur la fraternité d'armes franco-américaine : Étant la dernière ville alsacienne à être libérée de l'occupation nazie le colonel du 109ᵉ régiment d'infanterie US, sur ordre du général Milburn, cède le pas pour l'entrée dans Colmar au général Schlesser qui commande une fraction des chars de la 5ᵉ DB de la 1ʳᵉ armée Française. Négligeant toute préparation d'artillerie, les Français se jettent dans la ville, qu'ils cueillent intacte le 2 février dans l'après-midi. À cette occasion, l'insigne Rhin et Danube prendra les armes de la ville de Colmar. Le général de Gaulle se rendra dans la ville libérée le 10 février et y reviendra en tant que président de la République le 20 novembre 1959.
 
 # Colmar
 ## Histoire
@@ -446,9 +463,24 @@ Les élections municipales de 2020 se déroulent le 15 mars 2020 et le 28 juin 2
 
 Depuis l'année 2000, la capacité d'autofinancement reste quasiment toujours supérieure à la moyenne de la strate (communes de 50 000 à 100 000 habitants appartenant à un groupement fiscalisé) :
 Capacité d'autofinancement par habitant (en euros)
+| | 2013 | 2012 | 2011 | 2010 | 2009 | 2008 | 2007 | 2006 | 2005 | 2004 | 2003 | 2002 | 2001 | 2000 |
+| Colmar | 254 | 250 | 255 | 182 | 99 | 178 | 196 | 192 | 208 | 208 | 191 | 159 | 194 | 143 |
+| Moyenne de la strate | 166 | 172 | 176 | 169 | 146 | 136 | 150 | 160 | 168 | 166 | 198 | 179 | 171 | 192 |
 La ville de Colmar s'est ainsi vu attribuer en 2012, la meilleure note possible pour sa gestion par l'agence internationale d'évaluation Fitch Ratings :
 * « AA » (à long terme) : qualité de crédit très élevée et aptitude très forte à honorer les engagements financiers à leur échéance ;
 * « F1+ » (à court terme) : qualité de crédit la plus élevée.
+Budget primitif et dette par habitant :
+| | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2012 | 2015 |
+| Budget primitif | 141.8 M€ | 151.0 M€ | 146.6 M€ | 155.5 M€ | 145.9 M€ | 161.0 M€ | 173.0 M€ | 149.4 M€ | 126.1 M€ |
+| Dette par habitant | ? | ? | 631 € | 497 € | 540 € | 576 € | 553 € | 838 € | ? |
+Pression fiscale (taxes habitation / foncier bâti) :
+| | Ville de Colmar | Ville de Colmar | Villes moyennes | Villes moyennes | Grandes villes | Grandes villes |
+| 2007 | 139 € | 175 € | 177 € | 244 € | 231 € | 251 € |
+| 2008 | 144 € | 180 € | 185 € | 254 € | 237 € | 258 € |
+| 2009 | 152 € | 197 € | 199 € | 271 € | 237 € | 261 € |
+| 2010 | 153 € | 204 € | 242 € | 273 € | 207 € | 280 € |
+| 2011 | 159 € | 221 € | 221 € | 289 € | 255 € | 284 € |
+| 2015 | 166 € | 229 € | | | | |
 
 # Colmar
 ## Politique et administration
@@ -486,6 +518,19 @@ Ces deux cantons, ainsi que deux autres limitrophes, forment la première circon
 ### Jumelages
 
 Colmar est jumelée avec :
+Jumelages et partenariats de Colmar. :
+| Ville | Pays | Période |
+| Abingdon-on-Thames | Royaume-Uni | depuis 1978 |
+| Eisenstadt | Autriche | depuis 1983 |
+| Győr | Hongrie | depuis 1993 |
+| Hyde (Grand Manchester) | Royaume-Uni | |
+| Limbé | Cameroun | depuis 2007 |
+| Lucques | Italie | depuis 1962 |
+| Memmingen | Allemagne | depuis 1965 |
+| Princeton | États-Unis | |
+| Saint-Nicolas | Belgique | depuis 1962 |
+| Schongau | Allemagne | |
+| Togliatti | Russie | depuis 1996 |
 Un partenariat a été signé avec la commune de Togliatti (Russie) pour le festival international de musique de Colmar.
 
 # Colmar

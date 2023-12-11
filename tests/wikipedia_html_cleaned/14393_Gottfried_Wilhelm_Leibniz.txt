@@ -182,6 +182,50 @@ Il est à noter que l'idée de classer les opuscules et ouvrages en fonction de 
 À l'inverse le classement de la correspondance par date est moins synthétique que celui de l'édition de C. I. Gerhardt, qui regroupe les lettres par correspondant et donne aussi leurs réponses (ce que ne fait pas l'édition complète).
 
 # Gottfried Wilhelm Leibniz
+## Œuvres
+### Principales œuvres
+
+Œuvres de Leibniz :
+| Nom | Date d'écriture | Date de publication | Langue originale | Série dans l'édition complète | Notes | Accès en ligne |
+| De principio individui | 1663 | 1663 | latin | | Thèse de baccalauréat ; première publication de Leibniz. | |
+| Dissertatio de arte combinatoria | 1666 | 1666, réimprimé en 1690, contre l'avis de Leibniz | latin | VI-1 | Rédigée dans le but de l'obtention de son habilitation en philosophie. | lire en ligne sur Gallica |
+| De Casibus Perplexis in Jure | 1666 | | latin | | Rédigée dans le but de l'obtention de son doctorat « dans les deux droits ». | |
+| Nova methodus discendæ docendæque jurisprudentiæ | 1667 | | latin | | | |
+| Ratio corporis iuris reconcinnandi | 1668 | | latin | | | |
+| Confessio naturæ contra atheistas | 1668 | | latin | | | |
+| Defensio Trinitatis per nova Reperta Logica | 1669 | | latin | | | |
+| Théorie du mouvement concret et du mouvement abstrait | 1670 | | français | | | |
+| Hypothesis physica nova | 1671 | | latin | VI-2 | | |
+| Confessio philosophi | 1673 | | latin | | | |
+| Quadrature arithmétique du cercle, de l’ellipse et de l’hyperbole | vers 1674 | | français | | | |
+| De corporum concursu | 1678 | | latin | | Essai scientifique resté longtemps inédit. | |
+| De progressione dyadica | mars 1679 | | latin | | Publié en 1966, dans une traduction allemande (Herrn von Leibniz’ Rechnung mit Null und Einz) | En français sur BibNum, avec explication. |
+| Specimen calculi universalis | 1678-1684 | | latin | | | |
+| Nova Methodus pro Maximis et Minimis | 1684 | | latin | | Publié dans les Acta Eruditorum. Pose les bases du calcul différentiel. | |
+| Meditationes de cognitione, veritate et ideis | 1684 | | latin | | | |
+| Recherches générales sur l'analyse des notions et des vérités | 1686 | | français | | | |
+| Démonstration courte d'une erreur considérable de M. Descartes et de quelques autres touchant une loi de la nature selon laquelle ils soutiennent que Dieu conserve dans la matière la même quantité de mouvement | 1686 | GM6 p. 117 | latin (mars) et français (septembre) | | Lance sa Dynamique, offensive contre les cartésiens | en latin en français |
+| Discours de métaphysique | 1686 | | français | VI-4 | | sur wikisource |
+| Correspondance avec Arnauld. | vers 1686 | | | | | |
+| De Geometria Recondita et analysi indivisibilium atque infinitorum | 1686 | | latin | | Publié dans les Acta Eruditorum. Pose les bases du calcul intégral. | |
+| Discours touchant la méthode de la certitude et l’art d’inventer pour finir les disputes et faire en peu de temps de grands progrès | 1688-1690 | | français | | | sur wikisource |
+| Primæ veritates | 1689 | | latin | | | |
+| Dynamica de potentia et legibus naturæ corporeæ | 1689 | | latin | | | |
+| Ars combinatoria | 1691 | | latin | | Publié dans les Acta Eruditorum, en réponse à la réimpression de sa Dissertatio de arte combinatoria. | |
+| Animadversiones ad Cartesii principia philosophiæ | 1691 | | latin | | | |
+| Protogæa | entre 1690 et 1693 | après sa mort | latin | | Préface à son travail inachevé sur l'histoire de la maison de Brunswick. | |
+| Premier Essay de dynamique Deuxième Essay de dynamique | 1692 1698 | | français | | | 1ᵉʳ 2ᵉ |
+| Système nouveau de la nature et de la communication des substances | 1695 | | français | | | sur wikisource |
+| Novissima Sinica | avril 1697 | | latin | | Écrit politique et religieux sur la Chine, consistant en un recueil de lettres et de rapports de missionnaires jésuites rassemblés par Leibniz, également auteur de la préface. | |
+| Mathesis rationis | vers 1700 | | latin | | | |
+| Nouveaux Essais sur l'entendement humain | 1704 | 1765 (posthume) | français | VI-6 | Critique de l'Essai sur l'entendement humain de John Locke. | sur Wikisource |
+| Explication de l'Arithmétique Binaire | au plus tard 1703 | 1703 | latin | | Mémoire publié dans l'Histoire de l'Académie Royale des Sciences. | lire en ligne sur Gallica (Mémoires, p. 85) |
+| Brevis descriptio Machinæ Arithmeticæ, cum Figura | 1709 | 1710 | latin | | Publié dans Miscellanea Berolinensia ad incrementum scientiarum. | Disponible sur BibNum , avec une explication d'un ingénieur. |
+| Essais de Théodicée | 1710 | | français | | Traduit en latin en 1712. | sur Wikisource |
+| Principes de la nature et de la grâce fondés en raison | 1714 | 1718 | français | | Offert à Vienne au prince Eugène et envoyé à Paris à Rémond. | sur Wikisource |
+| Principes de la philosophie dit la Monadologie | 1714 | 1720 (trad. en allemand) 1840 (original en français) | français | | Vraisemblable version finale du précédent. | sur Wikisource |
+
+# Gottfried Wilhelm Leibniz
 ## Philosophie
 
 Souvent dépeint comme le dernier « génie universel », faisant partie des plus grands penseurs des XVIIᵉ et XVIIIᵉ siècles, Leibniz écrira sur des domaines extrêmement variés, et contribuera de manière importante à la métaphysique, à l'épistémologie, à la logique et à la philosophie de la religion, mais aussi hors du champ proprement philosophique, aux mathématiques, à la physique, à la géologie, à la jurisprudence et à l'histoire. Sa pensée n'est pas groupée au sein d'un magnum opus mais formée d'un ensemble considérable d'essais, de travaux non publiés et de lettres.

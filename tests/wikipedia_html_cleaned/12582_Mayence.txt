@@ -23,8 +23,27 @@ La ville a mis au point un système de signalisation très simple : les plaques
 ## Géographie
 ### Rattachements
 
+| Année | Lieu | Surface (en ha) |
+| XIIIᵉ siècle | Selenhofen | ? |
+| 1294 | Vilzbach | ? |
+| 23 mai 1805 | Zahlbach | 120 |
+| 1ᵉʳ avril 1907 | Mombach | 608 |
+| 1ᵉʳ avril 1908 | Cassel ¹ et Amöneburg¹ | 1332 |
+| 1ᵉʳ janvier 1913 | Kostheim¹ | 953 |
+| 1ᵉʳ janvier 1930 | Bretzenheim, Weisenau, Bischofsheim², Ginsheim et Gustavsburg² | 4 140 |
+| 1ᵉʳ avril 1937 | Gonsenheim | 1 058 |
+| 7 juin 1969 | Drais, Ebersheim, Finthen, Hechtsheim, Laubenheim et Marienborn | 4 778 |
 ¹ Rattaché depuis août 1945 à Wiesbaden
 ² Commune à part entière dans l’arrondissement de Groß-Gerau
+
+# Mayence
+## Géographie
+### Climat
+
+Température moyenne des relevés à Mainz-Lerchenberg (ZDF) entre 1961 et 1990 :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température moyenne (°C) | 1,2 | 2,4 | 5,8 | 9,8 | 14,3 | 17,5 | 19,2 | 18,6 | 15 | 10,1 | 5,1 | 2,3 | 10,1 |
+| Précipitations (mm) | 38 | 36 | 38 | 38 | 51 | 58 | 56 | 53 | 41 | 43 | 48 | 46 | 455 |
 
 # Mayence
 ## Économie
@@ -39,6 +58,22 @@ Mayence-Hesse-rhénane fait partie du Réseau des Capitales de Grands Vignobles 
 Les couleurs des armes de Mayence sont celles de l'évêque de Mayence, de gueules (rouge) et d'argent (blanc). Deux roues blanches reliées par une croix de même couleur sur fond rouge sont les armoiries de Mayence. Ces roues rappellent, selon la tradition, la profession du père de Willigis, archevêque de la ville.
 * Armoiries de Mayence
 * Armoiries de Mayence sous le Premier Empire
+
+# Mayence
+## Histoire
+
+* Appartenances historiques
+** Électorat de Mayence 983-1242
+** Saint-Empire (Ville libre) 1242-1462
+** Électorat de Mayence 1462-1797
+** République cisrhénane (Mont-Tonnerre) 1797-1802
+** République française (Mont-Tonnerre) 1802-1804
+** Empire français (Mont-Tonnerre) 1804-1815
+** Grand-duché de Hesse 1816-1871 Empire allemand 1871–1918 République de Weimar 1918-1933
+** Reich allemand 1933-1945
+** Allemagne occupée 1945-1949
+** Allemagne de l'Ouest 1949-1990
+** Allemagne 1990-présent
 
 # Mayence
 ## Histoire
@@ -158,6 +193,22 @@ La ville a été partiellement (80 %) détruite dans les bombardements de 1942 
 ### Évolution de la population
 
 Mayence ville compte 217 556 habitants, qui s’étend sur 98 km². La ville exerce son influence sur un vaste espace rural et viticole qui s'étend sur la Hesse rhénane. Elle évolue et se développe au cœur d'une agglomération et d'un bassin de vie.
+
+# Mayence
+## Démographie
+### Diversité ethnique[15]
+
+| Nationalité | Population (2013) |
+| Turquie | 5 944 |
+| Italie | 3 806 |
+| Serbie | 3 794 |
+| Russie | 2 400 |
+| Pologne | 1 542 |
+| Portugal | 1 378 |
+| Bulgarie | 1 348 |
+| Maroc | 904 |
+| Espagne | 768 |
+| France | 741 |
 
 # Mayence
 ## Personnalités

@@ -111,6 +111,31 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 ### Les États riverains
 
 États de l'océan Indien au sens strict, mer Rouge et golfe Persique non inclus :
+| Pays | Plus grande ville côtière | Population nationale | Langues parlées sur la côte |
+| Iran | Tchabahar | 84 923 314 | farsi, baloutchi |
+| Pakistan | Karachi | 211 800 000 | ourdou, baloutchi, sindhi |
+| Inde | Bombay | 1 326 093 247 | kutchi, goudjrati, marathe, konkani, canarais, toulou, malayalam, tamoul, télougou, oriya, bengali |
+| Sri Lanka | Colombo | 23 044 123 | singhalais, tamoul |
+| Bangladesh | Chittagong | 162 650 853 | bengali |
+| Birmanie | Rangoun | 56 590 071 | birman, môn |
+| Thaïlande | Bangkok | 68 977 400 | thaï, malais |
+| Indonésie | Denpasar (donne sur la mer de Bali, océan Pacifique) | 270 203 917 | indonésien, javanais, soundanais, minangkabau, batak, balinais, sasak, aceh |
+| Australie | Perth | 25 671 900 | anglais |
+| Afrique du Sud | Durban | 56 978 635 | afrikaans, zoulou, xhosa |
+| Mozambique | Maputo | 27 233 789 | portugais, swahili, makua, portugais |
+| Tanzanie | Dar es Salam | 62 092 761 | swahili & anglais, makondé |
+| Kenya | Mombasa | 47 564 296 | swahili & anglais |
+| Somalie | Mogadiscio | 11 259 029 | somali et arabe |
+| Djibouti | Djibouti | 921 804 | français, arabe, afar |
+| Yémen | Aden | 28 498 683 | arabe, mehri, soqotri, hobyot |
+| Oman | Salalah | 4 664 844 | arabe, mehri, shehri, bathari |
+| Madagascar | Toamasina | 26 955 737 | malagasy & français |
+| Comores | Moroni | 1 071 229 | comorien, arabe & français |
+| France (Mayotte + la Réunion) | Mamoudzou/Saint-Denis de la Réunion | 1 135 461 | français (dont créole réunionnais), swahili |
+| Maurice | Port-Louis | 1 379 365 | créole mauricien, anglais, français, bhojpuri |
+| Maldives | Malé | 391 904 | divehi |
+| Seychelles | Victoria | 95 981 | créole seychellois, anglais et français |
+| Timor oriental | Dili | 1 321 929 | portugais & tétoum |
 
 # Océan Indien
 ## Histoire

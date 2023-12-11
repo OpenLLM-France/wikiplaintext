@@ -87,6 +87,27 @@ La flamme est allumée à Olympie le 16 décembre 1967, conformément à la trad
 
 # Jeux olympiques d'hiver de 1968
 ## Déroulement
+### Calendrier des épreuves
+
+| CO | Cérémonie d'ouverture | ● | Épreuve(s) | 1 | Finale d'épreuve officielle | CC | Cérémonie de clôture |
+Calendrier des épreuves :
+| février 1968 | 4 Dim | 5 Lun | 6 Mar | 7 Mer | 8 Jeu | 9 Ven | 10 Sam | 11 Dim | 12 Lun | 13 Mar | 14 Mer | 15 Jeu | 16 Ven | 17 Sam | 18 Dim | Épreuves |
+| Cérémonies | | | CO | | | | | | | | | | | | CC | — |
+| Biathlon | | | | | | | | | 1 | | | 1 | | | | 2 |
+| Bobsleigh | | | | | ● | | | 1 | | | | | ● | 1 | | 2 |
+| Combiné nordique | | | | | | | ● | | 1 | | | | | | | 1 |
+| Hockey sur glace | ● | | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | 1 | | 1 |
+| Luge | | | | | | | | ● | | 2 | | | | | 1 | 3 |
+| Patinage artistique | | | | ● | ● | | 1 | ● | | ● | 1 | | 1 | | | 3 |
+| Patinage de vitesse | | | | | | 1 | 1 | 1 | 1 | | 1 | 1 | 1 | 1 | | 8 |
+| Saut à ski | | | | | | | | 1 | | | | | | | 1 | 2 |
+| Ski alpin | | | | | | 1 | 1 | ● | 1 | 1 | ● | 1 | | 1 | | 6 |
+| Ski de fond | | | | 1 | | 1 | 1 | | | 1 | 1 | | 1 | 1 | | 7 |
+| Nombre total de finales | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 4 | 4 | 3 | 3 | 3 | 5 | 2 | 35 |
+| Total | 0 | 0 | 0 | 1 | 1 | 4 | 8 | 11 | 15 | 19 | 22 | 25 | 28 | 33 | 35 | 35 |
+
+# Jeux olympiques d'hiver de 1968
+## Déroulement
 ### Cérémonie d'ouverture
 
 La cérémonie d'ouverture se déroule le 6 février 1968 dans le stade olympique de Grenoble, un stade provisoire de 60 000 places conçu par les architectes grenoblois Bruno Pouradier-Duteil et Georges Pillon et situé à l'extrémité sud de l'avenue Marcellin-Berthelot. Formé d'une structure tubulaire en acier, le stade recouvre une surface de 60 000 m². L'animation de la cérémonie est l'œuvre du « Groupe de Paris », dirigé par Alain Duchemin, sur une musique de Jacques Bondon. La mise en scène et les décors sont réalisés par le cinéaste Jacques Valentin, assisté par l'architecte Denis Soulie. L'arrivée dans le stade de Charles de Gaulle, président de la République, marque le début de la cérémonie d'ouverture. L'exécution de La Marseillaise est suivie du défilé des athlètes, regroupés par délégations. Albert Michallon, président du comité d'organisation, et Avery Brundage, président du CIO, prononcent tour à tour un discours d'encouragement aux athlètes, puis Charles de Gaulle proclame l'ouverture officielle des Jeux.

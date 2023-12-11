@@ -83,7 +83,7 @@ Dans le cas des nombres réels, un auteur parlant d'une racine carrée de 2, tra
 ### Racines carrées de nombres complexes
 
 La racine carrée sur ℝ est définie seulement pour les nombres positifs. Dans la résolution effective des équations polynomiales, l’introduction d’une racine carrée formelle d’un nombre négatif dans les calculs intermédiaires donne des résultats exacts. C’est ainsi que le corps des nombres complexes a été introduit
-Pour tout nombre complexe non nul z = a + ib (avec a et b réels), il existe exactement deux nombres complexes w tels que w² = z. Ils sont opposés l'un de l'autre.Si b est non nul, ils sont donnés par :w=±(a2+b2+a2+i signe⁡(b)a2+b2−a2),avec signe⁡(b)=b|b|.Si b est nul et a est négatif, cette formule se simplifie en :w=±i|a|.Par ailleurs, si z n'est pas un réel négatif (c.-à-d. si b est non nul ou si a est positif),w=±z+|z|2(a+|z|).
+Pour tout nombre complexe non nul z = a + ib (avec a et b réels), il existe exactement deux nombres complexes w tels que w² = z. Ils sont opposés l'un de l'autre.Si b est non nul, ils sont donnés par :w=±(a2+b2+a2+i signe⁡(b)a2+b2−a2), avec signe⁡(b)=b|b|.Si b est nul et a est négatif, cette formule se simplifie en :w=±i|a|.Par ailleurs, si z n'est pas un réel négatif (c.-à-d. si b est non nul ou si a est positif),w=±z+|z|2(a+|z|).
 Pour des raisons de nature topologique, il est impossible de prolonger la fonction racine carrée, de ℝ₊ dans ℝ₊, en une fonction continue f:C→C vérifiant f(z)² = z.
 On appelle détermination de la racine carrée sur un ouvert U de ℂ toute fonction continue f:U→C vérifiant f(z)2=z.
 La détermination principale de la racine carrée est la fonction de ℂ dans ℂ ainsi définie :

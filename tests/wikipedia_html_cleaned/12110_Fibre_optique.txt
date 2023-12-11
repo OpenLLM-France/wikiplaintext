@@ -91,6 +91,13 @@ Les principaux paramètres qui caractérisent les fibres optiques utilisées pou
 ## Caractéristiques
 ### Atténuation
 
+| Année | Pertes (dB/km) | Longueur d'onde (nm) | Entreprise |
+| 1970 | 20 | | Corning Glass Work |
+| 1974 | 2 - 3 | 1 060 | ATT, Bell Labs |
+| 1976 | 0,47 | 1 200 | NTT, Fujikura |
+| 1979 | 0,20 | 1 550 | NTT |
+| 1986 | 0,154 | 1 550 | Sumitomo |
+| 2002 | 0,1484 | 1 570 | Sumitomo |
 L’atténuation caractérise l’affaiblissement du signal au cours de la propagation. Soient P0 et PL les puissances à l’entrée et à la sortie d’une fibre de longueur L. L’atténuation linéaire se traduit alors par une décroissance exponentielle de la puissance en fonction de la longueur de fibre (Loi de Beer-Lambert) :PL=P0e−αLoù α est le coefficient d’atténuation linéaire.
 On utilise souvent le coefficient αdB exprimé en dB/km et relié à α par αdB=4,343α.
 Le principal atout des fibres optiques est une atténuation extrêmement faible. L’atténuation va varier suivant la longueur d’onde. La diffusion Rayleigh limite ainsi les performances dans le domaine des courtes longueurs d’onde (domaine du visible et du proche ultraviolet). Un pic d'absorption, dû à la présence de radicaux -OH dans la silice, pourra également être observé autour de 1 385 nm. Les progrès les plus récents dans les techniques de fabrication permettent de réduire ce pic.
@@ -272,6 +279,15 @@ D’après la carte de l’ARCEP, on constate une concentration de projets de ra
 D’ailleurs, la carte de la DATAR sur les intentions d’investissement en réseau à boucle locale à la suite de l’appel d’offre des communes montre bien que ces trois régions sont celles qui ont le plus de population concernée par le déploiement du réseau fibre optique. Le raccordement des grandes zones urbaines et des métropoles périphériques ne seront pas la partie la plus difficile : il faudra ensuite équiper toute la France rurale à faible densité de population de la technologie de la fibre optique, et les coûts d’investissement iront croissant. Cette situation obligera les communes et l’État à participer plus activement au financement, délestant ainsi les entreprises d’une trop forte augmentation des coûts de raccordement.
 En juillet 2017, les fournisseurs d'accès internet ont été réunis pour discuter du déploiement de la fibre. L'objectif est de trouver un accord pour accélérer ce déploiement. Toutefois, le risque est que les FAI ne soient freinés par leurs tensions.
 Fin 2020, la France passe la barre des dix millions d'abonnés en fibre optique FTTH.
+Evolution du déploiement de la fibre en France :
+| Année Semestre AAAA S1/2 | Taux de raccordabilité des logements à la fibre |
+| 2020 S1 | 51.4% |
+| 2020 S2 | 55.1% |
+| 2021 S1 | 63% |
+| 2021 S2 | 69% |
+| 2022 S1 | 73.9% |
+| 2022 S2 | 78.2% |
+| 2023 S1 | 83.1% |
 
 # Fibre optique
 ## Communication par fibres en France et enjeux associés

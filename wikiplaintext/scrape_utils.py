@@ -98,6 +98,7 @@ def simple_slugify(title):
     # Spaces are replaced by underscores
     title = re.sub(r"\s+", "_", title)
     title = re.sub("/", "--", title)
+    title = re.sub("::", "__", title) # double ":" will be a problem when packaging datasets in parquet
     # Upper case is kept, but accents are removed
     # title = str(unicodedata.normalize('NFKD', title).encode('ascii', 'ignore'), 'utf-8')
     return title

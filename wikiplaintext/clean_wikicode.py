@@ -7,7 +7,7 @@ import regex as re
 import wikitextparser
 
 from clean_common import final_clean, _ignore_from_section, END_HEADER
-from clean_common import to_superscript, to_subscript
+from clean_common import to_superscript, to_subscript, format_table
 
 def clean_wikicode(
     text,
@@ -170,7 +170,7 @@ def clean_wikicode(
             replace_parser_functions=False,
             replace_bolds_and_italics=False,
             # wikitextparser._wikitext._table_to_text,
-            replace_tables=table_to_text if keep_tables else lambda x: "",
+            replace_tables=format_table if keep_tables else lambda x: "",
             # replace_parameters=True,
             # replace_tags=True,
             # replace_external_links=True,
@@ -229,41 +229,6 @@ def clean_wikicode(
         raise RuntimeError(f"Failed to process {orig}") from err
 
 
-def table_to_text(table) -> str:
-    data = [
-        [(cell if cell is not None else '') for cell in row]
-        for row in table.data()
-    ]
-    if not data:
-        return ''
-    widths = [0] * len(data[0])
-    for irow, row in enumerate(data):
-        if irow == 0:
-            continue
-        for ri, d in enumerate(row):
-            widths[ri] = max(widths[ri], len(d.strip()))
-    caption = table.caption
-    if len(widths) == 1:
-        return (
-            (f'\n{caption} :\n' if caption is not None else '')
-            + '\n'
-            + '\n'.join(
-                "* " + "* ".join(f"{remove_line_breaks(d):{w}}" for (w, d) in zip(widths, r) if w > 0) if irow > 0 else r[0] for irow, r in enumerate(data)
-            )
-            + '\n'
-        )
-    return (
-        (f'\n{caption} :\n' if caption is not None else '')
-        + '\n'
-        + '\n'.join(
-            "| " + " | ".join(f"{remove_line_breaks(d):{w}}" for (w, d) in zip(widths, r) if w > 0) + " |" for irow, r in enumerate(data)
-        )
-        + '\n'
-    )
-
-
-def remove_line_breaks(text):
-    return text.replace("\n", " ").strip()
 
 
 def remove_wiki_headers(text, keep_headers):

@@ -23,6 +23,18 @@ La commune se trouve à la confluence de deux rivières : la Clérette et Caill
 
 # Montville
 ## Géographie
+### Occupation des sols
+
+| Données 2018 | Montville : superficie | Montville : pourcentage | Moyenne nationale |
+| Occupation humaine | 212 ha | 19,6 % | 7,7 % |
+| Agriculture | 445 ha | 41,2 % | 63,8 % |
+| Forêt | 423 ha | 39,1 % | 23,6 % |
+| Espace naturel | 0 ha | 0,0 % | 4,0 % |
+| Zone humide | 0 ha | 0,0 % | 0,2 % |
+| Eau | 0 ha | 0,0 % | 0,7 % |
+
+# Montville
+## Géographie
 ### Climat
 
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique altéré », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du même type de climat dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs.
@@ -126,7 +138,7 @@ Le journal de la paroisse Saint-Jean-Bosco de Clères – Montville fait éditer
 * Musée des sapeurs-pompiers de France : Montville abrite le musée des sapeurs-pompiers de France. Inauguré en 1993, il détient le label « Musée de France », dont bénéficie aussi le musée des sapeurs-pompiers de Lyon.
 * Plan d'eau : Montville possède un plan d'eau de trois hectares sur lequel il est possible de faire du pédalo. Autour de ce plan d'eau, on trouve un jardin aquatique et un arboretum, une réserve ornithologique, un complexe socioculturel et sportif, un parcours de santé, une aire de jeux ainsi qu'un minigolf dix-huit trous.
 * Le manoir du Bois-Isambert, qui date du .
-* Le manoir et son arboretum :Construite en 1914, cette belle demeure s’appelait à l’origine « Au bon accueil ». Située au milieu d’un arboretum planté d’espèces rares et anciennes (hêtre pourpre tricentenaire notamment), elle est acquise par la Ville en 1984 et est utilisée aujourd’hui comme salles municipales à disposition des particuliers et des associations montvillaises.
+* Le manoir et son arboretum : Construite en 1914, cette belle demeure s’appelait à l’origine « Au bon accueil ». Située au milieu d’un arboretum planté d’espèces rares et anciennes (hêtre pourpre tricentenaire notamment), elle est acquise par la Ville en 1984 et est utilisée aujourd’hui comme salles municipales à disposition des particuliers et des associations montvillaises.
 
 # Montville
 ## Culture locale et patrimoine

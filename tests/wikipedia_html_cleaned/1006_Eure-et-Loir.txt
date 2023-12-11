@@ -86,6 +86,13 @@ Il y a eu une diminution du nombre de parcelles (donc une modification du paysag
 ### Climat
 
 Le département présente un contraste climatique entre sa partie ouest et sud-ouest, humide et bocagère (qui fait partie du Perche) et sa partie sud et est, beauceronne, qui fait partie des régions les moins arrosées de France, avec le Haut-Languedoc.
+Relevé observé de 1971 à 2000, à la station météorologique de Chartres (28) :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température minimale moyenne (°C) | 1 | 1,1 | 3 | 4,4 | 8 | 10,8 | 12,8 | 12,7 | 10,2 | 7,2 | 3,9 | 2 | 6,4 |
+| Température moyenne (°C) | 3,6 | 4,3 | 7 | 9,1 | 13 | 15,9 | 18,4 | 18,5 | 15,4 | 11,3 | 6,9 | 4,5 | 10,6 |
+| Température maximale moyenne (°C) | 6,1 | 7,4 | 11 | 13,8 | 17,9 | 20,9 | 24 | 24,3 | 20,5 | 15,4 | 9,8 | 6,9 | 14,8 |
+| Ensoleillement (h) | 65 | 81 | 130 | 156 | 206 | 205 | 222 | 234 | 166 | 113 | 71 | 47 | 1 696 |
+| Précipitations (mm) | 48 | 44 | 43 | 47 | 58 | 49 | 57 | 38 | 54 | 56 | 49 | 55 | 598 |
 
 # Eure-et-Loir
 ## Histoire
@@ -273,6 +280,29 @@ Le centre et le sud du département connaissent une évolution moins favorable. 
 #### Évolution démographique
 
 En 2020, le département comptait 431 443 habitants, en diminution de 0,53 % par rapport à 2014 (France hors Mayotte : +1,9 %).
+
+# Eure-et-Loir
+## Population et société
+### Démographie
+#### Communes les plus peuplées
+
+Liste des quinze communes les plus peuplées du département :
+| Nom | Code Insee | Intercommunalité | Superficie (km²) | Population (dernière pop. légale) | Densité (hab./km²) |
+| Chartres | 28085 | CA Chartres Métropole | 16,85 | 38 443 (2020) | 2 281 |
+| Dreux | 28134 | CA du Pays de Dreux | 24,27 | 30 744 (2020) | 1 267 |
+| Lucé | 28218 | CA Chartres Métropole | 6,06 | 15 525 (2020) | 2 562 |
+| Châteaudun | 28088 | CC du Grand Châteaudun | 28,48 | 12 949 (2020) | 455 |
+| Vernouillet | 28404 | CA du Pays de Dreux | 12,11 | 12 411 (2020) | 1 025 |
+| Mainvilliers | 28229 | CA Chartres Métropole | 11,92 | 11 186 (2020) | 938 |
+| Nogent-le-Rotrou | 28280 | CC du Perche | 23,49 | 9 433 (2020) | 402 |
+| Luisant | 28220 | CA Chartres Métropole | 4,43 | 6 686 (2020) | 1 509 |
+| Auneau-Bleury-Saint-Symphorien | 28015 | CC des Portes Euréliennes d'Île-de-France | 34,29 | 6 230 (2020) | 182 |
+| Lèves | 28209 | CA Chartres Métropole | 7,51 | 5 629 (2020) | 750 |
+| Cloyes-les-Trois-Rivières | 28103 | CC du Grand Châteaudun | 119,19 | 5 618 (2020) | 47 |
+| Épernon | 28140 | CC des Portes Euréliennes d'Île-de-France | 6,45 | 5 601 (2020) | 868 |
+| Bonneval | 28051 | CC du Bonnevalais | 28,78 | 4 841 (2020) | 168 |
+| Maintenon | 28227 | CA Chartres Métropole | 11,44 | 4 494 (2020) | 393 |
+| Saint-Rémy-sur-Avre | 28359 | CA du Pays de Dreux | 13,05 | 4 048 (2020) | 310 |
 
 # Eure-et-Loir
 ## Population et société

@@ -71,7 +71,7 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
         # # Remove empty lines after other colons
         # text = re.sub(r" : *\n+", " :\n", text)
 
-    # Normalize spaces
+    # Normalize unbreakablespaces
     # text = re.sub(r"\u00A0", " ", text)
 
     # At last, remove leading and trailing newlines
@@ -110,6 +110,69 @@ def to_subscript(d, all_or_none=False):
             return out
         return "".join([to_subscript(x) for x in d])
     return _subscript.get(d, d)
+
+
+def format_table(table, ignore_one_cell=True) -> str:
+    data = [
+        [(cell if cell is not None else '') for cell in row]
+        for row in table.data()
+    ]
+    if not data:
+        return ''
+    widths = [0] * len(data[0])
+    for irow, row in enumerate(data):
+        if irow == 0 and irow < len(data) - 1:
+            continue
+        for ri, d in enumerate(row):
+            while ri >= len(widths):
+                widths.append(0)
+            widths[ri] = max(
+                widths[ri] if ri < len(widths) else 0
+                , len(d.strip())
+            )
+    caption = table.caption
+    lwidths = len([w for w in widths if w])
+    if lwidths == 0:
+        return ""
+    caption = (f'\n{caption}\u00A0:\n' if caption is not None else '')
+    if lwidths == 1:
+        new_data = []
+        for row in data:
+            row = [c for (w, c) in zip(widths, row) if w > 0]
+            if not len(row): continue
+            assert len(row) == 1
+            row = "\n** ".join([r.strip() for r in row[0].split("\n") if r.strip()])
+            new_data.append(row)
+        rows = new_data
+    else:
+        rows = data
+    if ignore_one_cell and len(rows) == 1 and len(rows[0]) <= 1:
+        # Ignore tables with one element
+        return ""
+    if lwidths == 1:
+        return (
+            caption
+            + '* ' + '\n* '.join(rows)
+            + '\n'
+        )
+    return (
+        caption
+        + '\n'
+        + '\n'.join(
+            re.sub(
+                r"^(\|[^\|]+\|+) \|$",
+                r"\1|",
+                "| " + " | ".join(f"{remove_line_breaks(d)}" for (w, d) in zip(widths, r) if w > 0) + " |"
+            ) for r in rows
+        )
+        + '\n'
+    )
+
+
+def remove_line_breaks(text):
+    return text.replace("\n", " ").strip()
+
+
 
 # A good reference to find superscripts is https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts
 

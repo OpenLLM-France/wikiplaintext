@@ -202,6 +202,40 @@ En plus de leur rôle dans les propriétés condimentaires et médicinales de la
 ### Propriétés fonctionnelles
 
 Alors que dans les années 1990, les pharmacopées précisaient encore que l'usage médicinal de l'ase fétide se faisait sans bases cliniques, un nombre important de recherches pharmacologiques, principalement iraniennes, ont été entreprises durant les deux premières décennies du XXIᵉ siècle. Plusieurs propriétés de la gomme-résine ont été identifiées et testées en laboratoire, base d'un grand potentiel pharmacologique. L'identification des composés phytochimiques actifs reste à faire et leur innocuité doit être vérifiée.
+Principales fonctions de l'ase fétide rapportées dans la littérature :
+| Domaine | Fonction | Principes actifs identifiés | Type d'étude | Origine du produit | Références |
+| Système hormonal | Anti-obésité, antidiabétique, antihyperlipidémique | Acide férulique, ombelliférone, quercétine | in vivo, rats | Résine commerciale | Abu-Zaiton (2010) |
+| Résine commerciale | Azizian et al. (2012) |
+| F. assa-foetida (Bastak, Iran) | Latifi et al. (2019) |
+| Système gastro-intestinal | Antidiarrhéique | - | in vivo, rats | F. assa-foetida | Jalilzadeh-Amin et al. (2017) |
+| Antispasmodique | - | in vitro, ileon de cobaye | F. assa-foetida (Gonabad, Iran) | Fatehi et al. (2004) |
+| Système cardio-vasculaire | Hypotenseur | - | in vivo, rats |
+| Diurétique | Flavonoïdes | in vivo, rats | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2016) |
+| Système nerveux | Neuroprotecteur | Organosulfurés, acide férulique | in vitro, cellules granulaires de rats | F. assa-foetida (Nishapur, Iran) | Tayeboon et al. (2013) |
+| in vivo, souris | F. assa-foetida (Yazd, Iran) | Moghadam et al. (2014) |
+| Anti-démence, renforceur de mémoire | Acide férulique, ombelliférone | in vivo, rats | Résine commerciale | Adiga et al. (2012) |
+| in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2015) |
+| Anticonvulsivant | Monoterpènes | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2014) |
+| Antidépresseur | Acide férulique, ombelliférone, organosulfurés | in vivo, souris et rats | Résine commerciale | Kumar et al. (2017) |
+| Anxiolytique, sédatif | - | in vivo, souris et rats | Résine commerciale | Alqasoumi (2012) |
+| Cancer | Antitumoral, antimétastasique, chimiopréventif du cancer | Ombelliprénine, farnésiférol C, acide férulique | in vivo, souris | Résine commerciale | Saleem et al. (2003) |
+| in vivo, rats | Résine commerciale | Mallikarjuna et al. (2003) |
+| in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2017) |
+| Douleur et inflammation | Antinociceptif | Terpénoïdes, acide férulique | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2014) |
+| Anti-inflammatoire (dysménorrhée) | Terpénoïdes, ombelliprénine | in vivo, essai randomisé contrôlé | Résine commerciale | Sultana et al. (2017) |
+| Infection | Antimicrobien | Organosulfurés | in vitro, bactéries à Gram positif et négatif | F. assa-foetida (Nishapur, Iran) | Samadi et al. (2016) |
+| in vitro, bactéries pathogènes orales | F. assa-foetida (Yazd, Iran) | Daneshkazemi et al. (2019) |
+| in vivo, essai randomisé contrôlé | Résine commerciale | Hashemi et al. (2019) |
+| Antiviral | Coumarines sesquiterpéniques | in vitro, grippe A (H1N1) | Résine commerciale | Lee et al. (2009) |
+| in vitro, HSV-1 | F. assa-foetida (Kerman, Iran) | Ghannadi et al. (2014) |
+| Antiparasitaire | - | in vitro, Trichomonas vaginalis | Résine commerciale | Ramadan & Al Khadrawy (2003) |
+| Anthelminthique | Tanins | in vivo, souris infectées avec Schistosoma mansoni | Résine commerciale | Ramadan et al. (2004) |
+| in vitro, Pheretima posthuma | Résine commerciale | Gundamaraju (2013) |
+| Antifongique | - | in vitro, Trichoderma harzianum | Résine commerciale | Angelini et al. (2009) |
+| Divers | Antisénescent | Acide férulique | in vitro, fibroblastes humains | F. assa-foetida (Yazd, Iran) | Moghadam et al. (2017) |
+| Contraceptif | Organosulfurés | in vivo, rats | Résine commerciale | Keshri et al. (1999) |
+| Insecticide | Organosulfurés | in vivo, larves de moustiques | Huile essentielle | Muturi et al. (2018) |
+| in vivo, divers insectes | F. assa-foetida (Kachmar, Iran) | Pavela et al. (2020) |
 
 # Ase fétide
 ## Effets et toxicité

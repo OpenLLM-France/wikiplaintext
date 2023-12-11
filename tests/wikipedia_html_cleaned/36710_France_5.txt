@@ -178,6 +178,28 @@ Les premières parties de soirée abordent chacune des thèmes différents à tr
 D'après Médiamétrie, en 2016, France 5 est la cinquième chaîne de télévision la plus regardée de France, ex-æquo avec C8, avec une part d'audience moyenne annuelle de 3,4 %.
 La chaîne conserve au fil des ans sa place de sixième chaîne nationale de France avec une audience stabilisée depuis 2004 entre 3 et 3,5 %. Elle est la seule des chaînes dites « historiques » à avoir résisté à l'arrivée de nouvelles chaînes concurrentes avec le lancement de la télévision numérique terrestre (TNT) en 2005, dont la mesure d'audience débute en 2007.
 En 2017, France 5 reste la cinquième chaîne la plus regardée en France, avec 3,6 % de parts d'audience sur les neuf premiers mois de l'année, soit sa meilleure année historique (hors canal partagé).
+Audiences annuelles en part de marché de La Cinquième (1995-2001) puis de France 5 (2002-2006) :
+| 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 |
+| 1,3 %** | 1,6 % | 1,8 % | 1,9 % | 1,9 % | 1,8 % | 1,9 % | 2,3 % | 2,9 % | 3,0 % | 3,1 % | 3,1 % |
+Audiences mensuelles et annuelles en part de marché de France 5 :
+| | Janvier | Février | Mars | Avril | Mai | Juin | Juillet | Août | Septembre | Octobre | Novembre | Décembre | Moyenne annuelle | Rang |
+| 2007 | | | | | | | | | | | | | 3,3 % | 6ᵉ |
+| 2008 | | | | | | | | | | | | | 3,0 % |
+| 2009 | | | | | | | | | | | | | 3,1 % | 5ᵉ |
+| 2010 | | | | | | | | | 3,2 % | 3,2 % | 3,4 % | 3,6 % | 3,2 % | 6ᵉ |
+| 2011 | 3,4 % | 3,5 % | 3,3 % | 3,1 % | 3,3 % | 3,2 % | 3,1 % | 3,4 % | 3,4 % | 3,2 % | 3,5 % | 3,5 % | 3,3 % | 7ᵉ |
+| 2012 | 3,7 % | 3,7 % | 3,5 % | 3,6 % | 3,5 % | 3,8 %* | 3,3 % | 3,2 % | 3,4 % | 3,5 % | 3,6 % | 3,6 % | 3,5 % | 6ᵉ |
+| 2013 | 3,4 % | 3,4 % | 3,4 % | 3,4 % | 3,4 % | 3,4 % | 3,0 % | 3,2 % | 3,2 % | 3,2 % | 3,3 % | 3,2 % | 3,3 % |
+| 2014 | 3,3 % | 3,1 % | 3,2 % | 3,3 % | 3,2 % | 3,2 % | 2,7 %** | 3,0 % | 3,5 % | 3,4 % | 3,5 % | 3,6 % | 3,2 % |
+| 2015 | 3,5 % | 3,5 % | 3,4 % | 3,3 % | 3,4 % | 3,4 % | 3,1 % | 3,2 % | 3,3 % | 3,4 % | 3,5 % | 3,6 % | 3,4 % |
+| 2016 | 3,7 % | 3,5 % | 3,4 % | 3,3 % | 3,4 % | 3,4 % | 2,9 % | 2,9 % | 3,5 % | 3,6 % | 3,6 % | 3,6 % | 3,4 % | 5ᵉ |
+| 2017 | 3,7 % | 3,7 % | 3,7 % | 3,5 % | 3,6 % | 3,7 % | 3,3 % | 3,4 % | 3,5 % | 3,6 % | 3,6 % | 3,6 % | 3,6 %* |
+| 2018 | 3,6 % | 3,7 % | 3,7 % | 3,5 % | 3,6 % | 3,5 % | 2,9 % | 3,3 % | 3,4 % | 3,5 % | 3,6 % | 3,8 %* | 3,5 % |
+| 2019 | 3,8 %* | 3,7 % | 3,8 %* | 3,5 % | 3,6 % | 3,6 % | 3,2 % | 3,3 % | 3,4 % | 3,7 % | 3,7 % | 3,7 % | 3,6 %* |
+| 2020 | 3,6 % | 3,8 %* | 3,7 % | 3,4 % | 3,3 % | 3,6 % | 3,2 % | 3,2 % | 3,3 % | 3,6 % | 3,7 % | 3,5 % | 3,5 % |
+| 2021 | 3,6 % | 3,3 % | 3,3 % | 3,2 % | 3,2 % | 3,1 % | 3,0 % | 3,4 % | 3,3 % | 3,3 % | 3,5 % | 3,6 % | 3,3 % |
+| 2022 | 3,7 % | 3,6 % | 3,8 %* | 3,6 % | 3,6 % | 3,6 % | 3,0 % | 3,4 % | 3,6 % | 3,8 %* | 3,6 % | 3,4 % | 3,6 %* |
+| 2023 | 3,8 %* | 3,7 % | 3,5 % | 3,6 % | 3,4 % | 3,4 % | 3,1 % | 3,2 % | 3,3 % | 3,4 % | | | | |
 Source : Médiamétrie
 Légende :
 > * : maximum historique.
@@ -191,6 +213,12 @@ Légende :
 #### Audiences du canal partagé
 
 Du 13 décembre 1994 au 30 novembre 2011, La Cinquième puis France 5 est diffusée de 3 h à 19 h sur le cinquième réseau analogique terrestre de TDF en canal partagé avec la chaîne franco-allemande Arte. Cette tranche bénéfice alors d'une mesure spécifique de son audience.
+Audiences annuelles de La Cinquième :
+| 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 |
+| 4,5 % | 4,6 % | 4,5 % | 4,6 % | 4,7 % | 4,7 % | 5,0 % | 5,0 % |
+Audiences annuelles de France 5 :
+| 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 |
+| 5,1 % | 6,4 % | 6,7 % | 7,3 % | 7,2 % | 6,5 % | 5,5 % | 5,1 % | 4,7 % |
 
 # France 5
 ## Audiences
@@ -201,12 +229,32 @@ Le 7 novembre 2005, France 5 réalise son record d'audience historique avec l'é
 Durant la saison 2016-2017, le magazine C dans l'air a réalisé de très bonnes audiences grâce à la forte actualité liée aux élections présidentielle et législatives. En moyenne, C dans l'air a rassemblé 1,5 million de téléspectateurs chaque jour, soit une part de marché de 12,8 %.
 Le 9 janvier 2017, le téléfilm Les petits meurtres d'Agatha Christie permet à France 5 de réaliser son record en téléspectateurs, avec 1,98 million de personnes présentes et 7,7 % du public.
 Le 19 juillet 2017, la chaîne bat son record historique en prime avec le documentaire Une vie de chaton. Le programme a rassemblé 1,8 million de téléspectateurs pour 9,1 % de part de marché (record historique sur ce critère).
+Les quinze meilleures audiences de la chaîne :
+| Date | Programme | Genre | Téléspectateurs | Part de marché (%) |
+| 7 décembre 2015 | C dans l'air (Élections régionales françaises de 2015) | Magazine | 2 500 000 | 17,2 |
+| 18 novembre 2015 | C dans l'air (Attentats du 13 novembre 2015 en France) | Magazine | 2 460 000 | 16,5 |
+| 7 novembre 2005 | C dans l'air (Émeutes de 2005 dans les banlieues françaises) | Magazine | 2 300 000 | 16,7 |
+| 10 décembre 2006 | Ripostes (Nicolas Sarkozy) | Magazine | 2 242 400 | 14,1 |
+| 5 décembre 2018 | C dans l'air (Mouvement des Gilets jaunes) | Magazine | 2 200 000 | 17,1 |
+| 30 janvier 2012 | C dans l'air (Élection présidentielle française de 2012) | Magazine | 2 172 000 | 14,5 |
+| 9 janvier 2017 | Les Petits Meurtres d'Agatha Christie | Téléfilm | 1 978 000 | 7,7 |
+| 20 avril 2020 | C à vous (Pandémie de Covid-19) | Magazine | 2 110 000 | 9,8 |
+| 15 avril 2020 | C à vous (Pandémie de Covid-19) | Magazine | 2 100 000 | 10,2 |
+| 16 mars 2020 | C à vous (Pandémie de Covid-19) | Magazine | 2 040 000 | 8,5 |
+| 27 mars 2020 | C à vous (Pandémie de Covid-19) | Magazine | 2 040 000 | 9,0 |
+| 28 avril 2020 | C à vous (Pandémie de Covid-19) | Magazine | 2 020 000 | 9,2 |
+| 25 mars 2020 | C à vous (Pandémie de Covid-19) | Magazine | 2 000 000 | 8,9 |
+| 7 avril 2020 | C à vous (Pandémie de Covid-19) | Magazine | 1 990 000 | 9,5 |
+| 17 avril 2020 | C à vous (Pandémie de Covid-19) | Magazine | 1 980 000 | 9,6 |
 
 # France 5
 ## Audiences
 ### Audiences en Belgique
 
 France 5 est en 2015, la treizième chaine belge ex-æquo avec 13e rue.
+Audiences annuelles en part de marché en Belgique (%) :
+| 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+| 1,3 | 1,3 | 1,3 | 1,3 | 1,4 | 1,4 |
 
 # France 5
 ## Diffusion

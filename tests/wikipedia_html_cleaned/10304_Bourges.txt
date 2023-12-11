@@ -25,6 +25,15 @@ Ancienne ville fortifiée, Bourges a conservé quelques vestiges de ces défense
 
 Le climat de Bourges est tempéré avec des influences continentales et océaniques. Les données suivantes ont été relevées à la station Météo France de l'aéroport de Bourges :
 La station météorologique de Météo-France installée sur l'aérodrome de la commune et mise en service en 1945 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
+Statistiques 1981-2010 et records BOURGES (18) - alt : 161 m 47° 03′ 30″ N, 2° 21′ 30″ E Records établis sur la période du 01-03-1945 au 04-09-2023 :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température minimale moyenne (°C) | 1,1 | 1,1 | 3,4 | 5,3 | 9,2 | 12,4 | 14,4 | 14,1 | 11,1 | 8,3 | 4 | 1,8 | 7,2 |
+| Température moyenne (°C) | 4 | 4,8 | 8 | 10,4 | 14,4 | 17,7 | 20,2 | 19,9 | 16,4 | 12,7 | 7,4 | 4,6 | 11,7 |
+| Température maximale moyenne (°C) | 6,9 | 8,5 | 12,5 | 15,5 | 19,6 | 23,1 | 26 | 25,6 | 21,8 | 17 | 10,7 | 7,4 | 16,3 |
+| Record de froid (°C) date du record | −20,4 16.01.1985 | −16,4 14.02.1956 | −11,3 01.03.05 | −3,7 12.04.1986 | −2,6 07.05.1957 | 3,4 05.06.1969 | 4,6 10.07.1948 | 4,6 22.08.1946 | 1,8 20.09.1962 | −5 30.10.1997 | −9,1 24.11.1998 | −14 20.12.1946 | −20,4 1985 |
+| Record de chaleur (°C) date du record | 17,6 30.01.02 | 22,8 27.02.19 | 29,4 25.03.1955 | 29,4 16.04.1949 | 32 27.05.05 | 39,5 27.06.19 | 41,7 25.07.19 | 39,9 10.08.03 | 36,4 04.09.23 | 31,7 01.10.1985 | 23,4 07.11.15 | 20 16.12.1989 | 41,7 2019 |
+| Ensoleillement (h) | 67,9 | 88,6 | 151 | 175,7 | 210 | 224,9 | 239 | 232,7 | 185,8 | 124,5 | 72,2 | 55,3 | 1 827,5 |
+| Précipitations (mm) | 55,2 | 52 | 53,2 | 62,4 | 78,6 | 60,5 | 66,1 | 55 | 59,7 | 71,7 | 65,7 | 67,8 | 747,9 |
 
 # Bourges
 ## Urbanisme
@@ -276,6 +285,11 @@ Les autres projets d'aménagement notables au début des années 2010 sont :
 En 2019, le nombre total de logements dans la commune était de 38 988, alors qu'il était de 37 687 en 2014 et de 36 684 en 2009.
 Parmi ces logements, 83,8 % étaient des résidences principales, 2,4 % des résidences secondaires et 13,7 % des logements vacants. Ces logements étaient pour 44 % d'entre eux des maisons individuelles et pour 55,5 % des appartements.
 Le tableau ci-dessous présente la typologie des logements à Bourges en 2019 en comparaison avec celle du Cher et de la France entière. Une caractéristique marquante du parc de logements est ainsi une proportion de résidences secondaires et logements occasionnels (2,4 %) inférieure à celle du département (7,5 %) et à celle de la France entière (9,7 %). Concernant le statut d'occupation de ces logements, 47,5 % des habitants de la commune sont propriétaires de leur logement (46,9 % en 2014), contre 67 % pour le Cher et 57,5 pour la France entière.
+Le logement à Bourges en 2019. :
+| Typologie | Bourges | Cher | France entière |
+| Résidences principales (en %) | 83,8 | 79,4 | 82,1 |
+| Résidences secondaires et logements occasionnels (en %) | 2,4 | 7,5 | 9,7 |
+| Logements vacants (en %) | 13,7 | 13 | 8,2 |
 
 # Bourges
 ## Urbanisme
@@ -283,6 +297,36 @@ Le tableau ci-dessous présente la typologie des logements à Bourges en 2019 en
 #### Voies routières et autoroutières
 
 Proche du centre géographique de la France, Bourges est à la croisée de grands itinéraires reliant des métropoles françaises et européennes.
+| Destination | Voie routière | Distance | Temps de parcours automobile (sans pause) |
+| Orléans | A71 | 125 km | 1 heure 10 |
+| Tours | A71 - A85 | 164 km | 1 heure 40 |
+| Clermont-Ferrand | A71 | 193 km | 1 heure 50 |
+| Limoges | N151 - A20 | 196 km | 2 heures 10 |
+| Paris | A71 - A10 | 253 km | 2 heures 30 |
+| Angers | A71 - A85 | 272 km | 2 heures 40 |
+| Le Mans | A71 - A85 - A28 | 263 km | 2 heures 40 |
+| Lyon | A71 - A89 | 342 km | 3 heures 20 |
+| Nantes | A71 - A85 - A11 | 385 km | 3 heures 30 |
+| Dijon | N151 - A6 - A38 | 246 km | 3 heures 30 |
+| Rouen | A71 - A10 - N10 - A12 -A13 | 360 km | 3 heures 40 |
+| Rennes | A71 - A85 - A28 - A81 - N157 | 419 km | 4 heures 10 |
+| Grenoble | A71 - A89 - A43 - A48 | 450 km | 4 heures 20 |
+| Genève | D2076 - N7 - N79 - A40 | 382 km | 4 heures 30 |
+| Lille | A71 - A10 - A1 | 468 km | 4 heures 40 |
+| Bordeaux | N151 - A20 - N145 - N10 | 398 km | 4 heures 40 |
+| Toulouse | N151 - A20 - A62 | 482 km | 4 heures 50 |
+| Montpellier | A71 - A75 - A750 | 516 km | 5 heures 20 |
+| Nancy | D940 - A77 - A19 - A5 - A31 | 488 km | 5 heures 20 |
+| Bruxelles | A71 - A10 - A1 - A2 | 563 km | 5 heures 40 |
+| Bâle | N151 - A6 - A36 - A35 | 502 km | 5 heures 50 |
+| Luxembourg (ville) | D940 - A77 - A19 - A5 - A26 - A4 - A31 | 556 km | 5 heures 50 |
+| Marseille | A71 - A89 - A72 - A47 - A7 | 650 km | 6 heures |
+| Turin | A71 - A89 - A43 - | 651 km | 6 heures 50 |
+| Francfort-sur-le-Main | D940 - A77 - A19 - A5 - A26 - A4 | 756 km | 7 heures 40 |
+| Londres | A71 - A10 - A16 | 714 km | 7 heures 50 |
+| Milan | D2076 - N7 - N79 - A40 | 692 km | 7 heures 50 |
+| Barcelone | A71 - A75 - A9 | 806 km | 8 heures 10 |
+| Valence (Espagne) | A71 - A75 - A9 - E15 - AP-7 | 1 145 km | 10 heures 30 |
 Bourges dispose d'une rocade qui permet son contournement d'est en ouest par le sud sur 36 km grâce à la RN 142 et la RD 400. Elle est actuellement en 2 × 1 voies sauf sur une partie en 2 × 2 voies sur 1,2 km à l'est. Actuellement, la rocade n'est pas totalement reliée. La section nord-est entre la RN 151 et la RD 940, longue de 8 km, a vu le jour en 2014.
 
 # Bourges
@@ -513,7 +557,7 @@ Résultats des deux meilleurs scores :
 
 * Élections municipales de 2008 : 50,66 % pour Serge Lepeltier (UMP), 43,66 % pour Irène Félix (PS), 56,23 % de participation.
 * Lors du second tour des élections municipales de 2014 dans le Cher, la liste UDI mené par Pascal Blanc — bénéficiaint du soutien du maire sortant Serge Lepeltier, qui ne se représentait pas — obtient la majorité absolue des suffrages exprimés; avec 12 251 voix (53,64 %, 38 conseillers municipaux élus dont 20 communautaires), devançant significativement celle PS menée par Irène Felix 10 587 voix (46,36 %, 11 conseillers municipaux élus dont 6 communautaires). Lors de ce scrutin, 46,25 % des électeurs se sont abstenus.
-* Lors du second tour des élections municipales de 2020 dans le Cher, la liste d'union de la gauche (DVG-PS-EÉLV-PCF-LFI-GRS-G.s) menée par Yann Galut — qui a fait alliance avec la liste du 1ᵉʳ tour DVG menée par Irène Felix — remporte la majorité absolue des suffrages exprimés, avec 8 469 voix (54,95 %, 38 conseillers municipaux élus dont 27 communautaires), devançant significativement la liste LR menée par Philippe Mousny — qui bénéficiait de la fusion de la liste du 1ᵉʳ tour MR-LREM-MoDem-UDI-Agir-SL menée par le maire sortant Pascal Blanc — qui a obtenu 6 943 voix (45,04 %, 11 conseillers municipaux élus dont 8 communautaires).Lors de ce scrutin marqué par la pandémie de Covid-19 en France, 63,01 des électeurs se sont abstenus.
+* Lors du second tour des élections municipales de 2020 dans le Cher, la liste d'union de la gauche (DVG-PS-EÉLV-PCF-LFI-GRS-G.s) menée par Yann Galut — qui a fait alliance avec la liste du 1ᵉʳ tour DVG menée par Irène Felix — remporte la majorité absolue des suffrages exprimés, avec 8 469 voix (54,95 %, 38 conseillers municipaux élus dont 27 communautaires), devançant significativement la liste LR menée par Philippe Mousny — qui bénéficiait de la fusion de la liste du 1ᵉʳ tour MR-LREM-MoDem-UDI-Agir-SL menée par le maire sortant Pascal Blanc — qui a obtenu 6 943 voix (45,04 %, 11 conseillers municipaux élus dont 8 communautaires). Lors de ce scrutin marqué par la pandémie de Covid-19 en France, 63,01 des électeurs se sont abstenus.
 
 # Bourges
 ## Politique et administration

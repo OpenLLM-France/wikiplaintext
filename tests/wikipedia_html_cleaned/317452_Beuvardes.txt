@@ -53,6 +53,11 @@ L'évolution de l’occupation des sols de la commune et de ses infrastructures 
 En 2018, le nombre total de logements dans la commune était de 360, alors qu'il était de 334 en 2013 et de 326 en 2008.
 Parmi ces logements, 84,2 % étaient des résidences principales, 11,1 % des résidences secondaires et 4,7 % des logements vacants. Ces logements étaient pour 96,4 % d'entre eux des maisons individuelles et pour 2,5 % des appartements.
 Le tableau ci-dessous présente la typologie des logements à Beuvardes en 2018 en comparaison avec celle de l'Aisne et de la France entière. Une caractéristique marquante du parc de logements est ainsi une proportion de résidences secondaires et logements occasionnels (11,1 %) supérieure à celle du département (3,5 %) et à celle de la France entière (9,7 %). Concernant le statut d'occupation de ces logements, 84,8 % des habitants de la commune sont propriétaires de leur logement (87,2 % en 2013), contre 61,6 % pour l'Aisne et 57,5 % pour la France entière.
+Le logement à Beuvardes en 2018. :
+| Typologie | Beuvardes | Aisne | France entière |
+| Résidences principales (en %) | 84,2 | 86,7 | 82,1 |
+| Résidences secondaires et logements occasionnels (en %) | 11,1 | 3,5 | 9,7 |
+| Logements vacants (en %) | 4,7 | 9,8 | 8,2 |
 
 # Beuvardes
 ## Toponymie

@@ -31,6 +31,14 @@ Une pratique modale moderne réapparaît progressivement au cours du XIXᵉ si�
 ## Modes diatoniques
 
 Les modes diatoniques correspondent aux sept modes construits à partir de chaque note de l'échelle diatonique. Ces modes incluent les quatre modes (forme authente) employés jadis au Moyen Âge, auxquels on a ajouté les modes de do (dit « ionien ») et de la (dit « eolien ») (forme authente) au cours de la Renaissance, puis le mode de si (dit "locrien") au cours du XIXᵉ siècle. Ils sont souvent nommés par leur note nominale, correspondant à leur finale : mode de do, de ré, de mi, etc.
+| | Nom moderne | Nom courant (Glaréan, 1547) | Nom antique présumé (Gevaert, 1875) | Séquence d'intervalles en tons |
+| I. | Mode de do | Mode ionien | Mode lydien | 1 - 1 - ¹⁄₂ - 1 - 1 - 1 - ¹⁄₂ |
+| II. | Mode de ré | Mode dorien (protus) | Mode phrygien | 1 - ¹⁄₂ - 1 - 1 - 1 - ¹⁄₂ - 1 |
+| III. | Mode de mi | Mode phrygien (deuterus) | Mode dorien | ¹⁄₂ - 1 - 1 - 1 - ¹⁄₂ - 1 - 1 |
+| IV. | Mode de fa | Mode lydien (tritus) | Mode hypolydien | 1 - 1 - 1 - ¹⁄₂ - 1 - 1 - ¹⁄₂ |
+| V. | Mode de sol | Mode mixolydien (tetrardus) | Mode hypophrygien | 1 - 1 - ¹⁄₂ - 1 - 1 - ¹⁄₂ - 1 |
+| VI. | Mode de la | Mode éolien | Mode hypodorien | 1 - ¹⁄₂ - 1 - 1 - ¹⁄₂ - 1 - 1 |
+| VII. | Mode de si | Mode locrien | Mode mixolydien | ¹⁄₂ - 1 - 1 - ¹⁄₂ - 1 - 1 - 1 |
 
 # Mode (musique)
 ## Modes diatoniques
@@ -99,6 +107,20 @@ Ce mode peut être interprété aussi comme une altération du mode de la (mineu
 # Mode (musique)
 ## Modes altérés
 ### Modes déduits de la gamme mineure mélodique ascendante
+#### Structure
+
+| Mode | Séquence d'intervalles en tons | Nom courant, commentaire |
+| I. mode mineur mélodique ascendant | 1 - 1/2 - 1 - 1 - 1 - 1 - 1/2 | Cette échelle peut être apparentée à une gamme mineure mélodique ascendante. Principale différence avec le véritable mode mineur mélodique : ses VIᵉ et VIIᵉ degrés sont fixes, alors qu'ils sont mobiles dans le mode mineur mélodique. |
+| II. mode de ré à seconde mineure | 1/2 - 1 - 1 - 1 - 1 - 1/2 - 1 | mode dorien 2 (peut être vu comme la rencontre du premier tétracorde du mode de mi avec le second tétracorde du mode de ré) |
+| III. mode de fa à quinte augmentée | 1 - 1 - 1 - 1 - 1/2 - 1 - 1/2 | mode lydien augmenté |
+| IV. mode de fa à septième mineure, ou mode de sol à quarte augmentée | 1 - 1 - 1 - 1/2 - 1 - 1/2 - 1 | mode de Bartók, mode lydien 7, lydien dominant, super lydien, mixolydien 4, ou mode acoustique (correspond à un mode exotique employé dans la musique occidentale : le mode hindou Vāchaspati) |
+| V. mode de sol à sixte altérée | 1 - 1 - 1/2 - 1 - 1/2 - 1 - 1 | mixolydien 6, (fréquemment nommé improprement mixolydien 13), mode majeur-mixte, aeolien dominant |
+| VI. mode de la à quinte diminuée, ou mode de si à seconde majeure | 1 - 1/2 - 1 - 1/2 - 1 - 1 - 1 | éolien 5 , ou locrien 2 |
+| VII. mode de si à quarte diminuée | 1/2 - 1 - 1/2 - 1 - 1 - 1 - 1 | mode altéré, super locrien, ou locrien 4 |
+
+# Mode (musique)
+## Modes altérés
+### Modes déduits de la gamme mineure mélodique ascendante
 #### Utilisations
 
 La gamme mineure mélodique était utilisée bien avant l'usage des modes. Mais l'usage moderne de la forme ascendante en tant que mode à part entière a été pratiqué au début du XXᵉ siècle notamment par Fauré. Le mode majeur-mixte (dit mixolydien 6) en classique a aussi été utilisé, notamment par Gabriel Fauré (exemple « Ce sera par un clair jour d'été » - La bonne chanson) et on en trouve même des exemples précoces dans l'histoire de la musique chez Schubert. Debussy utilise le mode acoustique (dit « lydien dominant ») notamment dans la Mer. Mais c'est certainement Béla Bartók qui en a fait l'usage le plus notoire. D'où le fait qu'on lui ait souvent donné le nom de mode de Bartók.
@@ -110,6 +132,14 @@ Dans le jazz, cette forme de l'échelle et les modes déduits de celle-ci sont c
 
 La gamme harmonique mineure a été utilisée bien avant le grand retour des modes et la théorisation moderne des modes. À l'époque classique où seuls deux modes étaient employés (majeur et mineur), cette gamme constituait le pendant mineur du mode majeur. Le mode mineur naturel (ou mode de la, dit éolien) étant totalement ignoré à cette époque, c'est la gamme harmonique mineure qui était principalement utilisée dans toute la production classique ancienne. Même si parfois on avait recours à la gamme mineure mélodique dans les compositions contrapuntiques. Cette gamme était privilégiée à l'époque car elle permettait de transposer au mode mineur la relation sensible-tonique du mode majeur essentielle aux yeux des compositeurs classiques. C'est pourquoi son emploi au sein d'une structure harmonique déduite de celle-ci tend à connoter souvent une couleur classique traditionnelle.
 Depuis, beaucoup de théoriciens du jazz et du rock tendent à envisager indifféremment la gamme harmonique mineure comme un mode parmi d'autres plutôt que comme le mode mineur par excellence comme le font encore les théoriciens du classique. Mais l'approche moderne des modes, tout particulièrement dans le jazz, a exploité la disposition d'échelle spécifique de la gamme harmonique mineure pour en déduire de nouveaux modes à partir d'autres finales sur l'échelle. Ce qui donne 6 autres nouveaux modes. Ces nouveaux modes n'ont pas de noms officiels mis à part l'emploi de termes grecs dérivés.
+| | Séquence d'intervalles en tons | Nom courant, commentaire |
+| I. | 1 - 1/2 - 1 - 1 - 1/2 - 3/2 - 1/2 | mode mineur harmonique (identique à une gamme mineure harmonique) |
+| II. | 1/2 - 1 - 1 - 1/2 - 3/2 - 1/2 - 1 | mode locrien naturel |
+| III. | 1 - 1 - 1/2 - 3/2 - 1/2 - 1 - 1/2 | mode ionien augmenté |
+| IV. | 1 - 1/2 - 3/2 - 1/2 - 1 - 1/2 - 1 | mode dorien 4 (proche de la gamme tzigane) |
+| V. | 1/2 - 3/2 - 1/2 - 1 - 1/2 - 1 - 1 | mode mixolydien 26, phrygien 3, mode andalou, phrygien espagnol, phrygien dominant |
+| VI. | 3/2 - 1/2 - 1 - 1/2 - 1 - 1 - 1/2 | mode lydien 2 |
+| VII. | 1/2 - 1 - 1/2 - 1 - 1 - 1/2 - 3/2 | mode diminué diatonique |
 On tend parfois à rapprocher le mode dorien 4 (noté IV) de la gamme tzigane à cause de la place de la seconde augmentée qui se trouve sur les mêmes degrés que la gamme tzigane. Mais la vraie gamme tzigane s'en distingue dans le fait que celle-ci est caractérisée par une double seconde augmentée.
 Même si le mode phrygien 3 (noté V) présente les caractéristiques du mode andalou, il s'en distingue en ce que ses degrés sont fixes, tandis que le mode andalou tel qu'il est utilisé dans la musique traditionnelle se caractérise par la mobilité de ses 3ᵉ et 7ᵉ degrés. Elle est aussi souvent confondue à tort avec la gamme orientale du fait de la place de sa seconde augmentée caractéristique. Mais elle s'en distingue dans le fait que la vraie gamme orientale est constituée de deux secondes augmentées et une sensible ascendante au 7ᵉ degré. Contrairement à ce mode dont le 7ᵉ degré est une sous-tonique à distance de seconde majeure de la tonique.
 

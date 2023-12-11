@@ -72,6 +72,16 @@ Vice-présidents du directoire
 ## Organisation
 ### Actionnaires
 
+| RTL Group SA | 48,3 % |
+| Compagnie Nationale à Portefeuille SA | 7,24 % |
+| Norges Bank Investment Management | 2,91 % |
+| DNCA Finance SA | 1,82 % |
+| The Vanguard Group, Inc. | 1,36 % |
+| Investec Asset Management Ltd. | 1,15 % |
+| Invesco Advisers, Inc. | 0,93 % |
+| Schroder Investment Management Ltd. | 0,65 % |
+| SEB Investment Management AB | 0,65 % |
+| ING Belgium SA/NV (Private Banking) | 0,54 % |
 Mise à jour au 1ᵉʳ septembre 2019.
 À l'origine, le groupe M6 est principalement détenu par la Compagnie luxembourgeoise de télédiffusion (RTL Group), la Lyonnaise des eaux, l'Union des assurances de Paris, Paribas, Suez et diverses sociétés financières (Parfinance, Crédit agricole, Groupe Bruxelles Lambert) et éditeurs de presse (Sud Ouest, Groupe Amaury, Ouest-France). Après l'introduction en bourse en septembre 1994, la Compagnie luxembourgeoise de télédiffusion et la Lyonnaise des eaux augmentent leur participation tandis que les autres la réduisent et qu'une partie du capital devient flottant. En février 2004, Suez — qui a fusionné avec La Lyonnaise des eaux — réduit sa participation, puis, en juillet 2006, vend ses parts à la Compagnie nationale à portefeuille qui fait son entrée dans le capital du groupe.
 
@@ -80,6 +90,10 @@ Mise à jour au 1ᵉʳ septembre 2019.
 ### Données financières
 
 En 2016, le groupe M6 a fait un chiffre d'affaires de 1,279 milliard d'euros, se décomposant en 856 millions pour les activités de télévision, 98 millions pour les activités de production et de distribution et 325 millions pour les autres activités. Le résultat net s'élève à 152,8 millions d'euros.
+Indicateurs financiers (en millions d'euros) :
+| | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
+| Chiffre d'affaires | 742,5 | 845,3 | 948,5 | 1 176,9 | 1 192,8 | 1 274,7 | 1 283,4 | 1 356,4 | 1 354,9 | 1 376,6 | 1 462,0 | 1 421,3 | 1 386,6 | 1 265,0 | 1 257,9 | 1 249,8 | 1 278,7 |
+| Résultat net | 103,5 | 116,2 | 110,8 | 130,1 | 138,2 | 156,3 | 409,1 | 168,6 | 138,4 | 139,1 | 157,0 | 149,7 | 140,2 | 112,1 | 123,2 | 114,9 | 152,8 |
 
 # Groupe M6
 ## Organisation
@@ -107,18 +121,64 @@ Le groupe M6 détient des chaînes de télévision généralistes et thématique
 ### Radio
 
 Le groupe M6 est présent dans le domaine de la radio depuis 2017 avec le rachat du pôle radio RTL France.
+Stations de radio en activité :
+| Radio | Date de création | Actionnaires |
+| RTL Radio généraliste | 15 mars 1933 | 100 % Groupe M6 |
+| Fun Radio Radio musicale de genre dance Déclinaisons : Fun Radio Antilles et Fun Radio Belgique | 2 octobre 1985 |
+| RTL2 Radio musicale de genre pop rock | 6 janvier 1992 |
 
 # Groupe M6
 ## Activités du groupe
 ### Télévision
 
+Chaînes de télévision en activité :
+| Chaîne | Date de création | Actionnaires |
+| M6 (HD) Chaîne généraliste (canal 6) | 1ᵉʳ mars 1987 | 100% Groupe M6 |
+| W9 (HD) Chaîne généraliste à tendances musicales (canal 9) | 31 mars 2005 |
+| Gulli (HD) Chaîne généraliste jeunesse (canal 18) | 18 novembre 2005 (acquis en Septembre 2019) |
+| 6ter (HD) Chaîne généraliste familiale (canal 22) | 12 décembre 2012 |
+| Paris Première (HD) Chaîne généraliste à tendance culturelle (canal 41 (plages en clair), câble, etc.) | 15 décembre 1986 (acquis en 2004) |
+| Téva (HD) Chaîne généraliste visant un public féminin et familial (câble) | cocrée le 6 octobre 1996 (acquis totalement en 2007) |
+| Canal J (HD) Chaîne jeunesse payante | 23 décembre 1985 (acquis en Septembre 2019) |
+| TiJi (HD) Chaîne jeunesse payante | 15 décembre 2000 (acquis en Septembre 2019) |
+| MCM (HD) Chaîne générationnelle payante destinée aux jeunes adultes | 1ᵉʳ juillet 1989 (acquis en Septembre 2019) |
+| M6 Music (HD) Chaîne musicale payante | 5 mars 1998 |
+| MCM Top (HD) Chaîne musicale payante | 28 novembre 2003 (acquis en Septembre 2019) |
+| RFM TV (HD) Chaîne musicale payante | 2 octobre 2014 (acquis en Septembre 2019) |
+| La Chaîne du père Noël (HD) Chaîne jeunesse événementielle payante, diffusée à la période de Noël | 5 novembre 2011 (acquis en Septembre 2019) |
+| Série Club (HD) Chaîne payante diffusant des séries | 8 mars 1993 (codétenu depuis janvier 2001) | 50% Groupe M6 et 50% Groupe TF1 |
 Avec le rachat du Pôle TV de Lagardère Active, le groupe M6 s'internationalise avec la chaîne MCM, déclinée au Portugal, en Russie et au Moyen-Orient, la chaîne Gulli, déclinée en Russie, en Afrique sub-saharienne, Brésil, Mozambique et au Moyen-Orient ainsi que la chaîne TiJi, déclinée en Russie.
+Chaînes de télévision internationale en activité :
+| Chaîne | Date de création | Zone de Diffusion | Actionnaires |
+| M6 International (SD) | 23 octobre 2019 | Canada / Moyen-Orient / Maghreb | 100 % Groupe M6 |
+| MCM TOP | (acquis en Septembre 2019) | Portugal / Russie / Brésil / Moyen-Orient (La chaîne serait diffusé dans plus de 30 pays d'après M6 Publicité) |
+| MCM POP | (acquis en Septembre 2019) | Portugal / Brésil |
+| Gulli Girl | 12 septembre 2009 (acquis en Septembre 2019) | Russie |
+| Gulli Africa | 23 mars 2015 (acquis en Septembre 2019) | Afrique sub-saharienne |
+| Gulli Bil Arabi | 28 août 2017 (acquis en Septembre 2019) | Moyen-Orient / Maghreb |
+| Gulli Brasil | 9 août 2020 | Portugal / Brésil / Mozambique |
+| Tiji Russia | 1ᵉʳ avril 2009 (acquis en Septembre 2019) | Russie |
+| Santa Claus TV Channel | 1ᵉʳ décembre 2013 (acquis en Septembre 2019) | Russie | |
+Chaînes de télévision disparues :
+| Chaîne | Date de création | Date de disparition | Actionnaires |
+| Fun TV (SD) Chaîne musicale | 22 février 1997 | 31 décembre 2008 | 100 % Groupe M6 |
+| M6 Music Rock (SD) Chaîne musicale | 10 janvier 2005 | 20 janvier 2009 |
+| M6 Music Black (HD) chaîne musicale | 10 janvier 2005 | 4 janvier 2015 |
+| M6 Music Club (HD) chaîne musicale | 20 janvier 2009 |
+| Girondins TV (HD) chaîne sportive | 14 août 2008 | 30 octobre 2018 |
+| TF6 (HD) chaîne mini-généraliste | 18 décembre 2000 | 31 décembre 2014 | 50 % Groupe TF1 50 % Groupe M6 |
+| M6 Boutique (HD) Chaîne télé-achat | 19 mai 1998 | 1ᵉʳ juillet 2020 | 100 % Groupe M6 (via la société Home Shopping Service) |
+| Best of Shopping (HD) Chaîne télé-achat | 1ᵉʳ octobre 2003 |
 
 # Groupe M6
 ## Activités du groupe
 ### Plateforme de vidéo
 
 Le groupe M6 est propriétaire de la plateforme 6play un service principalement de rattrapage des chaines télévisions du groupe et de vidéo à la demande, mais restant limité. Le groupe était également actionnaire à part égale avec France Télévision et le Groupe TF1, de la plateforme de SVOD Salto jusqu'à sa fermeture en 2023.
+| Nom | Date de création | Actionnaires |
+| 6play Plateforme de rattrapage, de télévision linéaire et de vidéo à la demande (Gratuit et par abonnement pour certains programmes) | 4 novembre 2013 | 100 % Groupe M6 |
+| Gulli Max Plateforme de vidéo à la demande par abonnement proposant des programmes familiaux. | 2014 |
+| Salto Plateforme de vidéo à la demande par abonnement | 20 octobre 2020 | Groupe M6 France TV Groupe TF1 |
 
 # Groupe M6
 ## Activités du groupe
@@ -231,3 +291,27 @@ M6 Foot est la filiale du groupe qui gère les activités sportives.
 
 En 2016, la part d'audience moyenne des trois chaînes gratuites du groupe M6 est de 14,1 %, classant le groupe troisième de France derrière France Télévisions à 28,6 % et le groupe TF1 à 27,4 %, avec cinq chaînes gratuites chacun.
 La part d'audience moyenne des chaînes gratuites du groupe M6 a augmenté de 1,4 point entre 2000 et 2016. Dans le détail, M6 a perdu 2,5 points sur cette même période, W9 a gagné 1,6 points entre 2007 et 2016 et 6ter a gagné 0,9 points entre 2013 et 2016. Cette hausse générale d'audience du groupe peut s'expliquer par les bons résultats des deux nouvelles chaînes lancées sur la TNT en 2005 et 2012.
+Audiences des chaînes gratuites du groupe M6 (en %) :
+| Année | M6 | W9 | 6ter | Gulli | Total groupe |
+| 2000 | 12,7 | Non mesuré | Non mesuré | Non mesuré | 12,7 |
+| 2001 | 13,5 | 13,5 |
+| 2002 | 13,2 | 13,2 |
+| 2003 | 12,6 | 12,6 |
+| 2004 | 12,5 | 12,5 |
+| 2005 | 12,6 | 12,6 |
+| 2006 | 12,5 | 12,5 |
+| 2007 | 11,5 | 0,9 | 12,4 |
+| 2008 | 11,0 | 1,8 | 12,8 |
+| 2009 | 10,8 | 2,5 | 13,3 |
+| 2010 | 10,4 | 3,0 | 13,4 |
+| 2011 | 10,8 | 3,4 | 14,2 |
+| 2012 | 11,2 | 3,2 | 14,4 |
+| 2013 | 10,6 | 2,9 | 0,5 | 14,0 |
+| 2014 | 10,1 | 2,6 | 0,7 | 13,4 |
+| 2015 | 9,9 | 2,6 | 1,1 | 13,6 |
+| 2016 | 10,2 | 2,5 | 1,4 | 14,1 |
+| 2017 | 9,5 | 2,6 | 1,7 | 13,8 |
+| 2018 | 9,1 | 2,6 | 1,6 | 13,3 |
+| 2019 | 8,9 | 2,5 | 1,7 | 1,4 | 14,5 |
+| 2020 | 9,0 | 2,6 | 1,7 | 1,3 | 14,6 |
+| 2021 | 9,1 | 2,5 | 1,5 | 1,2 | 14,3 |

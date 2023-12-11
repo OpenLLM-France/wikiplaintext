@@ -20,9 +20,9 @@ Lorsque l'équation relie les valeurs d'une fonction et de ses dérivées en un 
 * f(az) = af(z)(1 − f(z)) (équation de Poincaré)
 * f((x + y)/2) = (f(x) + f(y))/2 (Jensen) ;
 > Les solutions sont celles de l'équation fonctionnelle de Cauchy, à une constante près.
-* f(x + y) + f(x − y) = 2f(x)f(y) (équation fonctionnelle de d'Alembert)Les solutions continues sont les fonctions constantes 0, 1, et les fonctions trigonométriques cosinus et cosinus hyperbolique ;
+* f(x + y) + f(x − y) = 2f(x)f(y) (équation fonctionnelle de d'Alembert) Les solutions continues sont les fonctions constantes 0, 1, et les fonctions trigonométriques cosinus et cosinus hyperbolique ;
 * f(h(x)) = f(x) + 1 (Abel) ;
-* f(h(x)) = cf(x) (Schröder).L'équation de Schröder est satisfaite par la fonction de Koenigs (en).
+* f(h(x)) = cf(x) (Schröder). L'équation de Schröder est satisfaite par la fonction de Koenigs (en).
 * f(f(x)) = g(x), autrement dit la détermination d'une racine carrée fonctionnelle.
 * Une forme simple d'équation fonctionnelle est la relation de récurrence, dont la fonction inconnue est une suite (formellement : une fonction définie sur l'ensemble des entiers) et qui met en jeu l'opérateur de décalage.
 * L'associativité et la commutativité sont des équations fonctionnelles. Quand la loi de composition interne est représentée sous sa forme habituelle, par un symbole entre les deux variables, son associativité s'écrit comme suit :(a∗b)∗c=a∗(b∗c).

@@ -65,7 +65,7 @@ L'anneau des entiers d'un corps de nombres est un ℤ-module de type fini, par a
 Soient A un anneau intègre, K son corps des fractions, L une extension finie séparable de K et B la fermeture intégrale de A dans L. Alors B est un A-module de type fini.
 On en déduit deux propriétés essentielles :
 L'anneau des entiers d'un corps de nombres de degré d est un ℤ-module libre de rang d.
-En effet, ce ℤ-module de type fini est sans torsion donc libre, et (comme remarqué dans la section précédente) son produit par ℚ est égal au corps de nombres.(D'autres arguments sont utilisables :– dans l'article détaillé, pour démontrer que le A-module est de type fini, on montre en fait qu'il contient un sous-module isomorphe à Aᵈ et qu'il est lui-même isomorphe à un sous-module de Aᵈ ;– un lemme sur les éléments conjugués permet d'affirmer que l'anneau des entiers d'un corps de nombres de degré d est additivement isomorphe à un réseau dans ℂᵈ.)
+En effet, ce ℤ-module de type fini est sans torsion donc libre, et (comme remarqué dans la section précédente) son produit par ℚ est égal au corps de nombres. (D'autres arguments sont utilisables : – dans l'article détaillé, pour démontrer que le A-module est de type fini, on montre en fait qu'il contient un sous-module isomorphe à Aᵈ et qu'il est lui-même isomorphe à un sous-module de Aᵈ ; – un lemme sur les éléments conjugués permet d'affirmer que l'anneau des entiers d'un corps de nombres de degré d est additivement isomorphe à un réseau dans ℂᵈ.)
 Tout anneau d'entiers d'un corps de nombres est noethérien.
 En effet, tout sous-module d'un ℤ-module de type fini est de type fini, or il résulte du théorème de la base de Hilbert que toute algèbre de type fini sur un anneau noethérien est elle-même un anneau noethérien.
 

@@ -30,6 +30,14 @@ Les deux vents principaux sont :
 * le marin (vent de la mer), venant du sud-est, qui est doux, chaud et humide et peut apporter un ciel chargé de pluie ou d'orages. En automne, il peut aussi provoquer des épisodes cévenols qui se caractérisent par de fortes pluies, orageuses ou non, engendrant régulièrement la crue de l'Orb.
 L'ensoleillement annuel est de plus de 2 500 heures, notamment grâce à la tramontane qui chasse les nuages.
 La station météorologique de Météo-France installée sur la commune et mise en service en 1969 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
+Statistiques 1981-2010 et records BEZIERS-COURTADE (34) - alt : 25 m 43° 20′ 00″ N, 3° 09′ 18″ E Records établis sur la période du 01-01-1970 au 23-12-2022 :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température minimale moyenne (°C) | 3,4 | 3,5 | 6 | 8,2 | 11,7 | 15 | 17,6 | 17,2 | 13,9 | 11,3 | 7 | 4,1 | 9,9 |
+| Température moyenne (°C) | 7,5 | 8,1 | 11 | 13,3 | 17,1 | 21,2 | 24,1 | 23,6 | 19,9 | 16 | 11,2 | 8,1 | 15,1 |
+| Température maximale moyenne (°C) | 11,6 | 12,7 | 16 | 18,4 | 22,5 | 27,3 | 30,7 | 30,1 | 25,9 | 20,7 | 15,3 | 12,1 | 20,3 |
+| Record de froid (°C) date du record | −16 16.01.1985 | −7,4 27.02.18 | −9,6 02.03.05 | −4,1 08.04.21 | 0,2 07.05.19 | 5,9 08.06.19 | 7,8 01.07.1972 | 7,6 21.08.19 | 2,5 28.09.1972 | −4 12.10.1975 | −9,3 22.11.1998 | −9 25.12.1970 | −16 1985 |
+| Record de chaleur (°C) date du record | 21,5 09.01.07 | 24,7 22.02.19 | 29,2 21.03.1990 | 32,4 08.04.11 | 35,9 29.05.01 | 39,2 21.06.03 | 42 07.07.1982 | 41,3 04.08.18 | 38,8 04.09.16 | 33,2 02.10.1997 | 25,7 03.11.1970 | 22,5 23.12.22 | 42 1982 |
+| Précipitations (mm) | 53,3 | 63,3 | 37,7 | 49,6 | 47 | 27,6 | 16,9 | 29,4 | 56,9 | 91,1 | 68,8 | 54,1 | 595,7 |
 
 # Béziers
 ## Géographie
@@ -545,6 +553,39 @@ De nombreuses personnalités ont eu un attachement particulier à la ville de B�
 * Pierre-Paul Riquet (1609-1680), ingénieur et entrepreneur qui a conçu et réalisé le canal du Midi, né à Béziers ;
 * Alexandra Rosenfeld (1986-), reine de beauté, Miss France et Miss Europe 2006, née à Béziers.
 * Le groupe de rock Sloy (1991-2000) ainsi que ses membres sont originaires de Béziers.
+
+# Béziers
+## Culture locale et patrimoine
+### Emblèmes de la ville
+#### Blason
+
+* Béziers
+** Description : D'argent à trois fasces de gueules et un chef d'azur chargé de trois fleurs de lys d'or
+** Le chef aux trois fleurs de lys indique que Béziers fut l'une des bonnes villes du Royaume de France.
+** Les bandes blanches et rouges découlent du blason de la Maison Trencavel, une des familles vicomtales les plus puissantes du midi qui dirigeait Béziers jusqu'en 1247.
+** Le blason de Béziers est davantage présenté sous la forme d'un écu français moderne, surmonté d'une couronne murale indiquant que la ville fut une cité fortifiée.
+
+# Béziers
+## Culture locale et patrimoine
+### Emblèmes de la ville
+#### Drapeau
+
+* Béziers
+** Description : Le drapeau de Béziers est un bicolore bleu et rouge chargé du blason de la ville. Il est utilisé de manière officielle par la mairie et flotte notamment devant les Arènes et le Palais des Congrès.
+
+# Béziers
+## Culture locale et patrimoine
+### Emblèmes de la ville
+#### Logotype
+
+* Béziers (1989-1995)
+** Description : Un B représenté de manière artistique la première lettre de Béziers.
+* Béziers (1996-2012)
+** Description : Présenté sous forme de sceau, il s'agit d'un logotype utilisé par l'administration biterroise en substitut du blason. Représentant un chevalier sur un cheval tenant une lance surmontée d'un drapeau aux couleurs de la ville, il reprend les grandes lignes du sceau de Raymond-Roger Trencavel, l'un des derniers vicomtes de Béziers. La devise de la ville, l'esprit de conquête, est présente dans la partie inférieure du logo.
+* Béziers (2012-2014)
+** Description : En parallèle du logo sous forme d'un sceau, Béziers s'est dotée à partir de 2012 d'un nouveau logotype. Il s'agit d'une reprise de l'ancien logo, plus stylisé et ayant perdu sa forme en sceau. Il ne possède plus que deux couleurs, celles de la ville, le bleu et le rouge, le nom de la ville a été agrandi et placé au-dessus de la devise. Ce logo n'a plus cours depuis avril 2014. Il est remplacé par le blason.
+* Béziers (depuis le 9 avril 2014)
+** Description : Blason historique de Béziers aux couleurs bleu et rouge.
 
 # Béziers
 ## Culture locale et patrimoine

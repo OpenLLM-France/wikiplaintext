@@ -46,6 +46,14 @@ Le climat est de type tempéré océanique, ou Cfb selon le système de classifi
 Les hivers sont frais et pluvieux. Les températures minimales ne descendent qu'exceptionnellement en dessous de 0 °C.
 Le Centre et l'Est de l'île connaissent des températures un peu plus basses en hiver que l'Ouest du pays, qui bénéficie énormément de l'effet du Gulf Stream. À Dublin, les mois les plus frais sont janvier et février des moyennes de 3 °C pour les minimales et de 8 °C pour les maximales ; en été, les températures moyennes oscillent entre 12 °C pour les minimales et 19 °C pour les maximales. Les précipitations sont assez importantes (733 mm de précipitations annuelles en moyenne à Dublin). Elles tombent rarement sous forme de neige (quatre jours de neige par an en moyenne à Dublin).
 Les écarts de température dans une même journée sont faibles : il n'est pas rare que la température soit constante du matin au soir, ce qui contraste avec les brusques changements de temps durant les saisons intermédiaires (printemps et automne), au cours desquelles la rapidité d'évolution du temps est étonnante avec des épisodes de « giboulées » très fréquents.
+Relevé météorologique de Dublin (normales et records) :
+| Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
+| Température minimale moyenne (°C) | 2,5 | 2,5 | 3,1 | 4,4 | 6,8 | 9,6 | 11,4 | 11,1 | 9,6 | 7,6 | 4,2 | 3,4 | 6,4 |
+| Température moyenne (°C) | 5 | 5 | 6,3 | 7,9 | 10,5 | 13,4 | 15,1 | 14,9 | 13,1 | 10,6 | 7 | 5,9 | 9,6 |
+| Température maximale moyenne (°C) | 7,6 | 7,5 | 9,5 | 11,4 | 14,2 | 17,2 | 18,9 | 18,6 | 16,6 | 13,7 | 9,8 | 8,4 | 12,8 |
+| Record de froid (°C) | −9,4 | −6,2 | −6,7 | −3,7 | −1 | 1,5 | 4,8 | 4,1 | 1,7 | −0,6 | −3,4 | −12,2 | −12,2 |
+| Record de chaleur (°C) | 16,6 | 15,3 | 21,3 | 20,5 | 23,4 | 25,1 | 27,6 | 28,7 | 23,9 | 21,2 | 18 | 16,2 | 28,7 |
+| Précipitations (mm) | 70 | 50 | 54 | 51 | 55 | 56 | 50 | 71 | 66 | 70 | 64 | 76 | 733 |
 
 # Irlande (pays)
 ## Géographie
