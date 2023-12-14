@@ -94,8 +94,7 @@ Toute l'année comme en période d'étiage, son cours est maintenu par le canal 
 ## Hydrographie
 ### Crues
 
-L'alimentation pluviale explique les sautes de son débit, les crues brutales lors d'orages qui peuvent prendre, parfois, un caractère catastrophique.
-Les crues peuvent être très importantes. Les QIX 2 et QIX 5 valent respectivement 110 et 180 m³. Le QIX 10 est de 230 m³/s, le QIX 20 de 270 m³ et le QIX 50 de 330 m³.
+L'alimentation pluviale explique les sautes de son débit, les crues brutales lors d'orages qui peuvent prendre, parfois, un caractère catastrophique. Les crues peuvent être très importantes. Les QIX 2 et QIX 5 valent respectivement 110 et 180 m³. Le QIX 10 est de 230 m³/s, le QIX 20 de 270 m³ et le QIX 50 de 330 m³.
 Le débit instantané maximal enregistré à la station de Layrac a été de 1 040 m³/s le 1ᵉʳ juillet 1977, tandis que la valeur journalière maximale était de 750 m³/s le 9 juillet de la même année. En comparant la première de ces valeurs à l'échelle des QIX de la rivière, il ressort que cette crue de juillet 1977 était radicalement supérieure au niveau de crue cinquantennale calculé par le QIX 50. Il s'agissait peut-être d'une crue millennale tout à fait exceptionnelle. En effet, le débit de crue a représenté 150 fois le débit moyen, et le débit journalier de crue, 100 fois le débit moyen
 Pour se faire une idée de l'importance de ces débits, on peut les comparer à un des affluents de la Seine au sud-est de Paris, le Loing, réputé au XIXᵉ siècle pour ses débordements, mais assez régularisé depuis. Le QIX 10 du Loing en fin de parcours vaut seulement 190 m³ (contre 230 pour le Gers) et son QIX 50 se monte à 270 m³ (contre 330 pour le Gers). L'on constate que malgré un bassin plus de trois fois moins étendu et un débit moyen de moins de moitié, le volume des crues du Gers l'emporte largement sur celles du Loing.
 

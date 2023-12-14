@@ -86,8 +86,7 @@ La racine carrée sur ℝ est définie seulement pour les nombres positifs. Dans
 Pour tout nombre complexe non nul z = a + ib (avec a et b réels), il existe exactement deux nombres complexes w tels que w² = z. Ils sont opposés l'un de l'autre.Si b est non nul, ils sont donnés par :w=±(a2+b2+a2+i signe⁡(b)a2+b2−a2), avec signe⁡(b)=b|b|.Si b est nul et a est négatif, cette formule se simplifie en :w=±i|a|.Par ailleurs, si z n'est pas un réel négatif (c.-à-d. si b est non nul ou si a est positif),w=±z+|z|2(a+|z|).
 Pour des raisons de nature topologique, il est impossible de prolonger la fonction racine carrée, de ℝ₊ dans ℝ₊, en une fonction continue f:C→C vérifiant f(z)² = z.
 On appelle détermination de la racine carrée sur un ouvert U de ℂ toute fonction continue f:U→C vérifiant f(z)2=z.
-La détermination principale de la racine carrée est la fonction de ℂ dans ℂ ainsi définie :
-si z s’écrit sous forme trigonométrique z = r ei φ avec –π < φ ≤ π, alors on pose f(z) = √r ei φ/2. Cette détermination principale n’est continue en aucun point de la demi-droite des réels strictement négatifs, et est holomorphe sur son complémentaire.
+La détermination principale de la racine carrée est la fonction de ℂ dans ℂ ainsi définie : si z s’écrit sous forme trigonométrique z = r ei φ avec –π < φ ≤ π, alors on pose f(z) = √r ei φ/2. Cette détermination principale n’est continue en aucun point de la demi-droite des réels strictement négatifs, et est holomorphe sur son complémentaire.
 Quand le nombre est dans sa forme algébrique z = a + ib, cette définition se traduit par :
 > f(a+ib)=|a+ib|+a2±i|a+ib|−a2
 où le signe de la partie imaginaire de la racine est

@@ -63,8 +63,7 @@ En 2021, une enquête publique est menée sur un projet de restructuration de la
 ### Accueil
 
 Gare SNCF du réseau Transilien, elle dispose de deux bâtiments voyageurs (un principal pour la gare de la ligne du RER D et un autre destiné à l'accès au T11 Express). Le bâtiment voyageurs historique, destiné à l'accès aux trains de la ligne du RER D, accueille un guichet ouvert tous les jours. Elle est équipée d'automates pour l'achat de titres de transport Grandes lignes et Transilien et du système d'information sur les horaires des trains en temps réel. Pour l'accessibilité des personnes à mobilité réduite, elle dispose : d'un guichet adapté, de bandes d'éveil de vigilance sur les quais, de boucles magnétiques. Une boutique presse tabac, une cabine photographique automatique et des automates pour des boissons, froides ou chaudes, et des friandises sont installées dans le hall.
-Le bâtiment voyageurs destiné au trafic de la ligne T11 Express abrite uniquement des automates pour l'achat de titres de transport Grandes lignes et Transilien en façade.
-On retrouve en gare l'habituel système d'information sur les horaires de passage des trams-trains en temps réel.
+Le bâtiment voyageurs destiné au trafic de la ligne T11 Express abrite uniquement des automates pour l'achat de titres de transport Grandes lignes et Transilien en façade. On retrouve en gare l'habituel système d'information sur les horaires de passage des trams-trains en temps réel.
 
 # Gare de Pierrefitte - Stains
 ## Service des voyageurs
@@ -77,8 +76,7 @@ Desservie par deux lignes ferroviaires distinctes, la gare de Pierrefitte - Stai
 ### Intermodalité
 
 Un parc pour les vélos et des parkings (gratuit et payant) doivent y être aménagés.
-Des lignes de transports en commun routiers ont un arrêt à proximité de la gare SNCF : les lignes 150, 168, 268, 337 et 361 du réseau de bus RATP ; la ligne N44 du service de bus de nuit Noctilien. À compter du 1ᵉʳ octobre 2020, le
-bus 168 dessert la gare du T11 Express par un couloir bus sur la RD 28.
+Des lignes de transports en commun routiers ont un arrêt à proximité de la gare SNCF : les lignes 150, 168, 268, 337 et 361 du réseau de bus RATP ; la ligne N44 du service de bus de nuit Noctilien. À compter du 1ᵉʳ octobre 2020, le bus 168 dessert la gare du T11 Express par un couloir bus sur la RD 28.
 * Vues des quais
 * Rame Z 20500 rénovée.
 * Bâtiment voyageurs destiné au T11 Express.

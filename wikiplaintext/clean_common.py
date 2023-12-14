@@ -7,9 +7,9 @@ _ignore_from_section = {
         "Notes",
         "Notes et références",
         "Références",
-        "Voir aussi",
+        "Voir aussi", "Pour approfondir",
         "Liens externes",
-        # "Bibliographie",
+        "Bibliographie",
         "Annexes",
         "Articles connexes",
     ],
@@ -25,6 +25,9 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
     text = re.sub(r"\r", "", text)
     text = re.sub(r"[ \t\f\v]+", " ", text)
 
+    # Normalize bullets
+    text = re.sub(r"\n[•]([\u00A0 ])", "\n* ", text)
+
     # Strip all the lines
     text = re.sub(r" *\n *", "\n", text)
 
@@ -36,20 +39,21 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
     text = re.sub(
         rf"((^|(?<=\n))[^\n]+){END_HEADER}(?=\n)", rf"\n\1{END_HEADER}\n", text)
 
+
     # Group headers together
-    text = re.sub(rf"((^|(?<=\n)\n)[^\n]+{END_HEADER}\n\n)+(?=(\n|$))",
+    text = re.sub(rf"((^|(?<=\n)\n)[^\n]+{END_HEADER}\n\n)+(?=\n)",
                   lambda x: x.group(0).replace(":\n\n", ":"),
                   text,
-                  flags=re.MULTILINE, # TODO check if useful
+                  flags=re.MULTILINE,
                   )
     if with_header_level:
         # Remove empty sections
         text = re.sub(
-            rf"\n([\#]+)[^\#\n]+{END_HEADER}\n(\1[^\n]+{END_HEADER}\n)*(\1[^\#\n]+{END_HEADER}\n)",
+            rf"\n([\#]+)[^\#\n]+{END_HEADER}\n(\1[^\n]+{END_HEADER}\n)*(\1[^\#\n]+{END_HEADER}\n|$)",
             r"\n\3",
             text,
-            flags=re.MULTILINE, # TODO check if useful
         )
+
     text = re.sub(rf"(\n[^\n]+{END_HEADER})+$", "", text.strip())
 
     text = text.replace(END_HEADER, "")
@@ -78,8 +82,28 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
     return text.strip()
 
 
-def collapse_whitespace(text):
-    return re.sub(r"\s+", " ", text).strip()
+def collapse_whitespace(text, level=False):
+    """
+    Remove double whitespaces
+
+    param text: The text to clean
+    param level:
+        1: Keep all line breaks
+        2: Keep double line breaks
+        3: Remove all line breaks
+    """
+    if level < 3:
+        # Remove tabs
+        text = re.sub(r"[\t]", " ", text)
+        # Remove double spaces
+        text = re.sub(r"(\u00A0+ +| +\u00A0+)", " ", text)
+        if level == 2:
+            # Remove line breaks unless when there are two in a row
+            text = re.sub(r"(?<![ \n])( ?\n)", " ", text)
+        # Remove whitespace repetitions
+        text = re.sub(r"(\s)\1+", r"\1", text)
+        return text.strip()
+    return re.sub(r"[\r\n\t ]+", " ", text).strip()
 
 
 def to_superscript(d, all_or_none=False):

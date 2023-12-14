@@ -35,8 +35,7 @@ Les dix coureurs les plus rapides de l'année sont, avant les championnats, les 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Critères de qualification
 
-Pour se qualifier pour les championnats, il fallait avoir réalisé 10 s 16 ou moins entre le 1ᵉʳ octobre 2014 et le 10 août 2015.
-42 athlètes inscrits ont réalisé ces minimas. Banuve Tabakaucoro (FIJ), champion d'Océanie, détient un record de 10 s 22, tandis que 22 athlètes sont les seuls représentants de leur fédération, le meilleur de ces derniers étant Jeffrey Vanan (SUR), 10 s 28.
+Pour se qualifier pour les championnats, il fallait avoir réalisé 10 s 16 ou moins entre le 1ᵉʳ octobre 2014 et le 10 août 2015. 42 athlètes inscrits ont réalisé ces minimas. Banuve Tabakaucoro (FIJ), champion d'Océanie, détient un record de 10 s 22, tandis que 22 athlètes sont les seuls représentants de leur fédération, le meilleur de ces derniers étant Jeffrey Vanan (SUR), 10 s 28.
 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Faits marquants
@@ -98,23 +97,23 @@ Série 3 22 août 2015 :
 ## Légende
 ### Records et Performances
 
-•   AR : Record continental (area record)
-•   CR : Record des championnats (championship record)
-•   MR : Record du meeting (meet record)
-•   NR : Record national (national record)
-•   OR : Record olympique (olympic record)
-•   PB : Record personnel (personal best)
-•   SB : Meilleure performance personnelle de la saison (season's best)
-•   WL : Meilleure performance mondiale de l'année (world leader)
-• WJR : Record du monde junior (world junior record)
-•   WR : Record du monde (world record)
+* AR : Record continental (area record)
+* CR : Record des championnats (championship record)
+* MR : Record du meeting (meet record)
+* NR : Record national (national record)
+* OR : Record olympique (olympic record)
+* PB : Record personnel (personal best)
+* SB : Meilleure performance personnelle de la saison (season's best)
+* WL : Meilleure performance mondiale de l'année (world leader)
+* WJR : Record du monde junior (world junior record)
+* WR : Record du monde (world record)
 
 # 100 mètres masculin aux championnats du monde d'athlétisme 2015
 ## Légende
 ### Circonstances et Conditions
 
-• DNF : N'a pas terminé (did not finish)
-• DNS : N'a pas pris le départ (did not start)
-•   DQ : Disqualification (disqualification)
-•     Q : Qualifié « directement » au prochain tour (ou à la prochaine compétition), lors d'une compétition majeure, grâce au classement ou à la réalisation des minima (automatic qualifier)
-•     q : Qualifié au prochain tour (ou à la prochaine compétition), lors d'une compétition majeure, grâce au repêchage ou à la réalisation de l'une des meilleures performances parmi celles des « non qualifiés directement » (grâce au meilleur temps ou à la meilleure distance par exemple) (secondary qualifier)
+* DNF : N'a pas terminé (did not finish)
+* DNS : N'a pas pris le départ (did not start)
+* DQ : Disqualification (disqualification)
+* Q : Qualifié « directement » au prochain tour (ou à la prochaine compétition), lors d'une compétition majeure, grâce au classement ou à la réalisation des minima (automatic qualifier)
+* q : Qualifié au prochain tour (ou à la prochaine compétition), lors d'une compétition majeure, grâce au repêchage ou à la réalisation de l'une des meilleures performances parmi celles des « non qualifiés directement » (grâce au meilleur temps ou à la meilleure distance par exemple) (secondary qualifier)

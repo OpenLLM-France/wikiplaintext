@@ -1,7 +1,6 @@
 # Formule brute
 
-La formule brute est l'écriture la plus compacte décrivant un composé chimique ou un corps simple.
-Les formules brutes, par exemple C₂H₆O pour l'éthanol, sont utilisées dans les équations chimiques pour décrire les réactions chimiques. Des notations intermédiaires entre les formules brutes et semi-développées permettent plus de lisibilité tout en restant compactes, comme pour l'éthanol l'écriture C₂H₅OH. Bien d'autres informations que la stœchiométrie des éléments peuvent être présentes dans une formule brute (nombre d'oxydation, marquage isotopique ou informations structurales partielles notamment) et sont gérées par des règles édictées par l'Union internationale de chimie pure et appliquée (IUPAC).
+La formule brute est l'écriture la plus compacte décrivant un composé chimique ou un corps simple. Les formules brutes, par exemple C₂H₆O pour l'éthanol, sont utilisées dans les équations chimiques pour décrire les réactions chimiques. Des notations intermédiaires entre les formules brutes et semi-développées permettent plus de lisibilité tout en restant compactes, comme pour l'éthanol l'écriture C₂H₅OH. Bien d'autres informations que la stœchiométrie des éléments peuvent être présentes dans une formule brute (nombre d'oxydation, marquage isotopique ou informations structurales partielles notamment) et sont gérées par des règles édictées par l'Union internationale de chimie pure et appliquée (IUPAC).
 Cet article limite la notion de formule brute à toutes les représentations de formules chimiques écrites en ligne et ne faisant pas apparaître de liaison chimique. La présence de liaisons chimiques dans une formule est traitée dans les articles Formule développée plane, Formule semi-développée et Représentation des molécules.
 
 # Formule brute
@@ -280,8 +279,7 @@ Exemple :
 ## Marqueurs optionnels structuraux
 ### États excités
 
-Les états électroniques excités sont indiqués par un astérisque en exposant à droite. Exemple
-NO*
+Les états électroniques excités sont indiqués par un astérisque en exposant à droite. Exemple NO*
 
 # Formule brute
 ## Marqueurs optionnels structuraux

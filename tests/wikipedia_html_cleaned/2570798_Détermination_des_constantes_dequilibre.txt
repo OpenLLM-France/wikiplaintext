@@ -108,7 +108,7 @@ Quand un système met en œuvre plusieurs équilibres ou quand les équilibres m
 Dans l'exemple ci-haut, où la linéarisation ne donnait pas un modèle linéaire valide, on aurait dû s'en tenir à une relation f non linéaire
 > Aiλ=f(vi,[OH−]0,[A]0,pKaHA,ϵIλ,ϵHI+λ,ℓ,[I]0,pKaI)
 En général, on travaille avec une relation
-> mesure(s)=f(variable(s), constante(s), inconnue(s)).
+> mesure(s)=f(variable(s), constante(s), inconnue(s)).
 On ne peut pas trouver les inconnues par solution directe. De toute façon, l'équation ne sera pas exacte, étant donné qu'il y aura des erreurs de mesure, des erreurs dans les variables, des erreurs systématiques dans les constantes et la possibilité que les paramètres inconnus ne suffiront pas ou ne seront pas les plus justes. Plutôt, on écrit
 > mesure(s)=calcul(s)+erreur.
 où les calcul(s) sont obtenus avec f(variable(s), constante(s), inconnue(s)). On cherchera le meilleur modèle f (en général, on ne s'attarde qu'aux paramètres inconnus quand on modélise, mais le modèle entier comprend tous les paramètres) qui fournira les moindres résidus (mesure−calcul). Pour ce faire, il faut avoir au départ des estimations des valeurs inconnues et parfaire ces estimations par itération algorithmique jusqu'à ce que les résidus (mesure−calcul) soient amoindries — la méthode des moindres carrés assurera en même temps une distribution normale des résidus — pour en arriver à ainsi déterminer les valeurs inconnues au sein du modèle, avec une appréciation des erreurs de la détermination. Ensuite, on pourra songer à modifier le modèle, s'il y a lieu, et comparer différents modèles de manière rigoureuse.
@@ -173,7 +173,7 @@ parce qu'elles ne sont pas linéaires. Plutôt, la méthode Gauss-Newton est ado
 que l'on peut rassembler en notation matricielle-vectorielle ainsi
 > [R]connue=[R]μcalc+DμΔμ
 où le (j,k) ième élément de la matrice Dμ sera le dérivé ∂[Rj]μcalc/∂[Rk] tandis que le vecteur Δμ contiendra les corrections Δ[Rk]μ. La solution à la μ ième itération sera
-> Δμ=Dμ−1 ([R]connue−[R]μcalc)
+> Δμ=Dμ−1 ([R]connue−[R]μcalc)
 puisque la matrice Dμ sera carrée et inversible.Chaque itération nécessitera alors un nouveau calcul de ces dérivés, ainsi que de nouvelles estimations des concentrations, jusqu'à ce que les corrections Δ[Rk] deviennent insignifiantes, et on aura ainsi trouvé les concentrations finales. Le nombre d'itérations requises dépendra du point de départ, c'est-à-dire de la qualité des valeurs estimées des concentrations [R] à la première itération. Dans le cadre d'une titration, où chaque échantillon (à la suite de chaque ajout du titrant) suit l'autre en ordre, on n'aura besoin d'estimer ces concentrations qu'au début et le nombre d'itérations à chaque échantillon suivant sera réduit.
 
 # Détermination des constantes dequilibre

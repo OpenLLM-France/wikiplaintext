@@ -1,6 +1,6 @@
 # Mode (musique)
 
-Le mode, en musique, est un type d'échelle musicale couplé avec un ensemble de comportements mélodiques caractéristiques, notamment en relation avec une note de référence (appelée « finale », « tonique », «  note nominale » ou tout simplement « note de référence »). Le terme « mode » a été utilisé dans la théorie musicale occidentale depuis le Moyen Âge pour désigner des caractéristiques :
+Le mode, en musique, est un type d'échelle musicale couplé avec un ensemble de comportements mélodiques caractéristiques, notamment en relation avec une note de référence (appelée « finale », « tonique », « note nominale » ou tout simplement « note de référence »). Le terme « mode » a été utilisé dans la théorie musicale occidentale depuis le Moyen Âge pour désigner des caractéristiques :
 * du chant grégorien ;
 * de la polyphonie de la Renaissance ;
 * de la musique tonale.
@@ -270,17 +270,14 @@ Intervalles : 3/2 tons - 1 ton - 1/2 ton - 3/2 ton - 1 ton - 1/2 ton
 
 La gamme par ton est une gamme ou tous les intervalles sont de 1 ton.
 Exemple sur do :
-Indépendamment de toute enharmonie, il n'existe que deux transpositions de la gamme par tons.
-La première part de do et est décrite ci-dessus. La seconde part de do et donne, en prenant la même convention (tous les tons diatoniques représentés à l'exception du degré VII, enharmonies représentées entre parenthèses pour simplifier la lecture) :
+Indépendamment de toute enharmonie, il n'existe que deux transpositions de la gamme par tons. La première part de do et est décrite ci-dessus. La seconde part de do et donne, en prenant la même convention (tous les tons diatoniques représentés à l'exception du degré VII, enharmonies représentées entre parenthèses pour simplifier la lecture) :
 Toute transposition ramène à l'une de ces deux possibilités, par enharmonie ou non. Par exemple, à partir de mi, on a un équivalent de la gamme par tons en do :
 
 # Mode (musique)
 ## Modes artificiels à transposition limitée
 ### Mode diminué (ou mode ton/demi-ton, ou mode Bertha)
 
-Le mode diminué est très utilisé en jazz : il correspond au septième mode du mineur mélodique (auquel on ajoute un degré entre le V et le VII, le VI étant remplacé par les notes situées 1/2 ton au-dessus et en dessous). On peut utiliser ce mode en général sur un accord diminué (quinte et septième diminuées).
-Les intervalles sont 1 ton - 1/2 ton mais on trouve aussi le diminué inverse qui est 1/2 ton - 1 ton.
-On peut utiliser ce mode en général sur un accord de dominante avec 9ᵉ mineure et 13ᵉ majeure (V7 13b9).
+Le mode diminué est très utilisé en jazz : il correspond au septième mode du mineur mélodique (auquel on ajoute un degré entre le V et le VII, le VI étant remplacé par les notes situées 1/2 ton au-dessus et en dessous). On peut utiliser ce mode en général sur un accord diminué (quinte et septième diminuées). Les intervalles sont 1 ton - 1/2 ton mais on trouve aussi le diminué inverse qui est 1/2 ton - 1 ton. On peut utiliser ce mode en général sur un accord de dominante avec 9ᵉ mineure et 13ᵉ majeure (V7 13b9).
 Exemples :
 Intervalles : 1 ton - 1/2 ton - 1 ton - 1/2 ton - 1 ton - 1/2 ton - 1 ton - 1/2 ton
 Intervalles par rapport à la note fondamentale : 1 9 m3 11 5 6 7dim maj7

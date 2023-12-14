@@ -208,6 +208,8 @@ if __name__ == "__main__":
     parser.add_argument("--no_clean", action="store_true", default=False,
                         help="Do not perform text cleaning. Only download dump")
     parser.add_argument("--no_tables", default=False, action="store_true", help="Don't keep tables")
+    parser.add_argument("--dump_html", action="store_true", default=False,
+                        help="Also dump the HTML files")
     parser.add_argument("--subset", default=None, help="If you want to run several processes in parallel, launch with 1/4, 2/4, ...")
     parser.add_argument("--no_verbose", action="store_true", default=False)
     args = parser.parse_args()
@@ -255,6 +257,7 @@ if __name__ == "__main__":
             verbose=VERBOSE,
             max_pages=None,
             clean_text=not args.no_clean,
+            dump_html = args.dump_html,
             keep_tables=not args.no_tables,
             subset=subset,
         )

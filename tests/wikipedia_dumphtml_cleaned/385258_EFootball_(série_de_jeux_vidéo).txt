@@ -1,31 +1,14 @@
 # EFootball (série de jeux vidéo)
 
-eFootball (anciennement Pro Evolution
-Soccer (PES), International Superstar Soccer
-Pro (ISS Pro) ou Winning Eleven (WE) au Japon) est une série de jeux vidéo de simulation de football
-conçue par Shingo
-Takatsuka développés et publiés annuellement de 1995 à 2021 puis en système free-to-play depuis 2021 par la branche tokyoïte de Konami.
-La série eFootball est reconnue en eSport pour son championnat du monde officiel du jeu,
-la PES League.
-Depuis l'édition 2020, elle est renommée en eFootball.Open et fait partie de l'eFootball League.
-eFootball fait partie des trois franchises vidéoludiques de simulation sportive
-les plus vendues de l'histoire avec plus de 106,8 millions d'exemplaires, derrière son concurrent FIFA Football (260 millions) et la série Madden NFL (130 millions), toutes
-deux produites par Electronic Arts, et devant la série NBA 2K de Take-Two Interactive (80 millions).
-En France, Pro Evolution Soccer 5 est le bien culturel le plus vendu
-de l'année 2006 avec 1,3 million d'exemplaires. Et
-Pro Evolution
-Soccer 6 de l'année 2007 avec 1,4 million d'exemplaires à la date de juin
-2007.
+eFootball (anciennement Pro Evolution Soccer (PES), International Superstar Soccer Pro (ISS Pro) ou Winning Eleven (WE) au Japon) est une série de jeux vidéo de simulation de football conçue par Shingo Takatsuka développés et publiés annuellement de 1995 à 2021 puis en système free-to-play depuis 2021 par la branche tokyoïte de Konami.
+La série eFootball est reconnue en eSport pour son championnat du monde officiel du jeu, la PES League. Depuis l'édition 2020, elle est renommée en eFootball.Open et fait partie de l'eFootball League.
+eFootball fait partie des trois franchises vidéoludiques de simulation sportive les plus vendues de l'histoire avec plus de 106,8 millions d'exemplaires, derrière son concurrent FIFA Football (260 millions) et la série Madden NFL (130 millions), toutes deux produites par Electronic Arts, et devant la série NBA 2K de Take-Two Interactive (80 millions).
+En France, Pro Evolution Soccer 5 est le bien culturel le plus vendu de l'année 2006 avec 1,3 million d'exemplaires. Et Pro Evolution Soccer 6 de l'année 2007 avec 1,4 million d'exemplaires à la date de juin 2007.
 
 # EFootball (série de jeux vidéo)
 ## Système de jeu
 
-La série est un jeu de football orienté simulation. Le joueur peut contrôler soit une équipe
-entière, soit un joueur sélectionné ; les objectifs
-coïncident avec les règles du football associatif. Différents modes de jeu sont propres à la série,
-permettant une variété de gameplay, y compris les modes Kick Off, Online et Offline. En plus de ces modes,
-il existe un mode d'édition qui permet au lecteur de résoudre (dans une certaine mesure) le plus gros
-problème de la série, à savoir l'absence de licences.
+La série est un jeu de football orienté simulation. Le joueur peut contrôler soit une équipe entière, soit un joueur sélectionné ; les objectifs coïncident avec les règles du football associatif. Différents modes de jeu sont propres à la série, permettant une variété de gameplay, y compris les modes Kick Off, Online et Offline. En plus de ces modes, il existe un mode d'édition qui permet au lecteur de résoudre (dans une certaine mesure) le plus gros problème de la série, à savoir l'absence de licences.
 
 # EFootball (série de jeux vidéo)
 ## Système de jeu
@@ -52,19 +35,9 @@ de jeu où l'on incarne un seul joueur.
 ## Système de jeu
 ### Patchs et licences manquantes
 
-Chaque année, des correctifs sont proposés afin de combler l'absence de licence, d'actualiser
-les listes de transferts et des statistiques des joueurs. Ces patchs éditent le code du jeu et modifient
-le contenu graphique en incluant des kits pour les équipes sans licence. Avec de nouveaux stades et de
-nouveaux ballons (Nike, Puma, Umbro, Mitre et Adidas). Les blasons d'équipes et les logos des
-différentes ligues européennes contiennent également des kits sous licence de la FIFA.
-Ces correctifs constituent techniquement une violation du droit d'auteur et sont souvent vendus
-illégalement dans les territoires du Moyen-Orient et de l'Asie. Konami est devenu moins tolérant à
-l'égard de ce type d'édition de fans ces dernières années, et crypte désormais les données relatives aux
-kits et aux statistiques des joueurs dans chaque nouvelle version. Cependant, les communautés de fans
-trouvent invariablement des moyens de déchiffrer ce cryptage, et des correctifs apparaissent encore.
-Il existe dans le jeu plusieurs ligues vides qui peuvent être éditées intégralement. Ces ligues
-permettent généralement d'être transformées en championnat manquant comme la Bundesliga, la MLS ou une
-autre ligue de son choix par les fabricants de patchs.
+Chaque année, des correctifs sont proposés afin de combler l'absence de licence, d'actualiser les listes de transferts et des statistiques des joueurs. Ces patchs éditent le code du jeu et modifient le contenu graphique en incluant des kits pour les équipes sans licence. Avec de nouveaux stades et de nouveaux ballons (Nike, Puma, Umbro, Mitre et Adidas). Les blasons d'équipes et les logos des différentes ligues européennes contiennent également des kits sous licence de la FIFA.
+Ces correctifs constituent techniquement une violation du droit d'auteur et sont souvent vendus illégalement dans les territoires du Moyen-Orient et de l'Asie. Konami est devenu moins tolérant à l'égard de ce type d'édition de fans ces dernières années, et crypte désormais les données relatives aux kits et aux statistiques des joueurs dans chaque nouvelle version. Cependant, les communautés de fans trouvent invariablement des moyens de déchiffrer ce cryptage, et des correctifs apparaissent encore.
+Il existe dans le jeu plusieurs ligues vides qui peuvent être éditées intégralement. Ces ligues permettent généralement d'être transformées en championnat manquant comme la Bundesliga, la MLS ou une autre ligue de son choix par les fabricants de patchs.
 
 # EFootball (série de jeux vidéo)
 ## Système de jeu
@@ -134,17 +107,8 @@ Margotton
 ## eFootball League
 ### Une création française
 
-En France à partir de 2002, des tournois sont organisés dans des villes, des stades de football
-ou encore dans des grands salons. Cette compétition durant près de 9 mois se déroulera alors chaque
-année. L'objectif de cette compétition est double. D'une part, sur le plan sportif, la PES League permet
-de sélectionner le meilleur joueur français qui pourra représenter l'hexagone lors de la grande finale
-mondiale de la compétition. D'autre part, cela permet de faire se rencontrer tous les passionnés de ce
-jeu qui devient un véritable phénomène communautaire.
-À la fin de la saison, les meilleurs joueurs se retrouvent au Stade de France pour la finale
-nationale. Considéré comme une véritable fête du football virtuel, elle réunit les meilleurs joueurs de
-métropole ainsi que des représentants d'outre-mer. Devenue tradition, une séance de tirs au but permet
-aux joueurs virtuels de fouler la pelouse réelle de la mythique enceinte de Saint-Denis. Le meilleur
-joueur de la saison reçoit son trophée des mains de Konami.
+En France à partir de 2002, des tournois sont organisés dans des villes, des stades de football ou encore dans des grands salons. Cette compétition durant près de 9 mois se déroulera alors chaque année. L'objectif de cette compétition est double. D'une part, sur le plan sportif, la PES League permet de sélectionner le meilleur joueur français qui pourra représenter l'hexagone lors de la grande finale mondiale de la compétition. D'autre part, cela permet de faire se rencontrer tous les passionnés de ce jeu qui devient un véritable phénomène communautaire.
+À la fin de la saison, les meilleurs joueurs se retrouvent au Stade de France pour la finale nationale. Considéré comme une véritable fête du football virtuel, elle réunit les meilleurs joueurs de métropole ainsi que des représentants d'outre-mer. Devenue tradition, une séance de tirs au but permet aux joueurs virtuels de fouler la pelouse réelle de la mythique enceinte de Saint-Denis. Le meilleur joueur de la saison reçoit son trophée des mains de Konami.
 
 # EFootball (série de jeux vidéo)
 ## eFootball League
@@ -153,63 +117,40 @@ joueur de la saison reçoit son trophée des mains de Konami.
 
 de KONAMI
 
-Avec la démocratisation du jeu en ligne, la compétition prend de plus en plus d'ampleur et à
-partir de 2010, Konami organise directement la Finale Mondiale (bien que des championnats du monde
-officieux furent organisés par le passé). Lors de la saison 2011, on retrouve 4 catégories : Simple (1vs1) PS3, Double (2vs2) PS3, Simple (1vs1) PC
-Vaio, Junior (moins de 14 ans).
-Depuis la saison 2014-2015, la Finale Mondiale se déroule dans le cadre de la finale de la
-Ligue des Champions, dans la même ville et le même week-end.
-Les qualifications se déroulent désormais dans des dizaines de pays du monde entier. Les
-meilleurs joueurs sont qualifiés pour les finales nationales, puis régionales (continentales). Enfin,
-les meilleurs joueurs sont qualifiés pour la grande Finale Mondiale.
+Avec la démocratisation du jeu en ligne, la compétition prend de plus en plus d'ampleur et à partir de 2010, Konami organise directement la Finale Mondiale (bien que des championnats du monde officieux furent organisés par le passé). Lors de la saison 2011, on retrouve 4 catégories : Simple (1vs1) PS3, Double (2vs2) PS3, Simple (1vs1) PC Vaio, Junior (moins de 14 ans).
+Depuis la saison 2014-2015, la Finale Mondiale se déroule dans le cadre de la finale de la Ligue des Champions, dans la même ville et le même week-end.
+Les qualifications se déroulent désormais dans des dizaines de pays du monde entier. Les meilleurs joueurs sont qualifiés pour les finales nationales, puis régionales (continentales). Enfin, les meilleurs joueurs sont qualifiés pour la grande Finale Mondiale.
 
 # EFootball (série de jeux vidéo)
 ## eFootball League
 ### Le développement de l'eSport
 
-De plus en plus populaire, l'eSport devient un enjeu majeur pour Konami. Pour la saison 2016-2017, la PES League est
-directement intégrée au jeu. Les joueurs du monde entier peuvent donc prendre part aux qualifications
-via des matchs en ligne. Le champion du monde reçoit un chèque de 200 000 dollars, la même somme que le
-champion du monde FIFA.
-Lors de la saison 2017-2018, la PES League World Tour se déroule en 3
-phases : une qualification en ligne, trois tournois de
-qualification hors ligne, puis enfin une Finale Mondiale réunissant les 16 meilleurs joueurs du monde.
-Les Finales Nationales et Régionales disparaissent officiellement, laissant place à des qualifications
-continentales en ligne. Une catégorie Coop (Duo ou Trio) est créée, ainsi qu'une catégorie MyClyb.
+De plus en plus populaire, l'eSport devient un enjeu majeur pour Konami. Pour la saison 2016-2017, la PES League est directement intégrée au jeu. Les joueurs du monde entier peuvent donc prendre part aux qualifications via des matchs en ligne. Le champion du monde reçoit un chèque de 200 000 dollars, la même somme que le champion du monde FIFA.
+Lors de la saison 2017-2018, la PES League World Tour se déroule en 3 phases : une qualification en ligne, trois tournois de qualification hors ligne, puis enfin une Finale Mondiale réunissant les 16 meilleurs joueurs du monde. Les Finales Nationales et Régionales disparaissent officiellement, laissant place à des qualifications continentales en ligne. Une catégorie Coop (Duo ou Trio) est créée, ainsi qu'une catégorie MyClyb.
 
 # EFootball (série de jeux vidéo)
 ## eFootball League
 ### L'arrivée de la eFootball League
 
-Pour la saison 2018-2019, Konami décide de réformer son circuit eSport et crée la eFootball League
-avec l'aide financière du joueur du FC Barcelone, Gerard Piqué, la PES League devient alors
-l'eFootball.Open, une compétition ouverte à tous, et faisant figure de 2ᵉ échelon derrière l'eFootball.Pro, compétition réservée aux joueurs
-disposant d'un contrat professionnel avec un club.
+Pour la saison 2018-2019, Konami décide de réformer son circuit eSport et crée la eFootball League avec l'aide financière du joueur du FC Barcelone, Gerard Piqué, la PES League devient alors l'eFootball.Open, une compétition ouverte à tous, et faisant figure de 2ᵉ échelon derrière l'eFootball.Pro, compétition réservée aux joueurs disposant d'un contrat professionnel avec un club.
 
 # EFootball (série de jeux vidéo)
 ## eFootball League
 ### Naissance de eFootball
 
-Le 21 juillet 2021, l'annonce est officielle et efootball PES devient efootball pour devenir un
-jeu uniquement free-to-play, auquel s'ajouteront des DLC amenant des modes de jeu supplémentaires.
+Le 21 juillet 2021, l'annonce est officielle et efootball PES devient efootball pour devenir un jeu uniquement free-to-play, auquel s'ajouteront des DLC amenant des modes de jeu supplémentaires.
 
 # EFootball (série de jeux vidéo)
 ## Historique de la licence
 ### Konami's Soccer (1985)
 
-Sortie sur MSX en 1985, il s'agit du premier jeux de Football développé par Konami qui lance
-les bases de sa future série International Superstar Soccer.
+Sortie sur MSX en 1985, il s'agit du premier jeux de Football développé par Konami qui lance les bases de sa future série International Superstar Soccer.
 
 # EFootball (série de jeux vidéo)
 ## Historique de la licence
 ### Konami Hyper Soccer (1991)
 
-Sortie en 1991 sur Nintendo, il s'agit d'un jeu faisant partie de la série Konami
-Hyper (avec Konami Hyper Sports et Konami Hyper Athlète). Le jeu permet de jouer à
-deux joueurs, l'un contre l'autre ou les deux contre l'ordinateur (match ou tournoi). Il y a 24 équipes
-internationales jouable, l'Allemagne, les Pays-Bas, Italie, Argentine, France, Espagne, Angleterre,
-Brésil, Pologne, Uruguay, Hongrie, URSS, Suède, Tchécoslovaquie, le Cameroun, l'Irlande, Japon, Corée,
-USA, Mexique, Australie, Écosse, la Colombie et la Yougoslavie.
+Sortie en 1991 sur Nintendo, il s'agit d'un jeu faisant partie de la série Konami Hyper (avec Konami Hyper Sports et Konami Hyper Athlète). Le jeu permet de jouer à deux joueurs, l'un contre l'autre ou les deux contre l'ordinateur (match ou tournoi). Il y a 24 équipes internationales jouable, l'Allemagne, les Pays-Bas, Italie, Argentine, France, Espagne, Angleterre, Brésil, Pologne, Uruguay, Hongrie, URSS, Suède, Tchécoslovaquie, le Cameroun, l'Irlande, Japon, Corée, USA, Mexique, Australie, Écosse, la Colombie et la Yougoslavie.
 | Europe | Amérique du nord | Date | Plate-formes |
 | Konami's Football | Konami's Soccer | 1985 | MSX |
 | Konami Hyper Football | Konami Hyper Soccer | 1991 | Nintendo |
@@ -218,28 +159,9 @@ USA, Mexique, Australie, Écosse, la Colombie et la Yougoslavie.
 ## Historique de la licence
 ### Série International Superstar Soccer (ISS)
 
-Konami décide alors de développer deux séries de jeux de football. L'une pour les consoles
-Nintendo, International Superstar Soccer est développée par le studio KCEO
-(Konami Computer Entertainment Osaka). L'autre pour les consoles Sony Playstation, International Superstar Soccer Pro (Winning Eleven au japon) est
-développée par le studio KCET (Konami Computer Entertainment Tokyo).
-Le premier ISS (de KCEO) sort en 1995 et attire l'attention du public en
-raison de ses graphismes détaillés et réalistes qui montraient des joueurs diversifiés au sein d'une
-même équipe et des numéros à l'arrière des maillots correspondant aux joueurs de l'époque. ISS Deluxe, sa suite n'apportera pas beaucoup de nouveautés mais peaufinera le
-résultat. En 1996 sort ISS 64 sur Nintendo 64 : la popularité de la licence est à son apogée. Beaucoup de joueurs et
-journalistes le considérant comme le meilleur jeu de l'année avec des graphismes 3D réalistes, des
-couleurs variées, des stades à l'ambiance hétérogène, des conditions météo variées et des arbitres aux
-comportements différents. En 1997 sort ISS 98, variante de ISS 64 pour la Coupe du Monde 1998. En 1999,
-sort ISS Pro Evolution développé par le studio KCET. Cette opus
-impressionne le public par son réalisme, son toucher de balle réaliste et son nouveau mode de jeu de
-gestion d'équipe : la Ligue des Masters. La popularité
-des deux licences de football de Konami est alors en train de s'inverser.
-En 2000, KCET décide de s'ouvrir à la Playstation avec la sortie de la Playstation 2 et les
-deux licences se font alors une concurrence directe. Pour éviter la confusion, le studio KCEO de Osaka
-va rebooter le nom de ça série, tandis que le studio de Tokyo va renommer son jeu International Superstar Soccer Pro Evolution en Pro Evolution Soccer.
-Le succès de Pro Evolution Soccer se fera au détriment d'International
-Superstar Soccer qui s'arrêtera en 2003 avec ISS 3. Konami souhaitait alors
-regrouper toutes ses équipes vers sa licence phare Pro Evolution Soccer afin de se
-démarquer de FIFA d'Electronic Arts
+Konami décide alors de développer deux séries de jeux de football. L'une pour les consoles Nintendo, International Superstar Soccer est développée par le studio KCEO (Konami Computer Entertainment Osaka). L'autre pour les consoles Sony Playstation, International Superstar Soccer Pro (Winning Eleven au japon) est développée par le studio KCET (Konami Computer Entertainment Tokyo).
+Le premier ISS (de KCEO) sort en 1995 et attire l'attention du public en raison de ses graphismes détaillés et réalistes qui montraient des joueurs diversifiés au sein d'une même équipe et des numéros à l'arrière des maillots correspondant aux joueurs de l'époque. ISS Deluxe, sa suite n'apportera pas beaucoup de nouveautés mais peaufinera le résultat. En 1996 sort ISS 64 sur Nintendo 64 : la popularité de la licence est à son apogée. Beaucoup de joueurs et journalistes le considérant comme le meilleur jeu de l'année avec des graphismes 3D réalistes, des couleurs variées, des stades à l'ambiance hétérogène, des conditions météo variées et des arbitres aux comportements différents. En 1997 sort ISS 98, variante de ISS 64 pour la Coupe du Monde 1998. En 1999, sort ISS Pro Evolution développé par le studio KCET. Cette opus impressionne le public par son réalisme, son toucher de balle réaliste et son nouveau mode de jeu de gestion d'équipe : la Ligue des Masters. La popularité des deux licences de football de Konami est alors en train de s'inverser.
+En 2000, KCET décide de s'ouvrir à la Playstation avec la sortie de la Playstation 2 et les deux licences se font alors une concurrence directe. Pour éviter la confusion, le studio KCEO de Osaka va rebooter le nom de ça série, tandis que le studio de Tokyo va renommer son jeu International Superstar Soccer Pro Evolution en Pro Evolution Soccer. Le succès de Pro Evolution Soccer se fera au détriment d'International Superstar Soccer qui s'arrêtera en 2003 avec ISS 3. Konami souhaitait alors regrouper toutes ses équipes vers sa licence phare Pro Evolution Soccer afin de se démarquer de FIFA d'Electronic Arts
 | Europe et Amérique du Nord | Abréviation Officielle | Date | Japon | Date | Plate-formes |
 | International Superstar Soccer | ISS | 23 mai 1995 | Jikkyō Wārudo Sakkā Pāfekuto Irebun | 11 novembre 1994 | Super Nintendo |
 | International Superstar Soccer Deluxe | ISS Deluxe | 25 janvier 1996 | Jikkyou World Soccer 2: Fighting Eleven | 22 septembre 1995 | SNES, Megadrive, Playstation |
@@ -258,12 +180,8 @@ démarquer de FIFA d'Electronic Arts
 
 International Superstar Soccer Pro (ISS Pro)
 
-La série eFootball PES trouve son premier opus avec le titre Goal Storm (également connu sous le nom de World Soccer Winning
-Eleven au Japon). Le jeu a été développé par Konami Computer Entertainment Tokyo (KCET) et est sorti en 1996 sur Playstation.
-En 1997 le jeu est renommé en International Superstar Soccer Pro afin de
-profiter du succès de son autre licence International Superstar Soccer, et y ajoute le
-suffixe "Pro" afin de marquer son gameplay orienté simulation. En 1999, le jeu se voit ajouter du suffixe
-"Evolution" afin de marquer l'apparition de La Ligue des Masters.
+La série eFootball PES trouve son premier opus avec le titre Goal Storm (également connu sous le nom de World Soccer Winning Eleven au Japon). Le jeu a été développé par Konami Computer Entertainment Tokyo (KCET) et est sorti en 1996 sur Playstation.
+En 1997 le jeu est renommé en International Superstar Soccer Pro afin de profiter du succès de son autre licence International Superstar Soccer, et y ajoute le suffixe "Pro" afin de marquer son gameplay orienté simulation. En 1999, le jeu se voit ajouter du suffixe "Evolution" afin de marquer l'apparition de La Ligue des Masters.
 | Europe et Amérique du Nord | Abréviation Officielle | Date | Japon | Date | Slogan | Plates-formes |
 | Goal Storm (en) | | 15 janvier 1996 | World Soccer Winning Eleven | Décembre 1995 | | PlayStation |
 | International Superstar Soccer Pro / Goal Storm 97 (en) | ISS Pro | 1ᵉʳ juin 1997 | Winning Eleven 97 | 5 juin 1997 | | PlayStation |
@@ -275,11 +193,7 @@ suffixe "Pro" afin de marquer son gameplay orienté simulation. En 1999, le jeu 
 ## Historique de la licence
 ### Série Pro Evolution Soccer (PES)
 
-En 2001, le studio KCEO (International Superstar Soccer) décide de ne
-plus travailler exclusivement avec Nintendo et veut passer son jeux en multi-plateforme afin de profiter
-du futur succès de la Playstation 2. Les deux licences se retrouvant sur la même console, les
-développeurs décident de prendre un nouveau départ. Pour éviter toute confusion International Superstar Soccer Pro Evolution devient Pro Evolution
-Soccer.
+En 2001, le studio KCEO (International Superstar Soccer) décide de ne plus travailler exclusivement avec Nintendo et veut passer son jeux en multi-plateforme afin de profiter du futur succès de la Playstation 2. Les deux licences se retrouvant sur la même console, les développeurs décident de prendre un nouveau départ. Pour éviter toute confusion International Superstar Soccer Pro Evolution devient Pro Evolution Soccer.
 Released versions in the series :
 | Europe | Abréviation Officielle | Amérique du Nord | Asie | Slogan | Date | Plate-forme |
 | Pro Evolution Soccer | PES | World Soccer: Winning Eleven 5 | World Soccer: Winning Eleven 5J-League Winning Eleven 5World Soccer Winning Eleven 5 Final Evolution | We are the Football Tribe | 25 octobre 2001 | PS, PS2 |
@@ -361,33 +275,20 @@ Note SensCritique :
 
 Storm (1996)
 
-Goal Storm (World Soccer Winning Eleven au Japon) est le
-premier épisode de la série et a été publié le 15 Janvier 1996.Les modes de jeu disponibles
-sont: le mode Hyper Cup, le mode Exposition, la configuration des touches et le mode Options. Il est
-possible de changer le niveau de difficulté et les conditions du terrain de jeu. Le jeu a 36 équipes
-nationales à jouer. Les critiques ont généralement salué le jeu pour ses graphismes fluides et ses
-commandes intuitives.
+Goal Storm (World Soccer Winning Eleven au Japon) est le premier épisode de la série et a été publié le 15 Janvier 1996.Les modes de jeu disponibles sont: le mode Hyper Cup, le mode Exposition, la configuration des touches et le mode Options. Il est possible de changer le niveau de difficulté et les conditions du terrain de jeu. Le jeu a 36 équipes nationales à jouer. Les critiques ont généralement salué le jeu pour ses graphismes fluides et ses commandes intuitives.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### International Superstar Soccer Pro (1997)
 
-International Superstar Soccer Pro (Winning
-Eleven 97 au Japon) est le deuxième épisode de la série et a été publié le 1er juin
-1997. Avec un nouveau nom international pour la série, celle-ci veut mettre en avant le côté simulation
-avec son homologue (International superstar soccer) ajoute le suffixe Pro. Le jeu comprend 32 équipes
-internationales, quatre stades différents, 13 formations d'équipe ainsi que huit stratégies uniques.
-Quatre modes différents. Un mode exposition, un mode ligue internationale, un mode coupe
-internationale et un mode Penalty. Il peut être joué à un ou deux joueurs.
+International Superstar Soccer Pro (Winning Eleven 97 au Japon) est le deuxième épisode de la série et a été publié le 1er juin 1997. Avec un nouveau nom international pour la série, celle-ci veut mettre en avant le côté simulation avec son homologue (International superstar soccer) ajoute le suffixe Pro. Le jeu comprend 32 équipes internationales, quatre stades différents, 13 formations d'équipe ainsi que huit stratégies uniques.
+Quatre modes différents. Un mode exposition, un mode ligue internationale, un mode coupe internationale et un mode Penalty. Il peut être joué à un ou deux joueurs.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### International Superstar Soccer Pro 98 (1998)
 
-International Superstar Soccer Pro 98 (Winning
-Eleven 3 au Japon) est le troisième épisode de la série et a été publié le 1 mai 1998.
-Le jeu propose six modes différents. Les quatre modes de la version précédente et deux nouveaux,
-All-star et entrainement.
+International Superstar Soccer Pro 98 (Winning Eleven 3 au Japon) est le troisième épisode de la série et a été publié le 1 mai 1998. Le jeu propose six modes différents. Les quatre modes de la version précédente et deux nouveaux, All-star et entrainement.
 * Mode Exposition: un match amical contre un ordinateur ou un autre joueur avec un choix de
 difficulté, de stade, de météo et de durée et d'heure de match. Il était également possible de jouer
 avec un autre joueur ou avec ordinateur contre ordinateur. L'option ordinateur contre ordinateur
@@ -411,293 +312,103 @@ vainqueur. En cas d'égalité, ils subissent une mort subite.
 ## Histoire et évolution de la licence
 ### International Superstar Soccer Pro Evolution (1999)
 
-Slogan: "The King of football returns" and "This really is football!" ou (Le roi du football
-revient et C'est vraiment du football!)
-International Superstar Soccer Pro Evolution (Winning Eleven 4 au Japon) est le quatrième épisode de la série et a été
-publié le 11 mai 1999. Il peut être considéré comme le premier vrai jeu de la licence "Pro évolution
-soccer" de par sa richesse de nouveauté et de mode de jeu.
-Le nombre d'équipes internationales a été augmenté par rapport à la version précédente. Les
-équipes officielles ne sont toujours pas autorisées, bien qu'elles aient des emblèmes et des logos
-ressemblant à leurs emblèmes officiels. Tout comme dans ISS Pro 98, les noms des
-joueurs sont mal orthographiés, mais la plupart d'entre eux sonnent juste lorsqu'ils sont prononcés (Ex
-Nigel Martyn étant connu dans le jeu comme "Martin"). Et certains joueurs ont leur vrai nom, Rafael
-Márquez, Sol Campbell, David Regis et Maik Taylor. Chaque équipe est composée de 22 joueurs.
-Apparition du mode Ligue des Master ainsi que des équipes de clubs (16 clubs dont le FC
-Barcelone). Elles sont nommées avec leurs noms de villes respectifs en référence à leurs équivalents
-réels, tels que "Londres" et "Amsterdam" pour Arsenal et Ajax, respectivement. Tout comme les équipes
-nationales, les équipes de clubs sont composées de 22 joueurs. Leurs compositions reflètent les
-effectifs réels de la saison 1998/1999.
-Les 10 stades différents inclus dans ISS Pro Evolution ne sont plus des
-stades génériques nommés dans l'ordre des lettres comme dans les versions précédentes (bien qu'il y ait
-une imitation de l'ancien stade de Wembley dans ISS Pro 98). Les noms fictifs des
-stades représentent leurs équivalents réels; par exemple, Stamford Bridge est nommé «Blue Bridge»,
-tandis qu'Old Trafford apparaît comme «Trad Brick Stadium».
+Slogan: "The King of football returns" and "This really is football!" ou (Le roi du football revient et C'est vraiment du football!)
+International Superstar Soccer Pro Evolution (Winning Eleven 4 au Japon) est le quatrième épisode de la série et a été publié le 11 mai 1999. Il peut être considéré comme le premier vrai jeu de la licence "Pro évolution soccer" de par sa richesse de nouveauté et de mode de jeu.
+Le nombre d'équipes internationales a été augmenté par rapport à la version précédente. Les équipes officielles ne sont toujours pas autorisées, bien qu'elles aient des emblèmes et des logos ressemblant à leurs emblèmes officiels. Tout comme dans ISS Pro 98, les noms des joueurs sont mal orthographiés, mais la plupart d'entre eux sonnent juste lorsqu'ils sont prononcés (Ex Nigel Martyn étant connu dans le jeu comme "Martin"). Et certains joueurs ont leur vrai nom, Rafael Márquez, Sol Campbell, David Regis et Maik Taylor. Chaque équipe est composée de 22 joueurs.
+Apparition du mode Ligue des Master ainsi que des équipes de clubs (16 clubs dont le FC Barcelone). Elles sont nommées avec leurs noms de villes respectifs en référence à leurs équivalents réels, tels que "Londres" et "Amsterdam" pour Arsenal et Ajax, respectivement. Tout comme les équipes nationales, les équipes de clubs sont composées de 22 joueurs. Leurs compositions reflètent les effectifs réels de la saison 1998/1999.
+Les 10 stades différents inclus dans ISS Pro Evolution ne sont plus des stades génériques nommés dans l'ordre des lettres comme dans les versions précédentes (bien qu'il y ait une imitation de l'ancien stade de Wembley dans ISS Pro 98). Les noms fictifs des stades représentent leurs équivalents réels; par exemple, Stamford Bridge est nommé «Blue Bridge», tandis qu'Old Trafford apparaît comme «Trad Brick Stadium».
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### International Superstar Soccer Pro Evolution (1999)
 #### Ligue des Master
 
-L'une des principales nouveautés d' ISS Pro Evolution est un nouveau
-mode de jeu nommé Ligue des Master qui est une ligue exclusive composée de 16
-équipes de clubs incluses dans le jeu reflétant les meilleurs clubs européens de l'époque. Quelle
-que soit l'équipe que vous choisissez de jouer, son équipe sera remplacée par une équipe générique
-composée de joueurs fictifs. L'idée de la Ligue des Master, en plus de gagner toute la compétition,
-est de compléter votre équipe avec de vrais joueurs en termes de transferts.
-Les transferts sont basés sur l'échange de joueurs contre des points que vous gagnez en
-fonction de votre record de match, qui est calculé en fonction des résultats obtenus - une victoire
-équivaut à 8 points et un match nul remporte 4 points. Les points bonus en fonction de la différence
-de buts à la fin du match sont également ajoutés au score total de points (le bonus est ajusté en
-fonction de la difficulté de la Master League donc la différence de buts au niveau de difficulté
-difficile est multipliée par 2).
-À la fin de la Ligue des Master, en raison du manque de divisions différentes, les clubs
-ne sont pas promus ou relégués, quelle que soit leur position finale. Au lieu de cela, la Ligue des
-Master recommence depuis le début, et tous les joueurs acquis des transferts sont conservés dans
-l'équipe du joueur, et le joueur peut continuer à jouer pour éventuellement acheter plus de joueurs
-avec leurs points acquis jusqu'à ce que le joueur ait finalement créé l'équipe souhaitée, car la
-Ligue des Master ne se termine jamais en fait et se boucle toujours après que tous les matchs ont
-été joués.
-L'équipe du joueur peut être exportée en dehors de la Ligue des Master pour être utilisée
-dans d'autres modes de jeu tels que le mode Entraînement et les matchs d'exhibition.
-Le mode de jeu Ligue des Master est présent dans toutes les versions ultérieures des
-séries ISS et PES. Dans les versions successives de la série malgré de nombreuses modifications et
-améliorations, les versions ultérieures de la Ligue des Master diffèrent beaucoup de la Ligue des
-Master d'origine utilisée dans ISS Pro Evolution. Les nouveaux jeux PES sont une
-émulation de toute une saison avec des promotions et des relégations ajoutées en raison de nouvelles
-divisions, plutôt que d'avoir une seule division.
+L'une des principales nouveautés d' ISS Pro Evolution est un nouveau mode de jeu nommé Ligue des Master qui est une ligue exclusive composée de 16 équipes de clubs incluses dans le jeu reflétant les meilleurs clubs européens de l'époque. Quelle que soit l'équipe que vous choisissez de jouer, son équipe sera remplacée par une équipe générique composée de joueurs fictifs. L'idée de la Ligue des Master, en plus de gagner toute la compétition, est de compléter votre équipe avec de vrais joueurs en termes de transferts.
+Les transferts sont basés sur l'échange de joueurs contre des points que vous gagnez en fonction de votre record de match, qui est calculé en fonction des résultats obtenus - une victoire équivaut à 8 points et un match nul remporte 4 points. Les points bonus en fonction de la différence de buts à la fin du match sont également ajoutés au score total de points (le bonus est ajusté en fonction de la difficulté de la Master League donc la différence de buts au niveau de difficulté difficile est multipliée par 2).
+À la fin de la Ligue des Master, en raison du manque de divisions différentes, les clubs ne sont pas promus ou relégués, quelle que soit leur position finale. Au lieu de cela, la Ligue des Master recommence depuis le début, et tous les joueurs acquis des transferts sont conservés dans l'équipe du joueur, et le joueur peut continuer à jouer pour éventuellement acheter plus de joueurs avec leurs points acquis jusqu'à ce que le joueur ait finalement créé l'équipe souhaitée, car la Ligue des Master ne se termine jamais en fait et se boucle toujours après que tous les matchs ont été joués.
+L'équipe du joueur peut être exportée en dehors de la Ligue des Master pour être utilisée dans d'autres modes de jeu tels que le mode Entraînement et les matchs d'exhibition.
+Le mode de jeu Ligue des Master est présent dans toutes les versions ultérieures des séries ISS et PES. Dans les versions successives de la série malgré de nombreuses modifications et améliorations, les versions ultérieures de la Ligue des Master diffèrent beaucoup de la Ligue des Master d'origine utilisée dans ISS Pro Evolution. Les nouveaux jeux PES sont une émulation de toute une saison avec des promotions et des relégations ajoutées en raison de nouvelles divisions, plutôt que d'avoir une seule division.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### International Superstar Soccer Pro Evolution 2 (2000)
 
 Slogan "The finest Football game every made" (Le meilleur jeu de football de tous les temps)
-International Superstar Soccer Pro Evolution 2 (World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal Heno Chōsen au Japon)
-est le cinquième épisode de la série et a été publié le 23 mars 2001. Il incluait des licences
-officielles (bien que partielles) certains joueurs ayant de vrais noms - par exemple Beckham au lieu de
-Bekham (ISS Pro Evolution). La Ligue des Master est étendue, avec 2 divisions et huit clubs
-supplémentaires, ce qui donne un total de vingt-quatre équipes de club, comme Leeds United et River
-Plate. D'autres équipes internationales ont également été ajoutées. A côté de ces ajouts, le gameplay a
-été amélioré, plus fluide et plus réaliste. La version japonaise du jeu contient également des équipes
-nationales de moins de 23 ans, les U-23 japonais s'étant qualifiés pour le tour final des Jeux
-Olympiques de Sydney, ainsi que l'équipe nationale de football australienne de moins de 23 ans, qui
-n'est pas présente dans les versions européennes du jeu. Possibilité de modifier les joueurs, changez la
-nationalité d'un joueur, consultez la galerie des trophées et modifiez votre contrôleur.
+International Superstar Soccer Pro Evolution 2 (World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal Heno Chōsen au Japon) est le cinquième épisode de la série et a été publié le 23 mars 2001. Il incluait des licences officielles (bien que partielles) certains joueurs ayant de vrais noms - par exemple Beckham au lieu de Bekham (ISS Pro Evolution). La Ligue des Master est étendue, avec 2 divisions et huit clubs supplémentaires, ce qui donne un total de vingt-quatre équipes de club, comme Leeds United et River Plate. D'autres équipes internationales ont également été ajoutées. A côté de ces ajouts, le gameplay a été amélioré, plus fluide et plus réaliste. La version japonaise du jeu contient également des équipes nationales de moins de 23 ans, les U-23 japonais s'étant qualifiés pour le tour final des Jeux Olympiques de Sydney, ainsi que l'équipe nationale de football australienne de moins de 23 ans, qui n'est pas présente dans les versions européennes du jeu. Possibilité de modifier les joueurs, changez la nationalité d'un joueur, consultez la galerie des trophées et modifiez votre contrôleur.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer (2001)
 
-Article détaillé : Pro
-Evolution Soccer (jeu vidéo).
-Slogan : ""We are the Football Tribe"" ou
-(Nous sommes la tribu du football)
-Logo du jeu Pro Evolution Soccer, sorti en 2001
-Pro Evolution Soccer (World Soccer:
-Winning Eleven 5 au Japon et World Soccer: Winning Eleven 5
-- International aux États-Unis) est le sixième épisode de la série et a été publié le 23 novembre 2001. Il est sorti sous le nom de World Soccer : Winning Eleven 5 au Japon et en Amérique du Nord. Jon
-Briggs et Terry Butcher
-ont commenté le jeu. Cet opus permet au joueur d'incarner 54 équipes nationales et 32 des meilleurs clubs de
-football au monde. La grosse nouveauté vient de l'ajout des commentaires audio au cours du
-match. Chris James et Terry Butcher assurent
-les commentaires en anglais. Les commentaires en allemand sont assurés par Michael Schuermann et Stefan Buck. Quant à la
-version française, c'est Olivier Deslandes (crédité sous son pseudonyme Edgard Bureau) qui assure le
-rôle de commentateur au côté de Gérard Perron.
+Article détaillé : Pro Evolution Soccer (jeu vidéo).
+Slogan : ""We are the Football Tribe"" ou (Nous sommes la tribu du football) Logo du jeu Pro Evolution Soccer, sorti en 2001 Pro Evolution Soccer (World Soccer: Winning Eleven 5 au Japon et World Soccer: Winning Eleven 5 - International aux États-Unis) est le sixième épisode de la série et a été publié le 23 novembre 2001. Il est sorti sous le nom de World Soccer : Winning Eleven 5 au Japon et en Amérique du Nord. Jon Briggs et Terry Butcher ont commenté le jeu. Cet opus permet au joueur d'incarner 54 équipes nationales et 32 des meilleurs clubs de football au monde. La grosse nouveauté vient de l'ajout des commentaires audio au cours du match. Chris James et Terry Butcher assurent les commentaires en anglais. Les commentaires en allemand sont assurés par Michael Schuermann et Stefan Buck. Quant à la version française, c'est Olivier Deslandes (crédité sous son pseudonyme Edgard Bureau) qui assure le rôle de commentateur au côté de Gérard Perron.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2 (2002)
 
-Article détaillé : Pro Evolution Soccer
-2.
-Slogan : "They Will Rock You" ou (Ils vont te
-faire vibrer)
-Pro Evolution Soccer 2 (World
-Soccer: Winning Eleven 6 au Japon et World Soccer: Winning
-Eleven 6 - International aux États-Unis) est le septième épisode de la série et a été
-publié le 19 septembre 2002. Certains ont estimé qu'il s'agissait d'un léger recul par rapport à Pro
-Evolution Soccer original. D'autres ont fait valoir qu'il s'était amélioré. Le rythme de jeu était
-beaucoup plus rapide que dans la première version, avec des virages plus serrés et des réactions plus
-rapides aux tacles. Il comprenait également un mode session de formation. Des clubs supplémentaires ont
-été ajoutés, avec une division Master League supplémentaire.
-La licence était à peu près la même, mais malheureusement, tous les joueurs néerlandais
-étaient appelés "Oranges", parce que Konami ne détenait pas les droits de la Fédération néerlandaise de
-football professionnel, pour l'utilisation de joueurs néerlandais (en fait, de nombreux autres
-jeux de football de l'époque avec des licences FIFPro ont également vu cela leur arriver (dont FIFA 2002), après l'échec des
-Pays-Bas lors des qualifications de la Coupe du Monde 2002). De plus, contrairement au jeu original, les
-noms de clubs "non officiels" ont cessé d'utiliser des noms de villes évidents (par exemple, Manchester United était Manchester, le Real Madrid
-était Madrid, etc.) et ont utilisé des noms très ambigus (par exemple, Manchester United était
-maintenant Aragon, Liverpool est devenu Europort et West Ham
-est devenu Lake District). Le mode édition comprenait un éditeur de clubs qui compensait dans une
-certaine mesure ce problème, avec des kits et des logos modifiables ainsi que des noms de clubs et de
-joueurs.
-Le jeu comprenait notamment des titres de Queen: We Will Rock You et We Are the Champions. Une version PlayStation (connue
-sous le nom de World Soccer : Winning Eleven 2002 au
-Japon) a également été publiée, qui était encore une fois une mise à jour mineure de son prédécesseur,
-et était la dernière version Pro Evolution Soccer pour la PlayStation originale.
+Article détaillé : Pro Evolution Soccer 2.
+Slogan : "They Will Rock You" ou (Ils vont te faire vibrer)
+Pro Evolution Soccer 2 (World Soccer: Winning Eleven 6 au Japon et World Soccer: Winning Eleven 6 - International aux États-Unis) est le septième épisode de la série et a été publié le 19 septembre 2002. Certains ont estimé qu'il s'agissait d'un léger recul par rapport à Pro Evolution Soccer original. D'autres ont fait valoir qu'il s'était amélioré. Le rythme de jeu était beaucoup plus rapide que dans la première version, avec des virages plus serrés et des réactions plus rapides aux tacles. Il comprenait également un mode session de formation. Des clubs supplémentaires ont été ajoutés, avec une division Master League supplémentaire.
+La licence était à peu près la même, mais malheureusement, tous les joueurs néerlandais étaient appelés "Oranges", parce que Konami ne détenait pas les droits de la Fédération néerlandaise de football professionnel, pour l'utilisation de joueurs néerlandais (en fait, de nombreux autres jeux de football de l'époque avec des licences FIFPro ont également vu cela leur arriver (dont FIFA 2002), après l'échec des Pays-Bas lors des qualifications de la Coupe du Monde 2002). De plus, contrairement au jeu original, les noms de clubs "non officiels" ont cessé d'utiliser des noms de villes évidents (par exemple, Manchester United était Manchester, le Real Madrid était Madrid, etc.) et ont utilisé des noms très ambigus (par exemple, Manchester United était maintenant Aragon, Liverpool est devenu Europort et West Ham est devenu Lake District). Le mode édition comprenait un éditeur de clubs qui compensait dans une certaine mesure ce problème, avec des kits et des logos modifiables ainsi que des noms de clubs et de joueurs.
+Le jeu comprenait notamment des titres de Queen: We Will Rock You et We Are the Champions. Une version PlayStation (connue sous le nom de World Soccer : Winning Eleven 2002 au Japon) a également été publiée, qui était encore une fois une mise à jour mineure de son prédécesseur, et était la dernière version Pro Evolution Soccer pour la PlayStation originale.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 3 (2003)
 
-Article détaillé : Pro Evolution Soccer
-3.
-Premier slogan : "The Season Starts Here" ou
-"La saison commence ici"
-Deuxième slogan : "Football is Life" (Le
-football, c'est la vie)
-Pro Evolution Soccer 3 (World Soccer : Winning Eleven 7 au Japon et World Soccer: Winning Eleven 7 - International aux États-Unis) est le
-huitième volet de la série et a été publié le 7 août 2003. L'arbitre italien Pierluigi Collina figure
-sur la couverture (bien qu'il ne soit pas présent comme arbitre en jeu). La mise à jour la plus
-significative a été la refonte du moteur graphique, avec plus de vie comme les joueurs et une meilleure
-ressemblance. Le gameplay a été modifié, avec une action plus rapide que celle de PES 2, un moteur
-physique bien meilleur, des ajouts tels que la règle de l'avantage a amélioré les passes et les
-fonctions de balle longue, tandis que comme d'habitude, plus de licences (avec les fameuses oranges
-néerlandaises retirées, remplacé par des pseudonymes tels que "Froibaad" à la place de Patrick
-Kluivert), plus d'équipes de clubs et la Master League est maintenant divisée en divisions
-régionales, avec des compétitions équivalentes à la Ligue des
-champions et à la Coupe de l'UEFA et comme Umbro n’existait plus, la compagnie a été remplacée par Adidas.
-Pro Evolution Soccer 3 est le premier de la série (3ᵉ en tout) à sortir sur Microsoft Windows et a été bien accueilli par
-les magazines de jeux PC mais critiqué par les fans pour son manque de mode en ligne et sa configuration
-système gonflée à l'époque, en particulier pour ne pas supporter la série commune Geforce MX. Son rival,
-FIFA Football 2004, avait des fonctions en ligne et des exigences système plus modestes en comparaison.
-Le jeu était essentiellement une conversion directe du code de la PlayStation 2, bien qu'avec des
-graphismes plus nets et il est plus facile de télécharger des mods faits par les fans pour le jeu.
+Article détaillé : Pro Evolution Soccer 3.
+Premier slogan : "The Season Starts Here" ou "La saison commence ici"
+Deuxième slogan : "Football is Life" (Le football, c'est la vie)
+Pro Evolution Soccer 3 (World Soccer : Winning Eleven 7 au Japon et World Soccer: Winning Eleven 7 - International aux États-Unis) est le huitième volet de la série et a été publié le 7 août 2003. L'arbitre italien Pierluigi Collina figure sur la couverture (bien qu'il ne soit pas présent comme arbitre en jeu). La mise à jour la plus significative a été la refonte du moteur graphique, avec plus de vie comme les joueurs et une meilleure ressemblance. Le gameplay a été modifié, avec une action plus rapide que celle de PES 2, un moteur physique bien meilleur, des ajouts tels que la règle de l'avantage a amélioré les passes et les fonctions de balle longue, tandis que comme d'habitude, plus de licences (avec les fameuses oranges néerlandaises retirées, remplacé par des pseudonymes tels que "Froibaad" à la place de Patrick Kluivert), plus d'équipes de clubs et la Master League est maintenant divisée en divisions régionales, avec des compétitions équivalentes à la Ligue des champions et à la Coupe de l'UEFA et comme Umbro n’existait plus, la compagnie a été remplacée par Adidas.
+Pro Evolution Soccer 3 est le premier de la série (3ᵉ en tout) à sortir sur Microsoft Windows et a été bien accueilli par les magazines de jeux PC mais critiqué par les fans pour son manque de mode en ligne et sa configuration système gonflée à l'époque, en particulier pour ne pas supporter la série commune Geforce MX. Son rival, FIFA Football 2004, avait des fonctions en ligne et des exigences système plus modestes en comparaison. Le jeu était essentiellement une conversion directe du code de la PlayStation 2, bien qu'avec des graphismes plus nets et il est plus facile de télécharger des mods faits par les fans pour le jeu.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 4 (2004)
 
-Article détaillé : Pro Evolution Soccer
-4.
-Slogan : "The long road to the Final" (Le
-long chemin vers la finale)
-Pro Evolution Soccer 4 (World
-Soccer: Winning Eleven 8 au Japon and World Soccer: Winning
-Eleven 8 - International aux États-Unis) était le neuvième épisode de la série et est
-sorti le 5 août 2004, avec l'arbitre Pierluigi Collina, Thierry Henry et Francesco Totti en couverture. Il
-s'agit du premier jeu de Pro Evolution Soccer à mettre en vedette des ligues complètes, à savoir
-l'anglais, le français, l'allemand, l'espagnol, l'italien et les Pays-Bas, mais avec des licences
-complètes seulement pour ces trois dernières ligues. En conséquence, les clubs de la Ligue anglaise sans
-licence, avait des noms ambigus comme "West London Blue" et "Man Red" pour Chelsea et Manchester United
-respectivement, et leurs terrains d'origine Stamford Bridge et Old Trafford sont respectivement appelés
-"Blue Bridge" et "Trad Brick Stadium".
-Le gameplay s'est amélioré par rapport à Pro Evolution Soccer 3 (mais pas autant que son
-prédécesseur) avec une amélioration de l'IA, des avantages de jeu améliorés. Le dribble est plus serré
-avec les joueurs (bien qu'à la difficulté d'une étoile, un joueur recevant le ballon sur l'une ou
-l'autre aile peut dribbler le ballon sur toute la longueur du terrain relativement incontestée), et les
-coups francs ont été modifiés pour permettre des licenciements. Le gameplay a été critiqué pour ses
-possibilités de marquer des buts relativement facilement, car les joueurs peuvent passer à travers les
-défenses adverses, ou s'accrocher au ballon à la limite de la surface de réparation et simplement
-attendre que les défenseurs adverses s'éloignent et lui donnent ainsi un espace pour tirer. Une nouvelle
-difficulté 6 étoiles a été ajoutée comme un déblocage dans la boutique, ainsi que les éléments
-précédents, tandis que la Master League comprenait des améliorations telles que le développement des
-joueurs, de sorte que de nombreux joueurs de plus de 30 ans verraient certains attributs diminuer à
-mesure que le jeu avance. Inversement, les joueurs pouvaient améliorer leurs attributs jusqu'à l'âge de
-24-25 ans, bien que l'amélioration soit plus rapide et évidente chez les joueurs de 22 ans et moins.
-Le mode d'édition a été rapidement amélioré, avec la possibilité d'ajouter du texte et des
-logos sur les maillots (essentiellement des sponsors) et l'édition de logos en pixels ainsi que les
-formes traditionnelles prédéfinies, ce qui facilite la réplication d'une équipe. Le jeu comprend
-également une "Coupe Internationale" et quatre Coupes régionales :
-La "Coupe d'Europe" est remarquablement
-immersive, incluant presque tous les grands pays européens, ainsi que des pays plus petits comme la
-Slovénie, la Hongrie et la Slovaquie. Toutefois, des pays comme Israël et l'Islande ne sont pas inclus.
-L'équipe tchèque est simplement appelée "Tchèque".
-Le "Championnat américain" est une fusion de la Gold Cup de la CONCACAF et de la Copa América. Elle comprend la plupart des pays d'Amérique du Nord, d'Amérique
-centrale et d'Amérique du Sud.
-La "Coupe Asie-Océanie" ne comprend que cinq pays asiatiques : le Japon, l'Arabie saoudite, l'Iran, la Chine, la Corée du Sud et l'Australie.
-Ironiquement, dans la vraie vie, l'Australie a rejoint la Confédération Asiatique de Football et est
-maintenant championne en titre de la Coupe d'Asie des nations de football. La
-Corée du Sud est simplement appelée
-"Corée". Les modèles Adidas sont utilisés dans Edit Kit en mode Edit
+Article détaillé : Pro Evolution Soccer 4.
+Slogan : "The long road to the Final" (Le long chemin vers la finale)
+Pro Evolution Soccer 4 (World Soccer: Winning Eleven 8 au Japon and World Soccer: Winning Eleven 8 - International aux États-Unis) était le neuvième épisode de la série et est sorti le 5 août 2004, avec l'arbitre Pierluigi Collina, Thierry Henry et Francesco Totti en couverture. Il s'agit du premier jeu de Pro Evolution Soccer à mettre en vedette des ligues complètes, à savoir l'anglais, le français, l'allemand, l'espagnol, l'italien et les Pays-Bas, mais avec des licences complètes seulement pour ces trois dernières ligues. En conséquence, les clubs de la Ligue anglaise sans licence, avait des noms ambigus comme "West London Blue" et "Man Red" pour Chelsea et Manchester United respectivement, et leurs terrains d'origine Stamford Bridge et Old Trafford sont respectivement appelés "Blue Bridge" et "Trad Brick Stadium".
+Le gameplay s'est amélioré par rapport à Pro Evolution Soccer 3 (mais pas autant que son prédécesseur) avec une amélioration de l'IA, des avantages de jeu améliorés. Le dribble est plus serré avec les joueurs (bien qu'à la difficulté d'une étoile, un joueur recevant le ballon sur l'une ou l'autre aile peut dribbler le ballon sur toute la longueur du terrain relativement incontestée), et les coups francs ont été modifiés pour permettre des licenciements. Le gameplay a été critiqué pour ses possibilités de marquer des buts relativement facilement, car les joueurs peuvent passer à travers les défenses adverses, ou s'accrocher au ballon à la limite de la surface de réparation et simplement attendre que les défenseurs adverses s'éloignent et lui donnent ainsi un espace pour tirer. Une nouvelle difficulté 6 étoiles a été ajoutée comme un déblocage dans la boutique, ainsi que les éléments précédents, tandis que la Master League comprenait des améliorations telles que le développement des joueurs, de sorte que de nombreux joueurs de plus de 30 ans verraient certains attributs diminuer à mesure que le jeu avance. Inversement, les joueurs pouvaient améliorer leurs attributs jusqu'à l'âge de 24-25 ans, bien que l'amélioration soit plus rapide et évidente chez les joueurs de 22 ans et moins.
+Le mode d'édition a été rapidement amélioré, avec la possibilité d'ajouter du texte et des logos sur les maillots (essentiellement des sponsors) et l'édition de logos en pixels ainsi que les formes traditionnelles prédéfinies, ce qui facilite la réplication d'une équipe. Le jeu comprend également une "Coupe Internationale" et quatre Coupes régionales :
+La "Coupe d'Europe" est remarquablement immersive, incluant presque tous les grands pays européens, ainsi que des pays plus petits comme la Slovénie, la Hongrie et la Slovaquie. Toutefois, des pays comme Israël et l'Islande ne sont pas inclus. L'équipe tchèque est simplement appelée "Tchèque".
+Le "Championnat américain" est une fusion de la Gold Cup de la CONCACAF et de la Copa América. Elle comprend la plupart des pays d'Amérique du Nord, d'Amérique centrale et d'Amérique du Sud.
+La "Coupe Asie-Océanie" ne comprend que cinq pays asiatiques : le Japon, l'Arabie saoudite, l'Iran, la Chine, la Corée du Sud et l'Australie. Ironiquement, dans la vraie vie, l'Australie a rejoint la Confédération Asiatique de Football et est maintenant championne en titre de la Coupe d'Asie des nations de football. La Corée du Sud est simplement appelée "Corée". Les modèles Adidas sont utilisés dans Edit Kit en mode Edit
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 5 (2005)
 
-Article détaillé : Pro Evolution Soccer
-5.
+Article détaillé : Pro Evolution Soccer 5.
 Slogan : "Bring it On" (Amène-toi)
-Pro Evolution Soccer 5 (World
-Soccer: Winning Eleven 9 aux États-Unis et Japon) le dixième épisode de la série, est
-sorti en 4 août 2005 et mettait en vedette John Terry et Thierry Henry sur la jaquette et Didier Drogba au menu
-principal. Les améliorations sont principalement des ajustements au moteur de gameplay, tandis que le
-jeu en ligne a finalement atteint la version PlayStation 2. Le jeu a été perçu comme beaucoup plus
-difficile par les fans, avec un IA défensive très punitive qui le rendait plus difficile à marquer.
-Certains joueurs ont souligné des incohérences dans le classement de difficulté des étoiles, comme le
-mode 3 étoiles étant plus difficile à battre que le mode 6 étoiles en raison de sa nature plus
-défensive, mais en général, le classement est plus difficile. Les arbitres sont très pointilleux sur les
-décisions, accordant des coups francs pour des obstructions peu importantes.
-Il y a plusieurs nouvelles licences de club présentes, y compris Arsenal, Chelsea, Celtic, Rangers et quelques
-autres clubs européens, ainsi que les ligues néerlandaises, espagnoles et italiennes complètes.
-Comme les animations de foule sur la version PS2 ont ralenti la cadence d'images à un niveau
-inimaginable pendant la phase de test, les foules ont été rendues sous forme de bitmaps 2D animés plates
-qui sous certains angles deviennent invisibles, rendant les stands vides ; cependant, des foules entièrement rendues en 3D sont présentes pendant les
-scènes de coupe. Il existe cependant des correctifs fabriqués par des fans qui traitent ce problème dans
-la version PC, bien qu'aucun correctif officiel n'ait été publié.
+Pro Evolution Soccer 5 (World Soccer: Winning Eleven 9 aux États-Unis et Japon) le dixième épisode de la série, est sorti en 4 août 2005 et mettait en vedette John Terry et Thierry Henry sur la jaquette et Didier Drogba au menu principal. Les améliorations sont principalement des ajustements au moteur de gameplay, tandis que le jeu en ligne a finalement atteint la version PlayStation 2. Le jeu a été perçu comme beaucoup plus difficile par les fans, avec un IA défensive très punitive qui le rendait plus difficile à marquer. Certains joueurs ont souligné des incohérences dans le classement de difficulté des étoiles, comme le mode 3 étoiles étant plus difficile à battre que le mode 6 étoiles en raison de sa nature plus défensive, mais en général, le classement est plus difficile. Les arbitres sont très pointilleux sur les décisions, accordant des coups francs pour des obstructions peu importantes.
+Il y a plusieurs nouvelles licences de club présentes, y compris Arsenal, Chelsea, Celtic, Rangers et quelques autres clubs européens, ainsi que les ligues néerlandaises, espagnoles et italiennes complètes.
+Comme les animations de foule sur la version PS2 ont ralenti la cadence d'images à un niveau inimaginable pendant la phase de test, les foules ont été rendues sous forme de bitmaps 2D animés plates qui sous certains angles deviennent invisibles, rendant les stands vides ; cependant, des foules entièrement rendues en 3D sont présentes pendant les scènes de coupe. Il existe cependant des correctifs fabriqués par des fans qui traitent ce problème dans la version PC, bien qu'aucun correctif officiel n'ait été publié.
 Le magazine officiel PlayStation 2 UK lui a donné un score parfait de 10/10.
-Pro Evolution Soccer 5, a été lancé pour Xbox, Windows et PS2, tous en ligne activé. Une
-version PSP a été publiée, mais avec des fonctionnalités épurées, comme pas de Master League, pas de
-commentaire, un seul stade et des limitations dans l'éditeur, en raison des limitations de l'UMD. La
-version PSP comportait le jeu Wi-fi, et le gameplay était plus rapide et plus "pin-ball comme" par
-rapport à ses frères et sœurs console, mais il n'a pas reçu la même acclamation que les versions de
-console traditionnelle / PC.
+Pro Evolution Soccer 5, a été lancé pour Xbox, Windows et PS2, tous en ligne activé. Une version PSP a été publiée, mais avec des fonctionnalités épurées, comme pas de Master League, pas de commentaire, un seul stade et des limitations dans l'éditeur, en raison des limitations de l'UMD. La version PSP comportait le jeu Wi-fi, et le gameplay était plus rapide et plus "pin-ball comme" par rapport à ses frères et sœurs console, mais il n'a pas reçu la même acclamation que les versions de console traditionnelle / PC.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 6 (2006)
 
-Article détaillé : Pro Evolution Soccer
-6.
+Article détaillé : Pro Evolution Soccer 6.
 Slogan: "Express Yourself!" (Exprime-toi!)
-Pro Evolution Soccer 6 (World
-Soccer: Winning Eleven 10 aux Japon et Winning Eleven: Pro
-Evolution Soccer 2007 aux États-Unis) est le onzième épisode de la série et est sorti
-officiellement le 27 octobre 2006 pour les plateformes PlayStation 2, PlayStation Portable, Xbox 360 et
-PC et le 9 février 2007 pour Nintendo DS. La version PC n'utilise pas le moteur Xbox 360 mais est une
-conversion de l'édition PS2. La version PSP est similaire à bien des égards à son frère PS2, tandis que
-la version DS a des graphismes et un gameplay qui rappellent l'ancienne série PES sur la PlayStation
-originale.
-Comme chaque année, Konami
-se lance à la « chasse aux licences » qui sont de plus en plus complètes, avec par exemple
-l'apparition de la Ligue 1 Orange. En 2008, les licences pour
-la Bundesliga et celles du championnat anglais sont bloquées par Electronic Arts à
-la suite du rachat de leur exclusivité pour le jeu.
-Ce volet gagne comme chaque année en réalisme et se voit gratifié de nouveaux gestes
-techniques. PES est généralement opposé commercialement à FIFA
-d'Electronic Arts Sports ; ce dernier jeu sort toujours
-un mois avant PES pour éviter au maximum de se retrouver en concurrence directe avec
-le jeu de Konami. Un championnat de France officiel de PES, la PES League, se déroule
-chaque année.
-Les équipes qui apparaissent dans le jeu Pro Evolution Soccer 6 sont
-nombreuses : celles de la ligue 1, du championnat
-anglais, de la série A, de la Liga et du championnat néerlandais. Par contre, les équipes du championnat allemand y
-disparaissent. D'autres équipes sont représentées, portugaises, turques, russes, etc. comme le Sporting Portugal, le Galatasaray ou le Benfica Lisbonne.
+Pro Evolution Soccer 6 (World Soccer: Winning Eleven 10 aux Japon et Winning Eleven: Pro Evolution Soccer 2007 aux États-Unis) est le onzième épisode de la série et est sorti officiellement le 27 octobre 2006 pour les plateformes PlayStation 2, PlayStation Portable, Xbox 360 et PC et le 9 février 2007 pour Nintendo DS. La version PC n'utilise pas le moteur Xbox 360 mais est une conversion de l'édition PS2. La version PSP est similaire à bien des égards à son frère PS2, tandis que la version DS a des graphismes et un gameplay qui rappellent l'ancienne série PES sur la PlayStation originale.
+Comme chaque année, Konami se lance à la « chasse aux licences » qui sont de plus en plus complètes, avec par exemple l'apparition de la Ligue 1 Orange. En 2008, les licences pour la Bundesliga et celles du championnat anglais sont bloquées par Electronic Arts à la suite du rachat de leur exclusivité pour le jeu.
+Ce volet gagne comme chaque année en réalisme et se voit gratifié de nouveaux gestes techniques. PES est généralement opposé commercialement à FIFA d'Electronic Arts Sports ; ce dernier jeu sort toujours un mois avant PES pour éviter au maximum de se retrouver en concurrence directe avec le jeu de Konami. Un championnat de France officiel de PES, la PES League, se déroule chaque année.
+Les équipes qui apparaissent dans le jeu Pro Evolution Soccer 6 sont nombreuses : celles de la ligue 1, du championnat anglais, de la série A, de la Liga et du championnat néerlandais. Par contre, les équipes du championnat allemand y disparaissent. D'autres équipes sont représentées, portugaises, turques, russes, etc. comme le Sporting Portugal, le Galatasaray ou le Benfica Lisbonne.
 La série des Pro Evolution Soccer est marquée par son mode « Ligue des Masters » qui consiste à créer son équipe en achetant les joueurs que l'on veut.
-Pro Evolution Soccer dispose d'un mode en ligne prenant entre autres en
-compte le nombre de victoires, de matchs nuls ou de défaites, l'expérience accumulée, les dernières
-équipes utilisées, le nombre d'heures de jeux passées, la division, le nombre de déconnexions
-intervenues avant la fin d'un match, le classement sur la semaine, le mois ou l'année et le pourcentage
-de buts marqués et encaissés.
-Les Français et les Anglais sont les seuls à disposer d'un serveur dédié. Les Italiens, les Espagnols et les Allemands disposent d'un
-serveur confondu dans lequel ils sont mélangés sous la section : « N'importe qui pc/ps2 ». Ce service en ligne est limité à une durée d'un an à
-partir de la date de sortie d'un épisode jusqu'au suivant.
+Pro Evolution Soccer dispose d'un mode en ligne prenant entre autres en compte le nombre de victoires, de matchs nuls ou de défaites, l'expérience accumulée, les dernières équipes utilisées, le nombre d'heures de jeux passées, la division, le nombre de déconnexions intervenues avant la fin d'un match, le classement sur la semaine, le mois ou l'année et le pourcentage de buts marqués et encaissés.
+Les Français et les Anglais sont les seuls à disposer d'un serveur dédié. Les Italiens, les Espagnols et les Allemands disposent d'un serveur confondu dans lequel ils sont mélangés sous la section : « N'importe qui pc/ps2 ». Ce service en ligne est limité à une durée d'un an à partir de la date de sortie d'un épisode jusqu'au suivant.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2008
 
-Article détaillé : Pro Evolution Soccer
-2008.
-Slogan: "If football is your life, PES 2008 is your game." (Si le football
-est ta vie, alors PES 2008 est ton jeu)
-Pro Evolution Soccer 2008 (World Soccer: Winning Eleven 2008 aux Japon) est le douzième épisode de la
-série et est sorti officiellement le 13 septembre 2007 sur Nintendo DS, PlayStation 2, PlayStation 3,
-Xbox 360, Windows, PSP. Son temps de développement aura été de 18 mois pour les versions Windows, Xbox
-360 et PlayStation 3,
-contre six mois pour le précédent volet sorti sur Xbox 360. Le développement d'un nouveau Winning Eleven est confirmé sur Wii. Plusieurs équipes de développement travaillent sur les versions de la septième génération ; le budget alloué est par ailleurs nettement supérieur
-aux années précédentes. Plusieurs évolutions sont dévoilées, dont la possibilité de régler son mur et de
-paramétrer le nombre de joueurs qui le compose, le nouveau système d'intelligence artificielle : le Teamvision, l'amélioration des commentaires et la
-possibilité de tirer le maillot ou de simuler une faute.
+Article détaillé : Pro Evolution Soccer 2008.
+Slogan: "If football is your life, PES 2008 is your game." (Si le football est ta vie, alors PES 2008 est ton jeu)
+Pro Evolution Soccer 2008 (World Soccer: Winning Eleven 2008 aux Japon) est le douzième épisode de la série et est sorti officiellement le 13 septembre 2007 sur Nintendo DS, PlayStation 2, PlayStation 3, Xbox 360, Windows, PSP. Son temps de développement aura été de 18 mois pour les versions Windows, Xbox 360 et PlayStation 3, contre six mois pour le précédent volet sorti sur Xbox 360. Le développement d'un nouveau Winning Eleven est confirmé sur Wii. Plusieurs équipes de développement travaillent sur les versions de la septième génération ; le budget alloué est par ailleurs nettement supérieur aux années précédentes. Plusieurs évolutions sont dévoilées, dont la possibilité de régler son mur et de paramétrer le nombre de joueurs qui le compose, le nouveau système d'intelligence artificielle : le Teamvision, l'amélioration des commentaires et la possibilité de tirer le maillot ou de simuler une faute.
 Les principales évolutions dévoilées concernent :
 * Un nouveau système d'intelligence artificielle nommé « Teamvision ».
 * La possibilité de positionner son mur et paramétrer le nombre de joueurs qui le compose.
@@ -715,107 +426,46 @@ PC).
 * De nouveaux gestes comme la "Drogba" reprenant la feinte connue du joueur (effectuée
 durant le match Marseille-Newcastle en Ligue des Champions qui amena un but sur l'action) et de
 nouvelles feintes de corps.
-Malgré ces améliorations, il a été reproché à Konami de trop se reposer sur les lauriers
-obtenus avec les versions précédentes. Les critiques vis-à-vis de la version disponible sur PlayStation
-3 et Xbox 360 sont en général mauvaises et favorisent pour cette fois l'autre célèbre jeu de football FIFA 08 (ce qui n'est pas le cas
-pour la version présente sur PlayStation 2). Base de données trop restreinte, game play proche de
-l'arcade et intelligence artificielle douteuse sont les reproches les plus fréquents.
+Malgré ces améliorations, il a été reproché à Konami de trop se reposer sur les lauriers obtenus avec les versions précédentes. Les critiques vis-à-vis de la version disponible sur PlayStation 3 et Xbox 360 sont en général mauvaises et favorisent pour cette fois l'autre célèbre jeu de football FIFA 08 (ce qui n'est pas le cas pour la version présente sur PlayStation 2). Base de données trop restreinte, game play proche de l'arcade et intelligence artificielle douteuse sont les reproches les plus fréquents.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2009
 
-Article détaillé : Pro Evolution Soccer
-2009.
-Pro Evolution Soccer 2009 (World Soccer: Winning Eleven 2009 aux Japon) est le treizième épisode de la
-série et est sorti en Europe le 16 octobre 2008 sur PlayStation 3, Xbox 360, Windows et téléphones mobiles et le 30 octobre 2008 sur PlayStation 2 et PSP. La
-version Wii est sortie le 26 mars 2009.
-Après un volet 2008 très critiqué pour son rendu "arcade" et la montée en puissance de son
-grand rival FIFA 08, ce nouvel
-épisode revient aux sources avec un gameplay retouché et de nouvelles mécaniques de ballons plus
-réaliste. De nouveaux modes de jeu apparaissent, notamment "Be A Legend" (Je suis une légende) ou encore
-la Ligue des champions dont Konami vient tout juste d'acquérir les droits. L'argentin Lionel Messi sera
-l'ambassadeur de ce nouvel épisode. On peut néanmoins signaler que cette version est dépourvue du mode
-communauté, mode qui avait vu le jour en 2008, qui sera réhabilité dans PES2010. Mais le public
-considère que le jeu apporte peu de nouveauté par rapport à la version précédente.
+Article détaillé : Pro Evolution Soccer 2009.
+Pro Evolution Soccer 2009 (World Soccer: Winning Eleven 2009 aux Japon) est le treizième épisode de la série et est sorti en Europe le 16 octobre 2008 sur PlayStation 3, Xbox 360, Windows et téléphones mobiles et le 30 octobre 2008 sur PlayStation 2 et PSP. La version Wii est sortie le 26 mars 2009.
+Après un volet 2008 très critiqué pour son rendu "arcade" et la montée en puissance de son grand rival FIFA 08, ce nouvel épisode revient aux sources avec un gameplay retouché et de nouvelles mécaniques de ballons plus réaliste. De nouveaux modes de jeu apparaissent, notamment "Be A Legend" (Je suis une légende) ou encore la Ligue des champions dont Konami vient tout juste d'acquérir les droits. L'argentin Lionel Messi sera l'ambassadeur de ce nouvel épisode. On peut néanmoins signaler que cette version est dépourvue du mode communauté, mode qui avait vu le jour en 2008, qui sera réhabilité dans PES2010. Mais le public considère que le jeu apporte peu de nouveauté par rapport à la version précédente.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2010
 
-Article détaillé : Pro Evolution Soccer
-2010.
+Article détaillé : Pro Evolution Soccer 2010.
 Slogan: "Where Champions Live!" (Là où vivent les champions !)
-Pro Evolution Soccer 2010 (World Soccer: Winning Eleven 2010 aux Japon) est le quatorzième épisode de la
-série et est sorti officiellement le 23 octobre 2009 sur PlayStation 3, Xbox 360, PC-DVD et téléphone mobile puis le 5 novembre 2009 sur PlayStation 2 et PlayStation
-Portable puis le 19 novembre 2009 pour la version Wii.
-Pour cette nouvelle édition Konami l'objectif est de revenir à la simulation "pure et dure"
-avec un gameplay beaucoup plus intuitif et varié ainsi qu'une vitesse de jeu
-considérablement ralentie. Tout ce qui touche aux graphismes a aussi été grandement renouvelé puisque le
-moteur graphique (présent depuis PES 2008 pour les versions consoles de salon) a subi
-d'importantes retouches comme les effets d'ombres et de lumières ainsi que la modélisation faciale des
-joueurs qui se veut la plus réaliste possible. Grégoire Margotton et le consultant Christophe Dugarry remplacent
-le duo Christian Jeanpierre et Laurent Paganelli pour les commentaires.
-Le gameplay a été
-grandement retouché à la demande de la communauté PES. Le gardien manuel fait son
-grand retour et un système de dribbles à 360 degrés a été implémenté pour plus de fluidité dans les mouvements et
-les animations des joueurs. La vitesse de jeu, largement ralentie, oblige désormais à construire son
-schéma de jeu et l'inertie très prononcée se fait ressentir lors des duels pour la possession de la
-balle. La physique de balle est plus réaliste avec moins de but ou de ballons inopinés.
-Mais la grande nouveauté se situe au niveau de la tactique et de la gestion de l'équipe avec
-l'apparition des « Cartes de capacités
-individuelles » qui remplacent les étoiles de
-compétences des opus précédents. En effet, chaque joueur se voit désormais attribuer une carte qui
-influe sur le style de jeu offensif (ou défensif) de son équipe. Les joueurs du FC Barcelone auront
-plutôt une attitude offensive et conserveront bien la balle alors que ceux de Chelsea FC seront plus
-défensifs et procéderont par contres
-Ces cartes sont activables ou désactivables selon le choix du joueur. Le système d'intelligence artificielle Team Vision 2 a été mise en place, de
-sorte que les joueurs gérés par l'ordinateur jouent en fonction du score et des faiblesses du joueur.
+Pro Evolution Soccer 2010 (World Soccer: Winning Eleven 2010 aux Japon) est le quatorzième épisode de la série et est sorti officiellement le 23 octobre 2009 sur PlayStation 3, Xbox 360, PC-DVD et téléphone mobile puis le 5 novembre 2009 sur PlayStation 2 et PlayStation Portable puis le 19 novembre 2009 pour la version Wii.
+Pour cette nouvelle édition Konami l'objectif est de revenir à la simulation "pure et dure" avec un gameplay beaucoup plus intuitif et varié ainsi qu'une vitesse de jeu considérablement ralentie. Tout ce qui touche aux graphismes a aussi été grandement renouvelé puisque le moteur graphique (présent depuis PES 2008 pour les versions consoles de salon) a subi d'importantes retouches comme les effets d'ombres et de lumières ainsi que la modélisation faciale des joueurs qui se veut la plus réaliste possible. Grégoire Margotton et le consultant Christophe Dugarry remplacent le duo Christian Jeanpierre et Laurent Paganelli pour les commentaires.
+Le gameplay a été grandement retouché à la demande de la communauté PES. Le gardien manuel fait son grand retour et un système de dribbles à 360 degrés a été implémenté pour plus de fluidité dans les mouvements et les animations des joueurs. La vitesse de jeu, largement ralentie, oblige désormais à construire son schéma de jeu et l'inertie très prononcée se fait ressentir lors des duels pour la possession de la balle. La physique de balle est plus réaliste avec moins de but ou de ballons inopinés.
+Mais la grande nouveauté se situe au niveau de la tactique et de la gestion de l'équipe avec l'apparition des « Cartes de capacités individuelles » qui remplacent les étoiles de compétences des opus précédents. En effet, chaque joueur se voit désormais attribuer une carte qui influe sur le style de jeu offensif (ou défensif) de son équipe. Les joueurs du FC Barcelone auront plutôt une attitude offensive et conserveront bien la balle alors que ceux de Chelsea FC seront plus défensifs et procéderont par contres
+Ces cartes sont activables ou désactivables selon le choix du joueur. Le système d'intelligence artificielle Team Vision 2 a été mise en place, de sorte que les joueurs gérés par l'ordinateur jouent en fonction du score et des faiblesses du joueur.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2011
 
-Article détaillé : Pro Evolution Soccer
-2011.
+Article détaillé : Pro Evolution Soccer 2011.
 Slogan: "Engineered for Freedom." (Conçu pour la liberté)
-Pro Evolution Soccer 2011 (World Soccer: Winning Eleven 2011 aux Japon) est le quinzième épisode de la
-série et est sorti officiellement le 28 septembre 2010 sur PlayStation 3, Xbox 360 et PC. Il est ensuite sorti sur Wii, PlayStation Portable, PlayStation 2 le 28 octobre 2010 et une
-version 3DS est sorti le
-25 mars 2011.
-Apparition de La Ligue des Masters en ligne qui est un nouveau système de jeu inédit dans la
-série, il permettra d'organiser des confrontations en championnat entre les joueurs du monde entier en
-lui permettant d'utiliser l'équipe qu'il aura conçue. Il y a également un mode de jeu permettant de
-créer son propre stade, ou on va être en mesure de modifier les tribunes en sélectionnant les structures
-construites, les couleurs du siège, les panneaux publicitaires et panneaux simples, le style de gazon
-entre autres. Le jeu comprend 25 stades. C'est plus que PES 2010 qui en avait 22. Il y aura un total de
-25 emplacements pour créer des stades, donnant un total de 50 stades possibles. L'autre nouveautés est
-de pouvoir créer des équipes et des ligues pleine (pour une utilisation avec des modes de jeu hors ligne
-tels que Vers une Légende, Ligue / Coupe et Ligue des Masters) avec des qualifications. En outre,
-l'utilisateur sera en mesure de modifier les emblèmes de ligue. Malgré ces quelques nouveautés, la
-plupart des joueurs ne considèrent pas que la série a rattrapé son retard sur FIFA.
+Pro Evolution Soccer 2011 (World Soccer: Winning Eleven 2011 aux Japon) est le quinzième épisode de la série et est sorti officiellement le 28 septembre 2010 sur PlayStation 3, Xbox 360 et PC. Il est ensuite sorti sur Wii, PlayStation Portable, PlayStation 2 le 28 octobre 2010 et une version 3DS est sorti le 25 mars 2011.
+Apparition de La Ligue des Masters en ligne qui est un nouveau système de jeu inédit dans la série, il permettra d'organiser des confrontations en championnat entre les joueurs du monde entier en lui permettant d'utiliser l'équipe qu'il aura conçue. Il y a également un mode de jeu permettant de créer son propre stade, ou on va être en mesure de modifier les tribunes en sélectionnant les structures construites, les couleurs du siège, les panneaux publicitaires et panneaux simples, le style de gazon entre autres. Le jeu comprend 25 stades. C'est plus que PES 2010 qui en avait 22. Il y aura un total de 25 emplacements pour créer des stades, donnant un total de 50 stades possibles. L'autre nouveautés est de pouvoir créer des équipes et des ligues pleine (pour une utilisation avec des modes de jeu hors ligne tels que Vers une Légende, Ligue / Coupe et Ligue des Masters) avec des qualifications. En outre, l'utilisateur sera en mesure de modifier les emblèmes de ligue. Malgré ces quelques nouveautés, la plupart des joueurs ne considèrent pas que la série a rattrapé son retard sur FIFA.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2012
 
-Article détaillé : Pro Evolution Soccer
-2012.
+Article détaillé : Pro Evolution Soccer 2012.
 Slogan: "Can You Play?" (Pouvez-vous jouer ?)
-Pro Evolution Soccer 2012 (World Soccer: Winning Eleven 2012 aux Japon) est le seizième épisode de la
-série et est sorti officiellement le 29 septembre 2011 sur PlayStation 3, Xbox 360, PC, Nintendo DS le 27 octobre 2011 sur PSP et PS2 le 10 novembre 2011 sur Wii
-Comme améliorations, le jeu propose la gestion des accélérations des joueurs ainsi que le
-rythme de jeu et des innovations par rapport à l'opus précédent, telles que la possibilité de contrôler
-le joueur auquel on veut faire la passe, l'instauration de myPES, un système qui publie les résultats
-des matchs en multijoueur sur Facebook ou encore la possibilité de régler l'assistanat de l'intelligence
-artificielle. Par ailleurs, le gameplay est revu et amélioré. Les graphismes du jeu, quant à eux, changent peu par
-rapport à l'opus précédent même si les traits des visages des joueurs deviennent plus réalistes. La durée de vie
-est très longue grâce à un mode solo riche ; on peut
-également noter l'apparition d'un nouveau mode de jeu, « Club Boss », qui met le joueur dans la peau d'un président : dans ce mode, le joueur dirige un club mais les matchs
-sont simulés. Le multijoueur en ligne est disponible grâce à un système de serveurs et de nombreux modes
-de jeu sont jouables en ligne.
-PES 2012 apporte d'autres nouveautés et surtout au niveau du gameplay et des
-licences.
+Pro Evolution Soccer 2012 (World Soccer: Winning Eleven 2012 aux Japon) est le seizième épisode de la série et est sorti officiellement le 29 septembre 2011 sur PlayStation 3, Xbox 360, PC, Nintendo DS le 27 octobre 2011 sur PSP et PS2 le 10 novembre 2011 sur Wii
+Comme améliorations, le jeu propose la gestion des accélérations des joueurs ainsi que le rythme de jeu et des innovations par rapport à l'opus précédent, telles que la possibilité de contrôler le joueur auquel on veut faire la passe, l'instauration de myPES, un système qui publie les résultats des matchs en multijoueur sur Facebook ou encore la possibilité de régler l'assistanat de l'intelligence artificielle. Par ailleurs, le gameplay est revu et amélioré. Les graphismes du jeu, quant à eux, changent peu par rapport à l'opus précédent même si les traits des visages des joueurs deviennent plus réalistes. La durée de vie est très longue grâce à un mode solo riche ; on peut également noter l'apparition d'un nouveau mode de jeu, « Club Boss », qui met le joueur dans la peau d'un président : dans ce mode, le joueur dirige un club mais les matchs sont simulés. Le multijoueur en ligne est disponible grâce à un système de serveurs et de nombreux modes de jeu sont jouables en ligne.
+PES 2012 apporte d'autres nouveautés et surtout au niveau du gameplay et des licences.
 * Autour du terrain, on aura une ambiance plus réaliste, on verra les stadiers,
 journalistes, photographes et cameraman seront enfin mobiles (comparé aux images plates des
 précédents opus) et les supporters aussi seront plus réels.
@@ -860,136 +510,59 @@ apparence, etc.
 animations.
 * Le mode créateur de stade sera plus complet et il sera possible désormais de créer des
 stades ovales.
-Pour cette édition, la série à apporter beaucoup de nouveauté, mais le retard accumulé depuis
-quatre ans ne lui permet pas de rattraper le retard pris sur FIFA.
-Le jeu écope d'une note de 15/20 sur le site Jeuxvideo.com et de 7/10 sur Jeuxvideo.fr. Ceux-ci louent notamment les
-efforts de Konami sur le gameplay mais regrettent que le jeu ait du mal à rivaliser avec le concurrent
-FIFA, tout en s'en rapprochant de
-plus en plus.
+Pour cette édition, la série à apporter beaucoup de nouveauté, mais le retard accumulé depuis quatre ans ne lui permet pas de rattraper le retard pris sur FIFA.
+Le jeu écope d'une note de 15/20 sur le site Jeuxvideo.com et de 7/10 sur Jeuxvideo.fr. Ceux-ci louent notamment les efforts de Konami sur le gameplay mais regrettent que le jeu ait du mal à rivaliser avec le concurrent FIFA, tout en s'en rapprochant de plus en plus.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2013
 
-Article détaillé : Pro Evolution Soccer
-2013.
-Pro Evolution Soccer 2013 (World Soccer: Winning Eleven 2013 aux Japon) est le dix-septième épisode de
-la série et est sorti officiellement le 20 septembre 2012 sur PlayStation 3, Xbox 360, PC.
-Pro Evolution Soccer a inventé le concept de liberté de mouvement. Le nouveau « PES FC » de PES 2013 va plus loin et offre une liberté totale en ce qui concerne le
-contrôle du ballon.
-Le mode "Vers une légende", bénéficie de plusieurs nouveautés. Graphiquement, les meilleurs
-joueurs sont immédiatement reconnaissables grâce à la ressemblance physique avec leur modèle et grâce
-aux attitudes, points forts et feintes pour lesquels ils sont célèbres. De plus, les courses, les
-dribbles, les conduites de balle, les frappes et même la manière de fêter le but diffèrent d’un joueur à
-l’autre… Les gardiens ont eux aussi bénéficié de la personnalisation des gestes grâce aux nouvelles
-animations et aux nouveaux styles de jeu. De nouveaux types d’arrêts et de réactions ont été ajoutés
-pour que les gardiens ressemblent le plus possible à leurs homologues de chair et d’os. Ce niveau de
-réalisme s’applique aussi aux meilleurs gardiens, avec leurs incitations au marquage serré à l’intention
-des défenseurs, leurs bonds non naturels pour détourner les frappes les plus puissantes et leurs
-sauvetages parfois acrobatiques, qui ont eux aussi bénéficié des nouvelles techniques d’animations et de
-la nouvelle intelligence artificielle.
-Malgré tout, les journalistes et joueurs considère que cette édition du jeu n'apporte encore
-une fois que peu de nouveautés, et laisse la place libre à son concurrent FIFA, qui devient la référence
-en jeux de football.
+Article détaillé : Pro Evolution Soccer 2013.
+Pro Evolution Soccer 2013 (World Soccer: Winning Eleven 2013 aux Japon) est le dix-septième épisode de la série et est sorti officiellement le 20 septembre 2012 sur PlayStation 3, Xbox 360, PC.
+Pro Evolution Soccer a inventé le concept de liberté de mouvement. Le nouveau « PES FC » de PES 2013 va plus loin et offre une liberté totale en ce qui concerne le contrôle du ballon.
+Le mode "Vers une légende", bénéficie de plusieurs nouveautés. Graphiquement, les meilleurs joueurs sont immédiatement reconnaissables grâce à la ressemblance physique avec leur modèle et grâce aux attitudes, points forts et feintes pour lesquels ils sont célèbres. De plus, les courses, les dribbles, les conduites de balle, les frappes et même la manière de fêter le but diffèrent d’un joueur à l’autre… Les gardiens ont eux aussi bénéficié de la personnalisation des gestes grâce aux nouvelles animations et aux nouveaux styles de jeu. De nouveaux types d’arrêts et de réactions ont été ajoutés pour que les gardiens ressemblent le plus possible à leurs homologues de chair et d’os. Ce niveau de réalisme s’applique aussi aux meilleurs gardiens, avec leurs incitations au marquage serré à l’intention des défenseurs, leurs bonds non naturels pour détourner les frappes les plus puissantes et leurs sauvetages parfois acrobatiques, qui ont eux aussi bénéficié des nouvelles techniques d’animations et de la nouvelle intelligence artificielle.
+Malgré tout, les journalistes et joueurs considère que cette édition du jeu n'apporte encore une fois que peu de nouveautés, et laisse la place libre à son concurrent FIFA, qui devient la référence en jeux de football.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2014
 
-Article détaillé : Pro Evolution Soccer
-2014.
-Pro Evolution Soccer 2014 (World Soccer: Winning Eleven 2014 aux Japon) est le dix-huitième épisode de
-la série et est sorti officiellement le 19 septembre 2013 sur PlayStation 3, Xbox 360, PC.
-La principale nouveauté est l'apparition du nouveau moteur Fox Engine, développé par Kojima Productions (également
-utilisé pour le jeu Metal Gear Solid V : The Phantom Pain)
-La météo aura un impact sur le jeu et les équipes auront accès à un troisième maillot joueur
-cela sera soit disponible au lancement du jeu soit lors d'un DLC. Les contacts à l'image du jeu :
-plus réels (plus de passages fantômes à travers les joueurs, notamment). En effet, plus possible de
-réaliser des passes dans des angles improbables ou de crocheter n'importe comment. Le jeu se rapproche
-de la réalité en ce sens : ce qui est impossible dans
-le vrai foot est impossible dans le jeu. De fait, le jeu suit la mode lancée par ses homologues et
-devient compliqué, voire difficilement abordable. En ce qui concerne les points négatifs, on note la
-sempiternelle faiblesse du gardien, notamment lorsqu'il n'est pas contrôlé manuellement. Outre ce défaut
-habituel, la passe en profondeur par-dessus la défense, selon les puristes, passent beaucoup trop
-souvent.
-De même, sur les phases de hors-jeu, les arbitres attendront que le joueur ait touché le ballon
-pour siffler. Il sera ainsi possible de lui faire suspendre sa course pour qu’un second n’étant pas en
-position illicite parvienne à poursuivre une action qui aurait été stoppée dans PES 2013. Le jeu fait
-également la part belle aux touches rapides et il est possible de sélectionner la direction et la
-puissance de notre remise en jeu alors même que notre joueur court se mettre en position après avoir
-ramassé le ballon. Ainsi, votre adversaire aura beaucoup moins de temps pour venir exercer un pressing
-sur les différents joueurs présents pour réceptionner le ballon. le public fera désormais partie
-intégrante de l’action qui se déroule sous nos yeux. Ainsi, l’équipe évoluant à domicile se verra
-pousser des ailes grâce au soutien du 12ᵉ homme. Le public n’hésitera pas à huer une mauvaise décision de
-l’arbitre ou l’un de vos joueurs si ce dernier ne parvient pas à conclure une action qui semblait toute
-faite. Au contraire, si vous jouez le jeu ou que l’arbitre se montre généreux avec vous, le public
-n’hésitera pas à faire monter la clameur dans les tribunes.
-Le mode éditer est plus complet, avec de nouveaux slots pour les emblèmes des équipes non
-licenciées. Contrairement à PES 2013, on pourra ajouter un logo sur les shorts et les chaussettes. De
-plus, il est possible de changer le nombre d'équipes dans les trois championnats éditables de choisir le
-nombre d'équipes présentes.
-Cette année la franchise marque un tournant avec l'arrivée d'un nouveau moteur graphique qui
-impressionne (le Fox Engine),
-malheureusement les nouveautés au niveau des modes de jeu et du gameplay sont assez faibles, avec
-l'absence totale de concurrent au mode FUT de FIFA ce qui permet à son concurrent, d’accroître sa
-position de domination.
+Article détaillé : Pro Evolution Soccer 2014.
+Pro Evolution Soccer 2014 (World Soccer: Winning Eleven 2014 aux Japon) est le dix-huitième épisode de la série et est sorti officiellement le 19 septembre 2013 sur PlayStation 3, Xbox 360, PC.
+La principale nouveauté est l'apparition du nouveau moteur Fox Engine, développé par Kojima Productions (également utilisé pour le jeu Metal Gear Solid V : The Phantom Pain)
+La météo aura un impact sur le jeu et les équipes auront accès à un troisième maillot joueur cela sera soit disponible au lancement du jeu soit lors d'un DLC. Les contacts à l'image du jeu : plus réels (plus de passages fantômes à travers les joueurs, notamment). En effet, plus possible de réaliser des passes dans des angles improbables ou de crocheter n'importe comment. Le jeu se rapproche de la réalité en ce sens : ce qui est impossible dans le vrai foot est impossible dans le jeu. De fait, le jeu suit la mode lancée par ses homologues et devient compliqué, voire difficilement abordable. En ce qui concerne les points négatifs, on note la sempiternelle faiblesse du gardien, notamment lorsqu'il n'est pas contrôlé manuellement. Outre ce défaut habituel, la passe en profondeur par-dessus la défense, selon les puristes, passent beaucoup trop souvent.
+De même, sur les phases de hors-jeu, les arbitres attendront que le joueur ait touché le ballon pour siffler. Il sera ainsi possible de lui faire suspendre sa course pour qu’un second n’étant pas en position illicite parvienne à poursuivre une action qui aurait été stoppée dans PES 2013. Le jeu fait également la part belle aux touches rapides et il est possible de sélectionner la direction et la puissance de notre remise en jeu alors même que notre joueur court se mettre en position après avoir ramassé le ballon. Ainsi, votre adversaire aura beaucoup moins de temps pour venir exercer un pressing sur les différents joueurs présents pour réceptionner le ballon. le public fera désormais partie intégrante de l’action qui se déroule sous nos yeux. Ainsi, l’équipe évoluant à domicile se verra pousser des ailes grâce au soutien du 12ᵉ homme. Le public n’hésitera pas à huer une mauvaise décision de l’arbitre ou l’un de vos joueurs si ce dernier ne parvient pas à conclure une action qui semblait toute faite. Au contraire, si vous jouez le jeu ou que l’arbitre se montre généreux avec vous, le public n’hésitera pas à faire monter la clameur dans les tribunes.
+Le mode éditer est plus complet, avec de nouveaux slots pour les emblèmes des équipes non licenciées. Contrairement à PES 2013, on pourra ajouter un logo sur les shorts et les chaussettes. De plus, il est possible de changer le nombre d'équipes dans les trois championnats éditables de choisir le nombre d'équipes présentes.
+Cette année la franchise marque un tournant avec l'arrivée d'un nouveau moteur graphique qui impressionne (le Fox Engine), malheureusement les nouveautés au niveau des modes de jeu et du gameplay sont assez faibles, avec l'absence totale de concurrent au mode FUT de FIFA ce qui permet à son concurrent, d’accroître sa position de domination.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2015
 
-Article détaillé : Pro Evolution Soccer
-2015.
+Article détaillé : Pro Evolution Soccer 2015.
 Slogan: "The Pitch is Ours" (Le terrain nous appartient)
-Pro Evolution Soccer 2015 (World Soccer: Winning Eleven 2015 aux Japon) est le dix-neuvième épisode de
-la série et est sorti officiellement le 11 novembre 2014 sur PlayStation 3, Xbox 360, PC.
-La série voit un nouvel élan avec cet épisode. Face à la concurrence la série introduit un
-nouveau mode de jeu, Le mode MyClub (à la place de la Ligue des Masters Online), où il est possible de
-bâtir son équipe jusqu'au choix de l'entraîneur, ainsi que le système de contrôle des rôles, qui permet
-à trois joueurs de prendre le contrôle soit de la défense, du milieu de terrain ou l'attaque pour une
-action multijoueur plus structurée. Ce mode de jeu est inspiré du mode FUT de FIFA, sans y rajouter
-toutes les fonctions qui y font sont succès.
-Certains entraîneurs sont dorénavant licenciés (chaque entraîneur aura son style de jeu) et
-sont probablement modélisés dans le jeu. La météo revient son entrée après avoir été supprimée de PES
-2014. Le Player ID est plus réaliste et inclut désormais une retranscription spécifique du style de jeu
-de chaque grande équipe du monde. De plus, 1000 joueurs bénéficient de cette option ; un joueur joue donc comme il le fait dans la réalité
-avec les mêmes déplacements et mimiques que son alter-ego réel. Pour la première fois dans la série, la
-Liga BBVA, la Serie A, la Ligue 1 et le Championnat d'Angleterre de football ont
-chacune une deuxième division. Par contre, seul deux sur quatre sont licenciées (Ligue 2 et Liga Adelante).
-Mais malgré l’apparition du mode Myclub, et de nouveauté bienvenue, celui-ci ne rivalise pas
-avec le mode FUT de FIFA, De plus sa sortie tardive au milieu du mois de novembre, a laissé le champ
-libre à son concurrent. Cependant la série obtient la faveur de certain journalistes et joueurs qui
-avait jusque-là délaissé la licence. Le mode MyClub et le nouveau moteur graphique peaufiné de l'année
-précédente n'y étant pas étranger.
+Pro Evolution Soccer 2015 (World Soccer: Winning Eleven 2015 aux Japon) est le dix-neuvième épisode de la série et est sorti officiellement le 11 novembre 2014 sur PlayStation 3, Xbox 360, PC.
+La série voit un nouvel élan avec cet épisode. Face à la concurrence la série introduit un nouveau mode de jeu, Le mode MyClub (à la place de la Ligue des Masters Online), où il est possible de bâtir son équipe jusqu'au choix de l'entraîneur, ainsi que le système de contrôle des rôles, qui permet à trois joueurs de prendre le contrôle soit de la défense, du milieu de terrain ou l'attaque pour une action multijoueur plus structurée. Ce mode de jeu est inspiré du mode FUT de FIFA, sans y rajouter toutes les fonctions qui y font sont succès.
+Certains entraîneurs sont dorénavant licenciés (chaque entraîneur aura son style de jeu) et sont probablement modélisés dans le jeu. La météo revient son entrée après avoir été supprimée de PES 2014. Le Player ID est plus réaliste et inclut désormais une retranscription spécifique du style de jeu de chaque grande équipe du monde. De plus, 1000 joueurs bénéficient de cette option ; un joueur joue donc comme il le fait dans la réalité avec les mêmes déplacements et mimiques que son alter-ego réel. Pour la première fois dans la série, la Liga BBVA, la Serie A, la Ligue 1 et le Championnat d'Angleterre de football ont chacune une deuxième division. Par contre, seul deux sur quatre sont licenciées (Ligue 2 et Liga Adelante).
+Mais malgré l’apparition du mode Myclub, et de nouveauté bienvenue, celui-ci ne rivalise pas avec le mode FUT de FIFA, De plus sa sortie tardive au milieu du mois de novembre, a laissé le champ libre à son concurrent. Cependant la série obtient la faveur de certain journalistes et joueurs qui avait jusque-là délaissé la licence. Le mode MyClub et le nouveau moteur graphique peaufiné de l'année précédente n'y étant pas étranger.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2016
 
-Article détaillé : Pro Evolution Soccer
-2016.
+Article détaillé : Pro Evolution Soccer 2016.
 Slogan: "Love the Past, Play the Future" (Aime le passé, joue le futur)
-Pro Evolution Soccer 2016 (World Soccer: Winning Eleven 2016 aux Japon) est le vingtième épisode de la
-série et est sorti officiellement le 17 septembre 2015 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
-La version précédente ayant inclus des nouveautés majeures, cet opus présente peu de
-changement et peaufine les apports de la version 2015, notamment au niveau des graphismes et du mode
-Myclub qui voit l'apparition de plusieurs nouveautés. On notera aussi l'apparition de la compétition
-officielle de l'Euro 2016 exclusif à la licence. Avec
-l'ajout de nouvelle équipe nationale et d'un nouveau stade (Stade de France).
+Pro Evolution Soccer 2016 (World Soccer: Winning Eleven 2016 aux Japon) est le vingtième épisode de la série et est sorti officiellement le 17 septembre 2015 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
+La version précédente ayant inclus des nouveautés majeures, cet opus présente peu de changement et peaufine les apports de la version 2015, notamment au niveau des graphismes et du mode Myclub qui voit l'apparition de plusieurs nouveautés. On notera aussi l'apparition de la compétition officielle de l'Euro 2016 exclusif à la licence. Avec l'ajout de nouvelle équipe nationale et d'un nouveau stade (Stade de France).
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2017
 
-Article détaillé : Pro Evolution Soccer
-2017.
-Slogan : "Control Reality" (Contrôler la
-réalité)
-Pro Evolution Soccer 2017 (World Soccer: Winning Eleven 2017 aux Japon) est le vingt-et-unième épisode
-de la série et est sorti officiellement le 13 septembre 2016 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
-Konami a, pour cette
-édition encore, l'exclusivité des deux premières compétitions européennes. Par conséquent, tous les
-utilisateurs peuvent disputer la Ligue des champions et la Ligue Europa.
+Article détaillé : Pro Evolution Soccer 2017.
+Slogan : "Control Reality" (Contrôler la réalité)
+Pro Evolution Soccer 2017 (World Soccer: Winning Eleven 2017 aux Japon) est le vingt-et-unième épisode de la série et est sorti officiellement le 13 septembre 2016 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
+Konami a, pour cette édition encore, l'exclusivité des deux premières compétitions européennes. Par conséquent, tous les utilisateurs peuvent disputer la Ligue des champions et la Ligue Europa.
 * Real Touch : Dans PES 2017, le contact avec la balle est
 nettement amélioré. Chaque joueur contrôlera le ballon d'une façon unique et différente. Il existe
 désormais de nombreux facteurs qui déterminent la vitesse et la précision de la balle. La base est
@@ -1040,52 +613,19 @@ mettre à jour la base de données des joueurs après le mercato hivernal.
 * Vibration : Les
 nouvelles commandes de vibration réagissent aux impacts et collisions des joueurs et lorsque le
 ballon frappe le montant.
-Les données modifiées peuvent maintenant être transférées entre consoles PS4 via le port USB. Le partage de
-données est également possible et compatible sur plusieurs régions, permettant aux utilisateurs
-européens, américains et asiatiques de partager des données entre eux. Les maillots, équipes et joueurs
-créés peuvent être obtenus avec beaucoup plus de facilité que dans les précédentes versions de PES.
-Pour le mode My Club, il est désormais possible d'engager des scouts pour
-faire signer le joueur que vous voulez sur le marché des transferts. Il sera également possible de lui décrire
-un profil de joueur particulier (note, poste, vitesse, etc.) qu'il sera chargé de trouver et de faire
-signer dans votre club. De nouveaux tutoriels sont disponibles pour commencer MyClub
-pour informer à la fois les nouveaux utilisateurs et les anciens pour comprendre et apprendre tous les
-aspects de ce mode de jeu. L'analyse de match (aussi connu comme Rapport
-de données) est disponible en ligne lors des matchs MyClub. Le joueur est en
-mesure d'analyser la façon dont son adversaire joue (contre-attaque ou possession, jeu court ou jeu
-long, etc), ses mouvements favoris et la partie du terrain qu'il occupe le plus.
-En Ligue des Masters des changements importants ont été apportés dans le système de transfert
-avec de nouvelles fonctions pour transférer et gérer les budgets et les salaires des joueurs. Il y a
-désormais plus de variété dans la négociation tels qu'une durée de prêt de 6 mois et la signature du
-joueur au cours de sa période de prêt. Il a ajouté l'élément de temps pour finaliser une transaction. On
-peut désormais fixer une période de temps pour boucler un transfert et faire signer un joueur. Les
-administrateurs (directeur sportif, président etc.) jouent également leur rôle en donnant des conseils aux utilisateurs
-les négociations. Les différents rôles de l'équipe ont vu une amélioration significative avec 22
-nouveaux rôles par rapport aux 10 qui étaient dans PES
-2016, on notera l'ajout de nouveaux rôles comme « héros » et « bad boy ». Cela permet de donner plus de caractère à l'équipe. Les matchs de jour et de
-nuit sont adaptés en fonction de la saison, en prenant en compte le début de la saison dans la vie
-réelle. Le système de formation a été entièrement revu, les joueurs ont la possibilité d'acquérir des
-compétences et de démontrer leur style de jeu à travers le système de formation. Dans PES
-2017 les joueurs pourront s'adapter à d'autres postes.
-Ajout du mode "Versus - Analyse de la partie" ou il sera désormais possible
-de suivre l'activité de vos amis dans le jeu : matchs
-gagnés, perdus, égalité, et les buts marqués et encaissés. Versus analyse chaque
-action effectuée par le joueur et son adversaire. L'utilisateur pourra mieux comprendre son identité, Versus "tant par exemple capable de définir le mouvement préféré de l'utilisateur, comme le balayage ou
-l'interception.
-Cette édition de PES marque le retour de la licence sur le devant de la scène, face à son
-concurrent FIFA en termes de nouveauté apportée, le graphisme encore améliorer se voit accompagné de
-multiple nouvelle fonction. Cependant, ayant pris du retard en termes de communication PES n'arrive
-toujours pas à se démarquer de son concurrent, notamment due au mode My Club considérer comme moins
-riche que le mode FUT de FIFA, mais aussi par le manque de joueur en ligne.
+Les données modifiées peuvent maintenant être transférées entre consoles PS4 via le port USB. Le partage de données est également possible et compatible sur plusieurs régions, permettant aux utilisateurs européens, américains et asiatiques de partager des données entre eux. Les maillots, équipes et joueurs créés peuvent être obtenus avec beaucoup plus de facilité que dans les précédentes versions de PES.
+Pour le mode My Club, il est désormais possible d'engager des scouts pour faire signer le joueur que vous voulez sur le marché des transferts. Il sera également possible de lui décrire un profil de joueur particulier (note, poste, vitesse, etc.) qu'il sera chargé de trouver et de faire signer dans votre club. De nouveaux tutoriels sont disponibles pour commencer MyClub pour informer à la fois les nouveaux utilisateurs et les anciens pour comprendre et apprendre tous les aspects de ce mode de jeu. L'analyse de match (aussi connu comme Rapport de données) est disponible en ligne lors des matchs MyClub. Le joueur est en mesure d'analyser la façon dont son adversaire joue (contre-attaque ou possession, jeu court ou jeu long, etc), ses mouvements favoris et la partie du terrain qu'il occupe le plus.
+En Ligue des Masters des changements importants ont été apportés dans le système de transfert avec de nouvelles fonctions pour transférer et gérer les budgets et les salaires des joueurs. Il y a désormais plus de variété dans la négociation tels qu'une durée de prêt de 6 mois et la signature du joueur au cours de sa période de prêt. Il a ajouté l'élément de temps pour finaliser une transaction. On peut désormais fixer une période de temps pour boucler un transfert et faire signer un joueur. Les administrateurs (directeur sportif, président etc.) jouent également leur rôle en donnant des conseils aux utilisateurs les négociations. Les différents rôles de l'équipe ont vu une amélioration significative avec 22 nouveaux rôles par rapport aux 10 qui étaient dans PES 2016, on notera l'ajout de nouveaux rôles comme « héros » et « bad boy ». Cela permet de donner plus de caractère à l'équipe. Les matchs de jour et de nuit sont adaptés en fonction de la saison, en prenant en compte le début de la saison dans la vie réelle. Le système de formation a été entièrement revu, les joueurs ont la possibilité d'acquérir des compétences et de démontrer leur style de jeu à travers le système de formation. Dans PES 2017 les joueurs pourront s'adapter à d'autres postes.
+Ajout du mode "Versus - Analyse de la partie" ou il sera désormais possible de suivre l'activité de vos amis dans le jeu : matchs gagnés, perdus, égalité, et les buts marqués et encaissés. Versus analyse chaque action effectuée par le joueur et son adversaire. L'utilisateur pourra mieux comprendre son identité, Versus "tant par exemple capable de définir le mouvement préféré de l'utilisateur, comme le balayage ou l'interception.
+Cette édition de PES marque le retour de la licence sur le devant de la scène, face à son concurrent FIFA en termes de nouveauté apportée, le graphisme encore améliorer se voit accompagné de multiple nouvelle fonction. Cependant, ayant pris du retard en termes de communication PES n'arrive toujours pas à se démarquer de son concurrent, notamment due au mode My Club considérer comme moins riche que le mode FUT de FIFA, mais aussi par le manque de joueur en ligne.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2018
 
-Article détaillé : Pro Evolution Soccer
-2018.
+Article détaillé : Pro Evolution Soccer 2018.
 Slogan: "Where Legends are Made" (Là où les légendes sont faites)
-Pro Evolution Soccer 2018 (World Soccer: Winning Eleven 2018 aux Japon) est le vingt-deuxième épisode de
-la série et est sorti officiellement le 14 septembre 2017 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
+Pro Evolution Soccer 2018 (World Soccer: Winning Eleven 2018 aux Japon) est le vingt-deuxième épisode de la série et est sorti officiellement le 14 septembre 2017 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
 * Gameplay : Konami note
 des améliorations significatives dans la mécanique de jeu, parmi lesquels un meilleur système dans
 le tir des corners et coups francs, en supprimant les conseils de contrôle et en ajoutant de
@@ -1107,117 +647,51 @@ statistiques
 ## Histoire et évolution de la licence
 ### Pro Evolution Soccer 2019
 
-Article détaillé : Pro Evolution Soccer
-2019.
+Article détaillé : Pro Evolution Soccer 2019.
 Slogan: "The Power of Football" (Le pouvoir du football)
-Pro Evolution Soccer 2019 (World Soccer: Winning Eleven 2019 aux Japon) est le vingt-troisième épisode
-de la série et est sorti officiellement le 30 août 2018 sur Microsoft Windows, PlayStation 4 et Xbox One.
-Cet opus ajoute de nouvelle licence, notamment la Superligaen danoise, la Liga NOS portugaise, la Jupiler Pro League belge, la Super League suisse, la Premiership écossaise, la Primera División argentine et la Première ligue russe. L'accord n'a pas été renouvelé avec l'UEFA pour la Ligue des champions, la Ligue Europa, et la Supercoupe de l'UEFA, puis
-la Ligue des Nations, la Coupe de France, et le Trophée des champions. La licence est désormais utilisée
-dans le jeu FIFA 19
-celle de la Ligue des Champions de la Ligue Europa et de la Supercoupe d'Europe. L'International Champions Cup, la compétition de pré-saison, a été ajoutée. Le
-système de négociation et la gestion du budget ont été améliorés.
-Onze nouveaux traits techniques tel que la passe aveugle, le tir plongeant, le double contact
-ou le blocage de balle ont été ajoutés afin d'augmenter les qualités individuelles de chaque joueurs. La fluidité et les animations des dribbles dépendent désormais de la position du joueur, du ballon et
-de la position de l’adversaire.
-La Fatigue Visible est un ajout visant à rééquilibrer le système de
-condition physique et à augmenter la fatigue des joueurs sur le terrain, ces derniers pouvant s’exposer
-à des blessures en cas de fatigue trop intense.
-PES 2019 intègre le logiciel Enlighten et apporte des effets visuels plus réalistes. Le jeu
-est compatible avec la technologie 4K, sur PC, PlayStation 4 Pro et Xbox One X. Cela permet d'avoir
-des graphismes encore plus
-clairs et une gamme de couleurs encore plus réaliste. La neige fait également son retour en tant que
-condition météorologique.
-Le mode myClub propose plusieurs changements pour ce nouvel opus, notamment
-une meilleure inclusion du mode PES League avec des mises à jour hebdomadaires des
-différentes équipes selon le niveau du joueur ainsi qu'un système de cartes comparable à celui de FIFA Ultimate Team. Les modes déjà présents dans les éditions précédentes comme le
-mode coopératif et les légendes sont aussi présents.
+Pro Evolution Soccer 2019 (World Soccer: Winning Eleven 2019 aux Japon) est le vingt-troisième épisode de la série et est sorti officiellement le 30 août 2018 sur Microsoft Windows, PlayStation 4 et Xbox One.
+Cet opus ajoute de nouvelle licence, notamment la Superligaen danoise, la Liga NOS portugaise, la Jupiler Pro League belge, la Super League suisse, la Premiership écossaise, la Primera División argentine et la Première ligue russe. L'accord n'a pas été renouvelé avec l'UEFA pour la Ligue des champions, la Ligue Europa, et la Supercoupe de l'UEFA, puis la Ligue des Nations, la Coupe de France, et le Trophée des champions. La licence est désormais utilisée dans le jeu FIFA 19 celle de la Ligue des Champions de la Ligue Europa et de la Supercoupe d'Europe. L'International Champions Cup, la compétition de pré-saison, a été ajoutée. Le système de négociation et la gestion du budget ont été améliorés.
+Onze nouveaux traits techniques tel que la passe aveugle, le tir plongeant, le double contact ou le blocage de balle ont été ajoutés afin d'augmenter les qualités individuelles de chaque joueurs. La fluidité et les animations des dribbles dépendent désormais de la position du joueur, du ballon et de la position de l’adversaire.
+La Fatigue Visible est un ajout visant à rééquilibrer le système de condition physique et à augmenter la fatigue des joueurs sur le terrain, ces derniers pouvant s’exposer à des blessures en cas de fatigue trop intense.
+PES 2019 intègre le logiciel Enlighten et apporte des effets visuels plus réalistes. Le jeu est compatible avec la technologie 4K, sur PC, PlayStation 4 Pro et Xbox One X. Cela permet d'avoir des graphismes encore plus clairs et une gamme de couleurs encore plus réaliste. La neige fait également son retour en tant que condition météorologique.
+Le mode myClub propose plusieurs changements pour ce nouvel opus, notamment une meilleure inclusion du mode PES League avec des mises à jour hebdomadaires des différentes équipes selon le niveau du joueur ainsi qu'un système de cartes comparable à celui de FIFA Ultimate Team. Les modes déjà présents dans les éditions précédentes comme le mode coopératif et les légendes sont aussi présents.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### eFootball PES 2020
 
-Article détaillé : EFootball PES
-2020.
+Article détaillé : EFootball PES 2020.
 Slogan: Playing is Believing (Jouer c'est croire)
-eFootball PES 2020 (eFootball
-Winning Eleven 2020 aux Japon) est le vingt-quatrième épisode de la série et est sorti
-officiellement le 10 septembre 2019 sur Microsoft Windows, PlayStation 4 et Xbox One.
-À la suite des évolutions importantes et bien accueillies de la licence depuis PES 2017,
-Konami décide de renommer le jeu en eFootball PES, afin de mettre en avant le côté eSport du titre, et
-en vue du passage vers la nouvelle génération de console (PS5 et XBOX Série X). Ce nouveau nom est aussi
-l'occasion de trouver un nom plus générique et simple à démocratiser, afin de passer le terme "PES" en
-second plan (désormais suivis par une mauvaise réputation).
-Pour cette édition, Konami
-aura l'exclusivité des droits du club de la Juventus FC sur le logo, les maillots, et le
-nom du club. Laissant son concurrent FIFA avoir le club sous un faux nom (Piemonte Calcio EA).
-Les améliorations de gameplay ont été réalisées en collaboration avec le footballeur espagnol
-Andrés Iniesta, afin
-de retranscrire le plus fidèlement possible les actions de jeu d'un terrain de football. Un nouveau
-système de dribble nommé le 'Finesse Dribble' permet d'améliorer la capacité d'anticipation des
-mouvements en proposant une nouvelle façon d'éliminer un adversaire. La réception de la balle par un
-joueur a été amélioré, celui-ci disposant d'une nouvelle palette d'animations prenant en compte le style
-de jeu du joueur mais aussi les mouvements et de la position du ballon.
-Un nouveau système symbolisé par trois nouvelles aptitudes propres à chaque joueur nommé
-'Inspire' promet une meilleure gestion des interactions entre les joueurs sur le terrain, les joueurs
-réputés pour être dribbleurs seront par exemple épaulés par leurs coéquipiers qui s'écarteront afin de
-créer des espaces et de proposer des solutions, tandis que les joueurs ayant des qualités de passes
-verront leurs coéquipiers se rapprocher pour bénéficier de meilleures solutions de passes.
-La défense se veut plus réaliste avec de nouvelles animations de tacles, de dégagement du
-ballon et la possibilité de tirer le maillot de l'adversaire afin de provoquer une faute intentionnelle.
-De nouvelles compétences et de nouveaux gestes techniques inspirés du joueur Ronaldinho ont été ajoutés, tandis que la
-physique de balle continue d'être améliorée comme à chaque édition.
-eFootball PES 2020 apporte de nouvelles améliorations visuelles, apportant
-un système de lumière dynamique qui évolue et bouge au fur et à mesure que le match se déroule, tandis
-que les modèles des joueurs ont été améliorés tout comme la qualité de modélisation de la pelouse.
-Le mode Ligue des Masters a subi la plus importante refonte de ces dernières
-années : de nombreuses nouvelles cinématiques ont été
-ajoutées, et celles-ci intègrent un système de dialogue interactif, donnant au joueur la possibilité de
-participer à des conférences de presse, des réunions ou des discours dans les vestiaires, le tout ayant
-pour objectif de créer une histoire. Dans sa quête de réalisme, Konami propose un système de transfert plus réaliste avec l'ajout des
-vrais prix qui régissent le monde du football, des frais de transferts aux salaires des joueurs. La
-proportion de transferts est paramétrable, tout comme la difficulté des négociations et la possibilité
-de ne pas activer le mercato estival de la première saison du mode.
-Des entraîneurs ayant pour trait des personnalités du monde du football tels que Diego Maradona, Johan Cruyff ou Zico sont modélisés et jouables dans le
-mode, et les joueurs peuvent créer leurs propres logos de sponsors qui sont visibles à plusieurs
-reprises au cours de la saison.
-Un nouveau mode de jeu en ligne sur MyClub nommé Matchday propose de
-participer à des duels entre des clubs s'affrontant réellement pendant la saison. Chaque camp est
-sélectionnable et les joueurs ayant remporté le plus de points sont sélectionnés pour participer à la
-grande finale, qui est retransmise et visible en direct par tous les joueurs. À la fin de l’événement,
-tous les joueurs obtiennent des points et des récompenses.
+eFootball PES 2020 (eFootball Winning Eleven 2020 aux Japon) est le vingt-quatrième épisode de la série et est sorti officiellement le 10 septembre 2019 sur Microsoft Windows, PlayStation 4 et Xbox One.
+À la suite des évolutions importantes et bien accueillies de la licence depuis PES 2017, Konami décide de renommer le jeu en eFootball PES, afin de mettre en avant le côté eSport du titre, et en vue du passage vers la nouvelle génération de console (PS5 et XBOX Série X). Ce nouveau nom est aussi l'occasion de trouver un nom plus générique et simple à démocratiser, afin de passer le terme "PES" en second plan (désormais suivis par une mauvaise réputation).
+Pour cette édition, Konami aura l'exclusivité des droits du club de la Juventus FC sur le logo, les maillots, et le nom du club. Laissant son concurrent FIFA avoir le club sous un faux nom (Piemonte Calcio EA).
+Les améliorations de gameplay ont été réalisées en collaboration avec le footballeur espagnol Andrés Iniesta, afin de retranscrire le plus fidèlement possible les actions de jeu d'un terrain de football. Un nouveau système de dribble nommé le 'Finesse Dribble' permet d'améliorer la capacité d'anticipation des mouvements en proposant une nouvelle façon d'éliminer un adversaire. La réception de la balle par un joueur a été amélioré, celui-ci disposant d'une nouvelle palette d'animations prenant en compte le style de jeu du joueur mais aussi les mouvements et de la position du ballon.
+Un nouveau système symbolisé par trois nouvelles aptitudes propres à chaque joueur nommé 'Inspire' promet une meilleure gestion des interactions entre les joueurs sur le terrain, les joueurs réputés pour être dribbleurs seront par exemple épaulés par leurs coéquipiers qui s'écarteront afin de créer des espaces et de proposer des solutions, tandis que les joueurs ayant des qualités de passes verront leurs coéquipiers se rapprocher pour bénéficier de meilleures solutions de passes.
+La défense se veut plus réaliste avec de nouvelles animations de tacles, de dégagement du ballon et la possibilité de tirer le maillot de l'adversaire afin de provoquer une faute intentionnelle. De nouvelles compétences et de nouveaux gestes techniques inspirés du joueur Ronaldinho ont été ajoutés, tandis que la physique de balle continue d'être améliorée comme à chaque édition.
+eFootball PES 2020 apporte de nouvelles améliorations visuelles, apportant un système de lumière dynamique qui évolue et bouge au fur et à mesure que le match se déroule, tandis que les modèles des joueurs ont été améliorés tout comme la qualité de modélisation de la pelouse.
+Le mode Ligue des Masters a subi la plus importante refonte de ces dernières années : de nombreuses nouvelles cinématiques ont été ajoutées, et celles-ci intègrent un système de dialogue interactif, donnant au joueur la possibilité de participer à des conférences de presse, des réunions ou des discours dans les vestiaires, le tout ayant pour objectif de créer une histoire. Dans sa quête de réalisme, Konami propose un système de transfert plus réaliste avec l'ajout des vrais prix qui régissent le monde du football, des frais de transferts aux salaires des joueurs. La proportion de transferts est paramétrable, tout comme la difficulté des négociations et la possibilité de ne pas activer le mercato estival de la première saison du mode.
+Des entraîneurs ayant pour trait des personnalités du monde du football tels que Diego Maradona, Johan Cruyff ou Zico sont modélisés et jouables dans le mode, et les joueurs peuvent créer leurs propres logos de sponsors qui sont visibles à plusieurs reprises au cours de la saison.
+Un nouveau mode de jeu en ligne sur MyClub nommé Matchday propose de participer à des duels entre des clubs s'affrontant réellement pendant la saison. Chaque camp est sélectionnable et les joueurs ayant remporté le plus de points sont sélectionnés pour participer à la grande finale, qui est retransmise et visible en direct par tous les joueurs. À la fin de l’événement, tous les joueurs obtiennent des points et des récompenses.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### eFootball PES 2021 Season Update
 
-eFootball PES 2021 Season Update est le vingt-sixième opus
-de la série. Il est sorti le 17 septembre 2020 sur Microsoft Windows, PlayStation 4 et Xbox One. Cette version, vendue en stand alone,
-est une version de eFootball PES 2020 avec les
-données de clubs et de joueurs à jour et un mode exclusif UEFA Euro 2020.
+eFootball PES 2021 Season Update est le vingt-sixième opus de la série. Il est sorti le 17 septembre 2020 sur Microsoft Windows, PlayStation 4 et Xbox One. Cette version, vendue en stand alone, est une version de eFootball PES 2020 avec les données de clubs et de joueurs à jour et un mode exclusif UEFA Euro 2020.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
 ### eFootball
 
-À partir de la saison 2022, le jeu change de nom et devient un free-to-download proposant des
-achats par micropaiements à ses utilisateurs. Avec une date de sortie prévue pour le 30
-septembre 2021 sur Xbox Series
-X, Xbox One, Playstation 4, Playstation 5, PC, Steam, iOS
-et Android, cette version est
-annoncée être cross-generation et multi-plateforme.
+À partir de la saison 2022, le jeu change de nom et devient un free-to-download proposant des achats par micropaiements à ses utilisateurs. Avec une date de sortie prévue pour le 30 septembre 2021 sur Xbox Series X, Xbox One, Playstation 4, Playstation 5, PC, Steam, iOS et Android, cette version est annoncée être cross-generation et multi-plateforme.
 
 # EFootball (série de jeux vidéo)
 ## Série Pro Evolution Soccer Management
 
-Pro Evolution Soccer Management est un jeu vidéo de management sportif dans le domaine
-du football édité et développé par Konami en 2006 sur PlayStation 2.
+Pro Evolution Soccer Management est un jeu vidéo de management sportif dans le domaine du football édité et développé par Konami en 2006 sur PlayStation 2.
 Le joueur dirige un manager dans l'équipe qu'il aura choisie parmi six championnats : Allemagne, Angleterre, Espagne, France, Italie, Pays-Bas.
-Les équipes nationales ne sont utilisées que pour des matchs amicaux. Aucune compétition
-internationale n'est jouable. Il y a six championnats dont trois (Italie, Espagne et Pays-Bas) possèdent une
-licence officielle.
-Le jeu reprend le moteur de Pro Evolution Soccer 5 pour la visualisation des
-matchs.
+Les équipes nationales ne sont utilisées que pour des matchs amicaux. Aucune compétition internationale n'est jouable. Il y a six championnats dont trois (Italie, Espagne et Pays-Bas) possèdent une licence officielle.
+Le jeu reprend le moteur de Pro Evolution Soccer 5 pour la visualisation des matchs.
 | Titre | Date | Région | Plates-formes |
 | Winning Eleven Tactics: J-League | 12 décembre 2003 | Japon | PlayStation 2 |
 | Winning Eleven Tactics: European Club Soccer | 9 décembre 2004 | Japon | PlayStation 2 |
@@ -1226,8 +700,7 @@ matchs.
 # EFootball (série de jeux vidéo)
 ## Série J.League Winning Eleven
 
-La série J.League Winning Eleven est une licence de Football ne comprenant que le
-championnat Japonais de Football
+La série J.League Winning Eleven est une licence de Football ne comprenant que le championnat Japonais de Football
 | Titre | Date | Région | Plates-formes |
 | J.League Jikkyou Winning Eleven (en) | Juillet 1995 | Japon | PlayStation |
 | J.League Jikkyō Winning Eleven 97 (en) | Novembre 1996 | Japon | PlayStation |
@@ -1282,3 +755,7 @@ La série Winning Eleven Arcade Championship (ja) contient les jeux suivants :
 ### Windows MMO
 
 * Winning Eleven Online (en)
+
+# EFootball (série de jeux vidéo)
+
+## Notes et

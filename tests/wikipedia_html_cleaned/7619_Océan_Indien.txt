@@ -1,7 +1,6 @@
 # Océan Indien
 
-L’océan Indien, autrefois appelé océan Oriental ou mer des Indes, est un océan qui s’étend sur une surface de 70 560 000 km², soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au nord par la péninsule Arabique, l'Iran, le Pakistan, l’Inde, le Bangladesh, la Birmanie et la Thaïlande ; à l'est par l’Indonésie (îles de Sumatra, Java, Bali, Sumbawa, Sumba, Timor, la Nouvelle-Guinée occidentale), l'entrée ouest du détroit de Torrès, l’Australie continentale, la sortie est du détroit de Bass et la côte orientale de la Tasmanie ; le méridien 146° 55' de longitude est frontalier de l'océan Pacifique ; au sud par le continent Antarctique, à
-l’ouest par le méridien 20° de longitude est, qui le sépare de l'océan Atlantique, enfin par l'Afrique.
+L’océan Indien, autrefois appelé océan Oriental ou mer des Indes, est un océan qui s’étend sur une surface de 70 560 000 km², soit 13,83 % de la surface totale du globe terrestre. Avec ses mers bordières, il est limité au nord par la péninsule Arabique, l'Iran, le Pakistan, l’Inde, le Bangladesh, la Birmanie et la Thaïlande ; à l'est par l’Indonésie (îles de Sumatra, Java, Bali, Sumbawa, Sumba, Timor, la Nouvelle-Guinée occidentale), l'entrée ouest du détroit de Torrès, l’Australie continentale, la sortie est du détroit de Bass et la côte orientale de la Tasmanie ; le méridien 146° 55' de longitude est frontalier de l'océan Pacifique ; au sud par le continent Antarctique, à l’ouest par le méridien 20° de longitude est, qui le sépare de l'océan Atlantique, enfin par l'Afrique.
 
 # Océan Indien
 ## Géographie physique
@@ -110,6 +109,40 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 ## Les îles
 ### Les États riverains
 
+* Iran
+* Iraq
+* Koweït
+* Arabie saoudite
+* Archipel de Bahreïn
+* Qatar
+* Émirats arabes unis
+* Oman
+* Yémen
+* Arabie saoudite à nouveau
+* Jordanie
+* Israël
+* Égypte
+* Soudan
+* Érythrée
+* Djibouti
+* Somalie
+* Kenya
+* Tanzanie
+* Mozambique
+* Madagascar
+* Afrique du Sud
+* Pakistan
+* Inde
+* Bangladesh
+* Birmanie
+* Thaïlande
+* Indonésie
+* Timor oriental
+* Australie
+* Sri Lanka
+* Royaume-Uni dépendances
+* France dépendances
+* Norvège dépendances
 États de l'océan Indien au sens strict, mer Rouge et golfe Persique non inclus :
 | Pays | Plus grande ville côtière | Population nationale | Langues parlées sur la côte |
 | Iran | Tchabahar | 84 923 314 | farsi, baloutchi |

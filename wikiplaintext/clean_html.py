@@ -48,23 +48,43 @@ def clean_html(
 
     soup = bs4.BeautifulSoup(html_string, "html.parser")
 
+    all_possible_wrapping = ["html", "body", "section", "div"]
     all_possible_names = ["p", "blockquote", "h1", "h2", "h3", "h4", "h5", "h6", "ul", "ol", "dl", "table"]
 
-    from_dump = False
-    if soup.find("section"):
+    def html_iterator(root):
+        for node in root.find_all(all_possible_wrapping + all_possible_names, recursive=False):
+            if filter_part_function(node): continue
+            if node.name in all_possible_names:
+                yield node
+            else:
+                for subnode in html_iterator(node):
+                    yield subnode
+
+    # Adapt to HTML structure, which varies 
+    # - between the dumps and the API, between 
+    # - wikipedia / wikisource / ...
+    from_dump = bool(soup.find("section"))
+    level_whitespace_collapsing = 2
+    if from_dump:
         # From the dumps
-        from_dump = True
-        def root_generator():
-            for section in soup.find_all("section"):
-                if filter_part_function(section): continue
-                subnodes = section.find_all(all_possible_names, recursive=False)
-                for node in subnodes:
-                    yield node
-                
-        root = root_generator()
+        prefix = soup.find("head").get("prefix")
+        from_wikipedia = "wikipedia.org" in prefix
+        if from_wikipedia:
+            def html_iterator(soup):
+                for section in soup.find_all("section"):
+                    if filter_part_function(section): continue
+                    subnodes = section.find_all(all_possible_names, recursive=False)
+                    for node in subnodes:
+                        yield node                
+        root = html_iterator(soup)
     else:
         # From the API
         root = soup.find("div")
+        subdiv = root.find("div")
+        from_wikipedia = subdiv and "bandeau-container" in subdiv.get("class", [])
+        # Note : from_wikipedia can be False for some Wikipedia pages
+        if not from_wikipedia:
+            root = html_iterator(soup)
 
     # Iterate over all the <p> tags
     full_text = ""
@@ -85,13 +105,16 @@ def clean_html(
         # First paragraph is sometimes weird...
         if name == "p" and node.get("id") == "mwAg" and node.find("span"):
             text = extract_text_special(node, use_superscript=use_superscript)
-            if not text:
-                continue
+            if not text: continue
+            text = collapse_whitespace(text, level_whitespace_collapsing)
             text = text + "\n"
 
         # Paragraph
         elif (name in ["p", "blockquote"]):
             text = extract_text(node, use_superscript=use_superscript)
+            if not text: continue
+            if name in ["p"]:
+                text = collapse_whitespace(text, level_whitespace_collapsing)
             text = text + "\n"
 
         # Title
@@ -198,7 +221,12 @@ def extract_text(
     for line_break in node.findAll('br'):
         line_break.replaceWith(treat_line_breaks_as)
 
-    text = node.get_text(**karwgs) if recursive else node.get_text(depth=1, **karwgs)
+    # text = node.get_text(**karwgs) if recursive else node.get_text(depth=1, **karwgs)
+    # if "separator" not in karwgs:
+    #     karwgs["separator"] = "\n"
+    # if "strip" not in karwgs:
+    #     karwgs["strip"] = True
+    text = node.get_text(**karwgs) if recursive else node.get_text( depth=1, **karwgs)
 
     if remove_annotations:
 

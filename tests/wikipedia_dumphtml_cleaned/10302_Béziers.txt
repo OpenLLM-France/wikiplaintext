@@ -69,8 +69,7 @@ Par ailleurs la commune fait partie de l'aire d'attraction de Béziers, dont ell
 ## Urbanisme
 ### Occupation des sols
 
-L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (69,3 % en 2018), néanmoins en diminution par rapport à 1990 (77,4 %). La répartition détaillée en 2018 est la suivante :
-cultures permanentes (31,2 %), zones agricoles hétérogènes (25,8 %), zones urbanisées (18,5 %), terres arables (12,3 %), zones industrielles ou commerciales et réseaux de communication (7,5 %), espaces verts artificialisés, non agricoles (1,6 %), forêts (1,5 %), milieux à végétation arbustive et/ou herbacée (0,9 %), mines, décharges et chantiers (0,7 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
+L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (69,3 % en 2018), néanmoins en diminution par rapport à 1990 (77,4 %). La répartition détaillée en 2018 est la suivante : cultures permanentes (31,2 %), zones agricoles hétérogènes (25,8 %), zones urbanisées (18,5 %), terres arables (12,3 %), zones industrielles ou commerciales et réseaux de communication (7,5 %), espaces verts artificialisés, non agricoles (1,6 %), forêts (1,5 %), milieux à végétation arbustive et/ou herbacée (0,9 %), mines, décharges et chantiers (0,7 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
 # Béziers
 ## Urbanisme
@@ -150,8 +149,7 @@ La commune est en outre située en aval du barrage des monts d'Orb, un ouvrage d
 # Béziers
 ## Toponymie
 
-Nom d'origine ibère. Attestée sous les formes Βλίτερα (Iᵉʳ siècle, Strabon, Geographica), Beterae, Beterras (Iᵉʳ siècle Pomponius Mela De chorographia), Bαιτίραι (IIᵉ siècle, Ptolémée, Geographia), Beteris (IIᵉ siècle Table de Peutinger).
-La forme latine était Baeterrae.
+Nom d'origine ibère. Attestée sous les formes Βλίτερα (Iᵉʳ siècle, Strabon, Geographica), Beterae, Beterras (Iᵉʳ siècle Pomponius Mela De chorographia), Bαιτίραι (IIᵉ siècle, Ptolémée, Geographia), Beteris (IIᵉ siècle Table de Peutinger). La forme latine était Baeterrae.
 Hamlin suggère un nom proto-basque biterri = bourg de la route. Orpustan lit la forme latine comme baiterri = pays de cours d'eau (l'Orb).
 Le nom de la ville en orthographe occitane classique est Besièrs [beˈzjɛs], qui a été francisé en « Béziers ».
 Ce nom est à l'origine du gentilé des habitants, les Biterroises et les Biterrois; en occitan, los besierenc(a)s.
@@ -534,7 +532,7 @@ Chaque année, le 28 avril, se déroule la procession de saint Aphrodise où lo 
 ## Culture locale et patrimoine
 ### Personnalités liées à la commune
 
-De nombreuses personnalités ont eu un attachement particulier à la ville de Béziers, notamment celles appartenant à la liste ci-après  :
+De nombreuses personnalités ont eu un attachement particulier à la ville de Béziers, notamment celles appartenant à la liste ci-après :
 * Jedaiah ben Abraham Bedersi (c. 1270-c. 1340), poète, médecin et philosophe juif né à Béziers ;
 * Max Cabanes (1947-), illustrateur et auteur de bande dessinée, lauréat du Grand prix de la ville d'Angoulême, né à Béziers ;
 * Sébastien Castella (1983-), torero de renommée internationale né à Béziers ;
@@ -593,35 +591,3 @@ De nombreuses personnalités ont eu un attachement particulier à la ville de B�
 #### Animal totémique
 
 Comme de nombreuses communes de l'Hérault, Béziers possède son animal totémique, le chameau. Celui-ci trouve son origine dans la légende de saint Aphrodise, et lors de la fête duquel il parade, à la rencontre de la population.
-
-# Béziers
-## Pour approfondir
-### Bibliographie
-#### Ouvrages généraux
-
-. Jean Sagnes, Histoire de Béziers, Toulouse, Privat, 1986, 351 p. (ISBN 2-7089-8240-0 et 9782708982406, OCLC 15356447, lire en ligne)
-* Claude Lapeyre et Alain Roque, Béziers pas à pas : ses rues, ses allées, ses monuments, Le Coteau, Éd. Horvath, coll. « Pas à pas », 1984, 256 p., 28 cm (ISBN 271710349X et 9782717103496, OCLC 461749064, BNF 34771756, SUDOC 006883842, lire en ligne)
-* Viala, Michel, Béziers en 100 questions, Saint-Avertin, Sutton, dl 2013, 112 p. (ISBN 978-2-8138-0680-2 et 2813806803, OCLC 859444418, lire en ligne)
-* Viala, Michel, Béziers, Joué-lès-Tours, Sutton, 2001, 128 p. (ISBN 2-84253-687-8 et 9782842536879, OCLC 52813378, lire en ligne)
-* Viala, Michel, Béziers de A à Z, Sutton, 2006 (ISBN 2-84910-506-6 et 9782849105061, OCLC 77078319, lire en ligne)
-* Alén Garabato, Carmen, Béziers, ville occitane ? actes des [XVIIe] Rencontres tenues à Béziers au Centre Du Guesclin, Université Paul-Valéry-Montpellier III, le 18 novembre 2006, Perpignan, Presses universitaires de Perpignan, 2007, 191 p. (ISBN 978-2-35412-015-3 et 235412015X, OCLC 494560518, lire en ligne)
-* Alazard, Pierre, Béziers, hôtels particuliers & demeures remarquables : des racines, des pierres et des hommes : histoire d'une évolution urbaine, Béziers, Société Archéologique, Scientifique & Littéraire de Béziers, 2017, 475 p. (ISBN 978-2-9558400-3-0 et 2955840033, OCLC 1082429412, lire en ligne)
-
-# Béziers
-## Pour approfondir
-### Bibliographie
-#### Ouvrages historiques
-
-* Luc Baby, Pensée morale et religieuse d'après la presse de l'Hérault sous la seconde République, Béziers, Société archéologique, scientifique et littéraire de Béziers, coll. « Cahier de la Société archéologique, scientifique et littéraire de Béziers » (nᵒ 26), 2016, 86 p.
-* Mathilde Bellaud-Dessalles, Histoire de Béziers : des origines à la Révolution française, Béziers, Clareton, 1929, 282 p.
-* Bertouy, Edouard et Taurines, Robert, Castelbon de Beauxhostes : l'âge d'or du spectacle lyrique aux arènes de Béziers, Cazouls-lès-Béziers, Mont, 2007, 111 p. (ISBN 978-2-915652-14-7 et 2915652147, OCLC 191813177, lire en ligne)
-* Monique Bourin et Jean Sagnes, En Languedoc au XIIIᵉ siècle le temps du sac de Béziers : actes des [XXe] Rencontres tenues à Béziers au Centre Du Guesclin, Université Paul-Valéry-Montpellier III, Perpignan, Presses universitaires de Perpignan, 2010, 326 p. (ISBN 978-2-35412-068-9 et 2354120680, OCLC 708355991, lire en ligne)
-* Robert Cavalié, Béziers... : histoire d'en parler, au nom des pères, des fils, et de leur esprit, Cazouls-les-Béziers, Éd. du Mont, coll. « Lo camel », 2011, 205 p.
-* Robert Cavalié, Le siècle d'or de Béziers, Cazouls-les-Béziers, Éd. du Mont, coll. « Lo camel », 2017, 150 p.
-* Monique Clavel, Béziers et son territoire dans l'Antiquité, Les belles lettres, 1970
-* Cyril Hershon, Les troubadours de Béziers, vol. cahier IX, Société Archéologique, Scientifique & Littéraire de Béziers, 2001
-* Carlos Heusch et Gouiran, Gérard, Biterris : Béziers et son rayonnement culturel au Moyen Âge : actes des [XIIe] Rencontres tenues à Béziers au Centre Du Guesclin, Université Paul-Valéry-Montpellier III, le 8 décembre 2001, Béziers/Perpignan, Ville de Béziers, 2003, 143 p. (ISBN 2-914518-33-1 et 9782914518338, OCLC 52811631, lire en ligne)
-* Jean Sagnes, Histoire de Béziers, Toulouse, Privat, 1986, 351 p. (ISBN 2-7089-8240-0 et 9782708982406, OCLC 15356447, lire en ligne)
-* Antonin Soucaille, Béziers pendant la Révolution : 1789-1800, Béziers, J. Sapte, 1894, 360 p. (lire en ligne)
-* Daniela Ugolini, Elian Gomez et Michel Zink, Béziers, vol. 34/4, Paris, Académie des inscriptions et belles-lettres, 2012, 405 p. (ISBN 978-2-87754-285-2 et 2877542858, OCLC 836102659, lire en ligne)
-* Ouvrage collectif, "Arènes de Béziers, 150 ans de passions taurines, lyriques, festives" Éd. du Chameau Malin, Béziers 2018, 465 p. format 21/27

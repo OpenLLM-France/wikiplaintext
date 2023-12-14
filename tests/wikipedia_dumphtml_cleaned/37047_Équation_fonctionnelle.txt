@@ -40,7 +40,7 @@ On parle de formule de réflexion est une équation fonctionnelle caractérisant
 
 Les formules de réflexion simples comme f(x)=f(−x) ou f(x)=−f(−x) impliquent l'étude de la parité des fonctions solutions (la première caractérise les fonctions paires, la seconde pour les fonctions impaires).
 Un des exemples les plus connus est la formule des compléments de la fonction gamma, démontré par Leonhard Euler
-> ∀z∈]0;1[, Γ(z)Γ(1−z)=πsin⁡(πz).
+> ∀z∈]0;1[, Γ(z)Γ(1−z)=πsin⁡(πz).
 La formule de réflexion pour la fonction zêta de Riemann est donnée par :
 > ζ(1−z)=2(2π)zcos⁡(πz2)Γ(z)ζ(z).
 qu'on peut réécrire de façon équivalente

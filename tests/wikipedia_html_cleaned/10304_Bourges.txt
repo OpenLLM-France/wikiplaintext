@@ -23,8 +23,7 @@ Ancienne ville fortifiée, Bourges a conservé quelques vestiges de ces défense
 ## Géographie
 ### Climat
 
-Le climat de Bourges est tempéré avec des influences continentales et océaniques. Les données suivantes ont été relevées à la station Météo France de l'aéroport de Bourges :
-La station météorologique de Météo-France installée sur l'aérodrome de la commune et mise en service en 1945 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
+Le climat de Bourges est tempéré avec des influences continentales et océaniques. Les données suivantes ont été relevées à la station Météo France de l'aéroport de Bourges : La station météorologique de Météo-France installée sur l'aérodrome de la commune et mise en service en 1945 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
 Statistiques 1981-2010 et records BOURGES (18) - alt : 161 m 47° 03′ 30″ N, 2° 21′ 30″ E Records établis sur la période du 01-03-1945 au 04-09-2023 :
 | Mois | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
 | Température minimale moyenne (°C) | 1,1 | 1,1 | 3,4 | 5,3 | 9,2 | 12,4 | 14,4 | 14,1 | 11,1 | 8,3 | 4 | 1,8 | 7,2 |
@@ -39,16 +38,14 @@ Statistiques 1981-2010 et records BOURGES (18) - alt : 161 m 47° 03′ 30�
 ## Urbanisme
 ### Typologie
 
-Bourges est une commune urbaine. Elle fait en effet partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'Insee.
-Elle appartient à l'unité urbaine de Bourges, une agglomération intra-départementale regroupant 6 communes et 85 412 habitants en 2020, dont elle est ville-centre.
+Bourges est une commune urbaine. Elle fait en effet partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'Insee. Elle appartient à l'unité urbaine de Bourges, une agglomération intra-départementale regroupant 6 communes et 85 412 habitants en 2020, dont elle est ville-centre.
 Par ailleurs la commune fait partie de l'aire d'attraction de Bourges, dont elle est la commune-centre. Cette aire, qui regroupe 112 communes, est catégorisée dans les aires de 50 000 à moins de 200 000 habitants.
 
 # Bourges
 ## Urbanisme
 ### Occupation des sols
 
-L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires artificialisés (50,7 % en 2018), en augmentation par rapport à 1990 (44,3 %). La répartition détaillée en 2018 est la suivante :
-zones urbanisées (30,8 %), terres arables (29,6 %), zones industrielles ou commerciales et réseaux de communication (16,7 %), zones agricoles hétérogènes (6,3 %), prairies (5,7 %), milieux à végétation arbustive et/ou herbacée (4,4 %), espaces verts artificialisés, non agricoles (3,2 %), forêts (2,5 %), eaux continentales (0,7 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
+L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires artificialisés (50,7 % en 2018), en augmentation par rapport à 1990 (44,3 %). La répartition détaillée en 2018 est la suivante : zones urbanisées (30,8 %), terres arables (29,6 %), zones industrielles ou commerciales et réseaux de communication (16,7 %), zones agricoles hétérogènes (6,3 %), prairies (5,7 %), milieux à végétation arbustive et/ou herbacée (4,4 %), espaces verts artificialisés, non agricoles (3,2 %), forêts (2,5 %), eaux continentales (0,7 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
 # Bourges
 ## Urbanisme
@@ -66,8 +63,7 @@ Les quartiers Nord, dont la Chancellerie et les Gibjoncs, font quant à eux part
 #### Quartier de Mazières-Barbès
 
 Le quartier Mazières-Barbès est un quartier historique de la ville de Bourges, un élément du patrimoine berruyer. Le quartier se transforme au XIXᵉ siècle avec l'industrie et il s'urbanise. Il existe deux éléments forts qui apportent de la richesse au XIXᵉ siècle dans cette ville : la fonderie de Mazières et les moulins à eau.
-Avant le XIXᵉ siècle, ce quartier est éloigné du centre-ville. Cette zone est uniquement rurale et développe une économie plutôt tournée vers l'agriculture et l'élevage. La population provient du monde rural, se déplace à dos d'animaux ou emprunte la voie fluviale du canal de Berry.
-Un élément qui a disparu de nos jours traduisait l'économie de l'époque : le moulin du Beugnon (fabrication de farine).
+Avant le XIXᵉ siècle, ce quartier est éloigné du centre-ville. Cette zone est uniquement rurale et développe une économie plutôt tournée vers l'agriculture et l'élevage. La population provient du monde rural, se déplace à dos d'animaux ou emprunte la voie fluviale du canal de Berry. Un élément qui a disparu de nos jours traduisait l'économie de l'époque : le moulin du Beugnon (fabrication de farine).
 Durant l'essor économique en France et en Europe, le quartier va s'étendre en superficie et se rapprocher de la ville. Outre le moulin, une construction fondamentale va développer l'urbanisation, transformer en cité ouvrière le quartier, renforcer et accroître l'économie de la ville, du Cher : la fonderie de Mazières. Cette fonderie a été créée par Melchior de Vogüé, un industriel français.
 La rue de Mazières apparaît. Avant cette époque, l'emplacement n'est qu'un chemin.
 * La création des hauts-fourneaux et de la fonderie.
@@ -205,8 +201,7 @@ Le nord de la ville de Bourges est resté jusqu'à la fin de la Seconde Guerre m
 #### Quartiers nord
 ##### Asnières-Lès-Bourges
 
-Le quartier de Asnières-lès-Bourges (souvent raccourci à Asnières) est un quartier situé tout au nord de la Commune de Bourges. Il est le moins proche du centre-ville et, de par sa structure proche d'un village, possède une identité spécifique au sein de Bourges. L'essentiel des habitations furent construites avant le XXème siècle, mais aussi durant l'après-guerre. Asnières-lès-Bourges, moins peuplée que d'autres quartiers de la commune, est pourvue de nombreux jardins, potagers et terrains, certains étant en jachère et/ou abandonnés. Localement, l'expression pour définir un sentier qui serpente entre les parcelles et maisons est une sente.
-Le quartier, peu dynamique, tente d'initier des projets depuis le renouvellement politique lors des élections municipales de 2020, avec l'installation hebdomadaire d'un marché sur la Place du 14 juillet tous les jeudis.
+Le quartier de Asnières-lès-Bourges (souvent raccourci à Asnières) est un quartier situé tout au nord de la Commune de Bourges. Il est le moins proche du centre-ville et, de par sa structure proche d'un village, possède une identité spécifique au sein de Bourges. L'essentiel des habitations furent construites avant le XXème siècle, mais aussi durant l'après-guerre. Asnières-lès-Bourges, moins peuplée que d'autres quartiers de la commune, est pourvue de nombreux jardins, potagers et terrains, certains étant en jachère et/ou abandonnés. Localement, l'expression pour définir un sentier qui serpente entre les parcelles et maisons est une sente. Le quartier, peu dynamique, tente d'initier des projets depuis le renouvellement politique lors des élections municipales de 2020, avec l'installation hebdomadaire d'un marché sur la Place du 14 juillet tous les jeudis.
 
 # Bourges
 ## Urbanisme
@@ -350,8 +345,7 @@ Les habitants effectuent chaque jour 3 % de leurs déplacements à vélo.
 ### Voies de communication et transports
 #### Voies ferroviaires
 
-Bourges, au regard de sa taille et proximité de Paris, est plutôt mal desservie par le réseau ferroviaire. En effet, elle ne se trouve pas sur une des grandes radiales ferroviaires françaises (lignes depuis Paris, cœur historique du réseau), ce qui nuit à sa desserte. On ne compte par exemple que quatre trains directs aller/retour par jour pour Paris-Austerlitz, sa gare tête-de-ligne.
-En comparaison, Nevers, ville plus petite mais dont la gare est sur la ligne Paris-Clermont-Ferrand, bénéficie de douze trains aller/retour pour Paris au quotidien.
+Bourges, au regard de sa taille et proximité de Paris, est plutôt mal desservie par le réseau ferroviaire. En effet, elle ne se trouve pas sur une des grandes radiales ferroviaires françaises (lignes depuis Paris, cœur historique du réseau), ce qui nuit à sa desserte. On ne compte par exemple que quatre trains directs aller/retour par jour pour Paris-Austerlitz, sa gare tête-de-ligne. En comparaison, Nevers, ville plus petite mais dont la gare est sur la ligne Paris-Clermont-Ferrand, bénéficie de douze trains aller/retour pour Paris au quotidien.
 Cependant, en contrepartie, la position de la gare de Bourges lui donne une très bonne desserte « Est-Ouest ». Depuis Bourges, il est, par exemple, possible de rallier, sans détour, Tours, Angers, Nantes, Le Croisic, Montluçon, Nevers, Moulins, Roanne, Lyon.
 L'agglomération dispose aussi de trois autres petites gares qui sont les gares de Marmagne, Saint-Germain-du-Puy et Saint Florent-sur-Cher relié à Bourges-Gare via des navettes TER.
 
@@ -480,8 +474,7 @@ Le 21 décembre 1569, des troupes protestantes venues de la ville de Sancerre é
 ### Bourges sous l'Ancien Régime
 #### Du XVIIe siècle à la Révolution française
 
-Au XVIIᵉ siècle, la ville connaît un nouveau sursaut lié à deux évènements majeurs, la Contre-Réforme d’abord, dont les jésuites vont être les principaux réalisateurs et qui va se matérialiser à Bourges par la construction du collège Sainte-Marie. Le second événement est la présence du futur prince de Condé, puis son rôle en tant que gouverneur du Berry. Nouvelles idées et influence politique transforment la ville. La cité encore médiévale s’ouvre, les murailles sont détruites, de nombreux édifices publics sont bâtis (hôpital général, carmel) ou réaménagés (Hôtel-Dieu, hôtel des échevins). Deux hommes jouent un rôle fondamental : un architecte, Le Juge, qui réalise la plupart de ces chantiers et l’archevêque Michel Phélypeaux de La Vrillière, grand courtisan, dont la famille est l’une des plus riches de France, qui fait construire un palais archiépiscopal, des jardins à la française signés Le Notre et un grand séminaire.
-Répondant à des considérations économiques, Louis XIV sous l'impulsion de Colbert signe un Edit en 1665, aboutissant à la création d 'une manufacture de dentelle en mai 1666 dans plusieurs villes dont Bourges mais cette manufacture n'a pas perduré plus de 10 ans.
+Au XVIIᵉ siècle, la ville connaît un nouveau sursaut lié à deux évènements majeurs, la Contre-Réforme d’abord, dont les jésuites vont être les principaux réalisateurs et qui va se matérialiser à Bourges par la construction du collège Sainte-Marie. Le second événement est la présence du futur prince de Condé, puis son rôle en tant que gouverneur du Berry. Nouvelles idées et influence politique transforment la ville. La cité encore médiévale s’ouvre, les murailles sont détruites, de nombreux édifices publics sont bâtis (hôpital général, carmel) ou réaménagés (Hôtel-Dieu, hôtel des échevins). Deux hommes jouent un rôle fondamental : un architecte, Le Juge, qui réalise la plupart de ces chantiers et l’archevêque Michel Phélypeaux de La Vrillière, grand courtisan, dont la famille est l’une des plus riches de France, qui fait construire un palais archiépiscopal, des jardins à la française signés Le Notre et un grand séminaire. Répondant à des considérations économiques, Louis XIV sous l'impulsion de Colbert signe un Edit en 1665, aboutissant à la création d 'une manufacture de dentelle en mai 1666 dans plusieurs villes dont Bourges mais cette manufacture n'a pas perduré plus de 10 ans.
 En prévision des États généraux de 1789, Me de Villebanois, curé de St Jean-le-Vieil, est élu député du clergé.
 
 # Bourges
@@ -571,8 +564,7 @@ Résultats des deux meilleurs scores :
 ## Politique et administration
 ### Groupes politiques locaux
 
-A l'instar de nombreuses autres villes, il a existé deux groupes d'actions de La France Insoumise dès 2016. Ces groupes ont pu organiser des réunions publiques, que ce soit à Bourges ou dans d'autres communes (Aubigny-sur-Nère, Henrichemont, La Guerche sur l'Aubois...).
-Depuis plusieurs années il y a une permanence Les Républicains Place Séreaucourt, ainsi qu'un local du Parti Communiste Français Rue Théophile Lamy.
+A l'instar de nombreuses autres villes, il a existé deux groupes d'actions de La France Insoumise dès 2016. Ces groupes ont pu organiser des réunions publiques, que ce soit à Bourges ou dans d'autres communes (Aubigny-sur-Nère, Henrichemont, La Guerche sur l'Aubois...). Depuis plusieurs années il y a une permanence Les Républicains Place Séreaucourt, ainsi qu'un local du Parti Communiste Français Rue Théophile Lamy.
 Il existe aussi une présence d'extrême gauche, par exemple avec le bar libertaire et militant l'Antidote, ayant pu contribuer à organiser des réunions de salariés mobilisés dans le cadre du mouvement d'opposition à la réforme des retraites de 2023, ou à accueillir des jeunes militants engagés dans l'écologie politique (Youth For Climate Bourges) en 2019.
 Opposée idéologiquement à l'Antidote et ses membres antifascistes, il existe un groupe d'extrême droite locale, nommé Animus Fortis, d'inspiration nationaliste-révolutionnaire et probablement issu de la dissolution du Bastion Social en 2019. Ce dernier a pu prendre part à la manifestation du 6 mai 2023 organisée par le Comité 9 mai.
 Bourges a aussi pu accueillir des mouvements a-partisans difficilement classables sur le clivage droite-gauche, comme des groupes Gilets Jaunes (l'apogée du mouvement Gilets Jaunes ayant eu lieu lors de la manifestation du 12 janvier 2019, manifestation initiée par un appel d'envergure nationale de figures médiatiques du mouvement comme Priscilla Ludowski). Mais aussi un mouvement anti-pass sanitaire et opposé aux mesures sanitaires appliquées dans le contexte de la pandémie de Covid19, entre 2021 et 2022.

@@ -283,19 +283,15 @@ Les diagrammes suivants donnent la composition du parc français.
 ### Camions
 #### Projets de poids lourds
 
-Tesla
-Tesla présente le 16 novembre 2017 son semi-remorque électrique autonome Tesla Semi, dont l'autonomie atteindrait 800 km et dont le coût complet serait inférieur de 20 % à celui d'un camion Diesel. La production devrait commencer fin 2019. L'entreprise a reçu environ 200 commandes en quinze jours.
+Tesla Tesla présente le 16 novembre 2017 son semi-remorque électrique autonome Tesla Semi, dont l'autonomie atteindrait 800 km et dont le coût complet serait inférieur de 20 % à celui d'un camion Diesel. La production devrait commencer fin 2019. L'entreprise a reçu environ 200 commandes en quinze jours.
 En 2018, après la présentation en novembre 2017 du poids lourd électrique de Tesla, les principaux constructeurs de véhicules industriels multiplient les annonces : Volvo Trucks et sa filiale Renault Trucks annoncent en janvier 2018 deux projets : une gamme de véhicules électriques de 16 à 19 t pour la distribution urbaine, lancée fin 2019 par Volvo, et une autre chez Renault, qui teste depuis 2012 des camions frigorifiques de 12 à 19 t d'une autonomie de 120 km. Mercedes-Benz Trucks lancera sa gamme de camions électriques en 2020 et teste son nouveau Urban e-Truck 100 % électrique en versions 18 t et 25 t, d'une autonomie de 200 km.
-Daimler
-Daimler annonce le 6 juin 2018 la commercialisation en 2021 d'un camion électrique de 36 t d'une autonomie allant jusqu'à 400 km, le Freightliner eCascadia, ainsi que d'un camion de moyen tonnage, le Freightliner eM2 106, d'une autonomie maximale de 370 km, conçu pour la distribution locale, la livraison d'aliments et de boissons, et les services de logistique du « dernier kilomètre ».
+Daimler Daimler annonce le 6 juin 2018 la commercialisation en 2021 d'un camion électrique de 36 t d'une autonomie allant jusqu'à 400 km, le Freightliner eCascadia, ainsi que d'un camion de moyen tonnage, le Freightliner eM2 106, d'une autonomie maximale de 370 km, conçu pour la distribution locale, la livraison d'aliments et de boissons, et les services de logistique du « dernier kilomètre ».
 Le constructeur chinois BYD, déjà connu pour ses bus et taxis électriques, lance en Europe trois véhicules utilitaires électriques :
 * un petit camion électrique baptisé T6, doté de 7,5 t de PTAC avec une motorisation de 335 ch et une batterie de 221 kWh ;
 * un petit tracteur aéroportuaire baptisé Q1M emportant une batterie de 217 kWh, autorisant jusqu’à 46 t de PTAC ;
 * un petit fourgon électrique, le T3, avec un moteur électrique de 70 kW couplé à une batterie d’environ 50 kWh.
-Volvo trucks
-En 2020, la start-up suédoise Volta Trucks annonce le modèle « Volta Zéro », un camion 100 % électrique de 16 t conçu pour la distribution de colis et de fret dans les centres-villes, en expérimentation au premier semestre 2021, dans quelques villes européennes dont Paris. L'autonomie électrique serait de 150 à 200 km et la vitesse est limitée à 90 km/h. La production en série est prévue au premier semestre 2022 et les prévisions de ventes sont de 500 unités à partir de 2022 et de 5 000 dès 2025.
-Renault trucks
-Après avoir développé des fourgons électriques et des poids-lourds urbains, Renault trucks cherche à développer un tracteur routier pour 2023.
+Volvo trucks En 2020, la start-up suédoise Volta Trucks annonce le modèle « Volta Zéro », un camion 100 % électrique de 16 t conçu pour la distribution de colis et de fret dans les centres-villes, en expérimentation au premier semestre 2021, dans quelques villes européennes dont Paris. L'autonomie électrique serait de 150 à 200 km et la vitesse est limitée à 90 km/h. La production en série est prévue au premier semestre 2022 et les prévisions de ventes sont de 500 unités à partir de 2022 et de 5 000 dès 2025.
+Renault trucks Après avoir développé des fourgons électriques et des poids-lourds urbains, Renault trucks cherche à développer un tracteur routier pour 2023.
 
 # Véhicule électrique
 ## Routiers

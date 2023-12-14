@@ -27,7 +27,7 @@ La superficie de la commune est de 6 657 hectares ; son altitude varie entre 
 Le territoire de la commune est, au pied du massif des Vosges, le troisième plus grand d'Alsace après Haguenau (18 259 hectares) et Strasbourg (7 826 hectares), et le premier de son département devant Orbey (4 602 hectares), Sainte-Marie-aux-Mines (4 523 hectares), Rouffach (4 005 hectares), Ensisheim (3 659 hectares).
 Hydrogéologie et climatologie : Système d’information pour la gestion de l’Aquifère rhénan, par le BRGM :
 > Territoire communal
->> Hydrogéologie : Masses d'eau souterraine; BD Lisa; Cartes piézométriques.
+>> Hydrogéologie : Masses d'eau souterraine; BD Lisa; Cartes piézométriques.
 
 # Colmar
 ## Géographie
@@ -52,8 +52,7 @@ Cours d'eau traversant la commune :
 ### Climat
 
 Les mesures de Météo-France sont réalisées à la base aérienne de Colmar-Meyenheim, distante d'une vingtaine de kilomètres.
-Colmar est sujette à un climat semi-continental d'abri (Köppen : Cfb). Elle est située au piémont des Vosges. Les entrées maritimes déversent donc une grande partie de leur eau sur le versant lorrain : en s'élevant sur le versant occidental des Vosges, l'air humide se refroidit, la vapeur d'eau se condense et la pluie se déclenche. L'air redescendant sur le versant oriental est ainsi beaucoup plus sec. Ce phénomène météorologique s'appelle l'effet de foehn. Colmar est ainsi l’une des communes les plus sèches de France avec 607 mm de pluie par an. À titre de comparaison, il tombe en un an plus d'un mètre d'eau à Épinal, 1,60 m au col de la Schlucht.
-Le mois de mai présente les pluies les plus abondantes.
+Colmar est sujette à un climat semi-continental d'abri (Köppen : Cfb). Elle est située au piémont des Vosges. Les entrées maritimes déversent donc une grande partie de leur eau sur le versant lorrain : en s'élevant sur le versant occidental des Vosges, l'air humide se refroidit, la vapeur d'eau se condense et la pluie se déclenche. L'air redescendant sur le versant oriental est ainsi beaucoup plus sec. Ce phénomène météorologique s'appelle l'effet de foehn. Colmar est ainsi l’une des communes les plus sèches de France avec 607 mm de pluie par an. À titre de comparaison, il tombe en un an plus d'un mètre d'eau à Épinal, 1,60 m au col de la Schlucht. Le mois de mai présente les pluies les plus abondantes.
 Colmar connaît rarement un enneigement important à cause du climat plus sec. Néanmoins de fortes chutes de neige occasionnelles ne sont pas à exclure comme le 4 mars 2006 où plus de 40 cm de neige sont tombés en l'espace d'une journée, ce qui n'était pas arrivé depuis près de vingt ans.
 La station météorologique de Météo-France installée sur la commune et mise en service en 1972 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
 Statistiques 1981-2010 et records COLMAR-INRA (68) - alt : 202 m 48° 03′ 48″ N, 7° 19′ 48″ E Records établis sur la période du 01-04-1972 au 04-01-2022 :
@@ -142,10 +141,8 @@ Concernant l'aménagement des arrêts de bus, 73 sont équipés d'un système d'
 #### Transports en commun
 ##### Réseau interurbain
 
-Une quinzaine de lignes de bus départementales ont leur origine et destination à Colmar.
-Le point de correspondance de toutes les lignes interurbaines se situe à la gare de Colmar. Les lignes de bus circulant à Colmar sont la ligne 106 (Colmar - Route des vins - Ribeauvillé), la ligne 109 (Colmar - Ribeauvillé - Saint-Hippolyte), la ligne 145 (Colmar - Orbey - Le Bonhomme), la ligne 157 (Colmar - Trois-Épis - Labaroche), la ligne 208 (Colmar - Husseren - Obermorschwihr), la ligne 248 (Colmar - Munster - Soultzeren), la ligne 301 (Colmar - Neuf-Brisach - Balgau), la ligne 303 (Colmar - Neuf-Brisach - Biesheim), la ligne 316 (Colmar - Neuf-Brisach - Baltzenheim), la ligne 318 (Colmar - Neuf-Brisach - Ohnenheim), la ligne 326 (Colmar - Dessenheim - Weckolsheim), la ligne 346 (Colmar - Marckolsheim - Artzenheim), la ligne 437 (Colmar - Ensisheim - Mulhouse), la ligne 439 (Colmar - Ensisheim - Fessenheim) et la ligne 440 (Colmar - Ensisheim - Guebwiller).
-La ligne 1076 permet un accès à l'Allemagne et la desserte des villes de Breisach et de Fribourg-en-Brisgau.
-Depuis décembre 2009, cette liaison a été renforcée par l'augmentation des fréquences et le prolongement jusqu'à Breisach de la ligne départementale 301 (Colmar - Neuf-Brisach - Balgau) qui permet une meilleure interconnexion avec la gare de Breisach et le réseau ferroviaire allemand de la Deutsche Bahn.
+Une quinzaine de lignes de bus départementales ont leur origine et destination à Colmar. Le point de correspondance de toutes les lignes interurbaines se situe à la gare de Colmar. Les lignes de bus circulant à Colmar sont la ligne 106 (Colmar - Route des vins - Ribeauvillé), la ligne 109 (Colmar - Ribeauvillé - Saint-Hippolyte), la ligne 145 (Colmar - Orbey - Le Bonhomme), la ligne 157 (Colmar - Trois-Épis - Labaroche), la ligne 208 (Colmar - Husseren - Obermorschwihr), la ligne 248 (Colmar - Munster - Soultzeren), la ligne 301 (Colmar - Neuf-Brisach - Balgau), la ligne 303 (Colmar - Neuf-Brisach - Biesheim), la ligne 316 (Colmar - Neuf-Brisach - Baltzenheim), la ligne 318 (Colmar - Neuf-Brisach - Ohnenheim), la ligne 326 (Colmar - Dessenheim - Weckolsheim), la ligne 346 (Colmar - Marckolsheim - Artzenheim), la ligne 437 (Colmar - Ensisheim - Mulhouse), la ligne 439 (Colmar - Ensisheim - Fessenheim) et la ligne 440 (Colmar - Ensisheim - Guebwiller).
+La ligne 1076 permet un accès à l'Allemagne et la desserte des villes de Breisach et de Fribourg-en-Brisgau. Depuis décembre 2009, cette liaison a été renforcée par l'augmentation des fréquences et le prolongement jusqu'à Breisach de la ligne départementale 301 (Colmar - Neuf-Brisach - Balgau) qui permet une meilleure interconnexion avec la gare de Breisach et le réseau ferroviaire allemand de la Deutsche Bahn.
 
 # Colmar
 ## Urbanisme
@@ -158,8 +155,7 @@ Par ailleurs la commune fait partie de l'aire d'attraction de Colmar, dont elle 
 ## Urbanisme
 ### Occupation des sols
 
-L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (49,4 % en 2018), une proportion sensiblement équivalente à celle de 1990 (50,4 %). La répartition détaillée en 2018 est la suivante :
-terres arables (39,1 %), zones urbanisées (19,3 %), forêts (18,8 %), zones industrielles ou commerciales et réseaux de communication (12,1 %), cultures permanentes (6,1 %), zones agricoles hétérogènes (4,2 %), espaces verts artificialisés, non agricoles (0,5 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
+L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (49,4 % en 2018), une proportion sensiblement équivalente à celle de 1990 (50,4 %). La répartition détaillée en 2018 est la suivante : terres arables (39,1 %), zones urbanisées (19,3 %), forêts (18,8 %), zones industrielles ou commerciales et réseaux de communication (12,1 %), cultures permanentes (6,1 %), zones agricoles hétérogènes (4,2 %), espaces verts artificialisés, non agricoles (0,5 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
 # Colmar
 ## Urbanisme
@@ -195,12 +191,10 @@ D'autres projets de construction sont à l'étude : un gymnase universitaire, u
 ### Espaces verts
 
 De nombreux parcs et jardins publics sont répartis à travers la ville, représentant au total 108 ha, auxquels s'ajoutent 33 ha de jardins familiaux. La ville est récompensée par quatre fleurs et par le Grand prix national du fleurissement depuis 1984 au palmarès du concours des villes et villages fleuris.
-Le parc du Champ-de-Mars est situé entre la place Rapp au nord et la Préfecture du Haut-Rhin au sud. Il dispose de vastes espaces verts. Au centre, se trouve une fontaine surmontée de la statue de l'amiral Bruat édifiée en 1864 et construite par Bartholdi.
-Dans sa partie sud-ouest est installé un carrousel avec sa galerie fermée, modèle unique en Europe par son envergure. L'agencement de ce parc rappelle la croix de la légion d'honneur.
+Le parc du Champ-de-Mars est situé entre la place Rapp au nord et la Préfecture du Haut-Rhin au sud. Il dispose de vastes espaces verts. Au centre, se trouve une fontaine surmontée de la statue de l'amiral Bruat édifiée en 1864 et construite par Bartholdi. Dans sa partie sud-ouest est installé un carrousel avec sa galerie fermée, modèle unique en Europe par son envergure. L'agencement de ce parc rappelle la croix de la légion d'honneur.
 Le parc du château d'eau est situé à l'angle de l'avenue Joffre et de l'avenue Poincaré. Il est également appelé parc de la Cour d'appel. Sa superficie est de 13 990 m². Il héberge, comme son nom l'indique, l'ancien château d'eau de la ville érigé en 1884 et classé monument historique. Une statue représentant Auguste Bartholdi est érigée à l'entrée sud-est du parc. La partie ouest est une magnifique roseraie s'étendant sur 450 m² et composée de 990 plants répartis en 38 variétés.
-Parmi les nombreux autres parcs et jardins de la ville, on peut relever le parc Saint François-Xavier (9 980 m²), le parc Méquillet (5 753 m²), le square Hirn (jardin à la française) ou le square de la Montagne-Verte (3 273 m²), renommé «  Montagne-Verte - Parc Georges Pompidou » depuis 2020, à la suite de l’aménagement d’un parking souterrain et de l’extension subséquente du square en surface (1,7 ha), à l’emplacement de l’ancien parking.
-À l'est de la ville se trouve le massif du Neuland/Fronholz qui s'étale sur 614 ha et dispose d'un parcours de santé et d'une maison de la nature, association qui a pour thème l'éducation à l'environnement et au développement durable.
-Le massif du Niederwald/Rothleible quant à lui couvre 778 ha.
+Parmi les nombreux autres parcs et jardins de la ville, on peut relever le parc Saint François-Xavier (9 980 m²), le parc Méquillet (5 753 m²), le square Hirn (jardin à la française) ou le square de la Montagne-Verte (3 273 m²), renommé « Montagne-Verte - Parc Georges Pompidou » depuis 2020, à la suite de l’aménagement d’un parking souterrain et de l’extension subséquente du square en surface (1,7 ha), à l’emplacement de l’ancien parking.
+À l'est de la ville se trouve le massif du Neuland/Fronholz qui s'étale sur 614 ha et dispose d'un parcours de santé et d'une maison de la nature, association qui a pour thème l'éducation à l'environnement et au développement durable. Le massif du Niederwald/Rothleible quant à lui couvre 778 ha.
 * La statue de l'amiral Bruat au centre du parc du Champ-de-Mars.
 * Le carrousel.
 * Le parc du Château d'eau avec la statue d'Auguste Bartholdi.
@@ -370,8 +364,7 @@ Le 3 août 1931 a été inaugurée la station uvale. Le président en est le mai
 La France entre en guerre le 3 septembre 1939 et les Allemands entrent à Colmar le 17 juin 1940, l'Alsace est annexée de fait. Il s'ensuit une brutale germanisation et nazification. Des monuments sont saccagés comme le monument à l'amiral Bruat et le monument au général Rapp. Environ 20 % des noms de rues sont modifiés (celles qui pouvaient rappeler le France) comme l'« avenue de la République » qui devient la « Adolf Hitler-Straße ». La région reste cependant juridiquement sous souveraineté française.
 En 1942, les Allemands démantèlent le réseau de résistance colmarien, actif depuis 1940, et emprisonnent ses responsables. Le 25 août, une ordonnance rend obligatoire le service militaire, et 123 000 jeunes sont contraints d'endosser l'uniforme de la Wehrmacht ou de la Waffen-SS, 40 000 n'en reviendront pas.
 Le 18 septembre 1944, un train de munitions explose à la gare de marchandises, provoquant des dégâts dans un rayon d'un kilomètre.
-Fin janvier 1945, Colmar est l'objectif de l'attaque en tenaille montée par le général de Lattre de Tassigny pour liquider la poche dangereuse que les troupes allemandes conservent en Alsace.
-Le 1ᵉʳ février 1945, les lignes allemandes sont percées au Nord de Colmar par l'infanterie américaine du 21ᵉ corps qui arrive aux abords de la ville. Un beau geste met alors en valeur la fraternité d'armes franco-américaine : Étant la dernière ville alsacienne à être libérée de l'occupation nazie le colonel du 109ᵉ régiment d'infanterie US, sur ordre du général Milburn, cède le pas pour l'entrée dans Colmar au général Schlesser qui commande une fraction des chars de la 5ᵉ DB de la 1ʳᵉ armée Française. Négligeant toute préparation d'artillerie, les Français se jettent dans la ville, qu'ils cueillent intacte le 2 février dans l'après-midi. À cette occasion, l'insigne Rhin et Danube prendra les armes de la ville de Colmar. Le général de Gaulle se rendra dans la ville libérée le 10 février et y reviendra en tant que président de la République le 20 novembre 1959.
+Fin janvier 1945, Colmar est l'objectif de l'attaque en tenaille montée par le général de Lattre de Tassigny pour liquider la poche dangereuse que les troupes allemandes conservent en Alsace. Le 1ᵉʳ février 1945, les lignes allemandes sont percées au Nord de Colmar par l'infanterie américaine du 21ᵉ corps qui arrive aux abords de la ville. Un beau geste met alors en valeur la fraternité d'armes franco-américaine : Étant la dernière ville alsacienne à être libérée de l'occupation nazie le colonel du 109ᵉ régiment d'infanterie US, sur ordre du général Milburn, cède le pas pour l'entrée dans Colmar au général Schlesser qui commande une fraction des chars de la 5ᵉ DB de la 1ʳᵉ armée Française. Négligeant toute préparation d'artillerie, les Français se jettent dans la ville, qu'ils cueillent intacte le 2 février dans l'après-midi. À cette occasion, l'insigne Rhin et Danube prendra les armes de la ville de Colmar. Le général de Gaulle se rendra dans la ville libérée le 10 février et y reviendra en tant que président de la République le 20 novembre 1959.
 
 # Colmar
 ## Histoire
@@ -402,8 +395,7 @@ La ville héberge de multiples organismes départementaux et régionaux, avec no
 ### Intercommunalité
 #### Colmar Agglomération
 
-Colmar Agglomération, créée en 2004, est composée de 14 communes. Elle est administrée par 46 conseillers communautaires élus par les conseils municipaux des communes membres et selon leur démographie.
-Cette communauté est présidée par Éric Straumann, maire de Colmar, assisté de 10 vice-présidents.
+Colmar Agglomération, créée en 2004, est composée de 14 communes. Elle est administrée par 46 conseillers communautaires élus par les conseils municipaux des communes membres et selon leur démographie. Cette communauté est présidée par Éric Straumann, maire de Colmar, assisté de 10 vice-présidents.
 
 # Colmar
 ## Politique et administration
@@ -452,8 +444,7 @@ La ville a engagé une politique de développement durable en lançant une déma
 ### Politique de développement durable
 #### Élections récentes
 
-Lors des élections municipales françaises de 2008, à la suite d'irrégularités constatées par l'opposition, le tribunal administratif de Strasbourg a annulé le 30 septembre 2008 le second tour de cette élection.
-La population a été appelée à élire un nouveau conseil municipal les 30 novembre 2008 et 7 décembre 2008. Gilbert Meyer a été réélu maire au premier tour avec 50,44 % des suffrages.
+Lors des élections municipales françaises de 2008, à la suite d'irrégularités constatées par l'opposition, le tribunal administratif de Strasbourg a annulé le 30 septembre 2008 le second tour de cette élection. La population a été appelée à élire un nouveau conseil municipal les 30 novembre 2008 et 7 décembre 2008. Gilbert Meyer a été réélu maire au premier tour avec 50,44 % des suffrages.
 Les élections municipales de 2014 se déroulent le 23 mars 2014 et le 30 mars 2014, la liste UMP de Gilbert Meyer est élue dès le premier tour avec 51,31 % des voix, fait suite à cette victoire la réélection de Gilbert Meyer au poste de maire de Colmar pour la période 2014 - 2020. Le premier adjoint est Yves Hemedinger (UMP).
 Les élections municipales de 2020 se déroulent le 15 mars 2020 et le 28 juin 2014, la liste d'Éric Straumann est élue 63,88 % des voix au second tour.
 
@@ -544,8 +535,7 @@ De grands procès se sont déroulés à Colmar. On peut citer celui en appel en 
 * Le tribunal de grande instance.
 * La cour d'assises du Haut-Rhin.
 * La cour d'appel.
-La maison d'arrêt, fermée le 20 juin 2021et disposant de 110 places, accueillait les hommes en attente de jugement ou ayant des peines inférieures à un an.
-Antérieurement, la ville disposait de trois prisons :
+La maison d'arrêt, fermée le 20 juin 2021et disposant de 110 places, accueillait les hommes en attente de jugement ou ayant des peines inférieures à un an. Antérieurement, la ville disposait de trois prisons :
 * le Hexenturm (tour des sorcières) ou Gerberturm (tour des tanneurs) situé sur le terrain de la Montagne Verte ;
 * le Henkersturm (tour des bourreaux) à l'extrémité nord de la rue des Prêtres ;
 * la prison du Narrenhäusle (chambre des fous) sur l'actuelle place de l'École.
@@ -729,8 +719,7 @@ La ville accueille aussi les radios nationales :
 ### Médias
 #### Internet
 
-Toute la commune est desservie par un réseau câblé qui a commencé à être déployé dès 1994 et qui permet l'accès à plus de 200 chaînes de télévision et de radios, à Internet à très haut débit (jusqu'à 1 G/bits) et à la téléphonie.
-Les sept fournisseurs français à Internet sont présents et desservent l'ensemble de l'agglomération colmarienne.
+Toute la commune est desservie par un réseau câblé qui a commencé à être déployé dès 1994 et qui permet l'accès à plus de 200 chaînes de télévision et de radios, à Internet à très haut débit (jusqu'à 1 G/bits) et à la téléphonie. Les sept fournisseurs français à Internet sont présents et desservent l'ensemble de l'agglomération colmarienne.
 Depuis la fin 2007, la télévision numérique terrestre (TNT) est disponible pour tous les foyers. Le signal analogique a disparu le 2 février 2010 au profit du tout numérique.
 
 # Colmar
@@ -959,8 +948,7 @@ Le Conseil interprofessionnel des vins d'Alsace (CIVA), regroupant de multiples 
 ## Économie
 ### Énergie
 
-Quatre centrales solaires citoyennes d'une puissance de 100 kWc chacune ont été installées sur les toits d'anciens bâtiments industriels.
-L'incinérateur de Colmar alimente le chauffage urbain à hauteur de 60 pour cent.
+Quatre centrales solaires citoyennes d'une puissance de 100 kWc chacune ont été installées sur les toits d'anciens bâtiments industriels. L'incinérateur de Colmar alimente le chauffage urbain à hauteur de 60 pour cent.
 * Usine d'incinération des déchets.
 * Microcentrale hydroélectrique.
 * Microcentrale hydroélectrique.

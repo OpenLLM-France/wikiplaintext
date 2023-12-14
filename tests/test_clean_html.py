@@ -26,15 +26,18 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Clean Wikipedia code")
     parser.add_argument("IDs", default=None, nargs="*", help="Wikipedia page IDs to clean")
-    parser.add_argument("--from_dump", action="store_true", help="Only HTML from dump")
-    parser.add_argument("--from_api", action="store_true", help="Only HTML from Wikipedia API")
+    parser.add_argument("--wikisource", action="store_true", help="Only HTML from wikisource")
+    parser.add_argument("--wikipedia", action="store_true", help="Only HTML from wikipedia")
+    parser.add_argument("--dump", action="store_true", help="Only HTML from wikimedia enterprise dump")
+    parser.add_argument("--api", action="store_true", help="Only HTML from wikimedia API")
     args = parser.parse_args()
 
     for input_dir, output_dir in [
-        # ("tmp/wikipedia_dumphtml", "tmp/wikipedia_dumphtml_cleaned"),
         ("wikipedia_dumphtml_redirect", "SHOULD_NOT_OCCUR"),
         ("wikipedia_dumphtml", "wikipedia_dumphtml_cleaned"),
         ("wikipedia_html", "wikipedia_html_cleaned"),
+        ("wikisource_html", "wikisource_html_cleaned"),
+        ("wikisource_dumphtml", "wikisource_dumphtml_cleaned"),
     ]:
         
         input_dir = os.path.join(this_dir, input_dir)
@@ -50,9 +53,13 @@ if __name__ == "__main__":
             if args.IDs and not max([bool(re.match(prefix, file_in)) for prefix in args.IDs]):
                 continue
 
-            if args.from_dump and not format_from_dump:
+            if args.wikisource and not "wikisource" in input_dir:
                 continue
-            if args.from_api and format_from_dump:
+            if args.wikipedia and "wikisource" in input_dir:
+                continue
+            if args.dump and not format_from_dump:
+                continue
+            if args.api and format_from_dump:
                 continue
 
             # if not is_redirection:

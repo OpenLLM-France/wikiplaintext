@@ -105,10 +105,10 @@ Graphiquement, cela revient à remplacer la tangente par la corde. Ceci peut se 
 Il faut cependant se poser la question de la précision des résultats. Une mise en informatique « naïve » de la méthode de calcul peut mener à des résultats de précision médiocre dans certains cas.
 Dans un ordinateur, la précision des nombres est limitée par le mode de représentation. Si l'on utilise la double précision selon la norme IEEE 754, les nombres ont environ 16 chiffres significatifs. On a donc une précision relative de l'ordre de 10⁻¹⁶ (2⁻⁵² exactement). Notons r cette valeur. Les calculatrices de poche admettent typiquement 10 chiffres significatifs, soit r = 10⁻¹⁰.
 Supposons que la différence yi+1−yi−1 soit inférieure à r, alors le calculateur fera une erreur grossière sur le calcul et le résultat sera médiocre ; voire, si la différence est très faible, il ne « verra pas » de différence entre les deux valeurs, et le résultat sera 0. Si par exemple on veut avoir la dérivée autour de 2 de la fonction f(x)=x2, en prenant un écart de 10⁻¹³ entre les points :
-> x1 = 1,999 999 999 999 9
+> x1 = 1,999 999 999 999 9
 > x2 = 2
-> x3 = 2,000 000 000 000 1
-> δ=y3−y1=x32−x12 ≈ 8 × 10⁻¹³
+> x3 = 2,000 000 000 000 1
+> δ=y3−y1=x32−x12 ≈ 8 × 10⁻¹³
 On voit que la différence entre les nombres, 8 × 10⁻¹³, est proche de r. On va donc avoir une erreur d'arrondi. De fait, le calcul nous donne sur un ordinateur
 > f′(2) ≈ 3,997
 alors que le résultat exact est
@@ -197,7 +197,7 @@ L'ensemble des points de discontinuité d'une dérivée est donc un ensemble Fσ
 ### Théorème de Darboux
 
 Si f est dérivable, sa fonction dérivée f′ n'est donc pas nécessairement continue. Cependant, f′ possède la propriété des valeurs intermédiaires. Ceci constitue le théorème de Darboux, qui peut se formuler de deux façons équivalentes :
-> si f dérivable est définie sur un intervalle réel I, alors f′(I) est un intervalle ;
+> si f dérivable est définie sur un intervalle réel I, alors f′(I) est un intervalle ;
 > si f′(a)<f′(b) alors, pour tout t de [f′(a),f′(b)], il existe c tel que f′(c)=t.
 
 # Dérivée

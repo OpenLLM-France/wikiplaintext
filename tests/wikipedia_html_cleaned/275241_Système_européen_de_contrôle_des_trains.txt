@@ -41,8 +41,7 @@ Le niveau 1 peut être installé en parallèle du système national. Chaque engi
 ### Niveau 1
 #### Transmissions sol-machine
 
-Ce niveau utilise une transmission ponctuelle à l'aide de balises placées au pied des signaux et en amont. Ces balises (eurobalises) communiquent
-les données de signalisation au train. Sur certaines LGV, le niveau 1 existe aussi et peut-être utilisé en cas de panne du niveau 2 : on parle alors de mode "fall back".
+Ce niveau utilise une transmission ponctuelle à l'aide de balises placées au pied des signaux et en amont. Ces balises (eurobalises) communiquent les données de signalisation au train. Sur certaines LGV, le niveau 1 existe aussi et peut-être utilisé en cas de panne du niveau 2 : on parle alors de mode "fall back".
 
 # Système européen de contrôle des trains
 ## Trois niveaux différents

@@ -101,4 +101,6 @@ def simple_slugify(title):
     title = re.sub("::", "__", title) # double ":" will be a problem when packaging datasets in parquet
     # Upper case is kept, but accents are removed
     # title = str(unicodedata.normalize('NFKD', title).encode('ascii', 'ignore'), 'utf-8')
+    if len(title) > 100 and "," in title:
+        title = title.split(",")[0]
     return title

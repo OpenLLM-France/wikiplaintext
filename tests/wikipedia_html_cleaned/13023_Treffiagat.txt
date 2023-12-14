@@ -6,8 +6,7 @@ Treffiagat [tʁefjagat] ou Treffiagat-Léchiagat [tʁefjagat leʃjagat] ou même
 ## Géographie
 ### Situation et site
 
-Treffiagat est située à la pointe de la Bretagne dans le Finistère-sud, en pays Bigouden.
-La superficie de la commune est de 810 hectares ; son altitude varie entre −1 et 26 mètres.
+Treffiagat est située à la pointe de la Bretagne dans le Finistère-sud, en pays Bigouden. La superficie de la commune est de 810 hectares ; son altitude varie entre −1 et 26 mètres.
 La commune est implantée au sud-ouest du Finistère dans le canton de Pont-l'Abbé. Elle est située à 10 km au sud-ouest de Pont-l'Abbé et à 29 km au sud-ouest de Quimper, son chef-lieu d'arrondissement. Le décor peint de son château d'eau, une fresque mettant en valeur les atouts touristiques de la commune (le phare de Croas Malo, le marais et le menhir de Lehan, et les plages), peinte en 2009 par les frères Gracia, est un véritable signal situé à l'entrée de la commune lorsqu'on vient de Pont-l'Abbé.
 Linguistiquement, Treffiagat se situe dans la zone du breton cornouaillais.
 L'estuaire du Steir, une ria, a permis la naissance du port, originellement un simple havre naturel, et est à l'origine de l'essor de l'agglomération née sur ses deux rives, Le Guilvinec sur sa rive droite, Léchiagat sur sa rive gauche.
@@ -87,15 +86,13 @@ Le « chemin des dunes », une piste multi-usages (piétons, cyclistes, person
 
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique franc », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du type « climat océanique » dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Ce type de climat se traduit par des températures douces et une pluviométrie relativement abondante (en liaison avec les perturbations venant de l'Atlantique), répartie tout au long de l'année avec un léger maximum d'octobre à février.
 Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les précipitations, dont les valeurs correspondent à la normale 1971-2000. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-après.
-Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Pont-L'abbe », sur la commune de Pont-l'Abbé, mise en service en 1994 et qui se trouve à 8 km à vol d'oiseau, où la température moyenne annuelle est de 12,8 °C et la hauteur de précipitations de 993,3 mm pour la période 1981-2010.
-Sur la station météorologique historique la plus proche, « Quimper », sur la commune de Pluguffan, mise en service en 1967 et à 20 km, la température moyenne annuelle évolue de 11,5 °C pour la période 1971-2000, à 11,8 °C pour 1981-2010, puis à 12 °C pour 1991-2020.
+Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Pont-L'abbe », sur la commune de Pont-l'Abbé, mise en service en 1994 et qui se trouve à 8 km à vol d'oiseau, où la température moyenne annuelle est de 12,8 °C et la hauteur de précipitations de 993,3 mm pour la période 1981-2010. Sur la station météorologique historique la plus proche, « Quimper », sur la commune de Pluguffan, mise en service en 1967 et à 20 km, la température moyenne annuelle évolue de 11,5 °C pour la période 1971-2000, à 11,8 °C pour 1981-2010, puis à 12 °C pour 1991-2020.
 
 # Treffiagat
 ## Urbanisme
 ### Typologie
 
-Treffiagat est une commune urbaine, car elle fait partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'Insee.
-Elle appartient à l'unité urbaine de Penmarch, une agglomération intra-départementale regroupant 7 communes et 22 587 habitants en 2017, dont elle est une commune de la banlieue.
+Treffiagat est une commune urbaine, car elle fait partie des communes denses ou de densité intermédiaire, au sens de la grille communale de densité de l'Insee. Elle appartient à l'unité urbaine de Penmarch, une agglomération intra-départementale regroupant 7 communes et 22 587 habitants en 2017, dont elle est une commune de la banlieue.
 Par ailleurs la commune fait partie de l'aire d'attraction de Quimper, dont elle est une commune de la couronne. Cette aire, qui regroupe 58 communes, est catégorisée dans les aires de 200 000 à moins de 700 000 habitants.
 La commune, bordée par l'océan Atlantique, est également une commune littorale au sens de la loi du 3 janvier 1986, dite loi littoral. Des dispositions spécifiques d’urbanisme s’y appliquent dès lors afin de préserver les espaces naturels, les sites, les paysages et l’équilibre écologique du littoral, comme par exemple le principe d'inconstructibilité, en dehors des espaces urbanisés, sur la bande littorale des 100 mètres, ou plus si le plan local d’urbanisme le prévoit.
 
@@ -103,8 +100,7 @@ La commune, bordée par l'océan Atlantique, est également une commune littoral
 ## Urbanisme
 ### Occupation des sols
 
-L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (53,8 % en 2018), néanmoins en diminution par rapport à 1990 (58,4 %). La répartition détaillée en 2018 est la suivante :
-zones agricoles hétérogènes (44,1 %), zones urbanisées (29,7 %), milieux à végétation arbustive et/ou herbacée (8,3 %), terres arables (7,8 %), espaces ouverts, sans ou avec peu de végétation (4,2 %), forêts (4 %), prairies (1,9 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
+L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (53,8 % en 2018), néanmoins en diminution par rapport à 1990 (58,4 %). La répartition détaillée en 2018 est la suivante : zones agricoles hétérogènes (44,1 %), zones urbanisées (29,7 %), milieux à végétation arbustive et/ou herbacée (8,3 %), terres arables (7,8 %), espaces ouverts, sans ou avec peu de végétation (4,2 %), forêts (4 %), prairies (1,9 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
 # Treffiagat
 ## Urbanisme
@@ -118,8 +114,7 @@ La proportion des résidences principales, propriétés de leurs occupants étai
 ## Toponymie
 
 Attesté sous les formes Trefriagat en 1330, Trefiagat en 1351.
-Treffiagat dérive de Tref- désignant une paroisse ou entité administrative bretonne (trève) ou du breton treb (village) et de Riagat.
-Saint Riagat (du vieux breton ri, roi et cat, combat) est un abbé irlandais du Vᵉ siècle qui quitta sa patrie et vint aborder en Cornouaille, dans le petit port de Léchiagat. Il est fêté le 29 mai.
+Treffiagat dérive de Tref- désignant une paroisse ou entité administrative bretonne (trève) ou du breton treb (village) et de Riagat. Saint Riagat (du vieux breton ri, roi et cat, combat) est un abbé irlandais du Vᵉ siècle qui quitta sa patrie et vint aborder en Cornouaille, dans le petit port de Léchiagat. Il est fêté le 29 mai.
 Le nom en breton de la commune est Triagad.
 
 # Treffiagat
@@ -260,8 +255,7 @@ Inspirés par la réussite de Corentin Toulemont, les propriétaires, paysans, g
 En mars 1928, la grande marée d'équinoxe provoque de graves dégâts à Léchiagat : « À Treffiagat, les défenses en maçonnerie du port ont été démolies. Mille mètres de dunes ont été emportés. Dans certaines maisons, l'eau est montée jusqu'à un mètre. Des tas de goémon ont été emportés par les vagues ».
 En décembre 1928, la mort d'un cheminot, Griffon, écrasé par la locomotive d'un train quittant la gare de Treffiagat, sembla d'abord accidentelle avant d'être transformée en crime, dont fut accusé un autre cheminot.
 Aux alentours du 27 décembre 1933, les habitants de Léchiagat furent surpris de constater que le phare était encore allumé à 9 heurs du matin ; le maire, alerté, fut défoncer la porte et trouva le gardien sans connaissance, victime d'une congestion cérébrale ; bien que transporté à l'hôpital de Pont-l'Abbé, ce dernier décéda le 28 décembre.
-La forte tempête du 1ᵉʳ décembre 1937, les pinasses armées à la drague pour la pêche à la langoustine du port du Guilvinec (des bateaux de 16 à 18 mètres de long, de 25 à 30 tonnes de jauge brute, qui se tenaient à l'entrée du port, prête à prendre la mer le lendemain, chassèrent sur leurs ancres et furent drossés à la côte, côté Léchiagat : deux bateaux furent perdus, six subirent des avaries graves et une quinzaine des avaries plus légères ; les langoustiers, qui occupaient l'arrière-port du côté de Léchiagat, ne subirent que de légères avaries.
-En 1935, Treffiagat fait partie des cinq communes du département du Finistère à avoir une municipalité à majorité communiste (les autres étant Concarneau, Douarnenez, Beuzec-Conq et Guilvinec).
+La forte tempête du 1ᵉʳ décembre 1937, les pinasses armées à la drague pour la pêche à la langoustine du port du Guilvinec (des bateaux de 16 à 18 mètres de long, de 25 à 30 tonnes de jauge brute, qui se tenaient à l'entrée du port, prête à prendre la mer le lendemain, chassèrent sur leurs ancres et furent drossés à la côte, côté Léchiagat : deux bateaux furent perdus, six subirent des avaries graves et une quinzaine des avaries plus légères ; les langoustiers, qui occupaient l'arrière-port du côté de Léchiagat, ne subirent que de légères avaries. En 1935, Treffiagat fait partie des cinq communes du département du Finistère à avoir une municipalité à majorité communiste (les autres étant Concarneau, Douarnenez, Beuzec-Conq et Guilvinec).
 
 # Treffiagat
 ## Histoire
@@ -331,6 +325,22 @@ Treffiagat adhère à la communauté de communes du Pays Bigouden Sud.
 
 # Treffiagat
 ## Politique et administration
+### Liste des maires
+
+Liste des maires successifs :
+| Période | Période | Identité | Étiquette | Qualité |
+| Liste des maires de 1803 à 1940 Période Identité Étiquette Qualité Les données manquantes sont à compléter. 1803 1807 Corentin Le Cléac'h     1807 1829 François Gloaguen     1829 1834 Jacques Le Coq     1834 décembre 1857 Nicolas Daniel   Décédé en fonction décembre 1857 1865 Nicolas Branquet     1866 1871 Yves Le Lec     juillet 1871 octobre 1871 Nicolas Branquet     1871 1874 Sébastien Riou     1874 1883 Jean Bideau     1883 1888 Jean-Marie Daniel     1888 1906 Jean-Marie Guiziou     1906 1924 Jean-Louis Mélennec     1924 mai 1935 Étienne Le Donge   Marin-pêcheur mai 1935 septembre 1939 Jean-Désiré Larnicol PCF Ancien militaire de la Marine nationale Suspendu de ses fonctions puis déchu Les données manquantes sont à compléter. 1940 ? Alain Marie Gouzien     Source : Geneawiki |||||
+| 1945 | juin 1958 | Pierre-Marcel Queffélec | | Marin-pêcheur Décédé en fonction |
+| Les données manquantes sont à compléter. |||||
+| mars 1959 | mars 1971 | Sébastien Calvez (1930-1997) | | Employé de l'Inscription maritime |
+| mars 1971 | juin 2003 | Albert Hénot (1929-2019) | PCF puis DVG | Ancien enseignant et proviseur adjoint, maire honoraire Président de la CC du Pays Bigouden Sud (1995 → 1998) Démissionnaire |
+| juin 2003 | mars 2008 | Sébastien Mélennec | DVG | Retraité, maire honoraire |
+| mars 2008 | septembre 2015 | David Chevrier | PS | Chef d'entreprise (travaux publics) Vice-président de la CC du Pays Bigouden Sud Démissionnaire |
+| septembre 2015 | mai 2020 | Danielle Bourhis | DVG | Cadre infirmier retraitée, ancienne 1ʳᵉ adjointe |
+| mai 2020 | En cours | Nathalie Carrot-Tanneau | LR | Responsable du contentieux Conseillère départementale (depuis 2015) 7ᵉ vice-présidente du conseil départemental (depuis 2021) 2ᵉ vice-présidente de la CC du Pays Bigouden Sud (depuis 2020) |
+
+# Treffiagat
+## Politique et administration
 ### Instances judiciaires et administratives
 
 Treffiagat relève du tribunal d'instance de Quimper, du tribunal de grande instance de Quimper, de la cour d'appel de Rennes, du tribunal pour enfants de Quimper, du conseil de prud'hommes de Quimper, du tribunal de commerce de Quimper, du tribunal administratif de Rennes et de la cour administrative d'appel de Nantes.
@@ -340,6 +350,21 @@ La commune se trouve dans la circonscription de gendarmerie de la brigade de pro
 ## Population et société
 ### Démographie
 
+Évolution de la population  [ modifier ] :
+| 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
+| 515 | 535 | 494 | 597 | 678 | 702 | 745 | 785 | 771 |
+Évolution de la population  [ modifier ], suite (1) :
+| 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 | 1896 |
+| 780 | 800 | 885 | 899 | 1 009 | 1 038 | 1 205 | 1 358 | 1 556 |
+Évolution de la population  [ modifier ], suite (2) :
+| 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
+| 1 819 | 2 042 | 2 252 | 2 293 | 2 333 | 2 373 | 2 321 | 2 447 | 2 574 |
+Évolution de la population  [ modifier ], suite (3) :
+| 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2011 | 2016 |
+| 2 603 | 2 449 | 2 484 | 2 360 | 2 333 | 2 168 | 2 241 | 2 413 | 2 393 |
+Évolution de la population  [ modifier ], suite (4) :
+| 2020 | - | - | - | - | - | - | - | - |
+| 2 410 | - | - | - | - | - | - | - | - |
 Commentaire : Après avoir lentement augmenté pendant la première moitié du XIXᵉ siècle (la commune gagne 256 habitants en 58 ans entre 1793 et 1851), la population de Treffiagat augmente spectaculairement pendant la seconde moitié du XIXᵉ siècle, gagnant 1 048 habitants entre 1851 et 1901 (+ 136 % en 50 ans) : c'est l'époque de l'essor du port de Léchiagat. La croissance démographique se poursuit, mais à un rythme moins soutenu, jusqu'en 1962, année de la population maximale avec 2 603 habitants (le gain a été de 784 habitants, soit + 43 %, en 61 ans). Les quatre dernières décennies du XXᵉ siècle enregistrent une légère diminution de la population (- 435 habitants entre 1962 et 1999) en raison du déclin du port de pêche et de l'exode rural, mais le début du XXIᵉ siècle voit la commune connaître un rebond démographique (+ 240 habitants entre 1999 et 2012).
 La population de Treffiagat est vieillissante : en 2012 les 65 ans et plus représentaient 27,5 % de la population totale, alors que les 0 à 19 ans en représentaient seulement 20,6 %. Treffiagat enregistre ces dernières années un solde naturel négatif, le nombre des décès (29 en 2009, 39 en 2010, 19 en 2011, 34 en 2012, 30 en 2013, 27 en 2014) étant chaque année nettement supérieur à celui des naissances (17 en 2009, 11 en 2010, 17 en 2011, 17 en 2012, 23 en 2013, 14 en 2014) ; le nombre des mariages oscille chaque année entre 1 et 10 (10 en 2009, 4 en 2010, 1 en 2011, 7 en 2012, 5 en 2013, 6 en 2014). Une trentaine de permis de construire sont délivrés chaque année (30 en 2009, 31 en 2010, 38 en 2011, 22 en 2012). Le taux de natalité est en baisse (12,5 pour mille entre 1968 et 1975 ; 7,4 pour mille entre 2007 et 2012), et reste nettement inférieur au taux de mortalité (14,3 pour mille entre 1968 et 1975 ; 11,9 pour mille entre 2007 et 2012), le taux d'accroissement naturel est donc négatif (- 4,5 pour mille entre 2007 et 2012) ; par contre le solde migratoire est positif depuis 1968 (à l'exception de la période 1990-1999 où il a été légèrement négatif), il est de + 1,6 % pour la période 2007-2012).
 Le parc immobilier est principalement constitué de maisons individuelles (97,4 % du parc immobilier total), principalement certes des résidences principales (63,9 % en 2012), mais les résidences secondaires y sont toutefois nombreuses (34,1 % en 2012) en raison de l'attractivité littorale.
@@ -406,3 +431,4 @@ La commune compte deux lieux de culte protestant : le temple calviniste de l'É
 ## Dictons et proverbes
 
 Une comptine traditionnelle en breton, ici dans sa traduction française, persiflait les habitants de Treffiagat :
+Les gens de Treffiagat, broches à poux, À la mer s'en vont deux par deux, Chercher de l'étoupe à tordre Pour faire la corde qui les pendra

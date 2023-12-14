@@ -28,8 +28,7 @@ Sa source est située aux alentours de Beuvardes et elle est alimentée par la l
 
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique dégradé des plaines du Centre et du Nord », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du type « climat océanique altéré » dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs.
 Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les précipitations, dont les valeurs correspondent à la normale 1971-2000. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-contre.
-Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Oulchy-le-Château », sur la commune d'Oulchy-le-Château, mise en service en 1964 et qui se trouve à 11 km à vol d'oiseau, où la température moyenne annuelle est de 11 °C et la hauteur de précipitations de 712,6 mm pour la période 1981-2010.
-Sur la station météorologique historique la plus proche, « Saint-Quentin », sur la commune de Fontaine-lès-Clercs, mise en service en 1933 et à 76 km, la température moyenne annuelle évolue de 10 °C pour la période 1971-2000 à 10,3 °C pour 1981-2010, puis à 10,8 °C pour 1991-2020.
+Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Oulchy-le-Château », sur la commune d'Oulchy-le-Château, mise en service en 1964 et qui se trouve à 11 km à vol d'oiseau, où la température moyenne annuelle est de 11 °C et la hauteur de précipitations de 712,6 mm pour la période 1981-2010. Sur la station météorologique historique la plus proche, « Saint-Quentin », sur la commune de Fontaine-lès-Clercs, mise en service en 1933 et à 76 km, la température moyenne annuelle évolue de 10 °C pour la période 1971-2000 à 10,3 °C pour 1981-2010, puis à 10,8 °C pour 1991-2020.
 
 # Beuvardes
 ## Urbanisme
@@ -42,8 +41,7 @@ Par ailleurs la commune fait partie de l'aire d'attraction de Château-Thierry, 
 ## Urbanisme
 ### Occupation des sols
 
-L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (51,5 % en 2018), néanmoins en diminution par rapport à 1990 (54,7 %). La répartition détaillée en 2018 est la suivante :
-forêts (39,8 %), terres arables (36,6 %), prairies (11,8 %), zones urbanisées (5,6 %), zones agricoles hétérogènes (3,1 %), espaces verts artificialisés, non agricoles (2,9 %), milieux à végétation arbustive et/ou herbacée (0,1 %).
+L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (51,5 % en 2018), néanmoins en diminution par rapport à 1990 (54,7 %). La répartition détaillée en 2018 est la suivante : forêts (39,8 %), terres arables (36,6 %), prairies (11,8 %), zones urbanisées (5,6 %), zones agricoles hétérogènes (3,1 %), espaces verts artificialisés, non agricoles (2,9 %), milieux à végétation arbustive et/ou herbacée (0,1 %).
 L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIᵉ siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
 # Beuvardes
@@ -109,10 +107,40 @@ Beuvardes était membre de la communauté de communes du Tardenois, un établiss
 Dans le cadre des dispositions de la loi portant nouvelle organisation territoriale de la République du 7 août 2015, qui prévoit que les établissements publics de coopération intercommunale (EPCI) à fiscalité propre doivent avoir un minimum de 15 000 habitants, cette intercommunalité a fusionné avec sa voisine pour former, le 1ᵉʳ janvier 2017, la communauté d'agglomération de la Région de Château-Thierry dont est désormais membre la commune.
 
 # Beuvardes
+## Politique et administration
+### Liste des maires
+
+Liste des maires successifs :
+| Période | Période | Identité | Étiquette | Qualité |
+| Les données manquantes sont à compléter. |||||
+| 1820 | | M. Deligny | | |
+| 1900 | | M. Leopolard | | |
+| 1978 | mars 1989 | Yolande Dubois | SE | Institutrice et professeure d’anglais, résistante. |
+| 1989 | novembre 1995 | Fernand Richard | SE | Directeur commercial ancien combattant |
+| 2001 | 2008 | Luc Dussaussoy | | Agriculteur |
+| mars 2008 | juillet 2020 | Lucien Jérome | DVD | Professeur |
+| juillet 2020 | En cours (au 6 juin 2023) | Catherine Richard | | Professeur ou profession scientifique |
+
+# Beuvardes
 ## Démographie
 
 L'évolution du nombre d'habitants est connue à travers les recensements de la population effectués dans la commune depuis 1793. Pour les communes de moins de 10 000 habitants, une enquête de recensement portant sur toute la population est réalisée tous les cinq ans, les populations légales des années intermédiaires étant quant à elles estimées par interpolation ou extrapolation. Pour la commune, le premier recensement exhaustif entrant dans le cadre du nouveau dispositif a été réalisé en 2007.
 En 2020, la commune comptait 751 habitants, en augmentation de 4,16 % par rapport à 2014 (Aisne : −1,93 %, France hors Mayotte : +1,9 %).
+Évolution de la population  [ modifier ] :
+| 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
+| 680 | 714 | 668 | 847 | 955 | 983 | 1 005 | 1 030 | 1 017 |
+Évolution de la population  [ modifier ], suite (1) :
+| 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 | 1896 |
+| 939 | 941 | 913 | 842 | 849 | 800 | 759 | 807 | 763 |
+Évolution de la population  [ modifier ], suite (2) :
+| 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
+| 714 | 660 | 659 | 622 | 580 | 547 | 566 | 524 | 469 |
+Évolution de la population  [ modifier ], suite (3) :
+| 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2007 | 2012 |
+| 477 | 458 | 479 | 544 | 642 | 640 | 701 | 709 | 722 |
+Évolution de la population  [ modifier ], suite (4) :
+| 2017 | 2020 | - | - | - | - | - | - | - |
+| 749 | 751 | - | - | - | - | - | - | - |
 
 # Beuvardes
 ## Culture locale et patrimoine
@@ -129,10 +157,3 @@ En 2020, la commune comptait 751 habitants, en augmentation de 4,16 % par rappo
 ### Personnalités liées à la commune
 
 * Prudent Prudent-Dervillers (1849-1896), maître tailleur, communard, ancien député, fondateurs du Parti ouvrier y est né.
-
-# Beuvardes
-## Pour approfondir
-### Bibliographie
-
-* Étienne Moreau-Nélaton, Recueil. Patrimoine architectural du département de l'Aisne : Arrondissement de Château-Thierry, Communes classées dans l'ordre alphabétique, de Beuvardes à Brécy, 1907-1913 (lire en ligne), p. 1-19, sur Gallica.
-* Étienne Moreau-Nélaton, Recueil. Monuments du département de l'Aisne détruits ou endommagés pendant la guerre de 1914-1918, vers 1919 (lire en ligne), p. 49-54, sur Gallica.

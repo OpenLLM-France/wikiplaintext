@@ -160,8 +160,7 @@ L’information est portée par un support physique (la fibre) appelé « canal
 ## Transmission numérique par fibre
 ### Émetteur
 
-L'émetteur optique (transpondeur) a pour fonction de convertir des impulsions électriques en signaux optiques véhiculés au cœur de la fibre. En général, la modulation binaire du signal optique est une modulation d’intensité lumineuse obtenue par la modulation du signal électrique dans la diode ou le laser.
-Les émetteurs utilisés sont de trois types :
+L'émetteur optique (transpondeur) a pour fonction de convertir des impulsions électriques en signaux optiques véhiculés au cœur de la fibre. En général, la modulation binaire du signal optique est une modulation d’intensité lumineuse obtenue par la modulation du signal électrique dans la diode ou le laser. Les émetteurs utilisés sont de trois types :
 * les diodes électroluminescentes (DEL), ou LED (light emitting diode), qui fonctionnent dans le proche infrarouge (850 nm) ;
 * les lasers, utilisés pour la fibre monomode, dont la longueur d’onde est 1 310 ou 1 550 nm ;
 * les diodes à infrarouge qui émettent dans l’infrarouge à 1 300 nm.
@@ -219,8 +218,7 @@ Types : Dans les réseaux informatiques (comme avec la paire de cuivre) les fib
 ## Applications
 ### En médecine
 
-Un type d'endoscope, appelé fibroscope, utilise de la fibre optique pour véhiculer l'image de la zone à explorer jusqu'à l'œil du médecin réalisant l'examen exploratoire.
-C'est une des premières applications des fibres optiques.
+Un type d'endoscope, appelé fibroscope, utilise de la fibre optique pour véhiculer l'image de la zone à explorer jusqu'à l'œil du médecin réalisant l'examen exploratoire. C'est une des premières applications des fibres optiques.
 Les décors lumineux à bases de fibres optiques plastiques sont utilisés dans les salles de thérapie Snoezelen, à la fois dans les plafonds ou pour stimuler le toucher par les brins des fibres.
 
 # Fibre optique

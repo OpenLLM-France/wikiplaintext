@@ -81,8 +81,7 @@ Pour un trou noir de Kerr, il varie en fonction du moment angulaire du trou noir
 ## Propriétés
 ### Sphère photonique
 
-Une sphère de photons ou sphère photonique est, en astrophysique, une surface définie comme l'ensemble des points d'où un photon, particule élémentaire associée aux ondes électromagnétiques, peut être émis et suivre une orbite fermée et périodique.
-C'est un cas extrême de déviation gravitationnelle, prédit par la relativité générale.
+Une sphère de photons ou sphère photonique est, en astrophysique, une surface définie comme l'ensemble des points d'où un photon, particule élémentaire associée aux ondes électromagnétiques, peut être émis et suivre une orbite fermée et périodique. C'est un cas extrême de déviation gravitationnelle, prédit par la relativité générale.
 
 # Trou noir
 ## Propriétés
@@ -154,8 +153,7 @@ Un trou noir est dit « dormant » s'il n'émet pas de hauts niveaux de rayons
 ## Types de trous noirs et formations
 ### Fusion de trous noirs
 
-Un trou noir binaire est un système binaire composé de deux trous noirs en orbite l'un autour de l'autre. Ils sont l'une des plus grandes sources d'ondes gravitationnelles de l'univers observable.
-Ce système binaire serait instable en raison d'une perte de moment cinétique de plus en plus grande au fur et à mesure que le temps passe. Conséquemment, les trous noirs se rapprochent l'un de l'autre jusqu'à ce qu'ils fusionnent, ce qui crée des changements de caractéristiques qui entraînent certains changements structurels au sein de la galaxie hôte.
+Un trou noir binaire est un système binaire composé de deux trous noirs en orbite l'un autour de l'autre. Ils sont l'une des plus grandes sources d'ondes gravitationnelles de l'univers observable. Ce système binaire serait instable en raison d'une perte de moment cinétique de plus en plus grande au fur et à mesure que le temps passe. Conséquemment, les trous noirs se rapprochent l'un de l'autre jusqu'à ce qu'ils fusionnent, ce qui crée des changements de caractéristiques qui entraînent certains changements structurels au sein de la galaxie hôte.
 
 # Trou noir
 ## Observation
@@ -292,57 +290,3 @@ Quand on parle de « culture populaire » à propos de trou noir, on pense sou
 
 * Dans la série Universal War One, un trou de ver est au cœur de l’intrigue.
 * Dans les tomes 8 et 9 de la série Aquablue, un astre improbable analogue à un trou noir, appelé voïvode, est un des principaux éléments de l’intrigue.
-
-# Trou noir
-## Médiagraphie
-### Bibliographie
-#### Ouvrages de vulgarisation
-
-* Matteo Smerlak, Les trous noirs, Presses Universitaires de France, coll. Que Sais-je ? n° 4003, 2ème édition mise à jour 2021, 128 p. (ISBN 978-2-7154-0738-1)
-* Jean-Pierre Lasota, La science des trous noirs, Paris, Odile Jacob sciences, 2010, 192 p. (ISBN 978-2-7381-2008-3, lire en ligne)
-* Kip Thorne (trad. Alain Bouquet et Jean Kaplan), Trous noirs et distorsions du temps : l’héritage sulfureux d’Einstein, Champs Flammarion, 1997, 654 p. (ISBN 978-2-08-211221-5) Un classique mêlant les aspects historiques et techniques du sujet. Très complet.
-* Jean-Pierre Luminet, Le destin de l’univers : Trous noirs et énergie sombre, Fayard, coll. « Le temps des sciences », 2006 (ISBN 978-2-213-63081-6)
-* Stephen Hawking et Roger Penrose (trad. Françoise Balibar et Marc Lachièze-Rey), La nature de l’espace et du temps, Gallimard, coll. « Nrf Essais », 1997 (ISBN 978-2-07-074465-7)
-* Isaac Asimov (trad. de l'anglais), Trous noirs : l’explication scientifique de l’univers en contraction, Montréal, L’étincelle, 1978, 221 p. (ISBN 0-88515-092-9 et 0-88515-092-9). Livre rare difficile à trouver.
-* Stephen Hawking (trad. de l'anglais par Isabelle Naddeo-Souriau), Une brève histoire du temps : du big bang aux trous noirs, Paris, Flammarion, 1989, 245 p. (ISBN 2-08-081238-6, EAN 978-2-08-081238-4) Un best-seller très intéressant, et où les trous noirs et les interrogations qu’ils posent sont mis dans le vaste contexte de l’Univers et de son évolution.
-* (en) Jacob Bekenstein, Of Gravity. Black Holes and Information, Di Renzo Editore, 2006, 176 p. (ISBN 88-8323-161-9)
-* Aurélien Barrau, Au cœur des trous noirs, Malakoff, Dunod, coll. « Hors collection », février 2019, 152 p., 130x200 mm (ISBN 978-2-10-074849-5, EAN 9782100795864, présentation en ligne)
-* (en) Stephen Hawking (trad. de l'anglais), Dernières nouvelles des trous noirs, Paris, Flammarion BBC, 2016, 108 p. (ISBN 978-2-08-139473-5). Stephen Hawking présente un résumé des travaux à David Shukman, rédacteur en chef de la section scientifique de BBC News.
-
-# Trou noir
-## Médiagraphie
-### Bibliographie
-#### Articles de magazines
-
-* Les trous noirs
-** Aurélien Barrau et Gaëlle Boudoul, Où sont passés les trous noirs primordiaux, article du magazine « La Recherche », 2004 Le fichier PDF est disponible sur le site web personnel d’Aurélien Barrau.
-* A. Barrau, A. Gorecki, J. Grain, Les micro-trous noirs primordiaux, Pour la Science nᵒ 372, octobre 2008.
-* J. Lavalle, Les trous noirs de masse intermédiaire, Pour la Science nᵒ 372, octobre 2008.
-* A. Riazuelo, Trous noirs et trous de vers, Pour la Science nᵒ 372, octobre 2008.
-
-# Trou noir
-## Médiagraphie
-### Bibliographie
-#### Ouvrages et articles techniques
-
-* (en) Edwin F. Taylor et John A. Wheeler, Exploring black holes : introduction to general relativity, San Francisco, Addison Wesley Longman, 2000 (ISBN 978-0-201-38423-9, OCLC 43701527). Pour un lecteur qui connaît les principes de la relativité restreinte, Wheeler et Taylor introduisent les idées de la relativité générale à partir du concept de trou noir, en utilisant le minimum de mathématiques possible : métriques, algèbre, calcul différentiel et intégral de base (pas de géométrie différentielle, ni de tenseurs). Accessible dès le niveau premier cycle universitaire.
-* (en) S Chandrasekhar, The mathematical theory of black holes, Oxford New York, Clarendon Press Oxford University Press, coll. « Oxford classic texts in the physical sciences », 1998, 646 p. (ISBN 978-0-19-850370-5, OCLC 40852409, lire en ligne). La théorie mathématique des trous noirs, par le grand astrophysicien théoricien d’origine indienne. Niveau troisième cycle universitaire.
-* (en) Kip S. Thorne, Richard H. Price et Douglas Alan Macdonald, Black holes : the membrane paradigm, New Haven, Yale University Press, 1986, 367 p. (ISBN 978-0-300-03769-2 et 978-0-300-03770-8, OCLC 13759977)
-* (en) Stuart L Shapiro et Saul A Teukolsky, Black holes, white dwarfs, and neutron stars : the physics of compact objects, New York, John Wiley, 1983, 645 p. (ISBN 978-0-471-87316-7 et 978-0-471-87317-4, OCLC 8953728)
-* (en) Robert M. Wald, General Relativity, University of Chicago Press, 1984, 498 p. (ISBN 0226870332).
-* (en) D. Kramer, Hans Stephani, Malcolm Mac Callum et E. Herlt, Exact solutions of Einstein’s field equations, Cambridge, Cambridge University Press, 1980, 428 p. (ISBN 0521230411).
-
-# Trou noir
-## Médiagraphie
-### Bibliographie
-#### Aspects historiques
-
-* Comment les scientifiques savent que les trous noirs existent ? CNRS-INSU, 07 juin 2022
-* (en) Brandon Carter ; Half century of black-hole theory: from physicists’ purgatory to mathematicians’ paradise, dans : L. Mornas (ed.) ; « Encuentros Relativistas Espanoles: A Century of Relativity Theory », Oviedo (2005). Texte complet disponible sur arXiv : gr-qc/0604064
-* Michel Rival, Robert Oppenheimer, Paris, Flammarion, coll. « Grandes Biographies », juin 1995, 294 p. (ISBN 2-08-066799-8, présentation en ligne).
-
-# Trou noir
-## Médiagraphie
-### Documentaire
-
-* Alain Riazuelo, Sylvie Rouat & Patrice Desenne (réal.), Voyage au cœur d’un trou noir, Sciences et Avenir, 2008, France « voir en ligne » (consulté le 4 novembre 2013).
