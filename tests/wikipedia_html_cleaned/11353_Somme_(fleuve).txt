@@ -58,6 +58,7 @@ L'organisme gestionnaire est l'EPTB Somme ou AMEVA.
 ## Affluents
 
 Liste des affluents de l'amont vers l'aval, de la source à l'embouchure :
+| sur la rive gauche : La Sommette, La Beine, L'Allemagne, L'Ingon et Petit Ingon, L'Avre avec Echaut, gué du Nil, rivière de Rouvroy, Luce, Trois Doms, Braches, Noye et ru Saint Firmin, La Selle avec canal de Lamoricière, Évoissons, petis Évoissons, rivière de Poix et rivière des Parquets, Le Saint-Landon, L'Airaines, La Trie, L'Amboise et l'Avalasse ; | sur la rive droite : La Germaine, L'Omignon, La Cologne, La Tortille, L'Ancre, avec le Canal, le Fossé, et la Boulangerie qui est en fait un défluent, L'Hallue et la Nœlle, La Nièvre avec la Domart et la Fieffe, Le Scardon avec la Drucat et la Novion, Le Dien avec la Rivière des Îles et le canal du Marquenterre. |
 
 # Somme (fleuve)
 ## Affluents

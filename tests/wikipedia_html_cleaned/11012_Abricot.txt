@@ -80,7 +80,7 @@ Production d'abricot en tonnes en 2020 Données de FAOSTAT (FAO) :
 Les principales maladies de l'abricotier sont :
 * le monilia, un champignon microscopique qui se propage par les blessures de l'épiderme
 * l’oïdium est une maladie cryptogamique qui s'attaque tant au niveau de la feuille que du fruit
-* l'enroulement chlorotique ou ECA une maladie de dépérissement causée par un
+* l'enroulement chlorotique ou ECA une maladie de dépérissement causée par un phytoplasme qui attaque fortement l'espèce abricotier. Il vit dans les vaisseaux véhiculant la sève élaborée. Le vecteur de la maladie semble être le psylle du prunier. Les premiers symptômes sont :
 ** Un départ prématuré de la végétation affectant tout ou partie de l'arbre en hiver.
 ** L'apparition de feuilles enroulées en forme de cornet, souvent de petite taille au cours du cycle végétatif de l'arbre. Il n'y a pas de traitement à ce jour. La solution consiste à éradiquer et détruire au plus tôt les arbres malades du verger.
 

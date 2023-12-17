@@ -4,6 +4,14 @@ Treffiagat [tʁefjagat] ou Treffiagat-Léchiagat [tʁefjagat leʃjagat] ou même
 
 # Treffiagat
 ## Géographie
+
+Communes limitrophes de Treffiagat :
+| | Plomeur | |
+| Guilvinec | | Plobannalec-Lesconil |
+| Océan atlantique | Océan atlantique | Océan atlantique |
+
+# Treffiagat
+## Géographie
 ### Situation et site
 
 Treffiagat est située à la pointe de la Bretagne dans le Finistère-sud, en pays Bigouden. La superficie de la commune est de 810 hectares ; son altitude varie entre −1 et 26 mètres.
@@ -86,6 +94,14 @@ Le « chemin des dunes », une piste multi-usages (piétons, cyclistes, person
 
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique franc », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du type « climat océanique » dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Ce type de climat se traduit par des températures douces et une pluviométrie relativement abondante (en liaison avec les perturbations venant de l'Atlantique), répartie tout au long de l'année avec un léger maximum d'octobre à février.
 Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les précipitations, dont les valeurs correspondent à la normale 1971-2000. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-après.
+* Paramètres climatiques communaux sur la période 1971-2000
+* Moyenne annuelle de température : 12,2 °C
+* Nombre de jours avec une température inférieure à −5 °C : 0,2 j
+* Nombre de jours avec une température supérieure à 30 °C : 0,9 j
+* Amplitude thermique annuelle : 10,4 °C
+* Cumuls annuels de précipitation : 938 mm
+* Nombre de jours de précipitation en janvier : 15 j
+* Nombre de jours de précipitation en juillet : 7,1 j
 Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Pont-L'abbe », sur la commune de Pont-l'Abbé, mise en service en 1994 et qui se trouve à 8 km à vol d'oiseau, où la température moyenne annuelle est de 12,8 °C et la hauteur de précipitations de 993,3 mm pour la période 1981-2010. Sur la station météorologique historique la plus proche, « Quimper », sur la commune de Pluguffan, mise en service en 1967 et à 20 km, la température moyenne annuelle évolue de 11,5 °C pour la période 1971-2000, à 11,8 °C pour 1981-2010, puis à 12 °C pour 1991-2020.
 
 # Treffiagat
@@ -350,19 +366,19 @@ La commune se trouve dans la circonscription de gendarmerie de la brigade de pro
 ## Population et société
 ### Démographie
 
-Évolution de la population  [ modifier ] :
+Évolution de la population :
 | 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
 | 515 | 535 | 494 | 597 | 678 | 702 | 745 | 785 | 771 |
-Évolution de la population  [ modifier ], suite (1) :
+Évolution de la population, suite (1) :
 | 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 | 1896 |
 | 780 | 800 | 885 | 899 | 1 009 | 1 038 | 1 205 | 1 358 | 1 556 |
-Évolution de la population  [ modifier ], suite (2) :
+Évolution de la population, suite (2) :
 | 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
 | 1 819 | 2 042 | 2 252 | 2 293 | 2 333 | 2 373 | 2 321 | 2 447 | 2 574 |
-Évolution de la population  [ modifier ], suite (3) :
+Évolution de la population, suite (3) :
 | 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2011 | 2016 |
 | 2 603 | 2 449 | 2 484 | 2 360 | 2 333 | 2 168 | 2 241 | 2 413 | 2 393 |
-Évolution de la population  [ modifier ], suite (4) :
+Évolution de la population, suite (4) :
 | 2020 | - | - | - | - | - | - | - | - |
 | 2 410 | - | - | - | - | - | - | - | - |
 Commentaire : Après avoir lentement augmenté pendant la première moitié du XIXᵉ siècle (la commune gagne 256 habitants en 58 ans entre 1793 et 1851), la population de Treffiagat augmente spectaculairement pendant la seconde moitié du XIXᵉ siècle, gagnant 1 048 habitants entre 1851 et 1901 (+ 136 % en 50 ans) : c'est l'époque de l'essor du port de Léchiagat. La croissance démographique se poursuit, mais à un rythme moins soutenu, jusqu'en 1962, année de la population maximale avec 2 603 habitants (le gain a été de 784 habitants, soit + 43 %, en 61 ans). Les quatre dernières décennies du XXᵉ siècle enregistrent une légère diminution de la population (- 435 habitants entre 1962 et 1999) en raison du déclin du port de pêche et de l'exode rural, mais le début du XXIᵉ siècle voit la commune connaître un rebond démographique (+ 240 habitants entre 1999 et 2012).
@@ -419,10 +435,10 @@ La commune compte deux lieux de culte protestant : le temple calviniste de l'É
 * Les fontaines : celles de Saint-Fiacre et de Saint-Laurent étaient considérées comme miraculeuses (celle de Saint-Fiacre avait la réputation de guérir la coqueluche), mais la plus connue est la fontaine de Kerléguer, célèbre pour la qualité de son eau et qui a fourni pendant des siècles l'eau potable aux habitants de Léchiagat et même du Guilvinec, ainsi qu'aux marins qui venaient s'y approvisionner (de 100 à 200 barques chaque année dans le courant du XIXᵉ siècle estime-t-on. Les eaux de cette fontaine furent encore plus utilisées après l'épidémie de choléra du Guilvinec survenue en 1885.
 * Le château d'eau à l'entrée de Treffiagat a été décoré par l'artiste Frédéric Gracia. La fresque réalisée en 2009 sur l'ensemble de l'ouvrage montre une composition sur le thème des images représentatives de la ville: le phare, le port, le menhir et le littoral.
 * Monuments de Treffiagat-Léchiagat
-* Le menhir de Lehan, dans son étang,  Classé MH (1923).
-* Menhir de Squividan ou de Reun, Léchiagat,  Classé MH (1975).
+* Le menhir de Lehan, dans son étang, Classé MH (1923).
+* Menhir de Squividan ou de Reun, Léchiagat, Classé MH (1975).
 * Stèle protohistorique de l'ancien cimetière, jardin de la salle polyvalente Croas-Malo
-* Le clocher de l'église Notre-Dame-des-Flots à Léchiagat,  Inscrit MH (1926).
+* Le clocher de l'église Notre-Dame-des-Flots à Léchiagat, Inscrit MH (1926).
 * Treffiagat, la chapelle Saint-Fiacre.
 * Treffiagat, la chapelle Saint-Fiacre.
 * Statue de La Vierge à l'Enfant (1894).

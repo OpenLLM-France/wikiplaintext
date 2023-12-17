@@ -72,13 +72,13 @@ Les différences de relief déterminent le climat du canton. Au sud du lac de Wa
 Relevé météorologique du canton de Glaris pour la période 1981-2010. :
 | Données | Station | jan. | fév. | mars | avril | mai | juin | jui. | août | sep. | oct. | nov. | déc. | année |
 | Températures moyennes max. (°C) | Elm | 1,2 | 2,7 | 6,6 | 11 | 16,2 | 18,8 | 20,9 | 19,9 | 16,2 | 12,6 | 5,9 | 2,1 | 11,2 |
-| Glaris | 2,6 | 4,1 | 9 | 13,9 | 18,8 | 21,3 | 23,4 | 22,5 | 18,4 | 14 | 7,6 | 3,7 | 13,3 |
+| Températures moyennes max. (°C) | Glaris | 2,6 | 4,1 | 9 | 13,9 | 18,8 | 21,3 | 23,4 | 22,5 | 18,4 | 14 | 7,6 | 3,7 | 13,3 |
 | Températures moyennes min. (°C) | Elm | −6,3 | −6,1 | −2,6 | 1,3 | 5,5 | 8,6 | 10,7 | 10,3 | 7,1 | 3,7 | −1,6 | −5,1 | 2,1 |
-| Glaris | −3,6 | −2,9 | 0,5 | 3,8 | 8,1 | 11,1 | 13,2 | 13 | 9,8 | 6 | 1 | −2,2 | 4,8 |
+| Températures moyennes min. (°C) | Glaris | −3,6 | −2,9 | 0,5 | 3,8 | 8,1 | 11,1 | 13,2 | 13 | 9,8 | 6 | 1 | −2,2 | 4,8 |
 | Précipitations (mm) | Elm | 104 | 101 | 123 | 110 | 140 | 165 | 189 | 193 | 149 | 104 | 128 | 114 | 1 619 |
-| Glaris | 86 | 85 | 105 | 97 | 130 | 168 | 198 | 190 | 138 | 96 | 108 | 104 | 1 506 |
+| Précipitations (mm) | Glaris | 86 | 85 | 105 | 97 | 130 | 168 | 198 | 190 | 138 | 96 | 108 | 104 | 1 506 |
 | Ensoleillement (heures) | Elm | − | − | − | − | − | − | − | − | − | − | − | − | − |
-| Glaris | 61 | 68 | 88 | 124 | 152 | 153 | 171 | 155 | 106 | 86 | 59 | 51 | 1 274 |
+| Ensoleillement (heures) | Glaris | 61 | 68 | 88 | 124 | 152 | 153 | 171 | 155 | 106 | 86 | 59 | 51 | 1 274 |
 | Source : MétéoSuisse. |||||||||||||||
 
 # Canton de Glaris

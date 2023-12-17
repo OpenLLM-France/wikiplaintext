@@ -17,7 +17,7 @@ Backscheider arrête sa carrière en mars 2022.
 ### Jeux olympiques
 
 | Épreuve / Édition | Sprint | Sprint | 15 km | 15 km | Skiathlon 2 × 15 km | 50 km | Relais | Relais |
-| libre | classique | libre | classique | Sprint | 4 × 10 km |
+| Épreuve / Édition | libre | classique | libre | classique | Skiathlon 2 × 15 km | 50 km | Sprint | 4 × 10 km |
 | JO 2014 Sotchi | — | | | 43ᵉ | — | — | — | — |
 | JO 2018 Pyeongchang | | — | 17ᵉ | | — | — | — | Bronze |
 | JO 2022 Pékin | — | | | — | — | 34ᵉ | — | — |
@@ -28,7 +28,7 @@ Légende :
 ### Championnats du monde
 
 | Épreuve / Édition | Sprint | Sprint | 15 km | 15 km | Skiathlon 2 × 15 km | 50 km | Relais | Relais |
-| libre | classique | libre | classique | Sprint | 4 × 10 km |
+| Épreuve / Édition | libre | classique | libre | classique | Skiathlon 2 × 15 km | 50 km | Sprint | 4 × 10 km |
 | Mondiaux 2015 Falun | | — | — | | 19ᵉ | — | — | Bronze |
 | Mondiaux 2019 Seefeld | — | | | — | 8ᵉ | — | | Bronze |
 | Mondiaux 2021 Oberstdorf | | — | 22ᵉ | | - | — | — | - |
@@ -47,7 +47,7 @@ Légende :
 #### Classements en Coupe du monde
 
 | Saison / Épreuve | Général | Général | Distance | Distance | Sprint | Sprint | Tour de ski depuis 2007 | Finales 2008-2014 | Nordic Opening depuis 2011 |
-| Place | Points | Place | Points | Place | Points |
+| Saison / Épreuve | Place | Points | Place | Points | Place | Points | Tour de ski depuis 2007 | Finales 2008-2014 | Nordic Opening depuis 2011 |
 | 2013-2014 | 97ᵉ | 44 | 80ᵉ | 18 | - | - | Abandon | 18ᵉ | 69ᵉ |
 | 2014-2015 | 156ᵉ | 1 | 95ᵉ | 1 | - | - | — | | — |
 | 2015-2016 | 91ᵉ | 38 | 53ᵉ | 38 | - | - | 34ᵉ | — | 49ᵉ |

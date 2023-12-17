@@ -27,6 +27,14 @@ Sa source est située aux alentours de Beuvardes et elle est alimentée par la l
 ### Climat
 
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique dégradé des plaines du Centre et du Nord », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du type « climat océanique altéré » dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs.
+* Paramètres climatiques communaux sur la période 1971-2000
+* Moyenne annuelle de température : 10,2 °C
+* Nombre de jours avec une température inférieure à −5 °C : 4,2 j
+* Nombre de jours avec une température supérieure à 30 °C : 4,1 j
+* Amplitude thermique annuelle : 15,3 °C
+* Cumuls annuels de précipitation : 775 mm
+* Nombre de jours de précipitation en janvier : 12,4 j
+* Nombre de jours de précipitation en juillet : 8,5 j
 Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les précipitations, dont les valeurs correspondent à la normale 1971-2000. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-contre.
 Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Oulchy-le-Château », sur la commune d'Oulchy-le-Château, mise en service en 1964 et qui se trouve à 11 km à vol d'oiseau, où la température moyenne annuelle est de 11 °C et la hauteur de précipitations de 712,6 mm pour la période 1981-2010. Sur la station météorologique historique la plus proche, « Saint-Quentin », sur la commune de Fontaine-lès-Clercs, mise en service en 1933 et à 76 km, la température moyenne annuelle évolue de 10 °C pour la période 1971-2000 à 10,3 °C pour 1981-2010, puis à 10,8 °C pour 1991-2020.
 
@@ -126,19 +134,19 @@ Liste des maires successifs :
 
 L'évolution du nombre d'habitants est connue à travers les recensements de la population effectués dans la commune depuis 1793. Pour les communes de moins de 10 000 habitants, une enquête de recensement portant sur toute la population est réalisée tous les cinq ans, les populations légales des années intermédiaires étant quant à elles estimées par interpolation ou extrapolation. Pour la commune, le premier recensement exhaustif entrant dans le cadre du nouveau dispositif a été réalisé en 2007.
 En 2020, la commune comptait 751 habitants, en augmentation de 4,16 % par rapport à 2014 (Aisne : −1,93 %, France hors Mayotte : +1,9 %).
-Évolution de la population  [ modifier ] :
+Évolution de la population :
 | 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
 | 680 | 714 | 668 | 847 | 955 | 983 | 1 005 | 1 030 | 1 017 |
-Évolution de la population  [ modifier ], suite (1) :
+Évolution de la population, suite (1) :
 | 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 | 1896 |
 | 939 | 941 | 913 | 842 | 849 | 800 | 759 | 807 | 763 |
-Évolution de la population  [ modifier ], suite (2) :
+Évolution de la population, suite (2) :
 | 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
 | 714 | 660 | 659 | 622 | 580 | 547 | 566 | 524 | 469 |
-Évolution de la population  [ modifier ], suite (3) :
+Évolution de la population, suite (3) :
 | 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2007 | 2012 |
 | 477 | 458 | 479 | 544 | 642 | 640 | 701 | 709 | 722 |
-Évolution de la population  [ modifier ], suite (4) :
+Évolution de la population, suite (4) :
 | 2017 | 2020 | - | - | - | - | - | - | - |
 | 749 | 751 | - | - | - | - | - | - | - |
 

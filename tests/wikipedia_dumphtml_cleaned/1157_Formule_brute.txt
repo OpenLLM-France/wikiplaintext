@@ -74,19 +74,19 @@ Les atomes constituant la molécule sont indiqués à l'aide de leurs symboles c
 #### Composés organiques
 
 Le propane comporte trois atomes de carbone (noté C) et huit atomes d'hydrogène (noté H), il possède la formule brute suivante : C₃H₈.
-* Le
+* Le méthane : CH₄
 ** 1 atome de carbone C
 ** 4 atomes d'hydrogène H
-* L'
+* L'éthanol : C₂H₅OH (la formule brute correcte étant C₂H₆O)
 ** 2 atomes de carbone C
 ** 6 atomes d'hydrogène H
 ** 1 atome d'oxygène O
 Les exemples suivants montrent la différence entre formule moléculaire et formule empirique.
-* L'
+* L'éthylène : C₂H₄
 ** 2 atomes de carbone C
 ** 4 atomes d'hydrogène H
 La formule empirique de l'éthylène est CH₂.
-* Le
+* Le butane ou son isomère l'isobutane : C₄H₁₀
 ** 4 atomes de carbone C
 ** 10 atomes d'hydrogène H
 La formule empirique du butane est C₂H₅.
@@ -96,13 +96,13 @@ La formule empirique du butane est C₂H₅.
 ### Exemples
 #### Composés inorganiques
 
-* L'
+* L'eau : H₂O
 ** 2 atomes d'hydrogène H
 ** 1 atome d'oxygène O
-* Le
+* Le dioxygène : O₂
 ** 2 atomes d'oxygène O
 La formule empirique du dioxygène est O₂.
-* Le
+* Le chlorure de mercure(I) ou calomel : Hg₂Cl₂
 ** 2 atomes Hg
 ** 2 atomes Cl
 La formule empirique du calomel est HgCl.
@@ -117,13 +117,13 @@ La formule empirique du calomel est HgCl.
 La formule structurale donne des informations partielles ou complètes sur la façon dont les atomes d'une molécule sont connectés et arrangés dans l'espace. Dans les cas simples, une formule en ligne qui est juste une séquence de symboles atomiques (donc une formule brute) donne une information structurale permettant au lecteur de décoder des informations structurales.
 Par exemple le peroxyde d'hydrogène de formule moléculaire H₂O₂ peut être écrit avec la formule structurale HOOH, ce qui indique l'enchaînement des atomes : H-O-O-H.
 Dès que la structure du composé est plus complexe, il devient nécessaire d'introduire des parenthèses pour éviter toute ambiguïté. L'IUPAC recommande sept règles d'écriture, par exemple :
-* les
+* les motifs qui se répètent dans des chaînes doivent être entourés de crochets ;
 ** la formule de l'octane de formule moléculaire C₈H₁₈ possède la formule structurale CH₃[CH₂]₆CH₃ ;
-* les groupes latéraux d'une chaîne et les groupes (comme les
+* les groupes latéraux d'une chaîne et les groupes (comme les ligands) attachés à un atome central sont écrits entre parenthèses (sauf les atomes uniques comme H ou Cl) ;
 ** le méthylbutane s'écrit CH₃CH(CH₃)CH₂CH₃,
 ** l'ion tétramminediaquacuivre(II) s'écrit Cu(NH₃)₄(H₂O)₂²⁺ ;
 * quand il faut insérer des groupes au sein de parenthèses, il convient d'utiliser des accolades comme suit : ( ), {( )}, ({( )}), {({( )})}, etc. ;
-* quand un atome ou un groupe d'atomes est précédé d'un préfixe, comme le préfixe µ indiquant un atome pontant, l'atome et le préfixe sont entre parenthèses
+* quand un atome ou un groupe d'atomes est précédé d'un préfixe, comme le préfixe µ indiquant un atome pontant, l'atome et le préfixe sont entre parenthèses ;
 ** par exemple dans le complexe de chlorodicarbonylerhodium(I) : [{Rh(µ-Cl)(CO)₂}₂].
 * Complexe de rhodium possédant des ligands pontant (préfixés µ) de formule brute [{Rh(µ-Cl)(CO)₂}₂]
 

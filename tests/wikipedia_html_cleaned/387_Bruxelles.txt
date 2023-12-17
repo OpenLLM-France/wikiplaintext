@@ -212,7 +212,7 @@ Durant la seconde partie du xxᵉ siècle, à la suite de l'urbanisation, un nom
 Désignée la capitale de la Belgique selon l'article 194 de la Constitution belge, elle est le siège du pouvoir exécutif constitué par la monarchie belge et le gouvernement fédéral de la Belgique, du pouvoir législatif constitué par la Chambre des députés et le Sénat, et du pouvoir judiciaire. Elle est aussi la résidence des ambassades et consulats étrangers.
 Elle est le siège des gouvernements et parlements de plusieurs des entités fédérées qui composent la Belgique :
 * deux des trois régions fédérées : la Région de Bruxelles-Capitale et la Région flamande ;
-* deux des trois
+* deux des trois Communautés :
 ** la Communauté française de Belgique, qui a modifié sa dénomination en Fédération Wallonie-Bruxelles en avril 2011, forme un pouvoir unique installé à Bruxelles pour gérer les matières communes à Bruxelles et à la Wallonie, la culture française au sens large (enseignement, beaux-arts, cinéma, télévision et maisons de la culture, échanges culturels internationaux),
 ** la Communauté flamande, qui gère la culture des Flamands de Flandre et de la minorité flamande de Bruxelles, a également élu Bruxelles comme siège.
 Un projet gouvernemental de création d'une zone dont la population et les limites doivent être définies avec précision a été déposé en 2010 sous le nom de « Métropole de Bruxelles ».
@@ -306,14 +306,13 @@ La population estudiantine de Bruxelles-Capitale est estimée à 86 000. En inc
 Le Thalys relie Bruxelles à Paris, Amsterdam et différentes villes d'Allemagne, tandis que le TGV « classique » relie les villes françaises (Montpellier, Lyon, Marseille, Strasbourg, Lille, etc.). L'Eurostar relie Amsterdam/Bruxelles à Londres.
 Depuis le 22 mai 1955, une ligne spéciale relie le centre de Bruxelles à l'aéroport de Bruxelles National. Lors de son inauguration, à l'Air Terminus voisin de la gare centrale, c'était la première fois qu'une ligne de chemin de fer reliait un centre-ville à un aéroport.
 Le réseau ferroviaire de la SNCB s'étend à toute la Belgique et dessert, dans Bruxelles, plusieurs gares et points d'arrêt. Les plus importantes pour le trafic voyageurs se trouvent sur la jonction Nord-Midi qui traverse le centre de la ville dans un tunnel à six voies ; tous les trains voyageurs nationaux à partir de Bruxelles s'y arrêtent : ces gares et stations sont au nombre de 31 à l'intérieur des limites urbaines, sans compter quelques arrêts en plus dans la périphérie proche.
-* Gare du Midi
 ** Gare du Midi (principale gare internationale, desservie par le TGV Bruxelles-France, l'Eurostar, le Thalys, l'ICE)
 ** Gare de Bruxelles-Central
 ** Gare du Nord
 * la jonction Nord-Midi comporte encore deux autres gares, d'importance mineure :
 ** Gare de Bruxelles-Chapelle
 ** Gare de Bruxelles-Congrès (près de la Cité administrative)
-* les autres gares importantes se trouvent dans le quartier des institutions européennes, les trains en direction de
+* les autres gares importantes se trouvent dans le quartier des institutions européennes, les trains en direction de Namur et Luxembourg s'y arrêtent :
 ** Gare de Bruxelles-Luxembourg (anciennement Quartier Léopold), en communication avec le siège bruxellois du Parlement européen
 ** Gare de Bruxelles-Schuman sous le Berlaymont, siège principal de l'administration européenne
 * et aussi, dans diverses communes :
@@ -493,11 +492,11 @@ Au fil du temps, l'activité cinématographique et télévisuelle s'est dévelop
 * La Galerie Agora, véritable souk moderne,
 * La Galerie Bortier et ses bouquinistes,
 * Le Passage du Nord,
-* Le plateau du
+* Le plateau du Heysel, où ont eu lieu les expositions universelles de 1935 et de 1958, où se situent :
 ** Les Grands Palais voués aux salons, comme le salon de l'auto,
 ** L'Atomium se dresse dans la perspective des Grands Palais, représentant une molécule de fer gigantesquement agrandie et composée de neuf sphères représentant les atomes, la sphère supérieure contenant un restaurant et les autres des salles d'exposition et de réunions,
 ** Dans le parc des expositions on trouve aussi le "Trade mart", complexe commercial réservé aux transactions des professionnels, surtout dans l'import export,
-** Bruparck
+** Bruparck, qui comprend :
 *** Mini-Europe, parc qui expose des maquettes de monuments de toute l'Europe,
 *** Un complexe cinématographique multisalles,
 ** Le stade Roi Baudouin, anciennement Heysel,
@@ -522,19 +521,19 @@ Au fil du temps, l'activité cinématographique et télévisuelle s'est dévelop
 * L'église Saint-Joseph,
 * La porte de Hal, ancienne tour fortifiée du Moyen Âge et son musée,
 * La Maison de la Bellone,
-* Le
+* Le musée des beaux-arts avec ses collections de peinture et de sculpture anciennes et contemporaines parmi lesquelles les œuvres du peintre surréaliste bruxellois Paul Delvaux.
 ** Le Musée Fin de siècle
 ** Le musée Magritte exclusivement consacré au grand peintre surréaliste bruxellois.
 * Le Musée des instruments de musique (MIM), le plus riche des musées d'instruments de musique,
 * Le palais des Académies en style néo classique (qui ne se visite pas)
 * Les maisons « Art nouveau » (square Ambiorix, avenue Palmerston, avenue Louis Bertrand…),
-* Le
+* Le parc du Cinquantenaire, où se situent
 ** La grande mosquée de Bruxelles,
 ** Autoworld, musée de l'automobile,
 ** Les musées royaux d'art et d'histoire,
 ** Le musée royal de l'armée et de l'histoire militaire surnommé par les connaisseurs américains The biggest gun museum in the world.
 * Le Muséum des sciences naturelles de Belgique avec sa collection de dinosaures dont un troupeau d'iguanodons unique au monde,
-* Le parc de
+* Le parc de Laeken, domaine de 160 hectares regroupant :
 ** Le château de Laeken du XVIIIᵉ siècle, demeure des souverains belges,
 ** Les serres royales ouvertes une fois par an en mai,
 ** La tour japonaise, musée d'Extrême-Orient,

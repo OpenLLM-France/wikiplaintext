@@ -32,7 +32,7 @@ La fonction racine carrée vérifie les propriétés élémentaires suivantes va
 > x2=|x|.
 * Elle est strictement croissante, comme réciproque d'une bijection croissante sur ℝ₊.
 * Elle est 1/2-höldérienne donc uniformément continue.
-* Elle est
+* Elle est dérivable en tout réel strictement positif x, mais elle n’est pas dérivable en x = 0. En ce point, la courbe représentative admet une demi-tangente verticale. Sa fonction dérivée est donnée par :
 *> ddxx=12x.
 * Elle est de classe C∞ sur ℝ₊* :∀n∈Ndndxnx=(−1)n+1(2n)!n!22n(2n−1)1xn−1/2.
 * Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 :1−h=1−∑n=1∞anhn avec an=(2n)!(n!)222n(2n−1)>0,avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 :an=Cn−122n−1.Les premières valeurs sonta1=12,a2=18,a3=116,a4=5128.

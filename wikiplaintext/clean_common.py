@@ -16,7 +16,12 @@ _ignore_from_section = {
 }
 
 
-def final_clean(text, from_wikicode=False, with_header_level=False):
+def final_clean(
+    text,
+    from_wikicode=False,
+    remove_hashtag_headers=False,
+    remove_repeated_headers=False,
+    ):
 
     # Remove double spaces
     text = re.sub(r" +", " ", text)
@@ -46,16 +51,26 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
                   text,
                   flags=re.MULTILINE,
                   )
-    if with_header_level:
-        # Remove empty sections
+    # Remove empty sections
+    text = re.sub(
+        rf"\n([\#]+)[^\#\n]+{END_HEADER}\n(\1[^\n]+{END_HEADER}\n)*(\1[^\#\n]+{END_HEADER}\n|$)",
+        r"\n\3",
+        text,
+    )
+
+    if remove_repeated_headers:
+        # Remove repeated headers
         text = re.sub(
-            rf"\n([\#]+)[^\#\n]+{END_HEADER}\n(\1[^\n]+{END_HEADER}\n)*(\1[^\#\n]+{END_HEADER}\n|$)",
-            r"\n\3",
+            rf"\n([^\n]+{END_HEADER}\n)+([^\n]+{END_HEADER}\n)",
+            r"\n\2",
             text,
         )
 
-    text = re.sub(rf"(\n[^\n]+{END_HEADER})+$", "", text.strip())
+    if remove_hashtag_headers:
+        # Remove hashtag headers
+        text = re.sub(rf"(\n|^)\#+ *([^\#\n]+{END_HEADER}\n)", r"\1\2", text)
 
+    text = re.sub(rf"(\n[^\n]+{END_HEADER})+$", "", text.strip())
     text = text.replace(END_HEADER, "")
 
     # # Never more than 2 consecutive newlines
@@ -82,7 +97,7 @@ def final_clean(text, from_wikicode=False, with_header_level=False):
     return text.strip()
 
 
-def collapse_whitespace(text, level=False):
+def collapse_whitespace(text, level=1):
     """
     Remove double whitespaces
 
@@ -142,7 +157,7 @@ def format_table(table, ignore_one_cell=True) -> str:
         for row in table.data()
     ]
     if not data:
-        return ''
+        return ""
     widths = [0] * len(data[0])
     for irow, row in enumerate(data):
         if irow == 0 and irow < len(data) - 1:
@@ -165,18 +180,20 @@ def format_table(table, ignore_one_cell=True) -> str:
             row = [c for (w, c) in zip(widths, row) if w > 0]
             if not len(row): continue
             assert len(row) == 1
-            row = "\n** ".join([r.strip() for r in row[0].split("\n") if r.strip()])
-            new_data.append(row)
+            for r in row[0].split("\n"):
+                r = r.strip()
+                if r:
+                    new_data.append([r])
         rows = new_data
     else:
         rows = data
-    if ignore_one_cell and len(rows) == 1 and len(rows[0]) <= 1:
+    if ignore_one_cell and (len(rows) == 1 and len(rows[0]) <= int(ignore_one_cell)) or (0 < len(rows) <= int(ignore_one_cell) and len(rows[0]) == 1):
         # Ignore tables with one element
         return ""
     if lwidths == 1:
         return (
             caption
-            + '* ' + '\n* '.join(rows)
+            + '* ' + '\n* '.join([row[0] for row in rows])
             + '\n'
         )
     return (
@@ -194,7 +211,7 @@ def format_table(table, ignore_one_cell=True) -> str:
 
 
 def remove_line_breaks(text):
-    return text.replace("\n", " ").strip()
+    return collapse_whitespace(text, 3)
 
 
 

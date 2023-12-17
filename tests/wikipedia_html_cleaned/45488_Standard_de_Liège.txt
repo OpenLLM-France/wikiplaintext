@@ -283,65 +283,43 @@ Le 16 juin 2023, le site officiel du Standard annonce l'arrivée de Carl Hoefken
 
 | Période | Equipementier | Sponsor |
 | 1964-1969 | Fred Perry | |
-| 1969-1972 | Adidas |
-| 1972-1973 | Texaco |
+| 1969-1972 | Adidas | |
+| 1972-1973 | Adidas | Texaco |
 | 1973-1974 | Le Coq sportif | Orbis Assurance |
-| 1974-1975 | Nova |
+| 1974-1975 | Le Coq sportif | Nova |
 | 1975-1976 | Adidas | Bricout Pétrole |
-| 1976-1981 | Maes Pils |
-| 1981-1983 | Le Coq sportif |
-| 1983-1985 | Banque Nagelmackers 1747 |
+| 1976-1981 | Adidas | Maes Pils |
+| 1981-1983 | Le Coq sportif | Maes Pils |
+| 1983-1985 | Le Coq sportif | Banque Nagelmackers 1747 |
 | 1985-1997 | Adidas | Opel |
-| 1997-2000 | Cirio (it) |
-| 2000-2001 | |
-| 2001-2003 | randstad construct |
+| 1997-2000 | Adidas | Cirio (it) |
+| 2000-2001 | Adidas | |
+| 2001-2003 | Adidas | randstad construct |
 | 2003-2006 | Umbro | Ale Teledis |
-| 2006-2007 | Euro Finances |
-| 2007-2008 | BASE |
-| 2008-2009 | Diadora |
-| 2009-2010 | Generali |
+| 2006-2007 | Umbro | Euro Finances |
+| 2007-2008 | Umbro | BASE |
+| 2008-2009 | Diadora | BASE |
+| 2009-2010 | Diadora | Generali |
 | 2010-2011 | Planète rouge | e-lotto.be |
-| 2011-2012 | Joma |
-| 2012-2015 | BASE |
-| 2015-2017 | Kappa |
-| 2017-2018 | New Balance |
-| 2018-2021 | Voo |
-| 2021- | Adidas |
+| 2011-2012 | Joma | e-lotto.be |
+| 2012-2015 | Joma | BASE |
+| 2015-2017 | Kappa | BASE |
+| 2017-2018 | New Balance | BASE |
+| 2018-2021 | New Balance | Voo |
+| 2021- | Adidas | Voo |
 À la suite des difficultés de l'équipementier Diadora, et après l'échec des négociations avec d'autres marques, le Standard décide de devenir son propre équipementier lors de la saison 2010-2011. Le club sera équipé par la ligne de maillots Planète rouge (du nom de la boutique des supporteurs du club).
 Le 23 juin 2010, les premiers maillots de la marque sont présentés lors du Business Meeting, ils sont portés par Sébastien Pocognoli, Steven Defour et Christian Benteke. Cependant, à partir de la saison suivante, le Standard signe un contrat de quatre ans avec la marque espagnole Joma.
 La marque n'est plus utilisée pour les maillots mais elle garde le nom pour la boutique officielle du club.
-* Extérieur
-* 2006-2007
-** 2007-2008
-** 2008-2009
-** 2009-2010
-** 2010-2011
-** 2011-2012
-** 2012-2013
-** 2013-2014
-** 2014-2015
-** 2015-2016
-** 2016-2017
-** 2017-2018
-** 2018-2019
-** 2019-2020
-** 2020-2021
-** 2021-2022
-* Troisième
-* 2006-2007
-** 2007-2008
-** 2008-2009
-** 2009-2010
-** 2010-2011
-** 2011-2012
-** 2013-2014
-** 2015-2016
-** 2016-2017
-** 2017-2018
-** 2018-2019
-** 2019-2020
-** 2020-2021
-* Quatrième
+Domicile :
+| 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 |
+| 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 |
+Extérieur :
+| 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 |
+| 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 |
+Troisième :
+| 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 |
+| 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 |
+Quatrième :
 * 2006-2007
 
 # Standard de Liège
@@ -447,6 +425,40 @@ Au niveau européen, c'est Raymond Goethals qui a mené l'équipe le plus loin, 
 ## Personnalités du club
 ### Capitaines
 
+| Nom | Période |
+| Roger Petit | 1939-1943 |
+| Fernand Massay | 1943-1953 |
+| Fernand Blaise | 1953-1954 |
+| Jean Mathonet | 1954-1959 |
+| Henri Thellin | 1959-1963 |
+| Marcel Paeschen | 1963-1964 |
+| Jean Nicolay | 1964-1965 |
+| Lucien Spronck | 1965-1966 |
+| Léon Semmeling | 1966-1972 |
+| Nom | Période |
+| Jean Thissen | 1972-1974 |
+| Wilfried Van Moer | 1974-1976 |
+| Eric Gerets | 1980-1983 |
+| Guy Vandersmissen | 1988-1989 |
+| Gilbert Bodart | 1992-1996 |
+| Guy Hellers | 1996-1999 |
+| Didier Ernst | 1999-2002 |
+| Ivica Dragutinović | 2002-2004 |
+| Éric Deflandre | 2004-2005 |
+| Nom | Période |
+| Sérgio Conceição | 2005-2007 |
+| Steven Defour | 2007-2011 |
+| Jelle Van Damme | 2011-2016 |
+| Adrien Trebel | 2016 |
+| Alexander Scholz | 2017 |
+| Sébastien Pocognoli | 2017-2020 |
+| Zinho Vanheusden | 2020-2021 |
+| Konstantínos Laïfis | 2021 |
+| Arnaud Bodart | 2021 |
+| Nom | Période |
+| Noë Dussenne | 2022-2023 |
+| Aron Dønnum | 2023 |
+| Zinho Vanheusden | 2023- |
 Club wallon, le Standard de Liège a la particularité d'avoir connu de nombreux capitaines flamands comme Wilfried Van Moer, Eric Gerets, Guy Vandersmissen, Steven Defour, Jelle Van Damme et Zinho Vanheusden.
 
 # Standard de Liège
@@ -561,6 +573,33 @@ Certains de ces joueurs sont tirés d'une liste de « légendes » établie pa
 * Michy Batshuayi (2011-2014) : 6 ans et 120 matchs (44 buts), Soulier d'ébène belge 2014, international belge.
 
 # Standard de Liège
+## Personnalités du club
+### Records individuels
+
+| Rang | Nom | Période | Apparitions |
+| 1 | Henri Thellin | 1949-1965 | 577 |
+| 2 | Jean Nicolay | 1953-1969 | 501 |
+| 3 | Guy Hellers | 1983-2000 | 477 |
+| 4 | Gilbert Bodart | 1981-1996 1997-1998 | 470 |
+| 5 | Léon Semmeling | 1959-1974 | 449 |
+| 6 | Eric Gerets | 1971-1983 | 397 |
+| 7 | Denis Houf | 1948-1964 | 379 |
+| 8 | Nico Dewalque | 1963-1976 | 376 |
+| 9 | Jean Mathonet | 1945-1960 | 375 |
+| 10 | Guy Vandersmissen | 1972-1977 1978-1991 | 370 |
+| Rang | Nom | Période | Buts |
+| 1 | Jean Capelle | 1929-1944 | 245 |
+| 2 | Roger Claessen | 1956-1968 | 161 |
+| 3 | Jean Mathonet | 1945-1960 | 143 |
+| 4 | Maurice Gillis | 1919-1935 | 124 |
+| 5 | Michaël Goossens | 1990-1996 2000-2003 | 88 |
+| 6 | Jean Jadot | 1948-1960 | 81 |
+| 7 | Marc Wilmots | 1991-1996 | 80 |
+| 8 | Marcel Paeschen | 1958-1966 | 77 |
+| 9 | Léon Semmeling | 1959-1974 | 73 |
+| 10 | Lucien Fabry | 1920-1928 | 71 |
+
+# Standard de Liège
 ## Structures du club
 ### Structures sportives
 #### Stade
@@ -616,6 +655,19 @@ Le budget du club est estimé à plus ou moins 30 millions d'euros pour la saiso
 #### Transferts les plus coûteux
 
 Les deux tableaux ci-dessous synthétisent les plus grosses ventes et achats de joueurs dans l'histoire du club liégeois.
+Arrivées record :
+| Rang | Joueur | Montant | Provenance | Date |
+| 1ᵉʳ | Zinho Vanheusden | 11,74 M€ | Inter Milan | 1ᵉʳ juillet 2019 |
+| 2ᵉ | Fabián Carini | 5 M€ | Juventus | 2 septembre 2002 |
+| 3ᵉ | Răzvan Marin | 4,8 M€ | FC Viitorul | 20 janvier 2017 |
+| 4ᵉ | Victor Ramos Mémé Tchité | 4 M€ | EC Vitória Racing Santander | 1ᵉʳ août 2009 1ᵉʳ août 2010 |
+Départs record :
+| Rang | Joueur | Montant | Destination | Date |
+| 1ᵉʳ | Marouane Fellaini | 21,76 M€ | Everton FC | 2 septembre 2008 |
+| 2ᵉ | Zinho Vanheusden | 16,20 M€ | Inter Milan | 13 juillet 2021 |
+| 3ᵉ | Moussa Djenepo | 15,7 M€ | Southampton FC | 1ᵉʳ juillet 2019 |
+| 4ᵉ | Răzvan Marin | 12,5 M€ | Ajax Amsterdam | 1ᵉʳ juillet 2019 |
+| 5ᵉ | Daniel Van Buyten | 11,5 M€ | Olympique de Marseille | 1ᵉʳ juillet 2001 |
 
 # Standard de Liège
 ## Soutien et image
@@ -631,6 +683,62 @@ Les buts de l'asbl sont :
 Parmi les "Fan Groups" (sic), on peut citer le Kop Rouches '68, Ultras Inferno's '96, Publik Hysterik Kaos '04 et Hell Side '81. Ce dernier groupe s'inspire de groupes anglo-saxons et a une attitude plus violente. On notera également qu'on estime le nombre de supporteurs flamands du Standard au quart de l'assistance habituelle du stade.
 Comme beaucoup de clubs comptant un grand nombre de supporteurs, le Standard de Liège bénéficie également du support de nombreuses personnalités belges, telles que Michel Daerden, Philippe Gilbert, Guy Quaden, Yves Leterme, Jean-Louis Lahaye, Melchior Wathelet, Martin Charlier, Jean-Michel Javaux ou encore Raoul Hedebouw, Jean-Michel Saive, Riton Liebman, Olivier Gourmet, Rik Verbrugghe, Christophe Brandt, Filip Dewulf, David Goffin, Victor Wegnez,...
 Les assistances maximum ont été observées au début des années 1980 (40 000). En moyenne, ce sont les dernières saisons qui ont connu les plus grandes affluences (depuis 2005). À l'inverse, les moins bonnes années (en moyenne) se situent à la fin des années 1980.
+| Saison | Moyenne | Maximum |
+| 1963-1964 | 16 133 | 30 000 |
+| 1964-1965 | 15 233 | 30 000 |
+| 1965-1966 | 16 267 | 28 000 |
+| 1966-1967 | 16 500 | 36 000 |
+| 1967-1968 | 15 100 | 32 000 |
+| 1968-1969 | 20 600 | 35 000 |
+| 1969-1970 | 22 487 | 38 000 |
+| 1970-1971 | 21 267 | 35 000 |
+| 1971-1972 | 19 533 | 40 000 |
+| 1972-1973 | 15 300 | 25 000 |
+| 1973-1974 | 20 333 | 35 000 |
+| 1974-1975 | 18 210 | 35 000 |
+| 1975-1976 | 14 294 | 30 800 |
+| 1976-1977 | 14 059 | 31 000 |
+| 1977-1978 | 18 118 | 40 000 |
+| 1978-1979 | 16 882 | 30 000 |
+| 1979-1980 | 22 236 | 40 000 |
+| 1980-1981 | 17 824 | 40 000 |
+| 1981-1982 | 18 882 | 40 000 |
+| 1982-1983 | 17 914 | 36 000 |
+| Saison | Moyenne | Maximum |
+| 1983-1984 | 14 324 | 27 000 |
+| 1984-1985 | 10 118 | 35 000 |
+| 1985-1986 | 14 235 | 38 000 |
+| 1986-1987 | 8 500 | 32 000 |
+| 1987-1988 | 9 106 | 17 000 |
+| 1988-1989 | 11 353 | 25 000 |
+| 1989-1990 | 12 706 | 25 000 |
+| 1990-1991 | 15 324 | 25 000 |
+| 1991-1992 | 15 429 | 25 000 |
+| 1992-1993 | 13 024 | 26 400 |
+| 1993-1994 | 12 020 | 18 000 |
+| 1994-1995 | 16 206 | 28 000 |
+| 1995-1996 | 11 147 | 18 000 |
+| 1996-1997 | 13 011 | 27 000 |
+| 1997-1998 | 12 517 | 20 000 |
+| 1998-1999 | 13 638 | 25 000 |
+| 1999-2000 | 16 801 | 29 000 |
+| 2000-2001 | 15 974 | 30 000 |
+| 2001-2002 | 12 729 | 23 000 |
+| 2002-2003 | 14 743 | 19 755 |
+| Saison | Moyenne | Maximum |
+| 2003-2004 | 16 888 | 26 000 |
+| 2004-2005 | 16 882 | 27 000 |
+| 2005-2006 | 22 735 | 26 000 |
+| 2006-2007 | 22 846 | 26 600 |
+| 2007-2008 | 25 785 | 29 173 |
+| 2008-2009 | 26 525 | 28 000 |
+| 2009-2010 | 26 213 | 27 398 |
+| 2010-2011 | 25 638 | 27 544 |
+| 2011-2012 | 23 633 | 27 696 |
+| 2012-2013 | 21 949 | 27 500 |
+| 2013-2014 | 26 476 | 27 700 |
+| 2014-2015 | 22 405 | 27 721 |
+| 2015-2016 | 22 493 | 27 750 |
 
 # Standard de Liège
 ## Soutien et image

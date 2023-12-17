@@ -1,0 +1,23 @@
+# Gouvernement Diouf XI
+
+| Titre | Titulaire |
+| Ministre de l'Enseignement supérieur | Sakhir Thiam |
+| Ministre de l'Éducation nationale | Ibrahima Niang |
+| Ministre de l'Equipement | Alassane Dialy Ndiaye |
+| Ministre du Développement rural | Cheikh Abdoul Khadre Cissokho |
+| Ministre du Développement industriel et de l'Artisanat | Famara Ibrahima Sagna |
+| Ministre du Commerce | Seydina Oumar Sy |
+| Ministre de l'Hydraulique | Samba Yéla Diop |
+| Ministre de la Santé publique | Thérèse King |
+| Ministre de la Jeunesse et des Sports | Abdoulaye Makhtar Diop |
+| Ministre de la Fonction publique, de l'Emploi et du Travail | Moussa Ndoye |
+| Ministre du Tourisme | El Hadj Malick Sy |
+| Ministre de la Culture | Moustapha Kâ |
+| Ministre du Développement social | Ndioro Ndiaye |
+| Ministre de l'Urbanisme et de l'Habitat | Abass Bâ |
+| Ministre de la Protection de la Nature | Cheikh Cissoko |
+| Ministre délégué auprès du président de la République chargé des Émigrés | Fatou Ndongo Dieng |
+| Ministre délégué auprès du président de la République chargé des Relations avec les Assemblées | Farba Lô |
+| Ministre délégué auprès du ministre de l'Économie et des Finances | Moussa Touré |
+| Ministre délégué auprès du ministre du Développement rural chargé des Ressources animales | Mbaye Diouf |
+| Ministre délégué auprès du ministre du Développement rural chargé de la Protection de la Nature | Moctar Kébé |

@@ -59,10 +59,10 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 ## Les îles
 
 * les îles Quirimbas (Mozambique)
-* l'île de
+* l'île de Madagascar
 ** îles de Madagascar
 * l'île de La Réunion (région et département français)
-* l'île de
+* l'île de Mayotte (région et département français)
 ** îles de Mayotte
 * les cinq îles Éparses françaises de l'océan Indien : l'atoll Bassas da India, l'île Europa, l'île Juan de Nova, l'île Tromelin et les îles Glorieuses (île Grande Glorieuse et du Lys)
 * les dépendances lointaines de l'île Maurice :
@@ -72,13 +72,13 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 ** Anjouan
 ** Grande Comore
 ** Mohéli
-* les
+* les Seychelles :
 ** les îles Intérieures granitiques et coralliennes
 ** les îles Extérieures coralliennes (en créole seychellois : Zil Elwannyen Sesel)
-* les îles
+* les îles tanzaniennes :
 ** les îles de Zanzibar et de Pemba ;
 ** l'île de Mafia.
-* les îles
+* les îles yémenites :
 ** Abd al Kuri
 ** Socotra
 * les îles omanaises de Kira Mourah
@@ -87,19 +87,19 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 * l'île de Sri Lanka
 * l’archipel des Chagos (dont Diego Garcia (Territoire britannique de l'océan Indien)
 * les îles Andaman et les îles Nicobar (qui forment un territoire de l’Inde)
-* Les îles
+* Les îles indonésiennes
 ** au large de Sumatra : îles Banyak, Simeulue, Nias, îles Mentawaï, Enggano,
 ** au large de Java : île de Deli, Tinjil, Nusa Kambangan, Sempu
-* Les îles
+* Les îles australiennes :
 ** les îles Cocos (territoire de l'Australie) ;
 ** l’île Christmas (territoire de l’Australie) ;
 ** la Tasmanie et l'archipel Furneaux ;
 ** Les îles Heard-et-MacDonald.
-* les autres îles australes des
+* les autres îles australes des Terres australes et antarctiques françaises :
 ** les îles Amsterdam et Saint-Paul ;
 ** l’archipel Crozet ;
 ** les îles Kerguelen (ou « îles de la Désolation ») ;
-* Les
+* Les îles du Prince-Édouard (ou « îles Froides »), une dépendance sud-africaine :
 ** l'île du Prince-Édouard
 ** l'île Marion
 * Liste des îles de la mer Rouge
@@ -181,7 +181,7 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 * XIᵉ siècle : la dynastie Chola dans l’Inde du Sud conquiert Ceylan et lance des expéditions contre le royaume de Sriwijaya dans l’île indonésienne de Sumatra.
 * XIIIᵉ siècle : arrivée de Persans chiraziens aux Comores.
 * 1295 : Marco Polo rentre de Chine par la voie maritime.
-* XIV
+* XIVᵉ siècle :
 ** le Marocain Ibn Battuta, ambassadeur du sultanat de Delhi en Chine, visite Sumatra ;
 ** le Chinois Wang Dayuan effectue plusieurs voyages entre 1328 et 1339 qui le mèneront en Arabie (puis en Égypte et au Maroc) et en Afrique orientale (jusqu'à l'actuelle Tanzanie).
 * 1400 : fondation de Malacca dans la péninsule Malaise par un prince de Sumatra.
@@ -196,7 +196,7 @@ La profondeur de l’océan Indien atteint les 7 187 m dans la fosse de Java (
 * 1772 : découverte des îles Kerguelen par Yves Joseph de Kerguelen de Trémarec.
 * 1820 : découverte du continent antarctique.
 * 1869 : ouverture du canal de Suez.
-* 1883
+* 1883 :
 ** explosion du Krakatoa et tsunami du 27 août 1883.
 ** tsunami du 26 décembre 2004
 * 2014 : recherche d'un Boeing 777 de la Malaysia Airlines sur le vol MH370 disparu depuis le 8 mars, potentiellement situé près de l'Australie.

@@ -62,17 +62,17 @@ Les couleurs des armes de Mayence sont celles de l'évêque de Mayence, de gueul
 ## Histoire
 
 * Appartenances historiques
-** Électorat de Mayence 983-1242
-** Saint-Empire (Ville libre) 1242-1462
-** Électorat de Mayence 1462-1797
-** République cisrhénane (Mont-Tonnerre) 1797-1802
-** République française (Mont-Tonnerre) 1802-1804
-** Empire français (Mont-Tonnerre) 1804-1815
-** Grand-duché de Hesse 1816-1871 Empire allemand 1871–1918 République de Weimar 1918-1933
-** Reich allemand 1933-1945
-** Allemagne occupée 1945-1949
-** Allemagne de l'Ouest 1949-1990
-** Allemagne 1990-présent
+* Électorat de Mayence 983-1242
+* Saint-Empire (Ville libre) 1242-1462
+* Électorat de Mayence 1462-1797
+* République cisrhénane (Mont-Tonnerre) 1797-1802
+* République française (Mont-Tonnerre) 1802-1804
+* Empire français (Mont-Tonnerre) 1804-1815
+* Grand-duché de Hesse 1816-1871 Empire allemand 1871–1918 République de Weimar 1918-1933
+* Reich allemand 1933-1945
+* Allemagne occupée 1945-1949
+* Allemagne de l'Ouest 1949-1990
+* Allemagne 1990-présent
 
 # Mayence
 ## Histoire

@@ -95,6 +95,8 @@ C'est cependant le naturaliste allemand Engelbert Kaempfer qui fournit la premi�
 ### Découvertes et débats botaniques
 
 Dans le système de nomenclature biologique mis au point au milieu du XVIIIᵉ siècle par Carl von Linné, la plante qui produit l'ase fétide reçoit le nom binominal Ferula assa-foetida. La définition de l'espèce repose alors entièrement sur la description qu'en a faite Kaempfer, et les illustrations botaniques des décennies suivantes copient la planche des Plaisirs exotiques. Mais, dans les années 1840, trois nouvelles plantes productrices d'ase fétide sont découvertes et décrites presque simultanément. Ferula foetida (initialement nommée Scorodosma foetidum) est récoltée par Alexandre Lehmann dans les plaines désertiques de la mer d'Aral, puis nommée par Alexander von Bunge qui l'observe également près d'Hérat. Ferula narthex est découverte par Hugh Falconer dans la vallée de l'Astor au Cachemire. Entre Jandaq et Yazd, en Perse, Friedrich Alexander Buhse décrit quant à lui le premier spécimen de ce qui deviendra Ferula alliacea.
+Spécimens d'herbier ayant servi à la typification des trois principales espèces :
+| Holotype de Ferula assa-foetida L., collecté par Kaempfer en Iran, 1691-1692, Natural History Museum. | Syntype de Scorodosma foetidum Bunge, collecté par Lehman en Ouzbékistan, 1841-1842, Muséum national d'histoire naturelle. | Type de Ferula narthex Boiss., collecté par Falconer au Pakistan, 1838, Muséum national d'histoire naturelle. |
 Durant les XIXᵉ et XXᵉ siècles, l'origine botanique de l'ase fétide et ses liens avec le silphium ou autres résines décrites par les auteurs antiques (galbanum, sagapénum, etc.) font couler beaucoup d'encre. Les littératures généraliste ou spécialisée restent encore souvent confuses et contradictoires sur ces sujets. Les bouleversements politiques qu'ont connus récemment les régions productrices d'ase fétide (révolution iranienne, guerres afghanes, dislocation de l'URSS, etc.) ont également freiné la recherche botanique et repoussé les nécessaires révisions floristiques.
 
 # Ase fétide
@@ -205,37 +207,37 @@ Alors que dans les années 1990, les pharmacopées précisaient encore que l'usa
 Principales fonctions de l'ase fétide rapportées dans la littérature :
 | Domaine | Fonction | Principes actifs identifiés | Type d'étude | Origine du produit | Références |
 | Système hormonal | Anti-obésité, antidiabétique, antihyperlipidémique | Acide férulique, ombelliférone, quercétine | in vivo, rats | Résine commerciale | Abu-Zaiton (2010) |
-| Résine commerciale | Azizian et al. (2012) |
-| F. assa-foetida (Bastak, Iran) | Latifi et al. (2019) |
+| Système hormonal | Anti-obésité, antidiabétique, antihyperlipidémique | Acide férulique, ombelliférone, quercétine | in vivo, rats | Résine commerciale | Azizian et al. (2012) |
+| Système hormonal | Anti-obésité, antidiabétique, antihyperlipidémique | Acide férulique, ombelliférone, quercétine | in vivo, rats | F. assa-foetida (Bastak, Iran) | Latifi et al. (2019) |
 | Système gastro-intestinal | Antidiarrhéique | - | in vivo, rats | F. assa-foetida | Jalilzadeh-Amin et al. (2017) |
-| Antispasmodique | - | in vitro, ileon de cobaye | F. assa-foetida (Gonabad, Iran) | Fatehi et al. (2004) |
-| Système cardio-vasculaire | Hypotenseur | - | in vivo, rats |
-| Diurétique | Flavonoïdes | in vivo, rats | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2016) |
+| Système gastro-intestinal | Antispasmodique | - | in vitro, ileon de cobaye | F. assa-foetida (Gonabad, Iran) | Fatehi et al. (2004) |
+| Système cardio-vasculaire | Hypotenseur | - | in vivo, rats | F. assa-foetida (Gonabad, Iran) | Fatehi et al. (2004) |
+| Système cardio-vasculaire | Diurétique | Flavonoïdes | in vivo, rats | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2016) |
 | Système nerveux | Neuroprotecteur | Organosulfurés, acide férulique | in vitro, cellules granulaires de rats | F. assa-foetida (Nishapur, Iran) | Tayeboon et al. (2013) |
-| in vivo, souris | F. assa-foetida (Yazd, Iran) | Moghadam et al. (2014) |
-| Anti-démence, renforceur de mémoire | Acide férulique, ombelliférone | in vivo, rats | Résine commerciale | Adiga et al. (2012) |
-| in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2015) |
-| Anticonvulsivant | Monoterpènes | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2014) |
-| Antidépresseur | Acide férulique, ombelliférone, organosulfurés | in vivo, souris et rats | Résine commerciale | Kumar et al. (2017) |
-| Anxiolytique, sédatif | - | in vivo, souris et rats | Résine commerciale | Alqasoumi (2012) |
+| Système nerveux | Neuroprotecteur | Organosulfurés, acide férulique | in vivo, souris | F. assa-foetida (Yazd, Iran) | Moghadam et al. (2014) |
+| Système nerveux | Anti-démence, renforceur de mémoire | Acide férulique, ombelliférone | in vivo, rats | Résine commerciale | Adiga et al. (2012) |
+| Système nerveux | Anti-démence, renforceur de mémoire | Acide férulique, ombelliférone | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2015) |
+| Système nerveux | Anticonvulsivant | Monoterpènes | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2014) |
+| Système nerveux | Antidépresseur | Acide férulique, ombelliférone, organosulfurés | in vivo, souris et rats | Résine commerciale | Kumar et al. (2017) |
+| Système nerveux | Anxiolytique, sédatif | - | in vivo, souris et rats | Résine commerciale | Alqasoumi (2012) |
 | Cancer | Antitumoral, antimétastasique, chimiopréventif du cancer | Ombelliprénine, farnésiférol C, acide férulique | in vivo, souris | Résine commerciale | Saleem et al. (2003) |
-| in vivo, rats | Résine commerciale | Mallikarjuna et al. (2003) |
-| in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2017) |
+| Cancer | Antitumoral, antimétastasique, chimiopréventif du cancer | Ombelliprénine, farnésiférol C, acide férulique | in vivo, rats | Résine commerciale | Mallikarjuna et al. (2003) |
+| Cancer | Antitumoral, antimétastasique, chimiopréventif du cancer | Ombelliprénine, farnésiférol C, acide férulique | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2017) |
 | Douleur et inflammation | Antinociceptif | Terpénoïdes, acide férulique | in vivo, souris | F. assa-foetida (Yazd, Iran) | Bagheri et al. (2014) |
-| Anti-inflammatoire (dysménorrhée) | Terpénoïdes, ombelliprénine | in vivo, essai randomisé contrôlé | Résine commerciale | Sultana et al. (2017) |
+| Douleur et inflammation | Anti-inflammatoire (dysménorrhée) | Terpénoïdes, ombelliprénine | in vivo, essai randomisé contrôlé | Résine commerciale | Sultana et al. (2017) |
 | Infection | Antimicrobien | Organosulfurés | in vitro, bactéries à Gram positif et négatif | F. assa-foetida (Nishapur, Iran) | Samadi et al. (2016) |
-| in vitro, bactéries pathogènes orales | F. assa-foetida (Yazd, Iran) | Daneshkazemi et al. (2019) |
-| in vivo, essai randomisé contrôlé | Résine commerciale | Hashemi et al. (2019) |
-| Antiviral | Coumarines sesquiterpéniques | in vitro, grippe A (H1N1) | Résine commerciale | Lee et al. (2009) |
-| in vitro, HSV-1 | F. assa-foetida (Kerman, Iran) | Ghannadi et al. (2014) |
-| Antiparasitaire | - | in vitro, Trichomonas vaginalis | Résine commerciale | Ramadan & Al Khadrawy (2003) |
-| Anthelminthique | Tanins | in vivo, souris infectées avec Schistosoma mansoni | Résine commerciale | Ramadan et al. (2004) |
-| in vitro, Pheretima posthuma | Résine commerciale | Gundamaraju (2013) |
-| Antifongique | - | in vitro, Trichoderma harzianum | Résine commerciale | Angelini et al. (2009) |
+| Infection | Antimicrobien | Organosulfurés | in vitro, bactéries pathogènes orales | F. assa-foetida (Yazd, Iran) | Daneshkazemi et al. (2019) |
+| Infection | Antimicrobien | Organosulfurés | in vivo, essai randomisé contrôlé | Résine commerciale | Hashemi et al. (2019) |
+| Infection | Antiviral | Coumarines sesquiterpéniques | in vitro, grippe A (H1N1) | Résine commerciale | Lee et al. (2009) |
+| Infection | Antiviral | Coumarines sesquiterpéniques | in vitro, HSV-1 | F. assa-foetida (Kerman, Iran) | Ghannadi et al. (2014) |
+| Infection | Antiparasitaire | - | in vitro, Trichomonas vaginalis | Résine commerciale | Ramadan & Al Khadrawy (2003) |
+| Infection | Anthelminthique | Tanins | in vivo, souris infectées avec Schistosoma mansoni | Résine commerciale | Ramadan et al. (2004) |
+| Infection | Anthelminthique | Tanins | in vitro, Pheretima posthuma | Résine commerciale | Gundamaraju (2013) |
+| Infection | Antifongique | - | in vitro, Trichoderma harzianum | Résine commerciale | Angelini et al. (2009) |
 | Divers | Antisénescent | Acide férulique | in vitro, fibroblastes humains | F. assa-foetida (Yazd, Iran) | Moghadam et al. (2017) |
-| Contraceptif | Organosulfurés | in vivo, rats | Résine commerciale | Keshri et al. (1999) |
-| Insecticide | Organosulfurés | in vivo, larves de moustiques | Huile essentielle | Muturi et al. (2018) |
-| in vivo, divers insectes | F. assa-foetida (Kachmar, Iran) | Pavela et al. (2020) |
+| Divers | Contraceptif | Organosulfurés | in vivo, rats | Résine commerciale | Keshri et al. (1999) |
+| Divers | Insecticide | Organosulfurés | in vivo, larves de moustiques | Huile essentielle | Muturi et al. (2018) |
+| Divers | Insecticide | Organosulfurés | in vivo, divers insectes | F. assa-foetida (Kachmar, Iran) | Pavela et al. (2020) |
 
 # Ase fétide
 ## Effets et toxicité

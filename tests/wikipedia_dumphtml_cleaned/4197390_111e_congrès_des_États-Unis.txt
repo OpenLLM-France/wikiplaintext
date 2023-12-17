@@ -18,11 +18,11 @@ Deux sessions ont eu lieu :
 
 * La composition Sénat du 111ᵉ Congrès des États-Unis
 * Parti républicain: 41 membres.Parti démocrate: 57 membres.Indépendants: 2 membres.
-| Parti | Membres |
-| Parti démocrate | 57 |
-| Parti républicain | 41 |
-| Indépendants (tous inscrits au groupe démocrate) | 2 |
-| Total | 100 |
+| Parti | Parti | Membres |
+| | Parti démocrate | 57 |
+| | Parti républicain | 41 |
+| | Indépendants (tous inscrits au groupe démocrate) | 2 |
+| Total | Total | 100 |
 
 # 111e congrès des États-Unis
 ## Composition
@@ -30,7 +30,7 @@ Deux sessions ont eu lieu :
 
 * La composition Chambre des représentants du 111ᵉ Congrès des États-Unis
 * Parti démocrate: 257 membres.Parti républicain: 178 membres.
-| Parti | Membres | Pourcentage |
-| Parti démocrate | 257 | 59.08 % |
-| Parti républicain | 178 | 40.92 % |
-| Total | 435 | |
+| Parti | Parti | Membres | Pourcentage |
+| | Parti démocrate | 257 | 59.08 % |
+| | Parti républicain | 178 | 40.92 % |
+| Total | Total | 435 | |

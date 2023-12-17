@@ -92,7 +92,7 @@ La construction est restée très modérée sur la rive occidentale (en zone ino
 * Quartier Le Gasquinoy (à l'ouest de la ville) : route de Capestang. C'est dans ce quartier que la nouvelle prison de Béziers a été inaugurée, fin novembre 2009. D'une capacité de 810 places, elle peut accueillir plus de 1 000 détenus et pourrait devenir l'une des plus importantes prisons de France. En 2006, lors de la construction du centre pénitentiaire du Gasquinoy, des fouilles archéologiques ont permis de découvrir deux fermes gallo-romaines, datées des Iᵉʳ – IIᵉ siècles de notre ère, comprenant des installations vinicoles.
 * Quartier Montflourès : construction en 2007 de la salle de spectacle Zinga Zanga (2 300 places, troisième lieu régional en capacité d'accueil après les salles Arena et Zénith Sud de Montpellier). Construction d'un nouveau groupe scolaire Nelson-Mandela sur le site de la plaine de jeux de Montflourès, impasse Frederik-de-Klerk. La construction a débuté fin 2013 pour une livraison pour la rentrée scolaire de 2014.
 * Site universitaire Du Guesclin : créé dès 1996 avec la construction de l'antenne universitaire de l'Université Paul-Valéry, puis du CIRDOC en 1998, ce site met à l'honneur un quartier déjà connu pour son agréable cadre de vie et ses riches infrastructures culturelles (Le Quartier Latin biterrois). Le point d'orgue est l'importante médiathèque inaugurée en 2009 : la médiathèque d'agglomération André-Malraux. À partir de la rentrée 2011, l'IUT de Béziers est transféré sur le site pour la création d'un campus d'environ 1 500 étudiants. En décembre 2010, la médiathèque André-Malraux gagne le premier grand prix national des bibliothèques « Livres Hebdo ».
-* Enfin, dans le cadre du plan de rénovation urbaine, il est à noter
+* Enfin, dans le cadre du plan de rénovation urbaine, il est à noter :
 ** La restructuration de l’îlot Saint-Vincent-de-Paul (construction de 129 logements sociaux, d’une école maternelle et création d’un parc de stationnement public)
 ** La restructuration du quartier prioritaire de la Devèze (démolition de 820 logements dont les barres « Capendeguy » dynamitées en janvier 2008, construction de 840 logements sociaux et réhabilitation de 631 logements, équipements publics, commerces…).
 * La rénovation du quartier des Mûriers Blancs, l'artiste Guillaume Bottazzi réalise une peinture contemporaine de 3 000 m² sur deux immeubles.
@@ -294,7 +294,7 @@ En 2009, un centre pénitentiaire de 810 places est construit. En 2016, la Cité
 * Maaloula (Syrie) depuis 2014
 * Stavropol (Russie) depuis 1982
 * Stockport (Royaume-Uni) depuis 1972
-* Tchortkiv  (Ukraine) depuis 2022
+* Tchortkiv (Ukraine) depuis 2022
 
 # Béziers
 ## Population et société
@@ -364,11 +364,11 @@ Début mai 2020, le rachat de l'ASBH a commencé, après que le porte-parole Chr
 
 En rugby à XV Béziers a également eu comme clubs :
 Occitan Rugby Biterrois depuis 2012
-* Béziers Riquet
+* Béziers Riquet :
 ** 2012 : Champion du Languedoc Promotion d'Honneur en
 ** 2010 : Champion de France de 2ᵉ série
 ** 2009 : Champion de France de 3ᵉ série
-* Fraîcheur Béziers
+* Fraîcheur Béziers :
 ** 1996 : Champion de France Promotion d’Honneur en
 ** 1995 : Champion de France de 1ʳᵉ série
 ** 1993 : Champion de France de 3ᵉ série
@@ -558,10 +558,10 @@ De nombreuses personnalités ont eu un attachement particulier à la ville de B�
 #### Blason
 
 * Béziers
-** Description : D'argent à trois fasces de gueules et un chef d'azur chargé de trois fleurs de lys d'or
-** Le chef aux trois fleurs de lys indique que Béziers fut l'une des bonnes villes du Royaume de France.
-** Les bandes blanches et rouges découlent du blason de la Maison Trencavel, une des familles vicomtales les plus puissantes du midi qui dirigeait Béziers jusqu'en 1247.
-** Le blason de Béziers est davantage présenté sous la forme d'un écu français moderne, surmonté d'une couronne murale indiquant que la ville fut une cité fortifiée.
+* Description : D'argent à trois fasces de gueules et un chef d'azur chargé de trois fleurs de lys d'or
+* Le chef aux trois fleurs de lys indique que Béziers fut l'une des bonnes villes du Royaume de France.
+* Les bandes blanches et rouges découlent du blason de la Maison Trencavel, une des familles vicomtales les plus puissantes du midi qui dirigeait Béziers jusqu'en 1247.
+* Le blason de Béziers est davantage présenté sous la forme d'un écu français moderne, surmonté d'une couronne murale indiquant que la ville fut une cité fortifiée.
 
 # Béziers
 ## Culture locale et patrimoine
@@ -569,7 +569,7 @@ De nombreuses personnalités ont eu un attachement particulier à la ville de B�
 #### Drapeau
 
 * Béziers
-** Description : Le drapeau de Béziers est un bicolore bleu et rouge chargé du blason de la ville. Il est utilisé de manière officielle par la mairie et flotte notamment devant les Arènes et le Palais des Congrès.
+* Description : Le drapeau de Béziers est un bicolore bleu et rouge chargé du blason de la ville. Il est utilisé de manière officielle par la mairie et flotte notamment devant les Arènes et le Palais des Congrès.
 
 # Béziers
 ## Culture locale et patrimoine
@@ -577,13 +577,13 @@ De nombreuses personnalités ont eu un attachement particulier à la ville de B�
 #### Logotype
 
 * Béziers (1989-1995)
-** Description : Un B représenté de manière artistique la première lettre de Béziers.
+* Description : Un B représenté de manière artistique la première lettre de Béziers.
 * Béziers (1996-2012)
-** Description : Présenté sous forme de sceau, il s'agit d'un logotype utilisé par l'administration biterroise en substitut du blason. Représentant un chevalier sur un cheval tenant une lance surmontée d'un drapeau aux couleurs de la ville, il reprend les grandes lignes du sceau de Raymond-Roger Trencavel, l'un des derniers vicomtes de Béziers. La devise de la ville, l'esprit de conquête, est présente dans la partie inférieure du logo.
+* Description : Présenté sous forme de sceau, il s'agit d'un logotype utilisé par l'administration biterroise en substitut du blason. Représentant un chevalier sur un cheval tenant une lance surmontée d'un drapeau aux couleurs de la ville, il reprend les grandes lignes du sceau de Raymond-Roger Trencavel, l'un des derniers vicomtes de Béziers. La devise de la ville, l'esprit de conquête, est présente dans la partie inférieure du logo.
 * Béziers (2012-2014)
-** Description : En parallèle du logo sous forme d'un sceau, Béziers s'est dotée à partir de 2012 d'un nouveau logotype. Il s'agit d'une reprise de l'ancien logo, plus stylisé et ayant perdu sa forme en sceau. Il ne possède plus que deux couleurs, celles de la ville, le bleu et le rouge, le nom de la ville a été agrandi et placé au-dessus de la devise. Ce logo n'a plus cours depuis avril 2014. Il est remplacé par le blason.
+* Description : En parallèle du logo sous forme d'un sceau, Béziers s'est dotée à partir de 2012 d'un nouveau logotype. Il s'agit d'une reprise de l'ancien logo, plus stylisé et ayant perdu sa forme en sceau. Il ne possède plus que deux couleurs, celles de la ville, le bleu et le rouge, le nom de la ville a été agrandi et placé au-dessus de la devise. Ce logo n'a plus cours depuis avril 2014. Il est remplacé par le blason.
 * Béziers (depuis le 9 avril 2014)
-** Description : Blason historique de Béziers aux couleurs bleu et rouge.
+* Description : Blason historique de Béziers aux couleurs bleu et rouge.
 
 # Béziers
 ## Culture locale et patrimoine

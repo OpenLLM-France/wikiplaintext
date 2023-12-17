@@ -27,8 +27,8 @@ Deux causes de plagiocéphalie doivent principalement être distinguées :
 Il existe différentes façons d’objectiver la sévérité d’une asymétrie et de suivre l’évolution mois après mois :
 * Pour les parents, prendre des photos régulièrement (minimum une fois par mois) dans le but de comparer la forme.
 * La plagiocéphalométrie (PCM) est un procédé par bande thermoplastique permettant de mouler la circonférence de la tête du nourrisson en quelques minutes.
-* Les mesures anthropométriques : consiste à mesurer la différence entre les 2 diagonales : normal < 3 mm  -  3 mm < légère à modérée < 12 mm  -  modérée à sévère > 12 mm
-* L’index céphalique :  Largeur/Profondeur × 100 : brachycéphalie > 93 % et dolichocéphalie < 75 %
+* Les mesures anthropométriques : consiste à mesurer la différence entre les 2 diagonales : normal < 3 mm - 3 mm < légère à modérée < 12 mm - modérée à sévère > 12 mm
+* L’index céphalique : Largeur/Profondeur × 100 : brachycéphalie > 93 % et dolichocéphalie < 75 %
 
 # Plagiocéphalie
 ## Traitement

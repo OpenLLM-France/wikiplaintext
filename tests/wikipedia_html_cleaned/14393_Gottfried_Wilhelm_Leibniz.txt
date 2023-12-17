@@ -448,7 +448,7 @@ Il est à l’origine de plusieurs termes :
 * du terme de « différentielle » (que Newton appelle « fluxion »).
 Il crée également plusieurs nouvelles notations :
 * y=f(x) introduit en 1692 en même temps que le terme « fonction » ;
-* ∂x  pour la différentielle ;
+* ∂x pour la différentielle ;
 * ∫t=x0xf(t).∂t pour l'intégrale.
 On lui doit aussi une définition logique de l'égalité.
 Il fait également évoluer la notation en arithmétique élémentaire :

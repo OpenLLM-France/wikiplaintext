@@ -39,6 +39,14 @@ La commune se trouve à la confluence de deux rivières : la Clérette et Caill
 
 Le climat qui caractérise la commune est qualifié, en 2010, de « climat océanique altéré », selon la typologie des climats de la France qui compte alors huit grands types de climats en métropole. En 2020, la commune ressort du même type de climat dans la classification établie par Météo-France, qui ne compte désormais, en première approche, que cinq grands types de climats en métropole. Il s’agit d’une zone de transition entre le climat océanique, le climat de montagne et le climat semi-continental. Les écarts de température entre hiver et été augmentent avec l'éloignement de la mer. La pluviométrie est plus faible qu'en bord de mer, sauf aux abords des reliefs.
 Les paramètres climatiques qui ont permis d’établir la typologie de 2010 comportent six variables pour les températures et huit pour les précipitations, dont les valeurs correspondent à la normale 1971-2000. Les sept principales variables caractérisant la commune sont présentées dans l'encadré ci-après.
+* Paramètres climatiques communaux sur la période 1971-2000
+* Moyenne annuelle de température : 10,5 °C
+* Nombre de jours avec une température inférieure à −5 °C : 3,1 j
+* Nombre de jours avec une température supérieure à 30 °C : 1,8 j
+* Amplitude thermique annuelle : 12,4 °C
+* Cumuls annuels de précipitation : 847 mm
+* Nombre de jours de précipitation en janvier : 13 j
+* Nombre de jours de précipitation en juillet : 8,5 j
 Avec le changement climatique, ces variables ont évolué. Une étude réalisée en 2014 par la Direction générale de l'Énergie et du Climat complétée par des études régionales prévoit en effet que la température moyenne devrait croître et la pluviométrie moyenne baisser, avec toutefois de fortes variations régionales. Ces changements peuvent être constatés sur la station météorologique de Météo-France la plus proche, « Rouen - Jardin », sur la commune de Rouen, mise en service en 1979 et qui se trouve à 12 km à vol d'oiseau, où la température moyenne annuelle est de 12,2 °C et la hauteur de précipitations de 805,2 mm pour la période 1981-2010. Sur la station météorologique historique la plus proche, « Rouen-Boos », sur la commune de Boos, mise en service en 1968 et à 20 km, la température moyenne annuelle évolue de 10,1 °C pour la période 1971-2000 à 10,5 °C pour 1981-2010, puis à 11 °C pour 1991-2020.
 
 # Montville
@@ -146,3 +154,11 @@ Le journal de la paroisse Saint-Jean-Bosco de Clères – Montville fait éditer
 * Louis Amand Demarest (1817-1883), député, mort à Montville.
 * L'abbé Joseph Kerebel (1912-1945), vicaire de Montville, mort pour la France en déportation.
 * Amaury Vassili : né à Rouen en juin 1989, ce jeune ténor et chanteur lyrique a passé sa jeunesse à Montville entre neuf et seize ans.
+
+# Montville
+## Culture locale et patrimoine
+### Héraldique
+
+* L’écu héraldique de forme moderne est dû à l’initiative du Souvenir français et de la Municipalité. Les Armoiries sont approuvées par le Conseil municipal lors de sa séance du 8 juin 1921.
+* Les armes de la commune de Montville se blasonnent ainsi : coupé : au 1) d’azur à la roue dentée d’argent accostée de deux navettes de tisserand du même posées en pal, au 2) de gueules à la charrue d’argent ; à la divise ondée d’argent brochant sur la partition.
+* Les deux épées d'argent croisées reflètent notre Garde Nationale. La devise « Vive Labeur » est inscrite sur une banderole supportée par les lames des épées. Ces deux mots signifient « Vive le travail ».

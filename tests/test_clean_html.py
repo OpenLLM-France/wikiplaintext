@@ -49,18 +49,22 @@ if __name__ == "__main__":
 
             is_redirection = "redirect" in input_dir
             format_from_dump = "dump" in input_dir
+            from_wikisource = "wikisource" in input_dir
 
             if args.IDs and not max([bool(re.match(prefix, file_in)) for prefix in args.IDs]):
                 continue
 
-            if args.wikisource and not "wikisource" in input_dir:
+            if args.wikisource and not from_wikisource:
                 continue
-            if args.wikipedia and "wikisource" in input_dir:
+            if args.wikipedia and from_wikisource:
                 continue
             if args.dump and not format_from_dump:
                 continue
             if args.api and format_from_dump:
                 continue
+
+            hashtag_header = True
+            repeat_headers = not from_wikisource
 
             # if not is_redirection:
             #     continue
@@ -87,6 +91,8 @@ if __name__ == "__main__":
                     language="fr",
                     # verbose=args.verbose,
                     add_title=pagename,
+                    hashtag_header=hashtag_header,
+                    repeat_headers=repeat_headers,
                 )
 
             if is_redirection:

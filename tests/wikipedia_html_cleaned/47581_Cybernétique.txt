@@ -60,7 +60,7 @@ Dès le milieu des années 1950, en France, le terme « cybernétique » est r
 
 La cybernétique désigne d'abord un moyen de connaissance, qui étudie l'information au sens de la physique, dans la définition qu'en donne Norbert Wiener : « De même que l'entropie est une mesure de désorganisation, l'information fournie par une série de messages est une mesure d'organisation. » Dans cette acception première, la cybernétique est une approche phénoménologique qui étudie l'information, sa structure et sa fonction dans les interactions systémiques, ce qui peut être traduit par la science générale de la régulation et des communications dans les systèmes naturels et artificiels.
 La cybernétique décrite par Norbert Wiener est un moyen d'expliquer et de comprendre tous les mécanismes rencontrés avec quelques briques logiques simples :
-* La
+* La boîte noire : un élément relié à d'autres, dont on ne se soucie pas de savoir ce qu'il contient (ou son fonctionnement d'après sa structure interne, inaccessible de façon momentanée ou définitive), mais dont on déduit la fonction apparente à partir de l'étude de ses entrées/sorties.
 ** L'émetteur, qui agit sur l'environnement, donc envoie de l'information, sorte de porte de sortie.
 ** Le récepteur, qui en intègre depuis l'environnement, donc capte les informations, comme une porte d'entrée de la boîte noire.
 * Le flux d'information : ce qui est transmis, donc envoyé et effectivement reçu, autrement dit l'information efficace.
@@ -126,11 +126,11 @@ Il y a parfois aussi un sous-entendu de contrôle de la personne humaine au sens
 ### Postérité
 
 La multiplicité, la diversité et l'importance des développements de la connaissance consécutifs à la cybernétique sont inestimables aujourd'hui, établissant une des plus grandes avancées de la pensée scientifique au XXᵉ siècle, dont la trace, après le scandale des années 1950, se trouve désormais liée aux termes de « révolution cybernétique » et à la fortune universelle du préfixe « cyber ». Ne sont cités ici que les développements directement consécutifs au mouvement cybernétique :
-* sciences cognitives
+* sciences cognitives : le premier modèle de neurone formel de McCulloch et Pitts a été réalisé dans le cadre des conférences Macy. Les réseaux de neurones formels jouent un rôle fondamental tant en intelligence artificielle qu'en neurosciences théoriques :
 ** intelligence artificielle,
 ** neurobiologie ;
 * Internet ;
-* systémique
+* systémique :
 ** sociologie : la systémique sociale de Jean-Claude Lugan ;
 * constructivisme radical ;
 * sciences humaines : sciences de l'information et de la communication (école de Palo Alto), psychanalyse (notamment Jacques Lacan), management, économie. Il existe des méthodes d'application aux systèmes sociaux, qui se sont surtout développées dans les pays anglo-saxons. Parmi les théoriciens, on peut citer Karl E. Weick ou Peter Checkland ;

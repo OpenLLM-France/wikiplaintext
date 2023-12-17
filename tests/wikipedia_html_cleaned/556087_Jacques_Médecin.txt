@@ -424,21 +424,21 @@ En mars 2004, sous la mandature de Jacques Peyrat, le conseil municipal de Nice 
 ### Élections législatives
 
 | Année | Circonscription | Premier tour | Premier tour | Premier tour | Premier tour | Second tour | Second tour | Second tour | Second tour | Note |
-| Voix | % | Rang | Issue | Voix | % | Rang | Issue |
+| Année | Circonscription | Voix | % | Rang | Issue | Voix | % | Rang | Issue | Note |
 | 1962 | 2ᵉ des Alpes-Maritimes | 9 691 | 24,8 | 2ᵉ | Ballottage | | | | | Retrait |
 | 1967 | 2ᵉ des Alpes-Maritimes | 23 264 | 43,9 | 1ᵉʳ | Ballottage | 26 393 | 49,5 | 1ᵉʳ | Élu | |
 | 1968 | 2ᵉ des Alpes-Maritimes | 19 554 | 38,2 | 1ᵉʳ | Ballottage | 21 759 | 42,1 | 1ᵉʳ | Élu | |
 | 1973 | 2ᵉ des Alpes-Maritimes | 20 378 | 34,9 | 1ᵉʳ | Ballottage | 33 406 | 62,1 | 1ᵉʳ | Élu | |
 | 1978 | 2ᵉ des Alpes-Maritimes | 27 462 | 39,5 | 1ᵉʳ | Ballottage | 41 077 | 57,4 | 1ᵉʳ | Élu | |
 | 1981 | 2ᵉ des Alpes-Maritimes | 31 067 | 52,1 | 1ᵉʳ | Élu | | | | | |
-| 1986 | Alpes-Maritimes | 213 647 | 44,0 | 1ᵉʳ | Élu | Scrutin de liste |
+| 1986 | Alpes-Maritimes | 213 647 | 44,0 | 1ᵉʳ | Élu | | | | | Scrutin de liste |
 
 # Jacques Médecin
 ## Synthèse des résultats électoraux
 ### Élections cantonales
 
 | Année | Circonscription | Premier tour | Premier tour | Premier tour | Premier tour | Second tour | Second tour | Second tour | Second tour |
-| Voix | % | Rang | Issue | Voix | % | Rang | Issue |
+| Année | Circonscription | Voix | % | Rang | Issue | Voix | % | Rang | Issue |
 | 1961 | Canton de Nice-4 | | | | | | | | |
 | 1967 | Canton de Nice-4 | | | | | | | | |
 | 1973 | Canton de Nice-5 | | 62,4 | 1ᵉʳ | Élu | | | | |
@@ -450,7 +450,7 @@ En mars 2004, sous la mandature de Jacques Peyrat, le conseil municipal de Nice 
 ### Élections municipales
 
 | Année | Circonscription | Premier tour | Premier tour | Premier tour | Premier tour | Second tour | Second tour | Second tour | Second tour | Sièges obtenus |
-| Voix | % | Rang | Issue | Voix | % | Rang | Issue |
+| Année | Circonscription | Voix | % | Rang | Issue | Voix | % | Rang | Issue | Sièges obtenus |
 | 1966 | Nice | 44 718 | 49,62 | 1ᵉʳ | Ballottage | 54 509 | 63,93 | 1ᵉʳ | Élu | 1  /  1 |
 | 1971 | Nice | 56 491 | 50,14 | 1ᵉʳ | Élu | | | | | 37  /  37 |
 | 1977 | Nice (trois secteurs) | 63 360 | 45,37 | 1ᵉʳ | Ballottage | 72 888 | 50,33 | 1ᵉʳ | Élu | 49  /  49 |

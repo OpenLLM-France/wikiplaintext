@@ -123,6 +123,10 @@ Relevé météorologique de Bogota - altitude : 2547 m - coordonnées de la sta
 | Température maximale moyenne (°C) | 19,6 | 19,7 | 19,7 | 19,3 | 19 | 18,3 | 18,1 | 18,3 | 18,7 | 18,8 | 19,1 | 19,2 | 18,98 |
 | Précipitations (mm) | 33 | 43 | 66 | 111 | 94 | 57 | 41 | 49 | 73 | 115 | 88 | 54 | 824,04 |
 | Nombre de jours avec précipitations | 8 | 11 | 14 | 18 | 20 | 19 | 17 | 16 | 17 | 20 | 18 | 12 | 190 |
+Diagramme climatique :
+| J | F | M | A | M | J | J | A | S | O | N | D |
+| 19,65,433 | 19,76,143 | 19,77,466 | 19,38,2111 | 198,494 | 18,3857 | 18,17,541 | 18,3749 | 18,76,973 | 18,87,6115 | 19,17,788 | 19,26,154 |
+| Moyennes : • Temp. maxi et mini °C • Précipitation mm ||||||||||||
 
 # Bogota
 ## Environnement

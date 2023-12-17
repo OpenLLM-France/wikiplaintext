@@ -59,7 +59,7 @@ L'existence d'une culture wallonne est soutenue par certains auteurs dont Xavier
 ## Langues, peuples, cultures
 ### Communautés
 
-* Communautés de Belgique
+* Communautés de Belgique, Question communautaire en Belgique
 ** Communauté française de Belgique
 ** Communauté flamande
 ** Communauté germanophone de Belgique (76 645 en 2016)
@@ -69,14 +69,14 @@ L'existence d'une culture wallonne est soutenue par certains auteurs dont Xavier
 ### Religions
 
 * .Religion en Belgique, Religion en Belgique (rubriques)
-* Christianisme en Belgique (rubriques)
-** Catholicisme
+* Christianisme en Belgique (rubriques) (40-70 %)
+** Catholicisme (43 % officiellement), Conférence épiscopale de Belgique, Catholicisme en Belgique
 *** 57 % de baptisés en 2006, mais peut-être 3-4 % de catholiques actifs
 *** Basilique Notre-Dame de Montaigu
 *** Église catholique syriaque, Père Samuel
-** Orthodoxie
+** Orthodoxie (40 000-70 000)
 *** Métropole orthodoxe grecque de Belgique, Archevêché des églises orthodoxes russes en Europe occidentale, Éparchie d'Europe occidentale
-** Protestantisme
+** Protestantisme (100 000-250 000,2-5 %), Conseil administratif du Culte protestant et évangélique, Confessio Belgica (1567)
 *** Église protestante unie de Belgique (50 000)
 *** Église protestante de Bruxelles (Chapelle royale), Église chrétienne protestante française-allemande de Bruxelles, Protestantse Kerk Brussel (en)
 *** Union des baptistes en Belgique
@@ -84,16 +84,16 @@ L'existence d'une culture wallonne est soutenue par certains auteurs dont Xavier
 ** Antoinisme (10 000-20 000)
 * Spiritualités minoritaires
 ** Islam en Belgique (350 000-(420 000 ou (781 887, 7-12 %), Exécutif des musulmans de Belgique. Depuis la fin des années 1990, un grand nombre de citoyens musulmans ont fait de la reconnaissance de l’islam et de la lutte contre les discriminations religieuses dans le processus d’institutionnalisation, un enjeu important de la reconnaissance de leur identité et, plus généralement, de l’identité musulmane d’une partie de la population belge. Un certain nombre d’affaires, comme celles concernant le port du voile islamique, ont révélé la crispation de la société belge à l’égard des manifestations de la religion musulmane dans l’espace public.
-** Judaïsme en Belgique
+** Judaïsme en Belgique (12 000-40 000), Consistoire central israélite de Belgique
 *** Histoire des Juifs en Belgique, Shoah en Belgique, Antisémitisme au xxie siècle en Belgique
 *** Sacrement du Miracle (1370), History of the Jews in Antwerp (en)
 ** hindouisme en Belgique (en) ( 6 500)
 ** Jaïnisme en Belgique (en) (2 000-7 000), Jaïnisme
-** bouddhisme en Belgique
+** bouddhisme en Belgique (10 000-30 000), union bouddhique belge, Yeunten Ling
 *** Ogyen Kunzang Chöling
 ** Sikhism in Belgium (en)
 ** Foi Baha'ie en Belgique (en)
-* Irreligion in Belgium
+* Irreligion in Belgium (en) (28-48 %), Laïcité organisée, Conseil central laïque, Libre-pensée
 ** athéisme (17 %)
 ** Agnosticisme (10 %)
 * Freedom of religion in Belgium (en)
@@ -115,7 +115,7 @@ L'existence d'une culture wallonne est soutenue par certains auteurs dont Xavier
 * Folkloristes belges
 * Légendes belges
 ** Bokkenrijders, Bayard (cheval), Manneken-Pis, Till l'Espiègle
-* Folklore belge
+* Folklore belge,
 ** Folklore ardennais (rubriques)
 ** Folklore bruxellois (rubriques)
 ** Folklore wallon (rubriques)
@@ -211,7 +211,7 @@ L'existence d'une culture wallonne est soutenue par certains auteurs dont Xavier
 * Nationalité belge
 * Minimum legal ages in Belgium (en)
 * Criminalité en Belgique (rubriques), Crime in Belgium (en)
-* Crime organisé :
+* Crime organisé : 'Ndrangheta, Mafia albanaise, Mafia turque, Hells Angels, Bande Scarface, Sun Yee On…
 ** Dossier K., Bullhead
 * Violence contre les femmes en Belgique
 * Prostitution en Belgique
@@ -280,7 +280,7 @@ Son fameux chocolat : les « ballotins de pralines » confectionnés par Corn
 ### Boisson(s)
 
 * Boissons en Belgique
-* Marques d'eau minérale en Belgique
+* Marques d'eau minérale en Belgique :
 ** Spa (eau minérale), Liste des sources de Spa
 ** Bru (eau minérale), Chaudfontaine (eau), Meudon (eau minérale), Val d'Aisne (eau minérale), Valvert (eau minérale)
 * Viticulture en Belgique
@@ -558,7 +558,7 @@ Les savoir-faire liés à l’artisanat traditionnel relèvent (pour partie) du
 * Artistes contemporains belges
 * Prix artistiques en Belgique
 * Art brut en Belgique
-* Musées d'art en Belgique
+* Musées d'art en Belgique, Liste de musées d'art en Belgique
 ** Palais des beaux-arts de Bruxelles
 * Art urbain, Art urbain (rubriques)
 * Culture en Belgique par ville (rubriques)
@@ -585,7 +585,7 @@ Les savoir-faire liés à l’artisanat traditionnel relèvent (pour partie) du
 * Graffiti, Graffiti en Belgique
 * Peinture murale, Peintures murales en Belgique
 * Mouvements dans la peinture néerlandaise
-* Primitifs flamands
+* Primitifs flamands, Liste de peintres primitifs flamands (en)
 ** Hubert van Eyck, Jan van Eyck , Rogier van der Weyden, Hans Memling, Hieronymus Bosch, Quentin Matsys, Frères de Limbourg, Melchior Broederlam, Jean Malouel, Robert Campin, Juan de Flandes, Joachim Patinir, Jean Hey, Geertgen tot Sint Jans
 * Peinture flamande, École d'Anvers, Pieter Brueghel l'Ancien
 * École hollandaise, École de DelftÉcole de Delft (peinture)
@@ -714,7 +714,7 @@ Les savoir-faire liés à l’artisanat traditionnel relèvent (pour partie) du
 ### Théâtre
 #### Quelques dramaturges contemporains
 
-* Dramaturges belges
+* Dramaturges belges, Metteurs en scène belges
 ** Anne-Cécile Vandalem (1979-)
 
 # Culture de la Belgique
@@ -767,7 +767,7 @@ La cathédrale de Mons propose en 1501 un Mystère de la Passion avec 350 rôles
 * Animation par pays, Cartoon
 * Réalisateurs belges, Scénaristes belges, Monteurs belges
 * Acteurs belges, Actrices belges
-* Films belges
+* Films belges, Liste de films belges
 ** Films documentaires belges
 ** Films d'animation belges
 * Salles de cinéma en Belgique

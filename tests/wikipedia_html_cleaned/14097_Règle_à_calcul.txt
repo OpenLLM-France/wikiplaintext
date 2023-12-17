@@ -101,9 +101,9 @@ Certaines règles à calcul (Graphoplex par exemple) fournissent en outre des é
 * e0,01x : LL1.
 Cette triple échelle permet de manipuler des nombres variants de 1,01 à 5×10⁴. Elle permet de calculer rapidement des racines et des puissances de nombres.
 Exemples: Soit à calculer 1,2⁵ et ⁵√1,2
-* On place le curseur sur le 1,2 figurant dans la ligne LL2. On aligne le « 1 » de la réglette avec le curseur, on déplace le curseur sur le « 5 » de la réglette et on lit le résultat sur la ligne LL2.
+* On place le curseur sur le 1,2 figurant dans la ligne LL2. On aligne le « 1 » de la réglette avec le curseur, on déplace le curseur sur le « 5 » de la réglette et on lit le résultat sur la ligne LL2. 1,2⁵≈2,49.
 *> Le curseur permet de lire 10.ln(1,2), on l'a multiplié par 5, puis on a lu exp[0,1.(5×10.ln(1,2))].
-* On place le curseur sur le 1,2 figurant dans la ligne LL2. On aligne le « 5 » de la réglette avec le curseur, on ne peut pas déplacer le curseur sur le « 1 » de la réglette, on le déplace sur le 10 de la réglette et on change d'échelle, et on lit le résultat sur la ligne LL1.
+* On place le curseur sur le 1,2 figurant dans la ligne LL2. On aligne le « 5 » de la réglette avec le curseur, on ne peut pas déplacer le curseur sur le « 1 » de la réglette, on le déplace sur le 10 de la réglette et on change d'échelle, et on lit le résultat sur la ligne LL1. ⁵√1,2≈1,0371.
 *> Le curseur permet de lire 10.ln(1,2), on l'a divisé par 5, puis multiplié par 10 puis on a lu exp[0,01.(¹⁄₅×10×10.ln(1,2))].
 Il existe des règles à calcul (Aristo super log, par exemple) qui proposent des échelles supplémentaires :
 * e0,001x : LL0
@@ -145,6 +145,13 @@ Anciennement, les règles à calcul sont fabriquées en bois d’ébénisterie 
 L'écossais John Napier invente en 1614 les logarithmes, bases mathématiques de certaines fonctions des règles à calcul.
 Edmund Gunter (1581-1626) enseignait alors l’astronomie au collège de Gresham. On lui doit l’invention de plusieurs instruments géométriques, tels que le secteur à l’aide duquel on trace les lignes parfaites des cadrans solaires. Il invente l’échelle dite « de Gunter » ou règle logarithmique en 1620, qui simplifie les opérations de calcul : sur cette règle, il suffisait d'ajouter ou retirer un écart à l'aide d'un compas pour multiplier ou diviser un nombre par un facteur.
 L'idée de remplacer le compas par une seconde règle coulissante est souvent attribuée à Edmond Wingate, qui dès 1627, popularise la règle de proportion de Gunter. Mais selon Florian Cajori, il n'y a en fait aucune description de règle coulissante dans les écrits de Wingate. L’Anglais William Oughtred présente en 1632, dans son The Circles of Proportion and the Horizontal Instrument, une règle à calcul circulaire, en transposant l'idée sous la forme de deux échelles logarithmiques dessinées sur deux cercles concentriques. Dans la dédicace de l'ouvrage, écrite par son élève Forster, il est fait mention de deux règles de Gunter appliquées l'une contre l'autre pour se passer du compas.
+Cercles de calcul :
+* Cercle à calcul pour calcul de temps de pose pour tirage photo
+* Cercle à calcul pour calcul de temps de pose pour tirage photo
+* Cercle à calcul sur une montre Breitling Navitimer
+* Cercle à calcul sur une montre Breitling Navitimer
+* Cercle à calcul utilisé par les ingénieurs allemands (musée de White Sands)
+* Cercle à calcul utilisé par les ingénieurs allemands (musée de White Sands)
 M. Milburne, vers 1670, trace les premières spirales logarithmiques. Une version moderne et aboutie est réalisée et commercialisée en France par Léon Appoullot vers 1930.
 En 1654, Robert Bissaker fait prendre à l’instrument sa forme classique (baguette coulissante dans une forme fixe).
 Certains attribuent le montage des deux règles à Seth Partridge. Une description de la version Partridge est donnée dans The description and use of an instrument called the double scale of proportion, ouvrage de Partridge, Londres, 1671, existant à la Bibliothèque Nationale.

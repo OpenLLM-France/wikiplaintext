@@ -1,0 +1,16 @@
+# 111th Street (métro de New York)
+
+111th Street est une station de la BMT Jamaica Line du métro de New York. Située à l'intersection de la 111ᵉ rue et de la Jamaica Avenue dans le quartier de Richmond Hill dans le Queens, elle est desservie par le train J. Lorsqu'il est en service le train Z traverse la station sans s'arrêter.
+
+# 111th Street (métro de New York)
+## Agencement de la station
+
+| Q Niveau des quais | Quai latéral, les portes s'ouvrent sur la droite | Quai latéral, les portes s'ouvrent sur la droite |
+| Q Niveau des quais | Vers le sud | ← vers Chambers Street ou Broad Street (Woodhaven Boulevard aux heures de pointe, 104th Street le reste du temps) ← ne s'arrête pas |
+| Q Niveau des quais | Voie centrale | Pas de service passager |
+| Q Niveau des quais | Vers le nord | vers Jamaica Center – Parsons/Archer (Sutphin Boulevard – Archer Avenue – JFK Airport aux heures de pointe, 121st Street le reste du temps) → ne s'arrête pas → |
+| Quai latéral, les portes s'ouvrent sur la droite ||
+| M | Mezzanine | Contrôle des tickets, agent de station |
+| S | Niveau de la rue | Entrée et sortie |
+| Nord/Ouest | | Sud/Est |
+| 104th Street vers Broad Street | ligne J | 121st Street vers Jamaica Center – Parsons/Archer |

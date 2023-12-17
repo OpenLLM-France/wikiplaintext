@@ -26,7 +26,6 @@ Colmar est située au nord du bassin potassique et du bassin houiller sous-vosgi
 La superficie de la commune est de 6 657 hectares ; son altitude varie entre 175 et 214 mètres.
 Le territoire de la commune est, au pied du massif des Vosges, le troisième plus grand d'Alsace après Haguenau (18 259 hectares) et Strasbourg (7 826 hectares), et le premier de son département devant Orbey (4 602 hectares), Sainte-Marie-aux-Mines (4 523 hectares), Rouffach (4 005 hectares), Ensisheim (3 659 hectares).
 Hydrogéologie et climatologie : Système d’information pour la gestion de l’Aquifère rhénan, par le BRGM :
-> Territoire communal
 >> Hydrogéologie : Masses d'eau souterraine; BD Lisa; Cartes piézométriques.
 
 # Colmar
@@ -39,7 +38,6 @@ Cours d'eau traversant la commune :
 * La Lauch Canalisee.
 * Le canal de Colmar.
 * Ruisseaux :
-> Ruisseau la Blind
 >> Ruisseau la Blind,
 >> Ruisseau l'Orchbach,
 >> Ruisseau de Logelbach,
@@ -1099,7 +1097,9 @@ La mystérieuse tête de cheval : certains jours de l'année à minuit, dans ce
 ## Culture locale et patrimoine
 ### Héraldique
 
+* Les armes actuelles de Colmar se blasonnent ainsi : « Parti de gueules et de sinople à la masse d'armes d'or posée en barre brochant sur le tout ».
 Le plus ancien sceau de la ville, utilisé en 1214, fait apparaître les armoiries sous la forme de trois manches munis de boules posées en pal au-dessus du lion de Hohenstaufen. Depuis 1425, la masse d'armes figure sur le sceau du tribunal. À la fin du XVᵉ siècle, ce blason est représenté avec ses émaux :
+* Les anciennes armes de Colmar au Moyen Âge se blasonnent ainsi : « D'argent à la masse d'armes de sable, pointes de gueules, posée en bande ».
 Lors de la confection de « l'Armorial général » sous Louis XIV, on combina les anciennes armes avec le rouge et le vert, couleurs de la ville utilisées pour les habits de livrée du personnel municipal.
 Une légende locale raconte qu'Hercule, revenant du jardin des Hespérides, se serait arrêté entre Vosges et Rhin afin de se désaltérer de vin du pays. Il tomba dans un sommeil profond et le lendemain il oublia sa massue. Cette dernière fut retrouvée par les Colmariens qui la rangèrent dans le blason de la ville. Dès lors, les habitants ont hérité du sobriquet Kolbnarren (les fous de la massue).
 Le blason de la ville de Colmar est devenu l'emblème de la 1ʳᵉ armée française, le 10 février 1945, à l'initiative du général Jean de Lattre de Tassigny. Le 21 avril, une maquette fut proposée par Gérard Ambroselli, artiste et officier maquettiste de l'état-major et approuvée par le général de Lattre ; elle ajoutait aux couleurs de Colmar et à l'or de la masse d'arme quelques lignes bleues symbolisant en plus des flots du Rhin et du Danube, ceux de Saint-Tropez rappelant le courage des soldats qui débarquèrent le 15 août 1944.

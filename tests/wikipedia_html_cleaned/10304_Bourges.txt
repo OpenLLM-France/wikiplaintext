@@ -606,6 +606,14 @@ La ville de Bourges est jumelée avec :
 #### Collèges
 
 La ville compte huit collèges :
+* Collège Jean-Renoir
+* Collège Jules-Verne
+* Collège le Grand-Meaulnes
+* Collège Émile-Littré
+* Collège Victor-Hugo
+* Collège Saint-Exupéry
+* Collège privé Saint-Jean-Baptiste-de-la-Salle
+* Collège privé Sainte-Marie
 
 # Bourges
 ## Équipements et services publics
@@ -613,3 +621,7 @@ La ville compte huit collèges :
 #### Lycées
 
 La ville compte onze lycées :
+[[|Bourges]] :
+| Blason | D’azur, à trois moutons passants d’argent, à la bordure engrêlée de gueules, au chef d’azur chargé de trois fleurs de lis d’or Devise Summa imperii penes Bituriges (Le souverain pouvoir appartient aux Bituriges) |
+| Détails | * Il y a là non-respect de la règle de contrariété des couleurs : ces armes sont fautives (bordure de gueules sur champ d'azur). |
+| Alias | Blason à dessiner D’azur à trois moutons d’argent, accornés de sable, accolés de gueules et clarinés d’or, à la bordure engrêlée de gueules ; au chef cousu d’azur, chargé de trois fleurs de lis d’or |

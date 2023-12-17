@@ -119,7 +119,7 @@ def dump_wiki_html_plaintext(
                             page_body,
                             language=language,
                             add_title=page_title,
-                            keep_tables=["wikitable"] if keep_tables is True else keep_tables,
+                            keep_tables=keep_tables,
                         )
                     except Exception as err:
                         dump_html()
