@@ -98,6 +98,7 @@ Par la suite, le système a été mis en place, entre autres, sur les lignes sui
 * 2004 : CFF, Mattstetten - Rothrist (NBS) et Solothurn-Wanzwil (ABS) (le démarrage prévu pour décembre 2005 d'ETCS niveau 2 a été effectué en 2006) : depuis août 2007, les trains roulent en ETCS niveau 2 à 200 km/h sur ce tronçon ;
 * 2005 : DB, Halle (Saale) / Leipzig - Jüterbog - Berlin (ETCS niveau 2) ;
 * 2006, mai :
+* 2006, octobre : Renfe, Madrid - Lleida (ETCS niveau 1 ; 280 km/h) ;
 * 2006, 1ers essais de la SNCF avec un ETG modifié à 2 caisses sur le réseau français ;
 * 2007, février : Renfe, Madrid - Lleida (ETCS niveau 1 ; 300 km/h) ;
 * 2007 : BLS, ligne de base du Lötschberg (ETCS niveau 2) ;
@@ -125,3 +126,8 @@ Par la suite, le système a été mis en place, entre autres, sur les lignes sui
 D'autres expérimentations sont en préparation également en France, en Italie, en Espagne, aux Pays-Bas, en Grande-Bretagne, en Belgique, au Luxembourg et en Hongrie.
 Selon des estimations de la Deutsche Bahn, le déploiement de l'ETCS à l'échelle européenne demandera de 15 à 20 ans.
 Le coût prévisionnel est de 8 milliards d'euros environ, dont 500 millions pour la seule Allemagne.
+
+# Système européen de contrôle des trains
+## Laboratoires indépendants d'essais ETCS
+
+* Multitel est devenu centre d'Essais d'EVC (Subset-076 / Subset-094) (European Vital Computer) dans le domaine de l'ERTMS (European Rail Traffic Management System) depuis le 22 février 2011.

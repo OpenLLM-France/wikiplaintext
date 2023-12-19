@@ -2,7 +2,7 @@
 ## Français
 ### Étymologie
 
-> (1694) Des parlers oïliques de l'Est (champenois, lorrain, bourguignon, franc-comtois) et variante de l’ancien français fein depuis le XIIᵉ siècle ; lui-même du latin fēnum.
+    (1694) Des parlers oïliques de l'Est (champenois, lorrain, bourguignon, franc-comtois) et variante de l’ancien français fein depuis le XIIᵉ siècle ; lui-même du latin fēnum.
 
 # foin
 ## Français
@@ -154,7 +154,7 @@ foin \fwɛ̃\
 ## Ancien français
 ### Étymologie
 
-> Du latin faenum.
+    Du latin faenum.
 
 # foin
 ## Ancien français

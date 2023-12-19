@@ -19,6 +19,10 @@ La ville est située dans le sud de la France, à l'ouest du département de l'H
 Béziers se situe à 12 km de la mer Méditerranée et à 50 km des montagnes moyennement élevées du Haut-Languedoc, dont le massif abrupt du Caroux (1 091 mètres d'altitude) et celui de l'Espinouse (1 124 m).
 À vol d'oiseau, elle est distante de 61 km de Montpellier et de 42 km de Lodève, respectivement préfecture et sous-préfecture du département ; de 146 km de Toulouse, la capitale de région ; de 25 km de Narbonne et de 83 km de Castres, chefs-lieux d'arrondissement limitrophes ; et enfin de 617 km de Paris (distances orthodromiques).
 Le territoire de la commune est limitrophe de ceux de 16 communes :
+Communes limitrophes de Béziers :
+| Corneilhan Lignan-sur-Orb | Lieuran-lès-Béziers Bassan | Boujan-sur-Libron Servian |
+| Maraussan Maureilhan Montady | | Montblanc Cers |
+| Colombiers Lespignan | Sauvian Vendres | Villeneuve-lès-Béziers |
 
 # Béziers
 ## Géographie
@@ -169,6 +173,16 @@ Après un hiatus au IIIᵉ siècle avant notre ère (ou une très forte récess
 Après la refondation de Narbonne en 118 av. J.-C. et la fondation de la colonie romaine d'Arles par Jules César en 45 av. J.-C., Octave durant le triumvirat, fonda en 36 av. J.-C. en territoire volque la Colonia Urbs Julia Septimanorum Baeterra, colonie de droit romain où s'installent des colons romains, vétérans de la Septième légion de Jules César. Située à quelques kilomètres de la mer Méditerranée sur le fleuve Orb, traversée par la Via Domitia qui relie l'Italie à l'Espagne, Baeterrae, nom antique de Béziers, prospère jusqu'au IIIᵉ siècle où l'insécurité ambiante amène la cité à construire des murailles.
 L'itinéraire de l'Anonyme de Bordeaux passe dans la région et mentionne ce site.
 En 2006, lors de la construction du centre pénitentiaire du Gasquinoy, des fouilles archéologiques ont permis de découvrir deux fermes gallo-romaines, datées des Iᵉʳ et IIᵉ siècles de notre ère, comprenant des installations vinicoles.
+* Buste d’Agrippine l'Aînée
+* Buste d’Agrippa Postumus
+* Buste de Marcus Vipsanius Agrippa
+* Buste de Julia (fille d'Auguste)
+* Buste d'Octave-Auguste
+* Buste de Livie
+* Buste de Tibère
+* Portrait d'Antonia Minor
+* Portrait de Germanicus
+* Portrait d'Antonin le Pieux
 
 # Béziers
 ## Histoire
@@ -260,6 +274,14 @@ D'après le politologue Emmanuel Négrier, à Béziers : « les passerelles en
 
 # Béziers
 ## Politique et administration
+### Les maires de Béziers
+
+Maire en cours d'exercice. :
+| Période | Période | Identité | Étiquette | Qualité |
+| 2014 | En cours (au 25 mai 2020) | Robert Ménard | Soutiens DVD, FN et DLR | Journaliste Président de la CA Béziers Méditerranée (2020 →) |
+
+# Béziers
+## Politique et administration
 ### Municipales 2008 et 2014
 
 Les élections municipales de 2008 ont mis en place l'équipe de Raymond Couderc pour un troisième et dernier mandat. Lors des élections municipales françaises de 2014, le député UMP Élie Aboud est battu lors d'une triangulaire par la liste menée par Robert Ménard, soutenu par le Front national, Debout la République, le Mouvement pour la France et le Rassemblement pour la France.
@@ -281,7 +303,7 @@ Le redécoupage prenant effet en mars 2015, avec les élections départementales
 * Maaloula (Syrie) depuis 2014
 * Stavropol (Russie) depuis 1982
 * Stockport (Royaume-Uni) depuis 1972
-* Tchortkiv (Ukraine) depuis 2022
+* Tchortkiv (Ukraine) depuis 2022
 
 # Béziers
 ## Équipements et services publics
@@ -337,6 +359,21 @@ Béziers est équipé d'une caserne de pompiers et d'une unité locale de la Cro
 
 L'évolution du nombre d'habitants est connue à travers les recensements de la population effectués dans la commune depuis 1793. Pour les communes de plus de 10 000 habitants les recensements ont lieu chaque année à la suite d'une enquête par sondage auprès d'un échantillon d'adresses représentant 8 % de leurs logements, contrairement aux autres communes qui ont un recensement réel tous les cinq ans.
 En 2020, la commune comptait 78 683 habitants, en augmentation de 3,94 % par rapport à 2014 (Hérault : +7,37 %, France hors Mayotte : +1,9 %).
+Évolution de la population :
+| 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
+| 12 501 | 14 535 | 14 565 | 16 140 | 16 769 | 16 233 | 18 874 | 19 596 | 19 333 |
+Évolution de la population, suite (1) :
+| 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 | 1896 |
+| 23 557 | 24 270 | 27 722 | 31 468 | 38 227 | 42 915 | 42 785 | 45 475 | 48 012 |
+Évolution de la population, suite (2) :
+| 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
+| 52 310 | 52 268 | 51 042 | 56 008 | 65 754 | 71 527 | 73 305 | 64 561 | 64 929 |
+Évolution de la population, suite (3) :
+| 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2011 | 2016 |
+| 73 538 | 80 481 | 84 029 | 76 647 | 70 996 | 69 153 | 72 245 | 71 432 | 76 493 |
+Évolution de la population, suite (4) :
+| 2020 | - | - | - | - | - | - | - | - |
+| 78 683 | - | - | - | - | - | - | - | - |
 
 # Béziers
 ## Population et société
@@ -346,6 +383,24 @@ En 2020, la commune comptait 78 683 habitants, en augmentation de 3,94 % par r
 La population de la commune est un peu plus âgée que celle du département. En 2020, le taux de personnes d'un âge inférieur à 30 ans s'élève à 35,5 %, soit un taux légèrement supérieur à la moyenne départementale (35,3 %). Le taux de personnes d'un âge supérieur à 60 ans (29,5 %) est supérieur au taux départemental (27,9 %).
 En 2020, la commune comptait 37 284 hommes pour 41 399 femmes, soit un taux de 52,61 % de femmes, légèrement supérieur au taux départemental (52,26 %).
 Les pyramides des âges de la commune et du département s'établissent comme suit :
+Pyramide des âges de la commune en 2020 en pourcentage :
+| Hommes | Classe d’âge | Femmes |
+| 1 | 90 ou + | 2,6 |
+| 8,4 | 75-89 ans | 11,8 |
+| 16,8 | 60-74 ans | 17,9 |
+| 18,3 | 45-59 ans | 18,3 |
+| 17,8 | 30-44 ans | 15,9 |
+| 17,9 | 15-29 ans | 16,3 |
+| 19,6 | 0-14 ans | 17,3 |
+Pyramide des âges du département de l'Hérault en 2020 en pourcentage :
+| Hommes | Classe d’âge | Femmes |
+| 0,8 | 90 ou + | 1,9 |
+| 7,8 | 75-89 ans | 9,8 |
+| 17,1 | 60-74 ans | 18,2 |
+| 19 | 45-59 ans | 18,9 |
+| 18,3 | 30-44 ans | 17,8 |
+| 19,4 | 15-29 ans | 18 |
+| 17,7 | 0-14 ans | 15,5 |
 
 # Béziers
 ## Population et société
@@ -552,7 +607,7 @@ Chaque année, le 28 avril, se déroule la procession de saint Aphrodise où lo 
 ## Culture locale et patrimoine
 ### Personnalités liées à la commune
 
-De nombreuses personnalités ont eu un attachement particulier à la ville de Béziers, notamment celles appartenant à la liste ci-après :
+De nombreuses personnalités ont eu un attachement particulier à la ville de Béziers, notamment celles appartenant à la liste ci-après :
 * Jedaiah ben Abraham Bedersi (c. 1270-c. 1340), poète, médecin et philosophe juif né à Béziers ;
 * Max Cabanes (1947-), illustrateur et auteur de bande dessinée, lauréat du Grand prix de la ville d'Angoulême, né à Béziers ;
 * Sébastien Castella (1983-), torero de renommée internationale né à Béziers ;

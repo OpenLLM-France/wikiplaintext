@@ -2,7 +2,7 @@
 ## Chinois
 ### Étymologie
 
-> Composé de 半 (bàn, « moitié ») et de 費／费 (fèi, « frais »).
+    Composé de 半 (bàn, « moitié ») et de 費／费 (fèi, « frais »).
 
 # 半费
 ## Chinois
@@ -15,11 +15,5 @@
 ## Chinois
 ### Prononciation
 
-* mandarin \pa̠n˥˧ feɪ̯˥˩\
-Pinyin : bànfèi
-EFEO : pan-fei
-Wade-Giles : pan⁴ fei⁴
-Yale : bànfèi
-Zhuyin : ㄅㄢˋ ㄈㄟˋ
-* cantonais \puːn³³ fɐi³³\
-Jyutping : bun³ fai³
+* mandarin \pa̠n˥˧ feɪ̯˥˩\ Pinyin : bànfèi EFEO : pan-fei Wade-Giles : pan⁴ fei⁴ Yale : bànfèi Zhuyin : ㄅㄢˋ ㄈㄟˋ
+* cantonais \puːn³³ fɐi³³\ Jyutping : bun³ fai³

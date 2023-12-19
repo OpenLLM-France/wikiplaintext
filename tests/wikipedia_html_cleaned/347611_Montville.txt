@@ -17,6 +17,15 @@ La ligne interurbaine 29 qui relie Rouen à Bosc-le-Hard s’arrête à Montvill
 
 # Montville
 ## Géographie
+### Communes limitrophes
+
+Communes limitrophes de Montville :
+| Fresquiennes | Anceaumeville | Mont-Cauvaire, Quincampoix |
+| | | Bosc-Guérard-Saint-Adrien |
+| Eslettes | Malaunay | |
+
+# Montville
+## Géographie
 ### Hydrographie
 
 La commune se trouve à la confluence de deux rivières : la Clérette et Cailly, respectivement sous-affluent et affluent de la Seine.
@@ -83,9 +92,34 @@ De nombreuses infrastructures sont créées depuis les années 1980 jusqu’à a
 
 # Montville
 ## Politique et administration
+### Liste des maires
+
+Liste des maires successifs :
+| Période | Période | Identité | Étiquette | Qualité |
+| Les données manquantes sont à compléter. |||||
+| 1831 | 1846 | Hippolyte Boissel de Monville | | Baron |
+| 1862 | 1870 | Hippolyte Hommais | | |
+| 1870 | 1875 | Pierre Gaillard-Lemaître | | |
+| 1875 | 1880 | Albert Avonde | | |
+| 1880 | 1883 | Louis Berrenger | | |
+| 1883 | 1884 | Hippolyte Hommais | | |
+| 1884 | 1896 | Evode Chevalier | Républicain | Conseiller général de Clères (1883 → 1889) |
+| décembre 1919 | mai 1935 | Louis Guittet | | Conseiller général de Clères (1934 → 1940) |
+| Les données manquantes sont à compléter. |||||
+| octobre 1947 | 1952 | Jules Deconihout | | |
+| 1952 | mars 1959 | Ernest Delaporte | | |
+| mars 1959 | 7 novembre 1993 | André Martin | UDF-PSD | Instituteur Député de la Seine-Maritime (4ᵉ circ. (1973 → 1978) Sénateur de la Seine-Maritime (1993 → 1993) Conseiller général de Clères (1964 → 1993) Président du conseil général de la Seine-Maritime (1993 → 1993) Décédé en fonction |
+| novembre 1993 | juin 1995 | Jacques Motte | DVD | |
+| juin 1995 | 2 avril 2015 | Pascal Martin | UMP puis UDI (PR) | Colonel de sapeurs-pompiers professionnel Fils d'André Martin Président de la CCPNOR (2003 → 2016) Conseiller général de Clères (1993 → 2015) Conseiller départemental de Bois-Guillaume (2015 → ) Président du conseil départemental de la Seine-Maritime (2015 → ) Démissionnaire après son élection comme président du conseil départemental |
+| avril 2015 | mai 2020 | Myriam Travers | | |
+| mai 2020 | En cours (au 10 août 2020) | Anne-Sophie Clabaut | DVD | Enseignante en physique-chimie et microbiologie en lycée agricole |
+
+# Montville
+## Politique et administration
 ### Distinctions et labels
 
 En 2016, la commune détient le label « Ville Internet @@@@ ».
+Cette tradition se poursuit aujourd’hui.
 La commune est classée en 2008 « quatre fleurs » au Concours des villes et villages fleuris.
 
 # Montville
@@ -107,6 +141,21 @@ Les habitants de la commune sont appelés les Montvillais.
 
 L'évolution du nombre d'habitants est connue à travers les recensements de la population effectués dans la commune depuis 1793. Pour les communes de moins de 10 000 habitants, une enquête de recensement portant sur toute la population est réalisée tous les cinq ans, les populations légales des années intermédiaires étant quant à elles estimées par interpolation ou extrapolation. Pour la commune, le premier recensement exhaustif entrant dans le cadre du nouveau dispositif a été réalisé en 2004.
 En 2020, la commune comptait 4 593 habitants, en diminution de 5,73 % par rapport à 2014 (Seine-Maritime : −0,25 %, France hors Mayotte : +1,9 %).
+Évolution de la population :
+| 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
+| 760 | 562 | 580 | 751 | 1 650 | 2 204 | 2 581 | 2 506 | 2 543 |
+Évolution de la population, suite (1) :
+| 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 | 1896 |
+| 2 625 | 2 673 | 2 531 | 2 371 | 2 417 | 2 376 | 2 345 | 2 520 | 2 786 |
+Évolution de la population, suite (2) :
+| 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
+| 2 790 | 2 898 | 2 989 | 2 783 | 2 806 | 2 744 | 2 704 | 2 772 | 3 516 |
+Évolution de la population, suite (3) :
+| 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2004 | 2006 | 2009 |
+| 4 057 | 4 139 | 4 111 | 4 365 | 4 252 | 4 644 | 4 558 | 4 502 | 4 687 |
+Évolution de la population, suite (4) :
+| 2014 | 2019 | 2020 | - | - | - | - | - | - |
+| 4 872 | 4 563 | 4 593 | - | - | - | - | - | - |
 
 # Montville
 ## Population et société
@@ -140,6 +189,44 @@ Le journal de la paroisse Saint-Jean-Bosco de Clères – Montville fait éditer
 
 * La mairie : Édifiée en 1888, la mairie renferme le drapeau de la Garde nationale de la Révolution fixé sur le mur de la salle du Conseil municipal de la mairie. Trois thèmes majeurs y sont représentés : la Royauté, la Révolution et la République. Son état de conservation exceptionnel en fait une pièce historique et rarissime. Le vitrail de 1888 surplombe le hall du rez-de-chaussée de la mairie. Le motif central représente la Justice y figurent des bonnets phrygiens, des cocardes aux couleurs inversées et la devise républicaine.
 * L'église Notre-Dame-de-l'Assomption possède un clocher datant du XIᵉ siècle. Son chœur plus récent est des XVᵉ et XVIᵉ siècles.
+** Un dessin datant de 1800 environ nous montre l’église avant sa transformation.
+** En 1802, la toiture et les vitraux subissent d’importantes réparations.
+** En 1840, la ville propose la construction d’un berceau et d’un jubé.
+** À partir de 1853, de nombreux projets sont élaborés pour agrandir l’église, mettre la nef à la même hauteur que le chœur. Les travaux de cet agrandissement s’effectuent pendant les années 1859 et 1860 par l'architecte Charles Fleury. La fabrique alloue une somme de 4 000 francs pour l’extension du lieu de culte. La ville procède à un emprunt, six souscripteurs prêtent 18 500 francs à la commune (trois Montvillais figurent parmi ces souscripteurs). Cette somme plus les intérêts à 5 % sont remboursables en dix ans.
+** La sculpture au linteau du portail s’intitule le Bouquet de la porte.
+** Le clocher est consolidé en 1864 et 83 marches de 18 cm de hauteur permettent d’accéder aux cloches de l'église. Le clocher, d’une hauteur de 20 m environ, semble inachevé.
+** Le 24 décembre 1902, un incendie éclate dans l’église.
+** L’inventaire de 1905 mentionne six statues :
+*** une statue de saint Antoine de Padoue ;
+*** deux statues de la Sainte Vierge ;
+*** une statue de l’enfant Jésus ;
+*** une statue de sainte Clotilde ;
+*** une statue de saint Joseph.
+** En 1907, une partie de la toiture est réparée.
+** En 1913, M. Charpentier peint les 14 tableaux du chemin de croix.
+** En 1928, la municipalité décide d’effectuer des travaux de nettoyage à l’intérieur de l’édifice.
+** L’éclairage est installé au clocher en 1935. Les façades de l’église bénéficient d’une remise en état en 1955.
+** La délibération du conseil municipal du 25 novembre 1961 autorise M. l’Abbé à déposer la chaire et les lustres.
+** La ville procède à l’acquisition d’un harmonium en 1980.
+** En 1981, la réfection totale de l’église est nécessaire : 35 000 ardoises, 300 kg de crochets inox, 6 506 m de liteaux (tringle de bois clouée contre la charpente pour servir d’appui à l’ardoise) etc. Ce travail important et délicat est confié à une entreprise de couverture montvillaise. Un nouveau coq est béni et installé au sommet du clocher.
+** En 1986, l’intérieur de l’église est entièrement restauré, de même que celui de la sacristie. Ce projet conçu et réalisé par un jeune architecte rouennais, Bertrand Vaslet. L’édifice cultuel a retrouvé tout son éclat après des travaux minutieux et délicats réalisés par les entreprises Lanfry et Delafontaine.
+* L’horloge
+** Un document datant de 1743 relate le devis d’une horloge pour l’église de Montville et une personne est rémunérée pour le remontage et l’entretien de celle-ci.
+** Une illustration de 1800 environ mentionne le cadran de l’horloge vers les Sondres (quartier de Montville).
+** En 1852, un monument sonne les quarts doubles à l’aide de deux petites cloches.
+** À partir du 1ᵉʳ septembre 1894, l’horloge au lieu d’être à l'heure solaire (en avance de 8 à 10 minutes sur l'heure légale), devra marquer celle-ci, en concordance avec celle de la gare de Montville.
+** En 1912, le cadran est pourvu d’un éclairage.
+* Les vitraux
+** Les sept fenêtres qui éclairent le chœur possèdent une vitrine coloriée portant les dates de 1527 et 1529. Nous y remarquons la vie de Notre Seigneur et de saint Jean, les Saints, les Saintes honorés dans notre contrée.
+** Les vitraux représentent, entre autres, saint Romain, une sainte avec une palme et un glaive, un martyr tenant plusieurs flèches avec un carquois à ses pieds. Le nimbe de chaque personnage est placé dans une coquille agrémentée d’arabesques ou fleurs à tiges d’or.
+** Le 25 août 1897, le ministre de l'Instruction Publique et des Beaux-Arts visite l'église. Les vitraux du XVIᵉ siècle sont classés en 1898 à titre objet monuments historiques.
+** Pendant la Seconde Guerre mondiale, les vitraux de l’église sont déposés dans l’une des caves du château adossant l’église puis sont remontés et restaurés à la fin du conflit.
+** Les vitraux de l’église de Montville sont protégés par des grillages et entretenus en permanence et mis en valeur depuis peu par un bel éclairage.
+* Les cloches
+** La bénédiction des cloches figure parfois sur les registres paroissiaux. La première a lieu en 1622. La grosse cloche est bénie le 7 avril 1693. Elle est remplacée le 26 août 1780 et prend le nom de Marie-Angélique.
+** Le 10 juin 1731, une cloche est bénite et nommée Madeleine par Alexandre Bigot, baron de Montville.
+** En 1791, les cloches sont échangées avec d’autres paroisses. Trois nouvelles cloches sont fondues à Gueutteville-les-Grès. Elles sont solennellement bénites le 11 novembre 1863. La première pèse 453 kg et se nomme Antoinette en l’honneur du prénom de l’épouse de M. le maire d’Anceaumeville. La seconde pèse 840 kg et se nomme Louise en l’honneur du prénom de l’épouse de M. le maire d’Eslettes. La dernière pèse 840 kg et se nomme Victoire en l’honneur du troisième prénom d’Antoinette Hommais, l’épouse du maire de Montville. Chaque cloche mesure 90 cm de hauteur environ et 110 cm de diamètre environ. Elles sont restaurées en 1951. L’année suivante, leur mouvement est électrifié.
+* Devise républicaine inscrite sur l’église : Le 14 février 1887, le conseil municipal décide que la devise « Liberté, Égalité, Fraternité » doit être inscrite sur les monuments publics communaux. La ville ayant financé une grande partie de l’agrandissement de l’église, inscrit la devise sur le collatéral et « République française » sur le clocher qui appartient toujours à la fabrique jusqu’à la séparation de l’Église et de l’État en 1905. Les inscriptions sont apposées sur la façade de l'église le 12 octobre 1887 par un peintre d’une commune voisine.
 * Musée des sapeurs-pompiers de France : Montville abrite le musée des sapeurs-pompiers de France. Inauguré en 1993, il détient le label « Musée de France », dont bénéficie aussi le musée des sapeurs-pompiers de Lyon.
 * Plan d'eau : Montville possède un plan d'eau de trois hectares sur lequel il est possible de faire du pédalo. Autour de ce plan d'eau, on trouve un jardin aquatique et un arboretum, une réserve ornithologique, un complexe socioculturel et sportif, un parcours de santé, une aire de jeux ainsi qu'un minigolf dix-huit trous.
 * Le manoir du Bois-Isambert, qui date du .

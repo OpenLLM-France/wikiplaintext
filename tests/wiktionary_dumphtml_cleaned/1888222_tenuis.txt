@@ -2,7 +2,7 @@
 ## Latin
 ### Étymologie
 
-> De même radical que tendo (« tendre ») : « tendu » donc « fin, fragile, peu élevé, etc. »
+    De même radical que tendo (« tendre ») : « tendu » donc « fin, fragile, peu élevé, etc. »
 
 # tenuis
 ## Latin
@@ -11,12 +11,12 @@
 tenuis
 * Ténu, mince, fin, léger, fluet, grêle, maigre, petit, exigu, étroit, chétif.
 ** tenuiores cum princibus aequare — (Cicéron)
-**> mettre les petits au niveau des grands.
+    mettre les petits au niveau des grands.
 * Fin, délié, subtil, délicat, fragile.
 * Clair, limpide.
 * Simple, sans ornement, sans élévation, , peu élevé, peu profond.
 ** tenui loco ortus — (Live)
-**> d'humble condition, de naissance obscure.
+    d'humble condition, de naissance obscure.
 
 # tenuis
 ## Latin

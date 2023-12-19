@@ -25,6 +25,7 @@ def final_clean(
 
     # Remove empty lines
     text = re.sub(r"\n([^\w]*\n+)*", "\n", text)
+    text = text.replace(PROTECTED_SPACE, " ")
 
     # Add empty lines before/after headers
     # text = re.sub(rf"(?<=\n)([^\n]+){END_HEADER}(?=\n)", rf"\n\1{END_HEADER}\n", text)
@@ -76,6 +77,10 @@ def final_clean(
 
         # # Remove empty lines after other colons
         # text = re.sub(r" : *\n+", " :\n", text)
+    else:
+        # Remove empty parenthesis
+        text = re.sub(r" ?[\[\{\(][\)\}\]]", "", text)
+
 
     # Normalize unbreakablespaces
     # text = re.sub(r"\u00A0", " ", text)
@@ -94,46 +99,47 @@ def collapse_whitespace(text, level=1):
         2: Keep double line breaks
         3: Remove all line breaks
     """
+    # Remove tabs
+    text = re.sub(r"[\t]", " ", text)
+    # Remove double spaces
+    text = re.sub(r" *\u00A0+ *", "\u00A0", text)
     if level < 3:
-        # Remove tabs
-        text = re.sub(r"[\t]", " ", text)
-        # Remove double spaces
-        text = re.sub(r"(\u00A0+ +| +\u00A0+)", " ", text)
         if level == 2:
             # Remove line breaks unless when there are two in a row
             text = re.sub(r"(?<![ \n])( ?\n)", " ", text)
         # Remove whitespace repetitions
         text = re.sub(r"(\s)\1+", r"\1", text)
         return text.strip()
-    return re.sub(r"[\r\n\t ]+", " ", text).strip()
+    text = re.sub(r"[\r\n ]+", " ", text)
+    return text.strip()
 
 
 def to_superscript(d, all_or_none=False):
+    if all_or_none:
+        out = ""
+        for i in d:
+            o = _superscript.get(i, i)
+            if i == o and i not in _superscript.values():
+                # print(f"Ignoring superscript {d} -> {to_superscript(d)} (cannot convert {i})")
+                return f"^{{{d}}}"
+            out += o
+        return out
     if len(d) > 1:
-        if all_or_none:
-            out = ""
-            for i in d:
-                o = to_superscript(i)
-                if i == o and i != " " and i not in _superscript.values():
-                    # print(f"Ignoring superscript {d} -> {to_superscript(d)} (cannot convert {i})")
-                    return f"^{{{d}}}"
-                out += o
-            return out
         return "".join([to_superscript(x) for x in d])
     return _superscript.get(d, d)
 
 
 def to_subscript(d, all_or_none=False):
+    if all_or_none:
+        out = ""
+        for i in d:
+            o = _subscript.get(i, i)
+            if i == o and i not in _subscript.values():
+                # print(f"Ignoring subscript {d} -> {to_superscript(d)} (cannot convert {i})")
+                return f"_{{{d}}}"
+            out += o
+        return out
     if len(d) > 1:
-        if all_or_none:
-            out = ""
-            for i in d:
-                o = to_subscript(i)
-                if i == o and i != " " and i not in _subscript.values():
-                    # print(f"Ignoring subscript {d} -> {to_superscript(d)} (cannot convert {i})")
-                    return f"_{{{d}}}"
-                out += o
-            return out
         return "".join([to_subscript(x) for x in d])
     return _subscript.get(d, d)
 
@@ -151,7 +157,7 @@ def format_table(table, ignore_one_cell=True) -> str:
         return ""
     widths = [0] * len(data[0])
     for irow, row in enumerate(data):
-        if irow == 0 and irow < len(data) - 1:
+        if irow == 0 and irow < len(data) - 3:
             continue
         for ri, d in enumerate(row):
             while ri >= len(widths):
@@ -206,7 +212,9 @@ def remove_line_breaks(text):
 
 
 
-# A good reference to find superscripts is https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts
+# Good references to find superscripts and subscripts:
+# - https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts
+# - https://www.w3.org/TR/xml-entity-names/020.html
 
 _superscript_coma = "˒"
 _superscript = {
@@ -292,7 +300,13 @@ _superscript = {
     "υ": "ᶷ",
     "φ": "ᵠ",
     "χ": "ᵡ",
-    "•": "•",
+    "^": "ˆ",
+    # Below: letter that are not superscript but are used as such
+    "*": "*", "•": "•",
+    "′": "′", "″": "″", "‴": "‴", "⁗": "⁗",
+    "˙": "˙", "¨": "¨",
+    "¯": "¯",
+    " ": " ",
 }
 
 _subscript = {
@@ -307,7 +321,12 @@ _subscript = {
     "9": "₉",
     "0": "₀",
     "a": "ₐ",
+    # "b": "♭",
+    # "c": "꜀",
+    # "d": "d",
     "e": "ₑ",
+    # "f": "f",
+    # "g": "g",
     "h": "ₕ",
     "i": "ᵢ",
     "j": "ⱼ",
@@ -317,12 +336,16 @@ _subscript = {
     "n": "ₙ",
     "o": "ₒ",
     "p": "ₚ",
+    # "q": "q",
     "r": "ᵣ",
     "s": "ₛ",
     "t": "ₜ",
     "u": "ᵤ",
     "v": "ᵥ",
+    # "w": "w",
     "x": "ₓ",
+    # "y": "y",
+    # "z": "z",
     "+": "₊",
     "-": "₋",
     "−": "₋",
@@ -343,6 +366,7 @@ _subscript = {
     "φ": "ᵩ",
     "χ": "ᵪ",
     "•": "•",
+    " ": " ",
 }
 
 def retain_only_if_proncunciation(text):
@@ -404,3 +428,5 @@ HTML_NODE_IGNORED = {
 }
 
 END_HEADER = "␣:"
+
+PROTECTED_SPACE = "␣␣␣"

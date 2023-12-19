@@ -317,7 +317,7 @@ Extérieur :
 | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 |
 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 |
 Troisième :
-| 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 |
+| 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2013-2014 |
 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 |
 Quatrième :
 * 2006-2007
@@ -330,6 +330,37 @@ Le Standard de Liège est le 4ᵉ club de l'histoire du football belge en nombr
 Palmarès de l'équipe première du Standard de Liège :
 | Compétitions nationales | Compétitions internationales | Trophées amicaux |
 | Championnat de Belgique (10) : Champion : 1958, 1961, 1963, 1969, 1970, 1971, 1982, 1983, 2008 et 2009 Vice-champion (13) : 1926, 1928, 1936, 1962, 1965, 1973, 1980, 1993, 1995, 2006, 2011, 2014 et 2018 Coupe de Belgique (8) Vainqueur : 1954, 1966, 1967, 1981, 1993, 2011, 2016 et 2018 Finaliste (10) : 1965, 1972, 1973, 1984, 1988, 1989, 1999, 2000, 2007 et 2021 Supercoupe de Belgique (4) Vainqueur : 1981, 1983, 2008 et 2009. Finaliste (5) : 1982, 1993, 2011, 2016 et 2018 Coupe de la Ligue Pro (1) Vainqueur : 1975 Finaliste (1) : 1974 Championnat de Belgique de D2 (2) Champion : 1909 et 1921 Trophée Jules Pappaert (6) Vainqueur : 1953, 1960, 1962, 1971, 1992 et 2008 | Coupe d'Europe des vainqueurs de coupes Finaliste : 1982 Coupe Intertoto Finaliste : 1996 | Trophée Costa del Sol Finaliste : 1965 Trophée Ciudad de Palma Finaliste : 1969 Tournoi de Paris Finaliste : 1980 Amsterdam 700 Tournament Finaliste : 1981 Trophée Santiago Bernabéu Finaliste : 1982 Internationale Coupe Mohammed-V (1) Vainqueur : 1986 Tournoi AD de Rotterdam (1) Vainqueur : 1987 Finaliste : 1983 Tournoi de Bruxelles Deuxième : 2011 Philips Stayen Cup (1) Vainqueur : 2014 |
+
+# Standard de Liège
+## Palmarès et statistiques
+### Titres et trophées individuels
+
+| Meilleurs joueurs | Meilleurs buteurs | Meilleurs entraîneurs |
+| Soulier d'or belge (9) : Jean Nicolay (1963) Wilfried Van Moer (1969, 1970) Christian Piot (1972) Eric Gerets (1982) Sérgio Conceição (2005) Steven Defour (2007) Axel Witsel (2008) Milan Jovanović (2009) Footballeur pro de l'année (1) : Milan Jovanović (2008) Jeune pro de l'année (2) : Michaël Goossens (1993) Axel Witsel (2008) Gardien de but de l'année (7) : Gilbert Bodart (1985, 1986, 1992, 1995) Vedran Runje (1999, 2001, 2006) Trophée du 12ᵉ homme (1) : Steven Defour (2008) Soulier d'ébène (2) : Marouane Fellaini (2007) Michy Batshuayi (2014) Lion belge (5) : Mehdi Carcela-Gonzalez (2015, 2018, 2019) Ishak Belfodil (2017) Selim Amallah (2020) | Meilleur buteur du championnat de Belgique (7) : Lucien Fabry (1927) Jean Mathonet (1956) Roger Claessen (1968) Antal Nagy (1969) Erwin Kostedde (1971) Harald Nickel (1978) Aurelio Vidmar (1995) | Entraîneur de l'année (3) : Robert Waseige (1995) Michel Preud'homme (2008) László Bölöni (2009) |
+À partir de 2001, « Ugh », magazine néerlandophone par et pour les supporters du Standard de Liège, coorganise avec le site internet officiel du club, l'élection du "Standardman de la saison". Le vote se déroule en deux temps, le premier concernant la période s'étalant de août à décembre et le second celle de janvier à mai. Au coup d'envoi de la dernière rencontre à domicile, le vainqueur reçoit le trophée, « Le Ugh écarlate » (« De Scharlaken Ugh » dans sa version originale). Depuis quelques années, un vote est organisé après chaque rencontre sur l'application du club. Le joueur de la saison est donc élu à partir du cumul des votes des supporters sur l'application mobile.
+Joueurs de la saison (élus par les supporters) :
+| Saison | Joueur |
+| 2000-2001 | Vedran Runje |
+| 2001-2002 | Almani Moreira |
+| 2002-2003 | Almani Moreira |
+| 2003-2004 | Émile Mpenza |
+| 2004-2005 | Sergio Conceiçao |
+| 2005-2006 | Oguchi Onyewu |
+| 2006-2007 | Steven Defour |
+| 2007-2008 | Steven Defour |
+| 2008-2009 | Steven Defour |
+| 2009-2010 | Axel Witsel |
+| 2010-2011 | Axel Witsel |
+| 2011-2012 | Sinan Bolat |
+| 2012-2013 | William Vainqueur |
+| 2013-2014 | William Vainqueur |
+| 2014-2015 | Adrien Trebel |
+| 2015-2016 | Matthieu Dossevi |
+| 2016-2017 | Section féminine |
+| 2017-2018 | Edmilson Junior |
+| 2018-2019 | Guillermo Ochoa |
+| 2019-2020 | - |
+| 2020-2021 | Arnaud Bodart |
 
 # Standard de Liège
 ## Palmarès et statistiques
@@ -394,6 +425,20 @@ Dans son histoire, le Standard a connu deux importantes périodes de présence i
 ### Coefficient UEFA
 
 Instauré en 1960, le coefficient UEFA est utilisé lors des tirages au sort des compétitions continentales organisées par l'Union des associations européennes de football. Il est calculé en fonction des performances des clubs sur le plan européen pendant cinq saisons et permet d'établir un classement. À l'issue de la saison 2017-2018, le Standard de Liège figurait à la 110ᵉ place de celui-ci. En 1983, il était monté jusqu'à la 3ᵉ place (ex-æquo avec Liverpool FC).
+Meilleur classement en 1982-1983 :
+| Rang | Club | Coefficient |
+| 1 | FC Barcelone | 7.998 |
+| 2 | Real Madrid | 7.929 |
+| 3 | Standard de Liège | 6.666 |
+| 3 | Liverpool FC | 6.666 |
+| 5 | RSC Anderlecht | 6.483 |
+Classement UEFA :
+| Année | Rang | Club | Coefficient |
+| 2017 | 95 | Standard de Liège | 20,980 |
+| 2018 | 110 | Standard de Liège | 12,500 |
+| 2019 | 82 | Standard de Liège | 17,500 |
+| 2020 | 74 | Standard de Liège | 20,500 |
+| 2021 | 65 | Standard de Liège | 22,000 |
 
 # Standard de Liège
 ## Personnalités du club
@@ -406,9 +451,29 @@ Le Matricule 16 est alors à vendre et c'est l'homme d'affaires Roland Duchâtel
 
 # Standard de Liège
 ## Personnalités du club
+### Hommes forts du Standard de Liège
+
+| Période | Nom | Titre |
+| 1945 - 1984 | Roger Petit | Secrétaire général |
+| Années 1990 | Robert Lesman | |
+| 1998 - 2009 | / Robert Louis-Dreyfus | Administrateur et actionnaire majoritaire |
+| 1998 - 2011 | Lucien D'Onofrio | Vice-président et actionnaire minoritaire |
+| 2018 - 2020 | Michel Preud'homme | Entraîneur, directeur technique et vice-président |
+| 2020 - 2021 | Michel Preud'homme | Vice-président et conseiller sportif |
+
+# Standard de Liège
+## Personnalités du club
 ### Directeurs sportifs
 
 Le tableau ci-dessous énumère les différents directeurs sportifs qui se sont succédé au Standard de Liège.
+| Période | Nom | Titre |
+| juillet 2002 - août 2006 | Michel Preud'homme | Directeur technique |
+| juillet 2011 - juillet 2014 | Jean-François De Sart | ? |
+| juillet 2014 - février 2016 | Axel Lawarée | Directeur sportif |
+| février 2016 - juin 2018 | Olivier Renard | Directeur sportif |
+| juillet 2018 - juin 2020 | Michel Preud'homme | Directeur technique |
+| juillet 2020 - octobre 2021 | Benjamin Nicaise | Directeur technique |
+| mai 2022 - | Fergal Harkin (en) | Directeur sportif |
 
 # Standard de Liège
 ## Personnalités du club

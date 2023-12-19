@@ -74,7 +74,7 @@ L'ergosphère - qui n'est pas une sphère - est une région au voisinage d'un tr
 
 La dernière orbite circulaire stable, généralement abrégée en ISCO (pour l'anglais Innermost stable circular orbit), est l'orbite circulaire la plus proche d'un trou noir en deçà de laquelle la matière finit inéluctablement par tomber dans le trou noir.
 Pour un trou noir de Schwarzschild, le rayon de l'ISCO vaut trois fois le rayon de Schwarzschild de ce trou noir :
-> RISCO=6GMc2=3RS=6RG.
+    R_{ISCO}=6GM/c²=3R_{S}=6R_{G}.
 Pour un trou noir de Kerr, il varie en fonction du moment angulaire du trou noir considéré et n'est plus que de 0,6 fois le rayon de Schwarzschild pour un trou noir ayant une rotation maximale.
 
 # Trou noir
@@ -255,6 +255,19 @@ Mais tous ces objets restent purement théoriques en l'état actuel de nos conna
 ## Médias
 
 Quand on parle de « culture populaire » à propos de trou noir, on pense souvent à la science-fiction. On y trouve, au cinéma ou dans le domaine littéraire, beaucoup d’inspiration.
+
+# Trou noir
+## Médias
+### Dans les séries
+
+* Doctor Who
+* Stargate SG-1
+* Stargate Atlantis
+* Stargate Universe
+* Sliders : Les Mondes parallèles
+* Farscape
+* Fringe
+* Andromeda
 
 # Trou noir
 ## Médias

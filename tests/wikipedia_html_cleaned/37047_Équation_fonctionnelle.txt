@@ -6,8 +6,8 @@ En mathématiques, une équation fonctionnelle est une équation dont les inconn
 ## Vocabulaire
 
 Le cas le plus fréquent est celui où les valeurs d'une fonction et éventuellement de ses dérivées, calculées en plusieurs points, doivent satisfaire une relation, dite relation fonctionnelle, pour toutes les valeurs de la variable (du moins sur un certain domaine). Deux approches distinctes sont possibles :
-* lorsqu'on étudie une fonction en particulier, il peut être utile de mettre en évidence une relation fonctionnelle qu'elle satisfait, comme la relation xΓ(x)=Γ(x+1) satisfaite par la fonction gamma d'Euler, ou celle satisfaite par la fonction zêta de Riemann : ζ(s)=2sπs−1sin⁡(πs2)Γ(1−s)ζ(1−s). On en déduit ensuite d'autres propriétés de la fonction : par exemple que la fonction zêta de Riemann s'annule aux nombres entiers strictement négatifs pairs, et ne possède pas d'autres zéros en dehors de la bande 0 < Re(s) < 1 ;
-* lorsqu'on résout une équation fonctionnelle à proprement parler, on étudie l'ensemble des fonctions satisfaisant une relation donnée. Un exemple est la recherche des fonctions vérifiant f(az+bcz+d)=(cz+d)kf(z) (où a, b, c et d sont des entiers naturels vérifiant ad − bc = 1) qu'on appelle des formes modulaires. Il arrive que certaines conditions analytiques soient exigées. Le théorème de Bohr-Mollerup en est un exemple. En l'absence de ces conditions, une équation fonctionnelle très simple comme l'équation fonctionnelle de Cauchy peut avoir des solutions très irrégulières.
+* lorsqu'on étudie une fonction en particulier, il peut être utile de mettre en évidence une relation fonctionnelle qu'elle satisfait, comme la relation xΓ(x)=Γ(x+1) satisfaite par la fonction gamma d'Euler, ou celle satisfaite par la fonction zêta de Riemann : ζ(s)=2ˢπˢ⁻¹sin⁡(πs/2)Γ(1−s)ζ(1−s). On en déduit ensuite d'autres propriétés de la fonction : par exemple que la fonction zêta de Riemann s'annule aux nombres entiers strictement négatifs pairs, et ne possède pas d'autres zéros en dehors de la bande 0 < Re(s) < 1 ;
+* lorsqu'on résout une équation fonctionnelle à proprement parler, on étudie l'ensemble des fonctions satisfaisant une relation donnée. Un exemple est la recherche des fonctions vérifiant f((az+b)/(cz+d))=(cz+d)ᵏf(z) (où a, b, c et d sont des entiers naturels vérifiant ad − bc = 1) qu'on appelle des formes modulaires. Il arrive que certaines conditions analytiques soient exigées. Le théorème de Bohr-Mollerup en est un exemple. En l'absence de ces conditions, une équation fonctionnelle très simple comme l'équation fonctionnelle de Cauchy peut avoir des solutions très irrégulières.
 Lorsque l'équation relie les valeurs d'une fonction et de ses dérivées en un même point, elle est appelée équation différentielle. D'autres équations utilisent des propriétés globales des fonctions inconnues ; on parle par exemple d'équations intégrales, ou de problèmes d'optimisation (lesquels sont l'objet du calcul des variations), comme le problème de Plateau.
 
 # Équation fonctionnelle
@@ -19,14 +19,15 @@ Lorsque l'équation relie les valeurs d'une fonction et de ses dérivées en un 
 * f(x+T) = f(x), définissant les fonctions périodiques de période T ;
 * f(az) = af(z)(1 − f(z)) (équation de Poincaré)
 * f((x + y)/2) = (f(x) + f(y))/2 (Jensen) ;
-> Les solutions sont celles de l'équation fonctionnelle de Cauchy, à une constante près.
+    Les solutions sont celles de l'équation fonctionnelle de Cauchy, à une constante près.
 * f(x + y) + f(x − y) = 2f(x)f(y) (équation fonctionnelle de d'Alembert) Les solutions continues sont les fonctions constantes 0, 1, et les fonctions trigonométriques cosinus et cosinus hyperbolique ;
 * f(h(x)) = f(x) + 1 (Abel) ;
 * f(h(x)) = cf(x) (Schröder). L'équation de Schröder est satisfaite par la fonction de Koenigs (en).
 * f(f(x)) = g(x), autrement dit la détermination d'une racine carrée fonctionnelle.
 * Une forme simple d'équation fonctionnelle est la relation de récurrence, dont la fonction inconnue est une suite (formellement : une fonction définie sur l'ensemble des entiers) et qui met en jeu l'opérateur de décalage.
-* L'associativité et la commutativité sont des équations fonctionnelles. Quand la loi de composition interne est représentée sous sa forme habituelle, par un symbole entre les deux variables, son associativité s'écrit comme suit :(a∗b)∗c=a∗(b∗c).
+* L'associativité et la commutativité sont des équations fonctionnelles. Quand la loi de composition interne est représentée sous sa forme habituelle, par un symbole entre les deux variables, son associativité s'écrit comme suit : (a∗b)∗c=a∗(b∗c).
 Mais si l'on écrit f(a, b) au lieu de a ∗ b, alors l'associativité de la loi ressemble plus à ce que l'on entend conventionnellement par « équation fonctionnelle » :
+f(f(a, b), c)=f(a, f(b, c)).
 Un point commun à tous ces exemples est que dans chacun des cas, deux ou plusieurs fonctions (tantôt la multiplication par une constante, tantôt l'addition de deux variables, tantôt la fonction identité) sont substituées à l'inconnue.
 
 # Équation fonctionnelle
@@ -40,22 +41,22 @@ On parle de formule de réflexion est une équation fonctionnelle caractérisant
 
 Les formules de réflexion simples comme f(x)=f(−x) ou f(x)=−f(−x) impliquent l'étude de la parité des fonctions solutions (la première caractérise les fonctions paires, la seconde pour les fonctions impaires).
 Un des exemples les plus connus est la formule des compléments de la fonction gamma, démontré par Leonhard Euler
-> ∀z∈]0;1[, Γ(z)Γ(1−z)=πsin⁡(πz).
+    ∀z∈]0;1[, Γ(z)Γ(1−z)=π/sin⁡(πz).
 La formule de réflexion pour la fonction zêta de Riemann est donnée par :
-> ζ(1−z)=2(2π)zcos⁡(πz2)Γ(z)ζ(z).
+    ζ(1−z)=2/(2π)ᶻ cos⁡(πz/2)Γ(z)ζ(z).
 qu'on peut réécrire de façon équivalente
-> −πζ(−z)=1(2π)zsin⁡(πz2)Γ(z+1)ζ(z+1).
+    −πζ(−z)=1/(2π)ᶻ sin⁡(πz/2)Γ(z+1)ζ(z+1).
 La fonction xi de Riemann vérifie la formule de réflexion
-> ξ(z)=ξ(1−z).
+    ξ(z)=ξ(1−z).
 La fonction G de Barnes vérifie la formule de réflexion
-> G(z+1)=Γ(z)G(z).
+    G(z+1)=Γ(z)G(z).
 Le dilogarithme vérifie les formules de réflexion
-> Li2(1z)=−Li2(z)−π26−12ln⁡(−z)2.
-> Li2(1−z)=−Li2(z)+π26−ln⁡(z)ln⁡(1−z).
+    Li₂(1/z)=−Li₂(z)−π²/6−1/2 ln⁡(−z)².
+    Li₂(1−z)=−Li₂(z)+π²/6−ln⁡(z)ln⁡(1−z).
 La fonction L de Rogers vérifie la formule de réflexion
-> L(x)+L(1−x)=1.
+    L(x)+L(1−x)=1.
 La série L de Dirichlet associée à la fonction tau de Ramanujan f(s) vérifie la formule de réflexion
-> f(s)Γ(s)(2π)s=f(12−s)Γ(12−s)(2π)12−s.
+    f(s)Γ(s)/(2π)ˢ=f(12−s)Γ(12−s)/(2π)¹²⁻ˢ.
 
 # Équation fonctionnelle
 ## Relation de duplication
@@ -67,11 +68,11 @@ On parle de formule de duplication quand l'équation fonctionnelle fait interven
 ### Exemples
 
 De ses liens avec la fonction bêta, on peut montrer que la fonction gamma vérifie la « formule de duplication de Legendre » :
-> Γ(z)2Γ(2z)=21−2zΓ(12)Γ(z)Γ(z+12).
+    Γ(z)²/Γ(2z)=2¹⁻²ᶻ Γ(1/2)Γ(z)/(Γ(z+1/2)).
 Le dilogarithme satisfait à
-> Li2(z2)=2(Li2(z)+Li2(−z)).
+    Li₂(z²)=2(Li₂(z)+Li₂(−z)).
 La fonction L de Rogers vérifie la formule de duplication :
-> 12L(x2)=L(x)−L(x1+x).
+    1/2 L(x²)=L(x)−L(x/(1+x)).
 
 # Équation fonctionnelle
 ## Applications

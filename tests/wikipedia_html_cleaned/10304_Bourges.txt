@@ -21,6 +21,15 @@ Ancienne ville fortifiée, Bourges a conservé quelques vestiges de ces défense
 
 # Bourges
 ## Géographie
+### Communes limitrophes
+
+Communes limitrophes de Bourges :
+| Saint-Doulchard | Vasselay Fussy | Saint-Michel-de-Volangis Saint-Germain-du-Puy |
+| Marmagne | | Osmoy |
+| La Chapelle-Saint-Ursin Le Subdray | Trouy Plaimpied-Givaudins | Soye-en-Septaine |
+
+# Bourges
+## Géographie
 ### Climat
 
 Le climat de Bourges est tempéré avec des influences continentales et océaniques. Les données suivantes ont été relevées à la station Météo France de l'aéroport de Bourges : La station météorologique de Météo-France installée sur l'aérodrome de la commune et mise en service en 1945 permet de connaître en continu l'évolution des indicateurs météorologiques. Le tableau détaillé pour la période 1981-2010 est présenté ci-après.
@@ -356,6 +365,27 @@ L'agglomération dispose aussi de trois autres petites gares qui sont les gares 
 
 Une ligne TGV est à l'étude pour un trajet Paris - Orléans - Bourges - Clermont-Ferrand - Lyon, mais s'avère compromise par les derniers plans d'équipement nationaux revus à la baisse. Le projet est mis en pause en 2018.
 Plusieurs tracés avaient été proposés, dont certains passaient par Bourges, d'autres par Nevers. La variante Ouest, qui devait desservir Bourges directement, était privilégiée avant la suspension du projet.
+* Blois : 113
+* Bordeaux : 426
+* Orléans : 126
+* Brest : 647
+* Chartres : 193
+* Châteauroux : 103
+* Gien : 78
+* Le Mans : 262
+* Lille : 464
+* Limoges : 224
+* Lyon : 342
+* Marseille : 650
+* Metz : 532
+* Montargis : 136
+* Nantes : 358
+* Nice : 806
+* Paris : 249
+* La Rochelle : 375
+* Strasbourg : 585
+* Toulouse : 511
+* Tours : 164
 
 # Bourges
 ## Urbanisme
@@ -432,6 +462,8 @@ Cette cathédrale originale constitue un manifeste visible de la puissance de l�
 En 1251, la croisade des Pastoureaux passe à Bourges.
 De grands incendies, celui du 23 juin 1252 qui entre dans la mémoire de la ville et en 1353 favorisent la reconstruction et la modification de l'architecture de la ville au contact de la cathédrale qui est épargnée. L'incendie de juin 1252 arrive après plusieurs années arides et est activé par le vent. Il cause de grandes destructions dans les quartiers Saint-Médard, Saint-Pierre-le-Marché, Saint-Pierre-le-Guillard et Saint-Ambroix. Le soir même, l'archevêque Philippe Berruyer écrit la nouvelle à la régente, Blanche de Castille, qui dépêche une commission d'enquête. Cette commission interroge 249 personnes et livre un rapport sous forme d'un rouleau de parchemin de 120 m de long, sources exceptionnelles sur l'incendie, cependant incomplètes : alors qu'elles décrivent des destructions sur le quart nord-ouest de la ville Jean-Pierre Leguay estime que la superficie touchée est bien plus importante.
 Les personnes se retrouvant sans abri sont très nombreuses : plus des deux tiers des habitants des maisons détruites sont dans l'incapacité de reconstruire ou de trouver un logement de substitution. La ville fait construire des baraques de fortune en armature bois et murs de torchis pour les héberger en urgence. Une théorie du complot émerge à l'occasion, et on accuse les Pastoureaux, passés l'année d'avant, d'être la cause de l'incendie.
+Le grand feu très fort merveilleux A fait maintes gens douloureux Qui advint par adversité A Bourges, la noble cité Par grand malheur et par effet Mil quatre cent quatre vingt sept Un jour de feste Madelaine Dont on sortit souci et peine Qui durera plus de cent ans Aux enfants des pauvres perdans. Commença, ainsi je le crois Par l'église Sainte-Croix [angle de la rue Littré et de la rue des Trois Pommes] Et delà il fit la descendue En brûlant toute la grand'rue Que l'on nomme de Mont-Chevril ; [rue de Montchevry : rue Gambon] Et puis après, comme je vis, Embrasa, comme s'il fut fol Tout Saint-Ambroise et tout Petol [rue Bourbon, avenue Jean-Jaurès et rue du Puits-de-Juvence] Porte-Neuve et rue des Toiles [rue du Commerce ; rue des Toiles] Et puis après tendit ses voiles Brûlant Auvent et Croix-de-Pierre [place Henri-Mirpied ; place de la Barre] Et après il s'en vint conquerre L'Eglise Saint-Pierre-le-Marché ; La grand'rue de la Parerie De toutes parts en fut saisie La rue des Seps et Mirebeau [rue sous les Ceps] Et toutes maisons dessus l'eau Et puis après mit tout à net La paroisse de Saint-Bonnet Et Saint-Laurent, maisons, église [place Saint-Bonnet] N'y laissa pas une chemise. La moitié du bourg Saint-Privé [avenue Mar-Dormoy] Ne Saint-Quentin n'en fut privé [Cour Saint-Quentin] Non plus le portail de la Ville. [Porte Saint-Privé sur le pont Saint-Privé] Que maudit soit de fois cent mille Jean Germain, lequel tant de bois Y mit qu'il brûla cette fois ! Et en continuant mes dits Les Carmes, Comtau, Paradis [les Carmes : place Cujas ; Comtau : Notre-Dame de la Comtale (école des Beaux-Arts) ; Paradis : rue Édouard-Branly] De toutes parts fut désolé Et déconfit et affolé Par le grand feu qui fut tant chaud. Tout Saint-Michel et la Fourchaud [Saint-Michel : rue Michel-Servet ; église Notre-Dame de la Fourchaud] Jusques au coin qu'on dit Bastard [angle de la rue Porte-Jaune et rue de la Monnaie] Tout fut brûlé, perdu et ard Comme si c'étoit feu de poudre ; Mais, Dieu mercy, ne passa outre. Les Augustins, la Boucherie, [couvent des Augustins, rue Mirebeau, la Boucherie, les Changes, la Poissonnerie, la place Gordaine] Les Changes, la Poissonnerie, Porte Gordaine n'eut pas mieux Pelleterie ne la Narrette. [la Pelleterie : rue Coursalon ; la Narrette : rue de l'Hôtel-Lallemant] Chacun pensait presque défaite De la grand'rue près la moitié [grand'rue : rue Bourbonnoux] Et de Charlet dont fut pilité. [rue Charlet : rue Joyeuse, rue Geoffroy-Tory] Saint-Jean-des-Champs point n'y toucha [place Louis-Lacombe] Mais près de lui fort s'approcha Chez l'avocat du seigneur roy. Fut apaisé au matin coy En rendant au nom Dieu mercy Fut apaisé partout ainsy. Je prie à Dieu, à sa puissance Aux perdants donner patience Et les rembourser de leurs pertes Dont leurs douleurs sont bien appertes ; Leur octroyer pour payement A tretous éternellement Par sa digne permission De son paradis la maison. Amen.
+— Anonyme, version donnée par Philippe Goldman et reproduite et annotée par Leguay, op. cit., 2005, p. 66-68.
 La ville est à nouveau incendiée en 1259, 1338, 1353, 1407, 1463, 1467, le 27 juillet 1487, en 1508 et en 1538. La ville stocke pourtant par prudence 700 seaux dans toute la ville, pour favoriser la lutte précoce contre l'incendie, mais, entre autres facteurs, les départs d'incendie sont favorisés par l'absence de foyer protégé dans les ateliers de nombreux artisans. Il arrive toutefois que la lutte contre l'incendie soit victorieuse, comme le 29 juin 1491. Ce jour-là, l'incendie prend dans les écuries de l'auberge Barangier, au faubourg Saint-Sulpice. Des équipes de charpentiers sont envoyées sur les toits pour couper les chevrons et faire tomber la charpente avec de grands crochets prévus à cet effet, et limiter ainsi la propagation de l'incendie.
 Fin août 1356, le faubourg d'Auron est pillé et incendié par les troupes anglaises du Prince Noir mais celles-ci sont chassées par les Berruyers.
 À l’emplacement de ce combat fut élevée une croix, la « Croix Moult Joie » (Croix Forte Joie), où il est inscrit : « Croix érigée en souvenir de la victoire remportée sur les Anglais par les habitants de Bourges en 1356 ». Cette croix fut détruite et reconstruite plusieurs fois
@@ -574,6 +606,25 @@ Bourges a aussi pu accueillir des mouvements a-partisans difficilement classable
 ### Administration municipale
 
 Le nombre d'habitants étant compris entre 60 000 et 79 999, le nombre de conseillers municipaux est de quarante-neuf, y compris le maire et ses adjoints.
+
+# Bourges
+## Politique et administration
+### Liste des maires
+
+Liste des maires successifs depuis la Libération de la France :
+| Période | Période | Identité | Étiquette | Qualité |
+| 1944 | 1947 | Charles Cochet | SFIO | Instituteur Officier de la Légion d'honneur et officier de l'Instruction publique |
+| 1947 | 1948 | Henri Sallé | RPF | Décédé en fonctions |
+| 1948 | 1953 | André Cothenet | RPF puis DVD | Avoué Conseiller général de Bourges (1951 → 1970) |
+| 1953 | 1959 | Louis Mallet | DVD | Négociant en matériaux |
+| 1959 | 1977 | Raymond Boisdé | CNIP puis RI | Député du Cher (1ʳᵉ circ.) (1951 → 1978) |
+| 1977 | 18 mai 1993 | Jacques Rimbault | PCF | Ajusteur Député du Cher (1ʳᵉ puis 2ᵉ circ.) (1981 → 1993) Conseiller général de Bourges-1 (1973 → 1988) |
+| juin 1993 | juin 1995 | Jean-Claude Sandrier | PCF | Chimiste Député du Cher (2ᵉ circ.) (1997 2012) Conseiller régional (1998 → 2004) Conseiller général de Bourges-1 (1988 → 1998) |
+| 1995 | 2004 | Serge Lepeltier | RPR puis UMP | Cadre dirigeant Député du Cher (3ᵉ circ) (1993 → 1997) Sénateur du Cher (1998 → 2004) Ministre (2004 → 2005) Président de la CA Bourges Plus (2002 → 2008) Conseiller général de Bourges-2 (1994 → 1995) Conseiller régional du Centre Démissionnaire à la suite de sa nomination au gouvernement. |
+| 2004 | 2005 | Roland Chamiot | UMP | Cadre technique d'EDF-GDF Conseiller général de Bourges-3 (2001 → 2008) |
+| 2005 | 2014 | Serge Lepeltier | UMP puis PRV puis UDI-PRV | Cadre dirigeant, contrôleur général au ministère des finances Ministre (2004 → 2005) Conseiller régional 1ᵉʳ vice-président de la CA Bourges Plus (2008 → 2014) Président du Comité de bassin Loire Bretagne (2008 → ?) Ambassadeur français pour le climat (2011 → 2013) |
+| avril 2014 | juillet 2020 | Pascal Blanc | UDI-PRV puis MR | responsable achats à MBDA Ancien président du Bourges athlétique club Président de la CA Bourges Plus (2014 → 2020) |
+| juillet 2020 | En cours (au 10 juin 2021) | Yann Galut | PS puis DVG | Avocat Conseiller départemental de Bourges-1 (2015 →) Vice-président de la CA Bourgs Plus (2020 →) |
 
 # Bourges
 ## Politique et administration

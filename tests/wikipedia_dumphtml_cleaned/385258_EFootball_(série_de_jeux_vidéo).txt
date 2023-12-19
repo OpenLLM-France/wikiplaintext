@@ -14,22 +14,11 @@ La série est un jeu de football orienté simulation. Le joueur peut contrôler 
 ## Système de jeu
 ### Mode de jeu
 
-* Coup d'envoi : Regroupe
-tous les modes de jeux hors-ligne.
-* eFootball : Regroupe tous
-les modes de jeux en ligne
-* Ligue des Masters : Mode
-de jeu emblématique de la série apparu en 1998. Il donne à l'utilisateur le contrôle d'une équipe
-qu'il doit faire progresser. Soit avec des joueurs fictifs qu'il faudra améliorer ou échanger contre
-de meilleurs joueurs (en échanges de points) sois avec une équipe réel. Les points se gagnant en
-remportant des matchs, des coupes et des championnats. Certains anciens joueurs fictif comme
-l'attaquant brésilien Castolo, sont devenus des figures culte pour beaucoup de joueurs de la Master
-League.
-* MyClub : Apparu en 2015,
-ce mode de jeu en ligne permet de créer une équipe de joueurs inconnus, et de constituer au fur et à
-mesure des matchs une équipe avec des joueurs expérimentés voir légendaires.
-* Vers une légende : Mode
-de jeu où l'on incarne un seul joueur.
+* Coup d'envoi : Regroupe tous les modes de jeux hors-ligne.
+* eFootball : Regroupe tous les modes de jeux en ligne
+* Ligue des Masters : Mode de jeu emblématique de la série apparu en 1998. Il donne à l'utilisateur le contrôle d'une équipe qu'il doit faire progresser. Soit avec des joueurs fictifs qu'il faudra améliorer ou échanger contre de meilleurs joueurs (en échanges de points) sois avec une équipe réel. Les points se gagnant en remportant des matchs, des coupes et des championnats. Certains anciens joueurs fictif comme l'attaquant brésilien Castolo, sont devenus des figures culte pour beaucoup de joueurs de la Master League.
+* MyClub : Apparu en 2015, ce mode de jeu en ligne permet de créer une équipe de joueurs inconnus, et de constituer au fur et à mesure des matchs une équipe avec des joueurs expérimentés voir légendaires.
+* Vers une légende : Mode de jeu où l'on incarne un seul joueur.
 
 # EFootball (série de jeux vidéo)
 ## Système de jeu
@@ -45,58 +34,31 @@ Il existe dans le jeu plusieurs ligues vides qui peuvent être éditées intégr
 #### Compétitions importantes licenciées
 
 * UEFA EURO: Championnat d’Europe des nations
-* Série A : la ligue
-était, jusqu'en 2018, exclusive à Electronic Arts. Mais les clubs italiens bénéficient d'une
-autonomie de leurs droits, ce qui a permis à Konami de négocier individuellement avec chacun
-d'eux. Aujourd'hui, la Série A est présente dans les deux jeux sous licence officielle, mais
-Konami possède, par rapport à Electronic Arts, un panel plus fourni de clubs de Série A
-(exclusivité avec la Juventus, L' AS Rome et la Lazio).
-* Ligue 1 : depuis PES 6, la Ligue 1 est entièrement licenciée dans la série. Cependant, seul
-l'AS Monaco a vu son stade
-modélisé dans les jeux de la fin des années 2000 et depuis PES 2019.
+* Série A : la ligue était, jusqu'en 2018, exclusive à Electronic Arts. Mais les clubs italiens bénéficient d'une autonomie de leurs droits, ce qui a permis à Konami de négocier individuellement avec chacun d'eux. Aujourd'hui, la Série A est présente dans les deux jeux sous licence officielle, mais Konami possède, par rapport à Electronic Arts, un panel plus fourni de clubs de Série A (exclusivité avec la Juventus, L' AS Rome et la Lazio).
+* Ligue 1 : depuis PES 6, la Ligue 1 est entièrement licenciée dans la série. Cependant, seul l'AS Monaco a vu son stade modélisé dans les jeux de la fin des années 2000 et depuis PES 2019.
 
 # EFootball (série de jeux vidéo)
 ## Système de jeu
 ### Patchs et licences manquantes
 #### Compétition importantes non licenciées
 
-* UEFA Champion's League : les droits exclusifs sont attribués à Electronic Arts depuis
-2018.
-* Premier League : la
-ligue ayant signé un partenariat d’exclusivité avec Electronic Arts jusqu'en 2024, Konami est
-forcé de négocier individuellement avec chaque club. Il n'est cependant permis de ne négocier
-qu'avec deux clubs maximum. Les clubs sont Arsenal et Manchester United.
-* Bundesliga : la ligue
-allemande a signé un partenariat d’exclusivité avec Electronic Arts jusqu'en 2022, ce qui ne
-permet pas à Konami d'utiliser les équipes. N'étant pas dans l'accord FIFPro, les joueurs du
-championnat ne peuvent pas non plus être utilisés dans les jeux. Comme il n'est permis de ne
-négocier qu'avec trois clubs maximum, seuls les clubs de Schalke 04, du Bayern Munich
-et du Bayer Leverkusen sont inclus dans le jeu.
-* La Liga : la ligue
-ayant aussi signé un partenariat d’exclusivité avec Electronic Arts jusqu'en 2024 et avec le
-Real Madrid.
+* UEFA Champion's League : les droits exclusifs sont attribués à Electronic Arts depuis 2018.
+* Premier League : la ligue ayant signé un partenariat d’exclusivité avec Electronic Arts jusqu'en 2024, Konami est forcé de négocier individuellement avec chaque club. Il n'est cependant permis de ne négocier qu'avec deux clubs maximum. Les clubs sont Arsenal et Manchester United.
+* Bundesliga : la ligue allemande a signé un partenariat d’exclusivité avec Electronic Arts jusqu'en 2022, ce qui ne permet pas à Konami d'utiliser les équipes. N'étant pas dans l'accord FIFPro, les joueurs du championnat ne peuvent pas non plus être utilisés dans les jeux. Comme il n'est permis de ne négocier qu'avec trois clubs maximum, seuls les clubs de Schalke 04, du Bayern Munich et du Bayer Leverkusen sont inclus dans le jeu.
+* La Liga : la ligue ayant aussi signé un partenariat d’exclusivité avec Electronic Arts jusqu'en 2024 et avec le Real Madrid.
 
 # EFootball (série de jeux vidéo)
 ## Système de jeu
 ### Commentateur français
 
-* ISS Pro Evolution : Olivier Deslandes et
-Thierry Fourmi
-* ISS Pro 2 : Olivier Deslandes et Gérard
-Perron
-* PES : Olivier Deslandes (sous le
-pseudonyme Edgar Bureau) et Gérard Perron
+* ISS Pro Evolution : Olivier Deslandes et Thierry Fourmi
+* ISS Pro 2 : Olivier Deslandes et Gérard Perron
+* PES : Olivier Deslandes (sous le pseudonyme Edgar Bureau) et Gérard Perron
 * PES 2 : Cyril Linette et Rémi Garde
-* PES 3 : Cyril Linette et Stéphane
-Guivarc'h
-* PES 4 / 5 / 6 : Christian Jeanpierre et
-Jean-Luc
-Arribart
-* PES 2008 / 2009 : Christian Jeanpierre et
-Laurent
-Paganelli
-* PES 2010 à PES 2012 : Christophe Dugarry et Grégoire
-Margotton
+* PES 3 : Cyril Linette et Stéphane Guivarc'h
+* PES 4 / 5 / 6 : Christian Jeanpierre et Jean-Luc Arribart
+* PES 2008 / 2009 : Christian Jeanpierre et Laurent Paganelli
+* PES 2010 à PES 2012 : Christophe Dugarry et Grégoire Margotton
 * PES 2013 à PES 2021 : Darren Tulett et Grégoire Margotton
 * eFootball : Darren Tulett et Grégoire Margotton
 
@@ -274,24 +236,12 @@ Quatre modes différents. Un mode exposition, un mode ligue internationale, un m
 ### International Superstar Soccer Pro 98 (1998)
 
 International Superstar Soccer Pro 98 (Winning Eleven 3 au Japon) est le troisième épisode de la série et a été publié le 1 mai 1998. Le jeu propose six modes différents. Les quatre modes de la version précédente et deux nouveaux, All-star et entrainement.
-* Mode Exposition: un match amical contre un ordinateur ou un autre joueur avec un choix de
-difficulté, de stade, de météo et de durée et d'heure de match. Il était également possible de jouer
-avec un autre joueur ou avec ordinateur contre ordinateur. L'option ordinateur contre ordinateur
-était également disponible.
-* Mode Ligue: 16 équipes internationales participent à la ligue en jouant la demi-saison ou
-la saison complète avec un choix libre d'équipes.
-* Mode Coupe: principalement concentré sur l'émulation de la Coupe du Monde de la FIFA avec
-le tirage au sort réel comme lors de la Coupe du Monde de la FIFA 1998. Ce mode comprenait également
-des coupes locales comme la Coupe d'Europe, la Coupe d'Asie, la Coupe d'Afrique, la Coupe d'Amérique
-du Nord et la Coupe d'Amérique du Sud, chacune basée sur les conditions de la phase à élimination
-directe. La Konami Cup était celle avec les paramètres les plus ajustables comme le nombre d'équipes
-et la base des tournois. Il est également possible d'essayer de se qualifier pour la Coupe du monde.
-* All Star Match: un match amical entre les World Stars Players et les European Stars
-Players.
-* Mode Penalty: deux équipes effectuent cinq coups de pied de pénalité pour sélectionner le
-vainqueur. En cas d'égalité, ils subissent une mort subite.
-* Entraînement: pratique du tir aux coups francs et aux coups de pied de coin avec une
-équipe sélectionnée.
+* Mode Exposition: un match amical contre un ordinateur ou un autre joueur avec un choix de difficulté, de stade, de météo et de durée et d'heure de match. Il était également possible de jouer avec un autre joueur ou avec ordinateur contre ordinateur. L'option ordinateur contre ordinateur était également disponible.
+* Mode Ligue: 16 équipes internationales participent à la ligue en jouant la demi-saison ou la saison complète avec un choix libre d'équipes.
+* Mode Coupe: principalement concentré sur l'émulation de la Coupe du Monde de la FIFA avec le tirage au sort réel comme lors de la Coupe du Monde de la FIFA 1998. Ce mode comprenait également des coupes locales comme la Coupe d'Europe, la Coupe d'Asie, la Coupe d'Afrique, la Coupe d'Amérique du Nord et la Coupe d'Amérique du Sud, chacune basée sur les conditions de la phase à élimination directe. La Konami Cup était celle avec les paramètres les plus ajustables comme le nombre d'équipes et la base des tournois. Il est également possible d'essayer de se qualifier pour la Coupe du monde.
+* All Star Match: un match amical entre les World Stars Players et les European Stars Players.
+* Mode Penalty: deux équipes effectuent cinq coups de pied de pénalité pour sélectionner le vainqueur. En cas d'égalité, ils subissent une mort subite.
+* Entraînement: pratique du tir aux coups francs et aux coups de pied de coin avec une équipe sélectionnée.
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence
@@ -399,18 +349,9 @@ Les principales évolutions dévoilées concernent :
 * La possibilité de positionner son mur et paramétrer le nombre de joueurs qui le compose.
 * L'amélioration des commentaires. (Laurent Paganelli de Canal+ pour la version Française)
 * Possibilité d'insérer son visage sur un joueur grâce à une caméra.
-* Le jeu Wii bénéficie d'un
-système de jeu totalement inédit utilisant la Wiimote et le Nunchuk. Le pointeur de la Wiimote permet
-d'effectuer différentes actions (dribble du joueur, passes courtes ou longues, déplacement d'un
-coéquipier...) et le Nunchuk permet d'autres actions (tirs, dégagements, tacles). Le joystick du Nunchuk
-permet de faire dribbler temporairement le joueur possédant le ballon pendant que les ordres sont
-fournis aux coéquipiers avec la Wiimote. Cette version Wii s'apparente davantage à un "RTS footballistique" qu'un PES classique mais elle promet
-de nouveaux horizons en termes de stratégie.
-* La possibilité de simuler et de provoquer une faute (version xbox360 et PS3 ainsi que
-PC).
-* De nouveaux gestes comme la "Drogba" reprenant la feinte connue du joueur (effectuée
-durant le match Marseille-Newcastle en Ligue des Champions qui amena un but sur l'action) et de
-nouvelles feintes de corps.
+* Le jeu Wii bénéficie d'un système de jeu totalement inédit utilisant la Wiimote et le Nunchuk. Le pointeur de la Wiimote permet d'effectuer différentes actions (dribble du joueur, passes courtes ou longues, déplacement d'un coéquipier...) et le Nunchuk permet d'autres actions (tirs, dégagements, tacles). Le joystick du Nunchuk permet de faire dribbler temporairement le joueur possédant le ballon pendant que les ordres sont fournis aux coéquipiers avec la Wiimote. Cette version Wii s'apparente davantage à un "RTS footballistique" qu'un PES classique mais elle promet de nouveaux horizons en termes de stratégie.
+* La possibilité de simuler et de provoquer une faute (version xbox360 et PS3 ainsi que PC).
+* De nouveaux gestes comme la "Drogba" reprenant la feinte connue du joueur (effectuée durant le match Marseille-Newcastle en Ligue des Champions qui amena un but sur l'action) et de nouvelles feintes de corps.
 Malgré ces améliorations, il a été reproché à Konami de trop se reposer sur les lauriers obtenus avec les versions précédentes. Les critiques vis-à-vis de la version disponible sur PlayStation 3 et Xbox 360 sont en général mauvaises et favorisent pour cette fois l'autre célèbre jeu de football FIFA 08 (ce qui n'est pas le cas pour la version présente sur PlayStation 2). Base de données trop restreinte, game play proche de l'arcade et intelligence artificielle douteuse sont les reproches les plus fréquents.
 
 # EFootball (série de jeux vidéo)
@@ -451,50 +392,24 @@ Slogan: "Can You Play?" (Pouvez-vous jouer ?)
 Pro Evolution Soccer 2012 (World Soccer: Winning Eleven 2012 aux Japon) est le seizième épisode de la série et est sorti officiellement le 29 septembre 2011 sur PlayStation 3, Xbox 360, PC, Nintendo DS le 27 octobre 2011 sur PSP et PS2 le 10 novembre 2011 sur Wii
 Comme améliorations, le jeu propose la gestion des accélérations des joueurs ainsi que le rythme de jeu et des innovations par rapport à l'opus précédent, telles que la possibilité de contrôler le joueur auquel on veut faire la passe, l'instauration de myPES, un système qui publie les résultats des matchs en multijoueur sur Facebook ou encore la possibilité de régler l'assistanat de l'intelligence artificielle. Par ailleurs, le gameplay est revu et amélioré. Les graphismes du jeu, quant à eux, changent peu par rapport à l'opus précédent même si les traits des visages des joueurs deviennent plus réalistes. La durée de vie est très longue grâce à un mode solo riche ; on peut également noter l'apparition d'un nouveau mode de jeu, « Club Boss », qui met le joueur dans la peau d'un président : dans ce mode, le joueur dirige un club mais les matchs sont simulés. Le multijoueur en ligne est disponible grâce à un système de serveurs et de nombreux modes de jeu sont jouables en ligne.
 PES 2012 apporte d'autres nouveautés et surtout au niveau du gameplay et des licences.
-* Autour du terrain, on aura une ambiance plus réaliste, on verra les stadiers,
-journalistes, photographes et cameraman seront enfin mobiles (comparé aux images plates des
-précédents opus) et les supporters aussi seront plus réels.
-* Principale innovation : il s'agit de
-l'"IA active". Ce système permettra un comportement plus réel des joueurs comme le marquage en zone,
-le jeu en triangle, de faux appels de balle pour ouvrir un chemin au possesseur du ballon. Le
-un-contre-un a aussi été remanié, les défenseurs sont moins forts, le marquage individuel est
-amélioré. On peut aussi contrôler un deuxième joueur simultanément. Les graphismes sont plus
-réalistes : on voit la transpiration et les
-expressions des joueurs se voient vraiment. La deuxième innovation principale est la gestion
-d'amour.
+* Autour du terrain, on aura une ambiance plus réaliste, on verra les stadiers, journalistes, photographes et cameraman seront enfin mobiles (comparé aux images plates des précédents opus) et les supporters aussi seront plus réels.
+* Principale innovation : il s'agit de l'"IA active". Ce système permettra un comportement plus réel des joueurs comme le marquage en zone, le jeu en triangle, de faux appels de balle pour ouvrir un chemin au possesseur du ballon. Le un-contre-un a aussi été remanié, les défenseurs sont moins forts, le marquage individuel est amélioré. On peut aussi contrôler un deuxième joueur simultanément. Les graphismes sont plus réalistes : on voit la transpiration et les expressions des joueurs se voient vraiment. La deuxième innovation principale est la gestion d'amour.
 * 2 nouveaux stades nommés Burg & Royal London (noms en anglais) sont dans PES 2012 ainsi que le Stade de France vu dans les photos officielles du jeu.
-* Par défaut, la vitesse de jeu est la même que dans PES 2011 mais on peut toujours la
-changer.
-* Il y a maintenant des collisions entre les joueurs sans ballon, par exemple, sur les
-centres ou les corners.
+* Par défaut, la vitesse de jeu est la même que dans PES 2011 mais on peut toujours la changer.
+* Il y a maintenant des collisions entre les joueurs sans ballon, par exemple, sur les centres ou les corners.
 * Plus d’animations lors des tacles.
-* Les gardiens ne sont pas encore au point dans la démonstration du jeu mais John Murphy a
-déclaré sur son compte Twitter
-que les gardiens vont être améliorés. Ils bénéficieront aussi de nouvelles animations.
-* Le système de penaltys revient à quelque chose de plus facile à appréhender. On peut
-maintenant réaliser une panenka
-en pressant la touche R1.
+* Les gardiens ne sont pas encore au point dans la démonstration du jeu mais John Murphy a déclaré sur son compte Twitter que les gardiens vont être améliorés. Ils bénéficieront aussi de nouvelles animations.
+* Le système de penaltys revient à quelque chose de plus facile à appréhender. On peut maintenant réaliser une panenka en pressant la touche R1.
 * L’arbitrage est meilleur, laissant plus souvent l’avantage pour favoriser un jeu fluide.
-* À l’écran de formation, les joueurs ont maintenant une lettre pour noter leurs
-compétences. Par exemple, David Villa a un A pour les dribbles, un D pour la défense, etc.
-* Graphiquement, le jeu est amélioré : les
-effets de lumière sont mieux retranscrits, les joueurs ressemblent encore plus aux vrais, ils
-transpirent, etc.
-* Les nouvelles cages à filets carrés et tendus rendent bien. Elles réagissent de manière
-réaliste.
-* Il y aura différentes caméras suivant le stade. L’impression est différente quand on est
-au Camp Nou que dans d’autres
-stades par exemple.
-* Les nouveaux menus sont totalement à l’effigie de UEFA.com... En fond, on peut voir des
-ralentis de matchs de Ligue des champions.
-* Il y aura beaucoup plus d'animations dans le mode Ligue Des Masters comme on pourra voir
-les entraîneurs en interview ou bien les réunions de club.
-* Dorénavant, on pourra créer son manager au début d'une Ligue des Masters en changeant son
-apparence, etc.
-* Plusieurs améliorations au niveau du mode Vers une Légende ainsi que des nouvelles
-animations.
-* Le mode créateur de stade sera plus complet et il sera possible désormais de créer des
-stades ovales.
+* À l’écran de formation, les joueurs ont maintenant une lettre pour noter leurs compétences. Par exemple, David Villa a un A pour les dribbles, un D pour la défense, etc.
+* Graphiquement, le jeu est amélioré : les effets de lumière sont mieux retranscrits, les joueurs ressemblent encore plus aux vrais, ils transpirent, etc.
+* Les nouvelles cages à filets carrés et tendus rendent bien. Elles réagissent de manière réaliste.
+* Il y aura différentes caméras suivant le stade. L’impression est différente quand on est au Camp Nou que dans d’autres stades par exemple.
+* Les nouveaux menus sont totalement à l’effigie de UEFA.com... En fond, on peut voir des ralentis de matchs de Ligue des champions.
+* Il y aura beaucoup plus d'animations dans le mode Ligue Des Masters comme on pourra voir les entraîneurs en interview ou bien les réunions de club.
+* Dorénavant, on pourra créer son manager au début d'une Ligue des Masters en changeant son apparence, etc.
+* Plusieurs améliorations au niveau du mode Vers une Légende ainsi que des nouvelles animations.
+* Le mode créateur de stade sera plus complet et il sera possible désormais de créer des stades ovales.
 Pour cette édition, la série à apporter beaucoup de nouveauté, mais le retard accumulé depuis quatre ans ne lui permet pas de rattraper le retard pris sur FIFA.
 Le jeu écope d'une note de 15/20 sur le site Jeuxvideo.com et de 7/10 sur Jeuxvideo.fr. Ceux-ci louent notamment les efforts de Konami sur le gameplay mais regrettent que le jeu ait du mal à rivaliser avec le concurrent FIFA, tout en s'en rapprochant de plus en plus.
 
@@ -548,56 +463,16 @@ Article détaillé : Pro Evolution Soccer 2017.
 Slogan : "Control Reality" (Contrôler la réalité)
 Pro Evolution Soccer 2017 (World Soccer: Winning Eleven 2017 aux Japon) est le vingt-et-unième épisode de la série et est sorti officiellement le 13 septembre 2016 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
 Konami a, pour cette édition encore, l'exclusivité des deux premières compétitions européennes. Par conséquent, tous les utilisateurs peuvent disputer la Ligue des champions et la Ligue Europa.
-* Real Touch : Dans PES 2017, le contact avec la balle est
-nettement amélioré. Chaque joueur contrôlera le ballon d'une façon unique et différente. Il existe
-désormais de nombreux facteurs qui déterminent la vitesse et la précision de la balle. La base est
-l'évaluation des joueurs et de leurs compétences, en plus de la direction et de l'angle du joueur,
-qui est naturellement liée à l'animation suivante.
-* Gardiens : De nouveaux
-mouvements et de nouvelles animations pour les gardiens ont
-été ajoutés dans ce nouvel opus, créant des joueurs beaucoup plus agiles. Ils réagiront beaucoup
-plus rapidement. Avec ces nouveaux portiers intelligents, marquer un but sera plus compliqué. La
-physique du ballon quand le gardien l'attrape est plus réaliste, et ce dernier pourra dévier un tir
-avec chaque partie de son corps.
-* Stratégie et profondeur de l'équipe : Les stratégies connus comme le tiki-taka ou le catenaccio
-pourront être paramétrés comme identité de l'équipe du joueur, elles pourront être configurées dans
-"Instructions avancées". Il sera également possible de modifier instantanément, soit en attaque ou
-en défense, la mentalité de l'équipe avec des contrôles simples, ce qui rendra capable les joueurs
-de réagir immédiatement à la dynamique du match. Les joueurs pourront être contrôlés par des
-stratégies défensives et offensives pour chaque coup de pied arrêtés. Une variété
-d'options permet à l'utilisateur d'adapter à chaque fois son style de jeu à la situation. Les
-options défensives comprennent par exemple un marquage individuel ou une défense plus agressive.
-* Intelligence Artificielle : L'IA va apprendre à jouer en fonction du joueur,
-va prêter attention à ses plans stratégiques, suivre ses directives anticipées et changer sa
-tactique au cours de la partie. L'IA sera capable par exemple de marquer un joueur plus qu'un autre
-si celui-ci se montre plus dangereux ou exploiter ses faiblesses en mettant un joueur sur son pied
-faible.
-* Graphismes : Les
-graphiques offre plus de réalisme, les éditeurs utilisant désormais un moteur
-graphique plus abouti et plus performant, Fox Engine. Les sources de
-lumière ont été ajustées et les modèles et textures des terrains complètement révisés. Des détails
-ont été ajoutés comme le souffle de respiration des joueurs l'hiver, les gouttes de pluie
-influençant la physique de balle un jour de pluie, et la terre et l'herbe des joueurs sur un coup de
-pied. Les modèles de joueurs, le public et les stades ont été entièrement rénovés.
-* Déplacement des joueurs : De nouvelles fonctionnalités telles que le toucher de balle
-réaliste et les passes précises ont été ajoutées. Les joueurs bénéficient d'une centaine de
-nouvelles animations ajoutées, qui leur confèrent un large éventail de mouvements pour contrôler ou
-passer le ballon. Les interactions entre les joueurs comme les chocs sont plus développées, pour
-représenter clairement l'individualité de chaque joueur avec des mouvements très détaillés.
-* Arbitre : Les décisions
-d'arbitrage ont été entièrement revues. L'IA de l'arbitre a été améliorée afin de donner au
-jeu plus de fluidité, la règle de l'avantage sera par exemple utilisée plus souvent.
-* Stade : De nouvelles
-licences, de nouveaux modèles de pelouse ont été ajoutés, et de nouvelles options également dans le
-mode d'édition. (voir section Stades)
-* Mise à jour : Les
-mises à jour sont disponibles sur Day One lorsque les utilisateurs se connectent en ligne. Les mises à jour
-hebdomadaires sont disponibles en téléchargement pour tous les modes hors ligne. Cela permettra à
-tous les utilisateurs connectés à Internet de jouer avec les données les plus récentes. Cela permet notamment de
-mettre à jour la base de données des joueurs après le mercato hivernal.
-* Vibration : Les
-nouvelles commandes de vibration réagissent aux impacts et collisions des joueurs et lorsque le
-ballon frappe le montant.
+* Real Touch : Dans PES 2017, le contact avec la balle est nettement amélioré. Chaque joueur contrôlera le ballon d'une façon unique et différente. Il existe désormais de nombreux facteurs qui déterminent la vitesse et la précision de la balle. La base est l'évaluation des joueurs et de leurs compétences, en plus de la direction et de l'angle du joueur, qui est naturellement liée à l'animation suivante.
+* Gardiens : De nouveaux mouvements et de nouvelles animations pour les gardiens ont été ajoutés dans ce nouvel opus, créant des joueurs beaucoup plus agiles. Ils réagiront beaucoup plus rapidement. Avec ces nouveaux portiers intelligents, marquer un but sera plus compliqué. La physique du ballon quand le gardien l'attrape est plus réaliste, et ce dernier pourra dévier un tir avec chaque partie de son corps.
+* Stratégie et profondeur de l'équipe : Les stratégies connus comme le tiki-taka ou le catenaccio pourront être paramétrés comme identité de l'équipe du joueur, elles pourront être configurées dans "Instructions avancées". Il sera également possible de modifier instantanément, soit en attaque ou en défense, la mentalité de l'équipe avec des contrôles simples, ce qui rendra capable les joueurs de réagir immédiatement à la dynamique du match. Les joueurs pourront être contrôlés par des stratégies défensives et offensives pour chaque coup de pied arrêtés. Une variété d'options permet à l'utilisateur d'adapter à chaque fois son style de jeu à la situation. Les options défensives comprennent par exemple un marquage individuel ou une défense plus agressive.
+* Intelligence Artificielle : L'IA va apprendre à jouer en fonction du joueur, va prêter attention à ses plans stratégiques, suivre ses directives anticipées et changer sa tactique au cours de la partie. L'IA sera capable par exemple de marquer un joueur plus qu'un autre si celui-ci se montre plus dangereux ou exploiter ses faiblesses en mettant un joueur sur son pied faible.
+* Graphismes : Les graphiques offre plus de réalisme, les éditeurs utilisant désormais un moteur graphique plus abouti et plus performant, Fox Engine. Les sources de lumière ont été ajustées et les modèles et textures des terrains complètement révisés. Des détails ont été ajoutés comme le souffle de respiration des joueurs l'hiver, les gouttes de pluie influençant la physique de balle un jour de pluie, et la terre et l'herbe des joueurs sur un coup de pied. Les modèles de joueurs, le public et les stades ont été entièrement rénovés.
+* Déplacement des joueurs : De nouvelles fonctionnalités telles que le toucher de balle réaliste et les passes précises ont été ajoutées. Les joueurs bénéficient d'une centaine de nouvelles animations ajoutées, qui leur confèrent un large éventail de mouvements pour contrôler ou passer le ballon. Les interactions entre les joueurs comme les chocs sont plus développées, pour représenter clairement l'individualité de chaque joueur avec des mouvements très détaillés.
+* Arbitre : Les décisions d'arbitrage ont été entièrement revues. L'IA de l'arbitre a été améliorée afin de donner au jeu plus de fluidité, la règle de l'avantage sera par exemple utilisée plus souvent.
+* Stade : De nouvelles licences, de nouveaux modèles de pelouse ont été ajoutés, et de nouvelles options également dans le mode d'édition. (voir section Stades)
+* Mise à jour : Les mises à jour sont disponibles sur Day One lorsque les utilisateurs se connectent en ligne. Les mises à jour hebdomadaires sont disponibles en téléchargement pour tous les modes hors ligne. Cela permettra à tous les utilisateurs connectés à Internet de jouer avec les données les plus récentes. Cela permet notamment de mettre à jour la base de données des joueurs après le mercato hivernal.
+* Vibration : Les nouvelles commandes de vibration réagissent aux impacts et collisions des joueurs et lorsque le ballon frappe le montant.
 Les données modifiées peuvent maintenant être transférées entre consoles PS4 via le port USB. Le partage de données est également possible et compatible sur plusieurs régions, permettant aux utilisateurs européens, américains et asiatiques de partager des données entre eux. Les maillots, équipes et joueurs créés peuvent être obtenus avec beaucoup plus de facilité que dans les précédentes versions de PES.
 Pour le mode My Club, il est désormais possible d'engager des scouts pour faire signer le joueur que vous voulez sur le marché des transferts. Il sera également possible de lui décrire un profil de joueur particulier (note, poste, vitesse, etc.) qu'il sera chargé de trouver et de faire signer dans votre club. De nouveaux tutoriels sont disponibles pour commencer MyClub pour informer à la fois les nouveaux utilisateurs et les anciens pour comprendre et apprendre tous les aspects de ce mode de jeu. L'analyse de match (aussi connu comme Rapport de données) est disponible en ligne lors des matchs MyClub. Le joueur est en mesure d'analyser la façon dont son adversaire joue (contre-attaque ou possession, jeu court ou jeu long, etc), ses mouvements favoris et la partie du terrain qu'il occupe le plus.
 En Ligue des Masters des changements importants ont été apportés dans le système de transfert avec de nouvelles fonctions pour transférer et gérer les budgets et les salaires des joueurs. Il y a désormais plus de variété dans la négociation tels qu'une durée de prêt de 6 mois et la signature du joueur au cours de sa période de prêt. Il a ajouté l'élément de temps pour finaliser une transaction. On peut désormais fixer une période de temps pour boucler un transfert et faire signer un joueur. Les administrateurs (directeur sportif, président etc.) jouent également leur rôle en donnant des conseils aux utilisateurs les négociations. Les différents rôles de l'équipe ont vu une amélioration significative avec 22 nouveaux rôles par rapport aux 10 qui étaient dans PES 2016, on notera l'ajout de nouveaux rôles comme « héros » et « bad boy ». Cela permet de donner plus de caractère à l'équipe. Les matchs de jour et de nuit sont adaptés en fonction de la saison, en prenant en compte le début de la saison dans la vie réelle. Le système de formation a été entièrement revu, les joueurs ont la possibilité d'acquérir des compétences et de démontrer leur style de jeu à travers le système de formation. Dans PES 2017 les joueurs pourront s'adapter à d'autres postes.
@@ -611,22 +486,11 @@ Cette édition de PES marque le retour de la licence sur le devant de la scène,
 Article détaillé : Pro Evolution Soccer 2018.
 Slogan: "Where Legends are Made" (Là où les légendes sont faites)
 Pro Evolution Soccer 2018 (World Soccer: Winning Eleven 2018 aux Japon) est le vingt-deuxième épisode de la série et est sorti officiellement le 14 septembre 2017 sur Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 et Xbox One.
-* Gameplay : Konami note
-des améliorations significatives dans la mécanique de jeu, parmi lesquels un meilleur système dans
-le tir des corners et coups francs, en supprimant les conseils de contrôle et en ajoutant de
-nouvelles options d'angle de caméra, plus la fonction Real touch + qui permet un meilleur
-contrôle.
-* Améliorations visuelles : Les données des stades ont été recueillies directement auprès des équipements partenaires. Le Camp Nou et le Signal Iduna
-Park sont recréés à l'aide d'un système de numérisation réelle. Les modèles de spectateurs, incluant
-leurs vêtements et leur expression faciale, ont été considérablement améliorés.
-* Jeu en ligne : Un
-nouveau mode coopératif de 2 vs 2 et 3 vs 3 a été inséré et peut être utilisé en réseau local.
-* Amélioration de la version PC : L'amélioration des graphismes et du contenu de la version PC équivaut
-désormais aux versions des consoles next-gen.
-* Interface : Le menu a
-été revisité dans un design moderne, en particulier la présentation de l'information lors de matchs.
-Des images réelles des joueurs sont présentes lors de la présentation de l'effectif et des
-statistiques
+* Gameplay : Konami note des améliorations significatives dans la mécanique de jeu, parmi lesquels un meilleur système dans le tir des corners et coups francs, en supprimant les conseils de contrôle et en ajoutant de nouvelles options d'angle de caméra, plus la fonction Real touch + qui permet un meilleur contrôle.
+* Améliorations visuelles : Les données des stades ont été recueillies directement auprès des équipements partenaires. Le Camp Nou et le Signal Iduna Park sont recréés à l'aide d'un système de numérisation réelle. Les modèles de spectateurs, incluant leurs vêtements et leur expression faciale, ont été considérablement améliorés.
+* Jeu en ligne : Un nouveau mode coopératif de 2 vs 2 et 3 vs 3 a été inséré et peut être utilisé en réseau local.
+* Amélioration de la version PC : L'amélioration des graphismes et du contenu de la version PC équivaut désormais aux versions des consoles next-gen.
+* Interface : Le menu a été revisité dans un design moderne, en particulier la présentation de l'information lors de matchs. Des images réelles des joueurs sont présentes lors de la présentation de l'effectif et des statistiques
 
 # EFootball (série de jeux vidéo)
 ## Histoire et évolution de la licence

@@ -5,4 +5,4 @@
 "yukuli
 * Oreille.
 ** koffi a de grandes Oreilles
-**> "Yukulia "kadɩ Kofi ka -bha.
+    "Yukulia "kadɩ Kofi ka -bha.

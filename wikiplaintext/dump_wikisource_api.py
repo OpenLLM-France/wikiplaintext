@@ -116,7 +116,7 @@ def clean_and_dump(
             f.write(page_body)
 
     # Extract all the subpages
-    if level < 3:
+    if level < 2:
         for page_sub_title in find_intra_links(page_body):
             clean_and_dump(
                 output_dir,

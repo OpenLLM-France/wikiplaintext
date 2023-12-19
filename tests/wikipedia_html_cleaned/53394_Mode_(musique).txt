@@ -1,6 +1,6 @@
 # Mode (musique)
 
-Le mode, en musique, est un type d'échelle musicale couplé avec un ensemble de comportements mélodiques caractéristiques, notamment en relation avec une note de référence (appelée « finale », « tonique », « note nominale » ou tout simplement « note de référence »). Le terme « mode » a été utilisé dans la théorie musicale occidentale depuis le Moyen Âge pour désigner des caractéristiques :
+Le mode, en musique, est un type d'échelle musicale couplé avec un ensemble de comportements mélodiques caractéristiques, notamment en relation avec une note de référence (appelée « finale », « tonique », « note nominale » ou tout simplement « note de référence »). Le terme « mode » a été utilisé dans la théorie musicale occidentale depuis le Moyen Âge pour désigner des caractéristiques :
 * du chant grégorien ;
 * de la polyphonie de la Renaissance ;
 * de la musique tonale.
@@ -235,7 +235,7 @@ ré mi sol la do ré
 la do ré mi sol la
 mi sol la do ré mi
 Le mode basé sur la est proche du mode blues :
-la do ré mi() sol la
+la do ré mi sol la
 Ces modes sont caractérisés par des intervalles de secondes majeures ou de tierces mineures :
 Intervalles : 1 - 1 - 3/2 - 1 - 3/2
 Exemple en mi : do ré mi sol la do

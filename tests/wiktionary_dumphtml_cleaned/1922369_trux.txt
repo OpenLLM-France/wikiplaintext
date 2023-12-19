@@ -2,7 +2,7 @@
 ## Latin
 ### Étymologie
 
-> De l’indo-européen commun *tu̯erk̂  (« couper ») qui donne sarcasmus via le grec ancien.
+    De l’indo-européen commun *tu̯erk̂  (« couper ») qui donne sarcasmus via le grec ancien.
 
 # trux
 ## Latin
@@ -11,11 +11,11 @@
 trux
 * Sauvage, farouche.
 ** M. Catonem oratorem non solum gravem sed interdum etiam trucem esse scimus — (Live. 34, 5, 6)
-**> On sait que M. Cato était non seulement un orateur sérieux, mais aussi parfois cruel.
+    On sait que M. Cato était non seulement un orateur sérieux, mais aussi parfois cruel.
 ** voltu truci — (Live, 45, 10, 8)
-**> avec un visage menaçant
+    avec un visage menaçant
 ** truci cantu — (Live, 5, 37, 8)
-**> avec des chants sauvages
+    avec des chants sauvages
 
 # trux
 ## Latin

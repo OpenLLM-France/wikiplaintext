@@ -9,7 +9,7 @@ botonar
 ## Occitan
 ### Étymologie
 
-> Dérivé de boton, avec le suffixe -ar.
+    Dérivé de boton, avec le suffixe -ar.
 
 # botonar
 ## Occitan

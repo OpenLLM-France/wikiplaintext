@@ -1,6 +1,6 @@
 # Irlande (pays)
 
-L'Irlande (/iʁ.lɑ̃d/ ; en irlandais : Éire /ˈeːɾʲə/ ; en anglais : Ireland /ˈaɪəɹ.lənd/ ), également connue de manière informelle sous le nom de république d'Irlande (en irlandais : Poblacht na hÉireann ; en anglais : Republic of Ireland), est un État souverain d'Europe de l'Ouest, ou selon d'autres définitions, du Nord. Il est constitué de vingt-six des trente-deux comtés de l'île d'Irlande. La capitale et la plus grande ville est Dublin, située dans l'est de l'île.
+L'Irlande (/iʁ.lɑ̃d/ ; en irlandais : Éire /ˈeːɾʲə/ ; en anglais : Ireland /ˈaɪəɹ.lənd/ ), également connue de manière informelle sous le nom de république d'Irlande (en irlandais : Poblacht na hÉireann ; en anglais : Republic of Ireland), est un État souverain d'Europe de l'Ouest, ou selon d'autres définitions, du Nord. Il est constitué de vingt-six des trente-deux comtés de l'île d'Irlande. La capitale et la plus grande ville est Dublin, située dans l'est de l'île.
 La population, estimée à environ 5 millions d'habitants en 2021, réside à 40 % dans la région du Grand Dublin. L'État souverain partage sa seule frontière terrestre avec l'Irlande du Nord, qui fait partie du Royaume-Uni. Situé dans les Îles Britanniques, il est par ailleurs entouré par l'océan Atlantique, avec la mer Celtique au sud, le canal Saint-Georges au sud-est et la mer d'Irlande à l'est, qui la sépare de la Grande-Bretagne.
 L'Irlande est une république unitaire et parlementaire. Sa législature, le Parlement national (Oireachtas), se compose d'une chambre haute, le Sénat d'Irlande (Seanad Éireann), d'une chambre basse, l'Assemblée d'Irlande (Dáil Éireann), et d'un président élu (Uachtarán) qui sert de chef d'État avec un rôle en grande partie cérémoniel, tout en ayant des pouvoirs et des devoirs importants. Le chef du gouvernement est le Premier ministre (Taoiseach), qui est élu par l'Assemblée et nommé par le président. Le Premier ministre nomme à son tour les autres ministres du gouvernement.
 L'État libre d'Irlande a été créé, avec le statut de dominion, en 1922 à la suite du traité anglo-irlandais. En 1937, une nouvelle constitution a été adoptée, dans laquelle l'État a été nommé « Irlande » et est effectivement devenu une république, avec un président non exécutif élu. Elle a été officiellement déclarée république en 1949, à la suite de l'entrée en vigueur de la loi sur la république d'Irlande de 1948. L'Irlande est devenue membre de l'Organisation des Nations unies en décembre 1955. Elle a rejoint les Communautés européennes (préfigurant l'Union européenne) en 1973.
@@ -28,6 +28,10 @@ La capitale de l'Irlande est Dublin, mais d'autres villes possèdent une certain
 ### Localisation et frontières
 
 Le territoire irlandais se situe par 53° 20' 36" Nord, soit à peu près à la même longitude que la république de Côte d'Ivoire, et à 6° 16' 03" Ouest soit à peu près à la même latitude que la province canadienne de Terre-Neuve-et-Labrador.
+Territoires limitrophes de l'Irlande :
+| Groenland, à 2 805 km | Irlande du Nord, à 140 km | Norvège, à 1 265 km |
+| Canada, à 4 900 km | | Royaume-Uni, à 463 km |
+| Venezuela, à 7 110 km | Portugal, à 1 637 km | France, à 787 km |
 Les frontières de l'État d'Irlande sont maritimes à l'exception de celle traversant l'île sur 500 km et séparant l'Irlande du Nord, membre du Royaume-Uni, de l'Irlande du Sud.
 
 # Irlande (pays)

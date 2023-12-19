@@ -31,7 +31,7 @@ Toutefois, la typologie morphologique de l'espéranto l'écarte significativemen
 ## Histoire
 
 L'idée d'une langue équitable pour la communication internationale germa à Białystok au cours des années 1870, dans la tête d'un enfant juif polonais nommé Louis-Lazare Zamenhof. Quelques années plus tard, à l'âge de 19 ans, il ébaucha son premier projet qu'il présenta à ses camarades de lycée. Ce n'est qu'après ses études en ophtalmologie qu'il publia en langue russe, à Varsovie, le 26 juillet 1887, l'ouvrage Langue Internationale, premier manuel d'apprentissage. Il fut suivi au cours des deux années suivantes de versions dans plusieurs autres langues. Dans ce manuel, Zamenhof avait défini ainsi le but de la Langue Internationale :
-« Qu’on puisse l’apprendre, comme qui dirait, en passant [et] aussitôt en profiter pour se faire comprendre des personnes de différentes nations, soit qu’elle trouve l’approbation universelle, soit qu’elle ne la trouve pas [et que l’on trouve] les moyens de surmonter l’indifférence de la plupart des hommes, et de forcer les masses à faire usage de la langue présentée, comme d’une langue vivante, mais non pas uniquement à l’aide du dictionnaire. ».
+   « Qu’on puisse l’apprendre, comme qui dirait, en passant [et] aussitôt en profiter pour se faire comprendre des personnes de différentes nations, soit qu’elle trouve l’approbation universelle, soit qu’elle ne la trouve pas [et que l’on trouve] les moyens de surmonter l’indifférence de la plupart des hommes, et de forcer les masses à faire usage de la langue présentée, comme d’une langue vivante, mais non pas uniquement à l’aide du dictionnaire. ».
 Très vite, l'espéranto rencontra un vif succès, dépassant même les espérances de son initiateur. Le nombre de personnes qui apprirent la langue augmenta rapidement, au départ principalement dans la Russie impériale et en Europe de l'Est, ensuite en Europe occidentale et aux Amériques. L'espéranto pénétra au Japon à la suite de la guerre russo-japonaise de 1904-1905. En Chine, les premiers cours furent donnés à Shanghai dès 1906 et à Canton dès 1908. Durant ces premières années, l'espéranto fut essentiellement une langue écrite, les échanges se faisant essentiellement par correspondance et par l'intermédiaire de périodiques spécialisés.
 Le premier congrès mondial d’espéranto se déroula en 1905 à Boulogne-sur-Mer. Ce premier congrès marqua un tournant important pour l'espéranto. La langue qui était jusqu'alors essentiellement écrite fut dès lors de plus en plus utilisée pour des échanges directs, notamment lors de rencontres internationales et des congrès qui se déroulent depuis chaque année, mis à part les interruptions dues aux deux guerres mondiales. C'est au cours du premier congrès de 1905 que fut publié le Fundamento de Esperanto fixant les bases de la langue.
 La Première Guerre mondiale mit un frein au développement de l'espéranto, qui reprit cependant au cours des années 1920 dans l’enthousiasme généré par les espoirs de paix issus de la création de la Société des Nations. L’espéranto y est proposé comme langue de travail : la proposition, soutenue par des pays tels que le Japon et la Perse, échoue notamment à cause du véto de la France, qui estime que la langue internationale est et doit être le français. Mais les années 1930 avec la montée en puissance des régimes totalitaires, puis la Seconde Guerre mondiale marquèrent un nouveau coup d'arrêt au développement de l'espéranto.
@@ -185,7 +185,7 @@ La musique espérantophone est naturellement mise en scène lors des différente
 ## Vie culturelle
 ### Radio
 
-Les premières émissions de radio en Espéranto datent de 1922 et furent émises à Newark (États-Unis) et Londres (Royaume-Uni). En 2012, les émissions sont principalement des podcasts, mais certaines radios diffusent une émission hebdomadaire comme Radio Havana Cuba, ou Radio libertaire à Paris.
+Les premières émissions de radio en Espéranto datent de 1922 et furent émises à Newark (États-Unis) et Londres (Royaume-Uni). En 2012, les émissions sont principalement des podcasts, mais certaines radios diffusent une émission hebdomadaire comme Radio Havana Cuba, ou Radio libertaire à Paris.
 La première radio diffusant entièrement en espéranto, Muzaiko, est apparue le 1ᵉʳ juillet 2011. Elle émet sur Internet grâce à la technologie de lecture en continu. Son programme se compose de musique espérantophone, d'interviews, et d'informations généralistes.
 
 # Espéranto
@@ -340,32 +340,32 @@ Le système de dérivation s’adapte aisément aux besoins en mots nouveaux. Ai
 ### Phrases simples
 
 Le tableau ci-dessous présente quelques mots et phrases ainsi que leurs transcriptions en alphabet phonétique international :
-| Français | Espéranto | IPA |
-| Salut, bonjour | Saluton | [sa.ˈlu.ton] |
-| Oui | Jes | [ˈjes] |
-| Non | Ne | [ˈne] |
-| Bonsoir | Bonan vesperon | [ˈbo.nan ves.ˈpe.ron] |
-| Bonne nuit | Bonan nokton | [ˈbo.nan ˈnok.ton] |
-| Au revoir | Ĝis (la) revido | [ˈdʒis (la) re.ˈvi.do] |
-| Comment vous appelez-vous ? | Kio estas via nomo? | [ˈki.o ˌes.tas ˌvi.a ˈno.mo] |
-| Je m’appelle Marc. | Mia nomo estas Marko | [ˌmi.a ˈno.mo ˌes.tas ˈmar.ko] |
-| Comment allez-vous ? | Kiel vi fartas? | [ˈki.el vi ˈfar.tas] |
-| Je vais bien. | Mi fartas bone | [mi ˈfar.tas ˈbo.ne] |
-| Parlez-vous espéranto ? | Ĉu vi parolas Esperante? | [ˈtʃu vi pa.ˈro.las ˌes.pe.ˈran.te] |
-| Je ne vous comprends pas. | Mi ne komprenas vin | [mi ˌne kom.ˈpre.nas ˌvin] |
-| Bien | Bone | [ˈbo.ne] |
-| Merci | Dankon | [ˈdan.kon] |
-| De rien | Ne dankinde | [ˌne.dan.ˈkin.de] |
-| S’il vous plaît | Bonvolu | [bon.ˈvo.lu] |
-| Pardon, excusez-moi | Pardonu min | [par.ˈdo.nu ˈmin] |
-| À vos souhaits ! | Sanon! | [ˈsa.non] |
-| Félicitations | Gratulon | [ɡra.ˈtu.lon] |
-| Je t’aime. | Mi amas vin | [mi ˈa.mas ˌvin] |
-| Une bière, s’il vous plaît. | Unu bieron, mi petas | [ˈu.nu bi.ˈe.ron, mi ˈpe.tas] |
-| Où sont les toilettes ? | Kie estas la necesejo? | [ˈki.e ˈes.tas ˈla ˌne.tse.ˈse.jo] |
-| Qu’est-ce que c’est ? | Kio estas tio? | [ˈki.o ˌes.tas ˈti.o] |
-| C’est un chien. | Tio estas hundo | [ˈti.o ˌes.tas ˈhun.do] |
-| Je suis débutant en espéranto. | Mi estas komencanto de Esperanto | [mi ˈes.tas ˌko.men.ˈtsan.to de ˌes.pe.ˈran.to] |
+| Français | IPA |
+| Salut, bonjour | [sa.ˈlu.ton] |
+| Oui | [ˈjes] |
+| Non | [ˈne] |
+| Bonsoir | [ˈbo.nan ves.ˈpe.ron] |
+| Bonne nuit | [ˈbo.nan ˈnok.ton] |
+| Au revoir | [ˈdʒis (la) re.ˈvi.do] |
+| Comment vous appelez-vous ? | [ˈki.o ˌes.tas ˌvi.a ˈno.mo] |
+| Je m’appelle Marc. | [ˌmi.a ˈno.mo ˌes.tas ˈmar.ko] |
+| Comment allez-vous ? | [ˈki.el vi ˈfar.tas] |
+| Je vais bien. | [mi ˈfar.tas ˈbo.ne] |
+| Parlez-vous espéranto ? | [ˈtʃu vi pa.ˈro.las ˌes.pe.ˈran.te] |
+| Je ne vous comprends pas. | [mi ˌne kom.ˈpre.nas ˌvin] |
+| Bien | [ˈbo.ne] |
+| Merci | [ˈdan.kon] |
+| De rien | [ˌne.dan.ˈkin.de] |
+| S’il vous plaît | [bon.ˈvo.lu] |
+| Pardon, excusez-moi | [par.ˈdo.nu ˈmin] |
+| À vos souhaits ! | [ˈsa.non] |
+| Félicitations | [ɡra.ˈtu.lon] |
+| Je t’aime. | [mi ˈa.mas ˌvin] |
+| Une bière, s’il vous plaît. | [ˈu.nu bi.ˈe.ron, mi ˈpe.tas] |
+| Où sont les toilettes ? | [ˈki.e ˈes.tas ˈla ˌne.tse.ˈse.jo] |
+| Qu’est-ce que c’est ? | [ˈki.o ˌes.tas ˈti.o] |
+| C’est un chien. | [ˈti.o ˌes.tas ˈhun.do] |
+| Je suis débutant en espéranto. | [mi ˈes.tas ˌko.men.ˈtsan.to de ˌes.pe.ˈran.to] |
 
 # Espéranto
 ## Exemples

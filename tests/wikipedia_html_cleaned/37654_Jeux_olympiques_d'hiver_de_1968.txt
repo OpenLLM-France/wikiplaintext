@@ -58,6 +58,8 @@ Plusieurs entreprises sont désignées comme « fournisseur officiel des Jeux 
 
 Trente-sept nations envoient une délégation à Grenoble, soit une de plus qu'à Innsbruck en 1964, pour un total de 1 158 athlètes dont 947 hommes et 211 femmes. Pour la première fois, l'Allemagne de l'Est et l'Allemagne de l'Ouest sont présentes séparément. Alors que le CIO était parvenu à maintenir l'équipe unifiée d'Allemagne pour les précédents Jeux malgré la recrudescence des tensions entre l'Est et l'Ouest après la construction du mur de Berlin, il ne peut éviter la séparation des deux délégations à Grenoble. Dès la fin des Jeux d'été de 1964 à Tokyo, l'Allemagne de l'Est réclame une participation indépendante, ce qui est d'abord refusée par les pays de l'OTAN et plus particulièrement le gouvernement français, bien que la proposition reçoive le soutien de la majorité des fédérations sportives internationales. La participation séparée des deux équipes est entérinée lors de la session du CIO qui se tient à Madrid en octobre 1965.
 Le Maroc connaît quant à lui sa première participation aux Jeux olympiques d'hiver. La Belgique et la Corée du Nord, présentes aux Jeux d'Innsbruck, n'envoient aucun athlète à Grenoble. Enfin, la Nouvelle-Zélande fait son retour aux Jeux, pour sa troisième participation, la première depuis Squaw Valley en 1960.
+Le nombre indiqué entre parenthèses est le nombre d'athlètes engagés dans les épreuves officielles pour chaque pays.
+| Allemagne de l'Est (57)  Allemagne de l'Ouest (75)  Argentine (5)  Australie (3)  Autriche (76)  Bulgarie (6)  Canada (70)  Chili (4)  Corée du Sud (8)  Danemark (3)  Espagne (18)  États-Unis (95)  Finlande (52) | France (88)  Grande-Bretagne (38)  Grèce (3)  Hongrie (10)  Inde (1)  Iran (4)  Islande (4)  Italie (47)  Japon (61)  Liban (3)  Liechtenstein (9)  Maroc (5)  Mongolie (7) | Norvège (66)  Nouvelle-Zélande (6)  Pays-Bas (9)  Pologne (31)  Roumanie (30)  Suède (68)  Suisse (34)  Tchécoslovaquie (48)  Turquie (11)  Union soviétique (86)  Yougoslavie (30) |
 
 # Jeux olympiques d'hiver de 1968
 ## Sites
@@ -214,12 +216,38 @@ La cérémonie de clôture des Jeux se déroule le dimanche 18 février au Stade
 ### Tableau des médailles
 
 Quinze des trente-sept nations participant à ces Jeux remportent au moins une médaille et treize d'entre elles remportent au moins un titre olympique. La Norvège obtient quatorze médailles, dont six en or, six en argent et deux en bronze. Elle retrouve ainsi la première place du classement des nations, un rang qu'elle a occupé de 1924 à 1952, avant de se classer 7ᵉ en 1956, 4ᵉ en 1960 et 3ᵉ en 1964. L'Union soviétique, première nation lors des trois dernières éditions des Jeux d'hiver recule au deuxième rang avec treize médailles dont cinq en or. La France se classe troisième avec neuf médailles, dont quatre en or, trois en argent et deux en bronze, une progression de deux rangs par rapport aux Jeux d'Innsbruck en 1964. Avec ses quatre médailles, toutes en or, l'Italie se place au 4ᵉ rang des nations, alors qu'elle n'était que 12ᵉ quatre ans plus tôt. L'Autriche gagne onze médailles, le troisième total des nations, mais ne se classe que 5ᵉ avec seulement trois médailles d'or. Les deux équipes allemandes sont en retrait, à la 8ᵉ place pour l'Allemagne de l'Ouest avec sept médailles dont deux en or, et à la 10ᵉ place pour l'Allemagne de l'Est avec cinq médailles, dont un seul titre olympique.
+Nations les plus médaillées :
+| Rang | Nation | | | | Total |
+| 1 | Norvège | 6 | 6 | 2 | 14 |
+| 2 | Union soviétique | 5 | 5 | 3 | 13 |
+| 3 | France (pays hôte) | 4 | 3 | 2 | 9 |
+| 4 | Italie | 4 | 0 | 0 | 4 |
+| 5 | Autriche | 3 | 4 | 4 | 11 |
+| 6 | Pays-Bas | 3 | 3 | 3 | 9 |
+| 7 | Suède | 3 | 2 | 3 | 8 |
+| 8 | Allemagne de l'Ouest | 2 | 2 | 3 | 7 |
+| 9 | États-Unis | 1 | 5 | 1 | 7 |
+| 10 | Allemagne de l'Est | 1 | 2 | 2 | 5 |
+| 10 | Finlande | 1 | 2 | 2 | 5 |
+| 12 | Tchécoslovaquie | 1 | 2 | 1 | 4 |
+| 13 | Canada | 1 | 1 | 1 | 3 |
+| 14 | Suisse | 0 | 2 | 4 | 6 |
+| 15 | Roumanie | 0 | 0 | 1 | 1 |
+| Total | Total | 35 | 39 | 32 | 106 |
 
 # Jeux olympiques d'hiver de 1968
 ## Déroulement
 ### Sportifs les plus médaillés
 
 Le skieur alpin français Jean-Claude Killy, sacré dans toutes les épreuves auxquelles il participe, est le sportif le plus médaillé de ces Jeux avec trois médailles d'or.
+Sportifs les plus médaillés :
+| Rang | Athlète | Sport | | | | Total |
+| 1 | Jean-Claude Killy (FRA) | Ski alpin | 3 | 0 | 0 | 3 |
+| 2 | Toini Gustafsson (SWE) | Ski de fond | 2 | 1 | 0 | 3 |
+| 3 | Luciano De Paolis (Italie) | Bobsleigh | 2 | 0 | 0 | 2 |
+| 3 | Ole Ellefsæter (NOR) | Ski de fond | 2 | 0 | 0 | 2 |
+| 3 | Harald Grønningen (NOR) | Ski de fond | 2 | 0 | 0 | 2 |
+| 3 | Eugenio Monti (Italie) | Bobsleigh | 2 | 0 | 0 | 2 |
 
 # Jeux olympiques d'hiver de 1968
 ## Réactions et retombées

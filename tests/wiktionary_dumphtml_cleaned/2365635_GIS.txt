@@ -2,7 +2,7 @@
 ## Français
 ### Étymologie
 
-> Initiales de groupement d’intérêt scientifique.
+    Initiales de groupement d’intérêt scientifique.
 
 # GIS
 ## Français
@@ -23,7 +23,7 @@ GIS masculin
 ## Anglais
 ### Étymologie
 
-> (Sigle) Initiales de geographic information system.
+    (Sigle) Initiales de geographic information system.
 
 # GIS
 ## Anglais

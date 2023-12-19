@@ -86,7 +86,7 @@ def dump_wikisource_html_plaintext(
         try:
             text = clean_html(
                 page_body,
-                dump_wikisource="wikisource",
+                source="wikisource",
                 language=language,
                 add_title=title,
                 keep_tables=keep_tables,

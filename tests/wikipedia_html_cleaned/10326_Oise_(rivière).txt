@@ -69,7 +69,41 @@ L'organisme gestionnaire est l'EPTB Oise-Aisne ou Entente Oise-Aisne. Cet établ
 
 # Oise (rivière)
 ## Principaux affluents
+### Rive gauche
 
+* Le Gland et son affluent la Wartoise
+* Le Thon
+* la Serre et son affluent la Souche
+* l'Ailette
+* Le ru de Servais
+* L'Aisne
+* L'Automne
+* Le ru Macquart
+* La Nonette
+* La Thève
+* L'Ysieux
+* Le ru de Presles
+* Le ru de Liesse
+* Le rû d'Éragny sur Oise
+* Le ru du Bois
+
+# Oise (rivière)
+## Principaux affluents
+### Rive droite
+
+* Les Anorelles
+* Le Noirieu ou Noirrieu, et son affluent l'Iron
+* La Verse
+* La Divette
+* Le Matz
+* L'Aronde
+* La Frette
+* Le Rhony
+* La Brêche
+* Le Thérain
+* L'Esches
+* Le Sausseron
+* La Viosne
 * L'Aisne
 * La Brêche
 
@@ -133,12 +167,126 @@ Une commune est traversée par l'Oise, il s'agit de la commune d'Anor.
 ### Dans l'Aisne
 
 Soixante-et-une communes de l'Aisne sont bordées ou traversées par l'Oise.
+* Hirson (commune traversée, au nord de la commune, sur la rive droite, se trouve la Belgique),
+* Mondrepuis (rive droite),
+* Neuve-Maison (commune traversée),
+* Ohis (commune traversée),
+* Wimy (rive droite),
+* Effry (commune traversée),
+* Luzoir (commune traversée)
+* Gergny (commune traversée),
+* Étréaupont (commune traversée),
+* Sorbais (commune traversée),
+* Autreppes (commune traversée)
+* Erloy (commune traversée),
+* Saint-Algis (commune traversée),
+* Englancourt (rive droite),
+* Marly-Gomont (rive gauche),
+* Chigny (rive droite),
+* Proisy (commune traversée),
+* Malzy (rive droite),
+* Wiège-Faty (commune traversée),
+* Monceau-sur-Oise (commune traversée),
+* Flavigny-le-Grand-et-Beaurain (commune traversée),
+* Guise (commune traversée),
+* Lesquielles-Saint-Germain (commune traversée),
+* Vadencourt (commune traversée),
+* Noyales (commune traversée),
+* Proix (commune traversée sur une très faible portion),
+* Macquigny (commune traversée),
+* Hauteville (rive droite),
+* Mont-d'Origny (commune traversée),
+* Bernot (rive droite),
+* Neuvillette (rive droite),
+* Origny-Sainte-Benoite (commune traversée),
+* Thenelles (rive droite),
+* Ribemont (commune traversée),
+* Châtillon-sur-Oise (commune traversée),
+* Séry-lès-Mézières (rive gauche),
+* Mézières-sur-Oise (commune traversée),
+* Berthenicourt (commune traversée),
+* Alaincourt (commune traversée),
+* Moÿ-de-l'Aisne (rive droite),
+* Brissy-Hamégicourt (rive gauche),
+* Brissay-Choigny (rive gauche),
+* Vendeuil (commune traversée),
+* Travecy (rive droite),
+* Mayot (rive gauche),
+* Achery (commune traversée),
+* Danizy (commune traversée, confluent de la Serre puis rive gauche),
+* La Fère (commune traversée),
+* Andelain (rive gauche),
+* Beautor (commune traversée),
+* Tergnier (rive droite),
+* Amigny-Rouy (rive gauche),
+* Condren (commune traversée),
+* Viry-Noureuil (rive droite),
+* Sinceny (rive gauche),
+* Chauny (commune traversée),
+* Bichancourt (rive gauche),
+* Abbécourt (rive droite),
+* Manicamp (rive gauche puis commune traversée),
+* Marest-Dampcourt (rive droite),
+* Quierzy (commune traversée)
 
 # Oise (rivière)
 ## Départements et communes traversés ou bordés par l'Oise en France
 ### Dans l'Oise
 
 Cinquante-trois communes de l'Oise sont bordées ou traversées par la rivière.
+* Appilly (rive droite),
+* Brétigny (rive gauche),
+* Babœuf (commune traversée),
+* Béhéricourt (rive droite),
+* Salency (rive droite),
+* Varesnes (rive gauche),
+* Morlincourt (rive droite),
+* Noyon (rive droite),
+* Pontoise-lès-Noyon (rive gauche),
+* Sempigny (commune traversée),
+* Pont-l'Évêque (rive droite),
+* Passel (rive droite),
+* Chiry-Ourscamp (commune traversée),
+* Pimprez (rive droite),
+* Bailly (rive gauche),
+* Saint-Léger-aux-Bois (rive gauche),
+* Ribécourt-Dreslincourt (rive droite),
+* Cambronne-lès-Ribécourt (rive droite),
+* Montmacq (rive gauche),
+* Thourotte (rive droite),
+* Le Plessis-Brion (rive gauche),
+* Longueil-Annel (rive droite),
+* Choisy-au-Bac (rive gauche),
+* Janville (rive droite)
+* Compiègne (commune traversée),
+* Clairoix (rive droite),
+* Margny-lès-Compiègne (rive droite),
+* Venette (rive droite),
+* Jaux (rive droite),
+* Armancourt (rive droite),
+* Le Meux (rive droite),
+* Lacroix-Saint-Ouen (rive gauche),
+* Rivecourt (rive droite)
+* Verberie (rive gauche),
+* Rhuis (rive gauche)
+* Longueil-Sainte-Marie (rive droite),
+* Houdancourt (rive droite),
+* Pontpoint (rive gauche),
+* Pont-Sainte-Maxence (commune traversée),
+* Beaurepaire (rive gauche),
+* Brenouille (rive droite),
+* Rieux (rive droite),
+* Villers-Saint-Paul (rive droite),
+* Verneuil-en-Halatte (rive gauche),
+* Nogent-sur-Oise (rive droite),
+* Creil (commune traversée),
+* Montataire (rive droite),
+* Saint-Maximin (rive gauche),
+* Saint-Leu-d'Esserent (rive droite),
+* Villers-sous-Saint-Leu (rive droite),
+* Précy-sur-Oise (commune traversée),
+* Gouvieux (rive gauche),
+* Boran-sur-Oise (commune traversée),
 
 # Oise (rivière)
 ## Départements et communes traversés ou bordés par l'Oise en France

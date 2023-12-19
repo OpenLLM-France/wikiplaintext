@@ -68,6 +68,27 @@ Divers évènements se sont déroulés dans le cadre du conflit armé en Colombi
 ## Géographie
 ### Géographie physique
 
+Antonio Nariño
+Barrios Unidos
+Bosa
+La Candelaria
+Chapinero
+Ciudad Bolívar
+Engativá
+Fontibón
+Ciudad Kennedy
+Los Mártires
+Puente Aranda
+Rafael Uribe Uribe
+San Cristóbal
+Santa Fe
+Suba
+Sumapaz
+Teusaquillo
+Tunjuelito
+Usaquén
+Usme :
+Carte des districts de Bogota D.C. En rouge, l'aire urbaine de Bogota.
 Bogota se trouve à une altitude de 2 640 m, dans la cordillère Orientale des montagnes du nord des Andes. Elle est située sur un plateau, au pied d'une chaîne de montagnes.
 Les cerros (français : collines) de Guadalupe et de Monserrate bordent à l'est la savane de Bogota. Sur le cerro de Guadalupe sont érigées une petite chapelle dédiée à Notre-Dame de Guadalupe et une statue de 15 m de haut. Sur le cerro de Monserrate est construite une basilique, la basílica del Señor de Monserrate.
 Plusieurs petits cours d'eau, dont le río San Francisco, traversent la ville jusqu'à l'extrémité sud-ouest du plateau et rejoignent le río Bogotá, également appelé río Funza, qui plonge au bord du plateau, à Tequendama, dans l'une des plus importantes attractions touristiques de Bogota : une magnifique chute d'eau de 132 m, le Salto del Tequendama cité plus haut.
@@ -189,6 +210,15 @@ La maire de Bogota est Claudia López depuis le 1ᵉʳ janvier 2020.
 En 2023, la population est de 11 508 000 habitants.
 La ville a le plus faible taux d'analphabétisme du pays avec seulement 3,4 % parmi la population âgée de plus de 5 ans.
 Historiquement, la population de Bogota n'a pas connu une croissance importante avant le XXᵉ siècle, lorsqu'elle avait environ 100 000 habitants. Mais les années 1940, 1960 et 1970 ont vu les hausses les plus importantes de la population. Ces hausses étaient disproportionnées par rapport aux ressources disponibles de la ville, principalement celles ayant trait aux transports, aux services publics et aux possibilités d'emploi.
+Évolution de la population :
+| 1538 | 1580 | 1666 | 1775 | 1793 | 1801 | 1832 | 1843 | 1870 |
+| 100 | 1 100 | 3 000 | 16 233 | 17 725 | 21 394 | 28 341 | 40 086 | 40 883 |
+Évolution de la population, suite (1) :
+| 1881 | 1884 | 1905 | 1912 | 1918 | 1928 | 1938 | 1951 | 1964 |
+| 84 123 | 95 761 | 100 000 | 121 257 | 143 994 | 235 421 | 330 312 | 715 250 | 1 697 311 |
+Évolution de la population, suite (2) :
+| 1973 | 1979 | 1985 | 1993 | 1996 | 2000 | 2005 | - | - |
+| 2 868 123 | 3 000 000 | 4 273 461 | 5 484 224 | 5 859 861 | 6 422 198 | 6 840 116 | - | - |
 
 # Bogota
 ## Démographie
@@ -466,7 +496,7 @@ Signification des couleurs :
 * le jaune représente la justice, la miséricorde et la bonté ;
 * le rouge symbolise la liberté, la santé et la charité.
 Par le Royal Warrant de Valladolid du 3 décembre 1548, l'empereur Charles Quint accorda des armoiries à la ville de Santa Fe (actuellement Bogota). En voici un extrait traduit de l'ancien espagnol :
-« ... et parce que nous méritons et nous souhaitons que, désormais, le commandement agora et la dite province du Nouveau Royaume de Grenade et les villes aient des armes et soient connus par un bouclier ayant au centre un aigle noir couronné, sur fond d'or, tenant dans chaque patte une grenade rouge, avec neuf grenades d'or sur une bordure bleue. »
+   « ... et parce que nous méritons et nous souhaitons que, désormais, le commandement agora et la dite province du Nouveau Royaume de Grenade et les villes aient des armes et soient connus par un bouclier ayant au centre un aigle noir couronné, sur fond d'or, tenant dans chaque patte une grenade rouge, avec neuf grenades d'or sur une bordure bleue. »
 Soit en termes de blasonnement : « D'or, à l'aigle couronnée de sable tenant dans chaque patte une grenade de gueules, à la bordure d'azur neuf grenades d'or. » ²⁰
 Dans ces armoiries données par Charles Quint au Nouveau Royaume de Grenade, l'aigle symbolise la force, les neuf grenades représentent le courage et l'intrépidité.
 * Drapeau de Bogota.
@@ -512,3 +542,43 @@ Dans ces armoiries données par Charles Quint au Nouveau Royaume de Grenade, l'a
 ## Jumelages et pactes d'amitié
 
 Bogota a passé un accord de jumelage de villes avec Miami (États-Unis) en 1971, un autre avec Cadix (Espagne) en 2008 et également avec Chicago (États-Unis) en 2009. En 1982, la ville a signé un accord de jumelage pour la coopération internationale avec Séoul (Corée du Sud). En outre, Bogota fait partie de l'Union des Capitales culturelles ibéro-américaines (Unión de Ciudades Capitales Iberoamericanas, UCCI) qui regroupe 29 villes d'Ibéro-Amérique (péninsule Ibérique et Amérique latine). Bogota est jumelée avec 37 villes :
+* Abu Dhabi (Émirats arabes unis)
+* Andorre-la-Vieille (Andorre)
+* Asunción (Paraguay)
+* Athènes (Grèce)
+* Barcelone (Espagne)
+* Berlin (Allemagne)
+* Brasilia (Brésil)
+* Buenos Aires (Argentine)
+* Cadix (Espagne)
+* Caracas (Venezuela)
+* Chicago (États-Unis)
+* Guatemala (Guatemala)
+* Istanbul (Turquie)
+* La Havane (Cuba)
+* La Paz (Bolivie)
+* Lima (Pérou)
+* Lisbonne (Portugal)
+* Londres (Angleterre)
+* Madrid (Espagne)
+* Managua (Nicaragua)
+* Mexico (Mexique)
+* Miami (États-Unis)
+* Montevideo (Uruguay)
+* Moscou (Russie)
+* Navi Mumbai (Inde)
+* New York (États-Unis)
+* Panama (Panama)
+* Port-au-Prince (Haïti)
+* Quito (Équateur)
+* Rio de Janeiro (Brésil)
+* Rome (Italie)
+* San José (Costa Rica)
+* San Juan (Porto Rico)
+* San Salvador (Salvador)
+* Saint-Domingue (République dominicaine)
+* Santa Fe (Espagne)
+* Santiago (Chili)
+* Séoul (Corée du Sud)
+* Tegucigalpa (Honduras)
+* Toronto (Canada)

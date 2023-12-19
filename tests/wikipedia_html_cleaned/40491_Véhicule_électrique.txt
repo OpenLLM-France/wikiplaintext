@@ -373,6 +373,12 @@ Depuis le 1ᵉʳ juillet 2020, la loi d'orientation des mobilités donne un cadr
 
 Le gyropode est un véhicule dont la stabilité et la vitesse dépendent entièrement de la position du corps du conducteur sur la plateforme, via des capteurs et des moyens modernes de stabilisation dynamique. Les roues sont côte à côte, au lieu d’être l'une derrière l'autre. Ils sont utilisés dans les lieux très étendus comme les très grands halls d'exposition, les esplanades et les très grands parcs et jardins. Après une période d’apprentissage, souvent jugée délicate, ils donnent une sensation de sécurité étonnante.
 Après la sortie des premiers gyropodes en 2001 aux États-Unis et en 2004 en France, d'autres véhicules électriques sont apparus sur le marché. Le prix de vente des gyropodes est resté une contrainte majeure pour leur développement. Parmi les autres véhicules électriques utilisant ou non un contrôle gyroscopique figurent :
+* gyropode avec ou sans guidon ;
+* hoverboard ;
+* gyroroue électrique ;
+* skateboard électrique ;
+* roller électrique ;
+* gyroboard.
 Certains modèles peuvent être utilisés en tout terrain mais sont plus délicats à piloter et peuvent nécessiter une période d'apprentissage accrue, surtout si leur vitesse maximum dépasse 15 km/h.
 L'autonomie, donnée parfois pour 10 à 20 km, peut ne pas dépasser dans les faits 5 à 10 km en tout-terrain (avec des pentes à plus de 20 %).
 

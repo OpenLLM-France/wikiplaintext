@@ -2,7 +2,7 @@
 ## Français
 ### Étymologie
 
-> De l’italien tagliatelle, pluriel de tagliatella, dérivé de tagliare (« tailler »).
+    De l’italien tagliatelle, pluriel de tagliatella, dérivé de tagliare (« tailler »).
 
 # tagliatelle
 ## Français
@@ -24,7 +24,7 @@ tagliatelle \ta.ɡli.ja.tɛl\ ou \ta.lja.tɛl\ féminin
 ### Nom commun
 #### Notes
 
-> Au départ, ce mot est déjà un pluriel, les puristes l’écrivent donc sans ‹ s ›.
+    Au départ, ce mot est déjà un pluriel, les puristes l’écrivent donc sans ‹ s ›.
 
 # tagliatelle
 ## Français
@@ -57,6 +57,6 @@ tagliatelle
 ## Néerlandais
 ### Taux de reconnaissance
 
-> En 2013, ce mot était reconnu par :
->* 87,6 % des Flamands,
->* 89,2 % des Néerlandais.
+    En 2013, ce mot était reconnu par :
+   * 87,6 % des Flamands,
+   * 89,2 % des Néerlandais.

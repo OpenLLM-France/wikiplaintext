@@ -57,16 +57,8 @@
 ## Chinois
 ### Prononciation
 
-* mandarin \ti̯ɑʊ̯˥˩\, \tʰi̯ɑʊ̯˧˥\
-Pinyin : diào, tiáo
-EFEO : tiao, t’iao
-Wade-Giles : tiao⁴, tʻiao²
-Yale : dyàu, tyáu
-Zhuyin : ㄉㄧㄠˋ，ㄊㄧㄠˊ
-* cantonais (yue) \tiːu²²\, \tʰiːu²¹\
-Jyutping : diu⁶, tiu⁴
-Penkyamp :
-Yale : diu⁶, tiu⁴
+* mandarin \ti̯ɑʊ̯˥˩\, \tʰi̯ɑʊ̯˧˥\ Pinyin : diào, tiáo EFEO : tiao, t’iao Wade-Giles : tiao⁴, tʻiao² Yale : dyàu, tyáu Zhuyin : ㄉㄧㄠˋ，ㄊㄧㄠˊ
+* cantonais (yue) \tiːu²²\, \tʰiːu²¹\ Jyutping : diu⁶, tiu⁴ Penkyamp : Yale : diu⁶, tiu⁴
 
 # 調
 ## Coréen

@@ -197,7 +197,7 @@ Fabien Verdier, maire de Châteaudun est sans étiquette.
 #### Élections législatives, résultats des deuxièmes tours
 ##### Élections législatives de 2017
 
-* 1ʳᵉ circonscription : 55,18 % pour Guillaume Kasbarian (LaREM), 44,82 % pour Franck Masselus (LR), 43,46 % de participation.
+* 1ʳᵉ circonscription : 55,18 % pour Guillaume Kasbarian (LaREM), 44,82 % pour Franck Masselus (LR), 43,46 % de participation.
 * 2ᵉ circonscription: 59,38 % pour Olivier Marleix (LR), 40,62 % pour Claire Tassadit Houd (LaREM), 40,06 % de participation.
 * 3ᵉ circonscription : 56,10 % pour Laure de La Raudière (LR), 43,90 % pour François Huwart (PRG), 45,04 % de participation.
 * 4ᵉ circonscription : 70,38 % pour Philippe Vigier (UDI), 29,62 % pour Clémence Rouvier (LaREM), 47,19 % de participation.
@@ -280,6 +280,21 @@ Le centre et le sud du département connaissent une évolution moins favorable. 
 #### Évolution démographique
 
 En 2020, le département comptait 431 443 habitants, en diminution de 0,53 % par rapport à 2014 (France hors Mayotte : +1,9 %).
+Évolution de la population :
+| 1791 | 1801 | 1806 | 1821 | 1826 | 1831 | 1836 | 1841 | 1846 |
+| 256 636 | 257 793 | 266 008 | 264 448 | 277 782 | 278 820 | 285 058 | 286 368 | 292 337 |
+Évolution de la population, suite (1) :
+| 1851 | 1856 | 1861 | 1866 | 1872 | 1876 | 1881 | 1886 | 1891 |
+| 294 892 | 291 074 | 290 455 | 290 753 | 282 622 | 283 075 | 280 097 | 283 719 | 284 683 |
+Évolution de la population, suite (2) :
+| 1896 | 1901 | 1906 | 1911 | 1921 | 1926 | 1931 | 1936 | 1946 |
+| 280 469 | 275 433 | 273 823 | 272 255 | 251 255 | 255 213 | 254 790 | 252 690 | 258 110 |
+Évolution de la population, suite (3) :
+| 1954 | 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2011 |
+| 261 035 | 277 546 | 302 251 | 335 151 | 362 813 | 396 073 | 407 665 | 421 114 | 430 416 |
+Évolution de la population, suite (4) :
+| 2016 | 2020 | - | - | - | - | - | - | - |
+| 433 929 | 431 443 | - | - | - | - | - | - | - |
 
 # Eure-et-Loir
 ## Population et société
@@ -311,6 +326,19 @@ Liste des quinze communes les plus peuplées du département :
 
 Selon le recensement général de la population du 1ᵉʳ janvier 2008, 6,9 % des logements disponibles dans le département étaient des résidences secondaires.
 Ce tableau indique les principales communes d'Eure-et-Loir dont les résidences secondaires et occasionnelles dépassent 10 % des logements totaux.
+| Ville | Population municipale | Nombre de logements | Résidences secondaires | % Rés. secondaires |
+| Frétigny | 480 | 332 | 99 | 29,77 % |
+| Frazé | 519 | 341 | 100 | 29,22 % |
+| Dampierre-sur-Avre | 689 | 368 | 98 | 26,57 % |
+| Unverre | 1 172 | 722 | 177 | 24,48 % |
+| Maillebois | 990 | 539 | 114 | 21,10 % |
+| Arrou | 1 683 | 1 106 | 186 | 16,80 % |
+| Sorel-Moussel | 1 802 | 906 | 149 | 16,47 % |
+| La Bazoche-Gouet | 1 310 | 801 | 127 | 15,86 % |
+| Villiers-le-Morhier | 1 347 | 624 | 93 | 14,96 % |
+| Abondant | 2 042 | 847 | 106 | 12,52 % |
+| Cloyes-sur-le-Loir | 2 676 | 1 587 | 179 | 11,28 % |
+* Source Insee,chiffres au 1ᵉʳ janvier 2008.
 
 # Eure-et-Loir
 ## Population et société

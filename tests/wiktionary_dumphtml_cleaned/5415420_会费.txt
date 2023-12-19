@@ -2,7 +2,7 @@
 ## Chinois
 ### Étymologie
 
-> Composé de 會／会 (huì, « association ») et de 費／费 (fèi, « frais »).
+    Composé de 會／会 (huì, « association ») et de 費／费 (fèi, « frais »).
 
 # 会费
 ## Chinois
@@ -15,11 +15,5 @@
 ## Chinois
 ### Prononciation
 
-* mandarin \xu̯eɪ̯˥˧ feɪ̯˥˩\
-Pinyin : huìfèi
-EFEO : houei-fei
-Wade-Giles : hui⁴ fei⁴
-Yale : hwèifèi
-Zhuyin : ㄏㄨㄟˋ ㄈㄟˋ
-* cantonais \? fɐi³³\
-Jyutping : wui⁶⁻² fai³
+* mandarin \xu̯eɪ̯˥˧ feɪ̯˥˩\ Pinyin : huìfèi EFEO : houei-fei Wade-Giles : hui⁴ fei⁴ Yale : hwèifèi Zhuyin : ㄏㄨㄟˋ ㄈㄟˋ
+* cantonais \? fɐi³³\ Jyutping : wui⁶⁻² fai³

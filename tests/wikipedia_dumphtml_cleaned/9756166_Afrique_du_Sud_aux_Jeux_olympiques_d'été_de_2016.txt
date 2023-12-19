@@ -176,9 +176,8 @@ Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = 
 ## Cyclisme
 ### VTT
 
-* Compétition
-* Cross-country VTT hommes
-* Cross-country VTT hommes
+| Athlète | Compétition | Temps | Rang |
+| | Cross-country VTT hommes | | |
 
 # Afrique du Sud aux Jeux olympiques d'été de 2016
 ## Cyclisme
@@ -250,6 +249,18 @@ L'équipe d'Afrique du Sud de rugby à sept gagne sa place en terminant deuxièm
 #### Effectif
 
 Sélection :
+* Kyle Brown
+* Tim Agaba
+* Philip Snyman
+* Werner Kok
+* Dylan Sage
+* Kwagga Smith
+* Rosko Specman
+* Cheslin Kolbe
+* Cecil Afrika
+* Justin Geduld
+* Juan de Jongh
+* Seabelo Senatla
 Entraîneur principal : Neil Powell
 
 # Afrique du Sud aux Jeux olympiques d'été de 2016
@@ -266,42 +277,32 @@ Classement :
 * Qualifié pour les quarts de finale
 * Qualifié pour le classement de 9 à 12
 Le détail des rencontres de poule de l'équipe est le suivant :
-| 9 août 2016 11 h 30 UTC-3 | Afrique du Sud | stade de Deodoro, Rio de Janeiro |
-| 9 août 2016 11 h 30 UTC-3 | Essai(s) : Afrika (1ʳᵉ, 7ᵉ), Senatla (8ᵉ), Snyman (12ᵉ) Transformation(s) : Afrika (1ʳᵉ, 7ᵉ) | stade de Deodoro, Rio de Janeiro |
-| 9 août 2016 11 h 30 UTC-3 | | stade de Deodoro, Rio de Janeiro |
-| 9 août 2016 16 h 30 UTC-3 | Afrique du Sud | stade de Deodoro, Rio de Janeiro |
-| 9 août 2016 16 h 30 UTC-3 | Essai(s) : Geduld (1ʳᵉ), Smith (4ᵉ), Brown (6ᵉ), Sage (12ᵉ) Transformation(s) : Afrika (1ʳᵉ, 4ᵉ, 12ᵉ) | stade de Deodoro, Rio de Janeiro |
-| 9 août 2016 16 h 30 UTC-3 | | stade de Deodoro, Rio de Janeiro |
-| 10 août 2016 11 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 10 août 2016 11 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 10 août 2016 11 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
+| 9 août 2016 11 h 30 UTC-3 | Afrique du Sud | 24 - 0 (14 - 0) | Espagne | stade de Deodoro, Rio de Janeiro |
+| 9 août 2016 11 h 30 UTC-3 | Essai(s) : Afrika (1ʳᵉ, 7ᵉ), Senatla (8ᵉ), Snyman (12ᵉ) Transformation(s) : Afrika (1ʳᵉ, 7ᵉ) | | | stade de Deodoro, Rio de Janeiro |
+| 9 août 2016 16 h 30 UTC-3 | Afrique du Sud | 26 - 0 (19 - 0) | France | stade de Deodoro, Rio de Janeiro |
+| 9 août 2016 16 h 30 UTC-3 | Essai(s) : Geduld (1ʳᵉ), Smith (4ᵉ), Brown (6ᵉ), Sage (12ᵉ) Transformation(s) : Afrika (1ʳᵉ, 4ᵉ, 12ᵉ) | | | stade de Deodoro, Rio de Janeiro |
+| 10 août 2016 11 h 30 UTC-3 | Afrique du Sud | 5 - 12 | Australie | stade de Deodoro, Rio de Janeiro |
 
 # Afrique du Sud aux Jeux olympiques d'été de 2016
 ## Rugby à sept
 ### Tournoi masculin
 #### Quarts de finale
 
-| 10 août 2016 18 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 10 août 2016 18 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 10 août 2016 18 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
+| 10 août 2016 18 h 30 UTC-3 | Afrique du Sud | 22 - 5 | Australie | stade de Deodoro, Rio de Janeiro |
 
 # Afrique du Sud aux Jeux olympiques d'été de 2016
 ## Rugby à sept
 ### Tournoi masculin
 #### Demi-finales
 
-| 11 août 2016 15 h UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 11 août 2016 15 h UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 11 août 2016 15 h UTC-3 | stade de Deodoro, Rio de Janeiro |
+| 11 août 2016 15 h UTC-3 | Grande-Bretagne | 7 - 5 | Afrique du Sud | stade de Deodoro, Rio de Janeiro |
 
 # Afrique du Sud aux Jeux olympiques d'été de 2016
 ## Rugby à sept
 ### Tournoi masculin
 #### Match pour la médaille de bronze
 
-| 11 août 2016 18 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 11 août 2016 18 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
-| 11 août 2016 18 h 30 UTC-3 | stade de Deodoro, Rio de Janeiro |
+| 11 août 2016 18 h 30 UTC-3 | Japon | 14 - 52 | Afrique du Sud | stade de Deodoro, Rio de Janeiro |
 
 # Afrique du Sud aux Jeux olympiques d'été de 2016
 ## Rugby à sept

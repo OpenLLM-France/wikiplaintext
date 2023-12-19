@@ -6,27 +6,27 @@ En théorie des graphes, un graphe complet est un graphe simple dont tous les so
 ## Définitions
 
 Un graphe complet est un graphe dont tous les sommets sont adjacents.
-À isomorphisme près, il n'existe qu'un seul graphe complet non orienté d'ordre n, que l'on note Kn.
+À isomorphisme près, il n'existe qu'un seul graphe complet non orienté d'ordre n, que l'on note Kₙ.
 Dans un graphe G quelconque, on appelle clique un sous-ensemble de sommets induisant un sous-graphe complet de G. Rechercher une clique de taille maximum dans un graphe est un problème classique en théorie des graphes. Il est NP-complet.
 La notion de graphe biparti complet existe également. Mais un graphe biparti complet n'est pas un graphe complet.
 
 # Graphe complet
 ## Propriétés
 
-Le nombre d'arêtes de Kn est :
-> ∑i=1n(n−i)=∑i=1n−1i=n(n−1)2.
-Le premier terme s'obtient en remarquant que la suppression d'un premier sommet de Kn entraîne la suppression de n−1 arêtes, la suppression d'un deuxième sommet, la suppression de n−2 arêtes, et celle d'un i-ème sommet n−i arêtes. Le deuxième terme s'obtient par la même opération en marquant les arêtes au lieu de les supprimer, chaque arête est alors marquée deux fois et l'on fait n−1 marquages par sommet (c'est la formule générale de la demi-somme des degrés).
-On peut également obtenir cette formule en voyant le nombre d’arêtes comme le nombre de couples distincts que l’on peut former avec n nœuds, soit (n2) arêtes, ce qui vaut bien n(n−1)2.
-Le graphe complet Kn est symétrique : il est sommet-transitif, arête-transitif et arc-transitif. Cela signifie que son groupe d'automorphismes agit transitivement sur l'ensemble de ses sommets, de ses arêtes et de ses arcs. Ce groupe d'automorphismes est de cardinal n! et est isomorphe au groupe symétrique Sn.
-Le polynôme caractéristique du graphe complet Kn est : (x−n+1)(x+1)n−1. Ce polynôme caractéristique n'admet que des racines entières. Le graphe complet est donc un graphe intégral, un graphe dont le spectre est constitué d'entiers.
-Le graphe K5 est le plus petit graphe non planaire. Il sert dans les caractérisations des graphes planaires de Kazimierz Kuratowski et de Klaus Wagner.
+Le nombre d'arêtes de Kₙ est :
+    ∑ᵢ₌₁ⁿ(n−i)=∑ᵢ₌₁ⁿ⁻¹i=n(n−1)/2.
+Le premier terme s'obtient en remarquant que la suppression d'un premier sommet de Kₙ entraîne la suppression de n−1 arêtes, la suppression d'un deuxième sommet, la suppression de n−2 arêtes, et celle d'un i-ème sommet n−i arêtes. Le deuxième terme s'obtient par la même opération en marquant les arêtes au lieu de les supprimer, chaque arête est alors marquée deux fois et l'on fait n−1 marquages par sommet (c'est la formule générale de la demi-somme des degrés).
+On peut également obtenir cette formule en voyant le nombre d’arêtes comme le nombre de couples distincts que l’on peut former avec n nœuds, soit (n/2) arêtes, ce qui vaut bien n(n−1)/2.
+Le graphe complet Kₙ est symétrique : il est sommet-transitif, arête-transitif et arc-transitif. Cela signifie que son groupe d'automorphismes agit transitivement sur l'ensemble de ses sommets, de ses arêtes et de ses arcs. Ce groupe d'automorphismes est de cardinal n! et est isomorphe au groupe symétrique Sₙ.
+Le polynôme caractéristique du graphe complet Kₙ est : (x−n+1)(x+1)ⁿ⁻¹. Ce polynôme caractéristique n'admet que des racines entières. Le graphe complet est donc un graphe intégral, un graphe dont le spectre est constitué d'entiers.
+Le graphe K₅ est le plus petit graphe non planaire. Il sert dans les caractérisations des graphes planaires de Kazimierz Kuratowski et de Klaus Wagner.
 
 # Graphe complet
 ## Conjectures
 ### Nombre de croisements
 
-On note cr(G) le nombre de croisements du graphe G, le nombre minimal de croisements parmi les tracés possibles de G. A. Hill et J. Ernest ont conjecturé une valeur pour le nombre de croisements du graphe complet Kn, que Richard K. Guy a publiée en 1960. On sait qu'il existe toujours un tracé avec
-> cr(Kn)≤14⌊n2⌋⌊n−12⌋⌊n−22⌋⌊n−32⌋
+On note cr(G) le nombre de croisements du graphe G, le nombre minimal de croisements parmi les tracés possibles de G. A. Hill et J. Ernest ont conjecturé une valeur pour le nombre de croisements du graphe complet Kₙ, que Richard K. Guy a publiée en 1960. On sait qu'il existe toujours un tracé avec
+    cr(Kₙ)≤ 1/4 ⌊ n/2 ⌋⌊ n−1/2 ⌋⌊ n−2/2 ⌋⌊ n−3/2 ⌋
 croisements (suite A000241 de l'OEIS). Il est conjecturé que l'inégalité est en fait une égalité. Une formulation indépendante de la même conjecture a été faite par Thomas L. Saaty en 1964.
 Saaty a en outre vérifié que cette formule donne le nombre optimal de croisements pour n ≤ 10 et Pan et Richter ont montré qu'elle était également optimale pour n = 11, 12.
 
@@ -34,15 +34,15 @@ Saaty a en outre vérifié que cette formule donne le nombre optimal de croiseme
 ## Galerie
 
 Pour chacun des graphes complets de 1 à 12 sommets, est indiqué le nombre de ses arêtes.
-* K1 : 0 arête graphe singleton
-* K2 : 1 arête
-* K3 : 3 arêtes graphe triangle
-* K4 : 6 arêtes graphe tétraédrique
-* K5 : 10 arêtes pentacle
-* K6 : 15 arêtes
-* K7 : 21 arêtes
-* K8 : 28 arêtes
-* K9 : 36 arêtes
-* K10 : 45 arêtes
-* K11 : 55 arêtes
-* K12 : 66 arêtes
+* K₁ : 0 arête graphe singleton
+* K₂ : 1 arête
+* K₃ : 3 arêtes graphe triangle
+* K₄ : 6 arêtes graphe tétraédrique
+* K₅ : 10 arêtes pentacle
+* K₆ : 15 arêtes
+* K₇ : 21 arêtes
+* K₈ : 28 arêtes
+* K₉ : 36 arêtes
+* K₁₀ : 45 arêtes
+* K₁₁ : 55 arêtes
+* K₁₂ : 66 arêtes

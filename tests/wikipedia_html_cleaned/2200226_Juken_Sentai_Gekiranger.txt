@@ -84,7 +84,7 @@ Liste des épisodes : :
 | 4 | Leçon 4 : Zowa-Zowa ! Les cinq Poings du Poison | 修行その４　ゾワゾワ！五毒拳 Shugyō Sono Yon: Zowa-Zowa! Godokuken | Robotuff |
 | 5 | Leçon 5 : Uja-Uja ! Que dois-je faire ? | 修行その５　ウジャウジャ！どーすりゃいいの？ Shugyō Sono Go: Uja-Uja! Dōsuryaiino? | GekiTonga LongBaton |
 | 6 | Leçon 6: Juwān ! C'est quoi, ça ? | 修行その６　ジュワーン！って、何？ Shugyō Sono Roku: Juwān! 'tte, Nani? | GekiTonfa |
-| 7 | Leçon 7  : Dance Shuba-Shuba ! | 修行その７　シュバシュバ踊ろう！ Shugyō Sono Nana: Shuba-Shuba Odorō! | Geki-Nunchaku |
+| 7 | Leçon 7 : Dance Shuba-Shuba ! | 修行その７　シュバシュバ踊ろう！ Shugyō Sono Nana: Shuba-Shuba Odorō! | Geki-Nunchaku |
 | 8 | Leçon 8 : Koto-Koto… Intensément Koto-Koto | 修行その８　コトコト…ひたすらコトコト Shugyō Sono Hachi: Koto-Koto… Hitasura Koto-Koto | Geki-Bazooka |
 | 9 | Leçon 9 : La femme Kena-Kena | 修行その９　ケナケナの女 Shugyō Sono Kyū: Kena-Kena no Onna | |
 | 10 | Leçon 10 : L'attaque Jara-Jara ! Le premier ermite ! | 修行その10　ジャラジャラ襲撃！はじめてのおつかい Shugyō Sono Jū: Jara-Jara Shūgeki! Hajimete no Otsukai | |

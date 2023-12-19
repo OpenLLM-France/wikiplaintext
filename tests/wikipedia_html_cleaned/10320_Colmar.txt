@@ -16,6 +16,10 @@ Colmar se situe à mi-distance entre Strasbourg, au nord (64 km) et Bâle, au s
 ### Communes limitrophes
 
 Les communes limitrophes sont Illhaeusern, Grussenheim, Jebsheim, Sundhoffen, Horbourg-Wihr, Sainte-Croix-en-Plaine, Wettolsheim, Wintzenheim, Ingersheim, Ammerschwihr, Sigolsheim, Bennwihr, Houssen, Ostheim, Guémar, Herrlisheim-près-Colmar, Porte du Ried et Kaysersberg Vignoble.
+Communes limitrophes de Colmar :
+| Bennwihr Kaysersberg Vignoble Ammerschwihr Ingersheim | Houssen Ostheim Guémar Illhaeusern | Grussenheim Jebsheim Porte du Ried |
+| Wintzenheim | | Horbourg-Wihr |
+| Wettolsheim | Sainte-Croix-en-Plaine | Sundhoffen |
 
 # Colmar
 ## Géographie
@@ -26,7 +30,7 @@ Colmar est située au nord du bassin potassique et du bassin houiller sous-vosgi
 La superficie de la commune est de 6 657 hectares ; son altitude varie entre 175 et 214 mètres.
 Le territoire de la commune est, au pied du massif des Vosges, le troisième plus grand d'Alsace après Haguenau (18 259 hectares) et Strasbourg (7 826 hectares), et le premier de son département devant Orbey (4 602 hectares), Sainte-Marie-aux-Mines (4 523 hectares), Rouffach (4 005 hectares), Ensisheim (3 659 hectares).
 Hydrogéologie et climatologie : Système d’information pour la gestion de l’Aquifère rhénan, par le BRGM :
->> Hydrogéologie : Masses d'eau souterraine; BD Lisa; Cartes piézométriques.
+       Hydrogéologie : Masses d'eau souterraine; BD Lisa; Cartes piézométriques.
 
 # Colmar
 ## Géographie
@@ -38,12 +42,12 @@ Cours d'eau traversant la commune :
 * La Lauch Canalisee.
 * Le canal de Colmar.
 * Ruisseaux :
->> Ruisseau la Blind,
->> Ruisseau l'Orchbach,
->> Ruisseau de Logelbach,
->> Ruisseau le Brunnenwasser,
->> Ruisseau le Langgraben,
->> Ruisseau le Riedbrunnen.
+       Ruisseau la Blind,
+       Ruisseau l'Orchbach,
+       Ruisseau de Logelbach,
+       Ruisseau le Brunnenwasser,
+       Ruisseau le Langgraben,
+       Ruisseau le Riedbrunnen.
 
 # Colmar
 ## Géographie
@@ -139,6 +143,7 @@ Concernant l'aménagement des arrêts de bus, 73 sont équipés d'un système d'
 #### Transports en commun
 ##### Réseau interurbain
 
+Schéma des villes traversée par la ligne de bus 1076.
 Une quinzaine de lignes de bus départementales ont leur origine et destination à Colmar. Le point de correspondance de toutes les lignes interurbaines se situe à la gare de Colmar. Les lignes de bus circulant à Colmar sont la ligne 106 (Colmar - Route des vins - Ribeauvillé), la ligne 109 (Colmar - Ribeauvillé - Saint-Hippolyte), la ligne 145 (Colmar - Orbey - Le Bonhomme), la ligne 157 (Colmar - Trois-Épis - Labaroche), la ligne 208 (Colmar - Husseren - Obermorschwihr), la ligne 248 (Colmar - Munster - Soultzeren), la ligne 301 (Colmar - Neuf-Brisach - Balgau), la ligne 303 (Colmar - Neuf-Brisach - Biesheim), la ligne 316 (Colmar - Neuf-Brisach - Baltzenheim), la ligne 318 (Colmar - Neuf-Brisach - Ohnenheim), la ligne 326 (Colmar - Dessenheim - Weckolsheim), la ligne 346 (Colmar - Marckolsheim - Artzenheim), la ligne 437 (Colmar - Ensisheim - Mulhouse), la ligne 439 (Colmar - Ensisheim - Fessenheim) et la ligne 440 (Colmar - Ensisheim - Guebwiller).
 La ligne 1076 permet un accès à l'Allemagne et la desserte des villes de Breisach et de Fribourg-en-Brisgau. Depuis décembre 2009, cette liaison a été renforcée par l'augmentation des fréquences et le prolongement jusqu'à Breisach de la ligne départementale 301 (Colmar - Neuf-Brisach - Balgau) qui permet une meilleure interconnexion avec la gare de Breisach et le réseau ferroviaire allemand de la Deutsche Bahn.
 
@@ -191,7 +196,7 @@ D'autres projets de construction sont à l'étude : un gymnase universitaire, u
 De nombreux parcs et jardins publics sont répartis à travers la ville, représentant au total 108 ha, auxquels s'ajoutent 33 ha de jardins familiaux. La ville est récompensée par quatre fleurs et par le Grand prix national du fleurissement depuis 1984 au palmarès du concours des villes et villages fleuris.
 Le parc du Champ-de-Mars est situé entre la place Rapp au nord et la Préfecture du Haut-Rhin au sud. Il dispose de vastes espaces verts. Au centre, se trouve une fontaine surmontée de la statue de l'amiral Bruat édifiée en 1864 et construite par Bartholdi. Dans sa partie sud-ouest est installé un carrousel avec sa galerie fermée, modèle unique en Europe par son envergure. L'agencement de ce parc rappelle la croix de la légion d'honneur.
 Le parc du château d'eau est situé à l'angle de l'avenue Joffre et de l'avenue Poincaré. Il est également appelé parc de la Cour d'appel. Sa superficie est de 13 990 m². Il héberge, comme son nom l'indique, l'ancien château d'eau de la ville érigé en 1884 et classé monument historique. Une statue représentant Auguste Bartholdi est érigée à l'entrée sud-est du parc. La partie ouest est une magnifique roseraie s'étendant sur 450 m² et composée de 990 plants répartis en 38 variétés.
-Parmi les nombreux autres parcs et jardins de la ville, on peut relever le parc Saint François-Xavier (9 980 m²), le parc Méquillet (5 753 m²), le square Hirn (jardin à la française) ou le square de la Montagne-Verte (3 273 m²), renommé « Montagne-Verte - Parc Georges Pompidou » depuis 2020, à la suite de l’aménagement d’un parking souterrain et de l’extension subséquente du square en surface (1,7 ha), à l’emplacement de l’ancien parking.
+Parmi les nombreux autres parcs et jardins de la ville, on peut relever le parc Saint François-Xavier (9 980 m²), le parc Méquillet (5 753 m²), le square Hirn (jardin à la française) ou le square de la Montagne-Verte (3 273 m²), renommé « Montagne-Verte - Parc Georges Pompidou » depuis 2020, à la suite de l’aménagement d’un parking souterrain et de l’extension subséquente du square en surface (1,7 ha), à l’emplacement de l’ancien parking.
 À l'est de la ville se trouve le massif du Neuland/Fronholz qui s'étale sur 614 ha et dispose d'un parcours de santé et d'une maison de la nature, association qui a pour thème l'éducation à l'environnement et au développement durable. Le massif du Niederwald/Rothleible quant à lui couvre 778 ha.
 * La statue de l'amiral Bruat au centre du parc du Champ-de-Mars.
 * Le carrousel.
@@ -430,6 +435,13 @@ Le nombre d'habitants au dernier recensement étant compris entre 60 000 et 79�
 #### Liste des maires
 
 Depuis 1945, cinq maires se sont succédé à la tête du conseil municipal, dont Joseph Rey, réélu durant trente ans.
+Liste des maires successifs :
+| Période | Période | Identité | Étiquette | Qualité |
+| mai 1945 | octobre 1947 | Édouard Richard | SFIO | Sénateur du Haut-Rhin (1946 → 1948) |
+| octobre 1947 | novembre 1977 | Joseph Rey | MRP puis CD puis UDF-CDS | Député du Haut-Rhin (1956 → 1958) Conseiller général de Colmar (1945 → 1958) Conseiller général de Colmar-Sud (1958 → 1982) Démissionnaire |
+| 2 décembre 1977 | 23 juin 1995 | Edmond Gerrer | UDF-CDS | Député de la 1ʳᵉ circonscription du Haut-Rhin (1988 → 1993) Conseiller général de Colmar-Sud (1982 → 1988) |
+| 23 juin 1995 | 28 juin 2020 | Gilbert Meyer | RPR, UMP puis LR | Député de la 1ʳᵉ circonscription du Haut-Rhin (1993 → 2007) Président de Colmar Agglomération (2003 → 2020) |
+| 28 juin 2020 | En cours (au 6 juillet 2020) | Éric Straumann | LR puis DVD | Député de la 1ʳᵉ circonscription du Haut-Rhin (2007 → 2020) Conseiller d'Alsace (canton de Colmar-2) (2015 → ) Président de Colmar Agglomération (2020 → ) |
 
 # Colmar
 ## Politique et administration
@@ -556,6 +568,21 @@ Son aire urbaine comporte 36 communes pour une superficie de 346 km². Elle com
 Au niveau régional, elle est classée 3ᵉ tant pour la superficie que pour la population et respectivement 1ʳᵉ et 2ᵉ dans le département.
 L'évolution du nombre d'habitants est connue à travers les recensements de la population effectués dans la commune depuis 1793. Pour les communes de plus de 10 000 habitants les recensements ont lieu chaque année à la suite d'une enquête par sondage auprès d'un échantillon d'adresses représentant 8 % de leurs logements, contrairement aux autres communes qui ont un recensement réel tous les cinq ans.
 En 2020, la commune comptait 68 294 habitants, en diminution de 0,71 % par rapport à 2014 (Haut-Rhin : +1,01 %, France hors Mayotte : +1,9 %).
+Évolution de la population :
+| 1793 | 1800 | 1806 | 1821 | 1831 | 1836 | 1841 | 1846 | 1851 |
+| 13 000 | 11 933 | 14 465 | 14 300 | 15 442 | 15 958 | 19 908 | 20 050 | 21 348 |
+Évolution de la population, suite (1) :
+| 1856 | 1861 | 1866 | 1871 | 1875 | 1880 | 1885 | 1890 | 1895 |
+| 21 284 | 22 629 | 23 669 | 23 311 | 23 990 | 26 106 | 26 537 | 30 399 | 33 146 |
+Évolution de la population, suite (2) :
+| 1900 | 1905 | 1910 | 1921 | 1926 | 1931 | 1936 | 1946 | 1954 |
+| 36 844 | 41 791 | 43 808 | 42 255 | 43 167 | 46 518 | 49 448 | 46 124 | 47 305 |
+Évolution de la population, suite (3) :
+| 1962 | 1968 | 1975 | 1982 | 1990 | 1999 | 2006 | 2011 | 2016 |
+| 52 355 | 59 550 | 64 771 | 62 483 | 63 498 | 65 136 | 65 713 | 67 409 | 69 899 |
+Évolution de la population, suite (4) :
+| 2020 | - | - | - | - | - | - | - | - |
+| 68 294 | - | - | - | - | - | - | - | - |
 
 # Colmar
 ## Population et société
@@ -904,7 +931,7 @@ En périphérie nord de la ville se trouve la zone commerciale de Colmar-Houssen
 ### Entreprises et commerces
 #### Tourisme
 
-« On dit de Colmar que c'est un condensé de l'Alsace dans ce qu'elle a de plus typique.[…]. Colmar est aussi une ville de plaisirs et ville gourmande par excellence. Restos prestigieux et winstubs, sortes de tavernes gourmandes qui offrent des plats du terroirs, s'y côtoient »
+   « On dit de Colmar que c'est un condensé de l'Alsace dans ce qu'elle a de plus typique.[…]. Colmar est aussi une ville de plaisirs et ville gourmande par excellence. Restos prestigieux et winstubs, sortes de tavernes gourmandes qui offrent des plats du terroirs, s'y côtoient »
 — Lilian Lacroix , La Presse
 C'est pendant les Trente Glorieuses que la ville connait un formidable essor, notamment grâce à Joseph Rey. De nombreux aménagements ont été apportés tel que le port ou l'aérodrome mais surtout l'ambitieux programme de restauration du centre-ville qui est à l'origine de la vocation touristique de Colmar.
 Colmar, ville d'art et d'histoire, très restaurée et entretenue, en grande partie piétonne ou « semi-piétonne » attire chaque année près de 3,5 millions de touristes du monde entier provenant principalement d'Europe, d'Amérique et du Japon. Meilleure destination touristique 2020 pour l’Europe selon le guide de voyage Lonely Planet, la ville voit sa célébrité portée jusqu’en Malaisie, où l’ancien Premier ministre, Mahathir Mohamad, tombé amoureux de la ville, a fait construire à Bukittinggi une réplique de la ville appelée Colmar Tropicale.

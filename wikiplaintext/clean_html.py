@@ -18,7 +18,13 @@ from clean_common import (
     HTML_NODE_IGNORED,
     LINKS_TO_DISCARD_FUN,
     END_HEADER,
+    PROTECTED_SPACE,
 )
+
+
+PREFIX_DL = PROTECTED_SPACE*3 # previously ">"
+PREFIX_QUOTE = PROTECTED_SPACE*3
+CURRENT_PREFIX = ""
 
 
 def clean_html(
@@ -43,6 +49,8 @@ def clean_html(
     :param repeat_headers: Repeat all headers from previous level at the beginning of each section
     :param use_superscript: Use subscript and superscript characters for numbers when relevant
     """
+    global CURRENT_PREFIX # This is not thread-safe because of this global variable
+    CURRENT_PREFIX = ""
 
     # hashtag_header_internal = True
     # repeat_headers_internal = True
@@ -62,17 +70,29 @@ def clean_html(
 
     soup = bs4.BeautifulSoup(html_string, "html.parser")
 
-    all_possible_wrapping = ["html", "body", "section", "div"]
-    all_possible_names = ["p", "blockquote", "h1", "h2", "h3", "h4", "h5", "h6", "ul", "ol", "dl", "table"]
+    all_possible_wrapping = ["html", "body", "section", "div", "blockquote", "center", "span"]
+    all_possible_names = ["p", "h1", "h2", "h3", "h4", "h5", "h6", "ul", "ol", "dl", "table", "math"]
 
     def html_iterator(root):
+        global CURRENT_PREFIX
         for node in root.find_all(all_possible_wrapping + all_possible_names, recursive=False):
             if ignore_node(node): continue
             if node.name in all_possible_names:
                 yield node
+                if node.name == "table":
+                    # Sometimes, subsections can be included in tables, see https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016
+                    for subnode in node.find_all("section", recursive=True):
+                        if ignore_node(subnode): continue
+                        for subsubnode in html_iterator(subnode):
+                            yield subsubnode
             else:
+                add_quotes = node.name == "blockquote"
+                if add_quotes:
+                    CURRENT_PREFIX += PREFIX_QUOTE
                 for subnode in html_iterator(node):
                     yield subnode
+                if add_quotes:
+                    CURRENT_PREFIX = CURRENT_PREFIX[:-len(PREFIX_QUOTE)]
 
     # Adapt to HTML structure, which varies 
     # - between the dumps and the API, between 
@@ -80,26 +100,7 @@ def clean_html(
     if from_dump is None:
         from_dump = bool(soup.find("section"))
     level_whitespace_collapsing = 2
-    if soup.find("section"):
-        # From the dumps
-        prefix = soup.find("head").get("prefix")
-        from_wikipedia = "wikipedia.org" in prefix
-        if from_wikipedia:
-            def html_iterator(soup):
-                for section in soup.find_all("section"):
-                    if ignore_node(section): continue
-                    subnodes = section.find_all(all_possible_names, recursive=False)
-                    for node in subnodes:
-                        yield node                
-        root = html_iterator(soup)
-    else:
-        # From the API
-        root = soup.find("div")
-        subdiv = root.find("div")
-        from_wikipedia = subdiv and "bandeau-container" in subdiv.get("class", [])
-        # Note : from_wikipedia can be False for some Wikipedia pages
-        if not from_wikipedia:
-            root = html_iterator(soup)
+    root = html_iterator(soup)
 
     # Iterate over all the <p> tags
     full_text = ""
@@ -126,11 +127,13 @@ def clean_html(
             text = text + "\n"
 
         # Paragraph
-        elif (name in ["p", "blockquote"]):
+        elif (name in ["p", "math"]):
+            if node.name == "math":
+                # Wrap into a paragraph
+                node = bs4.BeautifulSoup(f"<p>{node}</p>", "html.parser").find("p")
             text = extract_text(node, **kwargs_extract_text)
             if not text: continue
-            if name in ["p"]:
-                text = collapse_whitespace(text, level_whitespace_collapsing)
+            text = collapse_whitespace(text, level_whitespace_collapsing)
             text = text + "\n"
 
         # Title
@@ -201,8 +204,11 @@ def clean_html(
         else:
             continue
 
-        full_text += text
         has_text = has_text or bool(text)
+        if text:
+            if CURRENT_PREFIX:
+                text = re.sub("(^|\n(?!$))", rf"\1{CURRENT_PREFIX}", text)
+            full_text += text
 
     if not has_text:
         return ""
@@ -228,7 +234,6 @@ def extract_text_in_paragraph(
     looks_like_linktodiscard, #=lambda text:False,
     postproc=None,
     remove_annotations=True,
-    remove_display_style=True,
     recursive=True,
     treat_line_breaks_as=" ",
     remove_line_breaks=False,
@@ -238,39 +243,132 @@ def extract_text_in_paragraph(
     brackets_to_remove = []
     additional_to_remove = []
 
+    # # Add line breaks before block spans
+    # for span in node.find_all("span", recursive=recursive):
+    #     if "display:block" in span.get("style", "").replace(" ", ""):
+    #         span.insert(0, "\n")
+    #         span.append("\n")
+
+    # Process sqrt:
+    for subnode in node.find_all(["msqrt", "mroot"], recursive=recursive):
+        subsubnodes = subnode.find_all(recursive=False)
+        if subnode.name == "mroot" and len(subsubnodes) != 2:
+            import pdb; pdb.set_trace() 
+        text = re.sub(r"\s", "", subsubnodes[0].get_text() if subnode.name == "mroot" else subnode.get_text())
+        needs_parenthesis = len(text.rstrip("|)").lstrip("(|")) > 1
+        if needs_parenthesis:
+            subnode.insert(0, "(")
+        subnode.insert(0, "√")
+        if subnode.name == "mroot":
+            exponent = re.sub(r"\s", "", subsubnodes[1].get_text())
+            subnode.insert(0, to_superscript(exponent))
+            subsubnodes[1].replace_with("")
+        if needs_parenthesis:
+            subnode.append(")")
+
+    # Process fractions
+    for subnode in node.find_all(["mfrac"], recursive=recursive):
+        subnodes = []
+        for subsubnode in subnode.find_all(recursive=False):
+            if isinstance(subsubnode, bs4.element.Tag):
+                subnodes.append(subsubnode)
+        if len(subnodes) != 2:
+            import pdb; pdb.set_trace()
+            subnodes
+        text1 = subnodes[0].get_text()
+        text2 = "".join(s.get_text() for s in subnodes[1:])
+        text = re.sub(r"\s", "", subnode.get_text())
+        parent = subnode.parent
+        while re.sub(r"\s", "", parent.get_text()) == text:
+            parent = parent.parent
+        parent_text = re.sub(r"\s", "", parent.get_text())
+        match = re.search(re.escape(text), parent_text)
+        if match is None:
+            import pdb; pdb.set_trace()
+            (text, parent_text)
+        char_before = parent_text[match.start()-1] if match.start() > 0 else "X"
+        char_after = parent_text[match.end()] if match.end() < len(parent_text) else "X"
+        add_spaces_before = char_before not in "([{,.=-−+" 
+        add_spaces_after = char_after not in ")]},.=-−+"
+        add_parenthesis1 = any(x in text1 for x in ["+", "-"])
+        add_parenthesis2 = any(x in text2 for x in ["+", "-"])
+
+        if add_parenthesis1:
+            subnodes[0].insert(0, (" " if add_spaces_before else "") + "(")
+            subnodes[0].append(")")
+        elif add_spaces_before:
+            subnodes[0].insert(0, " ")
+        subnodes[0].append("/")
+        if add_parenthesis2:
+            subnodes[1].insert(0, "(")
+            subnodes[-1].append(")" + (" " if add_spaces_after else ""))
+        elif add_spaces_after:
+            subnodes[-1].append(" ")
+
+    if node.find_all("mfenced", recursive=True):
+        import pdb; pdb.set_trace()
+        ("mfenced", node)
+
     if use_superscript:
 
-        new_html = None
-        has_modified = False
-        for subnode in node.find_all(["sup", "sub"], recursive=recursive):
-            superscript = subnode.name == "sup"
-            subtext = subnode.get_text()
-            if superscript and subnode.find_all("a"):
-                if looks_like_annotation(subtext):
-                    # Safer to remove after
-                    new_subtext = subtext
-                    brackets_to_remove.append(subtext)
-                else:
-                    new_subtext = ""
+        for subnode in node.find_all(["sup", "sub", "msup", "msub", "msubsup", "munder", "mover", "munderover"], recursive=recursive):
+            superscript = subnode.name in ["sup", "msup", "mover"]
+            if subnode.name in ["msup", "msub", "msubsup", "munder", "mover", "munderover"]:
+                subnodes = []
+                for i, subsubnode in enumerate(subnode.find_all(recursive=False)):
+                    if i > 0:
+                        if i > 1:
+                            if i > 2:
+                                import pdb; pdb.set_trace()
+                                subnode
+                            if subnode.name in ["msubsup", "munderover"]:
+                                superscript = True
+                            else:
+                                import pdb; pdb.set_trace()
+                                subnode
+                        subnodes.append((superscript, subsubnode))
             else:
-                new_subtext = to_superscript(subtext, all_or_none=True) if superscript else to_subscript(subtext, all_or_none=True)
-            if new_subtext == subtext:  
-                continue
-            subhtml = str(subnode)
-            new_subhtml = re.sub(rf">(\s*){re.escape(subtext)}(\s*)<", rf">\1{re.escape(new_subtext)}\2<", subhtml)
-            if new_subhtml == subhtml:
-                continue
-            if new_html is None:
-                new_html = str(node)
-            if subhtml in new_html:
-                new_html = new_html.replace(subhtml, new_subhtml)
-                has_modified = True
-        if has_modified:
-            node = bs4.BeautifulSoup(new_html, features="lxml").descendants.__next__()
+                subnodes = [(superscript, subnode)]
+            for superscript, subnode in subnodes:
+                subtext = subnode.get_text()
+                if subnode.name == "sup" and subnode.find("a"):
+                    # if "prononciation" in subnode.find("a").parent.get("class", []):
+                    #     continue
+                    if looks_like_annotation(subtext):
+                        # Safer to remove after
+                        new_subtext = subtext
+                        brackets_to_remove.append(subtext)
+                    else:
+                        new_subtext = ""
+                else:
+                    subtext = re.sub("\s", "", subtext)
+                    new_subtext = to_superscript(subtext, all_or_none=True) if superscript else to_subscript(subtext, all_or_none=True)
+                if new_subtext == subtext:  
+                    continue
+                subnode.replace_with(new_subtext)
+
+    # Workaround for math
+    for subnode in node.find_all("math", recursive=recursive):
+        text = subnode.get_text()
+        text = re.sub(r"\{\\displaystyle.*\}\n+$", "", text)
+        startswith_space = re.match(r"\n{3,}", text)
+        endswith_space = re.search(r"\n{3,}$", text)
+        text = re.sub("\n", "", text)
+        text = collapse_whitespace(text.replace(",", ", "))
+        if startswith_space or endswith_space:
+            previous_text, next_text = get_previous_and_next_text(subnode)
+        if startswith_space:
+            if not re.search(r"\($", previous_text):
+                text = " " + text
+        if endswith_space:
+            if not re.match(r"[\.,\)]", next_text):
+                text += " "
+        treat_line_breaks_as = "\n"
+        subnode.replace_with(text)
 
     # This is a workaround because bs4 does not handle line breaks <br/> correctly
     for line_break in node.findAll('br'):
-        line_break.replaceWith(treat_line_breaks_as)
+        line_break.replace_with(treat_line_breaks_as)
 
     text = node.get_text(**karwgs) if recursive else node.get_text(depth=1, **karwgs)
 
@@ -297,22 +395,46 @@ def extract_text_in_paragraph(
 
     text = text.strip()
 
-    if remove_display_style and "{\displaystyle" in text:
-        new_text = ""
-        for line in text.split("\n"):
-            if "{\displaystyle" in line and line.rstrip().endswith("}"):
-                f = line.split("{\displaystyle")
-                if len(f) == 2:
-                    new_text += f[0].strip()
-            else:
-                new_text += line
-        text = new_text
-
     if postproc:
         text = postproc(text)
 
     return text
 
+# HTML_MATH_BLOCKS = [
+#     "mi", "mn", "mo",
+#     "mtext", "mrow",
+#     "msqrt", "mroot",
+#     "mfrac",
+#     "msup", "msub", "msubsup", "munderover", "munder", "mover",
+#     "mstyle",
+#     # "mfenced",
+# ]
+
+
+def get_previous_and_next_text(node):
+    parent = node.parent
+    previous_text = ""
+    next_text = ""
+    while not previous_text and not next_text:
+        if not parent:
+            break
+        siblings = list(parent.children)
+        for i, sibling in enumerate(siblings):
+            if sibling == node:
+                for k in range(i-1, -1, -1):
+                    text = siblings[k].get_text() if isinstance(siblings[k], bs4.element.Tag) else str(siblings[k])
+                    if text:
+                        previous_text = text
+                        break
+                for k in range(i+1, len(siblings)):
+                    text = siblings[k].get_text() if isinstance(siblings[k], bs4.element.Tag) else str(siblings[k])
+                    if text:
+                        next_text = text
+                        break
+                break
+        node = parent
+        parent = parent.parent
+    return previous_text, next_text
 
 def looks_like_annotation(text):
     return bool(re.match(rf"^(\[[^\]]+\][,{_superscript_coma}]?)+$", text))
@@ -365,13 +487,14 @@ def list_to_text(
                 t = extract_text_in_list_header_text(bullet, **kwargs)
             else:
                 t = extract_text(bullet, **kwargs)
-            t = collapse_whitespace(t)
+            t = collapse_whitespace(t, 3)
             if t:
                 text += prefix + "*" + " " + t + "\n"
             text += subtext
 
     # Descriptive list
     elif node.name == "dl":
+        prefix2 = prefix.replace("*", "")
         for bullet in node.find_all(["dt", "dd"], recursive=False):
             # Recursive call
             subtext = ""
@@ -381,7 +504,7 @@ def list_to_text(
                     hashtag_header=hashtag_header,
                     repeat_headers=repeat_headers,
                     current_headers=current_headers,
-                    prefix=prefix+">",
+                    prefix=prefix+PREFIX_DL,
                     ignore_one_bullet=False,
                     **kwargs
                 )
@@ -389,16 +512,16 @@ def list_to_text(
                 t = extract_text_in_list_header_text(bullet, **kwargs)
             else:
                 t = extract_text(bullet, **kwargs)
-            t = collapse_whitespace(t)
+            t = collapse_whitespace(t, 3)
             if t and bullet.name == "dt":
                 level = len(current_headers)+1
-                header = (prefix + "#"*level +" " if hashtag_header else "") + t.rstrip("\u00A0 :") + END_HEADER + "\n"
+                header = (prefix2 + "#"*level +" " if hashtag_header else "") + t.rstrip("\u00A0 :") + END_HEADER + "\n"
                 if repeat_headers:
                     header = "".join(current_headers) + header
                 text += "\n" + header
             elif t and bullet.name == "dd":
-                t = collapse_whitespace(t)
-                text += prefix + ">" + " " + "\n> ".join(t.split("\n")) + "\n"
+                # Once upon a time, collapse_whitespace was used only here (why?)
+                text += prefix2 + PREFIX_DL + " " + "\n> ".join(t.split("\n")) + "\n"
             text += subtext
     else:
         raise ValueError("Unexpected node name", node.name)
@@ -406,11 +529,11 @@ def list_to_text(
 
 
 def extract_text_in_list_header_text(node, **kwargs):
-    # This is a trick to sublist be included in the header text (otherwise there will be repetitions)
-    # return extract_text(*args, separator="␣", strip=True, **kwargs).split("␣")[0]
-    snode = str(node)
-    snode = re.sub(r"<(ul|ol|dl).*\1>", "", snode, flags=re.DOTALL)
-    node = bs4.BeautifulSoup(snode, features="lxml").descendants.__next__().descendants.__next__().descendants.__next__()
+    """
+    Trick to extract text from a bullet in a list, to avoid including sublists (otherwise there will be repetitions)
+    """
+    for descendant in node.find_all(["ul", "ol", "dl"], recursive=False):
+        descendant.replace_with("")
     return extract_text(node, **kwargs)
 
 
@@ -433,6 +556,7 @@ class HtmlTable:
         previous_rowspan = {}
         for irow, row in enumerate(rows):
             self.rows.append([])
+            has_content = False
             colspans = []
             cols = row.find_all(["th", "td"], recursive=False)
             icol_offset = 0
@@ -467,8 +591,11 @@ class HtmlTable:
                 text = extract_text(cell, **kwargs).strip()
                 if not text:
                     text = cell.get_text().strip()
+                    if "postproc" in kwargs and kwargs["postproc"]:
+                        text = kwargs["postproc"](text)
                     if looks_like_annotation(text) or looks_like_linktodiscard(text):
                         text = ""
+                has_content = has_content or bool(text)
 
                 self.rows[-1] += [text] * (colspan)
                 # if colspan > 1:
@@ -507,9 +634,11 @@ class HtmlTable:
                 header_colspans = colspans
             if len(colspans) == 1 and colspans[0] > 1:
                 self.rows[-1] = [self.rows[-1][-1] + " " + "|"*(colspans[0]-1)]
+            if not has_content:
+                self.rows.pop()
                 
         # Sometimes there is a big first row, acting as a caption
-        if len(header_colspans) == 1 and header_colspans[0] > 1 and not self.caption:
+        if len(header_colspans) == 1 and header_colspans[0] > 1 and self.rows and not self.caption:
             self.caption = self.rows[0][-1].rstrip("|").rstrip()
             self.rows = self.rows[1:]
 

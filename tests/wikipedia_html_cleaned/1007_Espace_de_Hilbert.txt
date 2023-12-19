@@ -9,14 +9,14 @@ L'intuition géométrique intervient dans de nombreux aspects de la théorie des
 ## Définition et exemples
 ### Exemple introductif : l'espace euclidien de dimension 3
 
-Un des exemples les plus courants d'espace de Hilbert est l'espace euclidien de dimension 3, noté ℝ³, muni du produit scalaire usuel. Le produit scalaire associe, à deux vecteurs x et y un nombre réel noté x⋅y. Si x et y ont pour coordonnées cartésiennes respectives (x1,x2,x3) et (y1,y2,y3), alors leur produit scalaire est :
-> x⋅y=x1y1+x2y2+x3y3.
+Un des exemples les plus courants d'espace de Hilbert est l'espace euclidien de dimension 3, noté ℝ³, muni du produit scalaire usuel. Le produit scalaire associe, à deux vecteurs x et y un nombre réel noté x⋅y. Si x et y ont pour coordonnées cartésiennes respectives (x₁, x₂, x₃) et (y₁, y₂, y₃), alors leur produit scalaire est :
+    x⋅y=x₁y₁+x₂y₂+x₃y₃.
 Le produit scalaire satisfait aux propriétés suivantes :
 * il est symétrique : pour tous vecteurs x et y, x⋅y=y⋅x ;
-* il est linéaire par rapport au premier argument : pour tous nombres réels a et b et tous vecteurs x1,x2,y, on a l'égalité (ax1+bx2)⋅y=ax1⋅y+bx2⋅y ;
+* il est linéaire par rapport au premier argument : pour tous nombres réels a et b et tous vecteurs x₁, x₂, y, on a l'égalité (ax₁+bx₂)⋅y=ax₁⋅y+bx₂⋅y ;
 * il est défini positif : pour tout vecteur x, le produit x⋅x est positif, et nul si et seulement si x est égal au vecteur nul.
 Le produit scalaire est intimement relié avec la géométrie euclidienne par la formule suivante, qui relie le produit scalaire de deux vecteurs x et y avec leurs normes (notées respectivement ‖x‖ et ‖y‖) et l'angle θ qu'ils forment :
-> x⋅y=‖x‖‖y‖cos⁡θ.
+    x⋅y=‖x‖‖y‖cos⁡θ.
 Toute opération sur les vecteurs qui vérifie les trois propriétés ci-dessus est également appelée produit scalaire. Un espace vectoriel muni d'un produit scalaire est dit espace préhilbertien réel.
 Un espace de Hilbert est un espace préhilbertien qui possède de plus une propriété d'analyse mathématique : il est complet, argument reposant sur les limites de suites de vecteurs dans cet espace.
 
@@ -25,6 +25,7 @@ Un espace de Hilbert est un espace préhilbertien qui possède de plus une propr
 ### Définition
 
 Un espace de Hilbert est un espace préhilbertien complet, c'est-à-dire un espace de Banach dont la norme ║·║ découle d'un produit scalaire ou hermitien 〈·, ·〉 par la formule
+‖x‖=√(⟨x, x⟩).
 C'est la généralisation en dimension quelconque (finie ou infinie) d'un espace euclidien ou hermitien.
 
 # Espace de Hilbert
@@ -32,8 +33,8 @@ C'est la généralisation en dimension quelconque (finie ou infinie) d'un espace
 
 * L'espace euclidien ℝⁿ muni du produit scalaire usuel.
 * L'espace hermitien ℂⁿ muni du produit hermitien usuel.
-* L'espace L²([a, b]) des fonctions de [a, b] à valeurs dans ℂ et de carré intégrable avec la convention que deux fonctions égales presque partout sont égales (voir l'article espace Lᵖ), muni de ⟨f,g⟩=∫abf(x)g(x)¯ dx.
-* L'espace de suites ℓ², constitué des suites (un)n∈N de nombres complexes telles que∑n=0∞|un|2<+∞,le produit hermitien de deux suites u et v étant par définition la somme de la série∑n=0∞unv¯n.
+* L'espace L²([a, b]) des fonctions de [a, b] à valeurs dans ℂ et de carré intégrable avec la convention que deux fonctions égales presque partout sont égales (voir l'article espace Lᵖ), muni de ⟨f, g⟩=∫ₐᵇf(x)g(x)¯ dx.
+* L'espace de suites ℓ², constitué des suites (uₙ)_{n∈N} de nombres complexes telles que ∑ₙ₌₀^{∞}|uₙ|²<+∞, le produit hermitien de deux suites u et v étant par définition la somme de la série ∑ₙ₌₀^{∞}uₙv¯ₙ.
 
 # Espace de Hilbert
 ## Classification
@@ -47,11 +48,12 @@ Dans un espace de Hilbert de dimension infinie, le concept habituel de base est 
 ## Théorème de Fréchet-von Neumann-Jordan
 
 Un espace de Banach (respectivement espace vectoriel normé) est un espace de Hilbert (respectivement espace préhilbertien) si et seulement si sa norme vérifie l'égalité
+‖x+y‖²+‖x−y‖²=2(‖x‖²+‖y‖²)
 qui signifie que la somme des carrés des quatre côtés d'un parallélogramme est égale à la somme des carrés de ses diagonales (règle du parallélogramme).
 Ce théorème est dû à Maurice René Fréchet, John von Neumann et Pascual Jordan.
 Identité de polarisation :
-* dans le cas réel, le produit scalaire est défini par ⟨x,y⟩=14(‖x+y‖2−‖x−y‖2) ;
-* dans le cas complexe, le produit hermitien sesquilinéaire à droite est défini par⟨x,y⟩=⟨x,y⟩1+i⟨x,iy⟩1, où⟨x,y⟩1=14(‖x+y‖2−‖x−y‖2)et i est l'unité imaginaire (le nombre complexe identifié au couple de réels (0, 1)).
+* dans le cas réel, le produit scalaire est défini par ⟨x, y⟩=1/4 (‖x+y‖²−‖x−y‖²) ;
+* dans le cas complexe, le produit hermitien sesquilinéaire à droite est défini par ⟨x, y⟩=⟨x, y⟩₁+i⟨x, iy⟩₁, où ⟨x, y⟩₁=1/4 (‖x+y‖²−‖x−y‖²) et i est l'unité imaginaire (le nombre complexe identifié au couple de réels (0, 1)).
 
 # Espace de Hilbert
 ## Applications

@@ -97,24 +97,34 @@ La précision de la position obtenue dépend, toutes choses égales par ailleurs
 ### Résolution de l'équation de navigation
 
 La résolution de l'équation de navigation peut se faire par la méthode des moindres carrés et la méthode de Bancroft. Elle nécessite au moins quatre équations (quatre satellites).
-Chaque signal satellite donne au récepteur l'équation suivante : ρi=c⋅(tri−tei)=(xi−x)2+(yi−y)2+(zi−z)2+cΔt avec :
-* ρi la distance théorique (i.e. pour une synchronisation parfaite de l'horloge interne du récepteur, soit Δt=0) au satellite i ;
-* (xi,yi,zi) la position du satellite i ;
-* (x,y,z) la position du récepteur ;
+Chaque signal satellite donne au récepteur l'équation suivante :
+ρᵢ=c⋅(tᵣᵢ−tₑᵢ)=√((xᵢ−x)²+(yᵢ−y)²+(zᵢ−z)²)+cΔt
+avec :
+* ρᵢ la distance théorique (i.e. pour une synchronisation parfaite de l'horloge interne du récepteur, soit Δt=0) au satellite i ;
+* (xᵢ, yᵢ, zᵢ) la position du satellite i ;
+* (x, y, z) la position du récepteur ;
 * c la vitesse de la lumière dans le vide ;
 * Δt le décalage de l'horloge interne du récepteur (le récepteur ne dispose pas d'horloge interne assez précise) ;
-* tri le temps de réception du signal émis à tei par le satellite i.
-En passant au carré, on obtient : (ρi−cΔt)2=(xi−x)2+(yi−y)2+(zi−z)2 Puis en développant : (xi2+yi2+zi2−ρi2)−2(xix+yiy+ziz−ρicΔt)+(x2+y2+z2−(cΔt)2)=0
-On peut alors introduire si=[xiyiziρi]⊤, u=[xyzcΔt]⊤ et le pseudo-produit scalaire de Lorentz défini pour tout quadrivecteur u et v par ⟨u,v⟩=u1v1+u2v2+u3v3−u4v4. L'équation précédente se réécrit en : 12⟨si,si⟩−⟨si,u⟩+12⟨u,u⟩=0
-En mettant sous forme matricielle tous les signaux dont on dispose, on obtient : Bu=a+Λe avec :
-* a=12(⟨s1,s1⟩⟨s2,s2⟩⋮)
-* B=(x1y1z1−ρ1x2y2z2−ρ2⋮⋮⋮⋮)
-* Λ=12⟨u,u⟩
-* e=[11⋯]⊤
+* tᵣᵢ le temps de réception du signal émis à tₑᵢ par le satellite i.
+En passant au carré, on obtient :
+(ρᵢ−cΔt)²=(xᵢ−x)²+(yᵢ−y)²+(zᵢ−z)²
+Puis en développant :
+(xᵢ²+yᵢ²+zᵢ²−ρᵢ²)−2(xᵢx+yᵢy+zᵢz−ρᵢcΔt)+(x²+y²+z²−(cΔt)²)=0
+On peut alors introduire sᵢ=[xᵢyᵢzᵢρᵢ]^{⊤}, u=[xyzcΔt]^{⊤} et le pseudo-produit scalaire de Lorentz défini pour tout quadrivecteur u et v par ⟨u, v⟩=u₁v₁+u₂v₂+u₃v₃−u₄v₄. L'équation précédente se réécrit en :
+1/2 ⟨sᵢ, sᵢ⟩−⟨sᵢ, u⟩+1/2 ⟨u, u⟩=0
+En mettant sous forme matricielle tous les signaux dont on dispose, on obtient :
+Bu=a+Λe
+avec :
+* a=1/2 (⟨s₁, s₁⟩⟨s₂, s₂⟩⋮)
+* B=(x₁y₁z₁−ρ₁x₂y₂z₂−ρ₂⋮⋮⋮⋮)
+* Λ=1/2 ⟨u, u⟩
+* e=[11⋯]^{⊤}
 Remarque : le nombre de lignes de a, B et e doit être le même et supérieur ou égal à 4.
-En considérant Λ comme une constante, on peut résoudre l'équation précédente par la méthode des moindres carrés qui donne pour solution : u⋆=B+(a+Λe) avec B+=(B⊤B)−1B⊤.
-On peut ensuite utiliser Λ=12⟨u,u⟩=12⟨B+(a+Λe),B+(a+Λe)⟩ et résoudre l'équation sur Λ ainsi définie dont les solutions sont les racines d'un polynôme du second degré : Λ2⟨B+e,B+e⟩+2Λ(⟨B+a,B+e⟩−1)+⟨B+a,B+a⟩=0
-On obtient finalement le résultat cherché, contenu dans u⋆, en réinjectant Λ dans l'équation u⋆=B+(a+Λe). Notez que le résultat n'est pas unique (car Λ n'est pas unique). Le choix de résultat final se fait sur des critères de validité de l'intervalle dans lequel se trouve le résultat.
+En considérant Λ comme une constante, on peut résoudre l'équation précédente par la méthode des moindres carrés qui donne pour solution :
+u^{⋆}=B⁺(a+Λe) avec B⁺=(B^{⊤}B)⁻¹B^{⊤}.
+On peut ensuite utiliser Λ=1/2 ⟨u, u⟩=1/2 ⟨B⁺(a+Λe), B⁺(a+Λe)⟩ et résoudre l'équation sur Λ ainsi définie dont les solutions sont les racines d'un polynôme du second degré :
+Λ²⟨B⁺e, B⁺e⟩+2Λ(⟨B⁺a, B⁺e⟩−1)+⟨B⁺a, B⁺a⟩=0
+On obtient finalement le résultat cherché, contenu dans u^{⋆}, en réinjectant Λ dans l'équation u^{⋆}=B⁺(a+Λe). Notez que le résultat n'est pas unique (car Λ n'est pas unique). Le choix de résultat final se fait sur des critères de validité de l'intervalle dans lequel se trouve le résultat.
 
 # Global Positioning System
 ## Principe de fonctionnement
