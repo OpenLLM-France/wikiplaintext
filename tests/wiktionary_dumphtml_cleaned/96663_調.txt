@@ -1,0 +1,87 @@
+# 調
+## Caractère
+### Classification
+
+* Rangement dans les dictionnaires : Clé : 言+ 8 trait(s) - Nombre total de traits : 15
+* Codage informatique : Unicode : U+8ABF - Big5 : BDD5 - Cangjie : 卜口月土口 (YRBGR) - Quatre coins : 0762₀
+* Forme alternative : 调
+
+# 調
+## Caractère
+### Référence dans les dictionnaires de sinogrammes
+
+* KangXi: 1166.080
+* Morobashi: 35609'
+* Dae Jaweon: 1631.190
+* Hanyu Da Zidian: 63989.060
+
+# 調
+## Chinois
+### Sinogramme
+
+調
+
+# 調
+## Chinois
+### Verbe
+
+調 diào \ti̯ɑʊ̯˥˩\
+* Déplacer, muter, réaffecter
+* allouer, affecter
+
+# 調
+## Chinois
+### Verbe
+#### Dérivés
+
+* 音調／音调 (yīndiào, « ton (linguistique) »)
+
+# 調
+## Chinois
+### Sinogramme
+
+調 tiáo \tʰi̯ɑʊ̯˧˥\ (traditionnel)
+* Accorder, ajuster, régler, rééquilibrer, harmoniser
+* Mélanger, mêler, mixer
+* Taquiner, provoquer
+
+# 調
+## Chinois
+### Sinogramme
+#### Dérivés
+
+* 调试 (調試, tiáoshì) — déboguer
+* 调试器 (調試器, tiáoshìqì) — débogueur
+
+# 調
+## Chinois
+### Prononciation
+
+* mandarin \ti̯ɑʊ̯˥˩\, \tʰi̯ɑʊ̯˧˥\
+Pinyin : diào, tiáo
+EFEO : tiao, t’iao
+Wade-Giles : tiao⁴, tʻiao²
+Yale : dyàu, tyáu
+Zhuyin : ㄉㄧㄠˋ，ㄊㄧㄠˊ
+* cantonais (yue) \tiːu²²\, \tʰiːu²¹\
+Jyutping : diu⁶, tiu⁴
+Penkyamp :
+Yale : diu⁶, tiu⁴
+
+# 調
+## Coréen
+### Sinogramme
+
+調
+* Hangeul : 조, 주
+* Eumhun : 고를 조, 아침 주
+* Romanisation :
+** Romanisation révisée du coréen : jo, ju
+** Romanisation McCune-Reischauer : cho, chu
+** Yale : co, cwu
+
+# 調
+## Japonais
+### Sinogramme
+
+調

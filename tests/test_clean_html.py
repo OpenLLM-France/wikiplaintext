@@ -28,6 +28,7 @@ if __name__ == "__main__":
     parser.add_argument("IDs", default=None, nargs="*", help="Wikipedia page IDs to clean")
     parser.add_argument("--wikisource", action="store_true", help="Only HTML from wikisource")
     parser.add_argument("--wikipedia", action="store_true", help="Only HTML from wikipedia")
+    parser.add_argument("--wiktionary", action="store_true", help="Only HTML from wiktionary")
     parser.add_argument("--dump", action="store_true", help="Only HTML from wikimedia enterprise dump")
     parser.add_argument("--api", action="store_true", help="Only HTML from wikimedia API")
     args = parser.parse_args()
@@ -38,42 +39,40 @@ if __name__ == "__main__":
         ("wikipedia_html", "wikipedia_html_cleaned"),
         ("wikisource_html", "wikisource_html_cleaned"),
         ("wikisource_dumphtml", "wikisource_dumphtml_cleaned"),
+        ("wiktionary_dumphtml", "wiktionary_dumphtml_cleaned"),
     ]:
         
         input_dir = os.path.join(this_dir, input_dir)
         output_dir = os.path.join(this_dir, output_dir)
 
+        is_redirection = "redirect" in input_dir
+        format_from_dump = "dump" in input_dir
+        from_wikisource = "wikisource" in input_dir
+        from_wikipedia = "wikipedia" in input_dir
+        from_wiktionary = "wiktionary" in input_dir
+
+        if args.wikisource and not from_wikisource:
+            continue
+        if args.wikipedia and not from_wikipedia:
+            continue
+        if args.wiktionary and not from_wiktionary:
+            continue
+        if args.dump and not format_from_dump:
+            continue
+        if args.api and format_from_dump:
+            continue
+
+        source = "wiki" if from_wikipedia else "wikisource" if from_wikisource else "wiktionary" if from_wiktionary else None
+
         for file_in in sorted(os.listdir(input_dir)):
             if not re.match("\d", file_in):
                 continue
 
-            is_redirection = "redirect" in input_dir
-            format_from_dump = "dump" in input_dir
-            from_wikisource = "wikisource" in input_dir
-
             if args.IDs and not max([bool(re.match(prefix, file_in)) for prefix in args.IDs]):
-                continue
-
-            if args.wikisource and not from_wikisource:
-                continue
-            if args.wikipedia and from_wikisource:
-                continue
-            if args.dump and not format_from_dump:
-                continue
-            if args.api and format_from_dump:
                 continue
 
             hashtag_header = True
             repeat_headers = not from_wikisource
-
-            # if not is_redirection:
-            #     continue
-            # if not re.match("1004_", file_in): # Esperanto
-            #     continue
-            # if not re.match("37047_", file_in) and not re.match("1157_", file_in): # Math & chemical -> good for challenging superscript/subscript
-            #     continue
-            # if not re.match("10049_", file_in): # Leonard de Vinci -> good for challenging citations
-            #     continue
 
             _, pagename = file_in.split("_", 1)
             pagename = os.path.splitext(pagename)[0].replace("_", " ")
@@ -89,7 +88,7 @@ if __name__ == "__main__":
             with open(file_in, "r") as f:
                 text = clean_html(f.read(),
                     language="fr",
-                    # verbose=args.verbose,
+                    source=source,
                     add_title=pagename,
                     hashtag_header=hashtag_header,
                     repeat_headers=repeat_headers,

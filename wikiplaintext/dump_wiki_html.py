@@ -24,6 +24,7 @@ def dump_wiki_html_plaintext(
     json_folder,
     output_dir,
     language="fr",
+    source="wikipedia",
     prefix="",
     clean_text=True,
     per_json=10000,
@@ -118,6 +119,7 @@ def dump_wiki_html_plaintext(
                         text = clean_html(
                             page_body,
                             language=language,
+                            source=source,
                             add_title=page_title,
                             keep_tables=keep_tables,
                         )
@@ -138,10 +140,10 @@ def dump_wiki_html_plaintext(
                         raise err
 
 
-def download_html_dump(url, version, language, what, output_dir, verbose=True, do_clean=False):
+def download_html_dump(url, version, language, source, output_dir, verbose=True, do_clean=False):
     url_folder = f"{url}/{version}"
 
-    regex=rf"{language}{what}\-NS0\-.*HTML.json.tar.gz$"
+    regex=rf"{language}{source}\-NS0\-.*HTML.json.tar.gz$"
     json_targz_file = get_links(url_folder, regex=regex)
 
     assert len(json_targz_file) == 1, f"Found find {len(json_targz_file)} files corresponding to {regex} in {url_folder} ({json_targz_file})"
@@ -156,7 +158,7 @@ def download_html_dump(url, version, language, what, output_dir, verbose=True, d
     expected_md5 = response.json()["md5sum"]
 
     output_targz_file = os.path.join(output_dir, json_targz_file)
-    output_folder = os.path.join(output_dir, f"{language}{what}_ndjson")
+    output_folder = os.path.join(output_dir, f"{language}{source}_ndjson")
 
     if not os.path.isdir(output_folder):
 
@@ -202,7 +204,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--output_dir", default="Wikipedia", help="Output directory")
     parser.add_argument("--language", default="fr", help="language code")
-    parser.add_argument("--what", default="wiki", help="what to import (wiki, wiktionary, wikibooks, wikinews, wikisource, wikiversity, wikivoyage)")
+    parser.add_argument("--source", default="wiki", help="what to import (wiki, wikisource, wiktionary, wikibooks, wikinews, wikiversity, wikivoyage)")
     parser.add_argument("--version", default="latest",
                         help="Version to download. Example: 20231120")
     parser.add_argument("--no_clean", action="store_true", default=False,
@@ -241,7 +243,7 @@ if __name__ == "__main__":
             json_folder = download_html_dump(
                 BASE_URL, version,
                 language=args.language,
-                what=args.what,
+                source=args.source,
                 output_dir=output_dir,
                 verbose=VERBOSE,
             )
@@ -253,7 +255,8 @@ if __name__ == "__main__":
             json_folder,
             output_dir=output_dir,
             language=args.language,
-            prefix=f"{args.language}{args.what}_",
+            source=args.source,
+            prefix=f"{args.language}{args.source}_",
             verbose=VERBOSE,
             max_pages=None,
             clean_text=not args.no_clean,

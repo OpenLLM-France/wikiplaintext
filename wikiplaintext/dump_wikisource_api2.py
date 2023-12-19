@@ -31,7 +31,7 @@ import requests
 
 
 
-def dump_wiki_html_plaintext(
+def dump_wikisource_html_plaintext(
     output_dir,
     language="fr",
     prefix="",
@@ -83,15 +83,19 @@ def dump_wiki_html_plaintext(
         with open(xml_file, "r") as f:
             page_body = f.read()
 
-        text = clean_html(
-            page_body,
-            language=language,
-            add_title=title,
-            keep_tables=keep_tables,
-            from_dump=True,
-            hashtag_header=True,
-            repeat_headers=False,
-        )
+        try:
+            text = clean_html(
+                page_body,
+                dump_wikisource="wikisource",
+                language=language,
+                add_title=title,
+                keep_tables=keep_tables,
+                from_dump=True,
+                hashtag_header=True,
+                repeat_headers=False,
+            )
+        except Exception as err:
+            raise RuntimeError(f"Error while cleaning {xml_file}") from err
 
         if not text or not re.search("\n", text):
             if os.path.exists(txt_file):
@@ -134,7 +138,7 @@ if __name__ == "__main__":
     for version in versions:
         output_dir = os.path.join(args.output_dir, version)
 
-        dump_wiki_html_plaintext(
+        dump_wikisource_html_plaintext(
             output_dir=output_dir,
             language=args.language,
             prefix=f"{args.language}{args.what}_",

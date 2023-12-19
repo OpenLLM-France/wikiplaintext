@@ -31,13 +31,11 @@ import requests
 
 
 
-def dump_wiki_html_plaintext(
+def dump_wikisource_html_plaintext(
     version,
     output_dir,
     language="fr",
     prefix="",
-    clean_text=True,
-    dump_html=False,
     keep_tables=True,
     max_pages=None,
     # subset=None,
@@ -60,6 +58,7 @@ def dump_wiki_html_plaintext(
         page_id = int(data["id"])
 
         clean_and_dump(
+            output_dir,
             page_title,
             prefix,
             subfolder,
@@ -74,6 +73,7 @@ def dump_wiki_html_plaintext(
 previously_done = []
 
 def clean_and_dump(
+        output_dir,
         page_title,
         prefix,
         subfolder,
@@ -115,14 +115,11 @@ def clean_and_dump(
         with open(html_filename, "w") as f:
             f.write(page_body)
 
-    # if os.path.exists(html_filename):
-    #     with open(html_filename, "r") as f:
-    #         page_body = f.read()
-
     # Extract all the subpages
     if level < 3:
         for page_sub_title in find_intra_links(page_body):
             clean_and_dump(
+                output_dir,
                 page_sub_title,
                 prefix,
                 subfolder,
@@ -143,6 +140,7 @@ def clean_and_dump(
     text = clean_html(
         page_body,
         language=language,
+        source="wikisource",
         add_title=page_title,
         keep_tables=keep_tables,
         from_dump=True,
@@ -219,11 +217,7 @@ if __name__ == "__main__":
     parser.add_argument("--what", default="wikisource", help="what to import (wiki, wiktionary, wikibooks, wikinews, wikisource, wikiversity, wikivoyage)")
     parser.add_argument("--version", default="latest",
                         help="Version to download. Example: 20231120")
-    parser.add_argument("--no_clean", action="store_true", default=False,
-                        help="Do not perform text cleaning. Only download dump")
     parser.add_argument("--no_tables", default=False, action="store_true", help="Don't keep tables")
-    parser.add_argument("--dump_html", action="store_true", default=False,
-                        help="Also dump the HTML files")
     parser.add_argument("--no_verbose", action="store_true", default=False)
     args = parser.parse_args()
 
@@ -237,15 +231,13 @@ if __name__ == "__main__":
     for version in versions:
         output_dir = os.path.join(args.output_dir, version)
 
-        dump_wiki_html_plaintext(
+        dump_wikisource_html_plaintext(
             version,
             output_dir=output_dir,
             language=args.language,
             prefix=f"{args.language}{args.what}_",
             verbose=VERBOSE,
             max_pages=None,
-            clean_text=not args.no_clean,
-            dump_html = args.dump_html,
             keep_tables=not args.no_tables,
         )
 

@@ -1,0 +1,13 @@
+# esu
+## Conventions internationales
+### Étymologie
+
+> (Métrologie) Sigle du nom anglais electro-static unit.
+
+# esu
+## Conventions internationales
+### Symbole
+
+esu invariable
+* (Linguistique) Code ISO 639-3 yupik central.
+* (Métrologie) Symbole de l’unité de charge électrostatique du système cgs, valant 0,1/c ampère-mètre (où c est la vitesse de la lumière), soit approximativement 3,335641×10−10 coulomb.

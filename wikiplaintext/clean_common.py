@@ -1,20 +1,7 @@
 import regex as re
 
-END_HEADER = "␣:"
-
-_ignore_from_section = {
-    "fr": [
-        "Notes",
-        "Notes et références",
-        "Références",
-        "Voir aussi", "Pour approfondir",
-        "Liens externes",
-        "Bibliographie",
-        "Annexes",
-        "Articles connexes",
-    ],
-}
-
+def any_starts_with(list_of_strings, list_of_starts):
+    return any(s.startswith(start) for s in list_of_strings for start in list_of_starts) if list_of_strings else False
 
 def final_clean(
     text,
@@ -152,6 +139,10 @@ def to_subscript(d, all_or_none=False):
 
 
 def format_table(table, ignore_one_cell=True) -> str:
+    """
+    Return a table in markdown format, removing empty columns.
+    Use list format if there is only one column in the end.
+    """
     data = [
         [(cell if cell is not None else '') for cell in row]
         for row in table.data()
@@ -353,3 +344,63 @@ _subscript = {
     "χ": "ᵪ",
     "•": "•",
 }
+
+def retain_only_if_proncunciation(text):
+    if re.search(r"\\[^\\]+\\", text):
+        return text
+    return ""
+
+def remove_strings_func(to_remove):
+    if not isinstance(to_remove, list):
+        to_remove = [to_remove]
+    return lambda x: remove_strings(x, to_remove)
+
+def remove_strings(text, to_remove):
+    for r in to_remove:
+        text = re.sub(r, "", text)
+    return collapse_whitespace(text, 1)
+
+# Special processing when in some sections
+POSTPROC_SECTION = {
+    "wiktionary" : {
+        "fr": {
+            "*" : remove_strings_func([
+                r"\*?\\Prononciation\s*\?\\",
+                r"[ \u00A0]?→[\w'’\- \u00A0]+", # → Modifier, → lire en ligne, → voir ..., ...
+                r"[^\n]+\bmanqu[^\n]+\(Ajouter\)[^\n]*",
+                r"[^\n]+\bmanquante? ou incompl[^\n]*", # "Étymologie" : lambda text: "" if "manquante ou incomplète" in text else text, # Remove missing
+            ]),
+            "Prononciation" : retain_only_if_proncunciation,            
+            "Références" : lambda text: "", # Remove section "Références" (including subsection "Sources", "Bibliographie")
+            "Voir aussi" : lambda text: "", # Remove section "See also"
+        },
+    },
+}
+
+# All the text following those sections will be discarded
+IGNORE_FROM_SECTION = {
+    "wikipedia" : {
+        "fr": [
+            "Notes",
+            "Notes et références",
+            "Références",
+            "Voir aussi", "Pour approfondir",
+            "Liens externes",
+            "Bibliographie",
+            "Annexes",
+            "Articles connexes",
+        ],
+    },
+}
+
+# Linked text following those conditions will be discarded
+LINKS_TO_DISCARD_FUN = {
+    "fr": lambda text: bool(re.search(r"\bmodifier\b", text)),
+}
+
+# All HTML object (tables, ...) following those conditions will be discarded
+HTML_NODE_IGNORED = {
+    "fr": lambda x: any_starts_with(x.get("class"), ["bandeau-", "infobox"]),
+}
+
+END_HEADER = "␣:"

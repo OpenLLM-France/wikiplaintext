@@ -6,7 +6,7 @@ import os
 import regex as re
 import wikitextparser
 
-from clean_common import final_clean, _ignore_from_section, END_HEADER
+from clean_common import final_clean, IGNORE_FROM_SECTION, END_HEADER
 from clean_common import to_superscript, to_subscript, format_table
 
 def clean_wikicode(
@@ -242,7 +242,7 @@ _ignore_from_section_regex = {}
 def remove_wiki_tail(text, language="fr"):
     if language not in _ignore_from_section_regex:
         _ignore_from_section_regex[language] = re.compile(
-            r"===?\s*(" + "|".join(_ignore_from_section.get(language, [])) + r")\s*===?\s*$")
+            r"===?\s*(" + "|".join(IGNORE_FROM_SECTION["wikipedia"].get(language, [])) + r")\s*===?\s*$")
     ignore_from_section_regex = _ignore_from_section_regex[language]
     lines = text.split("\n")
     for i, line in enumerate(lines):

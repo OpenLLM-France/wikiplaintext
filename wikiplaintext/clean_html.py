@@ -8,19 +8,23 @@ import warnings
 
 from clean_common import (
     final_clean,
-    _ignore_from_section,
-    END_HEADER,
+    format_table,
+    collapse_whitespace,
     to_superscript,
     to_subscript,
-    format_table,
     _superscript_coma,
-    collapse_whitespace,
+    IGNORE_FROM_SECTION,
+    POSTPROC_SECTION,
+    HTML_NODE_IGNORED,
+    LINKS_TO_DISCARD_FUN,
+    END_HEADER,
 )
 
 
 def clean_html(
     html_string,
     language="fr",
+    source="wiki",
     add_title=None,
     keep_tables=True,
     hashtag_header=True,
@@ -33,6 +37,7 @@ def clean_html(
 
     :param html_string: HTML string or stream
     :param language: Language of the text
+    :param source: Source of the text (wikipedia, wikisource, wiktionary ...)
     :param add_title: Add a title to the text (if the name of the page is usually not included in the HTML)
     :param hashtag_header: Add hashtags before the headers (# for level 1, ## for level 2, etc.) as in markdown format
     :param repeat_headers: Repeat all headers from previous level at the beginning of each section
@@ -44,13 +49,16 @@ def clean_html(
     hashtag_header_internal = hashtag_header
     repeat_headers_internal = repeat_headers
 
-    if language not in _ignore_from_section:
-        warnings.warn(f"Not supported for language {language} : filtering out irrelevant sections (only supported for {sorted(list(_ignore_from_section.keys()))})")
-    if language not in _filter_part_function:
-        warnings.warn(f"Not supported for language {language} : filtering out irrelevant parts (only supported for {sorted(list(_filter_part_function.keys()))})")
-
-    ignore_from_section = _ignore_from_section.get(language, [])
-    filter_part_function = _filter_part_function.get(language, lambda x: False)
+    if source == "wiki":
+        source = "wikipedia"
+    ignore_from_section = IGNORE_FROM_SECTION.get(source, {}).get(language, [])
+    section_dependent_postproc = POSTPROC_SECTION.get(source, {}).get(language, {})
+    ignore_node = HTML_NODE_IGNORED.get(language, lambda x: False)
+    kwargs_extract_text_header = dict(
+        use_superscript = use_superscript,
+        looks_like_linktodiscard = LINKS_TO_DISCARD_FUN.get(language, lambda text:False),
+    )
+    kwargs_extract_text = kwargs_extract_text_header | dict(postproc = None)
 
     soup = bs4.BeautifulSoup(html_string, "html.parser")
 
@@ -59,7 +67,7 @@ def clean_html(
 
     def html_iterator(root):
         for node in root.find_all(all_possible_wrapping + all_possible_names, recursive=False):
-            if filter_part_function(node): continue
+            if ignore_node(node): continue
             if node.name in all_possible_names:
                 yield node
             else:
@@ -79,7 +87,7 @@ def clean_html(
         if from_wikipedia:
             def html_iterator(soup):
                 for section in soup.find_all("section"):
-                    if filter_part_function(section): continue
+                    if ignore_node(section): continue
                     subnodes = section.find_all(all_possible_names, recursive=False)
                     for node in subnodes:
                         yield node                
@@ -103,22 +111,23 @@ def clean_html(
         current_headers = [header]
 
     in_content = False
+    postproc_per_section = []
 
     for node in root:
         name = node.name
         if not name: continue
-        if filter_part_function(node): continue
+        if ignore_node(node): continue
 
         # First paragraph is sometimes weird...
         if name == "p" and node.get("id") == "mwAg" and node.find("span"):
-            text = extract_text_special(node, use_superscript=use_superscript)
+            text = extract_text_special(node, **kwargs_extract_text)
             if not text: continue
             text = collapse_whitespace(text, level_whitespace_collapsing)
             text = text + "\n"
 
         # Paragraph
         elif (name in ["p", "blockquote"]):
-            text = extract_text(node, use_superscript=use_superscript)
+            text = extract_text(node, **kwargs_extract_text)
             if not text: continue
             if name in ["p"]:
                 text = collapse_whitespace(text, level_whitespace_collapsing)
@@ -128,7 +137,7 @@ def clean_html(
         elif re.match(r"h[1-6]", name):
             level = int(name[1])
             if from_dump:
-                text = extract_text(node, use_superscript=use_superscript, remove_line_breaks=True)
+                text = extract_text(node, **kwargs_extract_text_header, remove_line_breaks=True)
             else:
                 for subnode in node.descendants:
                     if isinstance(subnode, bs4.element.Tag):
@@ -139,8 +148,33 @@ def clean_html(
                         break
                 if not text:
                     continue
-            if level in [2, 3] and collapse_whitespace(text) in ignore_from_section:
+            ntext = collapse_whitespace(text, 3)
+            if level in [2, 3] and ntext in ignore_from_section:
                 break
+            
+            # Update specific post-processing functions
+            # 1. Resize
+            while len(postproc_per_section) < level:
+                postproc_per_section.append(None)
+            postproc_per_section = postproc_per_section[:level]
+            # 2. Get the function
+            postproc = section_dependent_postproc.get(ntext)
+            postproc_per_section[level-1] = postproc
+            postproc_default = section_dependent_postproc.get("*")
+            # 3. Compose
+            functions = [f for f in [postproc_default] + postproc_per_section[::-1] if f is not None]
+            if len(functions) == 0:
+                kwargs_extract_text["postproc"] = None
+            elif len(functions) == 1:
+                kwargs_extract_text["postproc"] = functions[0]
+            else:
+                def compose(functions, text):
+                    for f in functions:
+                        text = f(text)
+                    return text
+                kwargs_extract_text["postproc"] = lambda text: compose(functions, text)
+            # print("#" * level, ntext, postproc_per_section)
+
             header = ("#"*level+" " if hashtag_header_internal else "") + text + END_HEADER + "\n"
             if level > len(current_headers):
                 current_headers += [""] * (level - len(current_headers))
@@ -154,18 +188,15 @@ def clean_html(
         elif (name in ["ul", "ol", "dl"]):
             text = list_to_text(
                 node,
-                use_superscript=use_superscript,
                 hashtag_header=hashtag_header_internal,
                 repeat_headers=repeat_headers_internal,
                 current_headers=current_headers,
                 ignore_one_bullet=(not in_content),
+                **kwargs_extract_text
             )
 
         elif name == "table" and keep_tables:
-            text = text_to_table(
-                node,
-                use_superscript=use_superscript,
-            )
+            text = text_to_table(node, **kwargs_extract_text)
 
         else:
             continue
@@ -183,22 +214,20 @@ def clean_html(
 
     return full_text
 
-def extract_text(
-    node,
-    use_superscript=True,
-    **kwargs
-    ):
+def extract_text(node, **kwargs):
     if node.name == "table":
-        return text_to_table(node, use_superscript=use_superscript)
+        return text_to_table(node, **kwargs)
     elif node.name in ["ul", "ol", "dl"]:
-        return list_to_text(node, use_superscript=use_superscript)
-    return extract_text_in_paragraph(node, use_superscript=use_superscript, **kwargs)
+        return list_to_text(node, **kwargs)
+    return extract_text_in_paragraph(node, **kwargs)
 
 
 def extract_text_in_paragraph(
     node,
+    use_superscript, #=True,
+    looks_like_linktodiscard, #=lambda text:False,
+    postproc=None,
     remove_annotations=True,
-    use_superscript=True,
     remove_display_style=True,
     recursive=True,
     treat_line_breaks_as=" ",
@@ -243,12 +272,7 @@ def extract_text_in_paragraph(
     for line_break in node.findAll('br'):
         line_break.replaceWith(treat_line_breaks_as)
 
-    # text = node.get_text(**karwgs) if recursive else node.get_text(depth=1, **karwgs)
-    # if "separator" not in karwgs:
-    #     karwgs["separator"] = "\n"
-    # if "strip" not in karwgs:
-    #     karwgs["strip"] = True
-    text = node.get_text(**karwgs) if recursive else node.get_text( depth=1, **karwgs)
+    text = node.get_text(**karwgs) if recursive else node.get_text(depth=1, **karwgs)
 
     if remove_line_breaks:
         text = re.sub(r"(\s*\n\s*)+", " ", text)
@@ -264,7 +288,7 @@ def extract_text_in_paragraph(
             if looks_like_annotation(subtext):
                 brackets_to_remove.append(subtext.rstrip(_superscript_coma+","))
             # if "action=edit" in subnode.get("href", ""): # "modifier", ...
-            if looks_like_linkonly(subtext):
+            if looks_like_linktodiscard(subtext):
                 additional_to_remove.append(subtext)
         for s in brackets_to_remove:
             text = re.sub(rf"([ \u00A0]*)?" + re.escape(s) + rf"(,(?=\[)|{_superscript_coma})?", "", text, count=1)
@@ -284,6 +308,8 @@ def extract_text_in_paragraph(
                 new_text += line
         text = new_text
 
+    if postproc:
+        text = postproc(text)
 
     return text
 
@@ -291,9 +317,6 @@ def extract_text_in_paragraph(
 def looks_like_annotation(text):
     return bool(re.match(rf"^(\[[^\]]+\][,{_superscript_coma}]?)+$", text))
 
-def looks_like_linkonly(text):
-    # TODO: this is language dependent and should not...
-    return bool(re.search(r"\bmodifier\b", text))
 
 def extract_text_special(node, **kwargs):
     text = ""
@@ -313,12 +336,12 @@ def extract_text_special(node, **kwargs):
 
 def list_to_text(
     node,
-    use_superscript=True,
     hashtag_header=True,
     repeat_headers=True,
     current_headers=[],
     prefix="",
     ignore_one_bullet=True,
+    **kwargs,
     ):
     text = ""
     if node.name in ["ul", "ol"]:
@@ -331,17 +354,17 @@ def list_to_text(
             for subsubnode in bullet.find_all(["ul", "ol", "dl"], recursive=False):
                 subtext += list_to_text(
                     subsubnode,
-                    use_superscript=use_superscript,
                     hashtag_header=hashtag_header,
                     repeat_headers=repeat_headers,
                     current_headers=current_headers,
                     prefix=prefix+"*",
                     ignore_one_bullet=False,
+                    **kwargs,
                 )
             if subtext:
-                t = extract_text_in_list_header_text(bullet, use_superscript=use_superscript)
+                t = extract_text_in_list_header_text(bullet, **kwargs)
             else:
-                t = extract_text(bullet, use_superscript=use_superscript)
+                t = extract_text(bullet, **kwargs)
             t = collapse_whitespace(t)
             if t:
                 text += prefix + "*" + " " + t + "\n"
@@ -355,17 +378,17 @@ def list_to_text(
             for subsubnode in bullet.find_all(["ul", "ol", "dl"], recursive=False):
                 subtext += list_to_text(
                     subsubnode,
-                    use_superscript=use_superscript,
                     hashtag_header=hashtag_header,
                     repeat_headers=repeat_headers,
                     current_headers=current_headers,
                     prefix=prefix+">",
                     ignore_one_bullet=False,
+                    **kwargs
                 )
             if subtext:
-                t = extract_text_in_list_header_text(bullet, use_superscript=use_superscript)
+                t = extract_text_in_list_header_text(bullet, **kwargs)
             else:
-                t = extract_text(bullet, use_superscript=use_superscript)
+                t = extract_text(bullet, **kwargs)
             t = collapse_whitespace(t)
             if t and bullet.name == "dt":
                 level = len(current_headers)+1
@@ -392,11 +415,12 @@ def extract_text_in_list_header_text(node, **kwargs):
 
 
 class HtmlTable:
-    def __init__(self, node, use_superscript=True, ignore_links=False):
+    def __init__(self, node, **kwargs):
+        looks_like_linktodiscard = kwargs["looks_like_linktodiscard"]
         self.node = node
         self.caption = node.find("caption")
         if self.caption:
-            self.caption = extract_text(self.caption, use_superscript=use_superscript, remove_line_breaks=True)
+            self.caption = extract_text(self.caption, **kwargs, remove_line_breaks=True)
         self.body = node.find("tbody")
         if not self.body:
             self.caption = None
@@ -440,10 +464,10 @@ class HtmlTable:
                         icol += 1
 
                 colspans.append(colspan)
-                text = extract_text(cell, use_superscript=use_superscript).strip()
+                text = extract_text(cell, **kwargs).strip()
                 if not text:
                     text = cell.get_text().strip()
-                    if looks_like_annotation(text) or looks_like_linkonly(text):
+                    if looks_like_annotation(text) or looks_like_linktodiscard(text):
                         text = ""
 
                 self.rows[-1] += [text] * (colspan)
@@ -493,7 +517,7 @@ class HtmlTable:
         return self.rows
 
 
-def text_to_table(node, use_superscript=True):
+def text_to_table(node, **kwargs):
 
     if node.find("table", recursive=True):
         text = ""
@@ -505,10 +529,10 @@ def text_to_table(node, use_superscript=True):
                 for cell in cols:
                     if cell.find("table", recursive=False):
                         for table in cell.find_all("table", recursive=False):
-                            text += text_to_table(table, use_superscript=use_superscript)
+                            text += text_to_table(table, **kwargs)
                     elif cell.get_text().strip():
                         if len(cols) == 1:
-                            text += extract_text(cell, use_superscript=use_superscript) + "\u00A0:\n"
+                            text += extract_text(cell, **kwargs) + "\u00A0:\n"
                         else:
                             text = ""
                             give_up = True
@@ -525,7 +549,7 @@ def text_to_table(node, use_superscript=True):
         return ""
     ignore_one_cell = bool(not node.get("class") and get_table_border(node))
     text = format_table(
-        HtmlTable(node, use_superscript=use_superscript),
+        HtmlTable(node, **kwargs),
         ignore_one_cell=ignore_one_cell,
     )
     return text
@@ -543,8 +567,6 @@ _filter_part_function = {
     "fr": lambda x: any_starts_with(x.get("class"), ["bandeau-", "infobox"])
 }
 
-def any_starts_with(list_of_strings, list_of_starts):
-    return any(s.startswith(start) for s in list_of_strings for start in list_of_starts) if list_of_strings else False
 
 
 if __name__ == "__main__":
