@@ -29,8 +29,8 @@ Le premier système de communication téléphonique optique fut installé au cen
 La fibre optique est un guide d'ondes qui exploite les propriétés réfractrices de la lumière. Elle est habituellement constituée d'un cœur entouré d'une gaine. Le cœur de la fibre a un indice de réfraction légèrement plus élevé (différence de quelques millièmes) que la gaine et peut donc confiner la lumière qui se trouve entièrement réfléchie de multiples fois à l'interface entre les deux matériaux (en raison du phénomène de réflexion totale interne). L’ensemble est généralement recouvert d’une gaine plastique de protection.
 Lorsqu'un rayon lumineux entre dans une fibre optique à l'une de ses extrémités avec un angle adéquat, il subit de multiples réflexions totales internes. Ce rayon se propage alors jusqu'à l'autre extrémité de la fibre optique sans perte, en empruntant un parcours en zigzag. La propagation de la lumière dans la fibre peut se faire avec très peu de pertes même lorsque la fibre est courbée.
 Une fibre optique est souvent décrite selon deux paramètres :
-* la différence d'indice normalisé, qui donne une mesure du saut d'indice entre le cœur et la gaine : Δ=n_{c}−n_{g}/n_{c}, où n_{c} est l'indice de réfraction du cœur, et n_{g} celui de la gaine ;
-* l'ouverture numérique de la fibre ((en) numerical aperture), qui est concrètement le sinus de l'angle d'entrée maximal de la lumière dans la fibre pour que la lumière puisse être guidée sans perte, mesuré par rapport à l'axe de la fibre. L'ouverture numérique est égale à sin⁡θₘₐₓ=√(n_{c}²−n_{g}²).
+* la différence d'indice normalisé, qui donne une mesure du saut d'indice entre le cœur et la gaine : Δ=n_c−n_g/n_c, où n_c est l'indice de réfraction du cœur, et n_g celui de la gaine ;
+* l'ouverture numérique de la fibre ((en) numerical aperture), qui est concrètement le sinus de l'angle d'entrée maximal de la lumière dans la fibre pour que la lumière puisse être guidée sans perte, mesuré par rapport à l'axe de la fibre. L'ouverture numérique est égale à sin⁡θₘₐₓ=√(n_c²−n_g²).
 
 # Fibre optique
 ## Fonctionnement
@@ -64,8 +64,8 @@ Pour de plus longues distances et/ou de plus hauts débits, on préfère utilise
 ### Fibres monomodes et multimodes
 #### Longueur d'onde de coupure et fréquence normalisée
 
-La longueur d'onde de coupure est la longueur d'onde λ_{c} en dessous de laquelle la fibre n'est plus monomode. Ce paramètre est relié à la fréquence normalisée, notée V, qui dépend de la longueur d'onde dans le vide λ₀, du rayon de cœur a de la fibre et des indices du cœur n_{c} et de la gaine n_{g} (voir image Principe d'une fibre optique à saut d'indice pour les notations). La fréquence normalisée est exprimée par :
-V=(2πa√(n_{c}²−n_{g}²))/λ₀
+La longueur d'onde de coupure est la longueur d'onde λ_c en dessous de laquelle la fibre n'est plus monomode. Ce paramètre est relié à la fréquence normalisée, notée V, qui dépend de la longueur d'onde dans le vide λ₀, du rayon de cœur a de la fibre et des indices du cœur n_c et de la gaine n_g (voir image Principe d'une fibre optique à saut d'indice pour les notations). La fréquence normalisée est exprimée par :
+V=(2πa√(n_c²−n_g²))/λ₀
 Une fibre est monomode pour une fréquence normalisée V inférieure ou égale à 2,405. Des abaques fournissent la constante de propagation normalisée, notée B, en fonction de la fréquence normalisée pour les premiers modes.
 La fréquence normalisée donne une indication directe sur le nombre de modes qu'une fibre peut contenir. À mesure que V augmente, le nombre de modes supportés par la fibre va augmenter. On peut montrer à partir des valeurs asymptotiques des fonctions de Bessel pour un grand argument que le nombre total de modes supportés par une fibre à saut d’indice, M, sera donné approximativement (pour V >>> 1) par : M=4V²/π².
 
@@ -98,7 +98,7 @@ Les principaux paramètres qui caractérisent les fibres optiques utilisées pou
 | 1979 | 0,20 | 1 550 | NTT |
 | 1986 | 0,154 | 1 550 | Sumitomo |
 | 2002 | 0,1484 | 1 570 | Sumitomo |
-L’atténuation caractérise l’affaiblissement du signal au cours de la propagation. Soient P₀ et P_{L} les puissances à l’entrée et à la sortie d’une fibre de longueur L. L’atténuation linéaire se traduit alors par une décroissance exponentielle de la puissance en fonction de la longueur de fibre (Loi de Beer-Lambert) : P_{L}=P₀e⁻ᵅᴸ où α est le coefficient d’atténuation linéaire.
+L’atténuation caractérise l’affaiblissement du signal au cours de la propagation. Soient P₀ et P_L les puissances à l’entrée et à la sortie d’une fibre de longueur L. L’atténuation linéaire se traduit alors par une décroissance exponentielle de la puissance en fonction de la longueur de fibre (Loi de Beer-Lambert) : P_L=P₀e⁻ᵅᴸ où α est le coefficient d’atténuation linéaire.
 On utilise souvent le coefficient α_{dB} exprimé en dB/km et relié à α par α_{dB}=4, 343α.
 Le principal atout des fibres optiques est une atténuation extrêmement faible. L’atténuation va varier suivant la longueur d’onde. La diffusion Rayleigh limite ainsi les performances dans le domaine des courtes longueurs d’onde (domaine du visible et du proche ultraviolet). Un pic d'absorption, dû à la présence de radicaux -OH dans la silice, pourra également être observé autour de 1 385 nm. Les progrès les plus récents dans les techniques de fabrication permettent de réduire ce pic.
 Les fibres en silice connaissent un minimum d'atténuation vers 1 550 nm. Cette longueur d’onde du proche infrarouge sera donc privilégiée pour les communications optiques. De nos jours, la maîtrise des procédés de fabrication permet d’atteindre couramment une atténuation aussi faible que 0,2 dB/km à 1 550 nm : après 100 km de propagation, il restera donc encore 1 % de la puissance initialement injectée dans la fibre, ce qui peut être suffisant pour une détection. Si l’on désire transmettre l’information sur des milliers de kilomètres, il faudra avoir recours à une réamplification périodique du signal, le plus généralement par l’intermédiaire d’amplificateurs optiques qui allient simplicité et fiabilité.

@@ -43,7 +43,7 @@
 ---
 # [Formule brute](https://fr.wikipedia.org/wiki/Formule_brute)
 
-La formule brute est l'écriture la plus compacte décrivant un composé chimique ou un corps simple. Les formules brutes, par exemple C₂H₆O pour l'éthanol, sont utilisées dans les équations chimiques pour décrire les réactions chimiques. Des notations intermédiaires entre les formules brutes et semi-développées permettent plus de lisibilité tout en restant compactes, comme pour l'éthanol l'écriture C₂H₅OH. Bien d'autres informations que la stœchiométrie des éléments peuvent être présentes dans une formule brute (nombre d'oxydation, marquage isotopique ou informations structurales partielles notamment) et sont gérées par des règles édictées par l'Union internationale de chimie pure et appliquée (IUPAC).
+La formule brute est l'écriture la plus compacte décrivant un composé chimique ou un corps simple. Les formules brutes, par exemple C_2H_6O pour l'éthanol, sont utilisées dans les équations chimiques pour décrire les réactions chimiques. Des notations intermédiaires entre les formules brutes et semi-développées permettent plus de lisibilité tout en restant compactes, comme pour l'éthanol l'écriture C_2H_5OH. Bien d'autres informations que la stœchiométrie des éléments peuvent être présentes dans une formule brute (nombre d'oxydation, marquage isotopique ou informations structurales partielles notamment) et sont gérées par des règles édictées par l'Union internationale de chimie pure et appliquée (IUPAC).
 
 Cet article limite la notion de formule brute à toutes les représentations de formules chimiques écrites en ligne et ne faisant pas apparaître de liaison chimique. La présence de liaisons chimiques dans une formule est traitée dans les articles Formule développée plane, Formule semi-développée et Représentation des molécules.
 
@@ -65,14 +65,14 @@ Le second stade fut la mise en place d'une nouvelle nomenclature de la chimie. L
 
 ### [Symboles chimiques](https://fr.wikipedia.org/wiki/Formule_brute#Symboles_chimiques)
 
-Le troisième stade est le passage de la nomenclature aux symboles chimiques tels que nous les connaissons, H, C, O, etc. Il est dû au premier chimiste analyste Jöns Jacob Berzelius en 1813. Les formules brutes, ou formules empiriques ne diffèrent de celles en usage que par le fait que les nombres que nous écrivons en indice étaient écrits par ce chimiste suédois en exposant (CO² au lieu de CO₂).
+Le troisième stade est le passage de la nomenclature aux symboles chimiques tels que nous les connaissons, H, C, O, etc. Il est dû au premier chimiste analyste Jöns Jacob Berzelius en 1813. Les formules brutes, ou formules empiriques ne diffèrent de celles en usage que par le fait que les nombres que nous écrivons en indice étaient écrits par ce chimiste suédois en exposant (CO^2 au lieu de CO_2).
 
 
 ### [Nomenclature officielle](https://fr.wikipedia.org/wiki/Formule_brute#Nomenclature_officielle)
 
 L'écriture des formules chimiques est désormais gérée par l'IUPAC dans sa publication Nomenclature of Inorganic Chemistry (surnommée Red Book). Y sont distinguées les formules empiriques, les formules moléculaires, les formules structurales et les formules d'addition (voir ci-dessous). Il y est également précisé l'ordre d'écriture des éléments chimiques.
 
-Les différents types de formules sont utiles pour compléter la représentation des espèces chimiques au-delà de la seule composition globale. Le corps simple soufre par exemple, de formule empirique S, est constitué de molécules regroupant 8 atomes, ce que précise la formule moléculaire S₈. Les formules structurales, comme Ca₃(PO₄)₂ pour le phosphate de calcium, indiquent comment sont organisés les atomes au sein de l'espèce chimique, au contraire de la formule brute (Ca₃P₂O₈ dans cet exemple).
+Les différents types de formules sont utiles pour compléter la représentation des espèces chimiques au-delà de la seule composition globale. Le corps simple soufre par exemple, de formule empirique S, est constitué de molécules regroupant 8 atomes, ce que précise la formule moléculaire S_8. Les formules structurales, comme Ca_3(PO_4)_2 pour le phosphate de calcium, indiquent comment sont organisés les atomes au sein de l'espèce chimique, au contraire de la formule brute (Ca_3P_2O_8 dans cet exemple).
 
 
 ## [Formules empiriques](https://fr.wikipedia.org/wiki/Formule_brute#Formules_empiriques)
@@ -83,13 +83,13 @@ La formule empirique d'un corps est formée de la juxtaposition des symboles ato
 
 ### [Exemples](https://fr.wikipedia.org/wiki/Formule_brute#Exemples)
 
-* La formule empirique du peroxyde d'hydrogène est HO alors que sa formule moléculaire est H₂O₂.
-* La formule empirique du benzène est CH alors que sa formule moléculaire est C₆H₆.
-* Le dioxygène et l'ozone ont la même formule empirique, O, alors que leurs formules moléculaires sont respectivement O₂ et O₃.
-* BrClH₃N₂NaO₂Pt (composé sans carbone), C₁₀H₁₀ClFe (composé du carbone).
-* Structure du peroxyde d'hydrogène, de formule brute H₂O₂ et de formule empirique OH
-* Différentes représentations du benzène de formule brute C₆H₆ : formule développée ; deux formules topologiques ; modèle moléculaire compact
-* Formule développée de l'ozone, de formule brute O₃
+* La formule empirique du peroxyde d'hydrogène est HO alors que sa formule moléculaire est H_2O_2.
+* La formule empirique du benzène est CH alors que sa formule moléculaire est C_6H_6.
+* Le dioxygène et l'ozone ont la même formule empirique, O, alors que leurs formules moléculaires sont respectivement O_2 et O_3.
+* BrClH_3N_2NaO_2Pt (composé sans carbone), C_{10}H_{10}ClFe (composé du carbone).
+* Structure du peroxyde d'hydrogène, de formule brute H_2O_2 et de formule empirique OH
+* Différentes représentations du benzène de formule brute C_6H_6 : formule développée ; deux formules topologiques ; modèle moléculaire compact
+* Formule développée de l'ozone, de formule brute O_3
 
 
 ### [Cas des solides ioniques](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_solides_ioniques)
@@ -99,8 +99,8 @@ Les solides ioniques ne contiennent pas de molécules distinctes mais des ions e
 Exemples :
 
 * le chlorure de sodium : NaCl
-* le dioxyde de silicium : SiO₂
-* le chlorure de fer(III) : FeCl₃
+* le dioxyde de silicium : SiO_2
+* le chlorure de fer(III) : FeCl_3
 
 
 ## [Formules moléculaires](https://fr.wikipedia.org/wiki/Formule_brute#Formules_mol%C3%A9culaires)
@@ -115,70 +115,70 @@ Les atomes constituant la molécule sont indiqués à l'aide de leurs symboles c
 ### Exemples
 **Composés organiques**
 
-Le propane comporte trois atomes de carbone (noté C) et huit atomes d'hydrogène (noté H), il possède la formule brute suivante : C₃H₈.
+Le propane comporte trois atomes de carbone (noté C) et huit atomes d'hydrogène (noté H), il possède la formule brute suivante : C_3H_8.
 
-* Le méthane : CH₄
+* Le méthane : CH_4
    * 1 atome de carbone C
    * 4 atomes d'hydrogène H
-* L'éthanol : C₂H₅OH (la formule brute correcte étant C₂H₆O)
+* L'éthanol : C_2H_5OH (la formule brute correcte étant C_2H_6O)
    * 2 atomes de carbone C
    * 6 atomes d'hydrogène H
    * 1 atome d'oxygène O
 
 Les exemples suivants montrent la différence entre formule moléculaire et formule empirique.
 
-* L'éthylène : C₂H₄
+* L'éthylène : C_2H_4
    * 2 atomes de carbone C
    * 4 atomes d'hydrogène H
 
-La formule empirique de l'éthylène est CH₂.
+La formule empirique de l'éthylène est CH_2.
 
-* Le butane ou son isomère l'isobutane : C₄H₁₀
+* Le butane ou son isomère l'isobutane : C_4H_{10}
    * 4 atomes de carbone C
    * 10 atomes d'hydrogène H
 
-La formule empirique du butane est C₂H₅.
+La formule empirique du butane est C_2H_5.
 
 
 **Composés inorganiques**
 
-* L'eau : H₂O
+* L'eau : H_2O
    * 2 atomes d'hydrogène H
    * 1 atome d'oxygène O
-* Le dioxygène : O₂
+* Le dioxygène : O_2
    * 2 atomes d'oxygène O
 
-La formule empirique du dioxygène est O₂.
+La formule empirique du dioxygène est O_2.
 
-* Le chlorure de mercure(I) ou calomel : Hg₂Cl₂
+* Le chlorure de mercure(I) ou calomel : Hg_2Cl_2
    * 2 atomes Hg
    * 2 atomes Cl
 
 La formule empirique du calomel est HgCl.
 
-* Le dioxyde d'azote se dimérise en tétroxyde de diazote dont les formules moléculaires sont respectivement NO₂ et N₂O₄. La formule empirique du tétroxyde de diazote a la même écriture (et donc peut être confondue) avec la formule moléculaire du dioxyde d'azote.
+* Le dioxyde d'azote se dimérise en tétroxyde de diazote dont les formules moléculaires sont respectivement NO_2 et N_2O_4. La formule empirique du tétroxyde de diazote a la même écriture (et donc peut être confondue) avec la formule moléculaire du dioxyde d'azote.
 * Les composés de coordination comme le sulfate de cuivre, ou les complexes organométalliques comme le ferrocène sont constitués d'entités discrètes et peuvent donc être décrits avec une formule moléculaire. Ils sont cependant mieux décrits par une formule structurale.
-* Formule développée du dimère de NO₂, le tétroxyde de diazote de formule brute N₂O₄.
-* Modèle moléculaire du ferrocène, composé inorganique de formule moléculaire (C₅H₅)₂Fe.
+* Formule développée du dimère de NO_2, le tétroxyde de diazote de formule brute N_2O_4.
+* Modèle moléculaire du ferrocène, composé inorganique de formule moléculaire (C_5H_5)_2Fe.
 
 
 ## [Formules structurales](https://fr.wikipedia.org/wiki/Formule_brute#Formules_structurales)
 
 La formule structurale donne des informations partielles ou complètes sur la façon dont les atomes d'une molécule sont connectés et arrangés dans l'espace. Dans les cas simples, une formule en ligne qui est juste une séquence de symboles atomiques (donc une formule brute) donne une information structurale permettant au lecteur de décoder des informations structurales.
 
-Par exemple le peroxyde d'hydrogène de formule moléculaire H₂O₂ peut être écrit avec la formule structurale HOOH, ce qui indique l'enchaînement des atomes : H-O-O-H.
+Par exemple le peroxyde d'hydrogène de formule moléculaire H_2O_2 peut être écrit avec la formule structurale HOOH, ce qui indique l'enchaînement des atomes : H-O-O-H.
 
 Dès que la structure du composé est plus complexe, il devient nécessaire d'introduire des parenthèses pour éviter toute ambiguïté. L'IUPAC recommande sept règles d'écriture, par exemple :
 
 * les motifs qui se répètent dans des chaînes doivent être entourés de crochets ;
-   * la formule de l'octane de formule moléculaire C₈H₁₈ possède la formule structurale CH₃[CH₂]₆CH₃ ;
+   * la formule de l'octane de formule moléculaire C_8H_{18} possède la formule structurale CH_3[CH_2]_6CH_3 ;
 * les groupes latéraux d'une chaîne et les groupes (comme les ligands) attachés à un atome central sont écrits entre parenthèses (sauf les atomes uniques comme H ou Cl) ;
-   * le méthylbutane s'écrit CH₃CH(CH₃)CH₂CH₃,
-   * l'ion tétramminediaquacuivre(II) s'écrit Cu(NH₃)₄(H₂O)₂²⁺ ;
+   * le méthylbutane s'écrit CH_3CH(CH_3)CH_2CH_3,
+   * l'ion tétramminediaquacuivre(II) s'écrit Cu(NH_3)_4(H_2O)_2^{2+} ;
 * quand il faut insérer des groupes au sein de parenthèses, il convient d'utiliser des accolades comme suit : ( ), {( )}, ({( )}), {({( )})}, etc. ;
 * quand un atome ou un groupe d'atomes est précédé d'un préfixe, comme le préfixe µ indiquant un atome pontant, l'atome et le préfixe sont entre parenthèses ;
-   * par exemple dans le complexe de chlorodicarbonylerhodium(I) : [{Rh(µ-Cl)(CO)₂}₂].
-* Complexe de rhodium possédant des ligands pontant (préfixés µ) de formule brute [{Rh(µ-Cl)(CO)₂}₂]
+   * par exemple dans le complexe de chlorodicarbonylerhodium(I) : [{Rh(µ-Cl)(CO)_2}_2].
+* Complexe de rhodium possédant des ligands pontant (préfixés µ) de formule brute [{Rh(µ-Cl)(CO)_2}_2]
 
 
 ## [Ordre d'apparition des éléments chimiques](https://fr.wikipedia.org/wiki/Formule_brute#Ordre_d%27apparition_des_%C3%A9l%C3%A9ments_chimiques)
@@ -226,19 +226,19 @@ Ordre de préséance des éléments chimiques dans une formule en ligne suivant 
 Pour un composé binaire, l'ordre est celui de l'électronégativité au sens du tableau ci-dessus. Ainsi il faut écrire :
 
 * NaCl (et non ClNa)
-* H₂O, mais NH₃, à cause de la place de H dans le tableau ci-dessus
-* OF₂
-* P₂O₇⁴⁻
-* OCl⁻ (et non ClO⁻ comme c'est souvent rencontré)
+* H_2O, mais NH_3, à cause de la place de H dans le tableau ci-dessus
+* OF_2
+* P_2O_7^{4−}
+* OCl^− (et non ClO^− comme c'est souvent rencontré)
 
 
 ### [Composés de coordination](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_de_coordination)
 
 Les composés de coordination ou les composés à atome central s'écrivent en commençant par l'atome central suivi des ligands par ordre alphabétique du symbole ou de l'abréviation du ligand. Par exemple :
 
-* PBrCl₂
-* PtCl₂(NH₃)(py)
-* [CoF₂NH₂CH₂CH₂NH₂(NH₃)₂]⁺ ou [Co(en)F₂(NH₃)₂]⁺
+* PBrCl_2
+* PtCl_2(NH_3)(py)
+* [CoF_2NH_2CH_2CH_2NH_2(NH_3)_2]^+ ou [Co(en)F_2(NH_3)_2]^+
 
 À noter que dans ce dernier exemple, le changement de la formule du ligand éthylènediamine par son abréviation change l'ordre d'apparition des ligands dans la formule.
 
@@ -247,7 +247,7 @@ Les composés de coordination ou les composés à atome central s'écrivent en c
 
 Les composés dont les atomes forment une chaine sont écrits dans l'ordre (chimique) de la chaîne. Par exemple :
 
-* l'ion thiocyanate s'écrit SCN⁻ et non CNS⁻ qui serait l'ordre d'électronégativité au sens ci-dessus ou l'ordre alphabétique car sa formule développée est S=C=N⁻ ;
+* l'ion thiocyanate s'écrit SCN^− et non CNS^− qui serait l'ordre d'électronégativité au sens ci-dessus ou l'ordre alphabétique car sa formule développée est S=C=N^− ;
 * l'acide isocyanique s'écrit HNCO car sa formule développée est H-N=C=O.
 
 
@@ -257,19 +257,19 @@ Les sels doivent avoir la formule ou le symbole du cation écrit avant celle ou 
 
 * MgCl(OH)
 * FeO(OH) pour la formule de la rouille
-* NaNH₄[HPO₄] ; le cation ammonium NH₄⁺ est cité après Na⁺
-* H[AuCl₄]
+* NaNH_4[HPO_4] ; le cation ammonium NH_4^+ est cité après Na^+
+* H[AuCl_4]
 
 L'IUPAC ne précise pas l'usage des parenthèses et des crochets.
 
 
 ### [Composés d'addition (formels)](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_d%27addition_%28formels%29)
 
-Sous cette dénomination, l'IUPAC regroupe les sels doubles, les hydrates, etc. L'eau est toujours écrite en dernier et les différents sels doivent être écrits par quantité croissante, et à nombre égal par ordre alphabétique. Les différentes entités sont séparés par un point [dans la nomenclature anglaise du moins]. Ainsi si deux sels SEL1 et SEL2 sont associés, il faut écrire (SEL2)·(SEL1)₃ et non (SEL1)₃(SEL2). Par exemple :
+Sous cette dénomination, l'IUPAC regroupe les sels doubles, les hydrates, etc. L'eau est toujours écrite en dernier et les différents sels doivent être écrits par quantité croissante, et à nombre égal par ordre alphabétique. Les différentes entités sont séparés par un point [dans la nomenclature anglaise du moins]. Ainsi si deux sels SEL1 et SEL2 sont associés, il faut écrire (SEL2)·(SEL1)_3 et non (SEL1)_3(SEL2). Par exemple :
 
-* Na₂CO₃·10H₂O
-* Al₂(SO₄)₃·K₂SO₄·24H₂O
-* BF₃·2MeOH
+* Na_2CO_3·10H_2O
+* Al_2(SO_4)_3·K_2SO_4·24H_2O
+* BF_3·2MeOH
 
 
 ## [Modification isotopique](https://fr.wikipedia.org/wiki/Formule_brute#Modification_isotopique)
@@ -279,24 +279,24 @@ La modification isotopique s'indique dans les formules. Trois cas sont possibles
 
 ### [Cas des atomes](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_atomes)
 
-La masse d'un nucléide se note en exposant avant le symbole correspondant. Par exemple ²H, ³⁵Cl.
+La masse d'un nucléide se note en exposant avant le symbole correspondant. Par exemple ^2H, ^{35}Cl.
 
 
 ### [Cas des composés spécifiquement marqués](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_compos%C3%A9s_sp%C3%A9cifiquement_marqu%C3%A9s)
 
-Un composé est spécifiquement marqué quand un unique composé isotopiquement substitué est ajouté formellement au composé analogue non modifié. [...] L'isotope est indiqué entre crochet, éventuellement avec un indice multiplicateur. C'est le cas si 20 % de CDCl₃ sont présents dans CHCl₃ ordinaire. Par exemple
+Un composé est spécifiquement marqué quand un unique composé isotopiquement substitué est ajouté formellement au composé analogue non modifié. [...] L'isotope est indiqué entre crochet, éventuellement avec un indice multiplicateur. C'est le cas si 20 % de CDCl_3 sont présents dans CHCl_3 ordinaire. Par exemple
 
-* H[³⁶Cl]
-* [³²P]Cl₃
-* [¹⁵N]H₂[²H]
+* H[^{36}Cl]
+* [^{32}P]Cl_3
+* [^{15}N]H_2[^2H]
 
 
 ### [Cas des composés sélectivement marqués](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_compos%C3%A9s_s%C3%A9lectivement_marqu%C3%A9s)
 
 Un composé sélectivement marqué peut être considéré comme un mélange de composés spécifiquement marqués. Il est représenté en faisant précéder la formule par le symbole du nucléide sans indice multiplicateur entre crochets. Par exemple :
 
-* [³⁶Cl]SOCl₂ indique que le chlorure de thionyle de formule SOCl₂ est substitué par un ou deux ³⁶Cl.
-* [²H]PH₃
+* [^{36}Cl]SOCl_2 indique que le chlorure de thionyle de formule SOCl_2 est substitué par un ou deux ^{36}Cl.
+* [^2H]PH_3
 
 
 ## [Marqueurs optionnels structuraux](https://fr.wikipedia.org/wiki/Formule_brute#Marqueurs_optionnels_structuraux)
@@ -308,9 +308,9 @@ Certains marqueurs informent sur le nombre d'oxydation, sur la stéréochimie, e
 
 Le nombre d'oxydation d'un élément dans une formule peut être indiqué par un exposant, à droite du symbole, en chiffre romain (sauf pour le nombre d'oxydation zéro indiqué par 0). Si le même élément possède plusieurs nombres d'oxydation dans la même formule, il est répété, chacun avec son nombre d'oxydation. Par exemple :
 
-* [Pⱽ₂Mo₁₈O₆₂]⁶⁻
-* K[Osⱽᴵᴵᴵ(N)O₃]
-* [Moⱽ₂Moⱽᴵ₄O₁₈]²⁻
+* [P^V_2Mo_{18}O_{62}]^{6−}
+* K[Os^{VIII}(N)O_3]
+* [Mo^V_2Mo^{VI}_4O_{18}]^{2−}
 
 
 ### [Radicaux libres](https://fr.wikipedia.org/wiki/Formule_brute#Radicaux_libres)
@@ -323,11 +323,11 @@ Un radical est un atome ou une molécule avec un ou plus d'un électron non-appa
 
 Exemples :
 
-* H•
-* HO•
-* NO₂•
-* O₂²•
-* NO⁽²•⁾⁻
+* H^•
+* HO^•
+* NO_2^•
+* O_2^{2•}
+* NO^{(2•)–}
 
 
 ### [Composés optiquement actifs](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_optiquement_actifs)
@@ -336,27 +336,27 @@ Le signe de rotation optique peut être indiqué. Il se place entre parenthèses
 
 Exemple :
 
-* (+)₅₈₉-[Co(en)₃]Cl₃
+* (+)_{589}-[Co(en)_3]Cl_3
 
 
 ### [États excités](https://fr.wikipedia.org/wiki/Formule_brute#%C3%89tats_excit%C3%A9s)
 
-Les états électroniques excités sont indiqués par un astérisque en exposant à droite. Exemple NO*
+Les états électroniques excités sont indiqués par un astérisque en exposant à droite. Exemple NO^*
 
 
 ### [Descripteurs structuraux](https://fr.wikipedia.org/wiki/Formule_brute#Descripteurs_structuraux)
 
 Les descripteurs structuraux (cis, trans, etc.) peuvent être présents dans les formules brutes. De tels descripteurs sont généralement des préfixes en italique, séparés de la formule par un trait d'union. Le symbole µ est utilisé pour indiquer un atome pontant. Exemples :
 
-* cis-[PtCl₂(NH₃)₂]
-* trans-[PtCl₄(NH₃)₂]
-* [(H₃N)₅Cr(µ-OH)Cr(NH₃)₅]⁵⁺
+* cis-[PtCl_2(NH_3)_2]
+* trans-[PtCl_4(NH_3)_2]
+* [(H_3N)_5Cr(µ-OH)Cr(NH_3)_5]^{5+}
 
-Cette dernière formule indique que deux complexes Cr(NH₃)₅ sont reliés par un ligand HO (par l'atome O).
+Cette dernière formule indique que deux complexes Cr(NH_3)_5 sont reliés par un ligand HO (par l'atome O).
 
-* Cis-platinum, complexe plan-carré du platine de formule structurale cis-[PtCl₂(NH₃)₂]
-* Complexe octaédrique de platine de formule structurale trans-[PtCl₄(NH₃)₂]
-* Complexe dinucléaire de chrome avec un ligand hydroxyde pontant de formule structurale [(H₃N)₅Cr(µ-OH)Cr(NH₃)₅]⁵⁺
+* Cis-platinum, complexe plan-carré du platine de formule structurale cis-[PtCl_2(NH_3)_2]
+* Complexe octaédrique de platine de formule structurale trans-[PtCl_4(NH_3)_2]
+* Complexe dinucléaire de chrome avec un ligand hydroxyde pontant de formule structurale [(H_3N)_5Cr(µ-OH)Cr(NH_3)_5]^{5+}
 
 
 ## [Détermination expérimentale](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination_exp%C3%A9rimentale)
@@ -369,7 +369,7 @@ Une formule brute se détermine par une analyse élémentaire. Pendant longtemps
 
 ### [Détermination de la formule empirique](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination_de_la_formule_empirique)
 
-Le composé dont la formule brute doit être déterminée est minéralisé. Par exemple, si c'est un hydrocarbure, une masse m précisément connue de ce composé est brûlée et transformée en CO₂ et H₂O. Les produits de combustion sont passés dans de l'acide sulfurique concentré qui fixe l'eau et pas CO₂. L'augmentation de masse renseigne sur la quantité de H₂O, donc de H, dans la formule étudiée. Puis les produits de combustion barbottent ensuite dans une quantité précisément connue de soude. Le dioxyde de carbone (qui est un acide) en neutralise donc une partie. Un dosage acido-basique en retour de la soude (par de l'acide chlorhydrique de titre connu) donne la quantité de CO₂ produit et donc de carbone dans le composé. Une telle analyse indique que dans la masse m de composé, il y a les masses m_H d'élément hydrogène et m_C d'élément carbone.
+Le composé dont la formule brute doit être déterminée est minéralisé. Par exemple, si c'est un hydrocarbure, une masse m précisément connue de ce composé est brûlée et transformée en CO_2 et H_2O. Les produits de combustion sont passés dans de l'acide sulfurique concentré qui fixe l'eau et pas CO_2. L'augmentation de masse renseigne sur la quantité de H_2O, donc de H, dans la formule étudiée. Puis les produits de combustion barbottent ensuite dans une quantité précisément connue de soude. Le dioxyde de carbone (qui est un acide) en neutralise donc une partie. Un dosage acido-basique en retour de la soude (par de l'acide chlorhydrique de titre connu) donne la quantité de CO_2 produit et donc de carbone dans le composé. Une telle analyse indique que dans la masse m de composé, il y a les masses m_H d'élément hydrogène et m_C d'élément carbone.
 
 * Un premier test est que la somme m_H + m_C soit égal à m, faute de quoi d'autres éléments chimiques sont présents dans la formule à déterminer.
 * La seconde étape est de remonter à la quantité de matière de C et de H. Le rapport de ces quantités de matière est égal au rapport de la stœchiométrie de C et de H dans la formule.
@@ -386,14 +386,14 @@ Pour déduire la formule brute de la formule empirique, il faut soit :
 
 ### [Détermination de la formule brute dans le passé](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination_de_la_formule_brute_dans_le_pass%C3%A9)
 
-Les premières analyses élémentaires datent du début du XIXᵉ siècle. Des méthodes très astucieuses ont été décrites pour déterminer la composition élémentaire des corps, en particulier organiques. De ces résultats dépendaient l'avancée des connaissances en chimie organique, en particulier pour la connaissances des produits naturels.
+Les premières analyses élémentaires datent du début du XIXe siècle. Des méthodes très astucieuses ont été décrites pour déterminer la composition élémentaire des corps, en particulier organiques. De ces résultats dépendaient l'avancée des connaissances en chimie organique, en particulier pour la connaissances des produits naturels.
 
 Étienne Henry décrit ainsi dans un ouvrage de 1833 la façon dont il effectue une analyse élémentaire des composés organiques. Une masse précisément pesée est introduite dans un dispositif scrupuleusement nettoyé « au feu » avec différents composés, suivant les analyses à effectuer : oxyde de cuivre, cuivre, poudre de verre, etc. La décomposition produit un mélange de gaz qui doit être traité et dont le volume est apprécié avec une grande précision. La détermination d'un volume est la plupart du temps plus précise que celle de la masse correspondante. Par exemple :
 
-* le carbone est déterminé par oxydation du composé chauffé en présence d'oxyde de cuivre ; la mesure du volume du mélange de gaz est mesuré. Ce gaz est mis au contact de potasse qui absorbe uniquement le dioxyde de carbone. La différence de volume donne le volume de CO₂, ce qui permet de remonter à la quantité de carbone dans le composé analysé ;
-* l'élément hydrogène est obtenu sous forme de dihydrogène dans un mélange de gaz dont le volume est déterminé. Par détonation en présence de O₂, ce dihydrogène est éliminé sous forme d'eau. Le volume de H₂ est ainsi déduit par différence ;
-* l'élément oxygène est transformé en O₂ dans un mélange de gaz. O₂ est détruit par un volume mesuré de H₂, ce qui donne accès précisément à sa quantité ;
-* l'élément azote, par exemple dans les alcaloïdes, est déterminé par formation de diazote N₂. Tous les autres gaz sont adsorbés, ce dernier étant ainsi déterminé ;
+* le carbone est déterminé par oxydation du composé chauffé en présence d'oxyde de cuivre ; la mesure du volume du mélange de gaz est mesuré. Ce gaz est mis au contact de potasse qui absorbe uniquement le dioxyde de carbone. La différence de volume donne le volume de CO_2, ce qui permet de remonter à la quantité de carbone dans le composé analysé ;
+* l'élément hydrogène est obtenu sous forme de dihydrogène dans un mélange de gaz dont le volume est déterminé. Par détonation en présence de O_2, ce dihydrogène est éliminé sous forme d'eau. Le volume de H_2 est ainsi déduit par différence ;
+* l'élément oxygène est transformé en O_2 dans un mélange de gaz. O_2 est détruit par un volume mesuré de H_2, ce qui donne accès précisément à sa quantité ;
+* l'élément azote, par exemple dans les alcaloïdes, est déterminé par formation de diazote N_2. Tous les autres gaz sont adsorbés, ce dernier étant ainsi déterminé ;
 * l'élément soufre est transformé par oxydation en ions sulfate, précipités par des ions baryum. La pesée du sulfate de baryum permet de remonter à la quantité d'élément soufre avec une bonne précision, vu le rapport de leurs masses molaires respectives.
 
 

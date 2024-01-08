@@ -34,8 +34,8 @@ La fonction racine carrée vérifie les propriétés élémentaires suivantes va
 * Elle est 1/2-höldérienne donc uniformément continue.
 * Elle est dérivable en tout réel strictement positif x, mais elle n’est pas dérivable en x = 0. En ce point, la courbe représentative admet une demi-tangente verticale. Sa fonction dérivée est donnée par :
     d/dx √x=1/2√x.
-* Elle est de classe C^{∞} sur ℝ₊* : ∀n∈N dⁿ/dxⁿ √x=(−1)ⁿ⁺¹ (2n)!/n!2²ⁿ(2n−1) 1/xⁿ⁻¹ᐟ².
-* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑ₙ₌₁^{∞}aₙhⁿ avec aₙ=(2n)!/(n!)²2²ⁿ(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : aₙ=Cₙ₋₁/2²ⁿ⁻¹. Les premières valeurs sont a₁=1/2, a₂=1/8, a₃=1/16, a₄=5/128.
+* Elle est de classe C^∞ sur ℝ₊* : ∀n∈N dⁿ/dxⁿ √x=(−1)ⁿ⁺¹ (2n)!/n!2²ⁿ(2n−1) 1/xⁿ⁻¹ᐟ².
+* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑ₙ₌₁^∞aₙhⁿ avec aₙ=(2n)!/(n!)²2²ⁿ(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : aₙ=Cₙ₋₁/2²ⁿ⁻¹. Les premières valeurs sont a₁=1/2, a₂=1/8, a₃=1/16, a₄=5/128.
 
 # Racine carrée
 ## Extraction de racines carrées

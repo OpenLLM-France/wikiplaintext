@@ -25,6 +25,7 @@ def dump_wiki_html_plaintext(
     output_dir,
     language="fr",
     source="wikipedia",
+    use_superscript=True,
     prefix="",
     clean_text=True,
     per_json=10000,
@@ -122,6 +123,7 @@ def dump_wiki_html_plaintext(
                             source=source,
                             add_title=page_title,
                             keep_tables=keep_tables,
+                            use_superscript=use_superscript,
                         )
                     except Exception as err:
                         dump_html()
@@ -207,9 +209,10 @@ if __name__ == "__main__":
     parser.add_argument("--source", default="wiki", help="what to import (wiki, wikisource, wiktionary, wikibooks, wikinews, wikiversity, wikivoyage)")
     parser.add_argument("--version", default="latest",
                         help="Version to download. Example: 20231120")
-    parser.add_argument("--no_clean", action="store_true", default=False,
+    parser.add_argument("--no_tables", action="store_false", default=True, dest="keep_tables", help="Don't keep tables")
+    parser.add_argument("--no_superscripts", action="store_false", default=True, dest="use_superscript", help="Disable superscript")
+    parser.add_argument("--no_clean", action="store_false", default=True, dest="clean_text",
                         help="Do not perform text cleaning. Only download dump")
-    parser.add_argument("--no_tables", default=False, action="store_true", help="Don't keep tables")
     parser.add_argument("--dump_html", action="store_true", default=False,
                         help="Also dump the HTML files")
     parser.add_argument("--subset", default=None, help="If you want to run several processes in parallel, launch with 1/4, 2/4, ...")
@@ -259,9 +262,10 @@ if __name__ == "__main__":
             prefix=f"{args.language}{args.source}_",
             verbose=VERBOSE,
             max_pages=None,
-            clean_text=not args.no_clean,
-            dump_html = args.dump_html,
-            keep_tables=not args.no_tables,
+            clean_text=args.clean_text,
+            dump_html=args.dump_html,
+            keep_tables=args.keep_tables,
+            use_superscript=args.use_superscript,
             subset=subset,
         )
 

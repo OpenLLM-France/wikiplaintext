@@ -112,6 +112,7 @@ def clean_and_dump(
     ) for format in ("html", "txt")]
 
     if not os.path.isfile(html_filename):
+        os.makedirs(os.path.dirname(html_filename), exist_ok=True)
         with open(html_filename, "w") as f:
             f.write(page_body)
 

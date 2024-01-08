@@ -110,7 +110,7 @@ En passant au carré, on obtient :
 (ρᵢ−cΔt)²=(xᵢ−x)²+(yᵢ−y)²+(zᵢ−z)²
 Puis en développant :
 (xᵢ²+yᵢ²+zᵢ²−ρᵢ²)−2(xᵢx+yᵢy+zᵢz−ρᵢcΔt)+(x²+y²+z²−(cΔt)²)=0
-On peut alors introduire sᵢ=[xᵢyᵢzᵢρᵢ]^{⊤}, u=[xyzcΔt]^{⊤} et le pseudo-produit scalaire de Lorentz défini pour tout quadrivecteur u et v par ⟨u, v⟩=u₁v₁+u₂v₂+u₃v₃−u₄v₄. L'équation précédente se réécrit en :
+On peut alors introduire sᵢ=[xᵢyᵢzᵢρᵢ]^⊤, u=[xyzcΔt]^⊤ et le pseudo-produit scalaire de Lorentz défini pour tout quadrivecteur u et v par ⟨u, v⟩=u₁v₁+u₂v₂+u₃v₃−u₄v₄. L'équation précédente se réécrit en :
 1/2 ⟨sᵢ, sᵢ⟩−⟨sᵢ, u⟩+1/2 ⟨u, u⟩=0
 En mettant sous forme matricielle tous les signaux dont on dispose, on obtient :
 Bu=a+Λe
@@ -118,13 +118,13 @@ avec :
 * a=1/2 (⟨s₁, s₁⟩⟨s₂, s₂⟩⋮)
 * B=(x₁y₁z₁−ρ₁x₂y₂z₂−ρ₂⋮⋮⋮⋮)
 * Λ=1/2 ⟨u, u⟩
-* e=[11⋯]^{⊤}
+* e=[11⋯]^⊤
 Remarque : le nombre de lignes de a, B et e doit être le même et supérieur ou égal à 4.
 En considérant Λ comme une constante, on peut résoudre l'équation précédente par la méthode des moindres carrés qui donne pour solution :
-u^{⋆}=B⁺(a+Λe) avec B⁺=(B^{⊤}B)⁻¹B^{⊤}.
+u^⋆=B⁺(a+Λe) avec B⁺=(B^⊤B)⁻¹B^⊤.
 On peut ensuite utiliser Λ=1/2 ⟨u, u⟩=1/2 ⟨B⁺(a+Λe), B⁺(a+Λe)⟩ et résoudre l'équation sur Λ ainsi définie dont les solutions sont les racines d'un polynôme du second degré :
 Λ²⟨B⁺e, B⁺e⟩+2Λ(⟨B⁺a, B⁺e⟩−1)+⟨B⁺a, B⁺a⟩=0
-On obtient finalement le résultat cherché, contenu dans u^{⋆}, en réinjectant Λ dans l'équation u^{⋆}=B⁺(a+Λe). Notez que le résultat n'est pas unique (car Λ n'est pas unique). Le choix de résultat final se fait sur des critères de validité de l'intervalle dans lequel se trouve le résultat.
+On obtient finalement le résultat cherché, contenu dans u^⋆, en réinjectant Λ dans l'équation u^⋆=B⁺(a+Λe). Notez que le résultat n'est pas unique (car Λ n'est pas unique). Le choix de résultat final se fait sur des critères de validité de l'intervalle dans lequel se trouve le résultat.
 
 # Global Positioning System
 ## Principe de fonctionnement

@@ -12,6 +12,7 @@ from clean_common import (
     collapse_whitespace,
     to_superscript,
     to_subscript,
+    SuperScriptConverstion, SUPERSCRIPTS_TO_AVOID, SUBSCRIPTS_TO_AVOID,
     _superscript_coma,
     IGNORE_FROM_SECTION,
     POSTPROC_SECTION,
@@ -63,7 +64,8 @@ def clean_html(
     section_dependent_postproc = POSTPROC_SECTION.get(source, {}).get(language, {})
     ignore_node = HTML_NODE_IGNORED.get(language, lambda x: False)
     kwargs_extract_text_header = dict(
-        use_superscript = use_superscript,
+        superscript_conversion = SUPERSCRIPTS_TO_AVOID.get(language, []) if not use_superscript else SuperScriptConverstion.ALL_OR_NONE,
+        subscript_conversion = SUBSCRIPTS_TO_AVOID.get(language, SUBSCRIPTS_TO_AVOID.get("", [])) if not use_superscript else SuperScriptConverstion.ALL_OR_NONE,
         looks_like_linktodiscard = LINKS_TO_DISCARD_FUN.get(language, lambda text:False),
     )
     kwargs_extract_text = kwargs_extract_text_header | dict(postproc = None)
@@ -79,12 +81,12 @@ def clean_html(
             if ignore_node(node): continue
             if node.name in all_possible_names:
                 yield node
-                if node.name == "table":
-                    # Sometimes, subsections can be included in tables, see https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016
-                    for subnode in node.find_all("section", recursive=True):
-                        if ignore_node(subnode): continue
-                        for subsubnode in html_iterator(subnode):
-                            yield subsubnode
+                # if node.name == "table":
+                #     # Sometimes, subsections can be included in tables, see https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016
+                #     for subnode in node.find_all("section", recursive=True):
+                #         if ignore_node(subnode): continue
+                #         for subsubnode in html_iterator(subnode):
+                #             yield subsubnode
             else:
                 add_quotes = node.name == "blockquote"
                 if add_quotes:
@@ -230,7 +232,8 @@ def extract_text(node, **kwargs):
 
 def extract_text_in_paragraph(
     node,
-    use_superscript, #=True,
+    superscript_conversion, #=True,
+    subscript_conversion,
     looks_like_linktodiscard, #=lambda text:False,
     postproc=None,
     remove_annotations=True,
@@ -261,7 +264,7 @@ def extract_text_in_paragraph(
         subnode.insert(0, "√")
         if subnode.name == "mroot":
             exponent = re.sub(r"\s", "", subsubnodes[1].get_text())
-            subnode.insert(0, to_superscript(exponent))
+            subnode.insert(0, to_superscript(exponent, SuperScriptConverstion.WHAT_POSSIBLE))
             subsubnodes[1].replace_with("")
         if needs_parenthesis:
             subnode.append(")")
@@ -309,43 +312,41 @@ def extract_text_in_paragraph(
         import pdb; pdb.set_trace()
         ("mfenced", node)
 
-    if use_superscript:
-
-        for subnode in node.find_all(["sup", "sub", "msup", "msub", "msubsup", "munder", "mover", "munderover"], recursive=recursive):
-            superscript = subnode.name in ["sup", "msup", "mover"]
-            if subnode.name in ["msup", "msub", "msubsup", "munder", "mover", "munderover"]:
-                subnodes = []
-                for i, subsubnode in enumerate(subnode.find_all(recursive=False)):
-                    if i > 0:
-                        if i > 1:
-                            if i > 2:
-                                import pdb; pdb.set_trace()
-                                subnode
-                            if subnode.name in ["msubsup", "munderover"]:
-                                superscript = True
-                            else:
-                                import pdb; pdb.set_trace()
-                                subnode
-                        subnodes.append((superscript, subsubnode))
-            else:
-                subnodes = [(superscript, subnode)]
-            for superscript, subnode in subnodes:
-                subtext = subnode.get_text()
-                if subnode.name == "sup" and subnode.find("a"):
-                    # if "prononciation" in subnode.find("a").parent.get("class", []):
-                    #     continue
-                    if looks_like_annotation(subtext):
-                        # Safer to remove after
-                        new_subtext = subtext
-                        brackets_to_remove.append(subtext)
-                    else:
-                        new_subtext = ""
+    for subnode in node.find_all(["sup", "sub", "msup", "msub", "msubsup", "munder", "mover", "munderover"], recursive=recursive):
+        superscript = subnode.name in ["sup", "msup", "mover"]
+        if subnode.name in ["msup", "msub", "msubsup", "munder", "mover", "munderover"]:
+            subnodes = []
+            for i, subsubnode in enumerate(subnode.find_all(recursive=False)):
+                if i > 0:
+                    if i > 1:
+                        if i > 2:
+                            import pdb; pdb.set_trace()
+                            subnode
+                        if subnode.name in ["msubsup", "munderover"]:
+                            superscript = True
+                        else:
+                            import pdb; pdb.set_trace()
+                            subnode
+                    subnodes.append((superscript, subsubnode))
+        else:
+            subnodes = [(superscript, subnode)]
+        for superscript, subnode in subnodes:
+            subtext = subnode.get_text()
+            if subnode.name == "sup" and subnode.find("a"):
+                # if "prononciation" in subnode.find("a").parent.get("class", []):
+                #     continue
+                if looks_like_annotation(subtext):
+                    # Safer to remove after
+                    new_subtext = subtext
+                    brackets_to_remove.append(subtext)
                 else:
-                    subtext = re.sub("\s", "", subtext)
-                    new_subtext = to_superscript(subtext, all_or_none=True) if superscript else to_subscript(subtext, all_or_none=True)
-                if new_subtext == subtext:  
-                    continue
-                subnode.replace_with(new_subtext)
+                    new_subtext = ""
+            else:
+                subtext = re.sub("\s", "", subtext)
+                new_subtext = to_superscript(subtext, superscript_conversion) if superscript else to_subscript(subtext, subscript_conversion)
+            if new_subtext == subtext:  
+                continue
+            subnode.replace_with(new_subtext)
 
     # Workaround for math
     for subnode in node.find_all("math", recursive=recursive):

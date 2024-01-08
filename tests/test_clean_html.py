@@ -150,6 +150,9 @@ def plaintext_to_markdown(
 
     toc = '\n'.join(toc)
 
+    if url is None:
+        raise ValueError("No URL found")
+
     prefix = f"""\
 `This is the markdown version of `[`{urllib.parse.unquote(url)}`]({url})
 
@@ -201,6 +204,10 @@ if __name__ == "__main__":
         "96663_": "foreign_sinogram", # 調
         "10051_": "foreign_germanic", # August
     }
+    example_try_no_superscript = [
+        "1157_",    
+        "11817_"
+    ]
     has_generated_examples = []
 
     for input_dir, output_dir in [
@@ -247,6 +254,12 @@ if __name__ == "__main__":
                 if re.match(prefix, file_in):
                     add_example = name
                     break
+            add_example_no_superscript = False
+            for prefix in example_try_no_superscript:
+                if re.match(prefix, file_in):
+                    assert add_example is not None
+                    add_example_no_superscript = True
+                    break
 
             if args.example and add_example is None:
                 continue
@@ -265,14 +278,18 @@ if __name__ == "__main__":
                 "\n------------>",
                 relative_filename(file_out),
             )
+            kwargs = dict(
+                language="fr",
+                source=source,
+                add_title=pagename,
+                hashtag_header=hashtag_header,
+                repeat_headers=repeat_headers,
+                keep_tables=True,
+                use_superscript=True,
+            )
             with open(file_in, "r") as f:
-                text = clean_html(f.read(),
-                    language="fr",
-                    source=source,
-                    add_title=pagename,
-                    hashtag_header=hashtag_header,
-                    repeat_headers=repeat_headers,
-                )
+                html_body = f.read()
+            text = clean_html(html_body, **kwargs)
 
             if is_redirection:
                 assert text == "", f"Unexpected result parsed:\n{text}"
@@ -287,11 +304,11 @@ if __name__ == "__main__":
                 os.remove(file_out)
 
             if add_example is not None:
-                # filename = os.path.splitext(os.path.basename(file_in))[0]
-                # _, filename = filename.split("_", 1)
-                filename = add_example
-                filename = f"{website_main}_{filename}".rstrip("_")
+                assert text
+                filename = f"{website_main}_{add_example}".rstrip("_")
                 markdown_file_out = os.path.join(this_dir, "examples_markdown", filename + ".md")
+                rfile_out = relative_filename(file_out, quote=False)
+                rfile_in = relative_filename(file_in, quote=False)
                 if markdown_file_out not in has_generated_examples:
                     has_generated_examples.append(markdown_file_out)
                     print(
@@ -301,7 +318,20 @@ if __name__ == "__main__":
                     )
                     plaintext_to_markdown(
                         text, markdown_file_out,
-                        website_main,
-                        relative_filename(file_out, quote=False),
-                        relative_filename(file_in, quote=False),
+                        website_main, rfile_out, rfile_in,
                     )
+                if add_example_no_superscript:
+                    kwargs["use_superscript"] = False
+                    text = clean_html(html_body, **kwargs)
+                    markdown_file_out = os.path.join(this_dir, "examples_markdown", filename + "_nosuperscript.md")
+                    if markdown_file_out not in has_generated_examples:
+                        has_generated_examples.append(markdown_file_out)
+                        print(
+                            "------------>",
+                            relative_filename(markdown_file_out),
+                            "\n"
+                        )
+                        plaintext_to_markdown(
+                            text, markdown_file_out,
+                            website_main, rfile_out, rfile_in,
+                        )

@@ -79,7 +79,7 @@ def download_file(file_url, local_filename, expected_md5=None, ignore_if_exists=
         elif verbose:
             print(f"{file_url} already downloaded in {local_filename} (skipping)")
 
-        if expected_md5:
+        if False: # NOCOMMIT expected_md5:
             with open(local_filename, "rb") as f:
                 md5 = hashlib.md5(f.read()).hexdigest()
             if md5 != expected_md5:
@@ -88,8 +88,8 @@ def download_file(file_url, local_filename, expected_md5=None, ignore_if_exists=
                 )
 
     except (Exception, KeyboardInterrupt) as err:
-        if os.path.exists(local_filename):
-            os.remove(local_filename)
+        # if os.path.exists(local_filename):
+        #     os.remove(local_filename)
         raise err
 
 

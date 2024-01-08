@@ -26,8 +26,8 @@ Ainsi, si le nombre dérivé d'une fonction est positif sur un intervalle, cette
 # Dérivée
 ## Définition formelle
 
-Soit f une fonction réelle à valeurs réelles définie sur une réunion quelconque d'intervalles non triviaux (c'est-à-dire non vides et non réduits à un point), et x₀ appartenant à l'intérieur de l'ensemble de définition D_{f}.
-Pour tout h∈R^{∗} tel que [x₀, x₀+h]⊂D_{f}, on appelle taux d'accroissement de f en x₀ et avec un pas de h la quantité :
+Soit f une fonction réelle à valeurs réelles définie sur une réunion quelconque d'intervalles non triviaux (c'est-à-dire non vides et non réduits à un point), et x₀ appartenant à l'intérieur de l'ensemble de définition D_f.
+Pour tout h∈R^∗ tel que [x₀, x₀+h]⊂D_f, on appelle taux d'accroissement de f en x₀ et avec un pas de h la quantité :
     tₓ₀(h)=(f(x₀+h)−f(x₀))/h
 Il s'agit du coefficient directeur de la droite reliant les points de coordonnées (x₀, f(x₀)) et (x₀+h, f(x₀+h)).
 Si tₓ₀(h) admet une limite finie lorsque h tend vers 0, on dit que f est dérivable en x₀, auquel cas le nombre dérivé de f en x₀ est égal à la limite de ce taux d'accroissement. On note alors :
@@ -61,9 +61,9 @@ De plus, une fonction continue en un ensemble ne garantit pas que la fonction so
 # Dérivée
 ## Fonction dérivée
 
-La dérivabilité est a priori une notion locale (dérivabilité en un point), mais à toute fonction f:D_{f}→R on peut associer sa fonction dérivée f′ (prononcée « f prime »), donnée par
+La dérivabilité est a priori une notion locale (dérivabilité en un point), mais à toute fonction f:D_f→R on peut associer sa fonction dérivée f′ (prononcée « f prime »), donnée par
     f′:D_{f′}→R, x↦f′(x)
-où D_{f′} est le domaine de dérivabilité de f (le sous-ensemble de D_{f} constitué des points en lesquels f est dérivable).
+où D_{f′} est le domaine de dérivabilité de f (le sous-ensemble de D_f constitué des points en lesquels f est dérivable).
 Les fonctions dérivées sont utilisées notamment dans l'étude des fonctions réelles et de leurs variations.
 La seule fonction (à une constante multiplicative près) égale à sa dérivée — c'est-à-dire solution de l'équation différentielle f′=f — est la fonction exponentielle de base e. Certains ouvrages prennent cette propriété, avec la condition f(0)=1, comme définition de l'exponentielle.
 
@@ -93,7 +93,7 @@ En particulier, voici les règles courantes se déduisant de la dérivée de com
 | Puissance | (fᵅ)′=αfᵅ⁻¹f′ | Quel que soit α∈Z, et même quel que soit α∈R si f>0 |
 | Racine | (√f)′=f′/2√f | Quelle que soit la fonction dérivable f strictement positive (cas particulier α=1/2 de la ligne précédente) |
 | Exponentielle | (eᶠ)′=eᶠ⋅f′ | Quelle que soit f dérivable |
-| Logarithme | (log_{b}⁡f)′=f′/f⋅ln⁡b | Quelle que soit la fonction dérivable f strictement positive |
+| Logarithme | (log_b⁡f)′=f′/f⋅ln⁡b | Quelle que soit la fonction dérivable f strictement positive |
 | Logarithme népérien | (ln⁡f)′=f′/f | Quelle que soit la fonction dérivable f strictement positive (cas b=e de la ligne précédente) |
 
 # Dérivée
@@ -189,8 +189,8 @@ Cette propriété est utilisée en cinématique pour déterminer une approximati
 ## Propriétés des fonctions dérivables
 ### Discontinuités
 
-Une partie A d'un intervalle réel I est l'ensemble des points de continuité de la dérivée d'une fonction dérivable de I dans R si et seulement si A est un ensemble G_{δ} dense dans I.
-L'ensemble des points de discontinuité d'une dérivée est donc un ensemble F_{σ} d'intérieur vide quelconque.
+Une partie A d'un intervalle réel I est l'ensemble des points de continuité de la dérivée d'une fonction dérivable de I dans R si et seulement si A est un ensemble G_δ dense dans I.
+L'ensemble des points de discontinuité d'une dérivée est donc un ensemble F_σ d'intérieur vide quelconque.
 
 # Dérivée
 ## Propriétés des fonctions dérivables
@@ -246,7 +246,7 @@ Méthode pour optimiser un rendement à l'aide du calcul différentiel :
 
 Les algébristes donnent un sens un peu différent au terme dérivée. Ils l'appliquent à une structure B appelée A-algèbre associative unitaire et commutative. Une application D, de B dans B est appelée une dérivation si :
 * l'application D est A-linéaire ;
-* b₁ et b₂ étant deux éléments de B, la dérivée de b₁⋅b₂ est égale à la somme du produit de la dérivée de b₁ et de b₂ et du produit de b₁ avec la dérivée de b₂ : D(b₁⋅b₂)=D(b₁)⋅b₂+b₁⋅D(b₂) (en particulier, la dérivée de l'élément 1_{B} neutre de B pour la multiplication est nulle).
+* b₁ et b₂ étant deux éléments de B, la dérivée de b₁⋅b₂ est égale à la somme du produit de la dérivée de b₁ et de b₂ et du produit de b₁ avec la dérivée de b₂ : D(b₁⋅b₂)=D(b₁)⋅b₂+b₁⋅D(b₂) (en particulier, la dérivée de l'élément 1_B neutre de B pour la multiplication est nulle).
 Un exemple de dérivation définie de cette manière est donné dans l'article polynôme formel.
 
 # Dérivée
@@ -258,4 +258,4 @@ Une autre généralisation part de la notion de dérivée n-ème pour construire
 ## Dérivation en tant qu'application linéaire
 
 La dérivation est une application linéaire, de l'espace vectoriel des fonctions dérivables sur un intervalle ouvert non vide I de R et à valeurs réelles, vers celui des fonctions quelconques de I dans R. Son noyau est constitué des fonctions constantes et plus généralement, tout réel λ est valeur propre, de sous-espace propre associé la droite de toutes les fonctions de la forme x↦ae^{λx} avec a∈R.
-La dérivation en tant qu'endomorphisme de l'espace E=C^{∞}(I, C) n'admet pas de racine carrée, c'est-à-dire que si l'on note D:E→E l'opérateur de dérivation, alors il n'existe pas d'application linéaire T:E→E telle que T∘T=D.
+La dérivation en tant qu'endomorphisme de l'espace E=C^∞(I, C) n'admet pas de racine carrée, c'est-à-dire que si l'on note D:E→E l'opérateur de dérivation, alors il n'existe pas d'application linéaire T:E→E telle que T∘T=D.

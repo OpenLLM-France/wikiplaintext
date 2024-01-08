@@ -34,7 +34,7 @@ C'est la généralisation en dimension quelconque (finie ou infinie) d'un espace
 * L'espace euclidien ℝⁿ muni du produit scalaire usuel.
 * L'espace hermitien ℂⁿ muni du produit hermitien usuel.
 * L'espace L²([a, b]) des fonctions de [a, b] à valeurs dans ℂ et de carré intégrable avec la convention que deux fonctions égales presque partout sont égales (voir l'article espace Lᵖ), muni de ⟨f, g⟩=∫ₐᵇf(x)g(x)¯ dx.
-* L'espace de suites ℓ², constitué des suites (uₙ)_{n∈N} de nombres complexes telles que ∑ₙ₌₀^{∞}|uₙ|²<+∞, le produit hermitien de deux suites u et v étant par définition la somme de la série ∑ₙ₌₀^{∞}uₙv¯ₙ.
+* L'espace de suites ℓ², constitué des suites (uₙ)_{n∈N} de nombres complexes telles que ∑ₙ₌₀^∞|uₙ|²<+∞, le produit hermitien de deux suites u et v étant par définition la somme de la série ∑ₙ₌₀^∞uₙv¯ₙ.
 
 # Espace de Hilbert
 ## Classification

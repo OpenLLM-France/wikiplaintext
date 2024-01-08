@@ -1,4 +1,5 @@
 import regex as re
+from enum import Enum
 
 def any_starts_with(list_of_strings, list_of_starts):
     return any(s.startswith(start) for s in list_of_strings for start in list_of_starts) if list_of_strings else False
@@ -113,32 +114,64 @@ def collapse_whitespace(text, level=1):
     text = re.sub(r"[\r\n ]+", " ", text)
     return text.strip()
 
+class SuperScriptConverstion(Enum):
+    WHAT_POSSIBLE = 0
+    ALL_OR_NONE = 1
+    NONE = 2
 
-def to_superscript(d, all_or_none=False):
-    if all_or_none:
+def to_superscript(d, conversion=SuperScriptConverstion.WHAT_POSSIBLE):
+    """
+    Convert a string to superscript
+
+    param d: The string to convert
+    param conversion:
+        WHAT_POSSIBLE: Convert only what is possible
+        ALL_OR_NONE: Convert all or none
+        NONE: Just use "^{...}"
+        list of strings: returns unchanged if d is in the list, otherwise use "^{...}"
+    """
+    if not d: return ""
+    if conversion == SuperScriptConverstion.ALL_OR_NONE:
         out = ""
         for i in d:
             o = _superscript.get(i, i)
             if i == o and i not in _superscript.values():
                 # print(f"Ignoring superscript {d} -> {to_superscript(d)} (cannot convert {i})")
-                return f"^{{{d}}}"
+                return to_superscript(d, SuperScriptConverstion.NONE)
             out += o
         return out
+    if isinstance(conversion, list):
+        if d in conversion:
+            return d
+        return to_superscript(d, SuperScriptConverstion.NONE)
+    if conversion == SuperScriptConverstion.NONE:
+        if len(d) == 1:
+            return f"^{d}"
+        return f"^{{{d}}}"
     if len(d) > 1:
         return "".join([to_superscript(x) for x in d])
     return _superscript.get(d, d)
 
 
-def to_subscript(d, all_or_none=False):
-    if all_or_none:
+def to_subscript(d, conversion=SuperScriptConverstion.WHAT_POSSIBLE):
+    if not d: return ""
+    if conversion == SuperScriptConverstion.ALL_OR_NONE:
         out = ""
         for i in d:
             o = _subscript.get(i, i)
             if i == o and i not in _subscript.values():
                 # print(f"Ignoring subscript {d} -> {to_superscript(d)} (cannot convert {i})")
-                return f"_{{{d}}}"
+                return to_subscript(d, SuperScriptConverstion.NONE)
             out += o
         return out
+    if isinstance(conversion, list):
+        if d in conversion:
+            return d
+        return to_subscript(d, SuperScriptConverstion.NONE)
+    if conversion == SuperScriptConverstion.NONE:
+        if len(d) == 1:
+            return f"_{d}"
+        return f"_{{{d}}}"
     if len(d) > 1:
         return "".join([to_subscript(x) for x in d])
     return _subscript.get(d, d)
@@ -414,19 +447,42 @@ IGNORE_FROM_SECTION = {
             "Annexes",
             "Articles connexes",
         ],
+        "en": [
+            "Notes",
+            "Notes and references",
+            "References",
+            "See also", "Further reading",
+            "External links",
+            "Bibliography",
+            "Annexes",
+            "Related articles",
+        ],
     },
 }
 
 # Linked text following those conditions will be discarded
 LINKS_TO_DISCARD_FUN = {
     "fr": lambda text: bool(re.search(r"\bmodifier\b", text)),
+    "en": lambda text: bool(re.search(r"\bedit\b", text)),
 }
 
 # All HTML object (tables, ...) following those conditions will be discarded
 HTML_NODE_IGNORED = {
     "fr": lambda x: any_starts_with(x.get("class"), ["bandeau-", "infobox"]),
+    "en": lambda x: any_starts_with(x.get("class"), ["hatnote", "infobox"]),
 }
 
 END_HEADER = "␣:"
 
 PROTECTED_SPACE = "␣␣␣"
+
+SUPERSCRIPTS_TO_AVOID = {
+    "fr" : ["e", "er", "re", "ère", "ème", "nd", "nde"],
+    "en" : ["st", "nd", "rd", "th"],
+}
+
+SUBSCRIPTS_TO_AVOID = {
+    "" : [# "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+          "+", "-"
+          ],
+}

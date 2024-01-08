@@ -8,7 +8,7 @@ Cette définition a émergé au cours du XIXᵉ siècle, en particulier dans le
 
 Un entier algébrique est une racine d'un polynôme unitaire à coefficients dans ℤ.
 Les entiers algébriques forment un anneau : la somme, la différence ou le produit de deux entiers algébrique est encore un entier algébrique.
-L'intersection de cet anneau (commutatif, unifère) intègre avec un sous-corps K de ℂ s'appelle l'anneau des entiers de K, souvent noté O_{K}.
+L'intersection de cet anneau (commutatif, unifère) intègre avec un sous-corps K de ℂ s'appelle l'anneau des entiers de K, souvent noté O_K.
 Un entier algébrique est en particulier un nombre algébrique. À ce titre, il engendre un corps de nombres, c'est-à-dire une extension finie du corps ℚ des rationnels. Mais tous les nombres algébriques ne sont pas des entiers algébriques (par exemple 1/2 est algébrique mais pas entier). Pour tout nombre algébrique α, de polynôme minimal P :
 * α est un entier algébrique si et seulement si P est à coefficients dans ℤ ;
 * il existe un entier n > 0 tel que nα soit un entier algébrique (il suffit de prendre pour n le produit des dénominateurs des coefficients de P).
@@ -55,8 +55,8 @@ L'intérêt de l'anneau des entiers algébriques d'un corps quadratique ou cyclo
 ## Structure
 ### Anneau intégralement clos
 
-   Tout corps de nombres K est le corps des fractions de l'anneau O_{K} de ses entiers, et O_{K} est intégralement clos.
-La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel (cf. § « Définitions » ci-dessus), si bien que K = ℚO_{K}. La seconde en résulte parce que tout élément entier sur un anneau d'entiers algébriques est lui-même un entier algébrique (cf. corollaire 2 de l'article « Élément entier »).
+   Tout corps de nombres K est le corps des fractions de l'anneau O_K de ses entiers, et O_K est intégralement clos.
+La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel (cf. § « Définitions » ci-dessus), si bien que K = ℚO_K. La seconde en résulte parce que tout élément entier sur un anneau d'entiers algébriques est lui-même un entier algébrique (cf. corollaire 2 de l'article « Élément entier »).
 
 # Entier algébrique
 ## Structure
