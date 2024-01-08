@@ -8,8 +8,6 @@
 [Afrique du Sud aux Jeux olympiques d'été de 2016](#afrique-du-sud-aux-jeux-olympiques-dété-de-2016)
 * [Médaillés](#médaillés)
    * [Médailles d'or](#médailles-dor)
-   * [Médailles d'argent](#médailles-dargent)
-   * [Médailles de bronze](#médailles-de-bronze)
 * [Athlétisme](#athlétisme)
    * [Hommes](#hommes)
    * [Femmes](#femmes)
@@ -82,28 +80,6 @@ Médailles par sexe :
 | Femmes | 1 | 1 | 0 | 2 |
 | Mixte | 0 | 0 | 0 | 0 |
 | Total | 2 | 6 | 2 | 10 |
-
-
-### [Médailles d'argent](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#M%C3%A9dailles_d%27argent)
-
-| Sport | Discipline | Athlète(s) | Performance | Date |
-| - | - | - | - | - |
-| Médailles d'argent : 6 |||||
-| Athlétisme | Saut en longueur masculin | Luvo Manyonga | 8,37 mètres | 13 août |
-| Athlétisme | Lancer du javelot féminin | Sunette Viljoen | 64,92 mètres | 18 août |
-| Aviron | Deux sans barreur masculin | Lawrence Brittain Shaun Keeling | 7 min 2 s 51 | 11 août |
-| Natation | 100 m brasse masculin | Cameron van der Burgh | 58 s 69 | 7 août |
-| Natation | 200 m nage libre masculin | Chad le Clos | 1 min 45 s 20 | 8 août |
-| Natation | 100 m papillon masculin | Chad le Clos | 51 s 14 | 12 août |
-
-
-### [Médailles de bronze](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#M%C3%A9dailles_de_bronze)
-
-| Sport | Discipline | Athlète(s) | Performance | Date |
-| - | - | - | - | - |
-| Médailles de bronze : 2 |||||
-| Rugby à sept | Tournoi masculin de rugby à sept | Cecil Afrika Tim Agaba Kyle Brown Juan de Jongh Justin Geduld Francois Hougaard Werner Kok Cheslin Kolbe Dylan Sage Seabelo Senatla Kwagga Smith Philip Snyman Roscko Speckman | 54-14 | 11 août |
-| Triathlon | Triathlon masculin | Henri Schoeman | 1 h 45 min 43 s | 18 août |
 
 
 ## [Athlétisme](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Athl%C3%A9tisme)
