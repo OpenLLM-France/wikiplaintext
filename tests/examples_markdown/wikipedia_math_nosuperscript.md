@@ -21,7 +21,7 @@
 ---
 # [Racine carrée](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e)
 
-En mathématiques élémentaires, la racine carrée d'un nombre réel positif x est l'unique réel positif qui, lorsqu'il est multiplié par lui-même, donne x, c'est-à-dire le nombre positif dont le carré vaut x. On le note √x ou x^{1/2}. Dans cette expression, x est appelé le radicande et le signe √ est appelé le radical. La fonction qui, à tout réel positif, associe sa racine carrée s'appelle la fonction racine carrée.
+En mathématiques élémentaires, la racine carrée d'un nombre réel positif x est l'unique réel positif qui, lorsqu'il est multiplié par lui-même, donne x, c'est-à-dire le nombre positif dont le carré vaut x. On le note √x ou x^{1/2}. Dans cette expression, x est appelé le radicande et le signe ${\sqrt {\quad }}$ est appelé le radical. La fonction qui, à tout réel positif, associe sa racine carrée s'appelle la fonction racine carrée.
 
 En algèbre et analyse, dans un anneau ou un corps A, on appelle racine carrée de a tout élément de A dont le carré vaut a. Par exemple, dans le corps des complexes ℂ, on dira de i (ou de − i) qu'il est une racine carrée de − 1. Selon la nature de l'anneau et la valeur de a, on peut trouver 0, 1, 2 ou plus de 2 racines carrées de a.
 
@@ -51,21 +51,21 @@ Cette construction montre que la racine carrée d'un nombre constructible (par e
 
 ## [Fonction réelle](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Fonction_r%C3%A9elle)
 
-L’application x↦x^2 est une bijection de ℝ+ sur ℝ+ dont la réciproque est notée x↦√x. Cette fonction s’appelle la fonction racine carrée. Géométriquement, on peut affirmer que la racine carrée de l’aire d’un carré du plan euclidien est la longueur de l'un de ses côtés.
+L’application $x\mapsto x^{2}$ est une bijection de ℝ+ sur ℝ+ dont la réciproque est notée $x\mapsto {\sqrt {x}}$. Cette fonction s’appelle la fonction racine carrée. Géométriquement, on peut affirmer que la racine carrée de l’aire d’un carré du plan euclidien est la longueur de l'un de ses côtés.
 
 La fonction racine carrée vérifie les propriétés élémentaires suivantes valables pour tous nombres réels positifs x et y :
 
-    √x=x^{1/2}
-    √(x×y)=√x×√y
-    √(x/y)=√x/√y (sous la condition y > 0)
-    √(x^2)=|x|.
+    ${\sqrt {x}}=x^{\frac {1}{2}}$
+    ${\sqrt {x\times y}}={\sqrt {x}}\times {\sqrt {y}}$
+    ${\sqrt {\frac {x}{y}}}={\frac {\sqrt {x}}{\sqrt {y}}}$ (sous la condition y > 0)
+    ${\sqrt {x^{2}}}=|x|$.
 * Elle est strictement croissante, comme réciproque d'une bijection croissante sur ℝ+.
 * Elle est 1/2-höldérienne donc uniformément continue.
 * Elle est dérivable en tout réel strictement positif x, mais elle n’est pas dérivable en x = 0. En ce point, la courbe représentative admet une demi-tangente verticale. Sa fonction dérivée est donnée par :
 
-    d/dx √x=1/2√x.
-* Elle est de classe C^∞ sur ℝ+* : ∀n∈N d^n/dx^n √x=(−1)^{n+1} (2n)!/n!2^{2n}(2n−1) 1/x^{n−1/2}.
-* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑_{n=1}^∞a_nh^n avec a_n=(2n)!/(n!)^22^{2n}(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : a_n=C_{n−1}/2^{2n−1}. Les premières valeurs sont a_1=1/2, a_2=1/8, a_3=1/16, a_4=5/128.
+    ${\frac {\mathrm {d} }{\mathrm {d} x}}{\sqrt {x}}={1 \over 2{\sqrt {x}}}$.
+* Elle est de classe C^∞ sur ℝ+* :$\forall n\in \mathbb {N} \quad {\frac {\mathrm {d} ^{n}}{\mathrm {d} x^{n}}}{\sqrt {x}}={(-1)}^{n+1}{(2n)! \over n!2^{2n}(2n-1)}{\frac {1}{x^{n-1/2}}}.$
+* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 :${\sqrt {1-h}}=1-\sum _{n=1}^{\infty }a_{n}h^{n}{\text{ avec }}a_{n}={(2n)! \over (n!)^{2}2^{2n}(2n-1)}>0,$avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 :$a_{n}={\frac {C_{n-1}}{2^{2n-1}}}.$Les premières valeurs sont$a_{1}={\frac {1}{2}},a_{2}={\frac {1}{8}},a_{3}={\frac {1}{16}},a_{4}={\frac {5}{128}}.$
 
 
 ## [Extraction de racines carrées](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Extraction_de_racines_carr%C3%A9es)
@@ -78,35 +78,35 @@ Le calcul de la racine carré d'un nombre positif n'est pas toujours évident, n
 
 Si p est un nombre réel strictement positif,
 
-    √(p+√(p+√(p+√(p+⋯))))=(1+√(4p+1))/2.
+    ${\sqrt {p+{\sqrt {p+{\sqrt {p+{\sqrt {p+\cdots }}}}}}}}={\frac {1+{\sqrt {4p+1}}}{2}}$.
 
 Pour p = 1, on obtient le nombre d'or :
 
-    φ=√(1+√(1+√(1+√(1+⋯)))).
+    $\varphi ={\sqrt {1+{\sqrt {1+{\sqrt {1+{\sqrt {1+\cdots }}}}}}}}$.
 
 
 ### [Nombres entiers supérieurs à 1 sous forme de racines carrées](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Nombres_entiers_sup%C3%A9rieurs_%C3%A0_1_sous_forme_de_racines_carr%C3%A9es)
 
 Ramanujan a découvert les formules suivantes :
 
-    √(1+2√(1+3√(1+…)))=3 et √(6+2√(7+3√(8+…)))=4.
+    ${\sqrt {1+2{\sqrt {1+3{\sqrt {1+\dots }}}}}}=3$ et ${\sqrt {6+2{\sqrt {7+3{\sqrt {8+\dots }}}}}}=4$.
 
-Ces formules se généralisent, ce qui donne en particulier, pour tout réel n≥0 :
+Ces formules se généralisent, ce qui donne en particulier, pour tout réel $n\geq 0$ :
 
-    n+2=√(1+(n+1)√(1+(n+2)√(1+(n+3)√…))) et n+3=√(n+5+(n+1)√(n+6+(n+2)√(n+7+…))).
+    $n+2={\sqrt {1+(n+1){\sqrt {1+(n+2){\sqrt {1+(n+3){\sqrt {\dots }}}}}}}}$ et $n+3={\sqrt {n+5+(n+1){\sqrt {n+6+(n+2){\sqrt {n+7+\dots }}}}}}$.
 
 
 ### [Pi](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Pi)
 
 Le nombre π s’exprime sous la forme d’une itération infinie de racines carrées :
 
-    π=lim_{k→∞}(2^k⋅√(2−√(2+√(2+√(2+⋯√(2+√2)))))) , où k est le nombre de racines carrées emboitées
+    $\pi =\lim _{k\to \infty }\left(2^{k}\cdot {\sqrt {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+\cdots {\sqrt {2+{\sqrt {2}}}}}}}}}}}}\right)$ , où k est le nombre de racines carrées emboitées
 
 Ou encore :
 
-    π=lim_{k→∞}(3⋅2^{k−1}⋅√(2−√(2+√(2+√(2+⋯√(2+√(2+√3)))))))
+    $\pi =\lim _{k\to \infty }\left(3\cdot 2^{k-1}\cdot {\sqrt {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+\cdots {\sqrt {2+{\sqrt {2+{\sqrt {3}}}}}}}}}}}}}}\right)$
 
-(formules qui se démontrent par calcul trigonométrique direct : le terme de droite de la première, par exemple, vaut 2^ksin⁡(π/2^k)).
+(formules qui se démontrent par calcul trigonométrique direct : le terme de droite de la première, par exemple, vaut $2^{k}\sin(\pi /2^{k})$).
 
 
 ## [Notion algébrique générale](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Notion_alg%C3%A9brique_g%C3%A9n%C3%A9rale)
@@ -126,47 +126,47 @@ La racine carrée sur ℝ est définie seulement pour les nombres positifs. Dans
    Pour tout nombre complexe non nul z = a + ib (avec a et b réels), il existe exactement deux nombres complexes w tels que w^2 = z. Ils sont opposés l'un de l'autre.
    * Si b est non nul, ils sont donnés par :
 
-       w=±(√((√(a^2+b^2)+a)/2)+i signe⁡(b)√((√(a^2+b^2)−a)/2)), avec signe⁡(b)=b/|b|.
+       $w=\pm \left({\sqrt {\frac {{\sqrt {a^{2}+b^{2}}}+a}{2}}}+\mathrm {i} \ \operatorname {signe} (b){\sqrt {\frac {{\sqrt {a^{2}+b^{2}}}-a}{2}}}\right)$, avec $\operatorname {signe} (b)={\frac {b}{|b|}}$.
    * Si b est nul et a est négatif, cette formule se simplifie en :
 
-       w=±i√|a|.
+       $w=\pm \mathrm {i} {\sqrt {|a|}}$.
    * Par ailleurs, si z n'est pas un réel négatif (c.-à-d. si b est non nul ou si a est positif),
 
-       w=± (z+|z|)/(√(2(a+|z|))).
+       $w=\pm {\frac {z+|z|}{\sqrt {2(a+|z|)}}}$.
 
 Pour trouver w = x + iy tel que w^2 = a + ib, on pose le système suivant :
 
-    {w^2=z|w|^2=|z|
-    {(x+iy)^2=a+ibx^2+y^2=√(a^2+b^2)
-    {x^2−y^2+i2xy=a+ibx^2+y^2=√(a^2+b^2)
+    ${\begin{cases}w^{2}=z\\|w|^{2}=|z|\end{cases}}$
+    ${\begin{cases}(x+\mathrm {i} y)^{2}=a+\mathrm {i} b\\x^{2}+y^{2}={\sqrt {a^{2}+b^{2}}}\end{cases}}$
+    ${\begin{cases}x^{2}-y^{2}+\mathrm {i} 2xy=a+\mathrm {i} b\\x^{2}+y^{2}={\sqrt {a^{2}+b^{2}}}\end{cases}}$
 
 Par identification de la partie réelle et imaginaire, on obtient :
 
-    {x^2−y^2=a2xy=bx^2+y^2=√(a^2+b^2).
+    ${\begin{cases}x^{2}-y^{2}=a\\2xy=b\\x^{2}+y^{2}={\sqrt {a^{2}+b^{2}}}.\end{cases}}$
 
 On en déduit alors x^2 et y^2 en ajoutant et soustrayant les première et troisième équations. Le signe du produit xy est celui de b, d'où la première expression des deux couples de solutions pour x et y.
 
 Mais une manière moins traditionnelle de résoudre ce système est de faire dans un premier temps seulement la somme (des première et troisième équations) :
 
-    2x=±√(2(a+|z|)),
+    $2x=\pm {\sqrt {2(a+|z|)}}$,
 
 ce qui, si z n'est pas un réel négatif, mène à la dernière formule.
 
 Les deux racines carrées de i sont
 
-    1 + i/√2 = e^{iπ/4}=cos⁡ π/4+isin⁡ π/4 ≈ 0,707 + 0,707 i
+    1 + i/√2 = $\mathrm {e} ^{\frac {\mathrm {i} \pi }{4}}=\cos {\frac {\pi }{4}}+\mathrm {i} \sin {\frac {\pi }{4}}$ ≈ 0,707 + 0,707 i
 
 et son opposé.
 
-Pour des raisons de nature topologique, il est impossible de prolonger la fonction racine carrée, de ℝ+ dans ℝ+, en une fonction continue f:C→C vérifiant f(z)^2 = z.
+Pour des raisons de nature topologique, il est impossible de prolonger la fonction racine carrée, de ℝ+ dans ℝ+, en une fonction continue $f:\mathbb {C} \rightarrow \mathbb {C}$ vérifiant f(z)^2 = z.
 
-On appelle détermination de la racine carrée sur un ouvert U de ℂ toute fonction continue f:U→C vérifiant f(z)^2=z.
+On appelle détermination de la racine carrée sur un ouvert U de ℂ toute fonction continue $f:U\rightarrow \mathbb {C}$ vérifiant $f(z)^{2}=z$.
 
 La détermination principale de la racine carrée est la fonction de ℂ dans ℂ ainsi définie : si z s’écrit sous forme trigonométrique z = r e^{iφ} avec –π < φ ≤ π, alors on pose f(z) = √r e^{iφ/2}. Cette détermination principale n’est continue en aucun point de la demi-droite des réels strictement négatifs, et est holomorphe sur son complémentaire.
 
 Quand le nombre est dans sa forme algébrique z = a + ib, cette définition se traduit par :
 
-    f(a+ib)=√((|a+ib|+a)/2)±i√((|a+ib|−a)/2)
+    $f(a+ib)={\sqrt {\frac {\left|a+\mathrm {i} b\right|+a}{2}}}\pm \mathrm {i} {\sqrt {\frac {\left|a+\mathrm {i} b\right|-a}{2}}}$
 
 où le signe de la partie imaginaire de la racine est
 
@@ -174,7 +174,7 @@ où le signe de la partie imaginaire de la racine est
 * si b = 0 et a < 0 : le signe +
 * si b = 0 et a ≥ 0 : pas de signe (le nombre est nul).
 
-Notons qu’à cause de la nature discontinue de la détermination principale de la racine carrée dans le plan complexe, la relation √(zz^′)=√z√(z^′) devient fausse en général.
+Notons qu’à cause de la nature discontinue de la détermination principale de la racine carrée dans le plan complexe, la relation ${\sqrt {zz'}}={\sqrt {z}}{\sqrt {z'}}$ devient fausse en général.
 
 
 ### [Racines carrées de matrices et d’opérateurs](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Racines_carr%C3%A9es_de_matrices_et_d%E2%80%99op%C3%A9rateurs)

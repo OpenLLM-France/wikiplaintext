@@ -286,6 +286,7 @@ if __name__ == "__main__":
                 repeat_headers=repeat_headers,
                 keep_tables=True,
                 use_superscript=True,
+                use_latex=True,
             )
             with open(file_in, "r") as f:
                 html_body = f.read()
@@ -322,6 +323,7 @@ if __name__ == "__main__":
                     )
                 if add_example_no_superscript:
                     kwargs["use_superscript"] = False
+                    kwargs["use_latex"] = False
                     text = clean_html(html_body, **kwargs)
                     markdown_file_out = os.path.join(this_dir, "examples_markdown", filename + "_nosuperscript.md")
                     if markdown_file_out not in has_generated_examples:

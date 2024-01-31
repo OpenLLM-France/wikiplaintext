@@ -26,6 +26,7 @@ def dump_wiki_html_plaintext(
     language="fr",
     source="wikipedia",
     use_superscript=True,
+    use_latex=True,
     prefix="",
     clean_text=True,
     per_json=10000,
@@ -94,7 +95,7 @@ def dump_wiki_html_plaintext(
                     f"{filename}.{format}"
                 ) for format in ("html", "txt")]
 
-                def dump_html():
+                def do_dump_html():
                     try:
                         os.makedirs(os.path.dirname(html_filename), exist_ok=True)
                         with open(html_filename, "w") as f:
@@ -105,9 +106,9 @@ def dump_wiki_html_plaintext(
                         raise err
 
                 if (anomaly_redirection or 
-                    (dump_html and (not os.path.isfile(html_filename) or ignore_if_exists) and (not is_redirect or dump_html_redirection))
+                    (dump_html and (not os.path.isfile(html_filename) or not ignore_if_exists) and (not is_redirect or dump_html_redirection))
                     ):
-                    dump_html()
+                    do_dump_html()
 
                 if anomaly_redirection:
                     raise RuntimeError(anomaly_redirection)
@@ -115,7 +116,8 @@ def dump_wiki_html_plaintext(
                 if is_redirect:
                     continue
 
-                if clean_text and (not os.path.isfile(cleaned_filename) or ignore_if_exists):
+                if clean_text and (not os.path.isfile(cleaned_filename) or not ignore_if_exists):
+                    print(f"NOCOMMIT cleaning {i_group=} {i_page=} {page_title=} {page_id=} {filename=} {cleaned_filename=}")
                     try:
                         text = clean_html(
                             page_body,
@@ -124,13 +126,15 @@ def dump_wiki_html_plaintext(
                             add_title=page_title,
                             keep_tables=keep_tables,
                             use_superscript=use_superscript,
+                            use_latex=use_latex,
                         )
+                        print("OK")
                     except Exception as err:
-                        dump_html()
+                        do_dump_html()
                         raise RuntimeError(f"Failed to clean {html_filename}") from err
                     if not text or not re.search("\n", text):
                         print(f"WARNING: no text in {page_title}")
-                        dump_html()
+                        # do_dump_html()
                         continue
                     os.makedirs(os.path.dirname(cleaned_filename), exist_ok=True)
                     try:
@@ -211,6 +215,7 @@ if __name__ == "__main__":
                         help="Version to download. Example: 20231120")
     parser.add_argument("--no_tables", action="store_false", default=True, dest="keep_tables", help="Don't keep tables")
     parser.add_argument("--no_superscripts", action="store_false", default=True, dest="use_superscript", help="Disable superscript")
+    parser.add_argument("--no_latex", action="store_false", default=True, dest="use_latex", help="Disable latex")
     parser.add_argument("--no_clean", action="store_false", default=True, dest="clean_text",
                         help="Do not perform text cleaning. Only download dump")
     parser.add_argument("--dump_html", action="store_true", default=False,
@@ -266,6 +271,7 @@ if __name__ == "__main__":
             dump_html=args.dump_html,
             keep_tables=args.keep_tables,
             use_superscript=args.use_superscript,
+            use_latex=args.use_latex,
             subset=subset,
         )
 

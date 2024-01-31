@@ -37,6 +37,7 @@ def clean_html(
     hashtag_header=True,
     repeat_headers=True,
     use_superscript=True,
+    use_latex=True,
     from_dump=None,
 ):
     """
@@ -49,6 +50,7 @@ def clean_html(
     :param hashtag_header: Add hashtags before the headers (# for level 1, ## for level 2, etc.) as in markdown format
     :param repeat_headers: Repeat all headers from previous level at the beginning of each section
     :param use_superscript: Use subscript and superscript characters for numbers when relevant
+    :param use_latex: keep LaTeX when it's there, for math formulas
     """
     global CURRENT_PREFIX # This is not thread-safe because of this global variable
     CURRENT_PREFIX = ""
@@ -62,10 +64,11 @@ def clean_html(
         source = "wikipedia"
     ignore_from_section = IGNORE_FROM_SECTION.get(source, {}).get(language, [])
     section_dependent_postproc = POSTPROC_SECTION.get(source, {}).get(language, {})
-    ignore_node = HTML_NODE_IGNORED.get(language, lambda x: False)
+    ignore_node = HTML_NODE_IGNORED.get(language, HTML_NODE_IGNORED["en"])
     kwargs_extract_text_header = dict(
         superscript_conversion = SUPERSCRIPTS_TO_AVOID.get(language, []) if not use_superscript else SuperScriptConverstion.ALL_OR_NONE,
         subscript_conversion = SUBSCRIPTS_TO_AVOID.get(language, SUBSCRIPTS_TO_AVOID.get("", [])) if not use_superscript else SuperScriptConverstion.ALL_OR_NONE,
+        use_latex_if_possible = use_latex,
         looks_like_linktodiscard = LINKS_TO_DISCARD_FUN.get(language, lambda text:False),
     )
     kwargs_extract_text = kwargs_extract_text_header | dict(postproc = None)
@@ -234,6 +237,7 @@ def extract_text_in_paragraph(
     node,
     superscript_conversion, #=True,
     subscript_conversion,
+    use_latex_if_possible,
     looks_like_linktodiscard, #=lambda text:False,
     postproc=None,
     remove_annotations=True,
@@ -351,7 +355,32 @@ def extract_text_in_paragraph(
     # Workaround for math
     for subnode in node.find_all("math", recursive=recursive):
         text = subnode.get_text()
-        text = re.sub(r"\{\\displaystyle.*\}\n+$", "", text)
+        if use_latex_if_possible:
+            if "{\displaystyle" in text:
+                i = re.search(r"\{\\displaystyle", text)
+                offset = i.end()
+                try:
+                    j = text.index("}", offset)
+                except ValueError:
+                    warnings.warn("Unbalanced brackets in math formula")
+                    j = len(text)
+                num_opening_brackets = len(re.findall("{", text[offset:j]))
+                while num_opening_brackets:
+                    newj = j
+                    for _ in range(num_opening_brackets):
+                        try:
+                            newj = text.index("}", newj+1)
+                        except ValueError:
+                            warnings.warn("Unbalanced brackets in math formula")
+                            break
+                    num_opening_brackets = len(re.findall("{", text[j:newj]))
+                    j = newj
+                text = text[i.end():j]
+                text = f"${text.strip()}$"
+                subnode.replace_with(text)
+                continue
+        else:
+            text = re.sub(r"\{\\displaystyle.*\}\n+$", "", text)
         startswith_space = re.match(r"\n{3,}", text)
         endswith_space = re.search(r"\n{3,}$", text)
         text = re.sub("\n", "", text)
@@ -692,11 +721,6 @@ def get_table_border(table):
     if not m:
         return None
     return m.group(1).strip()
-
-_filter_part_function = {
-    "fr": lambda x: any_starts_with(x.get("class"), ["bandeau-", "infobox"])
-}
-
 
 
 if __name__ == "__main__":

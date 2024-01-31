@@ -457,6 +457,23 @@ IGNORE_FROM_SECTION = {
             "Annexes",
             "Related articles",
         ],
+        "de": [
+            "Anmerkungen",
+            "Einzelnachweise",
+            "Siehe auch", "Literatur",
+            "Weblinks",
+            "Bibliographie",
+            "Annexes", "Fußnoten",
+            "Verwandte Artikel",
+        ],
+        "es": [
+            "Notas",
+            "Referencias", #"Bibliografía",
+            "Véase también",
+            "Enlaces externos",
+            "Anexos",
+            "Artículos relacionados",
+        ]
     },
 }
 
@@ -464,6 +481,8 @@ IGNORE_FROM_SECTION = {
 LINKS_TO_DISCARD_FUN = {
     "fr": lambda text: bool(re.search(r"\bmodifier\b", text)),
     "en": lambda text: bool(re.search(r"\bedit\b", text)),
+    "de": lambda text: bool(re.search(r"\bbearbeiten\b", text, flags=re.IGNORECASE)),
+    "es": lambda text: bool(re.search(r"\beditar\b", text)),
 }
 
 # All HTML object (tables, ...) following those conditions will be discarded
@@ -478,7 +497,9 @@ PROTECTED_SPACE = "␣␣␣"
 
 SUPERSCRIPTS_TO_AVOID = {
     "fr" : ["e", "er", "re", "ère", "ème", "nd", "nde"],
+    "es" : ["a", "o", "er", "ra", "ro", "nda", "ndo"],
     "en" : ["st", "nd", "rd", "th"],
+    "de": ["er", "re", "nd", "nde"],
 }
 
 SUBSCRIPTS_TO_AVOID = {
