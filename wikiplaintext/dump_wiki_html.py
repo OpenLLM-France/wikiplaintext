@@ -117,7 +117,6 @@ def dump_wiki_html_plaintext(
                     continue
 
                 if clean_text and (not os.path.isfile(cleaned_filename) or not ignore_if_exists):
-                    print(f"NOCOMMIT cleaning {i_group=} {i_page=} {page_title=} {page_id=} {filename=} {cleaned_filename=}")
                     try:
                         text = clean_html(
                             page_body,
@@ -128,7 +127,6 @@ def dump_wiki_html_plaintext(
                             use_superscript=use_superscript,
                             use_latex=use_latex,
                         )
-                        print("OK")
                     except Exception as err:
                         do_dump_html()
                         raise RuntimeError(f"Failed to clean {html_filename}") from err

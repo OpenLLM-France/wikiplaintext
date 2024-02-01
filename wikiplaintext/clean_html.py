@@ -584,7 +584,10 @@ class HtmlTable:
         header_colspans = []
         rows = self.body.find_all("tr", recursive=False)
         previous_rowspan = {}
+        num_columns = 0
+        max_colspan = 50
         for irow, row in enumerate(rows):
+            num_columns_current = 0
             self.rows.append([])
             has_content = False
             colspans = []
@@ -606,6 +609,13 @@ class HtmlTable:
                         rowspan = int(rowspan)
                     except ValueError:
                         rowspan = 1
+                if irow == 0:
+                    num_columns += colspan
+                else:
+                    max_colspan = num_columns - num_columns_current - (len(cols) - icol - 1)
+                    if max_colspan > 0:
+                        colspan = min(colspan, max_colspan)
+                num_columns_current += colspan
 
                 # Add previous rowspan
                 if previous_rowspan and icol in previous_rowspan:
