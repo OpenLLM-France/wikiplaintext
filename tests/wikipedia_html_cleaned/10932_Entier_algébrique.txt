@@ -8,7 +8,7 @@ Cette définition a émergé au cours du XIXᵉ siècle, en particulier dans le
 
 Un entier algébrique est une racine d'un polynôme unitaire à coefficients dans ℤ.
 Les entiers algébriques forment un anneau : la somme, la différence ou le produit de deux entiers algébrique est encore un entier algébrique.
-L'intersection de cet anneau (commutatif, unifère) intègre avec un sous-corps K de ℂ s'appelle l'anneau des entiers de K, souvent noté O_K.
+L'intersection de cet anneau (commutatif, unifère) intègre avec un sous-corps K de ℂ s'appelle l'anneau des entiers de K, souvent noté O$_K$.
 Un entier algébrique est en particulier un nombre algébrique. À ce titre, il engendre un corps de nombres, c'est-à-dire une extension finie du corps ℚ des rationnels. Mais tous les nombres algébriques ne sont pas des entiers algébriques (par exemple 1/2 est algébrique mais pas entier). Pour tout nombre algébrique α, de polynôme minimal P :
 * α est un entier algébrique si et seulement si P est à coefficients dans ℤ ;
 * il existe un entier n > 0 tel que nα soit un entier algébrique (il suffit de prendre pour n le produit des dénominateurs des coefficients de P).
@@ -39,9 +39,9 @@ Les entiers de Gauss sont utilisés pour la résolution de certaines équations 
 ### Entier quadratique
 
 L'anneau des entiers de Gauss est le prototype d'anneau des entiers d'un corps quadratique, c'est-à-dire d'un corps de la forme ℚ(√d) pour un certain entier relatif d sans facteur carré. Dans le cas où d est négatif, la notation √d, spécifique à ce contexte et commentée dans les deux articles détaillés, désigne l'imaginaire pur i√|d| ; ainsi, les entiers de Gauss correspondent au cas d = –1. Mais pour d'autres valeurs de d, comme d = 5, l'anneau des entiers de ℚ(√d) n'est pas réduit à ℤ[√d]. Plus précisément :
-   L'anneau O_{ℚ(√d)} des entiers du corps quadratique ℚ(√d) est ℤ[ω], où le nombre complexe ω est défini par :
+   L'anneau O$_{ℚ(√d)}$ des entiers du corps quadratique ℚ(√d) est ℤ[ω], où le nombre complexe ω est défini par :
    ω=(1+√d)/2 si d≡1 mod 4etω=√d sinon.
-Le corps des fractions de cet anneau, ainsi que de tout sous-anneau A contenant strictement ℤ, est égal à ℚ(√d), et la fermeture intégrale de A dans ℚ(√d) est O_{ℚ(√d)} (cf. § « Anneau intégralement clos » ci-dessous). Par conséquent O_{ℚ(√d)} est, comme ℤ, intégralement clos, mais aucun anneau intermédiaire ne l'est. Ces anneaux intermédiaires sont a fortiori non factoriels (donc non principaux) : dans tous ces anneaux (puisqu'ils sont noethériens, comme ℤ[ω]), tout élément non nul possède une décomposition en produit d'éléments irréductibles mais pas toujours unique, ou, ce qui revient au même, pas toujours en produit d'éléments premiers.
+Le corps des fractions de cet anneau, ainsi que de tout sous-anneau A contenant strictement ℤ, est égal à ℚ(√d), et la fermeture intégrale de A dans ℚ(√d) est O$_{ℚ(√d)}$ (cf. § « Anneau intégralement clos » ci-dessous). Par conséquent O$_{ℚ(√d)}$ est, comme ℤ, intégralement clos, mais aucun anneau intermédiaire ne l'est. Ces anneaux intermédiaires sont a fortiori non factoriels (donc non principaux) : dans tous ces anneaux (puisqu'ils sont noethériens, comme ℤ[ω]), tout élément non nul possède une décomposition en produit d'éléments irréductibles mais pas toujours unique, ou, ce qui revient au même, pas toujours en produit d'éléments premiers.
 Par exemple, puisque –3 est congru à 1 modulo 4, l'anneau des entiers de ℚ(i√3) est l'anneau ℤ[(1 + i√3)/2] des entiers d'Eisenstein (euclidien, et égal à ℤ[j] si j désigne une racine cubique primitive de l'unité). Le sous-anneau ℤ[i√3] n'est pas factoriel : dans ce sous-anneau, l'entier 4 admet deux décompositions en facteurs irréductibles :
 4=2×2=(1+i√3)(1−i√3).
 Même l'anneau des entiers de ℚ(√d), bien qu'intégralement clos, n'est pas toujours factoriel, comme en témoignent l'exemple d = –5 et le théorème de Stark-Heegner.
@@ -55,8 +55,8 @@ L'intérêt de l'anneau des entiers algébriques d'un corps quadratique ou cyclo
 ## Structure
 ### Anneau intégralement clos
 
-   Tout corps de nombres K est le corps des fractions de l'anneau O_K de ses entiers, et O_K est intégralement clos.
-La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel (cf. § « Définitions » ci-dessus), si bien que K = ℚO_K. La seconde en résulte parce que tout élément entier sur un anneau d'entiers algébriques est lui-même un entier algébrique (cf. corollaire 2 de l'article « Élément entier »).
+   Tout corps de nombres K est le corps des fractions de l'anneau O$_K$ de ses entiers, et O$_K$ est intégralement clos.
+La première propriété vient du fait que tout nombre algébrique est produit d'un entier algébrique par un rationnel (cf. § « Définitions » ci-dessus), si bien que K = ℚO$_K$. La seconde en résulte parce que tout élément entier sur un anneau d'entiers algébriques est lui-même un entier algébrique (cf. corollaire 2 de l'article « Élément entier »).
 
 # Entier algébrique
 ## Structure

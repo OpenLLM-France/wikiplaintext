@@ -12,7 +12,7 @@ def get_links(url, regex=None):
     response = requests.get(url)
     if response.status_code != 200:
         raise RuntimeError(
-            f"Failed to download {url}. Status code {response.status_code}")
+            f"Failed to download {url} (Status code {response.status_code})")
     html = response.text
 
     # Parse the html with BeautifulSoup
@@ -79,7 +79,7 @@ def download_file(file_url, local_filename, expected_md5=None, ignore_if_exists=
         elif verbose:
             print(f"{file_url} already downloaded in {local_filename} (skipping)")
 
-        if False: # NOCOMMIT expected_md5:
+        if False: # expected_md5: # Disabled because of possible memory error (md5 hash has to be computed smartly, and it will take time...)
             with open(local_filename, "rb") as f:
                 md5 = hashlib.md5(f.read()).hexdigest()
             if md5 != expected_md5:

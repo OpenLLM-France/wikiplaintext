@@ -34,8 +34,8 @@ La fonction racine carrée vérifie les propriétés élémentaires suivantes va
 * Elle est 1/2-höldérienne donc uniformément continue.
 * Elle est dérivable en tout réel strictement positif x, mais elle n’est pas dérivable en x = 0. En ce point, la courbe représentative admet une demi-tangente verticale. Sa fonction dérivée est donnée par :
     d/dx √x=1/2√x.
-* Elle est de classe C^∞ sur ℝ₊* : ∀n∈N dⁿ/dxⁿ √x=(−1)ⁿ⁺¹ (2n)!/n!2²ⁿ(2n−1) 1/xⁿ⁻¹ᐟ².
-* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑ₙ₌₁^∞aₙhⁿ avec aₙ=(2n)!/(n!)²2²ⁿ(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : aₙ=Cₙ₋₁/2²ⁿ⁻¹. Les premières valeurs sont a₁=1/2, a₂=1/8, a₃=1/16, a₄=5/128.
+* Elle est de classe C$^∞$ sur ℝ₊* : ∀n∈N dⁿ/dxⁿ √x=(−1)ⁿ⁺¹ (2n)!/n!2²ⁿ(2n−1) 1/xⁿ⁻¹ᐟ².
+* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑ₙ₌₁$^∞$aₙhⁿ avec aₙ=(2n)!/(n!)²2²ⁿ(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : aₙ=Cₙ₋₁/2²ⁿ⁻¹. Les premières valeurs sont a₁=1/2, a₂=1/8, a₃=1/16, a₄=5/128.
 
 # Racine carrée
 ## Extraction de racines carrées
@@ -65,9 +65,9 @@ Ces formules se généralisent, ce qui donne en particulier, pour tout réel n�
 ### Pi
 
 Le nombre π s’exprime sous la forme d’une itération infinie de racines carrées :
-    π=lim_{k→∞}(2ᵏ⋅√(2−√(2+√(2+√(2+⋯√(2+√2)))))) , où k est le nombre de racines carrées emboitées
+    π=lim$_{k→∞}$(2ᵏ⋅√(2−√(2+√(2+√(2+⋯√(2+√2)))))) , où k est le nombre de racines carrées emboitées
 Ou encore :
-    π=lim_{k→∞}(3⋅2ᵏ⁻¹⋅√(2−√(2+√(2+√(2+⋯√(2+√(2+√3)))))))
+    π=lim$_{k→∞}$(3⋅2ᵏ⁻¹⋅√(2−√(2+√(2+√(2+⋯√(2+√(2+√3)))))))
 (formules qui se démontrent par calcul trigonométrique direct : le terme de droite de la première, par exemple, vaut 2ᵏsin⁡(π/2ᵏ)).
 
 # Racine carrée
@@ -101,7 +101,7 @@ Mais une manière moins traditionnelle de résoudre ce système est de faire dan
     2x=±√(2(a+|z|)),
 ce qui, si z n'est pas un réel négatif, mène à la dernière formule.
 Les deux racines carrées de i sont
-    1 + i/√2 = e^{iπ/4}=cos⁡ π/4+isin⁡ π/4 ≈ 0,707 + 0,707 i
+    1 + i/√2 = e$^{iπ/4}$=cos⁡ π/4+isin⁡ π/4 ≈ 0,707 + 0,707 i
 et son opposé.
 Pour des raisons de nature topologique, il est impossible de prolonger la fonction racine carrée, de ℝ₊ dans ℝ₊, en une fonction continue f:C→C vérifiant f(z)² = z.
 On appelle détermination de la racine carrée sur un ouvert U de ℂ toute fonction continue f:U→C vérifiant f(z)²=z.

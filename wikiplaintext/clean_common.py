@@ -146,8 +146,8 @@ def to_superscript(d, conversion=SuperScriptConverstion.WHAT_POSSIBLE):
         return to_superscript(d, SuperScriptConverstion.NONE)
     if conversion == SuperScriptConverstion.NONE:
         if len(d) == 1:
-            return f"^{d}"
-        return f"^{{{d}}}"
+            return f"$^{d}$"
+        return f"$^{{{d}}}$"
     if len(d) > 1:
         return "".join([to_superscript(x) for x in d])
     return _superscript.get(d, d)
@@ -170,8 +170,8 @@ def to_subscript(d, conversion=SuperScriptConverstion.WHAT_POSSIBLE):
         return to_subscript(d, SuperScriptConverstion.NONE)
     if conversion == SuperScriptConverstion.NONE:
         if len(d) == 1:
-            return f"_{d}"
-        return f"_{{{d}}}"
+            return f"$_{d}$"
+        return f"$_{{{d}}}$"
     if len(d) > 1:
         return "".join([to_subscript(x) for x in d])
     return _subscript.get(d, d)

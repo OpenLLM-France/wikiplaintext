@@ -12,6 +12,7 @@
    * [Nom commun](#nom-commun)
 ---
 # [cinquante-six](https://fr.wiktionary.org/wiki/cinquante-six)
+
 ## [Français](https://fr.wiktionary.org/wiki/cinquante-six#Fran%C3%A7ais)
 
 | 0 | zéro | 10 | dix | 20 | vingt | 30 | trente | 40 | quarante | 50 | cinquante | 60 | soixante | 70 | soixante-dix | 80 | quatre-vingts | 90 | quatre-vingt-dix |
@@ -62,11 +63,9 @@
 | 1 000 000¹⁷ = 1 000¹⁺³³ | septendécillion | 1 000 × 1 000 000¹⁷ = 1 000¹⁺³⁴ | septendécilliard |
 | 1 000 000¹⁸ = 1 000¹⁺³⁵ | octodécillion | 1 000 × 1 000 000¹⁸ = 1 000¹⁺³⁶ | octodécilliard |
 
-
 ### [Étymologie](https://fr.wiktionary.org/wiki/cinquante-six#%C3%89tymologie)
 
     Composé de cinquante et de six.
-
 
 ### [Adjectif numéral](https://fr.wiktionary.org/wiki/cinquante-six#Adjectif_num%C3%A9ral)
 
@@ -78,11 +77,9 @@ cinquante-six \sɛ̃.kɑ̃t.sis\, \sɛ̃.kɑ̃t.si\ (devant une consonne), \sɛ�
 * (Postposé) Cinquante-sixième. Dont l’ordre est de 56.
    * Page cinquante-six.
 
-
 **Dérivés**
 
 * cinquante-sixième
-
 
 **Traductions**
 
@@ -99,7 +96,6 @@ cinquante-six \sɛ̃.kɑ̃t.sis\, \sɛ̃.kɑ̃t.si\ (devant une consonne), \sɛ�
 * Wallon : céncwante-shijh (wa)
 * Yupik central : yuinaak malruk akimiaq atauciq (*)
 
-
 ### [Nom commun](https://fr.wiktionary.org/wiki/cinquante-six#Nom_commun)
 
 cinquante-six \sɛ̃.kɑ̃t.sis\ masculin et féminin identiques invariable
@@ -109,7 +105,6 @@ cinquante-six \sɛ̃.kɑ̃t.sis\ masculin et féminin identiques invariable
    * Il habite au cinquante-six.
    * Je vous ai mis à la cinquante-six, c’est votre place préférée.
 * (Sans article) (Par ellipse) Année qui se termine par 56, par exemple 1956.
-
 
 **Traductions**
 

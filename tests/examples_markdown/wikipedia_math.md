@@ -27,11 +27,9 @@ En algèbre et analyse, dans un anneau ou un corps A, on appelle racine carrée 
 
 La recherche de la racine carrée d'un nombre, ou extraction de la racine carrée, donne lieu à de nombreux algorithmes. La nature de la racine carrée d'un entier naturel qui n'est pas le carré d'un entier est à l'origine de la première prise de conscience de l'existence de nombres irrationnels. La recherche de racines carrées pour des nombres négatifs a conduit à l'invention des nombres complexes.
 
-
 ## [Histoire](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Histoire)
 
 La plus ancienne racine carrée connue apparaît vers 1700 av. J.-C. sur la tablette YBC 7289. Il s'agit de la représentation d'un carré avec, sur un côté, le nombre 30 et, le long de la diagonale, une valeur approchée de √2.
-
 
 ## [Construction géométrique de la racine carrée](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Construction_g%C3%A9om%C3%A9trique_de_la_racine_carr%C3%A9e)
 
@@ -48,7 +46,6 @@ La preuve consiste à remarquer que les triangles OAH et OHB sont semblables, d'
 
 Cette construction montre que la racine carrée d'un nombre constructible (par exemple un nombre rationnel positif) est encore un nombre constructible.
 
-
 ## [Fonction réelle](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Fonction_r%C3%A9elle)
 
 L’application x↦x² est une bijection de ℝ₊ sur ℝ₊ dont la réciproque est notée x↦√x. Cette fonction s’appelle la fonction racine carrée. Géométriquement, on peut affirmer que la racine carrée de l’aire d’un carré du plan euclidien est la longueur de l'un de ses côtés.
@@ -64,16 +61,15 @@ La fonction racine carrée vérifie les propriétés élémentaires suivantes va
 * Elle est dérivable en tout réel strictement positif x, mais elle n’est pas dérivable en x = 0. En ce point, la courbe représentative admet une demi-tangente verticale. Sa fonction dérivée est donnée par :
 
     d/dx √x=1/2√x.
-* Elle est de classe C^∞ sur ℝ₊* : ∀n∈N dⁿ/dxⁿ √x=(−1)ⁿ⁺¹ (2n)!/n!2²ⁿ(2n−1) 1/xⁿ⁻¹ᐟ².
-* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑ₙ₌₁^∞aₙhⁿ avec aₙ=(2n)!/(n!)²2²ⁿ(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : aₙ=Cₙ₋₁/2²ⁿ⁻¹. Les premières valeurs sont a₁=1/2, a₂=1/8, a₃=1/16, a₄=5/128.
-
+* Elle est de classe C$^∞$ sur ℝ₊* : ∀n∈N dⁿ/dxⁿ √x=(−1)ⁿ⁺¹ (2n)!/n!2²ⁿ(2n−1) 1/xⁿ⁻¹ᐟ².
+* Son développement en série de Taylor au point 1 est donc, pour tout réel h tel que |h| ≤ 1 : √(1−h)=1−∑ₙ₌₁$^∞$aₙhⁿ avec aₙ=(2n)!/(n!)²2²ⁿ(2n−1) >0, avec convergence normale sur [–1, 1] (voir le § « Développement en série entière » de l'article « Racine d'un nombre »). Les coefficients s'expriment comme quotients de nombres de Catalan par des puissances de 2 : aₙ=Cₙ₋₁/2²ⁿ⁻¹. Les premières valeurs sont a₁=1/2, a₂=1/8, a₃=1/16, a₄=5/128.
 
 ## [Extraction de racines carrées](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Extraction_de_racines_carr%C3%A9es)
 
 Le calcul de la racine carré d'un nombre positif n'est pas toujours évident, notamment pour de grands nombres. Ainsi, plusieurs algorithmes ont été développés au cours de l'histoire afin d'obtenir ce nombre. Parmi les méthodes d'extraction de racine carrée, on peut citer notamment la méthode de Héron, qui est une méthode historique qui peut être vue d'un point de vue moderne comme un cas particulier de la méthode de Newton. D'autres méthodes sont basées sur des suites adjacentes, sur des fractions continues ou sur un principe de dichotomie.
 
-
 ## [Racines carrées particulières](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Racines_carr%C3%A9es_particuli%C3%A8res)
+
 ### [Nombre d'or](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Nombre_d%27or)
 
 Si p est un nombre réel strictement positif,
@@ -83,7 +79,6 @@ Si p est un nombre réel strictement positif,
 Pour p = 1, on obtient le nombre d'or :
 
     φ=√(1+√(1+√(1+√(1+⋯)))).
-
 
 ### [Nombres entiers supérieurs à 1 sous forme de racines carrées](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Nombres_entiers_sup%C3%A9rieurs_%C3%A0_1_sous_forme_de_racines_carr%C3%A9es)
 
@@ -95,21 +90,20 @@ Ces formules se généralisent, ce qui donne en particulier, pour tout réel n�
 
     n+2=√(1+(n+1)√(1+(n+2)√(1+(n+3)√…))) et n+3=√(n+5+(n+1)√(n+6+(n+2)√(n+7+…))).
 
-
 ### [Pi](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Pi)
 
 Le nombre π s’exprime sous la forme d’une itération infinie de racines carrées :
 
-    π=lim_{k→∞}(2ᵏ⋅√(2−√(2+√(2+√(2+⋯√(2+√2)))))) , où k est le nombre de racines carrées emboitées
+    π=lim$_{k→∞}$(2ᵏ⋅√(2−√(2+√(2+√(2+⋯√(2+√2)))))) , où k est le nombre de racines carrées emboitées
 
 Ou encore :
 
-    π=lim_{k→∞}(3⋅2ᵏ⁻¹⋅√(2−√(2+√(2+√(2+⋯√(2+√(2+√3)))))))
+    π=lim$_{k→∞}$(3⋅2ᵏ⁻¹⋅√(2−√(2+√(2+√(2+⋯√(2+√(2+√3)))))))
 
 (formules qui se démontrent par calcul trigonométrique direct : le terme de droite de la première, par exemple, vaut 2ᵏsin⁡(π/2ᵏ)).
 
-
 ## [Notion algébrique générale](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Notion_alg%C3%A9brique_g%C3%A9n%C3%A9rale)
+
 ### [Définition algébrique d'une racine carrée](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#D%C3%A9finition_alg%C3%A9brique_d%27une_racine_carr%C3%A9e)
 
 Soient x et a deux éléments d’un anneau A, tels que x² = a. L'élément x est alors une racine carrée de a. La notation √a est néanmoins souvent déconseillée car il peut exister plusieurs tels éléments x.
@@ -117,7 +111,6 @@ Soient x et a deux éléments d’un anneau A, tels que x² = a. L'élément x e
 En général (si l'anneau n'est pas intègre ou s'il n'est pas commutatif), un élément peut avoir plus de deux racines carrées. Par exemple dans l'anneau ℤ/9ℤ, les racines carrées de 0 sont 0, 3 et -3, et dans le corps gauche des quaternions, tout réel strictement négatif possède une infinité de racines carrées.
 
 Dans le cas des nombres réels, un auteur parlant d'une racine carrée de 2, traite d'un des deux éléments √2 ou bien -√2. En revanche, l'expression la racine carrée de deux évoque toujours la solution positive. Comme l'expression √2 est toujours positive et le terme fonction racine définie sur les réels positifs désigne toujours la valeur positive, on évite cette confusion dans les enseignements un peu élémentaires des mathématiques en ne faisant usage que de l'expression : la racine carrée, alors toujours positive.
-
 
 ### [Racines carrées de nombres complexes](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Racines_carr%C3%A9es_de_nombres_complexes)
 
@@ -154,7 +147,7 @@ ce qui, si z n'est pas un réel négatif, mène à la dernière formule.
 
 Les deux racines carrées de i sont
 
-    1 + i/√2 = e^{iπ/4}=cos⁡ π/4+isin⁡ π/4 ≈ 0,707 + 0,707 i
+    1 + i/√2 = e$^{iπ/4}$=cos⁡ π/4+isin⁡ π/4 ≈ 0,707 + 0,707 i
 
 et son opposé.
 
@@ -175,7 +168,6 @@ où le signe de la partie imaginaire de la racine est
 * si b = 0 et a ≥ 0 : pas de signe (le nombre est nul).
 
 Notons qu’à cause de la nature discontinue de la détermination principale de la racine carrée dans le plan complexe, la relation √(zz′)=√z√(z′) devient fausse en général.
-
 
 ### [Racines carrées de matrices et d’opérateurs](https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e#Racines_carr%C3%A9es_de_matrices_et_d%E2%80%99op%C3%A9rateurs)
 

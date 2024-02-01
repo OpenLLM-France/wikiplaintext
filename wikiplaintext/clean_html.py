@@ -371,7 +371,7 @@ def extract_text_in_paragraph(
                         try:
                             newj = text.index("}", newj+1)
                         except ValueError:
-                            warnings.warn("Unbalanced brackets in math formula")
+                            # warnings.warn("Unbalanced brackets in math formula")
                             break
                     num_opening_brackets = len(re.findall("{", text[j:newj]))
                     j = newj
@@ -662,7 +662,7 @@ class HtmlTable:
                 if rowspan > 1:
                     for i in range(colspan):
                         if i+icol in previous_rowspan and colspan > 1: # and collapse_whitespace(previous_rowspan[i+icol][1], 3) == collapse_whitespace(text, 3):
-                            print(f"WARNING: Overlapping rowspan for {i+icol} (previous {previous_rowspan[i+icol]}, new: {[rowspan-1, text]})")
+                            # warnings.warn(f"Overlapping rowspan for {i+icol} (previous {previous_rowspan[i+icol]}, new: {[rowspan-1, text]})")
                             continue
                         assert i+icol not in previous_rowspan, f"Overlapping rowspan for {i+icol} (previous {previous_rowspan[i+icol]}, new: {[rowspan-1, text]})"
                         previous_rowspan[i+icol] = [rowspan-1, text]

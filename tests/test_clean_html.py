@@ -16,6 +16,7 @@ lib_dir = os.path.join(os.path.dirname(this_dir), "wikiplaintext")
 sys.path.append(lib_dir)
 
 from clean_html import clean_html
+from plaintext_to_markdown import plaintext_to_markdown
 
 def relative_filename(filename, quote = True):
     filename = os.path.sep.join(filename.split(os.path.sep)[-2:])
@@ -23,153 +24,32 @@ def relative_filename(filename, quote = True):
         filename = shlex.quote(filename)
     return filename
 
-def plaintext_to_markdown(
-    text,
-    fileout,
-    website_main,
-    filename_plaintext,
-    filename_html,
-    ):
-    lines = text.split("\n")
 
-    # Add :
-    # - table headers
-    # - new lines after table
-    # - new lines after list
-    # - new lines after lines
-    new_lines = []
-    was_list = False
-    was_table = False
-    headers = []
-    url = None
-    toc = []
-    markdown_subsections = []
-    section_urls = []
-
-    for line in lines:
-        line = line+"\n"
-        line_before = ""
-        line_after = ""
-
-        # Process lists
-        if re.match(r"[\*> ]+ ", line):
-
-            if re.match(r" + ", line):
-                was_list = True
-                if new_lines and new_lines[-1].lstrip().startswith("*"):
-                    line_before = "\n"
-            else:
-                was_list = True
-            if re.match(r"\*+ ", line):
-                last_bullet = re.match(r"\*+", line).end()
-                bullet = line[:last_bullet]
-                line = line[last_bullet:]
-                line = f"{' '*(len(bullet)-1)*3}*{line}"
-            elif re.match(r"\*+>+ ", line):
-                last_bullet = re.match(r"\*+", line).end()
-                bullet = line[:last_bullet]
-                line = line[last_bullet:]
-                line = f"{' '*(len(bullet))*3}{line}"
-            if was_table:
-                line_before = "\n"
-                was_table = False
-
-        # Process tables
-        elif re.match("^\|.*\|\n", line):
-            if not was_table:
-                # Add header separator
-                num_columns = len(line.split("|")) - 2
-                line_after = "|" + " - |" * num_columns + "\n"
-            was_table = True
-            if was_list:
-                line_before = "\n"
-                was_list = False
-
-        else:
-            # Add new lines after lists and tables
-            if was_list or was_table:
-                line_before = "\n"
-                was_list = was_table = False
-
-            # Process headers
-            if re.match(r"^\#+ ", line):
-                hashtags, line = line.split(" ", 1)
-                title = line.strip()
-                markdown_subsection = re.sub(r" +", "-", re.sub(r"[^\w ]", "", title.lower()))
-                url_subsection = urllib.parse.quote(title.replace(' ','_'))
-                level = len(hashtags)
-                if level > 3:
-                    line = f"**{title}**\n"
-                else:
-                    
-                    if level > 1:
-                        section_url = f"{url}#{url_subsection}"
-                    else:
-                        if not url:
-                            url = f"https://fr.{website_main}.org/wiki/{url_subsection}"
-                        section_url = url
-                    
-                    header_line = f"{hashtags} [{line.strip()}]({section_url})\n"
-
-                    ilevel = level - 1
-                    do_print = False
-                    # if "Formules empiriques" in line:
-                    #     import pdb; pdb.set_trace()
-                    while ilevel >= len(headers):
-                        headers.append(None)
-                    do_print = (headers[ilevel] != header_line)
-                    headers[ilevel] = header_line
-
-                    if do_print:
-                        if markdown_subsection in markdown_subsections:
-                            i = 1
-                            while markdown_subsection + f"-{i}" in markdown_subsections:
-                                i += 1
-                            markdown_subsection += f"-{i}"
-                        if section_url in section_urls:
-                            # No way to link to the second subsection with the same title in Wikipedia (?)
-                            header_line = f"{hashtags} {line.strip()}\n"
-                        markdown_subsections.append(markdown_subsection)
-                        section_urls.append(section_url)
-                        headers = headers[:ilevel+1]
-                        line = header_line
-                        toc_line = f"[{title}](#{markdown_subsection})"
-                        if level > 1:
-                            toc_line = f"{' '*(level-2)*3}* " + toc_line
-                        toc.append(toc_line)
-                    else:
-                        line = ""
-
-            else:
-
-                # Add new lines after simple lines
-                if line.strip():
-                    line_after = "\n"
-
-        new_lines.append(line_before + line + line_after)
-
-    toc = '\n'.join(toc)
-
-    if url is None:
-        raise ValueError("No URL found")
-
+def augmented_plaintext_to_markdown(
+        text,
+        markdown_file_out,
+        website_main,
+        rfile_out,
+        rfile_in,
+):
+    (text_markdown, url) = plaintext_to_markdown(
+        text,
+        website_main,
+        add_toc=True,
+        add_urls=True,
+    )
     prefix = f"""\
 `This is the markdown version of `[`{urllib.parse.unquote(url)}`]({url})
 
-`Plaintext version:..............`[`{os.path.basename(filename_plaintext)}`](../{filename_plaintext})
+`Plaintext version:..............`[`{os.path.basename(rfile_out)}`](../{rfile_out})
 
-`Original HTML version:..........`[`{os.path.basename(filename_html)}`](../{filename_html})
+`Original HTML version:..........`[`{os.path.basename(rfile_in)}`](../{rfile_in})
 
 
-{toc}
----
 """
-
-    os.makedirs(os.path.dirname(fileout), exist_ok=True)
-    with open(fileout, "w") as f:
-        f.write(prefix)
-        for line in new_lines:
-            f.write(line)
+    os.makedirs(os.path.dirname(markdown_file_out), exist_ok=True)
+    with open(markdown_file_out, "w") as f:
+        f.write(prefix + text_markdown)
 
 if __name__ == "__main__":
 
@@ -316,11 +196,13 @@ if __name__ == "__main__":
                         "------------>",
                         relative_filename(markdown_file_out),
                         "\n"
+                        
                     )
-                    plaintext_to_markdown(
+                    augmented_plaintext_to_markdown(
                         text, markdown_file_out,
                         website_main, rfile_out, rfile_in,
                     )
+
                 if add_example_no_superscript:
                     kwargs["use_superscript"] = False
                     kwargs["use_latex"] = True
@@ -333,7 +215,7 @@ if __name__ == "__main__":
                             relative_filename(markdown_file_out),
                             "\n"
                         )
-                        plaintext_to_markdown(
+                        augmented_plaintext_to_markdown(
                             text, markdown_file_out,
                             website_main, rfile_out, rfile_in,
                         )

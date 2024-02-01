@@ -13,8 +13,9 @@ import regex as re
 import tarfile, gzip
 import json
 import requests
+import glob
 from slugify import slugify
-
+import warnings
 
 from clean_html import clean_html
 from scrape_utils import get_latest_versions, get_links, download_file, simple_slugify
@@ -131,8 +132,7 @@ def dump_wiki_html_plaintext(
                         do_dump_html()
                         raise RuntimeError(f"Failed to clean {html_filename}") from err
                     if not text or not re.search("\n", text):
-                        print(f"WARNING: no text in {page_title}")
-                        # do_dump_html()
+                        # warnings.warn(f"no text in {page_title}")
                         continue
                     os.makedirs(os.path.dirname(cleaned_filename), exist_ok=True)
                     try:
@@ -146,23 +146,32 @@ def dump_wiki_html_plaintext(
 
 def download_html_dump(url, version, language, source, output_dir, verbose=True, do_clean=False):
     url_folder = f"{url}/{version}"
+    output_folder = os.path.join(output_dir, f"{language}{source}_ndjson")
+
+    if os.path.isdir(output_folder):
+        return output_folder
 
     regex=rf"{language}{source}\-NS0\-.*HTML.json.tar.gz$"
-    json_targz_file = get_links(url_folder, regex=regex)
+    regex_glob=rf"{language}{source}-NS0-*HTML.json.tar.gz"
+    candidates = glob.glob(os.path.join(output_dir, regex_glob))
+    if len(candidates) == 1:
+        output_targz_file = candidates[0]
+        json_targz_file = os.path.basename(output_targz_file)
+        expected_md5 = None
+    else:
+        json_targz_file = get_links(url_folder, regex=regex)
 
-    assert len(json_targz_file) == 1, f"Found find {len(json_targz_file)} files corresponding to {regex} in {url_folder} ({json_targz_file})"
-    json_targz_file = json_targz_file[0]
-    assert json_targz_file.endswith("-HTML.json.tar.gz"), f"Unexpected file {json_targz_file}"
+        assert len(json_targz_file) == 1, f"Found find {len(json_targz_file)} files corresponding to {regex} in {url_folder} ({json_targz_file})"
+        json_targz_file = json_targz_file[0]
+        assert json_targz_file.endswith("-HTML.json.tar.gz"), f"Unexpected file {json_targz_file}"
 
-    # Download the file with md5 sum
-    url_stats_json = os.path.join(url_folder, json_targz_file[:-len("-HTML.json.tar.gz")] + "-STATS.json")
-    response = requests.get(url_stats_json)
-    if response.status_code != 200:
-        raise RuntimeError(f"Failed to download {url_stats_json}. Status code {response.status_code}")
-    expected_md5 = response.json()["md5sum"]
-
-    output_targz_file = os.path.join(output_dir, json_targz_file)
-    output_folder = os.path.join(output_dir, f"{language}{source}_ndjson")
+        # Download the file with md5 sum
+        url_stats_json = os.path.join(url_folder, json_targz_file[:-len("-HTML.json.tar.gz")] + "-STATS.json")
+        response = requests.get(url_stats_json)
+        if response.status_code != 200:
+            raise RuntimeError(f"Failed to download {url_stats_json}. Status code {response.status_code}")
+        expected_md5 = response.json()["md5sum"]
+        output_targz_file = os.path.join(output_dir, json_targz_file)
 
     if not os.path.isdir(output_folder):
 

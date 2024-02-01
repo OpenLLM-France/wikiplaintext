@@ -47,26 +47,21 @@ La formule brute est l'écriture la plus compacte décrivant un composé chimiqu
 
 Cet article limite la notion de formule brute à toutes les représentations de formules chimiques écrites en ligne et ne faisant pas apparaître de liaison chimique. La présence de liaisons chimiques dans une formule est traitée dans les articles Formule développée plane, Formule semi-développée et Représentation des molécules.
 
-
 ## [Histoire](https://fr.wikipedia.org/wiki/Formule_brute#Histoire)
 
 L'écriture des formules brutes, pour remplacer les écritures alchimiques en vigueur depuis le Moyen Âge, résulte d'une succession de plusieurs stades.
-
 
 ### [Élément chimique](https://fr.wikipedia.org/wiki/Formule_brute#%C3%89l%C3%A9ment_chimique)
 
 Le premier stade de l'écriture moderne des formules brutes est la découverte des éléments chimiques par Antoine Lavoisier. Ce chimiste français, en montrant que tous les corps étaient composés d'éléments, ou principes, traçait la voie d'une nouvelle façon de penser la matière.
 
-
 ### [Nomenclature](https://fr.wikipedia.org/wiki/Formule_brute#Nomenclature)
 
 Le second stade fut la mise en place d'une nouvelle nomenclature de la chimie. Les premiers chimistes à comprendre l'importance de cette nouvelle façon de penser les corps chimiques furent Joseph Black en 1784, Claude Louis Berthollet en 1785, Louis-Bernard Guyton-Morveau et Antoine-François Fourcroy en 1786 et 1787. Avec ces trois derniers, Lavoisier élabora une nouvelle nomenclature chimique en 1787, la Méthode de nomenclature chimique. Les anciens noms étaient remplacés par une appellation utilisant les éléments chimiques (par exemple vert-de-gris devenait carbonate de cuivre, ibid p.141) ou mettait en jeu des radicaux (nitrate, sulfate, citrate) eux-mêmes basés sur des éléments chimiques (par exemple, vitriol d'argile devenait sulfate d'alumine, ibid p.142).
 
-
 ### [Symboles chimiques](https://fr.wikipedia.org/wiki/Formule_brute#Symboles_chimiques)
 
 Le troisième stade est le passage de la nomenclature aux symboles chimiques tels que nous les connaissons, H, C, O, etc. Il est dû au premier chimiste analyste Jöns Jacob Berzelius en 1813. Les formules brutes, ou formules empiriques ne diffèrent de celles en usage que par le fait que les nombres que nous écrivons en indice étaient écrits par ce chimiste suédois en exposant (CO² au lieu de CO₂).
-
 
 ### [Nomenclature officielle](https://fr.wikipedia.org/wiki/Formule_brute#Nomenclature_officielle)
 
@@ -74,12 +69,11 @@ L'écriture des formules chimiques est désormais gérée par l'IUPAC dans sa pu
 
 Les différents types de formules sont utiles pour compléter la représentation des espèces chimiques au-delà de la seule composition globale. Le corps simple soufre par exemple, de formule empirique S, est constitué de molécules regroupant 8 atomes, ce que précise la formule moléculaire S₈. Les formules structurales, comme Ca₃(PO₄)₂ pour le phosphate de calcium, indiquent comment sont organisés les atomes au sein de l'espèce chimique, au contraire de la formule brute (Ca₃P₂O₈ dans cet exemple).
 
-
 ## [Formules empiriques](https://fr.wikipedia.org/wiki/Formule_brute#Formules_empiriques)
+
 ### [Définition](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9finition)
 
 La formule empirique d'un corps est formée de la juxtaposition des symboles atomiques avec les indices appropriés (entiers) qui permettent l'écriture la plus simple de la formule donnant la composition chimique. L'ordre d'apparition des symboles est l'ordre alphabétique, sauf dans le cas des composés contenant du carbone, pour lesquels C et H sont cités en premier et en second, respectivement.
-
 
 ### [Exemples](https://fr.wikipedia.org/wiki/Formule_brute#Exemples)
 
@@ -91,7 +85,6 @@ La formule empirique d'un corps est formée de la juxtaposition des symboles ato
 * Différentes représentations du benzène de formule brute C₆H₆ : formule développée ; deux formules topologiques ; modèle moléculaire compact
 * Formule développée de l'ozone, de formule brute O₃
 
-
 ### [Cas des solides ioniques](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_solides_ioniques)
 
 Les solides ioniques ne contiennent pas de molécules distinctes mais des ions en interaction électrostatique avec de nombreux voisins. Leurs formules brutes sont alors bien décrites par des formules empiriques. Pour tous ces composés, la formule brute reflète simplement les proportions des atomes dans le composé. Le cation est placé en premier suivi de l'anion. Exemple : Na et Cl donne NaCl.
@@ -102,7 +95,6 @@ Exemples :
 * le dioxyde de silicium : SiO₂
 * le chlorure de fer(III) : FeCl₃
 
-
 ## [Formules moléculaires](https://fr.wikipedia.org/wiki/Formule_brute#Formules_mol%C3%A9culaires)
 
 Pour les composés moléculaires, qui sont des substances constituées de molécules séparées les unes des autres, les formules moléculaires, par opposition aux formules empiriques définies ci-dessus, donnent la composition réelle de la molécule. C'est le cas de la plupart des composés rencontrés en chimie organique et de nombreux composés inorganiques. Cette formule est également utilisable pour les polymères, mais en précisant avec un indice n que le nombre d'unités est variable d'une molécule à l'autre.
@@ -111,8 +103,8 @@ La formule moléculaire donne le nombre des atomes qui composent une molécule. 
 
 Les atomes constituant la molécule sont indiqués à l'aide de leurs symboles chimiques. Leur nombre est précisé en indice de chaque symbole. L'ordre recommandé est l'ordre alphabétique des symboles à une exception : le carbone et l'hydrogène des produits organiques sont toujours cités en premier et dans cet ordre, puis suivis des autres atomes par ordre alphabétique.
 
-
 ### Exemples
+
 **Composés organiques**
 
 Le propane comporte trois atomes de carbone (noté C) et huit atomes d'hydrogène (noté H), il possède la formule brute suivante : C₃H₈.
@@ -139,7 +131,6 @@ La formule empirique de l'éthylène est CH₂.
 
 La formule empirique du butane est C₂H₅.
 
-
 **Composés inorganiques**
 
 * L'eau : H₂O
@@ -161,7 +152,6 @@ La formule empirique du calomel est HgCl.
 * Formule développée du dimère de NO₂, le tétroxyde de diazote de formule brute N₂O₄.
 * Modèle moléculaire du ferrocène, composé inorganique de formule moléculaire (C₅H₅)₂Fe.
 
-
 ## [Formules structurales](https://fr.wikipedia.org/wiki/Formule_brute#Formules_structurales)
 
 La formule structurale donne des informations partielles ou complètes sur la façon dont les atomes d'une molécule sont connectés et arrangés dans l'espace. Dans les cas simples, une formule en ligne qui est juste une séquence de symboles atomiques (donc une formule brute) donne une information structurale permettant au lecteur de décoder des informations structurales.
@@ -180,11 +170,9 @@ Dès que la structure du composé est plus complexe, il devient nécessaire d'in
    * par exemple dans le complexe de chlorodicarbonylerhodium(I) : [{Rh(µ-Cl)(CO)₂}₂].
 * Complexe de rhodium possédant des ligands pontant (préfixés µ) de formule brute [{Rh(µ-Cl)(CO)₂}₂]
 
-
 ## [Ordre d'apparition des éléments chimiques](https://fr.wikipedia.org/wiki/Formule_brute#Ordre_d%27apparition_des_%C3%A9l%C3%A9ments_chimiques)
 
 Plusieurs règles doivent être appliquées suivant les classes de formules. Par exemple, l'ordre d'écriture des éléments chimiques ne respecte pas les mêmes règles pour les composés binaires ou les composés à atome central.
-
 
 ### [Généralités](https://fr.wikipedia.org/wiki/Formule_brute#G%C3%A9n%C3%A9ralit%C3%A9s)
 
@@ -220,7 +208,6 @@ Ordre de préséance des éléments chimiques dans une formule en ligne suivant 
 | | Po | Te | Se | S | O |
 | | At | I | Br | Cl | F |
 
-
 ### [Composés binaires](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_binaires)
 
 Pour un composé binaire, l'ordre est celui de l'électronégativité au sens du tableau ci-dessus. Ainsi il faut écrire :
@@ -230,7 +217,6 @@ Pour un composé binaire, l'ordre est celui de l'électronégativité au sens du
 * OF₂
 * P₂O₇⁴⁻
 * OCl⁻ (et non ClO⁻ comme c'est souvent rencontré)
-
 
 ### [Composés de coordination](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_de_coordination)
 
@@ -242,14 +228,12 @@ Les composés de coordination ou les composés à atome central s'écrivent en c
 
 À noter que dans ce dernier exemple, le changement de la formule du ligand éthylènediamine par son abréviation change l'ordre d'apparition des ligands dans la formule.
 
-
 ### [Composés en chaînes](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_en_cha%C3%AEnes)
 
 Les composés dont les atomes forment une chaine sont écrits dans l'ordre (chimique) de la chaîne. Par exemple :
 
 * l'ion thiocyanate s'écrit SCN⁻ et non CNS⁻ qui serait l'ordre d'électronégativité au sens ci-dessus ou l'ordre alphabétique car sa formule développée est S=C=N⁻ ;
 * l'acide isocyanique s'écrit HNCO car sa formule développée est H-N=C=O.
-
 
 ### [Sels et composés assimilés](https://fr.wikipedia.org/wiki/Formule_brute#Sels_et_compos%C3%A9s_assimil%C3%A9s)
 
@@ -262,7 +246,6 @@ Les sels doivent avoir la formule ou le symbole du cation écrit avant celle ou 
 
 L'IUPAC ne précise pas l'usage des parenthèses et des crochets.
 
-
 ### [Composés d'addition (formels)](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_d%27addition_%28formels%29)
 
 Sous cette dénomination, l'IUPAC regroupe les sels doubles, les hydrates, etc. L'eau est toujours écrite en dernier et les différents sels doivent être écrits par quantité croissante, et à nombre égal par ordre alphabétique. Les différentes entités sont séparés par un point [dans la nomenclature anglaise du moins]. Ainsi si deux sels SEL1 et SEL2 sont associés, il faut écrire (SEL2)·(SEL1)₃ et non (SEL1)₃(SEL2). Par exemple :
@@ -271,16 +254,13 @@ Sous cette dénomination, l'IUPAC regroupe les sels doubles, les hydrates, etc. 
 * Al₂(SO₄)₃·K₂SO₄·24H₂O
 * BF₃·2MeOH
 
-
 ## [Modification isotopique](https://fr.wikipedia.org/wiki/Formule_brute#Modification_isotopique)
 
 La modification isotopique s'indique dans les formules. Trois cas sont possibles : le cas de l'atome, celui d'un composé spécifiquement marqué ou d'un composé sélectivement marqué.
 
-
 ### [Cas des atomes](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_atomes)
 
 La masse d'un nucléide se note en exposant avant le symbole correspondant. Par exemple ²H, ³⁵Cl.
-
 
 ### [Cas des composés spécifiquement marqués](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_compos%C3%A9s_sp%C3%A9cifiquement_marqu%C3%A9s)
 
@@ -290,7 +270,6 @@ Un composé est spécifiquement marqué quand un unique composé isotopiquement 
 * [³²P]Cl₃
 * [¹⁵N]H₂[²H]
 
-
 ### [Cas des composés sélectivement marqués](https://fr.wikipedia.org/wiki/Formule_brute#Cas_des_compos%C3%A9s_s%C3%A9lectivement_marqu%C3%A9s)
 
 Un composé sélectivement marqué peut être considéré comme un mélange de composés spécifiquement marqués. Il est représenté en faisant précéder la formule par le symbole du nucléide sans indice multiplicateur entre crochets. Par exemple :
@@ -298,11 +277,9 @@ Un composé sélectivement marqué peut être considéré comme un mélange de c
 * [³⁶Cl]SOCl₂ indique que le chlorure de thionyle de formule SOCl₂ est substitué par un ou deux ³⁶Cl.
 * [²H]PH₃
 
-
 ## [Marqueurs optionnels structuraux](https://fr.wikipedia.org/wiki/Formule_brute#Marqueurs_optionnels_structuraux)
 
 Certains marqueurs informent sur le nombre d'oxydation, sur la stéréochimie, etc.
-
 
 ### [Nombre d'oxydation](https://fr.wikipedia.org/wiki/Formule_brute#Nombre_d%27oxydation)
 
@@ -311,7 +288,6 @@ Le nombre d'oxydation d'un élément dans une formule peut être indiqué par un
 * [Pⱽ₂Mo₁₈O₆₂]⁶⁻
 * K[Osⱽᴵᴵᴵ(N)O₃]
 * [Moⱽ₂Moⱽᴵ₄O₁₈]²⁻
-
 
 ### [Radicaux libres](https://fr.wikipedia.org/wiki/Formule_brute#Radicaux_libres)
 
@@ -329,7 +305,6 @@ Exemples :
 * O₂²•
 * NO⁽²•⁾⁻
 
-
 ### [Composés optiquement actifs](https://fr.wikipedia.org/wiki/Formule_brute#Compos%C3%A9s_optiquement_actifs)
 
 Le signe de rotation optique peut être indiqué. Il se place entre parenthèses et la longueur d'onde en nm peut aussi être indiquée en indice à droite. Ces informations optionnelles sont placées avant la formule.
@@ -338,11 +313,9 @@ Exemple :
 
 * (+)₅₈₉-[Co(en)₃]Cl₃
 
-
 ### [États excités](https://fr.wikipedia.org/wiki/Formule_brute#%C3%89tats_excit%C3%A9s)
 
 Les états électroniques excités sont indiqués par un astérisque en exposant à droite. Exemple NO*
-
 
 ### [Descripteurs structuraux](https://fr.wikipedia.org/wiki/Formule_brute#Descripteurs_structuraux)
 
@@ -358,7 +331,6 @@ Cette dernière formule indique que deux complexes Cr(NH₃)₅ sont reliés par
 * Complexe octaédrique de platine de formule structurale trans-[PtCl₄(NH₃)₂]
 * Complexe dinucléaire de chrome avec un ligand hydroxyde pontant de formule structurale [(H₃N)₅Cr(µ-OH)Cr(NH₃)₅]⁵⁺
 
-
 ## [Détermination expérimentale](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination_exp%C3%A9rimentale)
 
 Une formule brute se détermine par une analyse élémentaire. Pendant longtemps, cette analyse a résulté de titrages. Elle s'effectue en deux temps :
@@ -366,15 +338,13 @@ Une formule brute se détermine par une analyse élémentaire. Pendant longtemps
 * détermination de la formule empirique ;
 * détermination de la formule brute.
 
-
 ### [Détermination de la formule empirique](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination_de_la_formule_empirique)
 
-Le composé dont la formule brute doit être déterminée est minéralisé. Par exemple, si c'est un hydrocarbure, une masse m précisément connue de ce composé est brûlée et transformée en CO₂ et H₂O. Les produits de combustion sont passés dans de l'acide sulfurique concentré qui fixe l'eau et pas CO₂. L'augmentation de masse renseigne sur la quantité de H₂O, donc de H, dans la formule étudiée. Puis les produits de combustion barbottent ensuite dans une quantité précisément connue de soude. Le dioxyde de carbone (qui est un acide) en neutralise donc une partie. Un dosage acido-basique en retour de la soude (par de l'acide chlorhydrique de titre connu) donne la quantité de CO₂ produit et donc de carbone dans le composé. Une telle analyse indique que dans la masse m de composé, il y a les masses m_H d'élément hydrogène et m_C d'élément carbone.
+Le composé dont la formule brute doit être déterminée est minéralisé. Par exemple, si c'est un hydrocarbure, une masse m précisément connue de ce composé est brûlée et transformée en CO₂ et H₂O. Les produits de combustion sont passés dans de l'acide sulfurique concentré qui fixe l'eau et pas CO₂. L'augmentation de masse renseigne sur la quantité de H₂O, donc de H, dans la formule étudiée. Puis les produits de combustion barbottent ensuite dans une quantité précisément connue de soude. Le dioxyde de carbone (qui est un acide) en neutralise donc une partie. Un dosage acido-basique en retour de la soude (par de l'acide chlorhydrique de titre connu) donne la quantité de CO₂ produit et donc de carbone dans le composé. Une telle analyse indique que dans la masse m de composé, il y a les masses m$_H$ d'élément hydrogène et m$_C$ d'élément carbone.
 
-* Un premier test est que la somme m_H + m_C soit égal à m, faute de quoi d'autres éléments chimiques sont présents dans la formule à déterminer.
+* Un premier test est que la somme m$_H$ + m$_C$ soit égal à m, faute de quoi d'autres éléments chimiques sont présents dans la formule à déterminer.
 * La seconde étape est de remonter à la quantité de matière de C et de H. Le rapport de ces quantités de matière est égal au rapport de la stœchiométrie de C et de H dans la formule.
 * Cela permet donc de remonter à la formule empirique (et non à la formule brute).
-
 
 ### [Détermination](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination)
 
@@ -382,7 +352,6 @@ Pour déduire la formule brute de la formule empirique, il faut soit :
 
 * formuler une ou des hypothèses sur le composé. Par exemple, si l'enjeu est de déterminer la formule d'un composé de coordination comme le sulfate de cuivre, l'hypothèse peut être qu'il n'y a qu'un seul élément cuivre par complexe. Cela permet d'en déduire tous les autres nombres stœchiométriques ;
 * déterminer la masse molaire par une méthode expérimentale comme la méthode de la pression osmotique, de la cryoscopie, de la spectrométrie de masse, etc. De la valeur de la masse molaire, il est possible de passer de la formule empirique à la formule brute.
-
 
 ### [Détermination de la formule brute dans le passé](https://fr.wikipedia.org/wiki/Formule_brute#D%C3%A9termination_de_la_formule_brute_dans_le_pass%C3%A9)
 
@@ -395,7 +364,6 @@ Les premières analyses élémentaires datent du début du XIXᵉ siècle. Des 
 * l'élément oxygène est transformé en O₂ dans un mélange de gaz. O₂ est détruit par un volume mesuré de H₂, ce qui donne accès précisément à sa quantité ;
 * l'élément azote, par exemple dans les alcaloïdes, est déterminé par formation de diazote N₂. Tous les autres gaz sont adsorbés, ce dernier étant ainsi déterminé ;
 * l'élément soufre est transformé par oxydation en ions sulfate, précipités par des ions baryum. La pesée du sulfate de baryum permet de remonter à la quantité d'élément soufre avec une bonne précision, vu le rapport de leurs masses molaires respectives.
-
 
 ### [Usage actuel de la formule brute en chimie](https://fr.wikipedia.org/wiki/Formule_brute#Usage_actuel_de_la_formule_brute_en_chimie)
 

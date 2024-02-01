@@ -11,11 +11,12 @@
    * [Locution-phrase](#locutionphrase)
 ---
 # [qui trop écoute la météo, passe sa vie au bistro](https://fr.wiktionary.org/wiki/qui_trop_%C3%A9coute_la_m%C3%A9t%C3%A9o%2C_passe_sa_vie_au_bistro)
+
 ## [Français](https://fr.wiktionary.org/wiki/qui_trop_%C3%A9coute_la_m%C3%A9t%C3%A9o%2C_passe_sa_vie_au_bistro#Fran%C3%A7ais)
+
 ### [Étymologie](https://fr.wiktionary.org/wiki/qui_trop_%C3%A9coute_la_m%C3%A9t%C3%A9o%2C_passe_sa_vie_au_bistro#%C3%89tymologie)
 
     Composé de qui, trop, écouter, la, météo, passer sa vie et au.
-
 
 ### [Locution-phrase](https://fr.wiktionary.org/wiki/qui_trop_%C3%A9coute_la_m%C3%A9t%C3%A9o%2C_passe_sa_vie_au_bistro#Locution-phrase)
 

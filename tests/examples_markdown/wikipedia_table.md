@@ -29,8 +29,8 @@
 
 L'Afrique du Sud participe aux Jeux olympiques d'été de 2016 à Rio de Janeiro au Brésil du 5 août au 21 août. Il s'agit de sa 19ᵉ participation à des Jeux d'été.
 
-
 ## [Médaillés](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#M%C3%A9daill%C3%A9s)
+
 ### [Médailles d'or](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#M%C3%A9dailles_d%27or)
 
 | Sport | Discipline | Athlète(s) | Performance | Date |
@@ -81,9 +81,10 @@ Médailles par sexe :
 | Mixte | 0 | 0 | 0 | 0 |
 | Total | 2 | 6 | 2 | 10 |
 
-
 ## [Athlétisme](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Athl%C3%A9tisme)
+
 ### [Hommes](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Hommes)
+
 **Course**
 
 | Athlète | Compétition | Séries | Séries | Demi-Finales | Demi-Finales | Finale | Finale |
@@ -110,7 +111,6 @@ Médailles par sexe :
 | Wayne Snyman | 20 km marche | NC | NC | NC | NC | 1 h 29 min 20 s | 58ᵉ |
 | Marc Mundell | 50 km marche | NC | NC | NC | NC | 4 h 11 min 03 s | 38ᵉ |
 
-
 **Concours**
 
 | Athlétes | Compétitions | Série | Série | Finale | Finale |
@@ -121,8 +121,8 @@ Médailles par sexe :
 | Stefan Brijs | Saut en longueur | 7,71 m | 22ᵉ | Eliminé | Eliminé |
 | Rocco van Rooyen | Lancer du javelot | 78,48 m | 24ᵉ | Eliminé | Eliminé |
 
-
 ### [Femmes](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Femmes)
+
 **Course**
 
 | Athlètes | Compétitions | Série | Série | Demi-Finales | Demi-Finales | Finale | Finale |
@@ -142,11 +142,9 @@ Médailles par sexe :
 | Wenda Nel | 400 mètres haies | 55 s 55 | 2ᵉ | 55 s 83 | 6ᵉ | Eliminé | Eliminé |
 | Anel Oosthuizen | 20 km marche | NC | NC | NC | NC | 1 h 45 min 06 | 63ᵉ |
 
-
 ### [Aviron](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Aviron)
 
 Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = finale C (pas de médaille) ; FD = finale D (pas de médaille) ; FE = finale E (pas de médaille) ; FF = finale F (pas de médaille) ; SA/B = demi-finales A/B ; SC/D = demi-finales C/D ; SE/F = demi-finales E/F ; QF = quarts de finale; R= repêchage
-
 
 **Hommes**
 
@@ -157,7 +155,6 @@ Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = 
 | John Smith James Thompson | Deux de couple poids légers | 6 min 23 s 10 | 1 SA/B | Exempt | Exempt | 6 min 38 s 01 | 1 FA | 6 min 33 s 29 | 4 |
 | Vincent Breet Jake Green David Hunt Jonty Smith | Quatre sans barreur | 6 min 01 s 64 | 4 R | 6 min 34 s 97 | 1 SA/B | 6 min 15 s 22 | 2 FA | 6 min 05 s 80 | 4 |
 
-
 **Femmes**
 
 | Athlète | Compétition | Séries | Séries | Repêchage | Repêchage | Demi-finales | Demi-finales | Finale | Finale |
@@ -166,7 +163,6 @@ Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = 
 | Kate Christowitz Lee-Ann Persse | Deux de couple | 7 min 11 s 29 | 2 SA/B | Exempt | Exempt | 7 min 24 s 03 | 3 FA | 7 min 28 s 50 | 5 |
 | Ursula Grobler Kirsten McCann | Deux de couple poids légers | 7 min 07 s 37 | 1 SA/B | Exempt | Exempt | 7 min 19 s 09 | 1 FA | 7 min 11 s 26 | 5 |
 
-
 ## [Badminton](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Badminton)
 
 | Athlète | Compétition | Phase de groupes | Phase de groupes | Phase de groupes | Phase de groupes | 1/8 de finale | Quarts de finale | Demi-finales | Finale | Finale |
@@ -174,8 +170,8 @@ Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = 
 | Athlète | Compétition | Adversaire Score | Adversaire Score | Adversaire Score | Rang | Adversaire Score | Adversaire Score | Adversaire Score | Adversaire Score | Rang |
 | Jacob Maliekal | Simple hommes | Pochtarev (UKR) W 2-0 (21-18, 21-19) | Son (KOR) L 0-2 (10-21, 10-21) | N/A | 2ᵉ | Éliminé | Éliminé | Éliminé | Éliminé | Éliminé |
 
-
 ## [Cyclisme](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Cyclisme)
+
 ### [Cyclisme sur route](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Cyclisme_sur_route)
 
 | Athlète | Compétition | Temps | Rang |
@@ -186,13 +182,11 @@ Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = 
 | Ashleigh Moolman | Contre-la-montre femmes | 46 min 29 s 11 | 12ᵉ |
 | An-Li Kachelhoffer | Course en ligne femmes | 4 h 01 min 29 s | 39ᵉ |
 
-
 ### [VTT](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#VTT)
 
 | Athlète | Compétition | Temps | Rang |
 | - | - | - | - |
 | | Cross-country VTT hommes | | |
-
 
 ### [BMX](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#BMX)
 
@@ -201,14 +195,13 @@ Légende: FA = finale A (médaille) ; FB = finale B (pas de médaille) ; FC = 
 | Athlète | Compétition | Résultat | Rang | Résultat | Rang | Résultat | Rang | Résultat | Rang |
 | Kyle Dodd | BMX hommes | 36 s 545 | 26ᵉ | 14 | 6ᵉ | | | | |
 
-
 ## [Football](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Football)
+
 ### [Tournoi masculin](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Tournoi_masculin)
 
 L'équipe d'Afrique du Sud olympique de football gagne sa place pour les Jeux en terminant troisième de la Coupe d'Afrique des nations des moins de 23 ans 2015.
 
 Le tirage au sort la place dans le groupe A, avec le Brésil, le Danemark et l'Irak.
-
 
 **Matchs de poule**
 
@@ -221,11 +214,9 @@ Classement :
 | 3 | Brésil | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 4 | Afrique du Sud | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 
-
 ### [Tournoi féminin](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Tournoi_f%C3%A9minin)
 
 L'équipe d'Afrique du Sud féminine de football gagne sa place pour les Jeux lors du tournoi de qualification africain 2015. Classée 54ᵉ nation au classement FIFA au 25 mars 2016, elle est mise dans le chapeau 4 lors du tirage au sort. Elle est finalement placée dans le groupe E, en compagnie du Brésil, de la Chine et de la Suède.
-
 
 **Matchs de poule**
 
@@ -240,7 +231,6 @@ Classement :
 
 Équipe qualifiée; Pts = points ; J = joués ; G = gagnés ; N = nuls ; P = perdus; Bp = buts pour ; Bc = buts contre ; Diff = différence de buts
 
-
 ## [Natation](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Natation)
 
 Hommes :
@@ -254,12 +244,11 @@ Hommes :
 | Myles Brown | 400 m libre | 3 min 45 s 92 | 12ᵉ | NC | NC | Éliminé | Éliminé |
 | Cameron van der Burgh | 100 m brasse | 59 s 35 | 7ᵉ Q | 59 s 21 | 3ᵉ Q | 58 s 69 | |
 
-
 ## [Rugby à sept](https://fr.wikipedia.org/wiki/Afrique_du_Sud_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2016#Rugby_%C3%A0_sept)
+
 ### Tournoi masculin
 
 L'équipe d'Afrique du Sud de rugby à sept gagne sa place en terminant deuxième des World Rugby Sevens Series 2014-2015.
-
 
 **Effectif**
 
@@ -279,7 +268,6 @@ Sélection :
 * Seabelo Senatla
 
 Entraîneur principal : Neil Powell
-
 
 **Phase de poules**
 
@@ -304,24 +292,20 @@ Le détail des rencontres de poule de l'équipe est le suivant :
 | 9 août 2016 16 h 30 UTC-3 | Essai(s) : Geduld (1ʳᵉ), Smith (4ᵉ), Brown (6ᵉ), Sage (12ᵉ) Transformation(s) : Afrika (1ʳᵉ, 4ᵉ, 12ᵉ) | | | stade de Deodoro, Rio de Janeiro |
 | 10 août 2016 11 h 30 UTC-3 | Afrique du Sud | 5 - 12 | Australie | stade de Deodoro, Rio de Janeiro |
 
-
 **Quarts de finale**
 
 | 10 août 2016 18 h 30 UTC-3 | Afrique du Sud | 22 - 5 | Australie | stade de Deodoro, Rio de Janeiro |
 | - | - | - | - | - |
-
 
 **Demi-finales**
 
 | 11 août 2016 15 h UTC-3 | Grande-Bretagne | 7 - 5 | Afrique du Sud | stade de Deodoro, Rio de Janeiro |
 | - | - | - | - | - |
 
-
 **Match pour la médaille de bronze**
 
 | 11 août 2016 18 h 30 UTC-3 | Japon | 14 - 52 | Afrique du Sud | stade de Deodoro, Rio de Janeiro |
 | - | - | - | - | - |
-
 
 ### Tournoi féminin
 
