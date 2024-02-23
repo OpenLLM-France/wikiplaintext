@@ -440,7 +440,7 @@ IGNORE_FROM_SECTION = {
         "fr": [
             "Notes",
             "Notes et références",
-            "Références",
+            "Références", "Référence",
             "Voir aussi", "Pour approfondir",
             "Liens externes",
             "Bibliographie",
@@ -450,7 +450,7 @@ IGNORE_FROM_SECTION = {
         "en": [
             "Notes",
             "Notes and references",
-            "References",
+            "References", "Reference",
             "See also", "Further reading",
             "External links",
             "Bibliography",
@@ -468,12 +468,21 @@ IGNORE_FROM_SECTION = {
         ],
         "es": [
             "Notas",
-            "Referencias", #"Bibliografía",
+            "Referencias", "Referencia", #"Bibliografía",
             "Véase también",
             "Enlaces externos",
             "Anexos",
             "Artículos relacionados",
-        ]
+        ],
+        "it": [
+            "Note",
+            "Note e riferimenti",
+            "Riferimenti",
+            "Voci correlate",
+            "Bibliografia",
+            "Altri progetti",
+            "Collegamenti esterni",
+        ],
     },
 }
 
@@ -483,6 +492,7 @@ LINKS_TO_DISCARD_FUN = {
     "en": lambda text: bool(re.search(r"\bedit\b", text)),
     "de": lambda text: bool(re.search(r"\bbearbeiten\b", text, flags=re.IGNORECASE)),
     "es": lambda text: bool(re.search(r"\beditar\b", text)),
+    "it": lambda text: bool(re.search(r"\bmodifica\b", text)),
 }
 
 # All HTML object (tables, ...) following those conditions will be discarded
@@ -496,10 +506,11 @@ END_HEADER = "␣:"
 PROTECTED_SPACE = "␣␣␣"
 
 SUPERSCRIPTS_TO_AVOID = {
-    "fr" : ["e", "er", "re", "ère", "ème", "nd", "nde"],
+    "fr" : ["e", "er", "re", "ère", "ème", "nd", "nde", "me"],
     "es" : ["a", "o", "er", "ra", "ro", "nda", "ndo"],
     "en" : ["st", "nd", "rd", "th"],
     "de": ["er", "re", "nd", "nde"],
+    "it": ["a", "o", "er", "ra", "ro", "nda", "ndo"],
 }
 
 SUBSCRIPTS_TO_AVOID = {
