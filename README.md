@@ -11,14 +11,20 @@ Examples of output can be found in the folder [tests/examples_markdown](tests/ex
 * [Wikisource page](tests/examples_markdown/wikisource.md)
 * [Wiktionary page](tests/examples_markdown/wiktionary_foreign_germanic.md)
 
-This code was used to generate the HuggingFace datasets:
-* [OpenLLM-France/wikipedia.fr](https://huggingface.co/datasets/OpenLLM-France/wikipedia.fr)
-* [OpenLLM-France/wiktionary.fr](https://huggingface.co/datasets/OpenLLM-France/wiktionary.fr)
-* [OpenLLM-France/wikisource.fr](https://huggingface.co/datasets/OpenLLM-France/wikisource.fr)
+This code was used to generate the Hugging Face datasets:
+* Wikipedia:
+    * [OpenLLM-France/wikipedia.en](https://huggingface.co/datasets/OpenLLM-France/wikipedia.en)
+    * [OpenLLM-France/wikipedia.fr](https://huggingface.co/datasets/OpenLLM-France/wikipedia.fr)
+    * [OpenLLM-France/wikipedia.de](https://huggingface.co/datasets/OpenLLM-France/wikipedia.de)
+    * [OpenLLM-France/wikipedia.es](https://huggingface.co/datasets/OpenLLM-France/wikipedia.es)
+* Wiktionary:
+    * [OpenLLM-France/wikisource.fr](https://huggingface.co/datasets/OpenLLM-France/wikisource.fr)
+* Wikisource:
+    * [OpenLLM-France/wiktionary.fr](https://huggingface.co/datasets/OpenLLM-France/wiktionary.fr)
 
-Those datasets are supposed to be cleaner and more complete than French subsets of [Wikimedia datasets](https://huggingface.co/datasets/wikimedia):
-* [wikimedia/wikipedia (20231201.fr)](https://huggingface.co/datasets/wikimedia/wikipedia/viewer/20231101.fr) is missing the information behind the template. See [discussion here](https://huggingface.co/datasets/wikimedia/wikipedia/discussions/51).
-* [wikimedia/wikisource (20231201.fr)](https://huggingface.co/datasets/wikimedia/wikisource/viewer/20231201.fr) is an incomplete dump (only contains 13 millions of words) and sometimes includes raw HTML code.
+Those datasets are supposed to be cleaner and more complete than corresponding subsets of [Wikimedia datasets on Hugging Face](https://huggingface.co/datasets/wikimedia):
+* [wikimedia/wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia/viewer/20231101.fr) is missing the information behind the template. See [discussion here](https://huggingface.co/datasets/wikimedia/wikipedia/discussions/51).
+* [wikimedia/wikisource](https://huggingface.co/datasets/wikimedia/wikisource/viewer/20231201.fr) is an incomplete dump (only contains 13 millions of words) and sometimes includes raw HTML code.
 
 ---
 
@@ -133,7 +139,7 @@ This will generate plain text files in subfolder
 For Wikisource, it is a bit different because the Wikimedia dump is quite incomplete.
 
 So the process consists in the following:
-1. get all the page titles from the latest [HuggingFace dataset from Wikimedia](https://huggingface.co/datasets/wikimedia/wikisource)
+1. get all the page titles from the latest [Hugging Face dataset from Wikimedia](https://huggingface.co/datasets/wikimedia/wikisource)
 2. download the HTML pages from the [Wikimedia API](https://www.mediawiki.org/wiki/API:Main_page)
 3. parse the HTML pages and get the plain text
 
@@ -163,4 +169,4 @@ python dump_wikisource_api2.py \
 ## Acknowledgements
 
 * [Wikimedia](https://www.wikimedia.org/)
-* [HuggingFace](https://huggingface.co/) for hosting the datasets
+* [Hugging Face](https://huggingface.co/) for hosting the datasets
