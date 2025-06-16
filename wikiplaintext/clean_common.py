@@ -483,8 +483,38 @@ IGNORE_FROM_SECTION = {
             "Altri progetti",
             "Collegamenti esterni",
         ],
+        "pt": [
+            "Notas",
+            "Referências", "Referência",
+            "Notas e referências",
+            "Ver também", "Leitura adicional",
+            "Ligações externas",
+            "Bibliografia",
+            "Anexos",
+            "Artigos relacionados",
+        ],
+        "nl": [
+            "Noten",
+            "Referenties", "Bronnen",
+            "Bronnen en referenties",
+            "Zie ook", "Verder lezen",
+            "Externe links",
+            "Bibliografie",
+            "Bijlagen",
+            "Gerelateerde artikelen",
+        ],
+        "ar": [
+            "ملاحظات",
+            "المراجع", "مصادر",
+            "المراجع والمصادر",
+            "انظر أيضًا", "قراءة إضافية",
+            "روابط خارجية",
+            "ملاحق",
+            "مقالات ذات صلة",
+        ],
     },
 }
+IGNORE_FROM_SECTION["wikiversity"] = IGNORE_FROM_SECTION["wikipedia"]
 
 # Linked text following those conditions will be discarded
 LINKS_TO_DISCARD_FUN = {
@@ -493,6 +523,9 @@ LINKS_TO_DISCARD_FUN = {
     "de": lambda text: bool(re.search(r"\bbearbeiten\b", text, flags=re.IGNORECASE)),
     "es": lambda text: bool(re.search(r"\beditar\b", text)),
     "it": lambda text: bool(re.search(r"\bmodifica\b", text)),
+    "pt": lambda text: bool(re.search(r"\beditar\b", text)),
+    "nl": lambda text: bool(re.search(r"\bbewerken\b", text)),
+    "ar": lambda text: bool(re.search(r"\bتعديل\b", text)),
 }
 
 # All HTML object (tables, ...) following those conditions will be discarded
