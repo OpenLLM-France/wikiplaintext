@@ -10,11 +10,11 @@ import os, shutil
 from tqdm import tqdm
 import regex as re
 
-import tarfile, gzip
+import tarfile
 import json
 import requests
 import glob
-from slugify import slugify
+import pandas as pd
 import warnings
 
 from clean_html import clean_html
@@ -31,6 +31,7 @@ def dump_wiki_html_plaintext(
     prefix="",
     clean_text=True,
     per_json=10000,
+    output_parquet=True,
     dump_html=False,
     dump_html_redirection=False,
     keep_tables=True,
@@ -45,12 +46,31 @@ def dump_wiki_html_plaintext(
         s, n = subset
         all_files = all_files[s::n]
 
-    for i_group, json_file in enumerate(tqdm(all_files, desc="Extract Wikipedia", unit="json file", disable=not verbose)):
+    if source == "wiki":
+        source = "wikipedia"
+
+    for i_group, json_file in enumerate(tqdm(all_files, desc="Extract "+source.capitalize(), unit="json file", disable=not verbose)):
         
         if not json_file.endswith(".ndjson"):
             continue
         subfolder = "." if not per_json else os.path.splitext(json_file)[0]
         json_file = os.path.join(json_folder, json_file)
+
+        if output_parquet:
+            output_parquet_folder = os.path.join(
+                output_dir,
+                prefix + "parquet"
+            )
+            parquet_filename = os.path.join(output_parquet_folder, f"{os.path.basename(json_file)[:-len('.ndjson')]}.parquet")
+            if os.path.isfile(parquet_filename):
+                print(f"Skipping parquet dump for {json_file} as {parquet_filename} already exists")
+                continue
+            # Touch the parquet file
+            os.makedirs(output_parquet_folder, exist_ok=True)
+            open(parquet_filename, 'a').close()
+            print(f"Will dump parquet to {parquet_filename}")
+            samples = []
+
         if verbose:
             print(f"Processing {json_file}")
 
@@ -76,6 +96,9 @@ def dump_wiki_html_plaintext(
                 page_title = data["name"]
                 page_id = int(data["identifier"])
                 page_body = data["article_body"]
+                if "html" not in page_body:
+                    warnings.warn(f"Skipping {page_title} as it has no html body")
+                    continue
                 page_body = page_body["html"]
                 filename = f"{page_id}_{simple_slugify(page_title)}"
 
@@ -86,7 +109,7 @@ def dump_wiki_html_plaintext(
 
                 anomaly_redirection = None
                 if is_redirect:
-                    if not ("#REDIRECTION" in page_body or "mw:PageProp/redirect" in page_body or "Redirect" in page_body):
+                    if not ("#REDIRECTION" in page_body or "mw:PageProp/redirect" in page_body or "Redirect" in page_body or "style" in page_title.lower()):
                         anomaly_redirection = f"{page_title} has no category but don't seem to be a redirection --> check in ./{prefix}html/redirects/{filename}.html"
 
                 html_filename, cleaned_filename = [os.path.join(
@@ -134,14 +157,30 @@ def dump_wiki_html_plaintext(
                     if not text or not re.search("\n", text):
                         # warnings.warn(f"no text in {page_title}")
                         continue
-                    os.makedirs(os.path.dirname(cleaned_filename), exist_ok=True)
-                    try:
-                        with open(cleaned_filename, "w") as f:
-                            f.write(text)
-                    except (Exception, KeyboardInterrupt) as err:
-                        if os.path.exists(cleaned_filename):
-                            os.remove(cleaned_filename)
-                        raise err
+                    if output_parquet:
+                        page_url = data.get("url", "")
+                        samples.append([page_id, page_title, page_url, language, source, text])
+                    else:
+                        os.makedirs(os.path.dirname(cleaned_filename), exist_ok=True)
+                        try:
+                            with open(cleaned_filename, "w") as f:
+                                f.write(text)
+                        except (Exception, KeyboardInterrupt) as err:
+                            if os.path.exists(cleaned_filename):
+                                os.remove(cleaned_filename)
+                            raise err
+
+        if output_parquet and len(samples):
+            os.makedirs(os.path.dirname(parquet_filename), exist_ok=True)
+            try:
+                pd.DataFrame(
+                    samples,
+                    columns=["id", "title", "url", "language", "source", "text"]
+                ).to_parquet(parquet_filename, index=False)
+            except (Exception, KeyboardInterrupt) as err:
+                if os.path.exists(parquet_filename):
+                    os.remove(parquet_filename)
+                raise err
 
 
 def download_html_dump(url, version, language, source, output_dir, verbose=True, do_clean=False):
