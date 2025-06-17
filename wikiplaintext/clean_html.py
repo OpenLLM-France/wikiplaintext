@@ -35,7 +35,7 @@ def clean_html(
     add_title=None,
     keep_tables=True,
     hashtag_header=True,
-    repeat_headers=True,
+    repeat_headers=False,
     use_superscript=True,
     use_latex=True,
     from_dump=None,
@@ -45,7 +45,7 @@ def clean_html(
 
     :param html_string: HTML string or stream
     :param language: Language of the text
-    :param source: Source of the text (wikipedia, wikisource, wiktionary ...)
+    :param source: Source of the text (wiki(pedia), wikisource, wiktionary ...)
     :param add_title: Add a title to the text (if the name of the page is usually not included in the HTML)
     :param hashtag_header: Add hashtags before the headers (# for level 1, ## for level 2, etc.) as in markdown format
     :param repeat_headers: Repeat all headers from previous level at the beginning of each section
