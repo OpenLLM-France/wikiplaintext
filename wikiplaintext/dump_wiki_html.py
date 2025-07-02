@@ -109,8 +109,9 @@ def dump_wiki_html_plaintext(
 
                 anomaly_redirection = None
                 if is_redirect:
-                    if not ("#REDIRECTION" in page_body or "mw:PageProp/redirect" in page_body or "Redirect" in page_body or "style" in page_title.lower()):
-                        anomaly_redirection = f"{page_title} has no category but don't seem to be a redirection --> check in ./{prefix}html/redirects/{filename}.html"
+                    pass
+                    # if not ("#REDIRECTION" in page_body or "mw:PageProp/redirect" in page_body or "Redirect" in page_body or "style" in page_title.lower()):
+                    #     anomaly_redirection = f"{page_title} has no category but don't seem to be a redirection --> check in ./{prefix}html/redirects/{filename}.html"
 
                 html_filename, cleaned_filename = [os.path.join(
                     output_dir,
@@ -268,6 +269,7 @@ if __name__ == "__main__":
                         help="Also dump the HTML files")
     parser.add_argument("--subset", default=None, help="If you want to run several processes in parallel, launch with 1/4, 2/4, ...")
     parser.add_argument("--no_verbose", action="store_true", default=False)
+    parser.add_argument("--only_download", action="store_true", default=False, help="Only download the HTML dump, do not extract text")
     args = parser.parse_args()
 
     subset = args.subset
@@ -304,6 +306,10 @@ if __name__ == "__main__":
         except ProcessLookupError as err:
             print(f"WARNING: {err} for {version}")
             continue
+
+        if args.only_download:
+            print(f"Downloaded {json_folder}. Exiting as --only_download is set.")
+            break
 
         dump_wiki_html_plaintext(
             json_folder,
