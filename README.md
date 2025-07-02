@@ -12,15 +12,10 @@ Examples of output can be found in the folder [tests/examples_markdown](tests/ex
 * [Wiktionary page](tests/examples_markdown/wiktionary_foreign_germanic.md)
 
 This code was used to generate the Hugging Face datasets:
-* Wikipedia:
-    * [OpenLLM-France/wikipedia.en](https://huggingface.co/datasets/OpenLLM-France/wikipedia.en)
-    * [OpenLLM-France/wikipedia.fr](https://huggingface.co/datasets/OpenLLM-France/wikipedia.fr)
-    * [OpenLLM-France/wikipedia.de](https://huggingface.co/datasets/OpenLLM-France/wikipedia.de)
-    * [OpenLLM-France/wikipedia.es](https://huggingface.co/datasets/OpenLLM-France/wikipedia.es)
-* Wiktionary:
-    * [OpenLLM-France/wikisource.fr](https://huggingface.co/datasets/OpenLLM-France/wikisource.fr)
-* Wikisource:
-    * [OpenLLM-France/wiktionary.fr](https://huggingface.co/datasets/OpenLLM-France/wiktionary.fr)
+* Wikimedia: [OpenLLM-France/wikimedia](https://huggingface.co/datasets/OpenLLM-France/wikimedia) (the most recent version of the Wikimedia dumps)
+* Wikipedia: [OpenLLM-France/wikipedia](https://huggingface.co/datasets/OpenLLM-France/wikipedia)
+* Wiktionary: [OpenLLM-France/wikisource](https://huggingface.co/datasets/OpenLLM-France/wikisource) (only in French)
+* Wikisource: [OpenLLM-France/wiktionary](https://huggingface.co/datasets/OpenLLM-France/wiktionary) (only in French)
 
 Those datasets are supposed to be cleaner and more complete than corresponding subsets of [Wikimedia datasets on Hugging Face](https://huggingface.co/datasets/wikimedia):
 * [wikimedia/wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia/viewer/20231101.fr) is missing the information behind the template. See [discussion here](https://huggingface.co/datasets/wikimedia/wikipedia/discussions/51).
@@ -57,9 +52,10 @@ All the scripts in the following are in the subfolder [`wikiplaintext`](wikiplai
 
 The following command will 
 1. Download the latest version of Wikipedia dump from [Wikimedia Enterprise HTML dump](https://dumps.wikimedia.org/other/enterprise_html/runs)
+    <br>_Note:_ do not launch more than 4 downloads in parallel, as it can lead to a 503 error from Wikimedia.
 2. Extract then ndjson files from the dump
-3. Extract one HTML file per Wikipedia page
-4. Parse each HTML file to get a clean plain text, and save it in a file
+3. For each page, extract HTML content and convert it to a clean plain text (markdown format)
+4. Save the resulting plain text files in parquet files in the output directory
 
 ```bash
 python dump_wiki_html.py \
